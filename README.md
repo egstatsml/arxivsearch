@@ -12,10 +12,14 @@ but allows for additional search catagories to be included. The papers for
 each catagory are listed in each corresponding directory.
 
 Currently catagories:
-bnn (Bayesian Neural Netyworks)
-causal
-interpretable
-variational
+[bnn (Bayesian Neural Netyworks)](https://github.com/ethangoan/arxivsearch/tree/master/bnn)
+
+[Causal Machine Learning](https://github.com/ethangoan/arxivsearch/tree/master/causal)
+
+[Interpretable Machine Learning](https://github.com/ethangoan/arxivsearch/tree/master/interpretable)
+
+[Variational (and other approximation) Methods](https://github.com/ethangoan/arxivsearch/tree/master/variational)
+
 
 
 Repo is automatically updated once a week.
