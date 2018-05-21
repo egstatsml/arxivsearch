@@ -1,0 +1,46 @@
+#!/usr/bin/env python
+
+import arxivpy
+import arxivsearch
+import feedparser
+import datetime
+
+import os
+import argparse
+import sys
+
+
+def main(arguments):
+    """
+    main()
+    Description:
+    Will update the list of papers
+    """
+    parser = argparse.ArgumentParser(prog="main",
+                                     epilog=main.__doc__)
+    parser.add_argument('catagory', type=str, default='bnn',
+                        help="catagory we want to search for")
+    parser.add_argument('--days', type=int, default=7,
+                        help="nuymber of days we want to search back for")
+    parser.add_argument('--num', type=int, default=0,
+                        help="number of papers to find")
+    args = parser.parse_args(arguments)
+    search_catagory = get_catagory(args.catagory)
+
+    #get the search terms
+    search_list = search_catagory.format_search()
+    results = []
+    for search in search_list:
+        results.extend(arxivpy.query(search_query=search))
+
+    #now wil remove any elements that are older than the specified date
+    valid_date = datetime.datetime.now() - datetime.timedelta(days=args.days)
+    valid_search = [x for x in search_list
+                    if (x['publish_date'] - valid.date.days > 0)]
+    
+    print valid_date
+    
+    
+    
+if __name__ == "__main__":
+    sys.exit(main(sys.argv[1:]))

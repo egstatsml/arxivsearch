@@ -1,0 +1,75 @@
+#!/usr/bin/env python
+
+import arxivpy
+import feedparser
+import datetime
+import pandas as pd
+
+from arxivsearch.catagory import catagory, get_catagory
+
+import os
+import argparse
+import sys
+
+
+def format_dataframe(df):
+    df = df.drop(['id', 'terms', 'term',
+                  'authors', 'abstract', 'comment',
+             'journal_ref', 'pdf_url'], axis=1)
+    df['title'] = df.apply(
+        lambda row:'[{}] ({})'.format(row['title'], row['url']), axis=1)
+    df['publish_date'] = df.apply(
+        lambda row: row['publish_date'].strftime("%d-%m-%Y"), axis=1)
+    #now drop the unnecesary columns
+    df = df.drop(['url'], axis=1)
+    cols = df.columns
+    # Create a new DataFrame with just the markdown
+    # strings
+    df2 = pd.DataFrame([['---',]*len(cols)], columns=cols)
+    #Create a new concatenated DataFrame
+    df3 = pd.concat([df2, df])
+    return(df3)
+
+
+def main(arguments):
+    """
+    main()
+    Description:
+    Will update the list of papers
+    """
+    parser = argparse.ArgumentParser(prog="main",
+                                     epilog=main.__doc__)
+    parser.add_argument('catagory', type=str, default='bnn',
+                        help="catagory we want to search for")
+    parser.add_argument('--days', type=int, default=7,
+                        help="nuymber of days we want to search back for")
+    parser.add_argument('--num', type=int, default=0,
+                        help="number of papers to find")
+    args = parser.parse_args(arguments)
+    search_catagory = get_catagory(args.catagory)
+
+    #get the search terms
+    search_list = search_catagory.format_search()
+    results = []
+    for search in search_list:
+        results.extend(arxivpy.query(search_query=search))
+
+    #now wil remove any elements that are older than the specified date
+    valid_date = datetime.datetime.now() - datetime.timedelta(days=args.days)
+    valid_date = valid_date.replace(tzinfo=None)
+    valid_search = [x for x in results
+                    if ((x['publish_date'].replace(tzinfo=None) - valid_date).days > 0)]
+    
+    #convert the search results to a df
+    valid_df = pd.DataFrame(valid_search)
+    #format the dataframe before we convert it to markdown
+    markdown_df = format_dataframe(valid_df)
+    #Save as markdown
+    #check the folder exists
+    if(not os.path.isdir(args.catagory)):
+        os.mkdir(args.catagory)
+    markdown_df.to_csv(os.path.join(args.catagory, "nor.md"),
+                       sep="|", index=False, encoding='utf-8')
+    
+if __name__ == "__main__":
+    sys.exit(main(sys.argv[1:]))
