@@ -11,8 +11,9 @@ This project works in a similar (though less comprehensive in implelementation),
 but allows for additional search catagories to be included. The papers for
 each catagory are listed in each corresponding directory.
 
-Currently catagories:
-[bnn (Bayesian Neural Netyworks)](https://github.com/ethangoan/arxivsearch/tree/master/bnn)
+Currently Supported Search Catagories:
+
+[BNNs (Bayesian Neural Netyworks)](https://github.com/ethangoan/arxivsearch/tree/master/bnn)
 
 [Causal Machine Learning](https://github.com/ethangoan/arxivsearch/tree/master/causal)
 
