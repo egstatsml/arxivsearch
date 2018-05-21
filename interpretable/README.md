@@ -1,6 +1,6 @@
 # interpretable
 Click on title for link to paper
-## 2018-05-21 16:08:01.150965
+## 21-05-2018
  
 main_author|publish_date|title
 ---|---|---

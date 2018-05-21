@@ -33,7 +33,6 @@ def main(arguments):
     with open(os.path.join(args.catagory, 'nor.md'), 'r') as temp:
         temp_lines = temp.readlines()
     #see if the actual file exists
-    print temp_lines
     #if an original readme file exists, lets read it and then prepend
     #the data too it
     if(os.path.isfile(os.path.join(args.catagory, 'README.md'))):
@@ -49,8 +48,10 @@ def main(arguments):
     #remove the first line of the readme file as thic contains the title
     readme_lines = readme_lines[2:]
 
-    new_readme = ["# " + args.catagory + '\n', 'Click on title for link to paper\n']
-    new_readme.extend(['## {}\n'.format(datetime.datetime.now()), ' \n'])
+    new_readme = ["# " + args.catagory +
+                  '\n', 'Click on title for link to paper\n']
+    new_readme.extend(['## {}\n'.format(
+        datetime.datetime.now().strftime("%d-%m-%Y")), ' \n'])
     new_readme.extend(temp_lines)
     new_readme.extend(['\n', '\n'])
     new_readme.extend(readme_lines)
