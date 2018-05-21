@@ -17,7 +17,7 @@ def format_dataframe(df):
                   'authors', 'abstract', 'comment',
              'journal_ref', 'pdf_url'], axis=1)
     df['title'] = df.apply(
-        lambda row:'[{}] ({})'.format(row['title'], row['url']), axis=1)
+        lambda row:'[{}]({})'.format(row['title'], row['url']), axis=1)
     df['publish_date'] = df.apply(
         lambda row: row['publish_date'].strftime("%d-%m-%Y"), axis=1)
     #now drop the unnecesary columns

@@ -65,7 +65,8 @@ def main(arguments):
     new_readme.extend([' ', ' '])
     new_readme.extend(readme_lines)
     #now write the file
-    readme.writelines(new_readme)
+    for line in new_readme:
+        readme.write(line)
     #now close the file
     readme.close()
     
