@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-import arxivpy
 import feedparser
 import datetime
 import pandas as pd
@@ -12,22 +11,12 @@ import argparse
 import sys
 
 
-
-
-
-
-
-
-
-
-
-
-
 def main(arguments):
     """
     main()
     Description:
-    Will update the list of papers
+    Will concatenate the list of papers with the README for this 
+    catagory
     """
     parser = argparse.ArgumentParser(prog="main",
                                      epilog=main.__doc__)
@@ -52,7 +41,8 @@ def main(arguments):
         readme_lines = readme.readlines()
         readme.close()
     else:
-        readme_lines = []
+        #creating and empty list a few elements long
+        readme_lines = [' '] * 3
         
     #open the file so we can write to it now
     readme = open(os.path.join(args.catagory, 'README.md'), 'w')

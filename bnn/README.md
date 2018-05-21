@@ -1,6 +1,6 @@
 # bnn
 Click on title for link to paper
-## 2018-05-21 16:00:18.721152
+## 2018-05-21 16:05:34.904276
  
 main_author|publish_date|title
 ---|---|---
@@ -99,7 +99,6 @@ Nathan West|16-05-2018|[Approximating the Void: Learning Stochastic Channel Mode
 Lorenzo Livi|16-05-2018|[Learning Graph Embeddings on Constant-Curvature Manifolds for Change   Detection in Graph Streams](http://arxiv.org/abs/1805.06299v1)
 Stéphane Marchand-Maillet|16-05-2018|[Structured nonlinear variable selection](http://arxiv.org/abs/1805.06258v1)
 Georgios B. Giannakis|16-05-2018|[Semi-Blind Inference of Topologies and Dynamical Processes over Graphs](http://arxiv.org/abs/1805.06095v1)
-Lenka Zdeborová|15-05-2018|[On the glassy nature of the hard phase in inference problems](http://arxiv.org/abs/1805.05857v1)
 Mohammad H. Amin|18-05-2018|[GumBolt: Extending Gumbel trick to Boltzmann priors](http://arxiv.org/abs/1805.07349v1)
 William K. Cheung|18-05-2018|[GANE: A Generative Adversarial Network Embedding](http://arxiv.org/abs/1805.07324v1)
 Michael Prerau|18-05-2018|[Multitaper Spectral Estimation HDP-HMMs for EEG Sleep Inference](http://arxiv.org/abs/1805.07300v1)
@@ -123,6 +122,6 @@ Nathan West|16-05-2018|[Approximating the Void: Learning Stochastic Channel Mode
 Lorenzo Livi|16-05-2018|[Learning Graph Embeddings on Constant-Curvature Manifolds for Change   Detection in Graph Streams](http://arxiv.org/abs/1805.06299v1)
 Stéphane Marchand-Maillet|16-05-2018|[Structured nonlinear variable selection](http://arxiv.org/abs/1805.06258v1)
 Georgios B. Giannakis|16-05-2018|[Semi-Blind Inference of Topologies and Dynamical Processes over Graphs](http://arxiv.org/abs/1805.06095v1)
-Lenka Zdeborová|15-05-2018|[On the glassy nature of the hard phase in inference problems](http://arxiv.org/abs/1805.05857v1)
 
 
+ 
