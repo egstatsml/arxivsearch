@@ -125,6 +125,7 @@ class variational_catagory(catagory):
             'Monte Carlo',
             'MCMC',
             'stochastic',
+            'reparameterization'
         ]
         
         
