@@ -62,6 +62,8 @@ def main(arguments):
     
     #convert the search results to a df
     valid_df = pd.DataFrame(valid_search)
+    #remove repeated entries
+    valid_df.drop_duplicates(subset=['title'])
     #format the dataframe before we convert it to markdown
     markdown_df = format_dataframe(valid_df)
     #Save as markdown
