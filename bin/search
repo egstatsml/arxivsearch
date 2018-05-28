@@ -16,6 +16,8 @@ def format_dataframe(df):
     df = df.drop(['id', 'terms', 'term',
                   'authors', 'abstract', 'comment',
              'journal_ref', 'pdf_url'], axis=1)
+    #remove repeated entries
+    df = df.drop_duplicates(subset=['title'])
     df['title'] = df.apply(
         lambda row:'[{}]({})'.format(row['title'], row['url']), axis=1)
     df['publish_date'] = df.apply(
@@ -62,8 +64,6 @@ def main(arguments):
     
     #convert the search results to a df
     valid_df = pd.DataFrame(valid_search)
-    #remove repeated entries
-    valid_df.drop_duplicates(subset=['title'])
     #format the dataframe before we convert it to markdown
     markdown_df = format_dataframe(valid_df)
     #Save as markdown

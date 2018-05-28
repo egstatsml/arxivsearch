@@ -23,8 +23,7 @@ Currently Supported Search Catagories:
 
 
 
-Repo is automatically updated once a week.
-
+Repo is automatically updated once a week on Monday's 12:30pm AEST (+10 GMT)
 
 ## Install
 ```bash
