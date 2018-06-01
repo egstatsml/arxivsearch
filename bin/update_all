@@ -5,12 +5,12 @@ import datetime
 
 if __name__ == "__main__":
     for search in ['bnn', 'causal', 'variational', 'interpretable']:
-        os.system('./bin/search ' + '--days 30 ' + search)
+        os.system('./bin/search ' + search)
         os.system('./bin/concatenate ' + search)
-
-    #now push it all to git
-    #os.system('git add *')
-    #os.system('git commit -m \" update {} \" '.format(
-    #    datetime.datetime.now().strftime("%d-%m-%Y")))
-    #os.system('git push origin master')
+        
+        #now push it all to git
+    os.system('git add *')
+    os.system('git commit -m \" update {} \" '.format(
+        datetime.datetime.now().strftime("%d-%m-%Y")))
+    os.system('git push origin master')
     
