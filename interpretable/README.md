@@ -1,5 +1,34 @@
 # interpretable
 Click on title for link to paper
+## 04-06-2018
+ 
+main_author|publish_date|title
+---|---|---
+Ajmal Mian|01-06-2018|[Video Description: A Survey of Methods, Datasets and Evaluation Metrics](http://arxiv.org/abs/1806.00186v1)
+Min Xu|31-05-2018|[Respond-CAM: Analyzing Deep Models for 3D Imaging Data by Visualizations](http://arxiv.org/abs/1806.00102v1)
+Adel M. Alimi|31-05-2018|[Towards a new system for drowsiness detection based on eye blinking and   head posture estimation](http://arxiv.org/abs/1806.00360v1)
+Alexander Schlaefer|30-05-2018|[Needle Tip Force Estimation using an OCT Fiber and a Fused convGRU-CNN   Architecture](http://arxiv.org/abs/1805.11911v1)
+Taylor Berg-Kirkpatrick|30-05-2018|[Visual Referring Expression Recognition: What Do Systems Actually Learn?](http://arxiv.org/abs/1805.11818v1)
+Alex C. Kot|30-05-2018|[CRRN: Multi-Scale Guided Concurrent Reflection Removal Network](http://arxiv.org/abs/1805.11802v1)
+John K. Tsotsos|30-05-2018|[Autonomous Vehicles that Interact with Pedestrians:A Survey of Theory   and Practice](http://arxiv.org/abs/1805.11773v1)
+Alberto Del Bimbo|29-05-2018|[Semantic Road Layout Understanding by Generative Adversarial Inpainting](http://arxiv.org/abs/1805.11746v1)
+Emily J. King|01-06-2018|[Musical Instrument Separation on Shift-Invariant Spectrograms via   Stochastic Dictionary Learning](http://arxiv.org/abs/1806.00273v1)
+Anca D. Dragan|31-05-2018|[Probabilistically Safe Robot Planning with Confidence-Based Human   Predictions](http://arxiv.org/abs/1806.00109v1)
+Le Song|31-05-2018|[KG^2: Learning to Reason Science Exam Questions with Contextual   Knowledge Graph Embeddings](http://arxiv.org/abs/1805.12393v1)
+L. Mario Amzel|31-05-2018|[Conformation Clustering of Long MD Protein Dynamics with an Adversarial   Autoencoder](http://arxiv.org/abs/1805.12313v1)
+Soumik Sarkar|31-05-2018|[Root-cause Analysis for Time-series Anomalies via Spatiotemporal   Graphical Modeling in Distributed Complex Systems](http://arxiv.org/abs/1805.12296v1)
+Siddharth Garg|30-05-2018|[Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural   Networks](http://arxiv.org/abs/1805.12185v1)
+Maya Gupta|30-05-2018|[To Trust Or Not To Trust A Classifier](http://arxiv.org/abs/1805.11783v1)
+Keith W. Ross|29-05-2018|[Supervised Policy Update](http://arxiv.org/abs/1805.11706v1)
+Aleksander Madry|29-05-2018|[How Does Batch Normalization Help Optimization? (No, It Is Not About   Internal Covariate Shift)](http://arxiv.org/abs/1805.11604v1)
+Olivier Pietquin|29-05-2018|[Observe and Look Further: Achieving Consistent Performance on Atari](http://arxiv.org/abs/1805.11593v1)
+Lalana Kagal|31-05-2018|[Explaining Explanations: An Approach to Evaluating Interpretability of   Machine Learning](http://arxiv.org/abs/1806.00069v1)
+Nathan Srebro|30-05-2018|[Towards Understanding the Role of Over-Parametrization in Generalization   of Neural Networks](http://arxiv.org/abs/1805.12076v1)
+Michael Witbrock|01-06-2018|[A Systematic Classification of Knowledge, Reasoning, and Context within   the ARC Dataset](http://arxiv.org/abs/1806.00358v1)
+Svitlana Volkova|30-05-2018|[Identifying and Understanding User Reactions to Deceptive and Trusted   Social News Sources](http://arxiv.org/abs/1805.12032v1)
+Percy Liang|30-05-2018|[Planning, Inference and Pragmatics in Sequential Language Games](http://arxiv.org/abs/1805.11774v1)
+
+
 ## 28-05-2018
  
 main_author|publish_date|title
