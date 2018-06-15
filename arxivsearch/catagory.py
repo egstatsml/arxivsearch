@@ -37,6 +37,10 @@ class catagory(object):
             for gen in self.general_terms:
                 search_string = 'cat:{}+AND+(ti:{}+OR+abs:{}+OR+'.format(
                     sub, gen, gen)
+
+                #remove the last +OR+ from the string
+                #and add another +AND+ for the specific terms
+                search_string = search_string[:-4] + ')+AND+('
                 for spec in self.specific_terms:
                     search_string += 'all:' + spec +  '+OR+'
                 #remove the last +OR+ from the string
