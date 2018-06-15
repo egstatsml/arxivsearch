@@ -13,6 +13,18 @@ import sys
 
 
 def format_dataframe(df):
+    #check to see if the data frame is empty
+    #if it is, return an empty data frame
+    if(df.empty):
+        #set the title and publish date to just say
+        #no entries for this week
+        df = pd.DataFrame(data =
+                          {'title':['No papers found this week'],
+                           'publish_date':['NA'],
+                           'main_author':['NA']})
+        return df
+    
+    #otherwise the dataframe hase some entries and we will format it
     df = df.drop(['id', 'terms', 'term',
                   'authors', 'abstract', 'comment',
              'journal_ref', 'pdf_url'], axis=1)
@@ -31,7 +43,7 @@ def format_dataframe(df):
     #Create a new concatenated DataFrame
     df3 = pd.concat([df2, df])
     return(df3)
-
+
 
 def main(arguments):
     """
