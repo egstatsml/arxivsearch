@@ -55,7 +55,7 @@ def main(arguments):
                                      epilog=main.__doc__)
     parser.add_argument('catagory', type=str, default='bnn',
                         help="catagory we want to search for")
-    parser.add_argument('--days', type=int, default=7,
+    parser.add_argument('--days', type=int, default=8,
                         help="nuymber of days we want to search back for")
     parser.add_argument('--num', type=int, default=0,
                         help="number of papers to find")
