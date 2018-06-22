@@ -1,4 +1,4 @@
 main_author|publish_date|title
 ---|---|---
-Bin Yu|14-06-2018|[Hierarchical interpretations for neural network predictions](http://arxiv.org/abs/1806.05337v1)
-Richard G. Baraniuk|12-06-2018|[MISSION: Ultra Large-Scale Feature Selection using Count-Sketches](http://arxiv.org/abs/1806.04310v1)
+Niloy J. Mitra|20-06-2018|[iMapper: Interaction-guided Joint Scene and Human Motion Mapping from   Monocular Videos](http://arxiv.org/abs/1806.07889v1)
+Mark Neerincx|19-06-2018|[Contrastive Explanations with Local Foil Trees](http://arxiv.org/abs/1806.07470v1)
