@@ -60,6 +60,8 @@ class bnn_catagory(catagory):
             'probabilistic'
         ]
         self.specific_terms = [
+            'convol',
+            'neural',
             'uncertain',
             'variational',
             'inference',

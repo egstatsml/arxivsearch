@@ -1,5 +1,24 @@
 # variational
 Click on title for link to paper
+## 29-06-2018
+ 
+main_author|publish_date|title
+---|---|---
+Eric Xing|26-06-2018|[Deep Generative Models with Learnable Knowledge Constraints](http://arxiv.org/abs/1806.09764v1)
+Marek Rychlik|23-06-2018|[Deductron - A Recurrent Neural Network](http://arxiv.org/abs/1806.09038v1)
+Richard Zemel|27-06-2018|[Adversarial Distillation of Bayesian Neural Network Posteriors](http://arxiv.org/abs/1806.10317v1)
+Peter A. Beling|26-06-2018|[Multi-agent Inverse Reinforcement Learning for General-sum Stochastic   Games](http://arxiv.org/abs/1806.09795v1)
+Jascha Sohl-Dickstein|25-06-2018|[Stochastic natural gradient descent draws posterior samples in function   space](http://arxiv.org/abs/1806.09597v1)
+Gal Novik|24-06-2018|[Constructing Deep Neural Networks by Bayesian Network Structure Learning](http://arxiv.org/abs/1806.09141v1)
+Saif Eddin Jabari|22-06-2018|[Learning Traffic Flow Dynamics using Random Fields](http://arxiv.org/abs/1806.08764v1)
+Evangelos Theodorou|25-06-2018|[Propagating Uncertainty through the tanh Function with Application to   Reservoir Computing](http://arxiv.org/abs/1806.09431v1)
+Benjamin Recht|25-06-2018|[A Tour of Reinforcement Learning: The View from Continuous Control](http://arxiv.org/abs/1806.09460v1)
+James Zou|28-06-2018|[DeepTag: inferring all-cause diagnoses from clinical notes in   under-resourced medical domain](http://arxiv.org/abs/1806.10722v1)
+Ankur Srivastava|24-06-2018|[In-situ Stochastic Training of MTJ Crossbar based Neural Networks](http://arxiv.org/abs/1806.09057v1)
+Jan-Willem van de Meent|25-06-2018|[Inference Trees: Adaptive Inference with Exploration](http://arxiv.org/abs/1806.09550v1)
+Fredrik Lindsten|25-06-2018|[Learning dynamical systems with particle stochastic approximation EM](http://arxiv.org/abs/1806.09548v1)
+
+
 ## 22-06-2018
  
 main_author|publish_date|title

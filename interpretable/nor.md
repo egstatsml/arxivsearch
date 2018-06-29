@@ -1,4 +1,4 @@
 main_author|publish_date|title
 ---|---|---
-Niloy J. Mitra|20-06-2018|[iMapper: Interaction-guided Joint Scene and Human Motion Mapping from   Monocular Videos](http://arxiv.org/abs/1806.07889v1)
-Mark Neerincx|19-06-2018|[Contrastive Explanations with Local Foil Trees](http://arxiv.org/abs/1806.07470v1)
+Cynthia Rudin|27-06-2018|[This looks like that: deep learning for interpretable image recognition](http://arxiv.org/abs/1806.10574v1)
+Zeynep Akata|26-06-2018|[Generating Counterfactual Explanations with Natural Language](http://arxiv.org/abs/1806.09809v1)
