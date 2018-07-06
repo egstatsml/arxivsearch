@@ -20,7 +20,7 @@ def format_dataframe(df):
         #no entries for this week
         df = pd.DataFrame(data =
                           {'title':['---', 'No papers found this week'],
-                           'publish_date':['|---|', 'NA'],
+                           'publish_date':['---', 'NA'],
                            'main_author':['---', 'NA']})
         return df
     
