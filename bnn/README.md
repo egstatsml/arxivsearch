@@ -1,5 +1,30 @@
 # bnn
 Click on title for link to paper
+## 06-07-2018
+ 
+main_author|publish_date|title
+---|---|---
+Siwei Lyu|03-07-2018|[Who did What at Where and When: Simultaneous Multi-Person Tracking and   Activity Recognition](http://arxiv.org/abs/1807.01253v1)
+Mohak Shah|02-07-2018|[Make (Nearly) Every Neural Network Better: Generating Neural Network   Ensembles by Weight Parameter Resampling](http://arxiv.org/abs/1807.00847v1)
+Zoubin Ghahramani|05-07-2018|[Variational Bayesian dropout: pitfalls and fixes](http://arxiv.org/abs/1807.01969v1)
+Frank Hutter|04-07-2018|[BOHB: Robust and Efficient Hyperparameter Optimization at Scale](http://arxiv.org/abs/1807.01774v1)
+Lawrence Carin|04-07-2018|[Accelerated First-order Methods on the Wasserstein Space for Bayesian   Inference](http://arxiv.org/abs/1807.01750v1)
+S. M. Ali Eslami|04-07-2018|[Conditional Neural Processes](http://arxiv.org/abs/1807.01613v1)
+Reihaneh Entezari|03-07-2018|[Breast Cancer Diagnosis via Classification Algorithms](http://arxiv.org/abs/1807.01334v1)
+Jianfei Cai|03-07-2018|[When Gaussian Process Meets Big Data: A Review of Scalable GPs](http://arxiv.org/abs/1807.01065v1)
+Stefano Ermon|01-07-2018|[Accurate Uncertainties for Deep Learning Using Calibrated Regression](http://arxiv.org/abs/1807.00263v1)
+Mike Ludkovski|30-06-2018|[Probabilistic Bisection with Spatial Metamodels](http://arxiv.org/abs/1807.00095v1)
+Se Un Park|29-06-2018|[A Learning Theory in Linear Systems under Compositional Models](http://arxiv.org/abs/1807.00084v1)
+Rodney Sparapani|29-06-2018|[Fully Nonparametric Bayesian Additive Regression Trees](http://arxiv.org/abs/1807.00068v1)
+C. C. Holmes|29-06-2018|[Nonparametric learning from Bayesian models with randomized objective   functions](http://arxiv.org/abs/1806.11544v1)
+Fernando Perez-Cruz|29-06-2018|[Sparse Three-parameter Restricted Indian Buffet Process for   Understanding International Trade](http://arxiv.org/abs/1806.11518v1)
+Thierry Denoeux|05-07-2018|[Logistic Regression, Neural Networks and Dempster-Shafer Theory: a New   Perspective](http://arxiv.org/abs/1807.01846v1)
+Andreas Krause|04-07-2018|[Discrete Sampling using Semigradient-based Product Mixtures](http://arxiv.org/abs/1807.01808v1)
+Yee Whye Teh|04-07-2018|[Neural Processes](http://arxiv.org/abs/1807.01622v1)
+Qianxiao Li|03-07-2018|[A Mean-Field Optimal Control Formulation of Deep Learning](http://arxiv.org/abs/1807.01083v1)
+Peter Wittek|29-06-2018|[Bayesian Deep Learning on a Quantum Computer](http://arxiv.org/abs/1806.11463v1)
+
+
 ## 29-06-2018
  
 main_author|publish_date|title
