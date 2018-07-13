@@ -1,5 +1,24 @@
 # bnn
 Click on title for link to paper
+## 13-07-2018
+ 
+main_author|publish_date|title
+---|---|---
+Boqing Gong|11-07-2018|[How Local is the Local Diversity? Reinforcing Sequential Determinantal   Point Processes with Dynamic Ground Sets for Supervised Video Summarization](http://arxiv.org/abs/1807.04219v1)
+Tieniu Tan|11-07-2018|[Variational Capsules for Image Analysis and Synthesis](http://arxiv.org/abs/1807.04099v1)
+Thilo Stadelmann|11-07-2018|[Learning Neural Models for End-to-End Clustering](http://arxiv.org/abs/1807.04001v1)
+Pantelis Georgiou|09-07-2018|[Convolutional Recurrent Neural Networks for Blood Glucose Prediction](http://arxiv.org/abs/1807.03043v1)
+Didrik Nielsen|12-07-2018|[Fast yet Simple Natural-Gradient Descent for Variational Inference in   Complex Models](http://arxiv.org/abs/1807.04489v1)
+Nicholas Zabaras|11-07-2018|[Structured Bayesian Gaussian process latent variable model: applications   to data-driven dimensionality reduction and high-dimensional inversion](http://arxiv.org/abs/1807.04302v1)
+Zafarali Ahmed|11-07-2018|[VFunc: a Deep Generative Model for Functions](http://arxiv.org/abs/1807.04106v1)
+Ashis G. Banerjee|11-07-2018|[A Hierarchical Bayesian Linear Regression Model with Local Features for   Stochastic Dynamics Approximation](http://arxiv.org/abs/1807.03931v1)
+Piyush Rai|10-07-2018|[Small-Variance Asymptotics for Nonparametric Bayesian Overlapping   Stochastic Blockmodels](http://arxiv.org/abs/1807.03570v1)
+Bharath K Sriperumbudur|06-07-2018|[Gaussian Processes and Kernel Methods: A Review on Connections and   Equivalences](http://arxiv.org/abs/1807.02582v1)
+Alexander M. Rush|10-07-2018|[Latent Alignment and Variational Attention](http://arxiv.org/abs/1807.03756v1)
+Yee Whye Teh|09-07-2018|[Sampling and Inference for Beta Neutral-to-the-Left Models of Sparse   Networks](http://arxiv.org/abs/1807.03113v1)
+Nicholas Zabaras|08-07-2018|[Quantifying model form uncertainty in Reynolds-averaged turbulence   models with Bayesian deep neural networks](http://arxiv.org/abs/1807.02901v1)
+
+
 ## 06-07-2018
  
 main_author|publish_date|title

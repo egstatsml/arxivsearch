@@ -1,5 +1,12 @@
 # interpretable
 Click on title for link to paper
+## 13-07-2018
+ 
+main_author|publish_date|title
+---|---|---
+Bernd Bischl|10-07-2018|[Automatic Gradient Boosting](http://arxiv.org/abs/1807.03873v1)
+
+
 ## 06-07-2018
  
 main_author|publish_date|title

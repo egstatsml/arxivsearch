@@ -1,5 +1,25 @@
 # variational
 Click on title for link to paper
+## 13-07-2018
+ 
+main_author|publish_date|title
+---|---|---
+Taco S. Cohen|12-07-2018|[Explorations in Homeomorphic Variational Auto-Encoding](http://arxiv.org/abs/1807.04689v1)
+Nicholas Zabaras|11-07-2018|[Structured Bayesian Gaussian process latent variable model: applications   to data-driven dimensionality reduction and high-dimensional inversion](http://arxiv.org/abs/1807.04302v1)
+Abdellatif Zaidi|11-07-2018|[Distributed Variational Representation Learning](http://arxiv.org/abs/1807.04193v1)
+Ashis G. Banerjee|11-07-2018|[A Hierarchical Bayesian Linear Regression Model with Local Features for   Stochastic Dynamics Approximation](http://arxiv.org/abs/1807.03931v1)
+Carlos Francisco Brito Loeza|10-07-2018|[A New Variational Model for Binary Classification in the Supervised   Learning Context](http://arxiv.org/abs/1807.03431v2)
+Tomoharu Iwata|09-07-2018|[Zero-shot Domain Adaptation without Domain Semantic Descriptors](http://arxiv.org/abs/1807.02927v1)
+Bo Zhang|10-07-2018|[Deep Structured Generative Models](http://arxiv.org/abs/1807.03877v1)
+Piyush Rai|10-07-2018|[Small-Variance Asymptotics for Nonparametric Bayesian Overlapping   Stochastic Blockmodels](http://arxiv.org/abs/1807.03570v1)
+Stéphane Gaïffas|10-07-2018|[Dual optimization for convex constrained objectives without the   gradient-Lipschitz assumption](http://arxiv.org/abs/1807.03545v1)
+Peter I. Frazier|08-07-2018|[A Tutorial on Bayesian Optimization](http://arxiv.org/abs/1807.02811v1)
+Christopher McCord|11-07-2018|[Optimization over Continuous and Multi-dimensional Decisions with   Observational Data](http://arxiv.org/abs/1807.04183v1)
+Jacob Steinhardt|09-07-2018|[Troubling Trends in Machine Learning Scholarship](http://arxiv.org/abs/1807.03341v1)
+Nicholas Zabaras|08-07-2018|[Quantifying model form uncertainty in Reynolds-averaged turbulence   models with Bayesian deep neural networks](http://arxiv.org/abs/1807.02901v1)
+Joaquin Miguez|12-07-2018|[The Incremental Proximal Method: A Probabilistic Perspective](http://arxiv.org/abs/1807.04594v1)
+
+
 ## 06-07-2018
  
 main_author|publish_date|title
