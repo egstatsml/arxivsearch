@@ -1,3 +1,3 @@
 main_author|publish_date|title
 ---|---|---
-Bernd Bischl|10-07-2018|[Automatic Gradient Boosting](http://arxiv.org/abs/1807.03873v1)
+Badrul Chowdhury|17-07-2018|[A Data-Driven Approach for Predicting Vegetation-Related Outages in   Power Distribution Systems](http://arxiv.org/abs/1807.06180v1)
