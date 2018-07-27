@@ -9,13 +9,16 @@ Papers are displayed in a markdown format, inspired by
 who displays new papers relating to causality and machine learning.
 This project works in a similar (though less comprehensive in implelementation),
 but allows for additional search catagories to be included. The papers for
-each catagory are listed in each corresponding directory.
+each catagory are listed in each corresponding directory. This search also includes
+a causal inference search catagory, but there are far fewer papers that will appear in these
+search results as I have altered the searching criteria. For a more complete list, please refer
+to the [arXausality](https://github.com/logangraham/arxausality)
 
 Currently Supported Search Catagories:
 
 [BNNs (Bayesian Neural Netyworks)](https://github.com/ethangoan/arxivsearch/tree/master/bnn)
 
-[Causal Machine Learning](https://github.com/ethangoan/arxivsearch/tree/master/causal)
+[Causal Inference in Machine Learning](https://github.com/ethangoan/arxivsearch/tree/master/causal)
 
 [Interpretable Machine Learning](https://github.com/ethangoan/arxivsearch/tree/master/interpretable)
 
@@ -51,3 +54,8 @@ If you have any questions, or want me to add a catagory, please feel free to ema
 Ethan Goan
 ethanjgoan@gmail.com
 
+
+
+### TODO
+
+[ ] Change the way I combine searches from previous week (save a dataframe instead of a markdown file)
