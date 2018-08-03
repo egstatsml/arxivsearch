@@ -1,5 +1,12 @@
 # causal
 Click on title for link to paper
+## 03-08-2018
+ 
+main_author|publish_date|title
+---|---|---
+Anupam Datta|31-07-2018|[Gender Bias in Neural Natural Language Processing](http://arxiv.org/abs/1807.11714v1)
+
+
 ## 27-07-2018
  
 main_author|publish_date|title
