@@ -1,3 +1,4 @@
 main_author|publish_date|title
 ---|---|---
-Anupam Datta|31-07-2018|[Gender Bias in Neural Natural Language Processing](http://arxiv.org/abs/1807.11714v1)
+Daniele Ramazzotti|06-08-2018|[Probabilistic Causal Analysis of Social Influence](http://arxiv.org/abs/1808.02129v1)
+Suchi Saria|09-08-2018|[Counterfactual Normalization: Proactively Addressing Dataset Shift and   Improving Reliability Using Causal Mechanisms](http://arxiv.org/abs/1808.03253v1)
