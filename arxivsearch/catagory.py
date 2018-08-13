@@ -69,26 +69,25 @@ class bnn_catagory(catagory):
         ]
 
 
-class causal_catagory(catagory):
+class fairness_catagory(catagory):
     def __init__(self):
-        catagory.__init__(self, 'causal')
+        catagory.__init__(self, 'fairness')
         self.general_terms = [
-            'causation',
-            'interven',
-            'causal',
+            'fairness',
+            'bias',
+            'ethic*',
+            'equality',
+            'equal'
         ]
         self.specific_terms = [
-            'do-calculus',
-            'do calculus',
-            'structural equation',
-            'instrumental variable',
-            'treatment effect',
-            'counterfactual',
-            'hidden variable',
-            'structure identif',
-            'faithfulness',
-            'conditional independenc',
-            'Markov'
+            'algorithms',
+            'accountability',
+            'transparency',
+            'discrimination',
+            'legal',
+            'social',
+            'unfair*',
+            'audit'
         ]
 
 
@@ -141,8 +140,8 @@ def get_catagory(arg):
 
     if('bnn' in arg):
         return bnn_catagory()
-    elif('causal' in arg):
-        return causal_catagory()
+    elif('fairness' in arg):
+        return fairness_catagory()
     elif('interpretable' in arg):
         return interpretable_catagory()
     elif('variational' in arg):

@@ -4,7 +4,7 @@ import os
 import datetime
 
 if __name__ == "__main__":
-    for search in ['bnn', 'causal', 'variational', 'interpretable']:
+    for search in ['bnn', 'fairness', 'variational', 'interpretable']:
         os.system('./bin/search ' + search)
         os.system('./bin/concatenate ' + search)
         
