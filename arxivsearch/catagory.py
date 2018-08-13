@@ -75,7 +75,7 @@ class fairness_catagory(catagory):
         self.general_terms = [
             'fairness',
             'bias',
-            'ethic*',
+            'ethic',
             'equality',
             'equal'
         ]
@@ -86,8 +86,11 @@ class fairness_catagory(catagory):
             'discrimination',
             'legal',
             'social',
-            'unfair*',
-            'audit'
+            'unfair',
+            'audit',
+            'machine learning',
+            'artificial intelligence',
+            'statistics'
         ]
 
 
