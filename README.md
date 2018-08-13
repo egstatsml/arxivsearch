@@ -18,7 +18,9 @@ Currently Supported Search Catagories:
 
 [BNNs (Bayesian Neural Netyworks)](https://github.com/ethangoan/arxivsearch/tree/master/bnn)
 
-[Causal Inference in Machine Learning](https://github.com/ethangoan/arxivsearch/tree/master/causal)
+[Causal Inference (Link to arXausality by Logan Graham)](https://github.com/logangraham/arxausality)
+
+[Fairness in Statistics and Machine Learning](https://github.com/ethangoan/arxivsearch/tree/master/fairness)
 
 [Interpretable Machine Learning](https://github.com/ethangoan/arxivsearch/tree/master/interpretable)
 
@@ -26,7 +28,7 @@ Currently Supported Search Catagories:
 
 
 
-Repo is automatically updated once a week on Monday's 12:30pm AEST (+10 GMT)
+Repo is automatically updated once a week on Fridays 12:30pm AEST (+10 GMT)
 
 ## Install
 ```bash
