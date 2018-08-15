@@ -57,4 +57,4 @@ ethanjgoan@gmail.com
 
 ### TODO
 
-[ ] Change the way I combine searches from previous week (save a dataframe instead of a markdown file)
+[] Change the way I combine searches from previous week (save a dataframe instead of a markdown file)
