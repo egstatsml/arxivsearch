@@ -1,3 +1,3 @@
 main_author|publish_date|title
 ---|---|---
-Kerstin Ritter|08-08-2018|[Visualizing Convolutional Networks for MRI-based Diagnosis of   Alzheimer's Disease](http://arxiv.org/abs/1808.02874v1)
+Milo Honegger|15-08-2018|[Shedding Light on Black Box Machine Learning Algorithms: Development of   an Axiomatic Framework to Assess the Quality of Methods that Explain   Individual Predictions](http://arxiv.org/abs/1808.05054v1)
