@@ -1,5 +1,24 @@
 # fairness
 Click on title for link to paper
+## 24-08-2018
+ 
+main_author|publish_date|title
+---|---|---
+Dimosthenis Karatzas|20-08-2018|[Learning to Learn from Web Data through Deep Semantic Embeddings](http://arxiv.org/abs/1808.06368v1)
+C. V. Jawahar|20-08-2018|[Class2Str: End to End Latent Hierarchy Learning](http://arxiv.org/abs/1808.06675v1)
+Katsuyuki Hagiwara|22-08-2018|[On an improvement of LASSO by scaling](http://arxiv.org/abs/1808.07260v1)
+Masafumi Oizumi|22-08-2018|[Fisher Information and Natural Gradient Learning of Random Deep Networks](http://arxiv.org/abs/1808.07172v1)
+Kristofer Bouchard|21-08-2018|[Optimizing the Union of Intersections LASSO ($UoI_{LASSO}$) and Vector   Autoregressive ($UoI_{VAR}$) Algorithms for Improved Statistical Estimation   at Scale](http://arxiv.org/abs/1808.06992v1)
+David M. Blei|20-08-2018|[The Deconfounded Recommender: A Causal Inference Approach to   Recommendation](http://arxiv.org/abs/1808.06581v1)
+Ross Cutler|19-08-2018|[On Design of Problem Token Questions in Quality of Experience Surveys](http://arxiv.org/abs/1808.06152v1)
+Fang Lu|18-08-2018|[Effect of secular trend in drug effectiveness study in real world data](http://arxiv.org/abs/1808.06117v1)
+Maria Rodriguez Martinez|18-08-2018|[Network-based Biased Tree Ensembles (NetBiTE) for Drug Sensitivity   Prediction and Drug Sensitivity Biomarker Identification in Cancer](http://arxiv.org/abs/1808.06603v1)
+Ilse C. F. Ipsen|17-08-2018|[Randomized Least Squares Regression: Combining Model- and   Algorithm-Induced Uncertainties](http://arxiv.org/abs/1808.05924v1)
+Masafumi Oizumi|22-08-2018|[Statistical Neurodynamics of Deep Networks: Geometry of Signal Spaces](http://arxiv.org/abs/1808.07169v1)
+Ji Ho Park|22-08-2018|[Finding Good Representations of Emotions for Text Classification](http://arxiv.org/abs/1808.07235v1)
+Qi Su|22-08-2018|[Learning When to Concentrate or Divert Attention: Self-Adaptive   Attention Temperature for Neural Machine Translation](http://arxiv.org/abs/1808.07374v1)
+
+
 ## 17-08-2018
  
 main_author|publish_date|title
