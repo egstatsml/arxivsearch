@@ -1,5 +1,28 @@
 # fairness
 Click on title for link to paper
+## 31-08-2018
+ 
+main_author|publish_date|title
+---|---|---
+Radu Horaud|28-08-2018|[DeepGUM: Learning Deep Robust Regression with a Gaussian-Uniform Mixture   Model](http://arxiv.org/abs/1808.09211v1)
+David Menotti|29-08-2018|[The Impact of Preprocessing on Deep Representations for Iris Recognition   on Unconstrained Environments](http://arxiv.org/abs/1808.10032v1)
+Dorit Merhof|29-08-2018|[Image-based Survival Analysis for Lung Cancer Patients using CNNs](http://arxiv.org/abs/1808.09679v1)
+Moritz Hardt|29-08-2018|[Group calibration is a byproduct of unconstrained learning](http://arxiv.org/abs/1808.10013v1)
+Ece Kamar|28-08-2018|[Investigating Human + Machine Complementarity for Recidivism Predictions](http://arxiv.org/abs/1808.09123v1)
+Juba Ziani|27-08-2018|[Downstream Effects of Affirmative Action](http://arxiv.org/abs/1808.09004v1)
+Michael Carl Tschantz|26-08-2018|[Discriminative but Not Discriminatory: A Comparison of Fairness   Definitions under Different Worldviews](http://arxiv.org/abs/1808.08619v1)
+Moritz Hardt|25-08-2018|[The Social Cost of Strategic Classification](http://arxiv.org/abs/1808.08460v1)
+Zhiwei Steven Wu|24-08-2018|[An Empirical Study of Rich Subgroup Fairness for Machine Learning](http://arxiv.org/abs/1808.08166v1)
+Jingbo Wang|25-08-2018|[DNN: A Two-Scale Distributional Tale of Heterogeneous Treatment Effect   Inference](http://arxiv.org/abs/1808.08469v1)
+Tim Kraska|24-08-2018|[Unknown Examples & Machine Learning Model Generalization](http://arxiv.org/abs/1808.08294v1)
+Nevin L. Zhang|28-08-2018|[Matrix Factorization Equals Efficient Co-occurrence Representation](http://arxiv.org/abs/1808.09371v1)
+Jennifer Wortman Vaughan|27-08-2018|[The Disparate Effects of Strategic Manipulation](http://arxiv.org/abs/1808.08646v2)
+Maryam Amirmazlaghani|25-08-2018|[Unsupervised Hypergraph Feature Selection via a Novel Point-Weighting   Framework and Low-Rank Representation](http://arxiv.org/abs/1808.08414v1)
+Samuel R. Bowman|29-08-2018|[Grammar Induction with Neural Language Models: An Unusual Replication](http://arxiv.org/abs/1808.10000v1)
+Niranjan Balasubramanian|28-08-2018|[Residualized Factor Adaptation for Community Social Media Prediction   Tasks](http://arxiv.org/abs/1808.09479v1)
+David Chiang|29-08-2018|[Correcting Length Bias in Neural Machine Translation](http://arxiv.org/abs/1808.10006v1)
+
+
 ## 24-08-2018
  
 main_author|publish_date|title

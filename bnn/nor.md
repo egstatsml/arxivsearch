@@ -1,8 +1,11 @@
 main_author|publish_date|title
 ---|---|---
-Ralf Schulze|22-08-2018|[A method for automatic forensic facial reconstruction based on dense   statistics of soft tissue thickness](http://arxiv.org/abs/1808.07334v1)
-Dirk Husmeier|21-08-2018|[On a New Improvement-Based Acquisition Function for Bayesian   Optimization](http://arxiv.org/abs/1808.06918v1)
-Benjamin Haibe-Kains|20-08-2018|[Stochastic Combinatorial Ensembles for Defending Against Adversarial   Examples](http://arxiv.org/abs/1808.06645v1)
-Maria Rodriguez Martinez|18-08-2018|[Network-based Biased Tree Ensembles (NetBiTE) for Drug Sensitivity   Prediction and Drug Sensitivity Biomarker Identification in Cancer](http://arxiv.org/abs/1808.06603v1)
-Thomas Hofmann|23-08-2018|[End-to-End Neural Entity Linking](http://arxiv.org/abs/1808.07699v1)
-Megan McCracken|19-08-2018|[Artificial Neural Networks in Fluid Dynamics: A Novel Approach to the   Navier-Stokes Equations](http://arxiv.org/abs/1808.06604v1)
+B. H. Lee|30-08-2018|[A Variational Feature Encoding Method of 3D Object for Probabilistic   Semantic SLAM](http://arxiv.org/abs/1808.10180v1)
+Hassan Foroosh|28-08-2018|[Probabilistic Sparse Subspace Clustering Using Delayed Association](http://arxiv.org/abs/1808.09574v1)
+Feng Chen|26-08-2018|[Water Disaggregation via Shape Features based Bayesian Discriminative   Sparse Coding](http://arxiv.org/abs/1808.08951v1)
+Hui Ji|28-08-2018|[Weighted total variation based convex clustering](http://arxiv.org/abs/1808.09144v1)
+Sergey Levine|28-08-2018|[SOLAR: Deep Structured Latent Representations for Model-Based   Reinforcement Learning](http://arxiv.org/abs/1808.09105v1)
+Daniel Sheldon|27-08-2018|[Importance Weighting and Variational Inference](http://arxiv.org/abs/1808.09034v2)
+Hoifung Poon|26-08-2018|[Deep Probabilistic Logic: A Unifying Framework for Indirect Supervision](http://arxiv.org/abs/1808.08485v1)
+Adenilton J. da Silva|27-08-2018|[Quantum enhanced cross-validation for near-optimal neural networks   architecture selection](http://arxiv.org/abs/1808.09058v1)
+Luigi Landini|24-08-2018|[Probabilistic Graphical Modeling approach to dynamic PET direct   parametric map estimation and image reconstruction](http://arxiv.org/abs/1808.08286v1)
