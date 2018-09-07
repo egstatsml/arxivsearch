@@ -1,4 +1,4 @@
 main_author|publish_date|title
 ---|---|---
-Walter Daelemans|29-08-2018|[Rule induction for global explanation of trained models](http://arxiv.org/abs/1808.09744v1)
-Akiko Aizawa|28-08-2018|[What Makes Reading Comprehension Questions Easier?](http://arxiv.org/abs/1808.09384v1)
+Liang Lin|06-09-2018|[Interpretable Visual Question Answering by Reasoning on Dependency Trees](http://arxiv.org/abs/1809.01810v1)
+Alípio Mário Jorge|03-09-2018|[Affordance Extraction and Inference based on Semantic Role Labeling](http://arxiv.org/abs/1809.00589v1)
