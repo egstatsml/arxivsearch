@@ -1,5 +1,27 @@
 # bnn
 Click on title for link to paper
+## 14-09-2018
+ 
+main_author|publish_date|title
+---|---|---
+William T. Freeman|13-09-2018|[Seeing Tree Structure from Vibration](http://arxiv.org/abs/1809.05067v1)
+Xin Tong|10-09-2018|[Deep Single-View 3D Object Reconstruction with Visual Hull Embedding](http://arxiv.org/abs/1809.03451v1)
+George Toderici|08-09-2018|[Joint Autoregressive and Hierarchical Priors for Learned Image   Compression](http://arxiv.org/abs/1809.02736v1)
+Harold Soh|12-09-2018|[Hyperprior Induced Unsupervised Disentanglement of Latent   Representations](http://arxiv.org/abs/1809.04497v1)
+Ricardo Silva|12-09-2018|[Bayesian Semi-supervised Learning with Graph Gaussian Processes](http://arxiv.org/abs/1809.04379v1)
+Heinz Koeppl|12-09-2018|[Cluster Variational Approximations for Structure Learning of   Continuous-Time Bayesian Networks from Incomplete Data](http://arxiv.org/abs/1809.04294v2)
+Prasanth B. Nair|12-09-2018|[Discretely Relaxing Continuous Variables for tractable Variational   Inference](http://arxiv.org/abs/1809.04279v1)
+Heinz Koeppl|10-09-2018|[Collapsed Variational Inference for Nonparametric Bayesian Group Factor   Analysis](http://arxiv.org/abs/1809.03566v1)
+Guangyi Liu|10-09-2018|[Convolutional Graph Auto-encoder: A Deep Generative Neural Architecture   for Probabilistic Spatio-temporal Solar Irradiance Forecasting](http://arxiv.org/abs/1809.03538v1)
+Naoki Hayashi|09-09-2018|[Variational Approximation Accuracy in Bayesian Non-negative Matrix   Factorization](http://arxiv.org/abs/1809.02963v1)
+Franz Pernkopf|12-09-2018|[Learning Deep Mixtures of Gaussian Process Experts Using Sum-Product   Networks](http://arxiv.org/abs/1809.04400v1)
+Max Welling|10-09-2018|[Probabilistic Binary Neural Networks](http://arxiv.org/abs/1809.03368v1)
+Samuel Kaski|08-09-2018|[Modelling User's Theory of AI's Mind in Interactive Intelligent Systems](http://arxiv.org/abs/1809.02869v1)
+Lane Schwartz|10-09-2018|[Depth-bounding is effective: Improvements and evaluation of unsupervised   PCFG induction](http://arxiv.org/abs/1809.03112v1)
+Xilin Chen|10-09-2018|[Greedy Search with Probabilistic N-gram Matching for Neural Machine   Translation](http://arxiv.org/abs/1809.03132v1)
+Anthony Lasenby|12-09-2018|[Bayesian sparse reconstruction: a brute-force approach to astronomical   imaging and machine learning](http://arxiv.org/abs/1809.04598v1)
+
+
 ## 07-09-2018
  
 main_author|publish_date|title
