@@ -1,5 +1,26 @@
 # bnn
 Click on title for link to paper
+## 28-09-2018
+ 
+main_author|publish_date|title
+---|---|---
+Ingmar Posner|27-09-2018|[Dropout Distillation for Efficiently Estimating Model Confidence](http://arxiv.org/abs/1809.10562v1)
+Ivana Išgum|27-09-2018|[Towards increased trustworthiness of deep learning segmentation methods   on cardiac MRI](http://arxiv.org/abs/1809.10430v1)
+Armen E. Allahverdyan|22-09-2018|[Active image restoration](http://arxiv.org/abs/1809.08406v1)
+Cristian A. Linte|26-09-2018|[Left Ventricle Segmentation and Quantification from Cardiac Cine MR   Images via Multi-task Learning](http://arxiv.org/abs/1809.10221v1)
+Chengxi Yang|25-09-2018|[Confidence Inference for Focused Learning in Stereo Matching](http://arxiv.org/abs/1809.09758v1)
+Sanjit A. Seshia|25-09-2018|[Scenic: Language-Based Scene Generation](http://arxiv.org/abs/1809.09310v1)
+Scott A. Sisson|27-09-2018|[On some variance reduction properties of the reparameterization trick](http://arxiv.org/abs/1809.10330v1)
+Wenwu Wang|26-09-2018|[Bayesian inference for PCA and MUSIC algorithms with unknown number of   sources](http://arxiv.org/abs/1809.10168v1)
+Tamara Broderick|25-09-2018|[Practical bounds on the error of Bayesian posterior approximations: A   nonasymptotic approach](http://arxiv.org/abs/1809.09505v1)
+Martin Vingron|25-09-2018|[Sparse-Group Bayesian Feature Selection Using Expectation Propagation   for Signal Recovery and Network Reconstruction](http://arxiv.org/abs/1809.09367v1)
+XuanLong Nguyen|24-09-2018|[Streaming dynamic and distributed inference of latent geometric   structures](http://arxiv.org/abs/1809.08738v1)
+Ya Zhang|22-09-2018|[Variational Collaborative Learning for User Probabilistic Representation](http://arxiv.org/abs/1809.08400v1)
+Keisuke Yamazaki|21-09-2018|[Intractable Likelihood Regression for Covariate Shift by Kernel Mean   Embedding](http://arxiv.org/abs/1809.08159v1)
+Jitendra Malik|24-09-2018|[Implicit Maximum Likelihood Estimation](http://arxiv.org/abs/1809.09087v1)
+Vinayak Rao|24-09-2018|[Flexible Mixture Modeling on Constrained Spaces](http://arxiv.org/abs/1809.09238v1)
+
+
 ## 21-09-2018
  
 main_author|publish_date|title

@@ -1,5 +1,25 @@
 # fairness
 Click on title for link to paper
+## 28-09-2018
+ 
+main_author|publish_date|title
+---|---|---
+Xiangyang Xue|25-09-2018|[Object Detection from Scratch with Deep Supervision](http://arxiv.org/abs/1809.09294v1)
+Armen E. Allahverdyan|22-09-2018|[Active image restoration](http://arxiv.org/abs/1809.08406v1)
+Nasser M. Nasrabadi|24-09-2018|[Fast Geometrically-Perturbed Adversarial Faces](http://arxiv.org/abs/1809.08999v1)
+Alex Beutel|27-09-2018|[Counterfactual Fairness in Text Classification through Robustness](http://arxiv.org/abs/1809.10610v1)
+Rupert Deese|24-09-2018|[Evaluating Fairness Metrics in the Presence of Dataset Bias](http://arxiv.org/abs/1809.09245v1)
+Ariel D. Procaccia|23-09-2018|[Envy-Free Classification](http://arxiv.org/abs/1809.08700v1)
+Edwin Lughofer|24-09-2018|[Autonomous Deep Learning: Incremental Learning of Denoising Autoencoder   for Evolving Data Streams](http://arxiv.org/abs/1809.09081v1)
+Francesca Rossi|21-09-2018|[Interpretable Multi-Objective Reinforcement Learning through Policy   Orchestration](http://arxiv.org/abs/1809.08343v1)
+Zhiyuan Liu|27-09-2018|[Consistency and Variation in Kernel Neural Ranking Model](http://arxiv.org/abs/1809.10522v1)
+Jason J. Corso|25-09-2018|[Floyd-Warshall Reinforcement Learning Learning from Past Experiences to   Reach New Goals](http://arxiv.org/abs/1809.09318v1)
+Meisam Razaviyayn|24-09-2018|[On the Behavior of the Expectation-Maximization Algorithm for Mixture   Models](http://arxiv.org/abs/1809.08705v1)
+Ilkay Altintas|27-09-2018|[Enabling FAIR Research in Earth Science through Research Objects](http://arxiv.org/abs/1809.10617v1)
+Samuel R. Bowman|26-09-2018|[Language Modeling Teaches You More Syntax than Translation Does: Lessons   Learned Through Auxiliary Task Analysis](http://arxiv.org/abs/1809.10040v1)
+Vinayak Rao|24-09-2018|[Flexible Mixture Modeling on Constrained Spaces](http://arxiv.org/abs/1809.09238v1)
+
+
 ## 21-09-2018
  
 main_author|publish_date|title
