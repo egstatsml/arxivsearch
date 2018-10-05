@@ -1,5 +1,29 @@
 # fairness
 Click on title for link to paper
+## 05-10-2018
+ 
+main_author|publish_date|title
+---|---|---
+Alejandro C. Frery|29-09-2018|[Parameter Estimation for the Single-Look $\mathcal{G}^0$ Distribution](http://arxiv.org/abs/1810.00216v1)
+Sylvain Gelly|02-10-2018|[On Self Modulation for Generative Adversarial Networks](http://arxiv.org/abs/1810.01365v1)
+Xinbo Gao|28-09-2018|[Channel-wise and Spatial Feature Modulation Network for Single Image   Super-Resolution](http://arxiv.org/abs/1809.11130v1)
+Adam Smith|03-10-2018|[From Soft Classifiers to Hard Decisions: How fair can we be?](http://arxiv.org/abs/1810.02003v1)
+Alex Pentland|28-09-2018|[Active Fairness in Algorithmic Decision Making](http://arxiv.org/abs/1810.00031v1)
+Antonio Torralba|03-10-2018|[Learning Particle Dynamics for Manipulating Rigid Bodies, Deformable   Objects, and Fluids](http://arxiv.org/abs/1810.01566v1)
+Preslav Nakov|02-10-2018|[Predicting Factuality of Reporting and Bias of News Media Sources](http://arxiv.org/abs/1810.01765v1)
+Ashish Kapoor|30-09-2018|[Identifying Bias in AI using Simulation](http://arxiv.org/abs/1810.00471v1)
+Grzegorz Kondrak|30-09-2018|[Efficient Sequence Labeling with Actor-Critic Training](http://arxiv.org/abs/1810.00428v1)
+Bill Macready|29-09-2018|[Improved Gradient-Based Optimization Over Discrete Distributions](http://arxiv.org/abs/1810.00116v1)
+Matus Telgarsky|04-10-2018|[Gradient descent aligns the layers of deep linear networks](http://arxiv.org/abs/1810.02032v1)
+Menachem Sadigurschi|03-10-2018|[Agnostic Sample Compression for Linear Regression](http://arxiv.org/abs/1810.01864v1)
+Mohammad Norouzi|02-10-2018|[Optimal Completion Distillation for Sequence Learning](http://arxiv.org/abs/1810.01398v1)
+Michael W. Mahoney|02-10-2018|[Implicit Self-Regularization in Deep Neural Networks: Evidence from   Random Matrix Theory and Implications for Learning](http://arxiv.org/abs/1810.01075v1)
+Robert Sabourin|01-10-2018|[FIRE-DES++: Enhanced Online Pruning of Base Classifiers for Dynamic   Ensemble Selection](http://arxiv.org/abs/1810.00520v2)
+Celina P. Yu|30-09-2018|[Privacy-preserving Stochastic Gradual Learning](http://arxiv.org/abs/1810.00383v1)
+Juntao Yu|04-10-2018|[Semi-Supervised Methods for Out-of-Domain Dependency Parsing](http://arxiv.org/abs/1810.02100v1)
+Bin Yu|01-10-2018|[Singularity, Misspecification, and the Convergence Rate of EM](http://arxiv.org/abs/1810.00828v1)
+
+
 ## 28-09-2018
  
 main_author|publish_date|title
