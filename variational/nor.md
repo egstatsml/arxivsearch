@@ -1,9 +1,11 @@
 main_author|publish_date|title
 ---|---|---
-Bernt Schiele|01-10-2018|[Bayesian Prediction of Future Street Scenes using Synthetic Likelihoods](http://arxiv.org/abs/1810.00746v2)
-Frank Nielsen|02-10-2018|[Sinkhorn AutoEncoders](http://arxiv.org/abs/1810.01118v2)
-P. Richard Hahn|04-10-2018|[Accelerated Bayesian Additive Regression Trees](http://arxiv.org/abs/1810.02215v1)
-Ole-Christoffer Granmo|02-10-2018|[The Dreaming Variational Autoencoder for Reinforcement Learning   Environments](http://arxiv.org/abs/1810.01112v1)
-Michael Wick|02-10-2018|[Sketching for Latent Dirichlet-Categorical Models](http://arxiv.org/abs/1810.01400v1)
-Zixin Zhong|02-10-2018|[Thompson Sampling for Cascading Bandits](http://arxiv.org/abs/1810.01187v1)
-Tianbao Yang|04-10-2018|[Non-Convex Min-Max Optimization: Provable Algorithms and Applications in   Machine Learning](http://arxiv.org/abs/1810.02060v1)
+Lukasz Szpruch|11-10-2018|[Martingale Functional Control variates via Deep Learning](http://arxiv.org/abs/1810.05094v1)
+Chris J. Maddison|09-10-2018|[Doubly Reparameterized Gradient Estimators for Monte Carlo Objectives](http://arxiv.org/abs/1810.04152v1)
+Alexander L. Gaunt|09-10-2018|[Fixing Variational Bayes: Deterministic Variational Inference for   Bayesian Neural Networks](http://arxiv.org/abs/1810.03958v1)
+Dmitry Vetrov|05-10-2018|[Doubly Semi-Implicit Variational Inference](http://arxiv.org/abs/1810.02789v1)
+Prem Natarajan|11-10-2018|[Policy Design for Active Sequential Hypothesis Testing using Deep   Learning](http://arxiv.org/abs/1810.04859v1)
+Padhraic Smyth|09-10-2018|[Unifying the Dropout Family Through Structured Shrinkage Priors](http://arxiv.org/abs/1810.04045v1)
+Jascha Sohl-Dickstein|11-10-2018|[Bayesian Convolutional Neural Networks with Many Channels are Gaussian   Processes](http://arxiv.org/abs/1810.05148v1)
+Lexing Xie|08-10-2018|[Efficient Non-parametric Bayesian Hawkes Processes](http://arxiv.org/abs/1810.03730v1)
+Jennifer Listgarten|08-10-2018|[Design by adaptive sampling](http://arxiv.org/abs/1810.03714v2)

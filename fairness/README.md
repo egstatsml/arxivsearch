@@ -1,5 +1,31 @@
 # fairness
 Click on title for link to paper
+## 12-10-2018
+ 
+main_author|publish_date|title
+---|---|---
+Ali Borji|08-10-2018|[Saliency Prediction in the Deep Learning Era: An Empirical Investigation](http://arxiv.org/abs/1810.03716v1)
+Sven Behnke|11-10-2018|[Location Dependency in Video Prediction](http://arxiv.org/abs/1810.04937v1)
+Jong Pil Yun|09-10-2018|[Selective Distillation of Weakly Annotated GTD for Vision-based Slab   Identification System](http://arxiv.org/abs/1810.04029v1)
+Vadim Turlapov|09-10-2018|[Glioma Segmentation with Cascaded Unet](http://arxiv.org/abs/1810.04008v1)
+Christoph Meinel|09-10-2018|[Conditional Generative Refinement Adversarial Networks for Unbalanced   Medical Image Semantic Segmentation](http://arxiv.org/abs/1810.03871v1)
+Stefan Lee|08-10-2018|[Overcoming Language Priors in Visual Question Answering with Adversarial   Regularization](http://arxiv.org/abs/1810.03649v1)
+Maia Angelova|05-10-2018|[CDF Transform-Shift: An effective way to deal with inhomogeneous density   datasets](http://arxiv.org/abs/1810.02897v1)
+Yueru Chen|05-10-2018|[Interpretable Convolutional Neural Networks via Feedforward Design](http://arxiv.org/abs/1810.02786v1)
+Stephen Roberts|10-10-2018|[Equality Constrained Decision Trees: For the Algorithmic Enforcement of   Group Fairness](http://arxiv.org/abs/1810.05041v1)
+Mihaela van der Schaar|05-10-2018|[Sequential Patient Recruitment and Allocation for Adaptive Clinical   Trials](http://arxiv.org/abs/1810.02876v1)
+Takanori Maehara|11-10-2018|[A Simple Way to Deal with Cherry-picking](http://arxiv.org/abs/1810.04996v1)
+Jon McAuliffe|10-10-2018|[Rao-Blackwellized Stochastic Gradients for Discrete Distributions](http://arxiv.org/abs/1810.04777v1)
+Vladlen Koltun|10-10-2018|[Multi-Task Learning as Multi-Objective Optimization](http://arxiv.org/abs/1810.04650v1)
+Laura E. Barnes|10-10-2018|[Patient2Vec: A Personalized Interpretable Deep Representation of the   Longitudinal Electronic Health Record](http://arxiv.org/abs/1810.04793v1)
+John D. Kelleher|10-10-2018|[Persistence pays off: Paying Attention to What the LSTM Gating Mechanism   Persists](http://arxiv.org/abs/1810.04437v1)
+Chris J. Maddison|09-10-2018|[Doubly Reparameterized Gradient Estimators for Monte Carlo Objectives](http://arxiv.org/abs/1810.04152v1)
+Richard Zemel|08-10-2018|[Understanding the Origins of Bias in Word Embeddings](http://arxiv.org/abs/1810.03611v1)
+Yuan Yao|08-10-2018|[A Unified Dynamic Approach to Sparse Model Selection](http://arxiv.org/abs/1810.03608v1)
+Suchi Saria|06-10-2018|[Discretizing Logged Interaction Data Biases Learning for Decision-Making](http://arxiv.org/abs/1810.03025v1)
+Leandro Krug Wives|10-10-2018|[Is there Gender bias and stereotype in Portuguese Word Embeddings?](http://arxiv.org/abs/1810.04528v1)
+
+
 ## 05-10-2018
  
 main_author|publish_date|title

@@ -1,5 +1,12 @@
 # interpretable
 Click on title for link to paper
+## 12-10-2018
+ 
+main_author|publish_date|title
+---|---|---
+Jun Zhu|09-10-2018|[Analyzing the Noise Robustness of Deep Neural Networks](http://arxiv.org/abs/1810.03913v1)
+
+
 ## 05-10-2018
  
 main_author|publish_date|title
