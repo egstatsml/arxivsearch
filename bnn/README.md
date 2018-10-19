@@ -1,5 +1,24 @@
 # bnn
 Click on title for link to paper
+## 19-10-2018
+ 
+main_author|publish_date|title
+---|---|---
+Wolfgang Banzhaf|08-10-2018|[NSGA-NET: A Multi-Objective Genetic Algorithm for Neural Architecture   Search](http://arxiv.org/abs/1810.03522v1)
+Song-Chun Zhu|09-10-2018|[A Tale of Three Probabilistic Families: Discriminative, Descriptive and   Generative Models](http://arxiv.org/abs/1810.04261v1)
+Suhas Suresha|08-10-2018|[Probabilistic Semantic Inpainting with Pixel Constrained CNNs](http://arxiv.org/abs/1810.03728v1)
+Stephan Mandt|05-10-2018|[Deep Probabilistic Video Compression](http://arxiv.org/abs/1810.02845v1)
+Jascha Sohl-Dickstein|11-10-2018|[Bayesian Convolutional Neural Networks with Many Channels are Gaussian   Processes](http://arxiv.org/abs/1810.05148v1)
+Danica Kragic|10-10-2018|[Global Search with Bernoulli Alternation Kernel for Task-oriented   Grasping Informed by Simulation](http://arxiv.org/abs/1810.04438v1)
+Padhraic Smyth|09-10-2018|[Unifying the Dropout Family Through Structured Shrinkage Priors](http://arxiv.org/abs/1810.04045v1)
+Alexander L. Gaunt|09-10-2018|[Fixing Variational Bayes: Deterministic Variational Inference for   Bayesian Neural Networks](http://arxiv.org/abs/1810.03958v1)
+Tomi Peltola|05-10-2018|[Local Interpretable Model-agnostic Explanations of Bayesian Predictive   Models via Kullback-Leibler Projections](http://arxiv.org/abs/1810.02678v1)
+Hinrich Schütze|09-10-2018|[textTOvec: Deep Contextualized Neural Autoregressive Models of Language   with Distributed Compositional Prior](http://arxiv.org/abs/1810.03947v2)
+Srikumar Ramalingam|08-10-2018|[Empirical Bounds on Linear Regions of Deep Rectifier Networks](http://arxiv.org/abs/1810.03370v1)
+Dustin Wright|07-10-2018|[Rethinking Recurrent Latent Variable Model for Music Composition](http://arxiv.org/abs/1810.03226v1)
+Ralf Wessel|07-10-2018|[Pre-Synaptic Pool Modification (PSPM): A Supervised Learning Procedure   for Spiking Neural Networks](http://arxiv.org/abs/1810.03199v2)
+
+
 ## 12-10-2018
  
 main_author|publish_date|title
