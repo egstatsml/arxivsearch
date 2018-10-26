@@ -1,5 +1,27 @@
 # bnn
 Click on title for link to paper
+## 26-10-2018
+ 
+main_author|publish_date|title
+---|---|---
+Orcun Goksel|22-10-2018|[Implicit Modeling with Uncertainty Estimation for Intravoxel Incoherent   Motion Imaging](http://arxiv.org/abs/1810.10358v1)
+Dmitry Vetrov|25-10-2018|[Bayesian Compression for Natural Language Processing](http://arxiv.org/abs/1810.10927v1)
+Surya Ganguli|23-10-2018|[Statistical mechanics of low-rank tensor decomposition](http://arxiv.org/abs/1810.10065v1)
+Demba Ba|23-10-2018|[Clustering Time Series with Nonlinear Dynamics: A Bayesian   Non-Parametric and Particle-Based Approach](http://arxiv.org/abs/1810.09920v2)
+Michael Gutmann|23-10-2018|[Efficient Bayesian Experimental Design for Implicit Models](http://arxiv.org/abs/1810.09912v1)
+Michael U. Gutmann|23-10-2018|[Dynamic Likelihood-free Inference via Ratio Estimation (DIRE)](http://arxiv.org/abs/1810.09899v1)
+Xiaoning Qian|22-10-2018|[Bayesian multi-domain learning for cancer subtype discovery from   next-generation sequencing count data](http://arxiv.org/abs/1810.09433v1)
+Emily B. Fox|22-10-2018|[Stochastic Gradient MCMC for State Space Models](http://arxiv.org/abs/1810.09098v1)
+Osvaldo Simeone|21-10-2018|[Training Dynamic Exponential Family Models with Causal and Lateral   Dependencies for Generalized Neuromorphic Computing](http://arxiv.org/abs/1810.08940v2)
+Jonathan P. How|19-10-2018|[Safe Reinforcement Learning with Model Uncertainty Estimates](http://arxiv.org/abs/1810.08700v1)
+Mingyuan Zhou|19-10-2018|[Nonparametric Bayesian Lomax delegate racing for survival analysis with   competing risks](http://arxiv.org/abs/1810.08564v1)
+David B Dunson|19-10-2018|[Bayesian Distance Clustering](http://arxiv.org/abs/1810.08537v1)
+Stephen Boyd|22-10-2018|[Learning Probabilistic Trajectory Models of Aircraft in Terminal   Airspace from Position Data](http://arxiv.org/abs/1810.09568v1)
+Richard G. Baraniuk|22-10-2018|[From Hard to Soft: Understanding Deep Network Nonlinearities via Vector   Quantization and Statistical Inference](http://arxiv.org/abs/1810.09274v1)
+Xin Guo|22-10-2018|[Sparsemax and Relaxed Wasserstein for Topic Sparsity](http://arxiv.org/abs/1810.09079v1)
+J. Corander|23-10-2018|[Machine Learning Accelerated Likelihood-Free Event Reconstruction in   Dark Matter Direct Detection](http://arxiv.org/abs/1810.09930v1)
+
+
 ## 19-10-2018
  
 main_author|publish_date|title

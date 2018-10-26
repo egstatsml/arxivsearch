@@ -1,5 +1,31 @@
 # fairness
 Click on title for link to paper
+## 26-10-2018
+ 
+main_author|publish_date|title
+---|---|---
+Xuanjing Huang|23-10-2018|[Meta-Learning Multi-task Communication](http://arxiv.org/abs/1810.09988v1)
+Konstantinos N. Plataniotis|25-10-2018|[Convolutional Deblurring for Natural Imaging](http://arxiv.org/abs/1810.10725v1)
+Dmitriy Kruchinin|24-10-2018|[Why every GBDT speed benchmark is wrong](http://arxiv.org/abs/1810.10380v1)
+Aaron Roth|20-10-2018|[The Frontiers of Fairness in Machine Learning](http://arxiv.org/abs/1810.08810v1)
+Massimiliano Pontil|19-10-2018|[Taking Advantage of Multitask Learning for Fair Classification](http://arxiv.org/abs/1810.08683v1)
+Leonardo Querzoni|23-10-2018|[Unsupervised Features Extraction for Binary Similarity Using Graph   Embedding Neural Networks](http://arxiv.org/abs/1810.09683v1)
+Aaron Courville|22-10-2018|[Ordered Neurons: Integrating Tree Structures into Recurrent Neural   Networks](http://arxiv.org/abs/1810.09536v1)
+Salvatore Ruggieri|22-10-2018|[Assessing the Stability of Interpretable Models](http://arxiv.org/abs/1810.09352v1)
+Daria Teterina|22-10-2018|[Ensemble Method for Censored Demand Prediction](http://arxiv.org/abs/1810.09166v1)
+Emily B. Fox|22-10-2018|[Stochastic Gradient MCMC for State Space Models](http://arxiv.org/abs/1810.09098v1)
+Patrick Riley|19-10-2018|[Optimization of Molecules via Deep Reinforcement Learning](http://arxiv.org/abs/1810.08678v2)
+Nando de Freitas|19-10-2018|[Intrinsic Social Motivation via Causal Influence in Multi-Agent RL](http://arxiv.org/abs/1810.08647v1)
+Ioannis Mitliagkas|19-10-2018|[A Modern Take on the Bias-Variance Tradeoff in Neural Networks](http://arxiv.org/abs/1810.08591v1)
+Sanket Biswas|23-10-2018|[A Statistical Approach to Adult Census Income Level Prediction](http://arxiv.org/abs/1810.10076v1)
+Michael U. Gutmann|23-10-2018|[Dynamic Likelihood-free Inference via Ratio Estimation (DIRE)](http://arxiv.org/abs/1810.09899v1)
+Pietro Liò|22-10-2018|[Introducing Curvature to the Label Space](http://arxiv.org/abs/1810.09549v1)
+Sahand Negahban|22-10-2018|[Alternating Linear Bandits for Online Matrix-Factorization   Recommendation](http://arxiv.org/abs/1810.09401v1)
+David Evans|22-10-2018|[Cost-Sensitive Robustness against Adversarial Examples](http://arxiv.org/abs/1810.09225v1)
+Tong Zhang|24-10-2018|[Modeling Localness for Self-Attention Networks](http://arxiv.org/abs/1810.10182v1)
+Valeria de Paiva|22-10-2018|[Linguistic Legal Concept Extraction in Portuguese](http://arxiv.org/abs/1810.09379v1)
+
+
 ## 19-10-2018
  
 main_author|publish_date|title
