@@ -1,5 +1,27 @@
 # fairness
 Click on title for link to paper
+## 02-11-2018
+ 
+main_author|publish_date|title
+---|---|---
+Philip H. S. Torr|30-10-2018|[R$^3$SGM: Real-time Raster-Respecting Semi-Global Matching for   Power-Constrained Systems](http://arxiv.org/abs/1810.12988v1)
+Shawn Newsam|30-10-2018|[Gated Transfer Network for Transfer Learning](http://arxiv.org/abs/1810.12521v1)
+Raphael Sgier|29-10-2018|[DeepSphere: Efficient spherical Convolutional Neural Network with   HEALPix sampling for cosmological applications](http://arxiv.org/abs/1810.12186v1)
+Ricardo Nishihara|29-10-2018|[Burst ranking for blind multi-image deblurring](http://arxiv.org/abs/1810.12121v2)
+Sujit Gujar|01-11-2018|[A Neural Network Framework for Fair Classifier](http://arxiv.org/abs/1811.00247v1)
+Santosh Vempala|31-10-2018|[The Price of Fair PCA: One Extra Dimension](http://arxiv.org/abs/1811.00103v1)
+Manolis Kellis|01-11-2018|[A latent topic model for mining heterogenous non-randomly missing   electronic health records data](http://arxiv.org/abs/1811.00464v1)
+Carla P. Gomes|01-11-2018|[Bias Reduction via End-to-End Shift Learning: Application to Citizen   Science](http://arxiv.org/abs/1811.00458v1)
+Doina Precup|01-11-2018|[Temporal Regularization in Markov Decision Process](http://arxiv.org/abs/1811.00429v1)
+Takeichiro Nishikawa|01-11-2018|[HMLasso: Lasso for High Dimensional and Highly Missing Data](http://arxiv.org/abs/1811.00255v1)
+James Glass|31-10-2018|[On The Inductive Bias of Words in Acoustics-to-Word Models](http://arxiv.org/abs/1810.13407v1)
+Chandler Zuo|27-10-2018|[Regularization Effect of Fast Gradient Sign Method and its   Generalization](http://arxiv.org/abs/1810.11711v2)
+Eamonn Keogh|31-10-2018|[The UEA multivariate time series classification archive, 2018](http://arxiv.org/abs/1811.00075v1)
+Nathan Srebro|28-10-2018|[On preserving non-discrimination when combining expert advice](http://arxiv.org/abs/1810.11829v1)
+Gianluca Francini|28-10-2018|[Learning Sparse Neural Networks via Sensitivity-Driven Regularization](http://arxiv.org/abs/1810.11764v1)
+Venkatadheeraj Pichapati|28-10-2018|[On Learning Markov Chains](http://arxiv.org/abs/1810.11754v1)
+
+
 ## 26-10-2018
  
 main_author|publish_date|title

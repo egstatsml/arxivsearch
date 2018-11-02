@@ -1,5 +1,27 @@
 # bnn
 Click on title for link to paper
+## 02-11-2018
+ 
+main_author|publish_date|title
+---|---|---
+Eduard Vazquez|01-11-2018|[Convolutional Recurrent Predictor: Implicit Representation for   Multi-target Filtering and Tracking](http://arxiv.org/abs/1811.00313v1)
+Bruce J. Worton|01-11-2018|[Multiplicative Latent Force Models](http://arxiv.org/abs/1811.00423v1)
+Linwei Wang|31-10-2018|[Deep Generative Model with Beta Bernoulli Process for Modeling and   Learning Confounding Factors](http://arxiv.org/abs/1811.00073v1)
+James Hensman|30-10-2018|[Gaussian Process Conditional Density Estimation](http://arxiv.org/abs/1810.12750v1)
+Justin Domke|30-10-2018|[Using Large Ensembles of Control Variates for Variational Inference](http://arxiv.org/abs/1810.12482v1)
+Byron Boots|29-10-2018|[Learning and Inference in Hilbert Space with Quantum Graphical Models](http://arxiv.org/abs/1810.12369v1)
+Andrew Gordon Wilson|29-10-2018|[Scaling Gaussian Process Regression with Derivatives](http://arxiv.org/abs/1810.12283v1)
+Ethan M. Rudd|29-10-2018|[Principled Uncertainty Estimation for Deep Neural Networks](http://arxiv.org/abs/1810.12278v1)
+Maurizio Filippone|29-10-2018|[Variational Calibration of Computer Models](http://arxiv.org/abs/1810.12177v1)
+Bo Zhang|29-10-2018|[Semi-crowdsourced Clustering with Deep Generative Models](http://arxiv.org/abs/1810.11971v1)
+Qiang Liu|29-10-2018|[Variational Inference with Tail-adaptive f-Divergence](http://arxiv.org/abs/1810.11943v1)
+Dacheng Tao|29-10-2018|[The Expressive Power of Parameterized Quantum Circuits](http://arxiv.org/abs/1810.11922v1)
+Tomoyuki Obuchi|29-10-2018|[Mean-field theory of graph neural networks in graph partitioning](http://arxiv.org/abs/1810.11908v1)
+Parvez Ahammad|26-10-2018|[MCA-based Rule Mining Enables Interpretable Inference in Clinical   Psychiatry](http://arxiv.org/abs/1810.11558v1)
+Peer-Timo Bremer|31-10-2018|[Understanding Deep Neural Networks through Input Uncertainties](http://arxiv.org/abs/1810.13425v2)
+Dilin Wang|27-10-2018|[Stein Variational Gradient Descent as Moment Matching](http://arxiv.org/abs/1810.11693v1)
+
+
 ## 26-10-2018
  
 main_author|publish_date|title
