@@ -1,5 +1,32 @@
 # bnn
 Click on title for link to paper
+## 09-11-2018
+ 
+main_author|publish_date|title
+---|---|---
+Adam Lesnikowski|08-11-2018|[Large-Scale Visual Active Learning with Deep Probabilistic Ensembles](http://arxiv.org/abs/1811.03575v1)
+Stefanie Speidel|08-11-2018|[Active Learning using Deep Bayesian Networks for Surgical Workflow   Analysis](http://arxiv.org/abs/1811.03382v1)
+Bert de Vries|08-11-2018|[A Factor Graph Approach to Automated Design of Bayesian Signal   Processing Algorithms](http://arxiv.org/abs/1811.03407v1)
+Omesh Tickoo|08-11-2018|[BAR: Bayesian Activity Recognition using variational inference](http://arxiv.org/abs/1811.03305v1)
+Lin Lin|07-11-2018|[Explaining Deep Learning Models - A Bayesian Non-parametric Approach](http://arxiv.org/abs/1811.03422v1)
+Lang Tong|07-11-2018|[Bayesian State Estimation for Unobservable Distribution Systems via Deep   Learning](http://arxiv.org/abs/1811.02756v1)
+Adam Lesnikowski|06-11-2018|[Deep Probabilistic Ensembles: Approximate Variational Inference through   KL Regularization](http://arxiv.org/abs/1811.02640v1)
+Bin Cui|06-11-2018|[Fast Hyperparameter Optimization of Deep Neural Networks via Ensembling   Multiple Surrogates](http://arxiv.org/abs/1811.02319v2)
+David Cortes|05-11-2018|[Fast Non-Bayesian Poisson Factorization for Implicit-Feedback   Recommendations](http://arxiv.org/abs/1811.01908v1)
+Jun Fang|05-11-2018|[Low-Rank Phase Retrieval via Variational Bayesian Learning](http://arxiv.org/abs/1811.01574v1)
+Michael Bowling|04-11-2018|[Bayesian Action Decoder for Deep Multi-Agent Reinforcement Learning](http://arxiv.org/abs/1811.01458v1)
+Viet Hung Tran|03-11-2018|[Variational Bayes Inference in Digital Receivers](http://arxiv.org/abs/1811.02506v1)
+Jianfei Cai|03-11-2018|[Large-scale Heteroscedastic Regression via Gaussian Process](http://arxiv.org/abs/1811.01179v1)
+Brian D. Ziebart|07-11-2018|[Distributionally Robust Graphical Models](http://arxiv.org/abs/1811.02728v1)
+Arno Solin|06-11-2018|[Unifying Probabilistic Models for Time-Frequency Analysis](http://arxiv.org/abs/1811.02489v3)
+Rif A. Saurous|05-11-2018|[Simple, Distributed, and Accelerated Probabilistic Programming](http://arxiv.org/abs/1811.02091v1)
+Jun Tani|04-11-2018|[Learning to Embed Probabilistic Structures Between Deterministic Chaos   and Random Process in a Variational Bayes Predictive-Coding RNN](http://arxiv.org/abs/1811.01339v1)
+Shimon Whiteson|03-11-2018|[VIREL: A Variational Inference Framework for Reinforcement Learning](http://arxiv.org/abs/1811.01132v1)
+Dr. Surinder Singh|02-11-2018|[Algorithms for screening of Cervical Cancer: A chronological review](http://arxiv.org/abs/1811.00849v1)
+Sam Kwong|04-11-2018|[A Batched Scalable Multi-Objective Bayesian Optimization Algorithm](http://arxiv.org/abs/1811.01323v1)
+Charles Sutton|02-11-2018|[Probabilistic Programming with Densities in SlicStan: Efficient,   Flexible and Deterministic](http://arxiv.org/abs/1811.00890v1)
+
+
 ## 02-11-2018
  
 main_author|publish_date|title
