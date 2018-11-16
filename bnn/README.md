@@ -1,5 +1,28 @@
 # bnn
 Click on title for link to paper
+## 16-11-2018
+ 
+main_author|publish_date|title
+---|---|---
+Marek Petrik|15-11-2018|[Tight Bayesian Ambiguity Sets for Robust MDPs](http://arxiv.org/abs/1811.06512v1)
+Jan-Willem van de Meent|14-11-2018|[Composing Modeling and Inference Operations with Probabilistic Program   Combinators](http://arxiv.org/abs/1811.05965v2)
+Ozan Öktem|14-11-2018|[Deep Bayesian Inversion](http://arxiv.org/abs/1811.05910v1)
+Carlos Sarraute|13-11-2018|[Comparison of Feature Extraction Methods and Predictors for Income   Inference](http://arxiv.org/abs/1811.05375v1)
+Mohammad Emtiyaz Khan|11-11-2018|[SLANG: Fast Structured Covariance Approximations for Bayesian Deep   Learning with Natural Gradient](http://arxiv.org/abs/1811.04504v1)
+Sally Cripps|11-11-2018|[Langevin-gradient parallel tempering for Bayesian neural learning](http://arxiv.org/abs/1811.04343v1)
+Carlos Sarraute|10-11-2018|[A Bayesian Approach to Income Inference in a Communication Network](http://arxiv.org/abs/1811.04246v1)
+Sujit K Sahu|09-11-2018|[A Bayesian Perspective of Statistical Machine Learning for Big Data](http://arxiv.org/abs/1811.04788v2)
+Patric Fulop|09-11-2018|[Deep Ensemble Bayesian Active Learning : Addressing the Mode Collapse   issue in Monte Carlo dropout via Ensembles](http://arxiv.org/abs/1811.03897v1)
+Maria I. Gorinova|15-11-2018|[Effect Handling for Composable Program Transformations in Edward2](http://arxiv.org/abs/1811.06150v1)
+Jay Nanduri|14-11-2018|[Predictive Modeling with Delayed Information: a Case Study in E-commerce   Transaction Fraud Control](http://arxiv.org/abs/1811.06109v1)
+Kenney Ng|14-11-2018|[Unsupervised learning with contrastive latent variable models](http://arxiv.org/abs/1811.06094v1)
+Saurabh Johri|12-11-2018|[Universal Marginalizer for Amortised Inference and Embedding of   Generative Models](http://arxiv.org/abs/1811.04727v1)
+Keisuke Ishibashi|12-11-2018|[Estimation of Dimensions Contributing to Detected Anomalies with   Variational Autoencoders](http://arxiv.org/abs/1811.04576v1)
+Mathijs de Vaan|11-11-2018|[Discovering heterogeneous subpopulations for fine-grained analysis of   opioid use and opioid use disorders](http://arxiv.org/abs/1811.04344v1)
+Paris Perdikaris|09-11-2018|[Adversarial Uncertainty Quantification in Physics-Informed Neural   Networks](http://arxiv.org/abs/1811.04026v1)
+Ngai Wong|09-11-2018|[Deep Compression of Sum-Product Networks on Tensor Networks](http://arxiv.org/abs/1811.03963v1)
+
+
 ## 09-11-2018
  
 main_author|publish_date|title

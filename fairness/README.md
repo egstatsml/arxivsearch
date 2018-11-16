@@ -1,5 +1,29 @@
 # fairness
 Click on title for link to paper
+## 16-11-2018
+ 
+main_author|publish_date|title
+---|---|---
+Cecilia M. Lindgren|15-11-2018|[Adjusting for Confounding in Unsupervised Latent Representations of   Images](http://arxiv.org/abs/1811.06498v1)
+Alexander Wong|14-11-2018|[ProstateGAN: Mitigating Data Bias via Prostate Diffusion Imaging   Synthesis with Generative Adversarial Networks](http://arxiv.org/abs/1811.05817v1)
+Bailing Zhang|13-11-2018|[Image Captioning Based on a Hierarchical Attention Mechanism and Policy   Gradient Optimization](http://arxiv.org/abs/1811.05253v1)
+Zhongbo Zhang|12-11-2018|[Depth Image Upsampling based on Guided Filter with Low Gradient   Minimization](http://arxiv.org/abs/1811.04620v1)
+Alexander Wong|10-11-2018|[PolyNeuron: Automatic Neuron Discovery via Learned Polyharmonic Spline   Activations](http://arxiv.org/abs/1811.04303v1)
+Joelle Pineau|14-11-2018|[Natural Environment Benchmarks for Reinforcement Learning](http://arxiv.org/abs/1811.06032v1)
+Stephan Günnemann|14-11-2018|[Pitfalls of Graph Neural Network Evaluation](http://arxiv.org/abs/1811.05868v1)
+Rayid Ghani|14-11-2018|[Aequitas: A Bias and Fairness Audit Toolkit](http://arxiv.org/abs/1811.05577v1)
+Amin Karbasi|12-11-2018|[Eliminating Latent Discrimination: Train Then Mask](http://arxiv.org/abs/1811.04973v1)
+John Schumacher|12-11-2018|[Characterizing machine learning process: A maturity framework](http://arxiv.org/abs/1811.04871v1)
+Nicolas Heess|15-11-2018|[Woulda, Coulda, Shoulda: Counterfactually-Guided Policy Search](http://arxiv.org/abs/1811.06272v1)
+Sergey Pankov|15-11-2018|[Reward-estimation variance elimination in sequential decision processes](http://arxiv.org/abs/1811.06225v1)
+Aran Komatsuzaki|14-11-2018|[Extractive Summary as Discrete Latent Variables](http://arxiv.org/abs/1811.05542v1)
+Tie-Yan Liu|13-11-2018|[Modeling Local Dependence in Natural Language with Multi-channel   Recurrent Neural Networks](http://arxiv.org/abs/1811.05121v1)
+Kalyani Desikan|13-11-2018|[Dynamic Feature Scaling for K-Nearest Neighbor Algorithm](http://arxiv.org/abs/1811.05062v1)
+Sebastian Ruder|14-11-2018|[A Hierarchical Multi-task Approach for Learning Embeddings from Semantic   Tasks](http://arxiv.org/abs/1811.06031v1)
+Cheng-Jun Wang|12-11-2018|[The Hidden Shape of Stories Reveals Positivity Bias and Gender Bias](http://arxiv.org/abs/1811.04599v1)
+Zhiyuan Liu|12-11-2018|[Differentiating Concepts and Instances for Knowledge Graph Embedding](http://arxiv.org/abs/1811.04588v1)
+
+
 ## 09-11-2018
  
 main_author|publish_date|title
