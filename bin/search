@@ -31,7 +31,8 @@ def format_dataframe(df):
     #remove repeated entries
     df = df.drop_duplicates(subset=['title'])
     df['title'] = df.apply(
-        lambda row:'[{}]({})'.format(row['title'], row['url']), axis=1)
+        lambda row:'[{}]({})'.format(row['title'].decode('utf-8'),
+                                     row['url']).decode('utf-8'), axis=1)
     df['publish_date'] = df.apply(
         lambda row: row['publish_date'].strftime("%d-%m-%Y"), axis=1)
     #now drop the unnecesary columns
