@@ -35,16 +35,14 @@ class catagory(object):
         search = []
         for sub in self.subject:
             for gen in self.general_terms:
-                search_string = 'cat:{}+AND+(ti:{}+OR+abs:{}'.format(
+                search_string = 'cat:{}+AND+%28ti:{}+OR+abs:{}%29+AND+%28'.format(
                     sub, gen, gen)
 
                 #remove the last +OR+ from the string
-                #and add another +AND+ for the specific terms
-                search_string = search_string[:-4] + ')+AND+('
                 for spec in self.specific_terms:
                     search_string += 'all:' + spec +  '+OR+'
                 #remove the last +OR+ from the string
-                search_string = search_string[:-4] + ')'
+                search_string = search_string[:-4] + '%29'
                 #add the suffix to say how to order the list
                 search_string += '&sortBy=submittedDate&sortOrder=descending'
                 #now add this search string to the list
@@ -88,8 +86,8 @@ class fairness_catagory(catagory):
             'social',
             'unfair',
             'audit',
-            'machine learning',
-            'artificial intelligence',
+            '%22machine+learning%22',
+            '%22artificial+intelligence%22',
             'statistics'
         ]
 
@@ -130,7 +128,7 @@ class variational_catagory(catagory):
             'divergence'
             'marginali',
             'uncertain',
-            'Monte Carlo',
+            '%22Monte+Carlo%22',
             'MCMC',
             'stochastic',
             'reparameterization'
