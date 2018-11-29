@@ -3,7 +3,7 @@ class InvalidCatagory(TypeError):
     def __init__(self, arg):
         print("""Incorrect type for initialising catagory. 
         Input {} of type {} """.format(arg, type(arg)))
-        print(""" Expecting either "bnn","causal" or "variational" """) 
+        print(""" Expecting either "bnn","interpretable", "fairness" or "variational" """) 
         
 
 
@@ -35,7 +35,7 @@ class catagory(object):
         search = []
         for sub in self.subject:
             for gen in self.general_terms:
-                search_string = 'cat:{}+AND+(ti:{}+OR+abs:{}+OR+'.format(
+                search_string = 'cat:{}+AND+(ti:{}+OR+abs:{}'.format(
                     sub, gen, gen)
 
                 #remove the last +OR+ from the string
