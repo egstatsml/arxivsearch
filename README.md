@@ -34,7 +34,12 @@ pip install git+https://github.com/titipata/arxivpy
 #clone this repo
 git clone https://github.com/ethangoan/arxivsearch.git
 #add this module to your PYTHONPATH
-echo PYTHONPATH=$PYTHONPATH/<where you cloned this repo>/arxivsearch
+export PYTHONPATH=$PYTHONPATH:/<where you cloned this repo>/
+```
+To add this package to your Python path permanently (on Linux), you can run the commands
+```bash
+echo PYTHONPATH=$PYTHONPATH:/<where you cloned this repo>/ >> ~/.bashrc
+source ~/.bashrc
 ```
 
 ## Running
@@ -45,6 +50,17 @@ echo PYTHONPATH=$PYTHONPATH/<where you cloned this repo>/arxivsearch
 I have made a bash script that will change to the directory of this repo,
 and then run the update script to push everything to this repo. This script
 is then added to cron so that it can be set to automatically run once a week.
+
+## Adding Your own Terms
+To add your own search catagory,
+1. add a your own category class in `category.py` that inherits from the `category` class
+2. set your general and specific terms as done in the other classes (look for some notes below on how you might want to specify these)
+3. Add your class selection to the `get_category()` class
+4. Update the `InvalidCategoryError` exception string at the top to an informative error message of your choice
+5. You can stop here if you just want to run the `search` script, but if you want to run the concatenate and update all script keep playing along
+6. Update the `bin/update_all` script to include the new search classes you made
+7. If you want to use the Git markdown functionality, you will have to store your credentials using `git config credential.helper store`. You will also have to change the remote path to your own repo where you can push to.
+8. On a Linux machine, you can add the running the `update_all` script to `cron` to schedule it to run automatically (Will be able to do something similar on Windows or Mac)
 
 
 ## Contact
