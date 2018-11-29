@@ -25,7 +25,8 @@ Currently Supported Search Catagories:
 
 
 
-Repo is automatically updated once a week on Fridays 12:30pm AEST (+10 GMT)
+This Repo is automatically updated once a week on Fridays 12:30pm AEST (+10 GMT)
+
 
 ## Install
 ```bash
@@ -38,7 +39,7 @@ export PYTHONPATH=$PYTHONPATH:/<where you cloned this repo>/
 ```
 To add this package to your Python path permanently (on Linux), you can run the commands
 ```bash
-echo export PYTHONPATH=/<where you cloned this repo>/ >> ~/.bashrc
+echo export PYTHONPATH=\$PYTHONPATH:/<where you cloned this repo>/ >> ~/.bashrc
 source ~/.bashrc
 ```
 
@@ -68,8 +69,14 @@ The `subject` refers to the arXiv subject category where the preprint was submit
 
 The next terms are the `general_terms` and the `specific_terms`. The `general_terms` should be broad terms that are related to your field, for example, for my `fairness` category, I include general terms such as `equality` and `bias` which are common terms used when discussing fairness in systems. The `specific_terms` should be specific to your field of interest. Again, for the `fairness` category, I use specific terms such as `algorithms` and `statistics` to limit my search results to fairness preprints within the context of statistics and machine learning.
 
-The search will
+The search will work in the format of,
 
+`within_category & general_terms & specific_terms`
+
+where it will iterate over all of the different combinations of your terms.
+
+### Formatting terms
+The [arXiv API](https://arxiv.org/help/api/user-manual) describes a funky way for formatting your search queries. If you have multiple words in a term you want to search for, you need to format it in a way that arXiv will handle properly. For example, say you want to search for the term `Monte Carlo`, you will need to set your search term to `%22Monte+Carlo%22`. The `%22` is basically a code that translates into double quotes, and the `+` sign is there as the URL that is sent to arXiv for the query can't handle spaces. I might automate this formatting at some point so you don't need to do this.
 
 ## Contact
 If you have any questions, or want me to add a catagory, please feel free to email me
@@ -237,4 +244,5 @@ stat.TH	Statistics Theory
 
 ### TODO
 
-[] Change the way I combine searches from previous week (save a dataframe instead of a markdown file)
+[ ] Change the way I combine searches from previous week (save a dataframe instead of a markdown file)
+[ ] Add automated formatting
