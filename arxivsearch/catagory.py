@@ -116,8 +116,7 @@ class variational_catagory(catagory):
     def __init__(self):
         catagory.__init__(self, 'variational')
         self.general_terms = [
-            'variational',
-            'inference',
+            '%22variational+inference%22',
             'approximat',
             'bayesian',
             'probabilistic',
