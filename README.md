@@ -244,5 +244,6 @@ stat.TH	Statistics Theory
 
 ### TODO
 
-[ ] Change the way I combine searches from previous week (save a dataframe instead of a markdown file)
-[ ] Add automated formatting
+- [ ] Change the way I combine searches from previous week (save a dataframe instead of a markdown file)
+
+- [ ] Add automated formatting
