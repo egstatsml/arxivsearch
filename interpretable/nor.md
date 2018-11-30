@@ -1,6 +1,7 @@
 main_author|publish_date|title
 ---|---|---
-Sotaro Tsukizawa|19-11-2018|[Explain to Fix: A Framework to Interpret and Correct DNN Object Detector   Predictions](http://arxiv.org/abs/1811.08011v1)
-Richard J. Radke|19-11-2018|[Re-Identification with Consistent Attentive Siamese Networks](http://arxiv.org/abs/1811.07487v1)
-Ross Anderson|18-11-2018|[The Taboo Trap: Behavioural Detection of Adversarial Samples](http://arxiv.org/abs/1811.07375v1)
-Vadim Ratner|18-11-2018|[Regularized adversarial examples for model interpretability](http://arxiv.org/abs/1811.07311v2)
+Yejin Choi|27-11-2018|[From Recognition to Cognition: Visual Commonsense Reasoning](http://arxiv.org/abs/1811.10830v1)
+Milos Manic|28-11-2018|[An Adversarial Approach for Explainable AI in Intrusion Detection   Systems](http://arxiv.org/abs/1811.11705v1)
+Madeleine Udell|27-11-2018|[Fairness Under Unawareness: Assessing Disparity When Protected Class Is   Unobserved](http://arxiv.org/abs/1811.11154v1)
+Mihaela van der Schaar|27-11-2018|[What is Interpretable? Using Machine Learning to Design Interpretable   Decision-Support Systems](http://arxiv.org/abs/1811.10799v1)
+Cynthia Rudin|26-11-2018|[Please Stop Explaining Black Box Models for High Stakes Decisions](http://arxiv.org/abs/1811.10154v1)

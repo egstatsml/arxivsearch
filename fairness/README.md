@@ -1,5 +1,29 @@
 # fairness
 Click on title for link to paper
+## 30-11-2018
+ 
+main_author|publish_date|title
+---|---|---
+Ajay Divakaran|26-11-2018|[Stacked Spatio-Temporal Graph Convolutional Networks for Action   Segmentation](http://arxiv.org/abs/1811.10575v2)
+Pascal Fua|27-11-2018|[Eliminating Exposure Bias and Loss-Evaluation Mismatch in Multiple   Object Tracking](http://arxiv.org/abs/1811.10984v1)
+Bailin Deng|24-11-2018|[Robust RGB-D Face Recognition Using Attribute-Aware Loss](http://arxiv.org/abs/1811.09847v1)
+Peter Wonka|23-11-2018|[Do GAN Loss Functions Really Matter?](http://arxiv.org/abs/1811.09567v1)
+Bruce D. Haynes|28-11-2018|[Racial categories in machine learning](http://arxiv.org/abs/1811.11668v1)
+Seda Gürses|27-11-2018|[Questioning the assumptions behind fairness solutions](http://arxiv.org/abs/1811.11293v1)
+Margaret Mitchell|25-11-2018|[50 Years of Test (Un)fairness: Lessons for Machine Learning](http://arxiv.org/abs/1811.10104v1)
+Stephen Roberts|25-11-2018|[Intersectionality: Multiple Group Fairness in Expectation Constraints](http://arxiv.org/abs/1811.09960v1)
+Simo Särkkä|28-11-2018|[Improved Calibration of Numerical Integration Error in Sigma-Point   Filters](http://arxiv.org/abs/1811.11474v1)
+Lucy Colwell|27-11-2018|[Using Attribution to Decode Dataset Bias in Neural Network Models for   Chemistry](http://arxiv.org/abs/1811.11310v1)
+Siddhartha Jayanti|26-11-2018|[HOGWILD!-Gibbs can be PanAccurate](http://arxiv.org/abs/1811.10581v1)
+Hai Lu|24-11-2018|[Latent Dirichlet Allocation with Residual Convolutional Neural Network   Applied in Evaluating Credibility of Chinese Listed Companies](http://arxiv.org/abs/1811.11017v1)
+Eric Xing|24-11-2018|[Connecting the Dots Between MLE and RL for Sequence Generation](http://arxiv.org/abs/1811.09740v1)
+Yoshua Bengio|23-11-2018|[Interpretable Convolutional Filters with SincNet](http://arxiv.org/abs/1811.09725v1)
+Rozaida Ghazali|28-11-2018|[Multi-step Time Series Forecasting Using Ridge Polynomial Neural Network   with Error-Output Feedbacks](http://arxiv.org/abs/1811.11620v1)
+Alden K. Walker|27-11-2018|[Knots in random neural networks](http://arxiv.org/abs/1811.11152v1)
+Wang Ling|26-11-2018|[Sentence Encoding with Tree-constrained Relation Networks](http://arxiv.org/abs/1811.10475v1)
+Madeleine Udell|27-11-2018|[Fairness Under Unawareness: Assessing Disparity When Protected Class Is   Unobserved](http://arxiv.org/abs/1811.11154v1)
+
+
 ## 23-11-2018
  
 main_author|publish_date|title
