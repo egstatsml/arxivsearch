@@ -4,7 +4,7 @@ import feedparser
 import datetime
 import pandas as pd
 
-from arxivsearch.catagory import catagory, get_catagory
+from arxivsearch.category import category, get_category
 
 import os
 import argparse
@@ -16,47 +16,62 @@ def main(arguments):
     main()
     Description:
     Will concatenate the list of papers with the README for this 
-    catagory
+    category
     """
     parser = argparse.ArgumentParser(prog="main",
                                      epilog=main.__doc__)
-    parser.add_argument('catagory', type=str, default='bnn',
-                        help="catagory we want to search for")
+    parser.add_argument('category', type=str, default='bnn',
+                        help="category we want to search for")
     args = parser.parse_args(arguments)
-    search_catagory = get_catagory(args.catagory)
     
-    #read in the temp file
-    with open(os.path.join(args.catagory, 'nor.md'), 'r') as temp:
-        temp_lines = temp.readlines()
+    #read in the newest data frame search results
+    new_df = pd.DataFrame.from_csv(
+        os.path.join('./{}/new_df.csv'.format(args.category)), sep = '|')
     #see if the actual file exists
     #if an original readme file exists, lets read it and then prepend
     #the data too it
-    if(os.path.isfile(os.path.join(args.catagory, 'README.md'))):
-        readme = open(os.path.join(args.catagory, 'README.md'), 'r')
-        readme_lines = readme.readlines()
-        readme.close()
+    if(os.path.isfile(os.path.join(args.category, 'readme_df.csv'))):
+        readme_df = pd.DataFrame.from_csv(
+            os.path.join(args.category, 'readme_df.csv'), sep = '|')
+        # now concatenate the old and new dataframes
+        # will save this new dataframe at the end
+        df = pd.concat([new_df, readme_df])
+        # now read in the markdown version of the previous search
+        old_readme = open(os.path.join(args.category, 'README.md'), 'r')
+        old_readme_lines = old_readme.readlines()
+        old_readme.close()
+        #remove the first line of the readme file as this contains the title
+        old_readme_lines = old_readme_lines[2:]
     else:
-        #creating and empty list a few elements long
-        readme_lines = [' '] * 3
-        
-    #open the file so we can write to it now
-    readme = open(os.path.join(args.catagory, 'README.md'), 'w')
-    #remove the first line of the readme file as thic contains the title
-    readme_lines = readme_lines[2:]
+        # the new df is the only df, so just set it to that
+        # will happen when first run
+        df = new_df
+        # will create an empty list that will act as mock up of previously read
+        # data from the Markdown version of search results
+        old_readme_lines = [' '] * 3
 
-    new_readme = ["# " + args.catagory +
-                  '\n', 'Click on title for link to paper\n']
-    new_readme.extend(['## {}\n'.format(
-        datetime.datetime.now().strftime("%d-%m-%Y")), ' \n'])
-    new_readme.extend(temp_lines)
-    new_readme.extend(['\n', '\n'])
-    new_readme.extend(readme_lines)
-    #print new_readme
-    for line in new_readme:
-        readme.write(line)
-    #now close the file
-    readme.close()
+    # order the new dataframe based on the date
+    new_df.sort_values(by='publish_date')
+    # remove the first line of the readme file as thic contains the title
+    old_readme_lines = old_readme_lines[2:]
+    # create the new README markdown file
+    # open the file so we can write to it now)
+    with open(os.path.join(args.category, 'README.md'), 'w') as f:
+        # write the category, instructions and the date
+        f.write("# " + args.category + '\nClick on title for link to paper\n')
+        f.write('## {}\n\n'.format(
+        datetime.datetime.now().strftime("%d-%m-%Y")))
+        # write the new search results
+        new_df.to_csv(f, sep='|')
+        f.write('\n')
+        # now write the data from the previous search results
+        for line in old_readme_lines:
+            f.write(line)
+            
+    # now write the new complete dataframe to file so that we can
+    # use it for our search next time
+    df.to_csv(os.path.join(args.category, "readme_df.csv"),
+                       sep="|", encoding='utf-8')
     
-       
 if __name__ == "__main__":
     sys.exit(main(sys.argv[1:]))
