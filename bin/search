@@ -30,9 +30,13 @@ def format_dataframe(df):
              'journal_ref', 'pdf_url'], axis=1)
     #remove repeated entries
     df = df.drop_duplicates(subset=['title'])
+    types = df.apply(lambda x: pd.api.types.infer_dtype(x.values))
+    for col in types[types=='unicode'].index:
+        df[col] = df[col].apply(lambda x: x.encode('utf-8').strip())
+    
     df['title'] = df.apply(
-        lambda row:'[{}]({})'.format(row['title'].decode('utf-8'),
-                                     row['url']).decode('utf-8'), axis=1)
+        lambda row:'[{}]({})'.format(row['title'],
+                                     row['url']), axis=1)
     df['publish_date'] = df.apply(
         lambda row: row['publish_date'].strftime("%d-%m-%Y"), axis=1)
     #now drop the unnecesary columns
@@ -52,7 +56,7 @@ def load_prev_search(category):
 
     If the previous search results aren't around, will 
     return an dataframe with a single entry with the date from
-    30 days ago where it will begin the search, and will remind
+    60 days ago where it will begin the search, and will remind
     you that you are awesome :)
     Args:
       category (str):
@@ -65,7 +69,7 @@ def load_prev_search(category):
         df = pd.DataFrame.from_csv(df_path, sep='|')
     else:
         start_date = (datetime.datetime.now() -
-                      datetime.timedelta(days = 30)).strftime("%d-%m-%Y")
+                      datetime.timedelta(days = 60)).strftime("%d-%m-%Y")
         df = pd.DataFrame(data =
                           {'title':['---', 'This is where it all Began'],
                            'publish_date':['---', start_date],
@@ -110,7 +114,6 @@ def main(arguments):
         results.extend(arxivpy.query(search_query=search))
 
     #now wil remove any elements that are older than the specified date
-    print(valid_date)
     valid_date = valid_date.replace(tzinfo=None)
     valid_search = [x for x in results
                     if (x['publish_date'].date() > valid_date.date())]
