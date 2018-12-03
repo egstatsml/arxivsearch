@@ -30,7 +30,12 @@ def format_dataframe(df):
              'journal_ref', 'pdf_url'], axis=1)
     #remove repeated entries
     df = df.drop_duplicates(subset=['title'])
+    # sort based on the publish date
+    df = df.sort_values(by='publish_date', ascending=Falsex)
+    print(df)
+    # now make sure everything is the correct type
     types = df.apply(lambda x: pd.api.types.infer_dtype(x.values))
+    print(types)
     for col in types[types=='unicode'].index:
         df[col] = df[col].apply(lambda x: x.encode('utf-8').strip())
     
@@ -124,6 +129,7 @@ def main(arguments):
     markdown_df = format_dataframe(valid_df)
     # Save as markdown
     # check the folder exists
+    print(markdown_df)
     if(not os.path.isdir(args.category)):
         os.mkdir(args.category)
     markdown_df.to_csv(os.path.join(args.category, "new_df.csv"),

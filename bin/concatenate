@@ -49,9 +49,7 @@ def main(arguments):
         # will create an empty list that will act as mock up of previously read
         # data from the Markdown version of search results
         old_readme_lines = [' '] * 3
-
-    # order the new dataframe based on the date
-    new_df.sort_values(by='publish_date')
+        
     # remove the first line of the readme file as thic contains the title
     old_readme_lines = old_readme_lines[2:]
     # create the new README markdown file
