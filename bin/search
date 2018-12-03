@@ -31,7 +31,7 @@ def format_dataframe(df):
     #remove repeated entries
     df = df.drop_duplicates(subset=['title'])
     # sort based on the publish date
-    df = df.sort_values(by='publish_date', ascending=Falsex)
+    df = df.sort_values(by='publish_date', ascending=False)
     print(df)
     # now make sure everything is the correct type
     types = df.apply(lambda x: pd.api.types.infer_dtype(x.values))
