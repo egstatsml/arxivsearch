@@ -27,6 +27,7 @@ Currently Supported Search Catagories:
 
 This Repo is automatically updated once a week on Fridays 12:30pm AEST (+10 GMT)
 
+If you have used a previous commit of this package for your own searches and wish to update, have a look at the [CHANGELOG.md](./CHANGELOG.md) which describes any changes (mostly formatting and name changes to become consistent with the arXiv API).
 
 ## Install
 ```bash
