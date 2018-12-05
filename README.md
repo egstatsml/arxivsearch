@@ -44,10 +44,23 @@ source ~/.bashrc
 ```
 
 ## Running
+Searching for recent preprints:
 ```bash
-#update for the previous 30 days
-./bin/search variational --days 30
+# search most recent papers from specified field
+# should be in format of:
+# ./bin/search <category_of_choice>
+./bin/search variational
 ```
+Concatenating the search reseults from the `search` script with previous search results and displaying them in a markdown format:
+```bash
+# ./bin/concatenate <category_just_searched_for>
+./bin/concatenate variational
+```
+To update all categories, cocnatenate the results and push to Github:
+```bash
+./bin/update_all
+```
+
 I have made a bash script that will change to the directory of this repo,
 and then run the update script to push everything to this repo. This script
 is then added to cron so that it can be set to automatically run once a week.
@@ -56,7 +69,7 @@ is then added to cron so that it can be set to automatically run once a week.
 To add your own search catagory,
 1. add a your own category class in `category.py` that inherits from the `category` class
 2. set your general and specific terms as done in the other classes (look for some notes below on how you might want to specify these)
-3. Add your class selection to the `get_category()` class
+3. Add your class selection to the `get_category()` method
 4. Update the `InvalidCategoryError` exception string at the top to an informative error message of your choice
 5. You can stop here if you just want to run the `search` script, but if you want to run the concatenate and update all script keep playing along
 6. Update the `bin/update_all` script to include the new search classes you made
@@ -244,6 +257,6 @@ stat.TH	Statistics Theory
 
 ### TODO
 
-- [ ] Change the way I combine searches from previous week (save a dataframe instead of a markdown file)
+- [X] Change the way I combine searches from previous week (save a dataframe instead of a markdown file)
 
 - [ ] Add automated formatting
