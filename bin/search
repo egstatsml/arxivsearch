@@ -5,7 +5,7 @@ import feedparser
 import datetime
 import pandas as pd
 
-from arxivsearch.category import category, get_category
+from arxivsearch.topic import topic, get_topic
 
 import os
 import argparse
@@ -54,7 +54,7 @@ def format_dataframe(df):
 
 
 
-def load_prev_search(category):
+def load_prev_search(topic):
     """Will load in the previous search results
 
     If the previous search results aren't around, will 
@@ -62,12 +62,12 @@ def load_prev_search(category):
     60 days ago where it will begin the search, and will remind
     you that you are awesome :)
     Args:
-      category (str):
-        category supplied by command line argument
+      topic (str):
+        topic supplied by command line argument
     Returns:
       Dataframe with the previous search results
     """
-    df_path = os.path.join('./{}/readme_df.csv'.format(category))
+    df_path = os.path.join('./{}/readme_df.csv'.format(topic))
     if(os.path.isfile(df_path)):
         df = pd.DataFrame.from_csv(df_path, sep='|')
     else:
@@ -101,17 +101,17 @@ def main(arguments):
     """
     parser = argparse.ArgumentParser(prog="main",
                                      epilog=main.__doc__)
-    parser.add_argument('category', type=str, default='bnn',
-                        help="category we want to search for")
+    parser.add_argument('topic', type=str, default='bnn',
+                        help="topic we want to search for")
     
     args = parser.parse_args(arguments)
-    search_category = get_category(args.category)
+    search_topic = get_topic(args.topic)
     # get the previous search database
-    prev_search = load_prev_search(args.category)
+    prev_search = load_prev_search(args.topic)
     valid_date = most_recent_date(prev_search)
     
     # get the search terms
-    search_list = search_category.format_search()
+    search_list = search_topic.format_search()
     results = []
     for search in search_list:
         results.extend(arxivpy.query(search_query=search))
@@ -128,9 +128,9 @@ def main(arguments):
     # Save as markdown
     # check the folder exists
     print(markdown_df)
-    if(not os.path.isdir(args.category)):
-        os.mkdir(args.category)
-    markdown_df.to_csv(os.path.join(args.category, "new_df.csv"),
+    if(not os.path.isdir(args.topic)):
+        os.mkdir(args.topic)
+    markdown_df.to_csv(os.path.join(args.topic, "new_df.csv"),
                        sep="|", index=False, encoding='utf-8')
     
 if __name__ == "__main__":
