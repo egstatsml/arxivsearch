@@ -1,5 +1,27 @@
 # fairness
 Click on title for link to paper
+## 07-12-2018
+ 
+main_author|publish_date|title
+---|---|---
+Babak Taati|03-12-2018|[Learning to Unlearn: Building Immunity to Dataset Bias in Medical   Imaging Studies](http://arxiv.org/abs/1812.01716v1)
+Yaohai Huang|01-12-2018|[Racial Faces in-the-Wild: Reducing Racial Bias by Deep Unsupervised   Domain Adaptation](http://arxiv.org/abs/1812.00194v1)
+Leigh H. Whitehead|30-11-2018|[Image-based model parameter optimisation using Model-Assisted Generative   Adversarial Networks](http://arxiv.org/abs/1812.00879v1)
+Nal Kalchbrenner|04-12-2018|[Generating High Fidelity Images with Subscale Pixel Networks and   Multidimensional Upscaling](http://arxiv.org/abs/1812.01608v1)
+Mark Crovella|02-12-2018|[Fighting Fire with Fire: Using Antidote Data to Improve Polarization and   Fairness of Recommender Systems](http://arxiv.org/abs/1812.01504v1)
+Radha Manisha Kopparti|04-12-2018|[Feed-Forward Neural Networks Need Inductive Bias to Learn Equality   Relations](http://arxiv.org/abs/1812.01662v1)
+Lukas Machlica|04-12-2018|[Bad practices in evaluation methodology relevant to class-imbalanced   problems](http://arxiv.org/abs/1812.01388v1)
+Ser-Nam Lim|04-12-2018|[Adversarial Example Decomposition](http://arxiv.org/abs/1812.01198v1)
+Sylvain Navers|03-12-2018|[Protection of an information system by artificial intelligence: a   three-phase approach based on behaviour analysis to detect a hostile scenario](http://arxiv.org/abs/1812.00622v1)
+Sewoong Oh|01-12-2018|[Number of Connected Components in a Graph: Estimation via Counting   Patterns](http://arxiv.org/abs/1812.00139v1)
+Xiaochun Cao|05-12-2018|[Robust Ordinal Embedding from Contaminated Relative Comparisons](http://arxiv.org/abs/1812.01945v1)
+Xunyu Zhou|04-12-2018|[Exploration versus exploitation in reinforcement learning: a stochastic   control approach](http://arxiv.org/abs/1812.01552v1)
+Haiping Lu|30-11-2018|[Graph Node-Feature Convolution for Representation Learning](http://arxiv.org/abs/1812.00086v1)
+Shyam Sudhakaran|30-11-2018|[Modeling natural language emergence with integral transform theory and   reinforcement learning](http://arxiv.org/abs/1812.01431v1)
+Carola Doerr|03-12-2018|[Towards a More Practice-Aware Runtime Analysis of Evolutionary   Algorithms](http://arxiv.org/abs/1812.00493v1)
+Konstantinos Spiliopoulos|05-12-2018|[Information geometry for approximate Bayesian computation](http://arxiv.org/abs/1812.02127v1)
+
+
 ## 30-11-2018
  
 main_author|publish_date|title
