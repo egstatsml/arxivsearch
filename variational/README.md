@@ -1,10 +1,18 @@
 # variational
 Click on title for link to paper
-
-## 03-12-2018
+## 10-12-2018
 
 main_author|publish_date|title
 ---|---|---
+R. Venkatesh Babu|06-12-2018|[BiHMP-GAN: Bidirectional 3D Human Motion Prediction GAN](http://arxiv.org/abs/1812.02591v1)
+Michael Osborne|04-12-2018|[Batch Selection for Parallelisation of Bayesian Quadrature](http://arxiv.org/abs/1812.01553v1)
+Yuanyuan Liu|04-12-2018|[Parallel-tempered Stochastic Gradient Hamiltonian Monte Carlo for   Approximate Multimodal Posterior Sampling](http://arxiv.org/abs/1812.01181v2)
+Tony Jebara|03-12-2018|[Thompson Sampling for Noncompliant Bandits](http://arxiv.org/abs/1812.00856v1)
+Tim Cheng|03-12-2018|[Deep Hierarchical Machine: a Flexible Divide-and-Conquer Architecture](http://arxiv.org/abs/1812.00647v1)
+Akshat Kumar|03-12-2018|[Resource Constrained Deep Reinforcement Learning](http://arxiv.org/abs/1812.00600v1)
+KouZi Xing|02-12-2018|[Training for 'Unstable' CNN Accelerator:A Case Study on FPGA](http://arxiv.org/abs/1812.01689v1)
+David Rios Insua|30-11-2018|[Stochastic Gradient MCMC with Repulsive Forces](http://arxiv.org/abs/1812.00071v1)
+Andrej Risteski|29-11-2018|[Simulated Tempering Langevin Monte Carlo II: An Improved Proof using   Soft Markov Chain Decomposition](http://arxiv.org/abs/1812.00793v1)
 Tamara Broderick|28-11-2018|[Reconstructing probabilistic trees of cellular differentiation from   single-cell RNA-seq data](http://arxiv.org/abs/1811.11790v1)
 Ronald F. DeMara|28-11-2018|[Composable Probabilistic Inference Networks Using MRAM-based Stochastic   Neurons](http://arxiv.org/abs/1811.11390v1)
 Leonid Sigal|28-11-2018|[Image Generation from Layout](http://arxiv.org/abs/1811.11389v2)
@@ -15,10 +23,12 @@ Carlo Zaniolo|26-11-2018|[Embedding Uncertain Knowledge Graphs](http://arxiv.org
 Eric Moulines|25-11-2018|[The promises and pitfalls of Stochastic Gradient Langevin Dynamics](http://arxiv.org/abs/1811.10072v1)
 M. Pawan Kumar|25-11-2018|[Dissimilarity Coefficient based Weakly Supervised Object Detection](http://arxiv.org/abs/1811.10016v1)
 Christian Wachinger|24-11-2018|[Bayesian QuickNAT: Model Uncertainty in Deep Whole-Brain Segmentation   for Structure-wise Quality Control](http://arxiv.org/abs/1811.09800v1)
+Yarin Gal|23-11-2018|[On the Importance of Strong Baselines in Bayesian Deep Learning](http://arxiv.org/abs/1811.09385v2)
 Peter Stone|21-11-2018|[Integrating Task-Motion Planning with Reinforcement Learning for Robust   Decision Making in Mobile Robots](http://arxiv.org/abs/1811.08955v1)
 Changyou Chen|21-11-2018|[Self-Adversarially Learned Bayesian Sampling](http://arxiv.org/abs/1811.08929v1)
 Anton Osokin|21-11-2018|[Marginal Weighted Maximum Log-likelihood for Efficient Learning of   Perturb-and-Map models](http://arxiv.org/abs/1811.08725v1)
 Arpit Kapoor|21-11-2018|[Surrogate-assisted parallel tempering for Bayesian neural learning](http://arxiv.org/abs/1811.08687v1)
+Noah D. Goodman|21-11-2018|[Joint Mapping and Calibration via Differentiable Sensor Fusion](http://arxiv.org/abs/1812.00880v1)
 Fabio Zanasi|20-11-2018|[Causal Inference by String Diagram Surgery](http://arxiv.org/abs/1811.08338v1)
 Changyou Chen|20-11-2018|[Variance Reduction in Stochastic Particle-Optimization Sampling](http://arxiv.org/abs/1811.08052v1)
 Thomas Vetter|19-11-2018|[Informed MCMC with Bayesian Neural Networks for Facial Image Analysis](http://arxiv.org/abs/1811.07969v2)
@@ -27,14 +37,14 @@ Marek Petrik|15-11-2018|[Tight Bayesian Ambiguity Sets for Robust MDPs](http://a
 Jay Nanduri|14-11-2018|[Predictive Modeling with Delayed Information: a Case Study in E-commerce   Transaction Fraud Control](http://arxiv.org/abs/1811.06109v1)
 Jan-Willem van de Meent|14-11-2018|[Composing Modeling and Inference Operations with Probabilistic Program   Combinators](http://arxiv.org/abs/1811.05965v3)
 Ram Rajagopal|14-11-2018|[Fast Distribution Grid Line Outage Identification with $μ$PMU](http://arxiv.org/abs/1811.05646v1)
-James Davidson|12-11-2018|[Learning Latent Dynamics for Planning from Pixels](http://arxiv.org/abs/1811.04551v1)
+James Davidson|12-11-2018|[Learning Latent Dynamics for Planning from Pixels](http://arxiv.org/abs/1811.04551v2)
 Mohammad Emtiyaz Khan|11-11-2018|[SLANG: Fast Structured Covariance Approximations for Bayesian Deep   Learning with Natural Gradient](http://arxiv.org/abs/1811.04504v1)
 I. Y. Tyukin|11-11-2018|[Correction of AI systems by linear discriminants: Probabilistic   foundations](http://arxiv.org/abs/1811.05321v1)
 Sally Cripps|11-11-2018|[Langevin-gradient parallel tempering for Bayesian neural learning](http://arxiv.org/abs/1811.04343v1)
 Patric Fulop|09-11-2018|[Deep Ensemble Bayesian Active Learning : Addressing the Mode Collapse   issue in Monte Carlo dropout via Ensembles](http://arxiv.org/abs/1811.03897v1)
 Bert de Vries|08-11-2018|[A Factor Graph Approach to Automated Design of Bayesian Signal   Processing Algorithms](http://arxiv.org/abs/1811.03407v1)
 Stefanie Speidel|08-11-2018|[Prediction of laparoscopic procedure duration using unlabeled,   multimodal sensor data](http://arxiv.org/abs/1811.03384v1)
-Omesh Tickoo|08-11-2018|[BAR: Bayesian Activity Recognition using variational inference](http://arxiv.org/abs/1811.03305v1)
+Omesh Tickoo|08-11-2018|[BAR: Bayesian Activity Recognition using variational inference](http://arxiv.org/abs/1811.03305v2)
 Lang Tong|07-11-2018|[Bayesian State Estimation for Unobservable Distribution Systems via Deep   Learning](http://arxiv.org/abs/1811.02756v2)
 Artur Dubrawski|06-11-2018|[Double Adaptive Stochastic Gradient Optimization](http://arxiv.org/abs/1811.02525v1)
 Quanjun Yin|05-11-2018|[Combining Subgoal Graphs with Reinforcement Learning to Build a Rational   Pathfinder](http://arxiv.org/abs/1811.01700v1)
@@ -65,13 +75,5 @@ Xiangyang Xue|17-10-2018|[Learning to Separate Domains in Generalized Zero-Shot 
 Carl Henrik Ek|16-10-2018|[Multimodal Deep Gaussian Processes](http://arxiv.org/abs/1810.07158v1)
 Dmitry Vetrov|16-10-2018|[Metropolis-Hastings view on variational inference and adversarial   training](http://arxiv.org/abs/1810.07151v1)
 Luigi Acerbi|12-10-2018|[Variational Bayesian Monte Carlo](http://arxiv.org/abs/1810.05558v2)
-Jascha Sohl-Dickstein|11-10-2018|[Bayesian Convolutional Neural Networks with Many Channels are Gaussian   Processes](http://arxiv.org/abs/1810.05148v1)
-Chris J. Maddison|09-10-2018|[Doubly Reparameterized Gradient Estimators for Monte Carlo Objectives](http://arxiv.org/abs/1810.04152v2)
-Padhraic Smyth|09-10-2018|[Unifying the Dropout Family Through Structured Shrinkage Priors](http://arxiv.org/abs/1810.04045v1)
-Alexander L. Gaunt|09-10-2018|[Fixing Variational Bayes: Deterministic Variational Inference for   Bayesian Neural Networks](http://arxiv.org/abs/1810.03958v1)
-Lexing Xie|08-10-2018|[Efficient Non-parametric Bayesian Hawkes Processes](http://arxiv.org/abs/1810.03730v2)
-Jennifer Listgarten|08-10-2018|[Design by adaptive sampling](http://arxiv.org/abs/1810.03714v3)
-Dmitry Vetrov|05-10-2018|[Doubly Semi-Implicit Variational Inference](http://arxiv.org/abs/1810.02789v1)
-Stefano Ermon|05-10-2018|[Differentiable Antithetic Sampling for Variance Reduction in Stochastic   Variational Inference](http://arxiv.org/abs/1810.02555v1)
 
  
