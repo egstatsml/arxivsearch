@@ -7,9 +7,11 @@ if __name__ == "__main__":
     for search in ['bnn', 'fairness', 'variational', 'interpretable']:
         os.system('./bin/search ' + search)
         os.system('./bin/concatenate ' + search)
-        
-        #now push it all to git
-    os.system('git add *')
+        os.system('git add ./{}/README.md'.format(search))
+
+    # add anything else
+    os.system('git add -u')
+    # now push it all to git
     os.system('git commit -m \" update {} \" '.format(
         datetime.datetime.now().strftime("%d-%m-%Y")))
     os.system('git push origin master')

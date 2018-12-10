@@ -5,7 +5,7 @@ import feedparser
 import datetime
 import pandas as pd
 
-from arxivsearch.catagory import catagory, get_catagory
+from arxivsearch.topic import topic, get_topic
 
 import os
 import argparse
@@ -30,9 +30,16 @@ def format_dataframe(df):
              'journal_ref', 'pdf_url'], axis=1)
     #remove repeated entries
     df = df.drop_duplicates(subset=['title'])
+    # sort based on the publish date
+    df = df.sort_values(by='publish_date', ascending=False)
+    # now make sure everything is the correct type
+    types = df.apply(lambda x: pd.api.types.infer_dtype(x.values))
+    for col in types[types=='unicode'].index:
+        df[col] = df[col].apply(lambda x: x.encode('utf-8').strip())
+    
     df['title'] = df.apply(
-        lambda row:'[{}]({})'.format(row['title'].decode('utf-8'),
-                                     row['url']).decode('utf-8'), axis=1)
+        lambda row:'[{}]({})'.format(row['title'],
+                                     row['url']), axis=1)
     df['publish_date'] = df.apply(
         lambda row: row['publish_date'].strftime("%d-%m-%Y"), axis=1)
     #now drop the unnecesary columns
@@ -44,6 +51,46 @@ def format_dataframe(df):
     #Create a new concatenated DataFrame
     df3 = pd.concat([df2, df])
     return(df3)
+
+
+
+def load_prev_search(topic):
+    """Will load in the previous search results
+
+    If the previous search results aren't around, will 
+    return an dataframe with a single entry with the date from
+    60 days ago where it will begin the search, and will remind
+    you that you are awesome :)
+    Args:
+      topic (str):
+        topic supplied by command line argument
+    Returns:
+      Dataframe with the previous search results
+    """
+    df_path = os.path.join('./{}/readme_df.csv'.format(topic))
+    if(os.path.isfile(df_path)):
+        df = pd.DataFrame.from_csv(df_path, sep='|')
+    else:
+        start_date = (datetime.datetime.now() -
+                      datetime.timedelta(days = 60)).strftime("%d-%m-%Y")
+        df = pd.DataFrame(data =
+                          {'title':['---', 'This is where it all Began'],
+                           'publish_date':['---', start_date],
+                           'main_author':['---', 'You\'re Awesome!']})
+    return(df)
+
+
+
+def most_recent_date(prev_df):
+    """Will return the most recent date from the previous df"""
+    # put it in a new data frame, as it allows us to find the maximum a
+    # (most recent date) bit easier
+    date = pd.DataFrame(
+        data = {'publish_date':
+                [datetime.datetime.strptime(d, '%d-%m-%Y')
+                 for d in prev_df.publish_date if (d != '---')]})
+    return date.publish_date.max()
+
 
 
 def main(arguments):
@@ -54,36 +101,36 @@ def main(arguments):
     """
     parser = argparse.ArgumentParser(prog="main",
                                      epilog=main.__doc__)
-    parser.add_argument('catagory', type=str, default='bnn',
-                        help="catagory we want to search for")
-    parser.add_argument('--days', type=int, default=8,
-                        help="nuymber of days we want to search back for")
-    parser.add_argument('--num', type=int, default=0,
-                        help="number of papers to find")
+    parser.add_argument('topic', type=str, default='bnn',
+                        help="topic we want to search for")
+    
     args = parser.parse_args(arguments)
-    search_catagory = get_catagory(args.catagory)
-
-    #get the search terms
-    search_list = search_catagory.format_search()
+    search_topic = get_topic(args.topic)
+    # get the previous search database
+    prev_search = load_prev_search(args.topic)
+    valid_date = most_recent_date(prev_search)
+    
+    # get the search terms
+    search_list = search_topic.format_search()
     results = []
     for search in search_list:
         results.extend(arxivpy.query(search_query=search))
 
     #now wil remove any elements that are older than the specified date
-    valid_date = datetime.datetime.now() - datetime.timedelta(days=args.days)
     valid_date = valid_date.replace(tzinfo=None)
     valid_search = [x for x in results
-                    if ((x['publish_date'].replace(tzinfo=None) - valid_date).days > 0)]
+                    if (x['publish_date'].date() > valid_date.date())]
     
     #convert the search results to a df
     valid_df = pd.DataFrame(valid_search)
     #format the dataframe before we convert it to markdown
     markdown_df = format_dataframe(valid_df)
-    #Save as markdown
-    #check the folder exists
-    if(not os.path.isdir(args.catagory)):
-        os.mkdir(args.catagory)
-    markdown_df.to_csv(os.path.join(args.catagory, "nor.md"),
+    # Save as markdown
+    # check the folder exists
+    print(markdown_df)
+    if(not os.path.isdir(args.topic)):
+        os.mkdir(args.topic)
+    markdown_df.to_csv(os.path.join(args.topic, "new_df.csv"),
                        sep="|", index=False, encoding='utf-8')
     
 if __name__ == "__main__":
