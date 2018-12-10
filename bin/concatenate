@@ -4,7 +4,7 @@ import feedparser
 import datetime
 import pandas as pd
 
-from arxivsearch.category import category, get_category
+from arxivsearch.topic import topic, get_topic
 
 import os
 import argparse
@@ -16,28 +16,28 @@ def main(arguments):
     main()
     Description:
     Will concatenate the list of papers with the README for this 
-    category
+    topic
     """
     parser = argparse.ArgumentParser(prog="main",
                                      epilog=main.__doc__)
-    parser.add_argument('category', type=str, default='bnn',
-                        help="category we want to search for")
+    parser.add_argument('topic', type=str, default='bnn',
+                        help="topic we want to search for")
     args = parser.parse_args(arguments)
     
     #read in the newest data frame search results
     new_df = pd.DataFrame.from_csv(
-        os.path.join('./{}/new_df.csv'.format(args.category)), sep = '|')
+        os.path.join('./{}/new_df.csv'.format(args.topic)), sep = '|')
     #see if the actual file exists
     #if an original readme file exists, lets read it and then prepend
     #the data too it
-    if(os.path.isfile(os.path.join(args.category, 'readme_df.csv'))):
+    if(os.path.isfile(os.path.join(args.topic, 'readme_df.csv'))):
         readme_df = pd.DataFrame.from_csv(
-            os.path.join(args.category, 'readme_df.csv'), sep = '|')
+            os.path.join(args.topic, 'readme_df.csv'), sep = '|')
         # now concatenate the old and new dataframes
         # will save this new dataframe at the end
         df = pd.concat([new_df, readme_df])
         # now read in the markdown version of the previous search
-        old_readme = open(os.path.join(args.category, 'README.md'), 'r')
+        old_readme = open(os.path.join(args.topic, 'README.md'), 'r')
         old_readme_lines = old_readme.readlines()
         old_readme.close()
         #remove the first line of the readme file as this contains the title
@@ -54,9 +54,9 @@ def main(arguments):
     old_readme_lines = old_readme_lines[2:]
     # create the new README markdown file
     # open the file so we can write to it now)
-    with open(os.path.join(args.category, 'README.md'), 'w') as f:
-        # write the category, instructions and the date
-        f.write("# " + args.category + '\nClick on title for link to paper\n')
+    with open(os.path.join(args.topic, 'README.md'), 'w') as f:
+        # write the topic, instructions and the date
+        f.write("# " + args.topic + '\nClick on title for link to paper\n')
         f.write('## {}\n\n'.format(
         datetime.datetime.now().strftime("%d-%m-%Y")))
         # write the new search results
@@ -68,7 +68,7 @@ def main(arguments):
             
     # now write the new complete dataframe to file so that we can
     # use it for our search next time
-    df.to_csv(os.path.join(args.category, "readme_df.csv"),
+    df.to_csv(os.path.join(args.topic, "readme_df.csv"),
                        sep="|", encoding='utf-8')
     
 if __name__ == "__main__":

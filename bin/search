@@ -127,7 +127,6 @@ def main(arguments):
     markdown_df = format_dataframe(valid_df)
     # Save as markdown
     # check the folder exists
-    print(markdown_df)
     if(not os.path.isdir(args.topic)):
         os.mkdir(args.topic)
     markdown_df.to_csv(os.path.join(args.topic, "new_df.csv"),
