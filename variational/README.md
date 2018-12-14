@@ -1,6 +1,14 @@
 # variational
 Click on title for link to paper
-## 10-12-2018
+## 14-12-2018
+
+main_author|publish_date|title
+---|---|---
+Stephen Roberts|12-12-2018|[Bayesian deep neural networks for low-cost neurophysiological markers of   Alzheimer's disease severity](http://arxiv.org/abs/1812.04994v2)
+Rahul Roy|12-12-2018|[Mixed Uncertainty Sets for Robust Combinatorial Optimization](http://arxiv.org/abs/1812.04895v1)
+Ramin Zabih|11-12-2018|[Deep networks with probabilistic gates](http://arxiv.org/abs/1812.04180v1)
+Danijar Hafner|10-12-2018|[Bayesian Layers: A Module for Neural Network Uncertainty](http://arxiv.org/abs/1812.03973v2)
+Carl Edward Rasmussen|10-12-2018|[Closed-form Inference and Prediction in Gaussian Process State-Space   Models](http://arxiv.org/abs/1812.03580v1)
 
 main_author|publish_date|title
 ---|---|---

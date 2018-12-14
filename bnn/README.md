@@ -1,6 +1,21 @@
 # bnn
 Click on title for link to paper
-## 10-12-2018
+## 14-12-2018
+
+main_author|publish_date|title
+---|---|---
+Stephen Roberts|12-12-2018|[Bayesian deep neural networks for low-cost neurophysiological markers of   Alzheimer's disease severity](http://arxiv.org/abs/1812.04994v2)
+Jiangshe Zhang|11-12-2018|[Variational Bayesian Complex Network Reconstruction](http://arxiv.org/abs/1812.04369v1)
+Ramin Zabih|11-12-2018|[Deep networks with probabilistic gates](http://arxiv.org/abs/1812.04180v1)
+Yulia Tsvetkov|10-12-2018|[Von Mises-Fisher Loss for Training Sequence to Sequence Models with   Continuous Outputs](http://arxiv.org/abs/1812.04616v1)
+Danijar Hafner|10-12-2018|[Bayesian Layers: A Module for Neural Network Uncertainty](http://arxiv.org/abs/1812.03973v2)
+Michael M. Zavlanos|10-12-2018|[Model-Based Learning of Turbulent Flows using Mobile Robots](http://arxiv.org/abs/1812.03894v1)
+Chitta Baral|10-12-2018|[Spatial Knowledge Distillation to aid Visual Reasoning](http://arxiv.org/abs/1812.03631v2)
+Carl Edward Rasmussen|10-12-2018|[Closed-form Inference and Prediction in Gaussian Process State-Space   Models](http://arxiv.org/abs/1812.03580v1)
+Paris Perdikaris|09-12-2018|[Physics-informed deep generative models](http://arxiv.org/abs/1812.03511v1)
+Theofanis Karaletsos|08-12-2018|[Efficient transfer learning and online adaptation with latent variable   models for continuous control](http://arxiv.org/abs/1812.03399v1)
+Brent A. Coull|08-12-2018|[Adaptive and Calibrated Ensemble Learning with Dependent Tail-free   Process](http://arxiv.org/abs/1812.03350v1)
+Jungwoo Lee|08-12-2018|[Sampling-based Bayesian Inference with gradient uncertainty](http://arxiv.org/abs/1812.03285v1)
 
 main_author|publish_date|title
 ---|---|---

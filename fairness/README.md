@@ -1,6 +1,19 @@
 # fairness
 Click on title for link to paper
-## 10-12-2018
+## 14-12-2018
+
+main_author|publish_date|title
+---|---|---
+Ethan Dyer|12-12-2018|[Gradient Descent Happens in a Tiny Subspace](http://arxiv.org/abs/1812.04754v1)
+Alessandro Lazaric|11-12-2018|[Exploration Bonus for Regret Minimization in Undiscounted Discrete and   Continuous Markov Decision Processes](http://arxiv.org/abs/1812.04363v1)
+Yuanyuan Shen|11-12-2018|[On the Dimensionality of Word Embedding](http://arxiv.org/abs/1812.04224v1)
+Stefano Ermon|11-12-2018|[Learning Controllable Fair Representations](http://arxiv.org/abs/1812.04218v1)
+Vijay Kamble|10-12-2018|[Temporal Aspects of Individual Fairness](http://arxiv.org/abs/1812.04069v1)
+Andreas Kolb|10-12-2018|[Supervised Deep Kriging for Single-Image Super-Resolution](http://arxiv.org/abs/1812.04042v1)
+Nicholas Mattei|10-12-2018|[Building Ethically Bounded AI](http://arxiv.org/abs/1812.03980v1)
+Chris H. Rycroft|09-12-2018|[Area-preserving mapping of 3D ultrasound carotid artery images using   density-equalizing reference map](http://arxiv.org/abs/1812.03434v1)
+Gaurav Saxena|08-12-2018|[Biometric Recognition System (Algorithm)](http://arxiv.org/abs/1812.03385v1)
+Feng Wu|08-12-2018|[Explainability by Parsing: Neural Module Tree Networks for Natural   Language Visual Grounding](http://arxiv.org/abs/1812.03299v1)
 
 main_author|publish_date|title
 ---|---|---

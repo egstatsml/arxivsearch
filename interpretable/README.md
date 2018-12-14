@@ -1,6 +1,11 @@
 # interpretable
 Click on title for link to paper
-## 10-12-2018
+## 14-12-2018
+
+main_author|publish_date|title
+---|---|---
+Yan Liu|12-12-2018|[Can I trust you more? Model-Agnostic Hierarchical Explanations](http://arxiv.org/abs/1812.04801v1)
+Feng Wu|08-12-2018|[Explainability by Parsing: Neural Module Tree Networks for Natural   Language Visual Grounding](http://arxiv.org/abs/1812.03299v1)
 
 main_author|publish_date|title
 ---|---|---
