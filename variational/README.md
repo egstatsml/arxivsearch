@@ -1,6 +1,13 @@
 # variational
 Click on title for link to paper
-## 14-12-2018
+## 21-12-2018
+
+main_author|publish_date|title
+---|---|---
+Olivier Tieleman|18-12-2018|[A Factorial Mixture Prior for Compositional Deep Generative Models](http://arxiv.org/abs/1812.07480v1)
+James Luedtke|17-12-2018|[A stochastic approximation method for chance-constrained nonlinear   programs](http://arxiv.org/abs/1812.07066v1)
+Katherine Heller|14-12-2018|[Online gradient-based mixtures for transfer modulation in meta-learning](http://arxiv.org/abs/1812.06080v2)
+Carl Edward Rasmussen|14-12-2018|[Non-Factorised Variational Inference in Dynamical Systems](http://arxiv.org/abs/1812.06067v1)
 
 main_author|publish_date|title
 ---|---|---

@@ -1,6 +1,25 @@
 # fairness
 Click on title for link to paper
-## 14-12-2018
+## 21-12-2018
+
+main_author|publish_date|title
+---|---|---
+Nripendra Kumar Singh|19-12-2018|[A Tour of Unsupervised Deep Learning for Medical Image Analysis](http://arxiv.org/abs/1812.07715v1)
+Eli Upfal|18-12-2018|[Uniform Convergence Bounds for Codec Selection](http://arxiv.org/abs/1812.07568v1)
+D. Sculley|17-12-2018|[BriarPatches: Pixel-Space Interventions for Inducing Demographic Parity](http://arxiv.org/abs/1812.06869v1)
+Atul Prakash|17-12-2018|[Designing Adversarially Resilient Classifiers using Resilient Feature   Engineering](http://arxiv.org/abs/1812.06626v1)
+Cristian Sminchisescu|16-12-2018|[Non-attracting Regions of Local Minima in Deep and Wide Neural Networks](http://arxiv.org/abs/1812.06486v2)
+Xianfeng Tan|15-12-2018|[Multi-Tasking Evolutionary Algorithm (MTEA) for Single-Objective   Continuous Optimization](http://arxiv.org/abs/1812.06303v1)
+Sai Raj Kishore Perla|15-12-2018|[Flatten-T Swish: a thresholded ReLU-Swish-like activation function for   deep learning](http://arxiv.org/abs/1812.06247v1)
+Tsukasa Ishigaki|15-12-2018|[Domain-to-Domain Translation Model for Recommender System](http://arxiv.org/abs/1812.06229v1)
+Guido Imbens|15-12-2018|[Balanced Linear Contextual Bandits](http://arxiv.org/abs/1812.06227v1)
+Daniele Panozzo|15-12-2018|[ABC: A Big CAD Model Dataset For Geometric Deep Learning](http://arxiv.org/abs/1812.06216v1)
+Ruchir Puri|14-12-2018|[Bias Mitigation Post-processing for Individual and Group Fairness](http://arxiv.org/abs/1812.06135v1)
+Katherine Heller|14-12-2018|[Online gradient-based mixtures for transfer modulation in meta-learning](http://arxiv.org/abs/1812.06080v2)
+Shiro Ikeda|14-12-2018|[Denoising Weak Lensing Mass Maps with Deep Learning](http://arxiv.org/abs/1812.05781v1)
+Yoshua Bengio|13-12-2018|[Speech and Speaker Recognition from Raw Waveform with SincNet](http://arxiv.org/abs/1812.05920v1)
+Lei Wang|13-12-2018|[Wider Channel Attention Network for Remote Sensing Image   Super-resolution](http://arxiv.org/abs/1812.05329v1)
+Hanna Wallach|13-12-2018|[Improving fairness in machine learning systems: What do industry   practitioners need?](http://arxiv.org/abs/1812.05239v1)
 
 main_author|publish_date|title
 ---|---|---

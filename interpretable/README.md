@@ -1,6 +1,11 @@
 # interpretable
 Click on title for link to paper
-## 14-12-2018
+## 21-12-2018
+
+main_author|publish_date|title
+---|---|---
+Prasad Tadepalli|18-12-2018|[Interactive Naming for Explaining Deep Neural Networks: A Formative   Study](http://arxiv.org/abs/1812.07150v2)
+Colin Sandon|16-12-2018|[Provable limitations of deep learning](http://arxiv.org/abs/1812.06369v1)
 
 main_author|publish_date|title
 ---|---|---

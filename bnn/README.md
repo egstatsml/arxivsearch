@@ -1,6 +1,18 @@
 # bnn
 Click on title for link to paper
-## 14-12-2018
+## 21-12-2018
+
+main_author|publish_date|title
+---|---|---
+Tommaso Mansi|18-12-2018|[Learning a Probabilistic Model for Diffeomorphic Registration](http://arxiv.org/abs/1812.07460v1)
+Jyri J. Kivinen|18-12-2018|[A Novel Variational Autoencoder with Applications to Generative   Modelling, Classification, and Ordinal Regression](http://arxiv.org/abs/1812.07352v2)
+Yan Tong|17-12-2018|[Probabilistic Attribute Tree in Convolutional Neural Networks for Facial   Expression Recognition](http://arxiv.org/abs/1812.07067v1)
+Cédric Févotte|17-12-2018|[Bayesian Mean-parameterized Nonnegative Binary Matrix Factorization](http://arxiv.org/abs/1812.06866v1)
+Ming Yu|17-12-2018|[An Improved Deep Belief Network Model for Road Safety Analyses](http://arxiv.org/abs/1812.07410v1)
+Hui Khoon Ng|17-12-2018|[Adaptive Quantum State Tomography with Neural Networks](http://arxiv.org/abs/1812.06693v1)
+Fisher Yu|15-12-2018|[Hierarchical Discrete Distribution Decomposition for Match Density   Estimation](http://arxiv.org/abs/1812.06264v1)
+Katherine Heller|14-12-2018|[Online gradient-based mixtures for transfer modulation in meta-learning](http://arxiv.org/abs/1812.06080v2)
+Ehsan Vahedi|13-12-2018|[Code Failure Prediction and Pattern Extraction using LSTM Networks](http://arxiv.org/abs/1812.05237v1)
 
 main_author|publish_date|title
 ---|---|---
