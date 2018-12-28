@@ -1,6 +1,18 @@
 # bnn
 Click on title for link to paper
-## 21-12-2018
+## 28-12-2018
+
+main_author|publish_date|title
+---|---|---
+Vladimir Puzyrev|26-12-2018|[Deep learning electromagnetic inversion with convolutional neural   networks](http://arxiv.org/abs/1812.10247v1)
+Torsten A. Enßlin|24-12-2018|[Bayesian Causal Inference](http://arxiv.org/abs/1812.09895v1)
+Karl-Heinz Zimmermann|23-12-2018|[Computations in Stochastic Acceptors](http://arxiv.org/abs/1812.09687v1)
+Le Song|22-12-2018|[Bayesian Meta-network Architecture Learning](http://arxiv.org/abs/1812.09584v1)
+Johanni Brea|21-12-2018|[GaussianProcesses.jl: A Nonparametric Bayes package for the Julia   Language](http://arxiv.org/abs/1812.09064v1)
+Adnan Darwiche|21-12-2018|[On the Relative Expressiveness of Bayesian and Neural Networks](http://arxiv.org/abs/1812.08957v1)
+Niraj K. Jha|21-12-2018|[ChamNet: Towards Efficient Network Design through Platform-Aware Model   Adaptation](http://arxiv.org/abs/1812.08934v1)
+Francisco C. Pereira|20-12-2018|[A Bayesian Additive Model for Understanding Public Transport Usage in   Special Events](http://arxiv.org/abs/1812.08755v1)
+T. A. Enßlin|19-12-2018|[Bayesian parameter estimation of miss-specified models](http://arxiv.org/abs/1812.08194v1)
 
 main_author|publish_date|title
 ---|---|---

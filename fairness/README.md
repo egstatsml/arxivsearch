@@ -1,6 +1,21 @@
 # fairness
 Click on title for link to paper
-## 21-12-2018
+## 28-12-2018
+
+main_author|publish_date|title
+---|---|---
+Junmo Kim|26-12-2018|[Learning Not to Learn: Training Deep Neural Networks with Biased Data](http://arxiv.org/abs/1812.10352v1)
+Seth Lloyd|25-12-2018|[Deep neural networks are biased towards simple functions](http://arxiv.org/abs/1812.10156v1)
+Ivan Beschastnikh|24-12-2018|[Iroko: A Framework to Prototype Reinforcement Learning for Data Center   Traffic Control](http://arxiv.org/abs/1812.09975v1)
+Marc Dymetman|24-12-2018|[Moment Matching Training for Neural Machine Translation: A Preliminary   Study](http://arxiv.org/abs/1812.09836v1)
+Michael Krauthammer|22-12-2018|[Neural networks versus Logistic regression for 30 days all-cause   readmission prediction](http://arxiv.org/abs/1812.09549v1)
+Utkarsh Porwal|21-12-2018|[Direct Estimation of Position Bias for Unbiased Learning-to-Rank without   Intervention](http://arxiv.org/abs/1812.09338v1)
+Harry Hemingway|21-12-2018|[Machine learning and AI research for Patient Benefit: 20 Critical   Questions on Transparency, Replicability, Ethics and Effectiveness](http://arxiv.org/abs/1812.10404v1)
+Grzegorz Chrupała|21-12-2018|[Symbolic inductive bias for visually grounded learning of spoken   language](http://arxiv.org/abs/1812.09244v1)
+Alberto Fachechi|21-12-2018|[Dreaming neural networks: rigorous results](http://arxiv.org/abs/1812.09077v1)
+Anupam Datta|21-12-2018|[Feature-Wise Bias Amplification](http://arxiv.org/abs/1812.08999v1)
+Taeyoon Kim|21-12-2018|[Stochastic Doubly Robust Gradient](http://arxiv.org/abs/1812.08997v1)
+Adam Tauman Kalai|20-12-2018|[What are the biases in my word embedding?](http://arxiv.org/abs/1812.08769v2)
 
 main_author|publish_date|title
 ---|---|---

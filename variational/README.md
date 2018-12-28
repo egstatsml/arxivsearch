@@ -1,6 +1,14 @@
 # variational
 Click on title for link to paper
-## 21-12-2018
+## 28-12-2018
+
+main_author|publish_date|title
+---|---|---
+Jincai Huang|24-12-2018|[VMAV-C: A Deep Attention-based Reinforcement Learning Algorithm for   Model-based Control](http://arxiv.org/abs/1812.09968v1)
+Karl-Heinz Zimmermann|23-12-2018|[Computations in Stochastic Acceptors](http://arxiv.org/abs/1812.09687v1)
+Li Sun|22-12-2018|[Disentangling Latent Space for VAE by Label Relevant/Irrelevant   Dimensions](http://arxiv.org/abs/1812.09502v1)
+Jichun Wu|22-12-2018|[Deep autoregressive neural networks for high-dimensional inverse   problems in groundwater contaminant source identification](http://arxiv.org/abs/1812.09444v1)
+A. Auger|21-12-2018|[A new approach to learning in Dynamic Bayesian Networks (DBNs)](http://arxiv.org/abs/1812.09027v1)
 
 main_author|publish_date|title
 ---|---|---
