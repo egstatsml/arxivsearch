@@ -40,7 +40,8 @@ def main(arguments):
         old_readme = open(os.path.join(args.topic, 'README.md'), 'r')
         old_readme_lines = old_readme.readlines()
         old_readme.close()
-        #remove the first line of the readme file as this contains the title
+        # remove the first two lines of the readme file as this contains the
+        # title and the instructions, will re-add this in the new markdown file
         old_readme_lines = old_readme_lines[2:]
     else:
         # the new df is the only df, so just set it to that
@@ -50,8 +51,6 @@ def main(arguments):
         # data from the Markdown version of search results
         old_readme_lines = [' '] * 3
         
-    # remove the first line of the readme file as thic contains the title
-    old_readme_lines = old_readme_lines[2:]
     # create the new README markdown file
     # open the file so we can write to it now)
     with open(os.path.join(args.topic, 'README.md'), 'w') as f:

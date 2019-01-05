@@ -1,7 +1,23 @@
 # bnn
 Click on title for link to paper
+## 05-01-2019
 
-## 28-12-2018
+main_author|publish_date|title
+---|---|---
+Zheng Zhang|03-01-2019|[Prediction of multi-dimensional spatial variation data via Bayesian   tensor completion](http://arxiv.org/abs/1901.00578v1)
+Zsolt Kira|02-01-2019|[Multi-class Classification without Multi-class Labels](http://arxiv.org/abs/1901.00544v1)
+Suchi Saria|02-01-2019|[Auditing Pointwise Reliability Subsequent to Training](http://arxiv.org/abs/1901.00403v1)
+Karim Pichara|02-01-2019|[A Full Probabilistic Model for Yes/No Type Crowdsourcing in Multi-Class   Classification](http://arxiv.org/abs/1901.00397v1)
+Steven Su|02-01-2019|[Multi-level CNN for lung nodule classification with Gaussian Process   assisted hyperparameter optimization](http://arxiv.org/abs/1901.00276v1)
+Kaifang Zhou|01-01-2019|[Convergence Rates of Gradient Descent and MM Algorithms for Generalized   Bradley-Terry Models](http://arxiv.org/abs/1901.00150v1)
+Matthias Nickles|31-12-2018|[Differentiable Satisfiability and Differentiable Answer Set Programming   for Sampling-Based Multi-Model Optimization](http://arxiv.org/abs/1812.11948v1)
+Emine Yilmaz|30-12-2018|[Variational Self-attention Model for Sentence Representation](http://arxiv.org/abs/1812.11559v2)
+Liam Paninski|28-12-2018|[Discrete Neural Processes](http://arxiv.org/abs/1901.00409v1)
+ST John|28-12-2018|[Scalable GAM using sparse variational Gaussian processes](http://arxiv.org/abs/1812.11106v1)
+Ying Nian Wu|28-12-2018|[Divergence Triangle for Joint Training of Generator Model, Energy-based   Model, and Inference Model](http://arxiv.org/abs/1812.10907v1)
+Eduardo Lleida|27-12-2018|[Tied Hidden Factors in Neural Networks for End-to-End Speaker   Recognition](http://arxiv.org/abs/1812.11946v1)
+Sergey Levine|27-12-2018|[Robustness to Out-of-Distribution Inputs via Task-Aware Generative   Uncertainty](http://arxiv.org/abs/1812.10687v1)
+
 
 main_author|publish_date|title
 ---|---|---
