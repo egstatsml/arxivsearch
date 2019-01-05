@@ -1,5 +1,18 @@
 # variational
 Click on title for link to paper
+## 05-01-2019
+
+main_author|publish_date|title
+---|---|---
+Xia Hu|02-01-2019|[Multi-Label Adversarial Perturbations](http://arxiv.org/abs/1901.00546v1)
+Suchi Saria|02-01-2019|[Auditing Pointwise Reliability Subsequent to Training](http://arxiv.org/abs/1901.00403v1)
+Karim Pichara|02-01-2019|[A Full Probabilistic Model for Yes/No Type Crowdsourcing in Multi-Class   Classification](http://arxiv.org/abs/1901.00397v1)
+Xudong Jiang|31-12-2018|[Interest Point Detection based on Adaptive Ternary Coding](http://arxiv.org/abs/1901.00031v1)
+Emine Yilmaz|30-12-2018|[Variational Self-attention Model for Sentence Representation](http://arxiv.org/abs/1812.11559v2)
+Liam Paninski|28-12-2018|[Discrete Neural Processes](http://arxiv.org/abs/1901.00409v1)
+Ying Nian Wu|28-12-2018|[Divergence Triangle for Joint Training of Generator Model, Energy-based   Model, and Inference Model](http://arxiv.org/abs/1812.10907v1)
+Sergey Levine|27-12-2018|[Robustness to Out-of-Distribution Inputs via Task-Aware Generative   Uncertainty](http://arxiv.org/abs/1812.10687v1)
+
 ## 28-12-2018
 
 main_author|publish_date|title

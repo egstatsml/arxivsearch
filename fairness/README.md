@@ -4,6 +4,28 @@ Click on title for link to paper
 
 main_author|publish_date|title
 ---|---|---
+Alan Yuille|03-01-2019|[CLEVR-Ref+: Diagnosing Visual Reasoning with Referring Expressions](http://arxiv.org/abs/1901.00850v1)
+Yann Ollivier|03-01-2019|[The Extended Kalman Filter is a Natural Gradient Descent in Trajectory   Space](http://arxiv.org/abs/1901.00696v1)
+Roman Vershynin|02-01-2019|[The capacity of feedforward neural networks](http://arxiv.org/abs/1901.00434v1)
+Joris M. Mooij|02-01-2019|[Causal Calculus in the Presence of Cycles, Latent Confounders and   Selection Bias](http://arxiv.org/abs/1901.00433v1)
+Maciej Skorski|02-01-2019|[Kernel Density Estimation Bias under Minimal Assumptions](http://arxiv.org/abs/1901.00331v1)
+Dong Xia|02-01-2019|[Data-dependent Confidence Regions of Singular Subspaces](http://arxiv.org/abs/1901.00304v1)
+Zhaoran Wang|01-01-2019|[A Theoretical Analysis of Deep Q-Learning](http://arxiv.org/abs/1901.00137v1)
+Sergii Stirenko|31-12-2018|[Batch Size Influence on Performance of Graphic and Tensor Processing   Units during Training and Inference Phases](http://arxiv.org/abs/1812.11731v1)
+Fathi M. Salem|29-12-2018|[SLIM LSTMs](http://arxiv.org/abs/1812.11391v1)
+Abhishek Halder|29-12-2018|[DeGroot-Friedkin Map in Opinion Dynamics is Mirror Descent](http://arxiv.org/abs/1812.11293v1)
+Soumik Mandal|28-12-2018|[Reconciling modern machine learning and the bias-variance trade-off](http://arxiv.org/abs/1812.11118v1)
+Olivier Colliot|28-12-2018|[Reproducible evaluation of diffusion MRI features for automatic   classification of patients with Alzheimers disease](http://arxiv.org/abs/1812.11183v1)
+Hamsa Bastani|28-12-2018|[Predicting with Proxies](http://arxiv.org/abs/1812.11097v1)
+Benjamin Doerr|28-12-2018|[A Tight Runtime Analysis for the $(μ+ λ)$ EA](http://arxiv.org/abs/1812.11061v1)
+Stan Matwin|28-12-2018|[Improving the Interpretability of Deep Neural Networks with Knowledge   Distillation](http://arxiv.org/abs/1812.10924v1)
+Soon Tan|28-12-2018|[A Descriptive Study of Variable Discretization and Cost-Sensitive   Logistic Regression on Imbalanced Credit Data](http://arxiv.org/abs/1812.10857v1)
+Xiang Ren|27-12-2018|[Cross-relation Cross-bag Attention for Distantly-supervised Relation   Extraction](http://arxiv.org/abs/1812.10604v1)
+
+## 05-01-2019
+
+main_author|publish_date|title
+---|---|---
 Junmo Kim|26-12-2018|[Learning Not to Learn: Training Deep Neural Networks with Biased Data](http://arxiv.org/abs/1812.10352v1)
 Seth Lloyd|25-12-2018|[Deep neural networks are biased towards simple functions](http://arxiv.org/abs/1812.10156v1)
 Ivan Beschastnikh|24-12-2018|[Iroko: A Framework to Prototype Reinforcement Learning for Data Center   Traffic Control](http://arxiv.org/abs/1812.09975v1)

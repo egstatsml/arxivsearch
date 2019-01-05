@@ -4,6 +4,12 @@ Click on title for link to paper
 
 main_author|publish_date|title
 ---|---|---
+||No papers found this week
+
+## 05-01-2019
+
+main_author|publish_date|title
+---|---|---
 Zheng Zhang|03-01-2019|[Prediction of multi-dimensional spatial variation data via Bayesian   tensor completion](http://arxiv.org/abs/1901.00578v1)
 Zsolt Kira|02-01-2019|[Multi-class Classification without Multi-class Labels](http://arxiv.org/abs/1901.00544v1)
 Suchi Saria|02-01-2019|[Auditing Pointwise Reliability Subsequent to Training](http://arxiv.org/abs/1901.00403v1)
