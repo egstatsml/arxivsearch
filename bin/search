@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
 import arxivpy
-import feedparser
 import datetime
+import feedparser
 import pandas as pd
 
 from arxivsearch.topic import topic, get_topic
@@ -20,8 +20,9 @@ def format_dataframe(df):
         #no entries for this week
         df = pd.DataFrame(data =
                           {'title':['---', 'No papers found this week'],
-                           'publish_date':['---', 'NA'],
-                           'main_author':['---', 'NA']})
+                           'publish_date':['---',
+                                           datetime.datetime.now().strftime("%d-%m-%Y")],
+                           'main_author':['---', '  ']})
         return df
     
     #otherwise the dataframe hase some entries and we will format it
