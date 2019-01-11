@@ -64,7 +64,9 @@ def main(arguments):
         # now write the data from the previous search results
         for line in old_readme_lines:
             f.write(line)
-            
+
+    # from the complete CSV, remove any Nan entries
+    df.dropna()
     # now write the new complete dataframe to file so that we can
     # use it for our search next time
     df.to_csv(os.path.join(args.topic, "readme_df.csv"),
