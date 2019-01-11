@@ -1,5 +1,18 @@
 # variational
 Click on title for link to paper
+## 11-01-2019
+
+main_author|publish_date|title
+---|---|---
+Andreea-Ingrid Cross|10-01-2019|[Efficient Bayesian Decision Tree Algorithm](http://arxiv.org/abs/1901.03214v1)
+Shuangqun Li|10-01-2019|[PVSS: A Progressive Vehicle Search System for Video Surveillance   Networks](http://arxiv.org/abs/1901.03062v1)
+Mujdat Cetin|08-01-2019|[Combining nonparametric spatial context priors with nonparametric shape   priors for dendritic spine segmentation in 2-phoyon microscopy images](http://arxiv.org/abs/1901.02513v1)
+Matti Vihola|08-01-2019|[Graphical model inference: Sequential Monte Carlo meets deterministic   approximations](http://arxiv.org/abs/1901.02374v1)
+David Silver|07-01-2019|[Credit Assignment Techniques in Stochastic Computation Graphs](http://arxiv.org/abs/1901.01761v1)
+Mauricio A Álvarez|07-01-2019|[Variational bridge constructs for approximate Gaussian process   regression](http://arxiv.org/abs/1901.01727v1)
+Daniel M. Tartakovsky|06-01-2019|[Causality and Bayesian network PDEs for multiscale representations of   porous media](http://arxiv.org/abs/1901.01604v1)
+Roi Ceren|04-01-2019|[Optimal Decision-Making in Mixed-Agent Partially Observable Stochastic   Environments via Reinforcement Learning](http://arxiv.org/abs/1901.01325v1)
+
 ## 05-01-2019
 
 main_author|publish_date|title

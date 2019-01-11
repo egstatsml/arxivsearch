@@ -4,6 +4,21 @@ Click on title for link to paper
 
 main_author|publish_date|title
 ---|---|---
+Cynthia Rudin|10-01-2019|[Variable Importance Clouds: A Way to Explore Variable Importance for the   Set of Good Models](http://arxiv.org/abs/1901.03209v1)
+Marta R. Costa-jussà|10-01-2019|[Equalizing Gender Biases in Neural Machine Translation with Word   Embeddings Techniques](http://arxiv.org/abs/1901.03116v1)
+Enoch Yeung|09-01-2019|[A Constructive Approach for One-Shot Training of Neural Networks Using   Hypercube-Based Topological Coverings](http://arxiv.org/abs/1901.02878v1)
+Alexia Jolicoeur-Martineau|08-01-2019|[On Relativistic $f$-Divergences](http://arxiv.org/abs/1901.02474v1)
+Maryam Negahbani|08-01-2019|[Fair Algorithms for Clustering](http://arxiv.org/abs/1901.02393v1)
+Dimosthenis Karatzas|07-01-2019|[Self-Supervised Learning from Web Data for Multimodal Retrieval](http://arxiv.org/abs/1901.02004v1)
+Qiang Wang|07-01-2019|[Deeper and Wider Siamese Networks for Real-Time Visual Tracking](http://arxiv.org/abs/1901.01660v2)
+Shravan Hanasoge|06-01-2019|[Supervised Neural Networks for Helioseismic Ring-Diagram Inversions](http://arxiv.org/abs/1901.01505v1)
+Svetha Venkatesh|05-01-2019|[Learning to Remember More with Less Memorization](http://arxiv.org/abs/1901.01347v1)
+Anca Dragan|04-01-2019|[On the Utility of Model Learning in HRI](http://arxiv.org/abs/1901.01291v1)
+
+## 11-01-2019
+
+main_author|publish_date|title
+---|---|---
 Alan Yuille|03-01-2019|[CLEVR-Ref+: Diagnosing Visual Reasoning with Referring Expressions](http://arxiv.org/abs/1901.00850v1)
 Yann Ollivier|03-01-2019|[The Extended Kalman Filter is a Natural Gradient Descent in Trajectory   Space](http://arxiv.org/abs/1901.00696v1)
 Roman Vershynin|02-01-2019|[The capacity of feedforward neural networks](http://arxiv.org/abs/1901.00434v1)

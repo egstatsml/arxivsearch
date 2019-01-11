@@ -4,6 +4,19 @@ Click on title for link to paper
 
 main_author|publish_date|title
 ---|---|---
+X. Cheng|10-01-2019|[A witness function based construction of discriminative models using   Hermite polynomials](http://arxiv.org/abs/1901.02975v1)
+Jan Kautz|09-01-2019|[Neural RGB->D Sensing: Depth and Uncertainty from a Video Camera](http://arxiv.org/abs/1901.02571v1)
+Xiaoning Qian|08-01-2019|[Adaptive Activity Monitoring with Uncertainty Quantification in   Switching Gaussian Process Models](http://arxiv.org/abs/1901.02427v1)
+Matti Vihola|08-01-2019|[Graphical model inference: Sequential Monte Carlo meets deterministic   approximations](http://arxiv.org/abs/1901.02374v1)
+Marcus Liwicki|08-01-2019|[A Comprehensive guide to Bayesian Convolutional Neural Network with   Variational Inference](http://arxiv.org/abs/1901.02731v1)
+Claudia Linnhoff-Popien|08-01-2019|[Uncertainty-Based Out-of-Distribution Detection in Deep Reinforcement   Learning](http://arxiv.org/abs/1901.02219v1)
+David Silver|07-01-2019|[Credit Assignment Techniques in Stochastic Computation Graphs](http://arxiv.org/abs/1901.01761v1)
+Karol Grzegorczyk|07-01-2019|[Vector representations of text data in deep learning](http://arxiv.org/abs/1901.01695v1)
+
+## 11-01-2019
+
+main_author|publish_date|title
+---|---|---
 ||No papers found this week
 
 ## 11-01-2019
