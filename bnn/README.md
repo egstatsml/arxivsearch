@@ -13,18 +13,6 @@ Claudia Linnhoff-Popien|08-01-2019|[Uncertainty-Based Out-of-Distribution Detect
 David Silver|07-01-2019|[Credit Assignment Techniques in Stochastic Computation Graphs](http://arxiv.org/abs/1901.01761v1)
 Karol Grzegorczyk|07-01-2019|[Vector representations of text data in deep learning](http://arxiv.org/abs/1901.01695v1)
 
-## 11-01-2019
-
-main_author|publish_date|title
----|---|---
-||No papers found this week
-
-## 11-01-2019
-
-main_author|publish_date|title
----|---|---
-||No papers found this week
-
 
 ## 05-01-2019
 
