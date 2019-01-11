@@ -1,5 +1,11 @@
 # bnn
 Click on title for link to paper
+## 11-01-2019
+
+main_author|publish_date|title
+---|---|---
+||No papers found this week
+
 
 ## 05-01-2019
 
