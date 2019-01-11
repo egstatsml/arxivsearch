@@ -66,7 +66,7 @@ def main(arguments):
             f.write(line)
 
     # from the complete CSV, remove any Nan entries
-    df.dropna()
+    df = df.dropna()
     # now write the new complete dataframe to file so that we can
     # use it for our search next time
     df.to_csv(os.path.join(args.topic, "readme_df.csv"),
