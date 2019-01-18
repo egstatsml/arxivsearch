@@ -1,5 +1,17 @@
 # variational
 Click on title for link to paper
+## 18-01-2019
+
+main_author|publish_date|title
+---|---|---
+Guy Rosman|16-01-2019|[Uncertainty-Aware Driver Trajectory Prediction at Urban Intersections](http://arxiv.org/abs/1901.05105v1)
+Paris Perdikaris|15-01-2019|[Conditional deep surrogate models for stochastic, high-dimensional, and   multi-fidelity systems](http://arxiv.org/abs/1901.04878v1)
+Nikolaos Gianniotis|15-01-2019|[Mixed Variational Inference](http://arxiv.org/abs/1901.04791v1)
+Erjia Yan|14-01-2019|[Large-Scale Joint Topic, Sentiment & User Preference Analysis for Online   Reviews](http://arxiv.org/abs/1901.04993v1)
+Justin Bayer|14-01-2019|[Bayesian Learning of Neural Network Architectures](http://arxiv.org/abs/1901.04436v1)
+Alexander Litvinenko|13-01-2019|[Semi-Supervised Regression using Cluster Ensemble and Low-Rank   Co-Association Matrix Decomposition under Uncertainties](http://arxiv.org/abs/1901.03919v1)
+Ou Wu|12-01-2019|[Semi-interactive Attention Network for Answer Understanding in   Reverse-QA](http://arxiv.org/abs/1901.03788v1)
+
 ## 11-01-2019
 
 main_author|publish_date|title

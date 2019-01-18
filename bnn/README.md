@@ -1,5 +1,21 @@
 # bnn
 Click on title for link to paper
+## 18-01-2019
+
+main_author|publish_date|title
+---|---|---
+Marco Loog|16-01-2019|[A review of single-source unsupervised domain adaptation](http://arxiv.org/abs/1901.05335v1)
+Daniel Ricciuto|16-01-2019|[Efficient surrogate modeling methods for large-scale Earth system models   based on machine learning techniques](http://arxiv.org/abs/1901.05125v1)
+Paris Perdikaris|15-01-2019|[Conditional deep surrogate models for stochastic, high-dimensional, and   multi-fidelity systems](http://arxiv.org/abs/1901.04878v1)
+Nikolaos Gianniotis|15-01-2019|[Mixed Variational Inference](http://arxiv.org/abs/1901.04791v1)
+Masashi Sugiyama|15-01-2019|[Normalized Flat Minima: Exploring Scale Invariant Definition of Flat   Minima for Neural Networks using PAC-Bayesian Analysis](http://arxiv.org/abs/1901.04653v1)
+Gustavo Carneiro|15-01-2019|[Multi-modal Ensemble Classification for Generalized Zero Shot Learning](http://arxiv.org/abs/1901.04623v1)
+Justin Bayer|14-01-2019|[Bayesian Learning of Neural Network Architectures](http://arxiv.org/abs/1901.04436v1)
+Marco Gori|14-01-2019|[Integrating Learning and Reasoning with Deep Logic Models](http://arxiv.org/abs/1901.04195v1)
+Antoni B. Chan|13-01-2019|[A Fully Bayesian Infinite Generative Model for Dynamic Texture   Segmentation](http://arxiv.org/abs/1901.03968v1)
+Gaëtan Hadjeres|11-01-2019|[Variation Network: Learning High-level Attributes for Controlled Input   Manipulation](http://arxiv.org/abs/1901.03634v1)
+Kristian Kersting|11-01-2019|[SPFlow: An Easy and Extensible Library for Deep Probabilistic Learning   using Sum-Product Networks](http://arxiv.org/abs/1901.03704v1)
+
 ## 11-01-2019
 
 main_author|publish_date|title

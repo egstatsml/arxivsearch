@@ -1,5 +1,12 @@
 # interpretable
 Click on title for link to paper
+## 18-01-2019
+
+main_author|publish_date|title
+---|---|---
+Takayuki Okatani|15-01-2019|[Toward Explainable Fashion Recommendation](http://arxiv.org/abs/1901.04870v1)
+T. Yong-Jin Han|05-01-2019|[Reliable and Explainable Machine Learning Methods for Accelerated   Material Discovery](http://arxiv.org/abs/1901.02717v1)
+
 ## 11-01-2019
 
 main_author|publish_date|title

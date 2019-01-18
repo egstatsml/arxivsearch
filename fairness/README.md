@@ -1,5 +1,22 @@
 # fairness
 Click on title for link to paper
+## 18-01-2019
+
+main_author|publish_date|title
+---|---|---
+Ofir Nachum|15-01-2019|[Identifying and Correcting Label Bias in Machine Learning](http://arxiv.org/abs/1901.04966v1)
+Bo Ji|15-01-2019|[Combinatorial Sleeping Bandits with Fairness Constraints](http://arxiv.org/abs/1901.04891v1)
+Songül Tolan|15-01-2019|[Fair and Unbiased Algorithmic Decision Making: Current State and Future   Challenges](http://arxiv.org/abs/1901.04730v1)
+Ed H. Chi|14-01-2019|[Putting Fairness Principles into Practice: Challenges, Metrics, and   Improvements](http://arxiv.org/abs/1901.04562v1)
+Detlef Steuer|14-01-2019|[Approaching Ethical Guidelines for Data Scientists](http://arxiv.org/abs/1901.04824v1)
+M. -H. Herman Shen|14-01-2019|[A Novel Topology Optimization Approach using Conditional Deep Learning](http://arxiv.org/abs/1901.04859v1)
+Masashi Sugiyama|14-01-2019|[How Does Disagreement Benefit Co-teaching?](http://arxiv.org/abs/1901.04215v1)
+Mohamed Taha Abou-Kreisha|13-01-2019|[Vehicles Detection Based on Background Modeling](http://arxiv.org/abs/1901.04077v1)
+Kalyan Veeramachaneni|12-01-2019|[SteganoGAN: Pushing the Limits of Image Steganography](http://arxiv.org/abs/1901.03892v1)
+Vasilis Syrgkanis|11-01-2019|[Non-Parametric Inference Adaptive to Intrinsic Dimension](http://arxiv.org/abs/1901.03719v1)
+Yoshua Bengio|11-01-2019|[The Benefits of Over-parameterization at Initialization in Deep ReLU   Networks](http://arxiv.org/abs/1901.03611v1)
+Timothy Lillicrap|11-01-2019|[An investigation of model-free planning](http://arxiv.org/abs/1901.03559v1)
+
 ## 11-01-2019
 
 main_author|publish_date|title
