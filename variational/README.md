@@ -1,5 +1,22 @@
 # variational
 Click on title for link to paper
+## 25-01-2019
+
+main_author|publish_date|title
+---|---|---
+Bo Zhang|24-01-2019|[Adversarial Variational Inference and Learning in Markov Random Fields](http://arxiv.org/abs/1901.08400v1)
+Dmitry Kropotov|23-01-2019|[Hamiltonian Monte-Carlo for Orthogonal Matrices](http://arxiv.org/abs/1901.08045v1)
+Geyong Min|23-01-2019|[Deep Adversarial Learning in Intrusion Detection: A Data Augmentation   Enhanced Framework](http://arxiv.org/abs/1901.07949v2)
+Aurélien Garivier|23-01-2019|[A Review on Quantile Regression for Stochastic Computer Experiments](http://arxiv.org/abs/1901.07874v2)
+Riadh Ksantini|23-01-2019|[Deep Clustering with a Dynamic Autoencoder](http://arxiv.org/abs/1901.07752v1)
+Peng Jiang|23-01-2019|[Deep learning Inversion of Seismic Data](http://arxiv.org/abs/1901.07733v1)
+Larry Davis|23-01-2019|[Exploring Uncertainty in Conditional Multi-Modal Retrieval Systems](http://arxiv.org/abs/1901.07702v1)
+Ling Shao|22-01-2019|[Striking the Right Balance with Uncertainty](http://arxiv.org/abs/1901.07590v1)
+Andrea Lodi|22-01-2019|[Predicting Tactical Solutions to Operational Planning Problems under   Imperfect Information](http://arxiv.org/abs/1901.07935v1)
+Kyle J. M. Bishop|19-01-2019|[Learning retrosynthetic planning through self-play](http://arxiv.org/abs/1901.06569v1)
+Yee Whye Teh|18-01-2019|[Probabilistic symmetry and invariant neural networks](http://arxiv.org/abs/1901.06082v1)
+Jun Huan|18-01-2019|[Quasi-potential as an implicit regularizer for the loss function in the   stochastic gradient descent](http://arxiv.org/abs/1901.06054v1)
+
 ## 18-01-2019
 
 main_author|publish_date|title

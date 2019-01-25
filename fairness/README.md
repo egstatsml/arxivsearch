@@ -1,5 +1,23 @@
 # fairness
 Click on title for link to paper
+## 25-01-2019
+
+main_author|publish_date|title
+---|---|---
+Laurent Schmalen|24-01-2019|[End-to-End Optimized Transmission over Dispersive Intensity-Modulated   Channels Using Bidirectional Recurrent Neural Networks](http://arxiv.org/abs/1901.08570v1)
+Ufuk Topcu|24-01-2019|[Fairness with Dynamics](http://arxiv.org/abs/1901.08568v1)
+Takanori Maehara|24-01-2019|[Pretending Fair Decisions via Stealthily Biased Sampling](http://arxiv.org/abs/1901.08291v1)
+Asuman Ozdaglar|23-01-2019|[A Universally Optimal Multistage Accelerated Stochastic Gradient Method](http://arxiv.org/abs/1901.08022v1)
+Shuangqing Wei|23-01-2019|[Coupling the reduced-order model and the generative model for an   importance sampling estimator](http://arxiv.org/abs/1901.07977v1)
+Jeff Phillips|23-01-2019|[Attenuating Bias in Word Vectors](http://arxiv.org/abs/1901.07656v1)
+Olgica Milenkovic|22-01-2019|[Support Estimation via Regularized and Weighted Chebyshev Approximations](http://arxiv.org/abs/1901.07506v2)
+Dae Kyung Sohn|22-01-2019|[Fully Convolutional Network-based Multi-Task Learning for Rectum and   Rectal Cancer Segmentation](http://arxiv.org/abs/1901.07213v1)
+Danushka Bollegala|21-01-2019|[Error-Correcting Neural Sequence Prediction](http://arxiv.org/abs/1901.07002v1)
+Nicolai Petkov|21-01-2019|[Learning sound representations using trainable COPE feature extractors](http://arxiv.org/abs/1901.06904v1)
+Anshul Kundaje|21-01-2019|[Calibration with Bias-Corrected Temperature Scaling Improves Domain   Adaptation Under Label Shift in Modern Neural Networks](http://arxiv.org/abs/1901.06852v1)
+David Corne|18-01-2019|[Infeasibility and structural bias in Differential Evolution](http://arxiv.org/abs/1901.06153v1)
+Si Lu|18-01-2019|[Good Similar Patches for Image Denoising](http://arxiv.org/abs/1901.06046v1)
+
 ## 18-01-2019
 
 main_author|publish_date|title

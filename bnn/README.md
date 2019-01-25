@@ -1,5 +1,26 @@
 # bnn
 Click on title for link to paper
+## 25-01-2019
+
+main_author|publish_date|title
+---|---|---
+Stephen Roberts|23-01-2019|[Recurrent Neural Filters: Learning Independent Bayesian Filtering Steps   for Time Series Prediction](http://arxiv.org/abs/1901.08096v1)
+Dmitry Kropotov|23-01-2019|[Hamiltonian Monte-Carlo for Orthogonal Matrices](http://arxiv.org/abs/1901.08045v1)
+Ardavan Alamir|23-01-2019|[Stein Variational Online Changepoint Detection with Applications to   Hawkes Processes and Neural Networks](http://arxiv.org/abs/1901.07987v1)
+Geyong Min|23-01-2019|[Deep Adversarial Learning in Intrusion Detection: A Data Augmentation   Enhanced Framework](http://arxiv.org/abs/1901.07949v2)
+Larry Davis|23-01-2019|[Exploring Uncertainty in Conditional Multi-Modal Retrieval Systems](http://arxiv.org/abs/1901.07702v1)
+Frederi Viens|22-01-2019|[Neutron drip line in the Ca region from Bayesian model averaging](http://arxiv.org/abs/1901.07632v1)
+Ling Shao|22-01-2019|[Striking the Right Balance with Uncertainty](http://arxiv.org/abs/1901.07590v1)
+Taisuke Sato|20-01-2019|[A tensorized logic programming language for large-scale data](http://arxiv.org/abs/1901.08548v1)
+Chee Seng Chan|20-01-2019|[A Universal Logic Operator for Interpretable Deep Convolution Networks](http://arxiv.org/abs/1901.08551v1)
+Bilal Farooq|18-01-2019|[A combined entropy and utility based generative model for large scale   multiple discrete-continuous travel behaviour data](http://arxiv.org/abs/1901.06415v1)
+Francesco A. N. Palmieri|18-01-2019|[Optimized Realization of Bayesian Networks in Reduced Normal Form using   Latent Variable Model](http://arxiv.org/abs/1901.06201v1)
+Sudhakar Tripathi|18-01-2019|[Protein Classification using Machine Learning and Statistical   Techniques: A Comparative Analysis](http://arxiv.org/abs/1901.06152v1)
+Yee Whye Teh|18-01-2019|[Probabilistic symmetry and invariant neural networks](http://arxiv.org/abs/1901.06082v1)
+Rohit Singh|17-01-2019|[Applying SVGD to Bayesian Neural Networks for Cyclical Time-Series   Prediction and Inference](http://arxiv.org/abs/1901.05906v1)
+Vaishak Belle|17-01-2019|[Learning Tractable Probabilistic Models in Open Worlds](http://arxiv.org/abs/1901.05847v1)
+Hao Li|17-01-2019|[Soft Rasterizer: Differentiable Rendering for Unsupervised Single-View   Mesh Reconstruction](http://arxiv.org/abs/1901.05567v2)
+
 ## 18-01-2019
 
 main_author|publish_date|title

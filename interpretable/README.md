@@ -1,5 +1,12 @@
 # interpretable
 Click on title for link to paper
+## 25-01-2019
+
+main_author|publish_date|title
+---|---|---
+Huajun Chen|20-01-2019|[Human-centric Transfer Learning Explanation via Knowledge Graph   [Extended Abstract]](http://arxiv.org/abs/1901.08547v1)
+Asim Kadav|20-01-2019|[Visual Entailment: A Novel Task for Fine-Grained Image Understanding](http://arxiv.org/abs/1901.06706v1)
+
 ## 18-01-2019
 
 main_author|publish_date|title
