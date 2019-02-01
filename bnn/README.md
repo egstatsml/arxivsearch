@@ -1,5 +1,28 @@
 # bnn
 Click on title for link to paper
+## 01-02-2019
+
+main_author|publish_date|title
+---|---|---
+Eric Xing|31-01-2019|[ProBO: a Framework for Using Probabilistic Programming in Bayesian   Optimization](http://arxiv.org/abs/1901.11515v1)
+Arno Solin|31-01-2019|[End-to-End Probabilistic Inference for Nonstationary Audio Analysis](http://arxiv.org/abs/1901.11436v1)
+Chenglin Zhao|31-01-2019|[High-dimensional Metric Combining for Non-coherent Molecular Signal   Detection](http://arxiv.org/abs/1901.11422v1)
+Chenglin Zhao|31-01-2019|[Sequential Bayesian Detection of Spike Activities from Fluorescence   Observations](http://arxiv.org/abs/1901.11418v1)
+Yee Whye Teh|31-01-2019|[Functional Regularisation for Continual Learning using Gaussian   Processes](http://arxiv.org/abs/1901.11356v1)
+John Pauly|31-01-2019|[VAE-GANs for Probabilistic Compressive Image Recovery: Uncertainty   Analysis](http://arxiv.org/abs/1901.11228v1)
+Farinaz Koushanfar|31-01-2019|[Peer-to-peer Federated Learning on Graphs](http://arxiv.org/abs/1901.11173v1)
+Derek J. Posselt|29-01-2019|[Kernel embedded nonlinear observational mappings in the variational   mapping particle filter](http://arxiv.org/abs/1901.10426v1)
+Timo Aila|29-01-2019|[Self-Supervised Deep Image Denoising](http://arxiv.org/abs/1901.10277v1)
+Antti Honkela|29-01-2019|[Differentially Private Markov Chain Monte Carlo](http://arxiv.org/abs/1901.10275v1)
+Jes Frellsen|29-01-2019|[Partially Exchangeable Networks and Architectures for Learning Summary   Statistics in Approximate Bayesian Computation](http://arxiv.org/abs/1901.10230v1)
+Arnaud Doucet|28-01-2019|[Scalable Metropolis-Hastings for Exact Bayesian Inference with Large   Datasets](http://arxiv.org/abs/1901.09881v2)
+Luis A. N. Amaral|28-01-2019|[A new evaluation framework for topic modeling algorithms based on   synthetic corpora](http://arxiv.org/abs/1901.09848v1)
+Lorin Crawford|28-01-2019|[Interpreting Deep Neural Networks Through Variable Importance](http://arxiv.org/abs/1901.09839v1)
+Timothy Hospedales|28-01-2019|[Analogies Explained: Towards Understanding Word Embeddings](http://arxiv.org/abs/1901.09813v1)
+Marvin N. Wright|28-01-2019|[Testing Conditional Predictive Independence in Supervised Learning   Algorithms](http://arxiv.org/abs/1901.09917v1)
+Dani Yogatama|27-01-2019|[Variational Smoothing in Recurrent Neural Network Language Models](http://arxiv.org/abs/1901.09296v1)
+Wei Pan|26-01-2019|[Probabilistic Recursive Reasoning for Multi-Agent Reinforcement Learning](http://arxiv.org/abs/1901.09207v1)
+
 ## 25-01-2019
 
 main_author|publish_date|title

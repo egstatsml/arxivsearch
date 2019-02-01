@@ -1,5 +1,11 @@
 # interpretable
 Click on title for link to paper
+## 01-02-2019
+
+main_author|publish_date|title
+---|---|---
+Lorenzo Valente|30-01-2019|[A study for Image compression using Re-Pair algorithm](http://arxiv.org/abs/1901.10744v1)
+
 ## 25-01-2019
 
 main_author|publish_date|title

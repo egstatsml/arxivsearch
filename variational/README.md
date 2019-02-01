@@ -1,5 +1,14 @@
 # variational
 Click on title for link to paper
+## 01-02-2019
+
+main_author|publish_date|title
+---|---|---
+Torsten A. Enßlin|30-01-2019|[Metric Gaussian Variational Inference](http://arxiv.org/abs/1901.11033v1)
+Derek J. Posselt|29-01-2019|[Kernel embedded nonlinear observational mappings in the variational   mapping particle filter](http://arxiv.org/abs/1901.10426v1)
+Antti Honkela|29-01-2019|[Differentially Private Markov Chain Monte Carlo](http://arxiv.org/abs/1901.10275v1)
+Arnaud Doucet|28-01-2019|[Scalable Metropolis-Hastings for Exact Bayesian Inference with Large   Datasets](http://arxiv.org/abs/1901.09881v2)
+
 ## 25-01-2019
 
 main_author|publish_date|title
