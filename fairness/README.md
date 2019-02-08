@@ -1,5 +1,42 @@
 # fairness
 Click on title for link to paper
+## 09-02-2019
+
+main_author|publish_date|title
+---|---|---
+John Pauly|31-01-2019|[VAE-GANs for Probabilistic Compressive Image Recovery: Uncertainty   Analysis](http://arxiv.org/abs/1901.11228v1)
+Moritz Hardt|30-01-2019|[Natural Analysts in Adaptive Data Analysis](http://arxiv.org/abs/1901.11143v1)
+Nakul Verma|30-01-2019|[Noise-tolerant fair classification](http://arxiv.org/abs/1901.10837v1)
+R. Ñanculef|30-01-2019|[Evaluating Bregman Divergences for Probability Learning from Crowd](http://arxiv.org/abs/1901.10653v1)
+Chen-Yu Wei|29-01-2019|[Improved Path-length Regret Bounds for Bandits](http://arxiv.org/abs/1901.10604v1)
+Asa Ben Hur|29-01-2019|[Comprehensive Evaluation of Deep Learning Architectures for Prediction   of DNA/RNA Sequence Binding Specificities](http://arxiv.org/abs/1901.10526v1)
+Flavio P. Calmon|29-01-2019|[Repairing without Retraining: Avoiding Disparate Impact with   Counterfactual Distributions](http://arxiv.org/abs/1901.10501v1)
+Shipra Agrawal|29-01-2019|[Discretizing Continuous Action Space for On-Policy Optimization](http://arxiv.org/abs/1901.10500v1)
+Nisheeth K. Vishnoi|29-01-2019|[Fair Online Advertising](http://arxiv.org/abs/1901.10450v1)
+Vijay Keswani|29-01-2019|[Improved Adversarial Learning for Fair Classification](http://arxiv.org/abs/1901.10443v1)
+John R. Smith|29-01-2019|[Diversity in Faces](http://arxiv.org/abs/1901.10436v2)
+Anna Khoreva|29-01-2019|[PA-GAN: Improving GAN Training by Progressive Augmentation](http://arxiv.org/abs/1901.10422v1)
+Bernhard Sick|29-01-2019|[Limitations of Assessing Active Learning Performance at Runtime](http://arxiv.org/abs/1901.10338v1)
+Torsten Hoefler|29-01-2019|[A Modular Benchmarking Infrastructure for High-Performance and   Reproducible Deep Learning](http://arxiv.org/abs/1901.10183v1)
+Wei-Shi Zheng|29-01-2019|[Unsupervised Person Re-identification by Deep Asymmetric Metric   Embedding](http://arxiv.org/abs/1901.10177v1)
+Massimiliano Pontil|29-01-2019|[General Fair Empirical Risk Minimization](http://arxiv.org/abs/1901.10080v1)
+Ian Davidson|29-01-2019|[Towards Fair Deep Clustering With Multi-State Protected Variables](http://arxiv.org/abs/1901.10053v1)
+John V. Guttag|28-01-2019|[A Framework for Understanding Unintended Consequences of Machine   Learning](http://arxiv.org/abs/1901.10002v1)
+Andrea Lodi|28-01-2019|[Activation Adaptation in Neural Networks](http://arxiv.org/abs/1901.09849v1)
+Jong Chul Ye|28-01-2019|[CollaGAN : Collaborative GAN for Missing Image Data Imputation](http://arxiv.org/abs/1901.09764v1)
+Alain Tapp|28-01-2019|[Fairwashing: the risk of rationalization](http://arxiv.org/abs/1901.09749v1)
+Xuan Zhu|28-01-2019|[Personalized Dialogue Generation with Diversified Traits](http://arxiv.org/abs/1901.09672v1)
+Marvin N. Wright|28-01-2019|[Testing Conditional Predictive Independence in Supervised Learning   Algorithms](http://arxiv.org/abs/1901.09917v1)
+Suresh Venkatasubramanian|28-01-2019|[Fairness in representation: quantifying stereotyping as a   representational harm](http://arxiv.org/abs/1901.09565v1)
+Sherri Rose|28-01-2019|[Fair Regression for Health Care Spending](http://arxiv.org/abs/1901.10566v1)
+Eric V. Strobl|28-01-2019|[Improved Causal Discovery from Longitudinal Data Using a Mixture of DAGs](http://arxiv.org/abs/1901.09475v1)
+David Tse|27-01-2019|[Deconstructing Generative Adversarial Networks](http://arxiv.org/abs/1901.09465v1)
+Adam Tauman Kalai|27-01-2019|[Bias in Bios: A Case Study of Semantic Representation Bias in a   High-Stakes Setting](http://arxiv.org/abs/1901.09451v1)
+Peter Richtárik|27-01-2019|[99% of Parallel Optimization is Inevitably a Waste of Time](http://arxiv.org/abs/1901.09437v1)
+Sheng He|27-01-2019|[6D Object Pose Estimation Based on 2D Bounding Box](http://arxiv.org/abs/1901.09366v1)
+Suchi Saria|25-01-2019|[Learning Models from Data with Measurement Error: Tackling   Underreporting](http://arxiv.org/abs/1901.09060v1)
+Saharon Rosset|25-01-2019|[Rescaling and other forms of unsupervised preprocessing introduce bias   into cross-validation](http://arxiv.org/abs/1901.08974v1)
+
 ## 01-02-2019
 
 main_author|publish_date|title
