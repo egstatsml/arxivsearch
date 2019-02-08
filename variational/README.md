@@ -1,5 +1,35 @@
 # variational
 Click on title for link to paper
+## 08-02-2019
+
+main_author|publish_date|title
+---|---|---
+Andrew Gordon Wilson|07-02-2019|[A Simple Baseline for Bayesian Uncertainty in Deep Learning](http://arxiv.org/abs/1902.02476v1)
+Ole Winther|06-02-2019|[BIVA: A Very Deep Hierarchy of Latent Variables for Generative Modeling](http://arxiv.org/abs/1902.02102v1)
+Csaba Szepesvári|05-02-2019|[Distribution-Dependent Analysis of Gibbs-ERM Principle](http://arxiv.org/abs/1902.01846v1)
+Zhen Qian|05-02-2019|[AVP: Physics-informed Data Generation for Small-data Learning](http://arxiv.org/abs/1902.01522v1)
+Kenji Doya|04-02-2019|[PIPPS: Flexible Model-Based Policy Search Robust to the Curse of Chaos](http://arxiv.org/abs/1902.01240v1)
+Jonghyun Choi|03-02-2019|[Incremental Learning with Maximum Entropy Regularization: Rethinking   Forgetting and Intransigence](http://arxiv.org/abs/1902.00829v1)
+Mingda Qiao|02-02-2019|[On Generalization Error Bounds of Noisy Gradient Methods for Non-Convex   Learning](http://arxiv.org/abs/1902.00621v1)
+Issei Sato|01-02-2019|[Multi-level Monte Carlo Variational Inference](http://arxiv.org/abs/1902.00468v1)
+and Volkan Cevher|01-02-2019|[Scalable Learning-Based Sampling Optimization for Compressive Dynamic   MRI](http://arxiv.org/abs/1902.00386v2)
+Jun Zhu|01-02-2019|[Understanding MCMC Dynamics as Flows on the Wasserstein Space](http://arxiv.org/abs/1902.00282v1)
+
+## 08-02-2019
+
+main_author|publish_date|title
+---|---|---
+Andrew Gordon Wilson|07-02-2019|[A Simple Baseline for Bayesian Uncertainty in Deep Learning](http://arxiv.org/abs/1902.02476v1)
+Ole Winther|06-02-2019|[BIVA: A Very Deep Hierarchy of Latent Variables for Generative Modeling](http://arxiv.org/abs/1902.02102v1)
+Csaba Szepesvári|05-02-2019|[Distribution-Dependent Analysis of Gibbs-ERM Principle](http://arxiv.org/abs/1902.01846v1)
+Zhen Qian|05-02-2019|[AVP: Physics-informed Data Generation for Small-data Learning](http://arxiv.org/abs/1902.01522v1)
+Kenji Doya|04-02-2019|[PIPPS: Flexible Model-Based Policy Search Robust to the Curse of Chaos](http://arxiv.org/abs/1902.01240v1)
+Jonghyun Choi|03-02-2019|[Incremental Learning with Maximum Entropy Regularization: Rethinking   Forgetting and Intransigence](http://arxiv.org/abs/1902.00829v1)
+Mingda Qiao|02-02-2019|[On Generalization Error Bounds of Noisy Gradient Methods for Non-Convex   Learning](http://arxiv.org/abs/1902.00621v1)
+Issei Sato|01-02-2019|[Multi-level Monte Carlo Variational Inference](http://arxiv.org/abs/1902.00468v1)
+and Volkan Cevher|01-02-2019|[Scalable Learning-Based Sampling Optimization for Compressive Dynamic   MRI](http://arxiv.org/abs/1902.00386v2)
+Jun Zhu|01-02-2019|[Understanding MCMC Dynamics as Flows on the Wasserstein Space](http://arxiv.org/abs/1902.00282v1)
+
 ## 01-02-2019
 
 main_author|publish_date|title

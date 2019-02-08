@@ -1,5 +1,59 @@
 # fairness
 Click on title for link to paper
+## 08-02-2019
+
+main_author|publish_date|title
+---|---|---
+Ha-Jin Yu|07-02-2019|[End-to-end losses based on speaker basis vectors and all-speaker hard   negative mining for speaker verification](http://arxiv.org/abs/1902.02455v1)
+F W Takes|06-02-2019|[A Bayesian Approach for Accurate Classification-Based Aggregates](http://arxiv.org/abs/1902.02412v1)
+Zhiwei Steven Wu|06-02-2019|[Equal Opportunity in Online Classification with Partial Feedback](http://arxiv.org/abs/1902.02242v1)
+Yingbin Liang|06-02-2019|[Finite-Sample Analysis for SARSA and Q-Learning with Linear Function   Approximation](http://arxiv.org/abs/1902.02234v1)
+Yoram Singer|06-02-2019|[Are All Layers Created Equal?](http://arxiv.org/abs/1902.01996v1)
+Joelle Pineau|05-02-2019|[Separating value functions across time-scales](http://arxiv.org/abs/1902.01883v1)
+Luis Baumela|05-02-2019|[Face Alignment using a 3D Deeply-initialized Ensemble of Regression   Trees](http://arxiv.org/abs/1902.01831v1)
+Antonio Bruno|05-02-2019|[Deep Tree Transductions - A Short Survey](http://arxiv.org/abs/1902.01737v1)
+Haim Avron|05-02-2019|[Randomized Riemannian Preconditioning for Quadratically Constrained   Problems](http://arxiv.org/abs/1902.01635v1)
+Juha Karvanen|04-02-2019|[Causal Effect Identification from Multiple Incomplete Data Sources: A   General Search-based Approach](http://arxiv.org/abs/1902.01073v1)
+Minje Kim|03-02-2019|[Deep Autotuner: A Data-Driven Approach to Natural-Sounding Pitch   Correction for Singing Voice in Karaoke Performances](http://arxiv.org/abs/1902.00956v1)
+Alessandro Rinaldo|02-02-2019|[On the bias, risk and consistency of sample means in multi-armed bandits](http://arxiv.org/abs/1902.00746v1)
+Giovanni Iacca|02-02-2019|[Evaluating MAP-Elites on Constrained Optimization Problems](http://arxiv.org/abs/1902.00703v2)
+Hoi-To Wai|02-02-2019|[Non-asymptotic Analysis of Biased Stochastic Approximation Scheme](http://arxiv.org/abs/1902.00629v1)
+Zhizhen Zhao|01-02-2019|[Deep Learning for Multi-Messenger Astrophysics: A Gateway for Discovery   in the Big Data Era](http://arxiv.org/abs/1902.00522v1)
+S. Rathee|01-02-2019|[Examining the Presence of Gender Bias in Customer Reviews Using Word   Embedding](http://arxiv.org/abs/1902.00496v1)
+Yao Xie|01-02-2019|[Crime Linkage Detection by Spatial-Temporal-Textual Point Processes](http://arxiv.org/abs/1902.00440v1)
+Matthias Vogelsang|01-02-2019|[Dynamic fairness - Breaking vicious cycles in automatic decision making](http://arxiv.org/abs/1902.00375v1)
+Frank Neumann|01-02-2019|[Fast Re-Optimization via Structural Diversity](http://arxiv.org/abs/1902.00304v1)
+Mohammed AlQuraishi|01-02-2019|[ProteinNet: a standardized data set for machine learning of protein   structure](http://arxiv.org/abs/1902.00249v1)
+Ruyang Shou|01-02-2019|[Causally Driven Incremental Multi Touch Attribution Using a Recurrent   Neural Network](http://arxiv.org/abs/1902.00215v3)
+Ananda Theertha Suresh|01-02-2019|[Agnostic Federated Learning](http://arxiv.org/abs/1902.00146v1)
+
+## 08-02-2019
+
+main_author|publish_date|title
+---|---|---
+Ha-Jin Yu|07-02-2019|[End-to-end losses based on speaker basis vectors and all-speaker hard   negative mining for speaker verification](http://arxiv.org/abs/1902.02455v1)
+F W Takes|06-02-2019|[A Bayesian Approach for Accurate Classification-Based Aggregates](http://arxiv.org/abs/1902.02412v1)
+Zhiwei Steven Wu|06-02-2019|[Equal Opportunity in Online Classification with Partial Feedback](http://arxiv.org/abs/1902.02242v1)
+Yingbin Liang|06-02-2019|[Finite-Sample Analysis for SARSA and Q-Learning with Linear Function   Approximation](http://arxiv.org/abs/1902.02234v1)
+Yoram Singer|06-02-2019|[Are All Layers Created Equal?](http://arxiv.org/abs/1902.01996v1)
+Joelle Pineau|05-02-2019|[Separating value functions across time-scales](http://arxiv.org/abs/1902.01883v1)
+Luis Baumela|05-02-2019|[Face Alignment using a 3D Deeply-initialized Ensemble of Regression   Trees](http://arxiv.org/abs/1902.01831v1)
+Antonio Bruno|05-02-2019|[Deep Tree Transductions - A Short Survey](http://arxiv.org/abs/1902.01737v1)
+Haim Avron|05-02-2019|[Randomized Riemannian Preconditioning for Quadratically Constrained   Problems](http://arxiv.org/abs/1902.01635v1)
+Juha Karvanen|04-02-2019|[Causal Effect Identification from Multiple Incomplete Data Sources: A   General Search-based Approach](http://arxiv.org/abs/1902.01073v1)
+Minje Kim|03-02-2019|[Deep Autotuner: A Data-Driven Approach to Natural-Sounding Pitch   Correction for Singing Voice in Karaoke Performances](http://arxiv.org/abs/1902.00956v1)
+Alessandro Rinaldo|02-02-2019|[On the bias, risk and consistency of sample means in multi-armed bandits](http://arxiv.org/abs/1902.00746v1)
+Giovanni Iacca|02-02-2019|[Evaluating MAP-Elites on Constrained Optimization Problems](http://arxiv.org/abs/1902.00703v2)
+Hoi-To Wai|02-02-2019|[Non-asymptotic Analysis of Biased Stochastic Approximation Scheme](http://arxiv.org/abs/1902.00629v1)
+Zhizhen Zhao|01-02-2019|[Deep Learning for Multi-Messenger Astrophysics: A Gateway for Discovery   in the Big Data Era](http://arxiv.org/abs/1902.00522v1)
+S. Rathee|01-02-2019|[Examining the Presence of Gender Bias in Customer Reviews Using Word   Embedding](http://arxiv.org/abs/1902.00496v1)
+Yao Xie|01-02-2019|[Crime Linkage Detection by Spatial-Temporal-Textual Point Processes](http://arxiv.org/abs/1902.00440v1)
+Matthias Vogelsang|01-02-2019|[Dynamic fairness - Breaking vicious cycles in automatic decision making](http://arxiv.org/abs/1902.00375v1)
+Frank Neumann|01-02-2019|[Fast Re-Optimization via Structural Diversity](http://arxiv.org/abs/1902.00304v1)
+Mohammed AlQuraishi|01-02-2019|[ProteinNet: a standardized data set for machine learning of protein   structure](http://arxiv.org/abs/1902.00249v1)
+Ruyang Shou|01-02-2019|[Causally Driven Incremental Multi Touch Attribution Using a Recurrent   Neural Network](http://arxiv.org/abs/1902.00215v3)
+Ananda Theertha Suresh|01-02-2019|[Agnostic Federated Learning](http://arxiv.org/abs/1902.00146v1)
+
 ## 09-02-2019
 
 main_author|publish_date|title

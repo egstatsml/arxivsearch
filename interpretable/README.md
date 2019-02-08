@@ -1,5 +1,15 @@
 # interpretable
 Click on title for link to paper
+## 08-02-2019
+
+main_author|publish_date|title
+---|---|---
+John Paisley|06-02-2019|[Global Explanations of Neural Networks: Mapping the Landscape of   Predictions](http://arxiv.org/abs/1902.02384v1)
+Zeynep Akata|05-02-2019|[XOC: Explainable Observer-Classifier for Explainable Binary Decisions](http://arxiv.org/abs/1902.01780v1)
+Kenji Doya|04-02-2019|[PIPPS: Flexible Model-Based Policy Search Robust to the Curse of Chaos](http://arxiv.org/abs/1902.01240v1)
+Yonatan Belinkov|02-02-2019|[Character-based Surprisal as a Model of Human Reading in the Presence of   Errors](http://arxiv.org/abs/1902.00595v1)
+H. Sebastian Seung|31-01-2019|[Learning Metric Graphs for Neuron Segmentation In Electron Microscopy   Images](http://arxiv.org/abs/1902.00100v1)
+
 ## 01-02-2019
 
 main_author|publish_date|title

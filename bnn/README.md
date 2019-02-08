@@ -1,5 +1,27 @@
 # bnn
 Click on title for link to paper
+## 08-02-2019
+
+main_author|publish_date|title
+---|---|---
+Balaji Lakshminarayanan|07-02-2019|[Hybrid Models with Deep and Invertible Features](http://arxiv.org/abs/1902.02767v1)
+Mijung Park|07-02-2019|[Radial and Directional Posteriors for Bayesian Neural Networks](http://arxiv.org/abs/1902.02603v1)
+Andrew Gordon Wilson|07-02-2019|[A Simple Baseline for Bayesian Uncertainty in Deep Learning](http://arxiv.org/abs/1902.02476v1)
+F W Takes|06-02-2019|[A Bayesian Approach for Accurate Classification-Based Aggregates](http://arxiv.org/abs/1902.02412v1)
+Ole Winther|06-02-2019|[BIVA: A Very Deep Hierarchy of Latent Variables for Generative Modeling](http://arxiv.org/abs/1902.02102v1)
+Fabrice Clérot|06-02-2019|[Un modèle Bayésien de co-clustering de données mixtes](http://arxiv.org/abs/1902.02056v1)
+Dina Katabi|06-02-2019|[Bidirectional Inference Networks: A Class of Deep Bayesian Networks for   Health Profiling](http://arxiv.org/abs/1902.02037v1)
+Stefano Ermon|05-02-2019|[Meta-Amortized Variational Inference and Learning](http://arxiv.org/abs/1902.01950v1)
+Harsha Honnappa|05-02-2019|[Asymptotic Consistency of $α-$Rényi-Approximate Posteriors](http://arxiv.org/abs/1902.01902v1)
+Michael Arens|05-02-2019|[An RNN-based IMM Filter Surrogate](http://arxiv.org/abs/1902.01739v1)
+Kenji Doya|04-02-2019|[PIPPS: Flexible Model-Based Policy Search Robust to the Curse of Chaos](http://arxiv.org/abs/1902.01240v1)
+Asja Fischer|04-02-2019|[Predictive Uncertainty Quantification with Compound Density Networks](http://arxiv.org/abs/1902.01080v1)
+Alpha A. Lee|03-02-2019|[Bayesian semi-supervised learning for uncertainty-calibrated prediction   of molecular properties and active learning](http://arxiv.org/abs/1902.00925v1)
+Sarah Ostadabbas|03-02-2019|[DeepPBM: Deep Probabilistic Background Model Estimation from Video   Sequences](http://arxiv.org/abs/1902.00820v1)
+Arto Klami|02-02-2019|[Variational Bayesian Decision-making for Continuous Utilities](http://arxiv.org/abs/1902.00792v1)
+Le Song|02-02-2019|[Meta Particle Flow for Sequential Bayesian Inference](http://arxiv.org/abs/1902.00640v1)
+Kris M. Kitani|01-02-2019|[Learnable Embedding Space for Efficient Neural Architecture Compression](http://arxiv.org/abs/1902.00383v1)
+
 ## 01-02-2019
 
 main_author|publish_date|title
