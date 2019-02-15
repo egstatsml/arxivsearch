@@ -1,5 +1,22 @@
 # fairness
 Click on title for link to paper
+## 15-02-2019
+
+main_author|publish_date|title
+---|---|---
+Nathan Srebro|13-02-2019|[How do infinite width bounded norm networks look in function space?](http://arxiv.org/abs/1902.05040v1)
+Yoram Singer|13-02-2019|[Identity Crisis: Memorization and Generalization under Extreme   Overparameterization](http://arxiv.org/abs/1902.04698v1)
+M. England|12-02-2019|[PLIT: An alignment-free computational tool for identification of long   non-coding RNAs in plant transcriptomic datasets](http://arxiv.org/abs/1902.05064v1)
+Mosharaf Chowdhury|12-02-2019|[Salus: Fine-Grained GPU Sharing Primitives for Deep Learning   Applications](http://arxiv.org/abs/1902.04610v1)
+Argyris Kalogeratos|12-02-2019|[A Probabilistic Framework to Node-level Anomaly Detection in   Communication Networks](http://arxiv.org/abs/1902.04521v1)
+Karl R. Gegenfurtner|12-02-2019|[Manifestation of Image Contrast in Deep Networks](http://arxiv.org/abs/1902.04378v1)
+Thorsten Joachims|11-02-2019|[Policy Learning for Fairness in Ranking](http://arxiv.org/abs/1902.04056v1)
+Urs Bergmann|10-02-2019|[A Bandit Framework for Optimal Selection of Reinforcement Learning   Agents](http://arxiv.org/abs/1902.03657v1)
+Arthur Zimek|10-02-2019|"[ELKI: A large open-source library for data analysis - ELKI Release 0.7.5   ""Heidelberg""](http://arxiv.org/abs/1902.03616v1)"
+Tal Wagner|10-02-2019|[Scalable Fair Clustering](http://arxiv.org/abs/1902.03519v1)
+Alessandro Rudi|08-02-2019|[Beyond Least-Squares: Fast Rates for Regularized Empirical Risk   Minimization through Self-Concordance](http://arxiv.org/abs/1902.03046v1)
+Isabel Valera|08-02-2019|[Improving Consequential Decision Making under Imperfect Predictions](http://arxiv.org/abs/1902.02979v1)
+
 ## 08-02-2019
 
 main_author|publish_date|title

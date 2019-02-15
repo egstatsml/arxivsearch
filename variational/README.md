@@ -1,5 +1,35 @@
 # variational
 Click on title for link to paper
+## 15-02-2019
+
+main_author|publish_date|title
+---|---|---
+Shigeyuki Oba|14-02-2019|[Long and Short Memory Balancing in Visual Co-Tracking using Q-Learning](http://arxiv.org/abs/1902.05211v1)
+François Caron|13-02-2019|[Beyond the Chinese Restaurant and Pitman-Yor processes: Statistical   Models with Double Power-law Behavior](http://arxiv.org/abs/1902.04714v1)
+Ciamac C. Moallemi|12-02-2019|[Thompson Sampling with Information Relaxation Penalties](http://arxiv.org/abs/1902.04251v1)
+Kaushik Roy|11-02-2019|[ReStoCNet: Residual Stochastic Binary Convolutional Spiking Neural   Network for Memory-Efficient Neuromorphic Computing](http://arxiv.org/abs/1902.04161v1)
+Phaedon-Stelios Koutsourelakis|11-02-2019|[A physics-aware, probabilistic machine learning framework for   coarse-graining high-dimensional systems in the Small Data regime](http://arxiv.org/abs/1902.03968v1)
+Andrew Gordon Wilson|11-02-2019|[Cyclical Stochastic Gradient MCMC for Bayesian Deep Learning](http://arxiv.org/abs/1902.03932v1)
+Richard Gerlach|11-02-2019|[Manifold Optimisation Assisted Gaussian Variational Approximation](http://arxiv.org/abs/1902.03718v1)
+Jianfeng Lu|09-02-2019|[A stochastic version of Stein Variational Gradient Descent for efficient   sampling](http://arxiv.org/abs/1902.03394v1)
+Sally Cripps|09-02-2019|[Bayesian Nonparametric Adaptive Spectral Density Estimation for   Financial Time Series](http://arxiv.org/abs/1902.03350v1)
+Chris Holmes|08-02-2019|[Scalable Nonparametric Sampling from Multimodal Posteriors with the   Posterior Bootstrap](http://arxiv.org/abs/1902.03175v1)
+
+## 15-02-2019
+
+main_author|publish_date|title
+---|---|---
+Shigeyuki Oba|14-02-2019|[Long and Short Memory Balancing in Visual Co-Tracking using Q-Learning](http://arxiv.org/abs/1902.05211v1)
+François Caron|13-02-2019|[Beyond the Chinese Restaurant and Pitman-Yor processes: Statistical   Models with Double Power-law Behavior](http://arxiv.org/abs/1902.04714v1)
+Ciamac C. Moallemi|12-02-2019|[Thompson Sampling with Information Relaxation Penalties](http://arxiv.org/abs/1902.04251v1)
+Kaushik Roy|11-02-2019|[ReStoCNet: Residual Stochastic Binary Convolutional Spiking Neural   Network for Memory-Efficient Neuromorphic Computing](http://arxiv.org/abs/1902.04161v1)
+Phaedon-Stelios Koutsourelakis|11-02-2019|[A physics-aware, probabilistic machine learning framework for   coarse-graining high-dimensional systems in the Small Data regime](http://arxiv.org/abs/1902.03968v1)
+Andrew Gordon Wilson|11-02-2019|[Cyclical Stochastic Gradient MCMC for Bayesian Deep Learning](http://arxiv.org/abs/1902.03932v1)
+Richard Gerlach|11-02-2019|[Manifold Optimisation Assisted Gaussian Variational Approximation](http://arxiv.org/abs/1902.03718v1)
+Jianfeng Lu|09-02-2019|[A stochastic version of Stein Variational Gradient Descent for efficient   sampling](http://arxiv.org/abs/1902.03394v1)
+Sally Cripps|09-02-2019|[Bayesian Nonparametric Adaptive Spectral Density Estimation for   Financial Time Series](http://arxiv.org/abs/1902.03350v1)
+Chris Holmes|08-02-2019|[Scalable Nonparametric Sampling from Multimodal Posteriors with the   Posterior Bootstrap](http://arxiv.org/abs/1902.03175v1)
+
 ## 08-02-2019
 
 main_author|publish_date|title

@@ -1,5 +1,57 @@
 # bnn
 Click on title for link to paper
+## 15-02-2019
+
+main_author|publish_date|title
+---|---|---
+Nicolo Fusi|13-02-2019|[Probabilistic Neural Architecture Search](http://arxiv.org/abs/1902.05116v1)
+Nadra Guizani|13-02-2019|[Structured Bayesian Compression for Deep models in mobile enabled   devices for connected healthcare](http://arxiv.org/abs/1902.05429v1)
+Jun Guo|13-02-2019|[On the Convergence of Extended Variational Inference for Non-Gaussian   Statistical Models](http://arxiv.org/abs/1902.05068v1)
+Shuguang Cui|13-02-2019|[Wireless Traffic Prediction with Scalable Gaussian Process: Framework,   Algorithms, and Verification](http://arxiv.org/abs/1902.04763v1)
+Darren Hau|13-02-2019|[Predicting Food Security Outcomes Using Convolutional Neural Networks   (CNNs) for Satellite Tasking](http://arxiv.org/abs/1902.05433v1)
+Jan Peters|12-02-2019|[Bayesian Online Detection and Prediction of Change Points](http://arxiv.org/abs/1902.04524v1)
+Soon Ki Jung|12-02-2019|[Brain MRI Segmentation using Rule-Based Hybrid Approach](http://arxiv.org/abs/1902.04207v1)
+Kaushik Roy|11-02-2019|[ReStoCNet: Residual Stochastic Binary Convolutional Spiking Neural   Network for Memory-Efficient Neuromorphic Computing](http://arxiv.org/abs/1902.04161v1)
+Phaedon-Stelios Koutsourelakis|11-02-2019|[A physics-aware, probabilistic machine learning framework for   coarse-graining high-dimensional systems in the Small Data regime](http://arxiv.org/abs/1902.03968v1)
+Andrew Gordon Wilson|11-02-2019|[Cyclical Stochastic Gradient MCMC for Bayesian Deep Learning](http://arxiv.org/abs/1902.03932v1)
+Richard Gerlach|11-02-2019|[Manifold Optimisation Assisted Gaussian Variational Approximation](http://arxiv.org/abs/1902.03718v1)
+Dionysis Goutsos|10-02-2019|[Word embeddings for idiolect identification](http://arxiv.org/abs/1902.03658v1)
+Joshua B. Tenenbaum|09-02-2019|[The Omniglot Challenge: A 3-Year Progress Report](http://arxiv.org/abs/1902.03477v1)
+Felipe Tobar|09-02-2019|[Low-pass filtering as Bayesian inference](http://arxiv.org/abs/1902.03427v1)
+Jianfeng Lu|09-02-2019|[A stochastic version of Stein Variational Gradient Descent for efficient   sampling](http://arxiv.org/abs/1902.03394v1)
+Sally Cripps|09-02-2019|[Bayesian Nonparametric Adaptive Spectral Density Estimation for   Financial Time Series](http://arxiv.org/abs/1902.03350v1)
+Ilya Feige|08-02-2019|[Invariant-equivariant representation learning for multi-class data](http://arxiv.org/abs/1902.03251v1)
+Andrew A. Berlin|08-02-2019|[A 3D Probabilistic Deep Learning System for Detection and Diagnosis of   Lung Cancer Using Low-Dose CT Scans](http://arxiv.org/abs/1902.03233v1)
+Noah Goodman|08-02-2019|[Tensor Variable Elimination for Plated Factor Graphs](http://arxiv.org/abs/1902.03210v1)
+Chris Holmes|08-02-2019|[Scalable Nonparametric Sampling from Multimodal Posteriors with the   Posterior Bootstrap](http://arxiv.org/abs/1902.03175v1)
+Masanori Koyama|08-02-2019|[A Differentiable Gaussian-like Distribution on Hyperbolic Space for   Gradient-Based Learning](http://arxiv.org/abs/1902.02992v1)
+
+## 15-02-2019
+
+main_author|publish_date|title
+---|---|---
+Nicolo Fusi|13-02-2019|[Probabilistic Neural Architecture Search](http://arxiv.org/abs/1902.05116v1)
+Nadra Guizani|13-02-2019|[Structured Bayesian Compression for Deep models in mobile enabled   devices for connected healthcare](http://arxiv.org/abs/1902.05429v1)
+Jun Guo|13-02-2019|[On the Convergence of Extended Variational Inference for Non-Gaussian   Statistical Models](http://arxiv.org/abs/1902.05068v1)
+Shuguang Cui|13-02-2019|[Wireless Traffic Prediction with Scalable Gaussian Process: Framework,   Algorithms, and Verification](http://arxiv.org/abs/1902.04763v1)
+Darren Hau|13-02-2019|[Predicting Food Security Outcomes Using Convolutional Neural Networks   (CNNs) for Satellite Tasking](http://arxiv.org/abs/1902.05433v1)
+Jan Peters|12-02-2019|[Bayesian Online Detection and Prediction of Change Points](http://arxiv.org/abs/1902.04524v1)
+Soon Ki Jung|12-02-2019|[Brain MRI Segmentation using Rule-Based Hybrid Approach](http://arxiv.org/abs/1902.04207v1)
+Kaushik Roy|11-02-2019|[ReStoCNet: Residual Stochastic Binary Convolutional Spiking Neural   Network for Memory-Efficient Neuromorphic Computing](http://arxiv.org/abs/1902.04161v1)
+Phaedon-Stelios Koutsourelakis|11-02-2019|[A physics-aware, probabilistic machine learning framework for   coarse-graining high-dimensional systems in the Small Data regime](http://arxiv.org/abs/1902.03968v1)
+Andrew Gordon Wilson|11-02-2019|[Cyclical Stochastic Gradient MCMC for Bayesian Deep Learning](http://arxiv.org/abs/1902.03932v1)
+Richard Gerlach|11-02-2019|[Manifold Optimisation Assisted Gaussian Variational Approximation](http://arxiv.org/abs/1902.03718v1)
+Dionysis Goutsos|10-02-2019|[Word embeddings for idiolect identification](http://arxiv.org/abs/1902.03658v1)
+Joshua B. Tenenbaum|09-02-2019|[The Omniglot Challenge: A 3-Year Progress Report](http://arxiv.org/abs/1902.03477v1)
+Felipe Tobar|09-02-2019|[Low-pass filtering as Bayesian inference](http://arxiv.org/abs/1902.03427v1)
+Jianfeng Lu|09-02-2019|[A stochastic version of Stein Variational Gradient Descent for efficient   sampling](http://arxiv.org/abs/1902.03394v1)
+Sally Cripps|09-02-2019|[Bayesian Nonparametric Adaptive Spectral Density Estimation for   Financial Time Series](http://arxiv.org/abs/1902.03350v1)
+Ilya Feige|08-02-2019|[Invariant-equivariant representation learning for multi-class data](http://arxiv.org/abs/1902.03251v1)
+Andrew A. Berlin|08-02-2019|[A 3D Probabilistic Deep Learning System for Detection and Diagnosis of   Lung Cancer Using Low-Dose CT Scans](http://arxiv.org/abs/1902.03233v1)
+Noah Goodman|08-02-2019|[Tensor Variable Elimination for Plated Factor Graphs](http://arxiv.org/abs/1902.03210v1)
+Chris Holmes|08-02-2019|[Scalable Nonparametric Sampling from Multimodal Posteriors with the   Posterior Bootstrap](http://arxiv.org/abs/1902.03175v1)
+Masanori Koyama|08-02-2019|[A Differentiable Gaussian-like Distribution on Hyperbolic Space for   Gradient-Based Learning](http://arxiv.org/abs/1902.02992v1)
+
 ## 08-02-2019
 
 main_author|publish_date|title

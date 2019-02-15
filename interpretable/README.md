@@ -1,5 +1,17 @@
 # interpretable
 Click on title for link to paper
+## 15-02-2019
+
+main_author|publish_date|title
+---|---|---
+Yi-Chang James Tsai|09-02-2019|[When Causal Intervention Meets Image Masking and Adversarial   Perturbation for Deep Neural Networks](http://arxiv.org/abs/1902.03380v2)
+
+## 15-02-2019
+
+main_author|publish_date|title
+---|---|---
+Yi-Chang James Tsai|09-02-2019|[When Causal Intervention Meets Image Masking and Adversarial   Perturbation for Deep Neural Networks](http://arxiv.org/abs/1902.03380v2)
+
 ## 08-02-2019
 
 main_author|publish_date|title
