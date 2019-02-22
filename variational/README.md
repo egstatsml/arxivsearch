@@ -1,5 +1,18 @@
 # variational
 Click on title for link to paper
+## 23-02-2019
+
+main_author|publish_date|title
+---|---|---
+Nisheeth K. Vishnoi|21-02-2019|[Online Sampling from Log-Concave Distributions](http://arxiv.org/abs/1902.08179v1)
+Fabio Ramos|21-02-2019|[Bayesian optimisation under uncertain inputs](http://arxiv.org/abs/1902.07908v1)
+Devi Parikh|21-02-2019|[Probabilistic Neural-symbolic Models for Interpretable Visual Question   Answering](http://arxiv.org/abs/1902.07864v1)
+Philipp Hennig|20-02-2019|[Active Probabilistic Inference on Matrices for Pre-Conditioning in   Stochastic Optimization](http://arxiv.org/abs/1902.07557v1)
+Reinhard Furrer|18-02-2019|[Is a single unique Bayesian network enough to accurately represent your   data?](http://arxiv.org/abs/1902.06641v1)
+James Goodman|16-02-2019|[Re-determinizing Information Set Monte Carlo Tree Search in Hanabi](http://arxiv.org/abs/1902.06075v1)
+Pierre Chainais|15-02-2019|[Asymptotically exact data augmentation: models, properties and   algorithms](http://arxiv.org/abs/1902.05754v1)
+Marco Pavone|15-02-2019|[Network Offloading Policies for Cloud Robotics: a Learning-based   Approach](http://arxiv.org/abs/1902.05703v1)
+
 ## 15-02-2019
 
 main_author|publish_date|title

@@ -1,5 +1,30 @@
 # bnn
 Click on title for link to paper
+## 23-02-2019
+
+main_author|publish_date|title
+---|---|---
+Dana Pe'er|21-02-2019|[A Nonparametric Multi-view Model for Estimating Cell Type-Specific Gene   Regulatory Networks](http://arxiv.org/abs/1902.08138v1)
+Hai-Jun Zhou|21-02-2019|[Active online learning in the binary perceptron problem](http://arxiv.org/abs/1902.08043v1)
+Fabio Ramos|21-02-2019|[Bayesian optimisation under uncertain inputs](http://arxiv.org/abs/1902.07908v1)
+Devi Parikh|21-02-2019|[Probabilistic Neural-symbolic Models for Interpretable Visual Question   Answering](http://arxiv.org/abs/1902.07864v1)
+Dang Nguyen|21-02-2019|[Stable Bayesian Optimisation via Direct Stability Quantification](http://arxiv.org/abs/1902.07846v1)
+Reazul Hasan Russell|20-02-2019|[Beyond Confidence Regions: Tight Bayesian Ambiguity Sets for Robust MDPs](http://arxiv.org/abs/1902.07605v1)
+Dominik Endres|20-02-2019|[Emulating Human Developmental Stages with Bayesian Neural Networks](http://arxiv.org/abs/1902.07579v1)
+Philipp Hennig|20-02-2019|[Active Probabilistic Inference on Matrices for Pre-Conditioning in   Stochastic Optimization](http://arxiv.org/abs/1902.07557v1)
+Ling Cheng|20-02-2019|[Long-Bone Fracture Detection using Artificial Neural Networks based on   Line Features of X-ray Images](http://arxiv.org/abs/1902.07458v1)
+Martin Ingram|20-02-2019|[Gaussian Process Priors for Dynamic Paired Comparison Modelling](http://arxiv.org/abs/1902.07378v1)
+Andrew L. Alexander|19-02-2019|[Accurate Automatic Segmentation of Amygdala Subnuclei and Modeling of   Uncertainty via Bayesian Fully Convolutional Neural Network](http://arxiv.org/abs/1902.07289v1)
+Jeffrey Pennington|18-02-2019|[Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient   Descent](http://arxiv.org/abs/1902.06720v1)
+Abderrahmane Habbal|18-02-2019|[The Kalai-Smorodinski solution for many-objective Bayesian optimization](http://arxiv.org/abs/1902.06565v1)
+Yarin Gal|18-02-2019|[A Unifying Bayesian View of Continual Learning](http://arxiv.org/abs/1902.06494v1)
+Andrzej Pronobis|16-02-2019|[Deep Convolutional Sum-Product Networks for Probabilistic Image   Representations](http://arxiv.org/abs/1902.06155v1)
+Alessandro Orso|15-02-2019|[Robustness of Neural Networks: A Probabilistic and Practical Approach](http://arxiv.org/abs/1902.05983v1)
+James Hensman|15-02-2019|[Translation Insensitivity for Deep Convolutional Gaussian Processes](http://arxiv.org/abs/1902.05888v1)
+Pierre Chainais|15-02-2019|[Asymptotically exact data augmentation: models, properties and   algorithms](http://arxiv.org/abs/1902.05754v1)
+Klaus D. McDonald-Maier|15-02-2019|[TMAV: Temporal Motionless Analysis of Video using CNN in MPSoC](http://arxiv.org/abs/1902.05657v2)
+Carla Gomes|14-02-2019|[Exponentially-Modified Gaussian Mixture Model: Applications in   Spectroscopy](http://arxiv.org/abs/1902.05601v1)
+
 ## 15-02-2019
 
 main_author|publish_date|title

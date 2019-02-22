@@ -1,5 +1,19 @@
 # fairness
 Click on title for link to paper
+## 23-02-2019
+
+main_author|publish_date|title
+---|---|---
+Nisheeth K. Vishnoi|21-02-2019|[Stable and Fair Classification](http://arxiv.org/abs/1902.07823v1)
+Deyu Meng|20-02-2019|[Tug the Student to Learn Right: Progressive Gradient Correcting by   Meta-learner on Corrupted Labels](http://arxiv.org/abs/1902.07379v1)
+Chen Wen Zhai|19-02-2019|[Recovery of a mixture of Gaussians by sum-of-norms clustering](http://arxiv.org/abs/1902.07137v1)
+John Terilla|19-02-2019|[Probabilistic Modeling with Matrix Product States](http://arxiv.org/abs/1902.06888v1)
+Abderrahmane Habbal|18-02-2019|[The Kalai-Smorodinski solution for many-objective Bayesian optimization](http://arxiv.org/abs/1902.06565v1)
+Moshe Kim|17-02-2019|[Semiparametric correction for endogenous truncation bias with Vox Populi   based participation decision](http://arxiv.org/abs/1902.06286v1)
+Darshan Gera|16-02-2019|[RES-SE-NET: Boosting Performance of Resnets by Enhancing   Bridge-connections](http://arxiv.org/abs/1902.06066v1)
+Angela Zhou|15-02-2019|[The Fairness of Risk Scores Beyond Classification: Bipartite Ranking and   the xAUC Metric](http://arxiv.org/abs/1902.05826v1)
+Vicente Moret-Bonillo|15-02-2019|[A Convolutional Network for Sleep Stages Classification](http://arxiv.org/abs/1902.05748v1)
+
 ## 15-02-2019
 
 main_author|publish_date|title

@@ -1,5 +1,12 @@
 # interpretable
 Click on title for link to paper
+## 23-02-2019
+
+main_author|publish_date|title
+---|---|---
+Thomas L. Griffiths|18-02-2019|[Using Machine Learning to Guide Cognitive Modeling: A Case Study in   Moral Reasoning](http://arxiv.org/abs/1902.06744v1)
+Avi Ziskind|15-02-2019|[Generating Natural Language Explanations for Visual Question Answering   using Scene Graphs and Visual Attention](http://arxiv.org/abs/1902.05715v1)
+
 ## 15-02-2019
 
 main_author|publish_date|title
