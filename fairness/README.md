@@ -1,5 +1,29 @@
 # fairness
 Click on title for link to paper
+## 01-03-2019
+
+main_author|publish_date|title
+---|---|---
+Santosh Vempala|28-02-2019|[Fair Dimensionality Reduction and Iterative Rounding for SDPs](http://arxiv.org/abs/1902.11281v1)
+Sebastian Riedel|28-02-2019|[Evaluating Rewards for Question Generation Models](http://arxiv.org/abs/1902.11049v1)
+Fumiyasu Komaki|28-02-2019|[Learning partially ranked data based on graph regularization](http://arxiv.org/abs/1902.10963v1)
+Marc'Aurelio Ranzato|27-02-2019|[Continual Learning with Tiny Episodic Memories](http://arxiv.org/abs/1902.10486v1)
+Sergey Levine|26-02-2019|[Diagnosing Bottlenecks in Deep Q-learning Algorithms](http://arxiv.org/abs/1902.10250v1)
+Martin Bokeloh|26-02-2019|[An Annotation Saved is an Annotation Earned: Using Fully Synthetic   Training for Object Instance Detection](http://arxiv.org/abs/1902.09967v1)
+Petre Stoica|26-02-2019|[Effect Inference from Two-Group Data with Sampling Bias](http://arxiv.org/abs/1902.09923v1)
+Wei Dai|26-02-2019|[MC-ISTA-Net: Adaptive Measurement and Initialization and Channel   Attention Optimization inspired Neural Network for Compressive Sensing](http://arxiv.org/abs/1902.09878v1)
+Michael Maire|26-02-2019|[Learning Implicitly Recurrent CNNs Through Parameter Sharing](http://arxiv.org/abs/1902.09701v1)
+Reinhard Heckel|25-02-2019|[Adaptive Estimation for Approximate k-Nearest-Neighbor Computations](http://arxiv.org/abs/1902.09465v1)
+Sung Ju Hwang|25-02-2019|[ORACLE: Order Robust Adaptive Continual LEarning](http://arxiv.org/abs/1902.09432v1)
+Hanwang Zhang|25-02-2019|[Making History Matter: Gold-Critic Sequence Training for Visual Dialog](http://arxiv.org/abs/1902.09326v2)
+Lars Schmidt-Thieme|25-02-2019|[Multi-Label Network Classification via Weighted Personalized   Factorizations](http://arxiv.org/abs/1902.09294v1)
+Cun-Hui Zhang|24-02-2019|[De-Biasing The Lasso With Degrees-of-Freedom Adjustment](http://arxiv.org/abs/1902.08885v1)
+Matthias C. Caro|23-02-2019|[Quantum Learning Boolean Linear Functions w.r.t. Product Distributions](http://arxiv.org/abs/1902.08753v1)
+Mykel J. Kochenderfer|22-02-2019|[A General Framework for Structured Learning of Mechanical Systems](http://arxiv.org/abs/1902.08705v1)
+Sotirios A. Tsaftaris|22-02-2019|[The Generalized Complex Kernel Least-Mean-Square Algorithm](http://arxiv.org/abs/1902.08692v1)
+Cristian Danescu-Niculescu-Mizil|22-02-2019|[Trajectories of Blocked Community Members: Redemption, Recidivism and   Departure](http://arxiv.org/abs/1902.08628v1)
+Sach Mukherjee|22-02-2019|[Model-based clustering in very high dimensions via adaptive projections](http://arxiv.org/abs/1902.08472v1)
+
 ## 23-02-2019
 
 main_author|publish_date|title

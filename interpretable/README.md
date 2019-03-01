@@ -1,5 +1,14 @@
 # interpretable
 Click on title for link to paper
+## 01-03-2019
+
+main_author|publish_date|title
+---|---|---
+Hideaki Shimazaki|28-02-2019|[The principles of adaptation in organisms and machines I: machine   learning, information theory, and thermodynamics](http://arxiv.org/abs/1902.11233v1)
+Roshanak Nateghi|26-02-2019|[Integrated analysis of the urban water-electricity demand nexus in the   Midwestern United States](http://arxiv.org/abs/1902.10697v1)
+Mikel Galar|25-02-2019|[CFM-BD: a distributed rule induction algorithm for building Compact   Fuzzy Models in Big Data classification problems](http://arxiv.org/abs/1902.09357v1)
+Prasad Tadepalli|22-02-2019|[Saliency Learning: Teaching the Model Where to Pay Attention](http://arxiv.org/abs/1902.08649v1)
+
 ## 23-02-2019
 
 main_author|publish_date|title

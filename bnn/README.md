@@ -1,5 +1,31 @@
 # bnn
 Click on title for link to paper
+## 01-03-2019
+
+main_author|publish_date|title
+---|---|---
+Marco Lorenzi|28-02-2019|[Monotonic Gaussian Process for Spatio-Temporal Trajectory Separation in   Brain Imaging Data](http://arxiv.org/abs/1902.10952v1)
+Guy Van den Broeck|27-02-2019|[Learning Logistic Circuits](http://arxiv.org/abs/1902.10798v1)
+John Ashburner|27-02-2019|[Nonlinear Markov Random Fields Learned via Backpropagation](http://arxiv.org/abs/1902.10747v1)
+Marc P. Deisenroth|27-02-2019|[High-Dimensional Bayesian Optimization with Manifold Gaussian Processes](http://arxiv.org/abs/1902.10675v1)
+Klaus-Robert Müller|27-02-2019|[Local Bandwidth Estimation via Mixture of Gaussian Processes](http://arxiv.org/abs/1902.10664v1)
+Michael U. Gutmann|27-02-2019|[Adaptive Gaussian Copula ABC](http://arxiv.org/abs/1902.10704v1)
+Merav Parter|27-02-2019|[Counting to Ten with Two Fingers: Compressed Counting with Spiking   Neurons](http://arxiv.org/abs/1902.10369v1)
+Maxim Panov|27-02-2019|[Deeper Connections between Neural Networks and Gaussian Processes   Speed-up Active Learning](http://arxiv.org/abs/1902.10350v1)
+Jonas Latz|26-02-2019|[On the well-posedness of Bayesian inverse problems](http://arxiv.org/abs/1902.10257v1)
+Jürgen Pilz|26-02-2019|[Variational Inference to Measure Model Uncertainty in Deep Neural   Networks](http://arxiv.org/abs/1902.10189v1)
+David Wingate|26-02-2019|[Graph Neural Processes: Towards Bayesian Graph Neural Networks](http://arxiv.org/abs/1902.10042v1)
+Bo Zhang|26-02-2019|[Function Space Particle Optimization for Bayesian Neural Networks](http://arxiv.org/abs/1902.09754v1)
+Makoto Yamada|26-02-2019|[Topological Bayesian Optimization with Persistence Diagrams](http://arxiv.org/abs/1902.09722v1)
+Noah Goodman|25-02-2019|[Lost in Machine Translation: A Method to Reduce Meaning Loss](http://arxiv.org/abs/1902.09514v1)
+Binqiang Zhao|25-02-2019|[Deep Bayesian Multi-Target Learning for Recommender Systems](http://arxiv.org/abs/1902.09154v1)
+Taesup Moon|24-02-2019|[Iterative Channel Estimation for Discrete Denoising under Channel   Uncertainty](http://arxiv.org/abs/1902.08921v1)
+Trevor Cohn|24-02-2019|[Truth Inference at Scale: A Bayesian Model for Adjudicating Highly   Redundant Crowd Annotations](http://arxiv.org/abs/1902.08918v1)
+David McAllester|23-02-2019|[Evidence Sentence Extraction for Machine Reading Comprehension](http://arxiv.org/abs/1902.08852v1)
+Bernhard Schölkopf|22-02-2019|[AReS and MaRS - Adversarial and MMD-Minimizing Regression for SDEs](http://arxiv.org/abs/1902.08480v1)
+Yonghong Tian|22-02-2019|[Probabilistic Inference of Binary Markov Random Fields in Spiking Neural   Networks through Mean-field Approximation](http://arxiv.org/abs/1902.08411v1)
+Christopher K. Wikle|22-02-2019|[Comparison of Deep Neural Networks and Deep Hierarchical Models for   Spatio-Temporal Data](http://arxiv.org/abs/1902.08321v1)
+
 ## 23-02-2019
 
 main_author|publish_date|title

@@ -1,5 +1,20 @@
 # variational
 Click on title for link to paper
+## 01-03-2019
+
+main_author|publish_date|title
+---|---|---
+Hugo Tullberg|28-02-2019|[Constrained Thompson Sampling for Wireless Link Optimization](http://arxiv.org/abs/1902.11102v1)
+Ilias Bilionis|27-02-2019|[Deep active subspaces - a scalable method for high-dimensional   uncertainty propagation](http://arxiv.org/abs/1902.10527v2)
+Stefano Ermon|27-02-2019|[Training Variational Autoencoders with Buffered Stochastic Variational   Inference](http://arxiv.org/abs/1902.10294v1)
+Ruben Martinez-Cantin|26-02-2019|[Fully Distributed Bayesian Optimization with Stochastic Policies](http://arxiv.org/abs/1902.09992v1)
+Michael A. Osborne|26-02-2019|[Automated Model Selection with Bayesian Quadrature](http://arxiv.org/abs/1902.09724v2)
+Maxine Eskenazi|23-02-2019|[Rethinking Action Spaces for Reinforcement Learning in End-to-end Dialog   Agents with Latent Variable Models](http://arxiv.org/abs/1902.08858v1)
+Jérémie Mary|23-02-2019|[Distributionally Robust Reinforcement Learning](http://arxiv.org/abs/1902.08708v1)
+Joshua Reid|22-02-2019|[Multi-Armed Bandit Strategies for Non-Stationary Reward Distributions   and Delayed Feedback Processes](http://arxiv.org/abs/1902.08593v1)
+Bernhard Schölkopf|22-02-2019|[AReS and MaRS - Adversarial and MMD-Minimizing Regression for SDEs](http://arxiv.org/abs/1902.08480v1)
+Yonghong Tian|22-02-2019|[Probabilistic Inference of Binary Markov Random Fields in Spiking Neural   Networks through Mean-field Approximation](http://arxiv.org/abs/1902.08411v1)
+
 ## 23-02-2019
 
 main_author|publish_date|title
