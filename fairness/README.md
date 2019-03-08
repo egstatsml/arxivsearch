@@ -1,5 +1,24 @@
 # fairness
 Click on title for link to paper
+## 08-03-2019
+
+main_author|publish_date|title
+---|---|---
+James P. Bagrow|07-03-2019|[Accurate inference of crowdsourcing properties when using efficient   allocation strategies](http://arxiv.org/abs/1903.03104v1)
+Praveen Pilly|06-03-2019|[Using World Models for Pseudo-Rehearsal in Continual Learning](http://arxiv.org/abs/1903.02647v1)
+William Yang Wang|06-03-2019|[Imposing Label-Relational Inductive Bias for Extremely Fine-Grained   Entity Typing](http://arxiv.org/abs/1903.02591v1)
+Natalio Krasnogor|06-03-2019|[A Scalable Test Suite for Continuous Dynamic Multiobjective Optimisation](http://arxiv.org/abs/1903.02510v1)
+Zhisheng Niu|06-03-2019|[Distributed Policy Learning Based Random Access for Diversified QoS   Requirements](http://arxiv.org/abs/1903.02242v1)
+U. Rajendra Acharya|05-03-2019|[SleepEEGNet: Automated Sleep Stage Scoring with Sequence to Sequence   Deep Learning Approach](http://arxiv.org/abs/1903.02108v1)
+Lucy Vasserman|05-03-2019|[Limitations of Pinned AUC for Measuring Unintended Bias](http://arxiv.org/abs/1903.02088v1)
+Oriol Pujol|05-03-2019|[Copying Machine Learning Classifiers](http://arxiv.org/abs/1903.01879v1)
+Kostas Alexis|05-03-2019|[Vision-Depth Landmarks and Inertial Fusion for Navigation in Degraded   Visual Environments](http://arxiv.org/abs/1903.01659v1)
+Pulkit Grover|04-03-2019|[CodeNet: Training Large Scale Neural Networks in Presence of Soft-Errors](http://arxiv.org/abs/1903.01042v1)
+Cristos Goodrow|02-03-2019|[Fairness in Recommendation Ranking through Pairwise Comparisons](http://arxiv.org/abs/1903.00780v1)
+Trieu-Kien Truong|02-03-2019|[Matrix Completion via Nonconvex Regularization: Convergence of the   Proximal Gradient Algorithm](http://arxiv.org/abs/1903.00702v1)
+Jeppe Rich|01-03-2019|[Introducing Super Pseudo Panels: Application to Transport Preference   Dynamics](http://arxiv.org/abs/1903.00516v1)
+Christopher Kanan|01-03-2019|[Answer Them All! Toward Universal Visual Question Answering Models](http://arxiv.org/abs/1903.00366v1)
+
 ## 01-03-2019
 
 main_author|publish_date|title

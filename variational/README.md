@@ -1,5 +1,24 @@
 # variational
 Click on title for link to paper
+## 08-03-2019
+
+main_author|publish_date|title
+---|---|---
+Deep Ray|07-03-2019|[Deep learning observables in computational fluid dynamics](http://arxiv.org/abs/1903.03040v1)
+Rajesh Ranganath|07-03-2019|[The Variational Predictive Natural Gradient](http://arxiv.org/abs/1903.02984v1)
+Patrick Forré|07-03-2019|[Reparameterizing Distributions on Lie Groups](http://arxiv.org/abs/1903.02958v1)
+Issei Sato|07-03-2019|[On Transformations in Stochastic Gradient MCMC](http://arxiv.org/abs/1903.02750v1)
+Frank Wood|06-03-2019|[LF-PPL: A Low-Level First Order Probabilistic Programming Language for   Non-Differentiable Models](http://arxiv.org/abs/1903.02482v1)
+Jun Sun|06-03-2019|[Safeguarded Dynamic Label Regression for Generalized Noisy Supervision](http://arxiv.org/abs/1903.02152v1)
+Darwin G. Caldwell|05-03-2019|[Uncertainty-Aware Imitation Learning using Kernelized Movement   Primitives](http://arxiv.org/abs/1903.02114v1)
+Maxim Raginsky|05-03-2019|[Theoretical guarantees for sampling and inference in generative models   with latent diffusions](http://arxiv.org/abs/1903.01608v1)
+Aaron D. Ames|04-03-2019|[Episodic Learning with Control Lyapunov Functions for Uncertain Robotic   Systems](http://arxiv.org/abs/1903.01577v1)
+Durk Kingma|04-03-2019|[VideoFlow: A Flow-Based Generative Model for Video](http://arxiv.org/abs/1903.01434v1)
+Kwong-Sak Leung|04-03-2019|[Stochastic Online Learning with Probabilistic Graph Feedback](http://arxiv.org/abs/1903.01083v1)
+Shaojie Shen|03-03-2019|[Predicting Vehicle Behaviors Over An Extended Horizon Using Behavior   Interaction Network](http://arxiv.org/abs/1903.00848v1)
+Louis-Philippe Morency|03-03-2019|[Variational Auto-Decoder: Neural Generative Modeling from Partial Data](http://arxiv.org/abs/1903.00840v1)
+Reza Hajargasht|02-03-2019|[Approximation Properties of Variational Bayes for Vector Autoregressions](http://arxiv.org/abs/1903.00617v1)
+
 ## 01-03-2019
 
 main_author|publish_date|title

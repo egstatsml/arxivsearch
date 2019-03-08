@@ -1,5 +1,36 @@
 # bnn
 Click on title for link to paper
+## 08-03-2019
+
+main_author|publish_date|title
+---|---|---
+Deep Ray|07-03-2019|[Deep learning observables in computational fluid dynamics](http://arxiv.org/abs/1903.03040v1)
+Rajesh Ranganath|07-03-2019|[The Variational Predictive Natural Gradient](http://arxiv.org/abs/1903.02984v1)
+Dr. Sasi Gopalan|07-03-2019|[Limiting Network Size within Finite Bounds for Optimization](http://arxiv.org/abs/1903.02809v1)
+Issei Sato|07-03-2019|[On Transformations in Stochastic Gradient MCMC](http://arxiv.org/abs/1903.02750v1)
+Wang Gang|07-03-2019|[A Novel Neural Network Structure Constructed according to Logical   Relations](http://arxiv.org/abs/1903.02683v1)
+Konstantinos P. Michmizos|06-03-2019|[Spiking Neural Network on Neuromorphic Hardware for Energy-Efficient   Unidimensional SLAM](http://arxiv.org/abs/1903.02504v1)
+Xue Feng|06-03-2019|[Prostate Segmentation from 3D MRI Using a Two-Stage Model and   Variable-Input Based Uncertainty Measure](http://arxiv.org/abs/1903.02500v1)
+Frank Wood|06-03-2019|[LF-PPL: A Low-Level First Order Probabilistic Programming Language for   Non-Differentiable Models](http://arxiv.org/abs/1903.02482v1)
+Jun Sun|06-03-2019|[Safeguarded Dynamic Label Regression for Generalized Noisy Supervision](http://arxiv.org/abs/1903.02152v1)
+Darwin G. Caldwell|05-03-2019|[Uncertainty-Aware Imitation Learning using Kernelized Movement   Primitives](http://arxiv.org/abs/1903.02114v1)
+Xuan Zhao|05-03-2019|[PROPS: Probabilistic personalization of black-box sequence models](http://arxiv.org/abs/1903.02013v1)
+Zhizhen Zhao|05-03-2019|[Deep Learning at Scale for Gravitational Wave Parameter Estimation of   Binary Black Hole Mergers](http://arxiv.org/abs/1903.01998v1)
+Matthew Wicker|05-03-2019|[Statistical Guarantees for the Robustness of Bayesian Neural Networks](http://arxiv.org/abs/1903.01980v1)
+Markus Weimer|05-03-2019|[PDP: A General Neural Framework for Learning Constraint Satisfaction   Solvers](http://arxiv.org/abs/1903.01969v1)
+Brenden M. Lake|05-03-2019|[Learning a smooth kernel regularizer for convolutional neural networks](http://arxiv.org/abs/1903.01882v1)
+Maxim Raginsky|05-03-2019|[Theoretical guarantees for sampling and inference in generative models   with latent diffusions](http://arxiv.org/abs/1903.01608v1)
+Yaser P. Fallah|04-03-2019|[V2X System Architecture Utilizing Hybrid Gaussian Process-based Model   Structures](http://arxiv.org/abs/1903.01576v2)
+Durk Kingma|04-03-2019|[VideoFlow: A Flow-Based Generative Model for Video](http://arxiv.org/abs/1903.01434v1)
+Brijnesh Jain|04-03-2019|[Making the Dynamic Time Warping Distance Warping-Invariant](http://arxiv.org/abs/1903.01454v1)
+Fabio Ramos|03-03-2019|[Bayesian Learning of Conditional Kernel Mean Embeddings for Automatic   Likelihood-Free Inference](http://arxiv.org/abs/1903.00863v1)
+Shaojie Shen|03-03-2019|[Predicting Vehicle Behaviors Over An Extended Horizon Using Behavior   Interaction Network](http://arxiv.org/abs/1903.00848v1)
+Louis-Philippe Morency|03-03-2019|[Variational Auto-Decoder: Neural Generative Modeling from Partial Data](http://arxiv.org/abs/1903.00840v1)
+Reza Hajargasht|02-03-2019|[Approximation Properties of Variational Bayes for Vector Autoregressions](http://arxiv.org/abs/1903.00617v1)
+Jeppe Rich|01-03-2019|[Introducing Super Pseudo Panels: Application to Transport Preference   Dynamics](http://arxiv.org/abs/1903.00516v1)
+Yasser Roudi|01-03-2019|[On the complexity of logistic regression models](http://arxiv.org/abs/1903.00386v1)
+Chunguang Li|01-03-2019|[Distributed Variational Bayesian Algorithms for Extended Object Tracking](http://arxiv.org/abs/1903.00182v1)
+
 ## 01-03-2019
 
 main_author|publish_date|title

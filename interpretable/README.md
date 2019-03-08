@@ -1,5 +1,11 @@
 # interpretable
 Click on title for link to paper
+## 08-03-2019
+
+main_author|publish_date|title
+---|---|---
+Lior Rokach|06-03-2019|[Explaining Anomalies Detected by Autoencoders Using SHAP](http://arxiv.org/abs/1903.02407v1)
+
 ## 01-03-2019
 
 main_author|publish_date|title
