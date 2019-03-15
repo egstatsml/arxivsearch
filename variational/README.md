@@ -1,5 +1,20 @@
 # variational
 Click on title for link to paper
+## 15-03-2019
+
+main_author|publish_date|title
+---|---|---
+Roger Grosse|14-03-2019|[Functional Variational Bayesian Neural Networks](http://arxiv.org/abs/1903.05779v1)
+Abdeslam Boularias|13-03-2019|[Inferring 3D Shapes of Unknown Rigid Objects in Clutter through Inverse   Physics Reasoning](http://arxiv.org/abs/1903.05749v1)
+Wang Guanyang|13-03-2019|[A Multi-armed Bandit MCMC, with applications in sampling from doubly   intractable posterior](http://arxiv.org/abs/1903.05726v1)
+Daniel Wintz|12-03-2019|[Application of Duration-of-Stay Storage Assignment with Deep Neural   Networks under Uncertainty](http://arxiv.org/abs/1903.05063v1)
+Thomas B. Schön|12-03-2019|[Elements of Sequential Monte Carlo](http://arxiv.org/abs/1903.04797v1)
+Samuel Kaski|11-03-2019|[Embarrassingly parallel MCMC using deep invertible transformations](http://arxiv.org/abs/1903.04556v1)
+Umut Simsekli|11-03-2019|[Bayesian Allocation Model: Inference by Sequential Monte Carlo for   Nonnegative Tensor Factorizations and Topic Models using Polya Urns](http://arxiv.org/abs/1903.04478v1)
+Gilles Louppe|10-03-2019|[Likelihood-free MCMC with Approximate Likelihood Ratios](http://arxiv.org/abs/1903.04057v1)
+Reza Babanezhad|10-03-2019|[Manifold Preserving Adversarial Learning](http://arxiv.org/abs/1903.03905v3)
+Srinivas Vasudevan|09-03-2019|[NeuTra-lizing Bad Geometry in Hamiltonian Monte Carlo Using Neural   Transport](http://arxiv.org/abs/1903.03704v1)
+
 ## 08-03-2019
 
 main_author|publish_date|title

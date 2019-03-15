@@ -1,5 +1,22 @@
 # fairness
 Click on title for link to paper
+## 15-03-2019
+
+main_author|publish_date|title
+---|---|---
+Roger Grosse|14-03-2019|[Functional Variational Bayesian Neural Networks](http://arxiv.org/abs/1903.05779v1)
+Michal Kawulok|13-03-2019|[Hyperspectral Data Augmentation](http://arxiv.org/abs/1903.05580v1)
+Philipp Hennig|13-03-2019|[DeepOBS: A Deep Learning Optimizer Benchmark Suite](http://arxiv.org/abs/1903.05499v1)
+Giles Hooker|12-03-2019|[Unbiased Measurement of Feature Importance in Tree-Based Methods](http://arxiv.org/abs/1903.05179v1)
+Anthony Man-Cho So|12-03-2019|[An Efficient Augmented Lagrangian Based Method for Constrained Lasso](http://arxiv.org/abs/1903.05006v1)
+Shanhui Fan|12-03-2019|[Reprogrammable Electro-Optic Nonlinear Activation Functions for Optical   Neural Networks](http://arxiv.org/abs/1903.04579v1)
+Sriram Vishwanath|11-03-2019|[Deep Log-Likelihood Ratio Quantization](http://arxiv.org/abs/1903.04656v1)
+Luca de Alfaro|11-03-2019|[Learning Edge Properties in Graphs from Path Aggregations](http://arxiv.org/abs/1903.04613v1)
+Lucy Vasserman|11-03-2019|[Nuanced Metrics for Measuring Unintended Bias with Real Data for Text   Classification](http://arxiv.org/abs/1903.04561v1)
+Bo Fu|11-03-2019|[Physics Enhanced Artificial Intelligence](http://arxiv.org/abs/1903.04442v1)
+Andreas Joseph|11-03-2019|[Shapley regressions: A framework for statistical inference on machine   learning models](http://arxiv.org/abs/1903.04209v1)
+Brian Ziebart|10-03-2019|[Fair Logistic Regression: An Adversarial Perspective](http://arxiv.org/abs/1903.03910v1)
+
 ## 08-03-2019
 
 main_author|publish_date|title

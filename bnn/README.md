@@ -1,5 +1,32 @@
 # bnn
 Click on title for link to paper
+## 15-03-2019
+
+main_author|publish_date|title
+---|---|---
+Matthew Gombolay|14-03-2019|[Inferring Personalized Bayesian Embeddings for Learning from   Heterogeneous Demonstration](http://arxiv.org/abs/1903.06047v1)
+Brian J. Reich|14-03-2019|[Deep Distribution Regression](http://arxiv.org/abs/1903.06023v1)
+Roger Grosse|14-03-2019|[Functional Variational Bayesian Neural Networks](http://arxiv.org/abs/1903.05779v1)
+Abdeslam Boularias|13-03-2019|[Inferring 3D Shapes of Unknown Rigid Objects in Clutter through Inverse   Physics Reasoning](http://arxiv.org/abs/1903.05749v1)
+Wang Guanyang|13-03-2019|[A Multi-armed Bandit MCMC, with applications in sampling from doubly   intractable posterior](http://arxiv.org/abs/1903.05726v1)
+David Meger|13-03-2019|[Uncertainty Aware Learning from Demonstrations in Multiple Contexts   using Bayesian Neural Networks](http://arxiv.org/abs/1903.05697v1)
+Barbara McGillivray|13-03-2019|[GASC: Genre-Aware Semantic Change for Ancient Greek](http://arxiv.org/abs/1903.05587v1)
+Noah Goodman|13-03-2019|[Variational Estimators for Bayesian Optimal Experimental Design](http://arxiv.org/abs/1903.05480v1)
+Guy Van den Broeck|13-03-2019|[Efficient Search-Based Weighted Model Integration](http://arxiv.org/abs/1903.05334v1)
+Pavlos Protopapas|12-03-2019|[Efficient Optimization of Echo State Networks for Time Series Datasets](http://arxiv.org/abs/1903.05071v1)
+Jun Tani|12-03-2019|[Goal-Directed Behavior under Variational Predictive Coding: Dynamic   Organization of Visual Attention and Working Memory](http://arxiv.org/abs/1903.04932v1)
+Thomas B. Schön|12-03-2019|[Elements of Sequential Monte Carlo](http://arxiv.org/abs/1903.04797v1)
+Wentao Zhu|12-03-2019|[Deep Learning for Automated Medical Image Analysis](http://arxiv.org/abs/1903.04711v1)
+Andrew Gordon Wilson|12-03-2019|[Practical Multi-fidelity Bayesian Optimization for Hyperparameter Tuning](http://arxiv.org/abs/1903.04703v1)
+Samuel Kaski|11-03-2019|[Embarrassingly parallel MCMC using deep invertible transformations](http://arxiv.org/abs/1903.04556v1)
+Umut Simsekli|11-03-2019|[Bayesian Allocation Model: Inference by Sequential Monte Carlo for   Nonnegative Tensor Factorizations and Topic Models using Polya Urns](http://arxiv.org/abs/1903.04478v1)
+Anastasia Yendiki|11-03-2019|[Joint inference on structural and diffusion MRI for sequence-adaptive   Bayesian segmentation of thalamic nuclei with probabilistic atlases](http://arxiv.org/abs/1903.04352v1)
+Marleen de Bruijne|11-03-2019|[A cross-center smoothness prior for variational Bayesian brain tissue   segmentation](http://arxiv.org/abs/1903.04191v1)
+Gilles Louppe|10-03-2019|[Likelihood-free MCMC with Approximate Likelihood Ratios](http://arxiv.org/abs/1903.04057v1)
+Steven L. Waslander|09-03-2019|[BayesOD: A Bayesian Approach for Uncertainty Estimation in Deep Object   Detectors](http://arxiv.org/abs/1903.03838v1)
+Mert R. Sabuncu|08-03-2019|[Unsupervised Learning of Probabilistic Diffeomorphic Registration for   Images and Surfaces](http://arxiv.org/abs/1903.03545v1)
+Mert R. Sabuncu|08-03-2019|[Unsupervised Data Imputation via Variational Inference of Deep Subspaces](http://arxiv.org/abs/1903.03503v1)
+
 ## 08-03-2019
 
 main_author|publish_date|title

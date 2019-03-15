@@ -1,5 +1,14 @@
 # interpretable
 Click on title for link to paper
+## 15-03-2019
+
+main_author|publish_date|title
+---|---|---
+Tadashi Nunobiki|14-03-2019|[Can Robot Attract Passersby without Causing Discomfort by User-Centered   Reinforcement Learning?](http://arxiv.org/abs/1903.05881v1)
+Yann Dauphin|12-03-2019|[On the Pitfalls of Measuring Emergent Communication](http://arxiv.org/abs/1903.05168v1)
+Sven Lon{č}arić|11-03-2019|[The Past and the Present of the Color Checker Dataset Misuse](http://arxiv.org/abs/1903.04473v1)
+Mingming Lu|09-03-2019|[Interpreting and Understanding Graph Convolutional Neural Network using   Gradient-based Attribution Methods](http://arxiv.org/abs/1903.03768v1)
+
 ## 08-03-2019
 
 main_author|publish_date|title
