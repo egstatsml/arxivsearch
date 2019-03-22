@@ -23,7 +23,7 @@ Currently Supported Search Catagories:
 
 [Variational (and other approximation) Methods](https://github.com/ethangoan/arxivsearch/tree/master/variational)
 
-
+[MCMC (and other sampling based methods)](https://github.com/ethangoan/arxivsearch/tree/master/mcmc)
 
 This Repo is automatically updated once a week on Fridays 12:30pm AEST (+10 GMT)
 
@@ -261,5 +261,3 @@ stat.TH	Statistics Theory
 - [X] Change the way I combine searches from previous week (save a dataframe instead of a markdown file)
 
 - [ ] Add automated formatting
-
-

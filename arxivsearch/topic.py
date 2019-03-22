@@ -4,30 +4,30 @@ import six
 #setting up some exceptions
 class InvalidTopic(TypeError):
     def __init__(self, arg):
-        print("""Incorrect type for initialising topic. 
+        print("""Incorrect type for initialising topic.
         Input {} of type {} """.format(arg, type(arg)))
-        print(""" Expecting either "bnn","interpretable", "fairness" or "variational" """) 
-        
+        print(""" Expecting either "bnn","interpretable", "fairness", "mcmc" or "variational" """)
+
 
 
 @six.add_metaclass(abc.ABCMeta)
 class topic(object):
     """Abstract Class for search topics
-    
+
     Class defines methods for formatting search terms.
     Any topic that you want to search for should inherit from this class,
     and define the exact general and specific terms you want to search for.
     """
     def __init__(self, dirname, category=None):
         """Initialises variables and path
-        
+
         Args:
           dirname (str):
             name of the directory where the results will be stored
             Will also be the name of the topic you a sreaching for
           category (default=None):
             The arXiv categories you want to search under,
-            Eg. cs.CV, stat.ML etc. If nothing is specified, will use the 
+            Eg. cs.CV, stat.ML etc. If nothing is specified, will use the
             parameters specified in this init method.
         """
         self.dirname = dirname
@@ -38,7 +38,7 @@ class topic(object):
         self.general_terms = []
         self.specific_terms = []
 
-    
+
     def format_search(self):
         """
         format_search()
@@ -47,7 +47,7 @@ class topic(object):
         of search terms for you.
 
         Keyword Arguments:
-        
+
         Returns:
             (list(string)) of all different search combinations
         """
@@ -68,7 +68,7 @@ class topic(object):
                 search.append(search_string)
         return search
 
-        
+
 class bnn_topic(topic):
     def __init__(self):
         topic.__init__(self, 'bnn')
@@ -139,20 +139,40 @@ class variational_topic(topic):
             'approximat',
             'bayesian',
             'probabilistic',
-            'uncertain'            
+            'uncertain'
         ]
         self.specific_terms = [
             'ELBO',
             'divergence'
             'marginali',
             'uncertain',
-            '%22Monte+Carlo%22',
-            'MCMC',
             'stochastic',
             'reparameterization'
         ]
         
-        
+
+class mcmc_topic(topic):
+    def __init__(self):
+        topic.__init__(self, 'bnn')
+        self.general_terms = [
+            'bayesian',
+            'probabilistic'
+        ]
+        self.specific_terms = [
+            '%22Monte+Carlo%22',
+            'MCMC',
+            '%22Metropolis+Hastings%22',
+            'HMC',
+            '%22Hybrid+Monte+Carlo%22',
+            '%22Hamiltonian+Monte+Carlo%22',
+            'PDMP',
+            '%22Piecewise+Deterministic+Markov+Process%22',
+            '%22Piecewise-Deterministic+Markov+Process%22'
+        ]
+
+        
+
+
 def get_topic(arg):
     if not isinstance(arg, str):
         raise InvalidTopic(arg)
@@ -165,7 +185,7 @@ def get_topic(arg):
         return interpretable_topic()
     elif('variational' in arg):
         return variational_topic()
+    elif('mcmc' in arg):
+        return variational_topic()
     else:
         raise InvalidTopic(arg)
-
-    
