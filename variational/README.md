@@ -1,5 +1,14 @@
 # variational
 Click on title for link to paper
+## 22-03-2019
+
+main_author|publish_date|title
+---|---|---
+Zahra S. Razaee|21-03-2019|[Exact slice sampler for Hierarchical Dirichlet Processes](http://arxiv.org/abs/1903.08829v1)
+Pesquet Jean-Christophe|19-03-2019|[Preconditioned P-ULA for Joint Deconvolution-Segmentation of Ultrasound   Images](http://arxiv.org/abs/1903.08111v1)
+Matthias Grossglauser|18-03-2019|[Linear-Time Inference for Pairwise Comparisons with Gaussian-Process   Dynamics](http://arxiv.org/abs/1903.07746v1)
+Yufei Zhang|15-03-2019|[Rectified deep neural networks overcome the curse of dimensionality for   nonsmooth value functions in zero-sum games of nonlinear stiff systems](http://arxiv.org/abs/1903.06652v1)
+
 ## 15-03-2019
 
 main_author|publish_date|title

@@ -1,5 +1,21 @@
 # fairness
 Click on title for link to paper
+## 22-03-2019
+
+main_author|publish_date|title
+---|---|---
+Pontus Giselsson|21-03-2019|[SVAG: Unified Convergence Results for SAG-SAGA Interpolation with   Stochastic Variance Adjusted Gradient Descent](http://arxiv.org/abs/1903.09009v1)
+Cameron Browne|21-03-2019|[Biasing MCTS with Features for General Games](http://arxiv.org/abs/1903.08942v1)
+Robertas Alzbutas|21-03-2019|[Convolutional neural network for detection and classification of   seizures in clinical data](http://arxiv.org/abs/1903.08864v1)
+Dianne P. O'Leary|21-03-2019|[Interpreting Neural Networks Using Flip Points](http://arxiv.org/abs/1903.08789v1)
+Alexandros G. Dimakis|20-03-2019|[Provable Certificates for Adversarial Examples: Fitting a Ball in the   Union of Polytopes](http://arxiv.org/abs/1903.08778v1)
+Molin Wang|19-03-2019|[Semiparametric Methods for Exposure Misclassification in Propensity   Score-Based Time-to-Event Data Analysis](http://arxiv.org/abs/1903.07782v1)
+Huzefa Rangwala|18-03-2019|[Multi-Differential Fairness Auditor for Black Box Classifiers](http://arxiv.org/abs/1903.07609v1)
+Greg Zaharchuk|18-03-2019|[Deep Learning Enables Automatic Detection and Segmentation of Brain   Metastases on Multi-Sequence MRI](http://arxiv.org/abs/1903.07988v1)
+Barbara Hammer|18-03-2019|[Prototype-based classifiers in the presence of concept drift: A   modelling framework](http://arxiv.org/abs/1903.07273v1)
+Gustavo de Veciana|17-03-2019|[Modeling and Optimization of Human-machine Interaction Processes via the   Maximum Entropy Principle](http://arxiv.org/abs/1903.07157v1)
+Arunselvan Ramaswamy|17-03-2019|[DSPG: Decentralized Simultaneous Perturbations Gradient Descent Scheme](http://arxiv.org/abs/1903.07050v1)
+
 ## 15-03-2019
 
 main_author|publish_date|title

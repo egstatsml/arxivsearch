@@ -1,5 +1,25 @@
 # bnn
 Click on title for link to paper
+## 22-03-2019
+
+main_author|publish_date|title
+---|---|---
+Athanasios Tzempelikos|21-03-2019|[Learning Personalized Thermal Preferences via Bayesian Active Learning   with Unimodality Constraints](http://arxiv.org/abs/1903.09094v1)
+Jean Daunizeau|21-03-2019|[Variational Bayesian modelling of mixed-effects](http://arxiv.org/abs/1903.09003v1)
+Carl K. Wellington|20-03-2019|[LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous   Driving](http://arxiv.org/abs/1903.08701v1)
+Yajie Zhu|20-03-2019|[Performance Measurement for Deep Bayesian Neural Network](http://arxiv.org/abs/1903.08674v1)
+Ufuk Topcu|20-03-2019|[Counterexample-Guided Strategy Improvement for POMDPs Using Recurrent   Neural Networks](http://arxiv.org/abs/1903.08428v2)
+Woo Youn Kim|20-03-2019|[Uncertainty quantification of molecular property prediction with   Bayesian neural networks](http://arxiv.org/abs/1903.08375v1)
+Sergey Levine|19-03-2019|[Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic   Context Variables](http://arxiv.org/abs/1903.08254v1)
+Niko Sünderhauf|19-03-2019|[The Probabilistic Object Detection Challenge](http://arxiv.org/abs/1903.07840v1)
+Matthias Grossglauser|18-03-2019|[Linear-Time Inference for Pairwise Comparisons with Gaussian-Process   Dynamics](http://arxiv.org/abs/1903.07746v1)
+Geir Storvik|18-03-2019|[Combining Model and Parameter Uncertainty in Bayesian Neural Networks](http://arxiv.org/abs/1903.07594v2)
+Veit Hagenmeyer|18-03-2019|[Probabilistic Energy Forecasting using Quantile Regressions based on a   new Nearest Neighbors Quantile Filter](http://arxiv.org/abs/1903.07390v1)
+Javier González|18-03-2019|[Deep Gaussian Processes for Multi-fidelity Modeling](http://arxiv.org/abs/1903.07320v1)
+Orcun Goksel|17-03-2019|[Weighted Mean Curvature](http://arxiv.org/abs/1903.07189v1)
+Eric P. Xing|15-03-2019|[Tuning Hyperparameters without Grad Students: Scalable and Robust   Bayesian Optimisation with Dragonfly](http://arxiv.org/abs/1903.06694v1)
+Andrew J. Davison|15-03-2019|[SceneCode: Monocular Dense Semantic Reconstruction using Learned Encoded   Scene Representations](http://arxiv.org/abs/1903.06482v2)
+
 ## 15-03-2019
 
 main_author|publish_date|title

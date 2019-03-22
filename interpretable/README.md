@@ -1,5 +1,11 @@
 # interpretable
 Click on title for link to paper
+## 22-03-2019
+
+main_author|publish_date|title
+---|---|---
+Huajun Chen|21-03-2019|[Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning](http://arxiv.org/abs/1903.08948v1)
+
 ## 15-03-2019
 
 main_author|publish_date|title
