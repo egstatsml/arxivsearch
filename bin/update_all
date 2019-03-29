@@ -4,7 +4,7 @@ import os
 import datetime
 
 if __name__ == "__main__":
-    for search in ['bnn', 'fairness', 'variational', 'interpretable']:
+    for search in ['bnn', 'fairness', 'variational', 'interpretable', 'mcmc']:
         os.system('./bin/search ' + search)
         os.system('./bin/concatenate ' + search)
         os.system('git add ./{}/README.md'.format(search))
@@ -15,4 +15,3 @@ if __name__ == "__main__":
     os.system('git commit -m \" update {} \" '.format(
         datetime.datetime.now().strftime("%d-%m-%Y")))
     os.system('git push origin master')
-    

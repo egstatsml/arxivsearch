@@ -1,5 +1,16 @@
 # mcmc
 Click on title for link to paper
+## 29-03-2019
+
+main_author|publish_date|title
+---|---|---
+Vadim Indelman|25-03-2019|[General Probabilistic Surface Optimization and Log Density Estimation](http://arxiv.org/abs/1903.10567v1)
+Armando Solar Lezama|25-03-2019|[The Random Conditional Distribution for Higher-Order Probabilistic   Inference](http://arxiv.org/abs/1903.10556v1)
+Jun Sun|25-03-2019|[Learning from Adversarial Features for Few-Shot Classification](http://arxiv.org/abs/1903.10225v1)
+Haralampos Pozidis|22-03-2019|[Sampling Acquisition Functions for Batch Bayesian Optimization](http://arxiv.org/abs/1903.09434v1)
+Prabir Kumar Biswas|22-03-2019|[Fast Bayesian Uncertainty Estimation of Batch Normalized Single Image   Super-Resolution Network](http://arxiv.org/abs/1903.09410v1)
+Daniel Wilke|22-03-2019|[Gradient-only line searches: An Alternative to Probabilistic Line   Searches](http://arxiv.org/abs/1903.09383v1)
+
 ## 22-03-2019
 
 main_author|publish_date|title
