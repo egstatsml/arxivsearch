@@ -1,5 +1,12 @@
 # interpretable
 Click on title for link to paper
+## 29-03-2019
+
+main_author|publish_date|title
+---|---|---
+Przemyslaw Biecek|27-03-2019|[iBreakDown: Uncertainty of Model Explanations for Non-additive   Predictive Models](http://arxiv.org/abs/1903.11420v1)
+Anders Løland|25-03-2019|[Explaining individual predictions when features are dependent: More   accurate approximations to Shapley values](http://arxiv.org/abs/1903.10464v1)
+
 ## 22-03-2019
 
 main_author|publish_date|title

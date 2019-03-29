@@ -1,5 +1,22 @@
 # bnn
 Click on title for link to paper
+## 29-03-2019
+
+main_author|publish_date|title
+---|---|---
+Yee Whye Teh|28-03-2019|[Meta-Learning surrogate models for sequential decision making](http://arxiv.org/abs/1903.11907v1)
+Kishore Reddy|27-03-2019|[Recurrent Neural Networks For Accurate RSSI Indoor Localization](http://arxiv.org/abs/1903.11703v1)
+Tiago P. Peixoto|26-03-2019|[Network reconstruction and community detection from dynamics](http://arxiv.org/abs/1903.10833v1)
+Zhiwei Wang|26-03-2019|[Probabilistic Load Forecasting via Point Forecast Feature Integration](http://arxiv.org/abs/1903.10684v1)
+Vadim Indelman|25-03-2019|[General Probabilistic Surface Optimization and Log Density Estimation](http://arxiv.org/abs/1903.10567v1)
+Armando Solar Lezama|25-03-2019|[The Random Conditional Distribution for Higher-Order Probabilistic   Inference](http://arxiv.org/abs/1903.10556v1)
+Matt Thomson|25-03-2019|[Active Learning of Spin Network Models](http://arxiv.org/abs/1903.10474v1)
+Ronan Fablet|25-03-2019|[EM-like Learning Chaotic Dynamics from Noisy and Partial Observations](http://arxiv.org/abs/1903.10335v1)
+William Schueller|25-03-2019|[Computational and Robotic Models of Early Language Development: A Review](http://arxiv.org/abs/1903.10246v1)
+Prabir Kumar Biswas|22-03-2019|[Fast Bayesian Uncertainty Estimation of Batch Normalized Single Image   Super-Resolution Network](http://arxiv.org/abs/1903.09410v1)
+Daniel Wilke|22-03-2019|[Gradient-only line searches: An Alternative to Probabilistic Line   Searches](http://arxiv.org/abs/1903.09383v1)
+Scott Anthony Sisson|22-03-2019|[Binary Space Partitioning Forests](http://arxiv.org/abs/1903.09348v1)
+
 ## 22-03-2019
 
 main_author|publish_date|title

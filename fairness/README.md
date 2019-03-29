@@ -1,5 +1,25 @@
 # fairness
 Click on title for link to paper
+## 29-03-2019
+
+main_author|publish_date|title
+---|---|---
+Vasant Honavar|27-03-2019|[Fairness in Algorithmic Decision Making: An Excursion Through the Lens   of Causality](http://arxiv.org/abs/1903.11719v1)
+Yusuke Miyao|27-03-2019|[Does My Rebuttal Matter? Insights from a Major NLP Conference](http://arxiv.org/abs/1903.11367v2)
+Ali H. Sayed|26-03-2019|[On the Performance of Exact Diffusion over Adaptive Networks](http://arxiv.org/abs/1903.10956v1)
+Phebe Vayanos|25-03-2019|[Learning Optimal and Fair Decision Trees for Non-Discriminative   Decision-Making](http://arxiv.org/abs/1903.10598v1)
+Vadim Indelman|25-03-2019|[General Probabilistic Surface Optimization and Log Density Estimation](http://arxiv.org/abs/1903.10567v1)
+Rachel Rudinger|25-03-2019|[On Measuring Social Biases in Sentence Encoders](http://arxiv.org/abs/1903.10561v1)
+Armando Solar Lezama|25-03-2019|[The Random Conditional Distribution for Higher-Order Probabilistic   Inference](http://arxiv.org/abs/1903.10556v1)
+Anders Løland|25-03-2019|[Explaining individual predictions when features are dependent: More   accurate approximations to Shapley values](http://arxiv.org/abs/1903.10464v1)
+Massimiliano Pontil|25-03-2019|[Learning-to-Learn Stochastic Gradient Descent with Biased Regularization](http://arxiv.org/abs/1903.10399v1)
+Jaewoo Kang|25-03-2019|[Predicting Multiple Demographic Attributes with Task Specific Embedding   Transformation and Attention Network](http://arxiv.org/abs/1903.10144v1)
+Sancho Salcedo-Sanz|24-03-2019|[A mixture of experts model for predicting persistent weather patterns](http://arxiv.org/abs/1903.10012v1)
+Gautam Das|24-03-2019|[Approximate Query Processing using Deep Generative Models](http://arxiv.org/abs/1903.10000v1)
+Juan Carlos De Martin|22-03-2019|[The invisible power of fairness. How machine learning shapes democracy](http://arxiv.org/abs/1903.09493v1)
+Qiao-Chu He|22-03-2019|[Implicit Regularization via Hadamard Product Over-Parametrization in   High-Dimensional Linear Regression](http://arxiv.org/abs/1903.09367v1)
+Yue Sheng|22-03-2019|[One-shot distributed ridge regression in high dimensions](http://arxiv.org/abs/1903.09321v1)
+
 ## 22-03-2019
 
 main_author|publish_date|title
