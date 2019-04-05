@@ -1,5 +1,27 @@
 # fairness
 Click on title for link to paper
+## 05-04-2019
+
+main_author|publish_date|title
+---|---|---
+Ayman Elgharabawy|04-04-2019|[Preference Neural Network](http://arxiv.org/abs/1904.02345v1)
+George Hripcsak|03-04-2019|[The Medical Deconfounder: Assessing Treatment Effect with Electronic   Health Records (EHRs)](http://arxiv.org/abs/1904.02098v1)
+Gal Yona|03-04-2019|[Preference-Informed Fairness](http://arxiv.org/abs/1904.01793v1)
+Shrikanth Narayanan|02-04-2019|[Generating Labels for Regression of Subjective Constructs using Triplet   Embeddings](http://arxiv.org/abs/1904.01643v1)
+Adam M. Lauretig|02-04-2019|[Identification, Interpretability, and Bayesian Word Embeddings](http://arxiv.org/abs/1904.01628v1)
+Michael I Mandel|02-04-2019|[Speech denoising by parametric resynthesis](http://arxiv.org/abs/1904.01537v1)
+Nalini Ratha|02-04-2019|[Deep Learning for Face Recognition: Pride or Prejudiced?](http://arxiv.org/abs/1904.01219v1)
+Yong Yu|02-04-2019|[Towards Efficient and Unbiased Implementation of Lipschitz Continuity in   GANs](http://arxiv.org/abs/1904.01184v1)
+Yitong Yin|01-04-2019|[Fully-Asynchronous Distributed Metropolis Sampler with Optimal Speedup](http://arxiv.org/abs/1904.00943v1)
+Seong-Whan Lee|01-04-2019|[Relative Attributing Propagation: Interpreting the Comparative   Contributions of Individual Units in Deep Neural Networks](http://arxiv.org/abs/1904.00605v1)
+Mingyang Ling|01-04-2019|[Scene Graph Generation with External Knowledge and Image Reconstruction](http://arxiv.org/abs/1904.00560v1)
+Preslav Nakov|01-04-2019|[Multi-Task Ordinal Regression for Jointly Predicting the Trustworthiness   and the Leading Political Ideology of News Media](http://arxiv.org/abs/1904.00542v1)
+Marcel A. J. van Gerven|31-03-2019|[Perturbative estimation of stochastic gradients](http://arxiv.org/abs/1904.00469v1)
+Jian Sun|31-03-2019|[Single Path One-Shot Neural Architecture Search with Uniform Sampling](http://arxiv.org/abs/1904.00420v2)
+Ehsan Nazerfard|29-03-2019|[Cross-Subject Transfer Learning in Human Activity Recognition Systems   using Generative Adversarial Networks](http://arxiv.org/abs/1903.12489v1)
+Hyojin Sung|29-03-2019|[Using Structured Input and Modularity for Improved Learning](http://arxiv.org/abs/1903.12366v1)
+Jaroslaw Duda|28-03-2019|[Toroidal AutoEncoder](http://arxiv.org/abs/1903.12286v1)
+
 ## 29-03-2019
 
 main_author|publish_date|title

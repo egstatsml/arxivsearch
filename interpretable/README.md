@@ -1,5 +1,11 @@
 # interpretable
 Click on title for link to paper
+## 05-04-2019
+
+main_author|publish_date|title
+---|---|---
+Anette Frank|01-04-2019|[Ranking and Selecting Multi-Hop Knowledge Paths to Better Predict Human   Needs](http://arxiv.org/abs/1904.00676v1)
+
 ## 29-03-2019
 
 main_author|publish_date|title

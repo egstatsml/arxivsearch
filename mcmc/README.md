@@ -1,5 +1,14 @@
 # mcmc
 Click on title for link to paper
+## 05-04-2019
+
+main_author|publish_date|title
+---|---|---
+Roland Wiest|04-04-2019|[Few-shot brain segmentation from weakly labeled data with deep   heteroscedastic multi-task networks](http://arxiv.org/abs/1904.02436v1)
+Juncal Arbelaiz|02-04-2019|[Personalized Cancer Chemotherapy Schedule: a numerical comparison of   performance and robustness in model-based and model-free scheduling   methodologies](http://arxiv.org/abs/1904.01200v1)
+Michael U. Gutmann|01-04-2019|[Robust Optimisation Monte Carlo](http://arxiv.org/abs/1904.00670v1)
+Marcel A. J. van Gerven|31-03-2019|[Perturbative estimation of stochastic gradients](http://arxiv.org/abs/1904.00469v1)
+
 ## 29-03-2019
 
 main_author|publish_date|title

@@ -1,5 +1,21 @@
 # bnn
 Click on title for link to paper
+## 05-04-2019
+
+main_author|publish_date|title
+---|---|---
+Thomas Lukasiewicz|04-04-2019|[Learning to Reason: Leveraging Neural Networks for Approximate DNF   Counting](http://arxiv.org/abs/1904.02688v1)
+Christian Daniel|04-04-2019|[Meta-Learning Acquisition Functions for Bayesian Optimization](http://arxiv.org/abs/1904.02642v1)
+Ankur P. Parikh|04-04-2019|[Consistency by Agreement in Zero-shot Neural Machine Translation](http://arxiv.org/abs/1904.02338v1)
+Theodoros Damoulas|03-04-2019|[Generalized Variational Inference](http://arxiv.org/abs/1904.02063v2)
+Hao Li|03-04-2019|[Soft Rasterizer: A Differentiable Renderer for Image-based 3D Reasoning](http://arxiv.org/abs/1904.01786v1)
+Fabien Teytaud|02-04-2019|[BCMA-ES: A Bayesian approach to CMA-ES](http://arxiv.org/abs/1904.01401v1)
+Jürgen Pilz|02-04-2019|[Correlated Parameters to Accurately Measure Uncertainty in Deep Neural   Networks](http://arxiv.org/abs/1904.01334v1)
+Yu-Ping Wang|01-04-2019|[Multimodal Sparse Classifier for Adolescent Brain Age Prediction](http://arxiv.org/abs/1904.01070v1)
+Eytan Bakshy|01-04-2019|[Bayesian Optimization for Policy Search via Online-Offline   Experimentation](http://arxiv.org/abs/1904.01049v1)
+Michael U. Gutmann|01-04-2019|[Robust Optimisation Monte Carlo](http://arxiv.org/abs/1904.00670v1)
+Frederic Precioso|01-04-2019|[Adaptive Bayesian Linear Regression for Automated Machine Learning](http://arxiv.org/abs/1904.00577v1)
+
 ## 29-03-2019
 
 main_author|publish_date|title
