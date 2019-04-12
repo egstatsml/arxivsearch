@@ -1,5 +1,11 @@
 # interpretable
 Click on title for link to paper
+## 12-04-2019
+
+main_author|publish_date|title
+---|---|---
+Shohreh Kasaei|07-04-2019|[Information Bottleneck and its Applications in Deep Learning](http://arxiv.org/abs/1904.03743v1)
+
 ## 05-04-2019
 
 main_author|publish_date|title

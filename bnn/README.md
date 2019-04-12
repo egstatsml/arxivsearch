@@ -1,5 +1,21 @@
 # bnn
 Click on title for link to paper
+## 12-04-2019
+
+main_author|publish_date|title
+---|---|---
+Tinkle Chugh|11-04-2019|[Scalarizing Functions in Bayesian Multiobjective Optimization](http://arxiv.org/abs/1904.05760v1)
+Timo Kötzing|11-04-2019|[Multiplicative Up-Drift](http://arxiv.org/abs/1904.05682v1)
+Mirko Pieropan|10-04-2019|[Compressed sensing reconstruction using Expectation Propagation](http://arxiv.org/abs/1904.05777v1)
+Nicola Marzari|08-04-2019|[Bayesian Neural Networks at Finite Temperature](http://arxiv.org/abs/1904.04154v1)
+Mohammad Emtiyaz Khan|08-04-2019|[A Generalization Bound for Online Variational Inference](http://arxiv.org/abs/1904.03920v1)
+Jan Černocký|08-04-2019|[Bayesian Subspace Hidden Markov Model for Acoustic Unit Discovery](http://arxiv.org/abs/1904.03876v1)
+Cristopher Moore|08-04-2019|[The Kikuchi Hierarchy and Tensor PCA](http://arxiv.org/abs/1904.03858v1)
+Taha H. Rashidi|07-04-2019|[Bayesian Estimation of Mixed Multinomial Logit Models: Advances and   Simulation-Based Evaluations](http://arxiv.org/abs/1904.03647v1)
+Greg Mori|05-04-2019|[A Variational Auto-Encoder Model for Stochastic Point Processes](http://arxiv.org/abs/1904.03273v1)
+Stephen J. Roberts|05-04-2019|[Bayesian Heatmaps: Probabilistic Classification with Multiple Unreliable   Information Sources](http://arxiv.org/abs/1904.03063v1)
+Georgios B. Giannakis|05-04-2019|[Minimum Uncertainty Based Detection of Adversaries in Deep Neural   Networks](http://arxiv.org/abs/1904.02841v1)
+
 ## 05-04-2019
 
 main_author|publish_date|title

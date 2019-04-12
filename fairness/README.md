@@ -1,5 +1,38 @@
 # fairness
 Click on title for link to paper
+## 12-04-2019
+
+main_author|publish_date|title
+---|---|---
+Wushao Wen|11-04-2019|[Difficulty-aware Image Super Resolution via Deep Adaptive Dual-Network](http://arxiv.org/abs/1904.05802v1)
+Duen Horng Chau|10-04-2019|[FairVis: Visual Analytics for Discovering Intersectional Bias in Machine   Learning](http://arxiv.org/abs/1904.05419v1)
+Paul M. Thompson|10-04-2019|[Scanner Invariant Representations for Diffusion MRI Harmonization](http://arxiv.org/abs/1904.05375v1)
+Jean-Michel Loubes|10-04-2019|[Attraction-Repulsion clustering with applications to fairness](http://arxiv.org/abs/1904.05254v1)
+Adam Tauman Kalai|10-04-2019|[What's in a Name? Reducing Bias in Bios without Access to Protected   Attributes](http://arxiv.org/abs/1904.05233v1)
+Dacheng Tao|10-04-2019|[Active Multi-Kernel Domain Adaptation for Hyperspectral Image   Classification](http://arxiv.org/abs/1904.05200v1)
+Giorgio Valentini|10-04-2019|[Multitask Hopfield Networks](http://arxiv.org/abs/1904.05098v1)
+Jianping Fan|10-04-2019|[Imitating Targets from all sides: An Unsupervised Transfer Learning   method for Person Re-identification](http://arxiv.org/abs/1904.05020v1)
+Tetsuya Takiguchi|10-04-2019|[On zero-shot recognition of generic objects](http://arxiv.org/abs/1904.04957v1)
+Lei Xie|09-04-2019|[A New GAN-based End-to-End TTS Training Algorithm](http://arxiv.org/abs/1904.04775v1)
+Daniel Russo|09-04-2019|[A Note on the Equivalence of Upper Confidence Bounds and Gittins Indices   for Patient Agents](http://arxiv.org/abs/1904.04732v1)
+Carola Doerr|09-04-2019|[Hyper-Parameter Tuning for the (1+(λ,λ)) GA](http://arxiv.org/abs/1904.04608v1)
+Klaus D. McDonald-Maier|09-04-2019|[Assessing Capsule Networks With Biased Data](http://arxiv.org/abs/1904.04555v1)
+Pabitra Mitra|09-04-2019|[PUNCH: Positive UNlabelled Classification based information retrieval in   Hyperspectral images](http://arxiv.org/abs/1904.04547v1)
+James M Robins|08-04-2019|[On assumption-free tests and confidence intervals for causal effects   estimated by machine learning](http://arxiv.org/abs/1904.04276v1)
+Jia-Bin Huang|08-04-2019|[A Closer Look at Few-shot Classification](http://arxiv.org/abs/1904.04232v1)
+Nicola Marzari|08-04-2019|[Bayesian Neural Networks at Finite Temperature](http://arxiv.org/abs/1904.04154v1)
+Mohit Bansal|08-04-2019|[AutoSeM: Automatic Task Selection and Mixing in Multi-Task Learning](http://arxiv.org/abs/1904.04153v1)
+Feiping Nie|08-04-2019|[Feature Learning Viewpoint of AdaBoost and a New Algorithm](http://arxiv.org/abs/1904.03953v1)
+Larry S. Davis|08-04-2019|[Referring to Objects in Videos using Spatio-Temporal Identifying   Descriptions](http://arxiv.org/abs/1904.03885v1)
+Stephen Lu|07-04-2019|[Cluster Developing 1-Bit Matrix Completion](http://arxiv.org/abs/1904.03779v1)
+James M. Robins|07-04-2019|[A unifying approach for doubly-robust $\ell_1$ regularized estimation of   causal contrasts](http://arxiv.org/abs/1904.03737v1)
+Osmar Zaiane|06-04-2019|[Evaluating Coherence in Dialogue Systems using Entailment](http://arxiv.org/abs/1904.03371v1)
+Byron C. Wallace|05-04-2019|[An Analysis of Attention over Clinical Notes for Predictive Tasks](http://arxiv.org/abs/1904.03244v1)
+Alexander Shvets|05-04-2019|[Improving Scientific Article Visibility by Neural Title Simplification](http://arxiv.org/abs/1904.03172v1)
+Dacheng Tao|05-04-2019|[Adapting Stochastic Block Models to Power-Law Degree Distributions](http://arxiv.org/abs/1904.05335v1)
+Stephen J. Roberts|05-04-2019|[Bayesian Heatmaps: Probabilistic Classification with Multiple Unreliable   Information Sources](http://arxiv.org/abs/1904.03063v1)
+Samuel R. Bowman|05-04-2019|[Identifying and Reducing Gender Bias in Word-Level Language Models](http://arxiv.org/abs/1904.03035v1)
+
 ## 05-04-2019
 
 main_author|publish_date|title

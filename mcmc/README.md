@@ -1,5 +1,15 @@
 # mcmc
 Click on title for link to paper
+## 12-04-2019
+
+main_author|publish_date|title
+---|---|---
+Umut Şimşekli|11-04-2019|[Probabilistic Permutation Synchronization using the Riemannian Structure   of the Birkhoff Polytope](http://arxiv.org/abs/1904.05814v1)
+Nicholas A. Heard|06-04-2019|[Bayesian estimation of the latent dimension and communities in   stochastic blockmodels](http://arxiv.org/abs/1904.05333v1)
+Greg Mori|05-04-2019|[A Variational Auto-Encoder Model for Stochastic Point Processes](http://arxiv.org/abs/1904.03273v1)
+David J. Marchette|05-04-2019|[Simultaneous Dimensionality and Complexity Model Selection for Spectral   Graph Clustering](http://arxiv.org/abs/1904.02926v1)
+Sonia Martinez|05-04-2019|[Planning under risk and uncertainty based on Prospect-theoretic models](http://arxiv.org/abs/1904.02851v1)
+
 ## 05-04-2019
 
 main_author|publish_date|title
