@@ -1,5 +1,15 @@
 # variational
 Click on title for link to paper
+## 19-04-2019
+
+main_author|publish_date|title
+---|---|---
+Yisong Yue|17-04-2019|[Batched Stochastic Bayesian Optimization via Combinatorial Constraints   Design](http://arxiv.org/abs/1904.08102v1)
+Daniel Sheldon|16-04-2019|[A Bayesian Perspective on the Deep Image Prior](http://arxiv.org/abs/1904.07457v1)
+Aleksandrs Slivkins|15-04-2019|[Introduction to Multi-Armed Bandits](http://arxiv.org/abs/1904.07272v1)
+Allen R. Tannenbaum|14-04-2019|[Probabilistic Kernel Support Vector Machines](http://arxiv.org/abs/1904.06762v1)
+Dacheng Tao|14-04-2019|[Exploring Representativeness and Informativeness for Active Learning](http://arxiv.org/abs/1904.06685v1)
+
 ## 12-04-2019
 
 main_author|publish_date|title

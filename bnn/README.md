@@ -1,5 +1,24 @@
 # bnn
 Click on title for link to paper
+## 19-04-2019
+
+main_author|publish_date|title
+---|---|---
+Demba Ba|18-04-2019|[Deep Residual Auto-Encoders for Expectation Maximization-based   Dictionary Learning](http://arxiv.org/abs/1904.08827v1)
+Paul Damien|18-04-2019|[A New Class of Time Dependent Latent Factor Models with Applications](http://arxiv.org/abs/1904.08548v1)
+Piyush Rai|18-04-2019|[Generative Model for Zero-Shot Sketch-Based Image Retrieval](http://arxiv.org/abs/1904.08542v1)
+Wilker Aziz|17-04-2019|[Effective Estimation of Deep Generative Language Models](http://arxiv.org/abs/1904.08194v1)
+Bart Dhoedt|17-04-2019|[Bayesian policy selection using active inference](http://arxiv.org/abs/1904.08149v1)
+Steven T. Piantadosi|17-04-2019|[People infer recursive visual concepts from just a few examples](http://arxiv.org/abs/1904.08034v1)
+Daniel Sheldon|16-04-2019|[A Bayesian Perspective on the Deep Image Prior](http://arxiv.org/abs/1904.07457v1)
+Peter Pastor|15-04-2019|[Learning Probabilistic Multi-Modal Actor Models for Vision-Based Robotic   Grasping](http://arxiv.org/abs/1904.07319v1)
+Alain Durmus|15-04-2019|[Copula-like Variational Inference](http://arxiv.org/abs/1904.07153v1)
+Anett Schülke|15-04-2019|[On the Performance of Differential Evolution for Hyperparameter Tuning](http://arxiv.org/abs/1904.06960v1)
+Allen R. Tannenbaum|14-04-2019|[Probabilistic Kernel Support Vector Machines](http://arxiv.org/abs/1904.06762v1)
+Vinay P. Namboodiri|14-04-2019|[Unsupervised Synthesis of Anomalies in Videos: Transforming the Normal](http://arxiv.org/abs/1904.06633v1)
+Roderick Murray-Smith|12-04-2019|[Variational Inference for Computational Imaging Inverse Problems](http://arxiv.org/abs/1904.06264v1)
+Martin Fouilleul|12-04-2019|[Assisted Sound Sample Generation with Musical Conditioning in   Adversarial Auto-Encoders](http://arxiv.org/abs/1904.06215v1)
+
 ## 12-04-2019
 
 main_author|publish_date|title

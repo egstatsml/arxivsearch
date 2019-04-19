@@ -1,5 +1,26 @@
 # fairness
 Click on title for link to paper
+## 19-04-2019
+
+main_author|publish_date|title
+---|---|---
+Sandra Avila|18-04-2019|[(De)Constructing Bias on Skin Lesion Datasets](http://arxiv.org/abs/1904.08818v1)
+Noe Casas|18-04-2019|[Evaluating the Underlying Gender Bias in Contextualized Word Embeddings](http://arxiv.org/abs/1904.08783v1)
+Jason H. Moore|18-04-2019|[Semantic variation operators for multidimensional genetic programming](http://arxiv.org/abs/1904.08577v1)
+Jaewoo Kang|17-04-2019|[Self-Attention Graph Pooling](http://arxiv.org/abs/1904.08082v2)
+Anna Goldenberg|16-04-2019|[Reducing Adversarial Example Transferability Using Gradient   Regularization](http://arxiv.org/abs/1904.07980v1)
+Nuno Vasconcelos|16-04-2019|[REPAIR: Removing Representation Bias by Dataset Resampling](http://arxiv.org/abs/1904.07911v1)
+Moncef Gabbouj|16-04-2019|[Multimodal Subspace Support Vector Data Description](http://arxiv.org/abs/1904.07698v1)
+Prateek Munjal|16-04-2019|[Semantically Aligned Bias Reducing Zero Shot Learning](http://arxiv.org/abs/1904.07659v1)
+Heikki Huttunen|16-04-2019|[HARK Side of Deep Learning -- From Grad Student Descent to Automated   Machine Learning](http://arxiv.org/abs/1904.07633v1)
+Kevin Bowyer|15-04-2019|[Characterizing the Variability in Face Recognition Accuracy Relative to   Race](http://arxiv.org/abs/1904.07325v1)
+Adarsh Subbaswamy|15-04-2019|[Tutorial: Safe and Reliable Machine Learning](http://arxiv.org/abs/1904.07204v1)
+Pierre-Yves Oudeyer|15-04-2019|[A Hitchhiker's Guide to Statistical Comparisons of Reinforcement   Learning Algorithms](http://arxiv.org/abs/1904.06979v1)
+Wen Gao|15-04-2019|[Self-critical n-step Training for Image Captioning](http://arxiv.org/abs/1904.06861v1)
+Taylor Berg-Kirkpatrick|15-04-2019|[An Empirical Investigation of Global and Local Normalization for   Recurrent Neural Sequence Models Using a Continuous Relaxation to Beam Search](http://arxiv.org/abs/1904.06834v1)
+M. Tanveer|13-04-2019|[OCKELM+: Kernel Extreme Learning Machine based One-class Classification   using Privileged Information (or KOC+: Kernel Ridge Regression or Least   Square SVM with zero bias based One-class Classification using Privileged   Information)](http://arxiv.org/abs/1904.08338v1)
+Xiang Ren|13-04-2019|[Improving Distantly-supervised Entity Typing with Compact Latent Space   Clustering](http://arxiv.org/abs/1904.06475v1)
+
 ## 12-04-2019
 
 main_author|publish_date|title

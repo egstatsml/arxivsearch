@@ -1,5 +1,11 @@
 # interpretable
 Click on title for link to paper
+## 19-04-2019
+
+main_author|publish_date|title
+---|---|---
+Steven T. Piantadosi|17-04-2019|[People infer recursive visual concepts from just a few examples](http://arxiv.org/abs/1904.08034v1)
+
 ## 12-04-2019
 
 main_author|publish_date|title
