@@ -1,5 +1,20 @@
 # bnn
 Click on title for link to paper
+## 26-04-2019
+
+main_author|publish_date|title
+---|---|---
+Alma A. M. Rahat|25-04-2019|[A Bayesian Approach for the Robust Optimisation of Expensive-To-Evaluate   Functions](http://arxiv.org/abs/1904.11416v1)
+Yixin Chen|24-04-2019|[D-VAE: A Variational Autoencoder for Directed Acyclic Graphs](http://arxiv.org/abs/1904.11088v1)
+Bernard Ghanem|24-04-2019|[Analytical Moment Regularizer for Gaussian Robust Networks](http://arxiv.org/abs/1904.11005v1)
+Nicholas G. Polson|24-04-2019|[Horseshoe Regularization for Machine Learning in Complex and Deep Models](http://arxiv.org/abs/1904.10939v1)
+Stephen Bonner|24-04-2019|[Latent Variable Session-Based Recommendation](http://arxiv.org/abs/1904.10784v1)
+Dwarikanath Mahapatra|24-04-2019|[Informative sample generation using class aware generative adversarial   networks for classification of chest Xrays](http://arxiv.org/abs/1904.10781v1)
+Aki Vehtari|24-04-2019|[Bayesian leave-one-out cross-validation for large data](http://arxiv.org/abs/1904.10679v1)
+Neil Lawrence|24-04-2019|[Facilitating Bayesian Continual Learning by Natural Gradients and Stein   Gradients](http://arxiv.org/abs/1904.10644v1)
+Lijiang Guo|23-04-2019|[Latent Variable Algorithms for Multimodal Learning and Sensor Fusion](http://arxiv.org/abs/1904.10450v1)
+Cédric Bény|23-04-2019|[Relevant feature extraction for statistical inference](http://arxiv.org/abs/1904.10387v1)
+
 ## 19-04-2019
 
 main_author|publish_date|title

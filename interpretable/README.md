@@ -1,5 +1,12 @@
 # interpretable
 Click on title for link to paper
+## 26-04-2019
+
+main_author|publish_date|title
+---|---|---
+Jeff Clune|18-04-2019|[Understanding Neural Networks via Feature Visualization: A survey](http://arxiv.org/abs/1904.08939v1)
+David Paydarfar|18-04-2019|[Explaining Deep Classification of Time-Series Data with Learned   Prototypes](http://arxiv.org/abs/1904.08935v1)
+
 ## 19-04-2019
 
 main_author|publish_date|title

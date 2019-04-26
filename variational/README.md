@@ -1,5 +1,13 @@
 # variational
 Click on title for link to paper
+## 26-04-2019
+
+main_author|publish_date|title
+---|---|---
+Alma A. M. Rahat|25-04-2019|[A Bayesian Approach for the Robust Optimisation of Expensive-To-Evaluate   Functions](http://arxiv.org/abs/1904.11416v1)
+Rongzhi Wang|24-04-2019|[Super-resolution based generative adversarial network using visual   perceptual loss function](http://arxiv.org/abs/1904.10654v1)
+Eran Treister|23-04-2019|[Multi-modal 3D Shape Reconstruction Under Calibration Uncertainty using   Parametric Level Set Methods](http://arxiv.org/abs/1904.10379v1)
+
 ## 19-04-2019
 
 main_author|publish_date|title

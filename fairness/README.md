@@ -1,5 +1,20 @@
 # fairness
 Click on title for link to paper
+## 26-04-2019
+
+main_author|publish_date|title
+---|---|---
+Ian Porada|25-04-2019|[Faster and More Accurate Learning with Meta Trace Adaptation](http://arxiv.org/abs/1904.11439v1)
+Weihong Deng|25-04-2019|[A Deeper Look at Facial Expression Dataset Bias](http://arxiv.org/abs/1904.11150v1)
+Jinwen Ma|23-04-2019|[Non-convex Penalty for Tensor Completion and Robust PCA](http://arxiv.org/abs/1904.10165v1)
+Steven Euijong Whang|22-04-2019|[Data Cleaning for Accurate, Fair, and Robust Models: A Big Data - AI   Integration Approach](http://arxiv.org/abs/1904.10761v1)
+Robert B. Fisher|22-04-2019|[UDFNet: Unsupervised Disparity Fusion with Adversarial Networks](http://arxiv.org/abs/1904.10044v1)
+Omer Reingold|22-04-2019|[Tracking and Improving Information in the Service of Fairness](http://arxiv.org/abs/1904.09942v1)
+Laurenz Wiskott|22-04-2019|[Learning gradient-based ICA by neurally estimating mutual information](http://arxiv.org/abs/1904.09858v1)
+Ying Nian Wu|22-04-2019|[On Learning Non-Convergent Short-Run MCMC Toward Energy-Based Model](http://arxiv.org/abs/1904.09770v1)
+Xiang Ren|19-04-2019|[Looking Beyond Label Noise: Shifted Label Distribution Matters in   Distantly Supervised Relation Extraction](http://arxiv.org/abs/1904.09331v1)
+Tareq Al-Naffouri|19-04-2019|[Risk Convergence of Centered Kernel Ridge Regression with Large   Dimensional Data](http://arxiv.org/abs/1904.09212v1)
+
 ## 19-04-2019
 
 main_author|publish_date|title
