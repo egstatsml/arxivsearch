@@ -1,5 +1,13 @@
 # mcmc
 Click on title for link to paper
+## 03-05-2019
+
+main_author|publish_date|title
+---|---|---
+Yves Le Traon|30-04-2019|[Test Selection for Deep Learning Systems](http://arxiv.org/abs/1904.13195v1)
+Fangfang Xia|29-04-2019|[Neuromorphic Acceleration for Approximate Bayesian Inference on Neural   Networks via Permanent Dropout](http://arxiv.org/abs/1904.12904v1)
+Christopher McCord|26-04-2019|[From Predictions to Prescriptions in Multistage Optimization Problems](http://arxiv.org/abs/1904.11637v1)
+
 ## 26-04-2019
 
 main_author|publish_date|title

@@ -1,5 +1,11 @@
 # interpretable
 Click on title for link to paper
+## 03-05-2019
+
+main_author|publish_date|title
+---|---|---
+Eduardo Nebot|29-04-2019|[Automatic extrinsic calibration between a camera and a 3D Lidar using 3D   point and plane correspondences](http://arxiv.org/abs/1904.12433v1)
+
 ## 26-04-2019
 
 main_author|publish_date|title

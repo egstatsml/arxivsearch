@@ -1,5 +1,31 @@
 # fairness
 Click on title for link to paper
+## 03-05-2019
+
+main_author|publish_date|title
+---|---|---
+Shivaram Venkataraman|02-05-2019|[Parity Models: A General Framework for Coding-Based Resilience in ML   Inference](http://arxiv.org/abs/1905.00863v1)
+Zheng Qin|02-05-2019|[Spectrum-enhanced Pairwise Learning to Rank](http://arxiv.org/abs/1905.00805v1)
+Francois Fleuret|02-05-2019|[Full-Jacobian Representation of Neural Networks](http://arxiv.org/abs/1905.00780v1)
+Aditya Saligrama|02-05-2019|[KnowBias: A Novel AI Method to Detect Polarity in Online Content](http://arxiv.org/abs/1905.00724v1)
+Mingyan Liu|02-05-2019|[Long term impact of fair machine learning in sequential decision making:   representation disparity and group retention](http://arxiv.org/abs/1905.00569v1)
+Yiling Chen|01-05-2019|[Fair Classification and Social Welfare](http://arxiv.org/abs/1905.00147v1)
+Chunping Wang|30-04-2019|[Learning Fair Representations via an Adversarial Framework](http://arxiv.org/abs/1904.13341v1)
+Mykola Pechenizkiy|30-04-2019|[Adversarial Balancing-based Representation Learning for Causal Effect   Inference with Observational Data](http://arxiv.org/abs/1904.13335v1)
+Hatim Aboalsamh|30-04-2019|[An Efficient Intelligent System for the Classification of   Electroencephalography (EEG) Brain Signals using Nuclear Features for Human   Cognitive Tasks](http://arxiv.org/abs/1904.13228v1)
+Francesco Curia|30-04-2019|[Restricted Boltzmann Machine Assignment Algorithm: Application to solve   many-to-one matching problems on weighted bipartite graph](http://arxiv.org/abs/1904.13111v2)
+Xianping Fu|30-04-2019|[Cross Domain Knowledge Learning with Dual-branch Adversarial Network for   Vehicle Re-identification](http://arxiv.org/abs/1905.00006v1)
+Yujia Zhang|29-04-2019|[Why should you trust my interpretation? Understanding uncertainty in   LIME predictions](http://arxiv.org/abs/1904.12991v1)
+Vincent Lepetit|29-04-2019|[Casting Geometric Constraints in Semantic Segmentation as   Semi-Supervised Learning](http://arxiv.org/abs/1904.12534v2)
+Asher Wilk|29-04-2019|[Teaching AI, Ethics, Law and Policy](http://arxiv.org/abs/1904.12470v1)
+David Zimmermann|29-04-2019|[Asymmetric Impurity Functions, Class Weighting, and Optimal Splits for   Binary Classification Trees](http://arxiv.org/abs/1904.12465v1)
+Yifan Gong|29-04-2019|[Adversarial Speaker Verification](http://arxiv.org/abs/1904.12406v1)
+Yifan Gong|28-04-2019|[Attentive Adversarial Learning for Domain-Invariant Training](http://arxiv.org/abs/1904.12400v1)
+Morteza Haghir Chehreghani|27-04-2019|[Nonparametric feature extraction based on Minimax distance](http://arxiv.org/abs/1904.13223v1)
+Junichi Yamagishi|27-04-2019|[Neural source-filter waveform models for statistical parametric speech   synthesis](http://arxiv.org/abs/1904.12088v1)
+Saeedreza Shehnepoor|26-04-2019|[I-vector Based Features Embedding for Heart Sound Classification](http://arxiv.org/abs/1904.11914v1)
+Luigi Nardi|26-04-2019|[DeepFreak: Learning Crystallography Diffraction Patterns with Automated   Machine Learning](http://arxiv.org/abs/1904.11834v1)
+
 ## 26-04-2019
 
 main_author|publish_date|title

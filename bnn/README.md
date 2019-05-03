@@ -1,5 +1,18 @@
 # bnn
 Click on title for link to paper
+## 03-05-2019
+
+main_author|publish_date|title
+---|---|---
+Mingyuan Zhou|02-05-2019|[Deep Generative Models for Sparse, High-dimensional, and Overdispersed   Discrete Data](http://arxiv.org/abs/1905.00616v1)
+Masayoshi Tomizuka|02-05-2019|[Coordination and Trajectory Prediction for Vehicle Interactions via   Bayesian Generative Modeling](http://arxiv.org/abs/1905.00587v1)
+César L. C. Mattos|01-05-2019|[LS-SVR as a Bayesian RBF network](http://arxiv.org/abs/1905.00332v1)
+Trung Mai|01-05-2019|[Nested Variational Autoencoder for Topic Modeling on Microtexts with   Word Vectors](http://arxiv.org/abs/1905.00195v1)
+Fangfang Xia|29-04-2019|[Neuromorphic Acceleration for Approximate Bayesian Inference on Neural   Networks via Permanent Dropout](http://arxiv.org/abs/1904.12904v1)
+Aaron Courville|27-04-2019|[Improved Conditional VRNNs for Video Prediction](http://arxiv.org/abs/1904.12165v1)
+Lilla Zöllei|27-04-2019|[Fast Infant MRI Skullstripping with Multiview 2D Convolutional Neural   Networks](http://arxiv.org/abs/1904.12101v1)
+Il-Chul Moon|26-04-2019|[Neural Ideal Point Estimation Network](http://arxiv.org/abs/1904.11727v1)
+
 ## 26-04-2019
 
 main_author|publish_date|title
