@@ -1,5 +1,21 @@
 # fairness
 Click on title for link to paper
+## 10-05-2019
+
+main_author|publish_date|title
+---|---|---
+Kamesh Munagala|09-05-2019|[Proportionally Fair Clustering](http://arxiv.org/abs/1905.03674v1)
+Subhasis Chaudhuri|08-05-2019|[PerceptNet: Learning Perceptual Similarity of Haptic Textures in   Presence of Unorderable Triplets](http://arxiv.org/abs/1905.03302v1)
+Per Rutquist|08-05-2019|[Unsupervised Learning through Temporal Smoothing and Entropy   Maximization](http://arxiv.org/abs/1905.03100v1)
+Xiangliang Zhang|08-05-2019|[Robust Federated Training via Collaborative Machine Teaching using   Trusted Instances](http://arxiv.org/abs/1905.02941v1)
+Premkumar Natarajan|07-05-2019|[Unified Adversarial Invariance](http://arxiv.org/abs/1905.03629v1)
+Hiroshi Yadohisa|07-05-2019|[F-measure Maximizing Logistic Regression](http://arxiv.org/abs/1905.02535v1)
+Serhiy Yanchuk|07-05-2019|[Performance boost of time-delay reservoir computing by non-resonant   clock cycle](http://arxiv.org/abs/1905.02534v1)
+Youngchul Sung|07-05-2019|[Dimension-Wise Importance Sampling Weight Clipping for Sample-Efficient   Reinforcement Learning](http://arxiv.org/abs/1905.02363v1)
+Sameh Sorour|05-05-2019|[Adaptive Task Allocation for Asynchronous Federated Mobile Edge Learning](http://arxiv.org/abs/1905.01656v1)
+Ming Jack Po|03-05-2019|[Temporal Graph Convolutional Networks for Automatic Seizure Detection](http://arxiv.org/abs/1905.01375v1)
+Vijjini Anvesh Rao|03-05-2019|[Effectiveness of Self Normalizing Neural Networks for Text   Classification](http://arxiv.org/abs/1905.01338v1)
+
 ## 03-05-2019
 
 main_author|publish_date|title

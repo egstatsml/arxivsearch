@@ -1,5 +1,11 @@
 # interpretable
 Click on title for link to paper
+## 10-05-2019
+
+main_author|publish_date|title
+---|---|---
+W. Bruce Croft|05-05-2019|[Investigating the Successes and Failures of BERT for Passage Re-Ranking](http://arxiv.org/abs/1905.01758v1)
+
 ## 03-05-2019
 
 main_author|publish_date|title

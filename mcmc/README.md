@@ -1,5 +1,17 @@
 # mcmc
 Click on title for link to paper
+## 10-05-2019
+
+main_author|publish_date|title
+---|---|---
+In So Kweon|09-05-2019|[Learning Loss for Active Learning](http://arxiv.org/abs/1905.03677v1)
+Hyo-Eun Kim|08-05-2019|[Photometric Transformer Networks and Label Adjustment for Breast Density   Prediction](http://arxiv.org/abs/1905.02906v1)
+Kikuo Fujimura|07-05-2019|[Uncertainty-Aware Data Aggregation for Deep Imitation Learning](http://arxiv.org/abs/1905.02780v1)
+Dong Huang|06-05-2019|[Frame-wise Motion and Appearance for Real-time Multiple Object Tracking](http://arxiv.org/abs/1905.02292v1)
+Philippe Casgrain|05-05-2019|[A Bayesian Variational Framework for Stochastic Optimization](http://arxiv.org/abs/1905.01707v3)
+Masayoshi Tomizuka|05-05-2019|[Conditional Generative Neural System for Probabilistic Trajectory   Prediction](http://arxiv.org/abs/1905.01631v1)
+Sergey Levine|03-05-2019|[PRECOG: PREdiction Conditioned On Goals in Visual Multi-Agent Settings](http://arxiv.org/abs/1905.01296v2)
+
 ## 03-05-2019
 
 main_author|publish_date|title

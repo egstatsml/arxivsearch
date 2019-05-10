@@ -1,5 +1,24 @@
 # bnn
 Click on title for link to paper
+## 10-05-2019
+
+main_author|publish_date|title
+---|---|---
+Chris. J. Oates|09-05-2019|[Stein Point Markov Chain Monte Carlo](http://arxiv.org/abs/1905.03673v1)
+Tong Zhang|09-05-2019|[MAP Inference via L2-Sphere Linear Program Reformulation](http://arxiv.org/abs/1905.03433v1)
+Dmitry Vetrov|08-05-2019|[Importance Weighted Hierarchical Variational Inference](http://arxiv.org/abs/1905.03290v1)
+Victor Prisacariu|08-05-2019|[Thinking Outside the Box: Generation of Unconstrained 3D Room Layouts](http://arxiv.org/abs/1905.03105v1)
+Shane Legg|08-05-2019|[Meta-learning of Sequential Strategies](http://arxiv.org/abs/1905.03030v1)
+Cheng Zhang|07-05-2019|[Interpretable Outcome Prediction with Sparse Bayesian Neural Networks in   Intensive Care](http://arxiv.org/abs/1905.02599v1)
+Bo Yang|06-05-2019|[Learning Optimal Data Augmentation Policies via Bayesian Optimization   for Image Classification Tasks](http://arxiv.org/abs/1905.02610v1)
+Richard E. Turner|06-05-2019|[Improving and Understanding Variational Continual Learning](http://arxiv.org/abs/1905.02099v1)
+Anton Kummert|06-05-2019|[Fast and Reliable Architecture Selection for Convolutional Neural   Networks](http://arxiv.org/abs/1905.01924v1)
+Philippe Casgrain|05-05-2019|[A Bayesian Variational Framework for Stochastic Optimization](http://arxiv.org/abs/1905.01707v3)
+Masayoshi Tomizuka|05-05-2019|[Conditional Generative Neural System for Probabilistic Trajectory   Prediction](http://arxiv.org/abs/1905.01631v1)
+Sergey Levine|03-05-2019|[PRECOG: PREdiction Conditioned On Goals in Visual Multi-Agent Settings](http://arxiv.org/abs/1905.01296v2)
+Pekka Marttinen|03-05-2019|[Parallel Gaussian process surrogate method to accelerate likelihood-free   inference](http://arxiv.org/abs/1905.01252v1)
+Samanyou Garg|03-05-2019|[Group Emotion Recognition Using Machine Learning](http://arxiv.org/abs/1905.01118v1)
+
 ## 03-05-2019
 
 main_author|publish_date|title
