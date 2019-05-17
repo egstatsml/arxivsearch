@@ -1,5 +1,28 @@
 # bnn
 Click on title for link to paper
+## 17-05-2019
+
+main_author|publish_date|title
+---|---|---
+Enrique Munoz de Cote|16-05-2019|[Adaptive Sensor Placement for Continuous Spaces](http://arxiv.org/abs/1905.06821v1)
+Weisi Guo|15-05-2019|[Forecasting Wireless Demand with Extreme Values using Feature Embedding   in Gaussian Processes](http://arxiv.org/abs/1905.06744v1)
+Finale Doshi-Velez|15-05-2019|[Output-Constrained Bayesian Neural Networks](http://arxiv.org/abs/1905.06287v1)
+Andy Neely|15-05-2019|[Expressive Priors in Bayesian Neural Networks: Kernel Combinations and   Periodic Functions](http://arxiv.org/abs/1905.06076v1)
+Mark A. Anastasio|15-05-2019|[Approximating the Ideal Observer and Hotelling Observer for binary   signal detection tasks by use of supervised learning methods](http://arxiv.org/abs/1905.06330v1)
+Mark A. Anastasio|14-05-2019|[Reconstruction-Aware Imaging System Ranking by use of a Sparsity-Driven   Numerical Observer Enabled by Variational Bayesian Inference](http://arxiv.org/abs/1905.05820v1)
+Ben Glocker|14-05-2019|[Graph Convolutional Gaussian Processes](http://arxiv.org/abs/1905.05739v1)
+Bo Yang|14-05-2019|[Deep Neural Architecture Search with Deep Graph Bayesian Optimization](http://arxiv.org/abs/1905.06159v1)
+Mingyuan Zhou|14-05-2019|[Convolutional Poisson Gamma Belief Network](http://arxiv.org/abs/1905.05394v1)
+Carlo Lucibello|13-05-2019|[Generalized Approximate Survey Propagation for High-Dimensional   Estimation](http://arxiv.org/abs/1905.05313v1)
+Howard Bondell|13-05-2019|[Variational approximations using Fisher divergence](http://arxiv.org/abs/1905.05284v1)
+Neil Hurley|13-05-2019|[Bayesian Hierarchical Mixture Clustering using Multilevel Hierarchical   Dirichlet Processes](http://arxiv.org/abs/1905.05022v1)
+Sophia Ananiadou|13-05-2019|[Modelling Instance-Level Annotator Reliability for Natural Language   Labelling Tasks](http://arxiv.org/abs/1905.04981v1)
+Wei Pan|13-05-2019|[BayesNAS: A Bayesian Approach for Neural Architecture Search](http://arxiv.org/abs/1905.04919v1)
+Nils Bertschinger|12-05-2019|[Rotation Invariant Householder Parameterization for Bayesian PCA](http://arxiv.org/abs/1905.04720v1)
+Creighton Heaukulani|11-05-2019|[Variational inference for neural network matrix factorization and its   application to stochastic blockmodeling](http://arxiv.org/abs/1905.04502v1)
+Felix Ziegler|10-05-2019|[Spectral Reconstruction with Deep Neural Networks](http://arxiv.org/abs/1905.04305v1)
+Zhanxing Zhu|10-05-2019|[Bayesian Optimized Continual Learning with Attention Mechanism](http://arxiv.org/abs/1905.03980v1)
+
 ## 10-05-2019
 
 main_author|publish_date|title

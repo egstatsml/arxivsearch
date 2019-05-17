@@ -1,5 +1,16 @@
 # mcmc
 Click on title for link to paper
+## 17-05-2019
+
+main_author|publish_date|title
+---|---|---
+Enrique Munoz de Cote|16-05-2019|[Adaptive Sensor Placement for Continuous Spaces](http://arxiv.org/abs/1905.06821v1)
+Mark A. Anastasio|14-05-2019|[Reconstruction-Aware Imaging System Ranking by use of a Sparsity-Driven   Numerical Observer Enabled by Variational Bayesian Inference](http://arxiv.org/abs/1905.05820v1)
+Zhu Han|13-05-2019|[A Deep Spatio-Temporal Fuzzy Neural Network for Passenger Demand   Prediction](http://arxiv.org/abs/1905.05614v1)
+Creighton Heaukulani|11-05-2019|[Variational inference for neural network matrix factorization and its   application to stochastic blockmodeling](http://arxiv.org/abs/1905.04502v1)
+Maximilian Weininger|10-05-2019|[PAC Statistical Model Checking for Markov Decision Processes and   Stochastic Games](http://arxiv.org/abs/1905.04403v1)
+Michalis K. Titsias|10-05-2019|[A Contrastive Divergence for Combining Variational Inference and MCMC](http://arxiv.org/abs/1905.04062v1)
+
 ## 10-05-2019
 
 main_author|publish_date|title

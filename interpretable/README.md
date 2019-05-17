@@ -1,5 +1,14 @@
 # interpretable
 Click on title for link to paper
+## 17-05-2019
+
+main_author|publish_date|title
+---|---|---
+Jie Tang|14-05-2019|[Cognitive Graph for Multi-Hop Reading Comprehension at Scale](http://arxiv.org/abs/1905.05460v1)
+Anna Goldenberg|13-05-2019|[What Clinicians Want: Contextualizing Explainable Machine Learning for   Clinical End Use](http://arxiv.org/abs/1905.05134v1)
+Leonidas A. A. Doumas|12-05-2019|[The relational processing limits of classic and contemporary neural   network models of language processing](http://arxiv.org/abs/1905.05708v1)
+Xiang Ren|10-05-2019|[Modeling Combinatorial Evolution in Time Series Prediction](http://arxiv.org/abs/1905.05006v1)
+
 ## 10-05-2019
 
 main_author|publish_date|title

@@ -1,5 +1,30 @@
 # fairness
 Click on title for link to paper
+## 17-05-2019
+
+main_author|publish_date|title
+---|---|---
+George Tucker|16-05-2019|[On Variational Bounds of Mutual Information](http://arxiv.org/abs/1905.06922v1)
+Luis Hernandez-Garcia|15-05-2019|[Optimizing MRF-ASL Scan Design for Precise Quantification of Brain   Hemodynamics using Neural Network Regression](http://arxiv.org/abs/1905.06474v1)
+Kory W. Mathewson|15-05-2019|[A Human-Centered Approach to Interactive Machine Learning](http://arxiv.org/abs/1905.06289v1)
+Tiejun Zhao|15-05-2019|[Selection Bias Explorations and Debias Methods for Natural Language   Sentence Matching Datasets](http://arxiv.org/abs/1905.06221v2)
+Olga Fink|15-05-2019|[Domain Adaptive Transfer Learning for Fault Diagnosis](http://arxiv.org/abs/1905.06004v1)
+Anat Elhalal|15-05-2019|[From What to How. An Overview of AI Ethics Tools, Methods and Research   to Translate Principles into Practices](http://arxiv.org/abs/1905.06876v1)
+David Jurgens|15-05-2019|[Demographic Inference and Representative Population Estimates from   Multilingual Social Media Data](http://arxiv.org/abs/1905.05961v1)
+Dacheng Tao|15-05-2019|[Orthogonal Deep Neural Networks](http://arxiv.org/abs/1905.05929v1)
+Bhiksha Raj|14-05-2019|[Nonlinear Semi-Parametric Models for Survival Analysis](http://arxiv.org/abs/1905.05865v1)
+Robert Caiming Qiu|14-05-2019|[LEMO: Learn to Equalize for MIMO-OFDM Systems with Low-Resolution ADCs](http://arxiv.org/abs/1905.06329v1)
+Tim Menzies|14-05-2019|[Software Engineering for Fairness: A Case Study with Hyperparameter   Optimization](http://arxiv.org/abs/1905.05786v1)
+Jiwei Li|14-05-2019|[Is Word Segmentation Necessary for Deep Learning of Chinese   Representations?](http://arxiv.org/abs/1905.05526v1)
+Armin Biess|14-05-2019|[Bias-Reduced Hindsight Experience Replay with Virtual Goal   Prioritization](http://arxiv.org/abs/1905.05498v1)
+Joel W. Burdick|14-05-2019|[Control Regularization for Reduced Variance Reinforcement Learning](http://arxiv.org/abs/1905.05380v1)
+David Gregg|13-05-2019|[Winograd Convolution for DNNs: Beyond linear polinomials](http://arxiv.org/abs/1905.05233v1)
+Nils Bertschinger|12-05-2019|[Rotation Invariant Householder Parameterization for Bayesian PCA](http://arxiv.org/abs/1905.04720v1)
+Zhongyuan Wang|11-05-2019|[Knowledge Graph Convolutional Networks for Recommender Systems with   Label Smoothness Regularization](http://arxiv.org/abs/1905.04413v1)
+Rob Tibshirani|10-05-2019|[Prediction and outlier detection: a distribution-free prediction set   with a balanced objective](http://arxiv.org/abs/1905.04396v2)
+Nadia Fawaz|10-05-2019|[Recommending Dream Jobs in a Biased Real World](http://arxiv.org/abs/1905.06134v1)
+Randy Jia|10-05-2019|[Learning in structured MDPs with convex cost functions: Improved regret   bounds for inventory management](http://arxiv.org/abs/1905.04337v1)
+
 ## 10-05-2019
 
 main_author|publish_date|title
