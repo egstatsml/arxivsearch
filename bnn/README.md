@@ -1,5 +1,31 @@
 # bnn
 Click on title for link to paper
+## 24-05-2019
+
+main_author|publish_date|title
+---|---|---
+Wonjong Rhee|23-05-2019|[DEEP-BO for Hyperparameter Optimization of Deep Networks](http://arxiv.org/abs/1905.09680v1)
+Sébastien Toth|23-05-2019|[Estimating Risk and Uncertainty in Deep Reinforcement Learning](http://arxiv.org/abs/1905.09638v1)
+Hod Lipson|23-05-2019|[Ensemble Model Patching: A Parameter-Efficient Variational Bayesian   Neural Network](http://arxiv.org/abs/1905.09453v1)
+Alexander Jung|22-05-2019|[Learning Networked Exponential Families with Network Lasso](http://arxiv.org/abs/1905.09056v1)
+Ricardo Henao|21-05-2019|[Survival Function Matching for Calibrated Time-to-Event Predictions](http://arxiv.org/abs/1905.08838v1)
+Vlad Schogol|21-05-2019|[Approximating probabilistic models as weighted finite automata](http://arxiv.org/abs/1905.08701v1)
+Mads Graesboll Christensen|21-05-2019|[Bayesian Pitch Tracking Based on the Harmonic Model](http://arxiv.org/abs/1905.08557v1)
+Kristian Kersting|21-05-2019|[Conditional Sum-Product Networks: Imposing Structure on Deep   Probabilistic Architectures](http://arxiv.org/abs/1905.08550v1)
+Louisa Jorm|21-05-2019|[A Deep Representation of Longitudinal EMR Data Used for Predicting   Readmission to the ICU and Describing Patients-at-Risk](http://arxiv.org/abs/1905.08547v1)
+Masakatsu Nishigaki|21-05-2019|[PDH : Probabilistic deep hashing based on MAP estimation of Hamming   distance](http://arxiv.org/abs/1905.08501v1)
+Daniel Livescu|20-05-2019|[Leveraging Bayesian Analysis To Improve Accuracy of Approximate Models](http://arxiv.org/abs/1905.08227v1)
+Joonas Nättilä|20-05-2019|[Exploring helical dynamos with machine learning](http://arxiv.org/abs/1905.08193v1)
+Lukasz Szpruch|19-05-2019|[Mean-Field Langevin Dynamics and Energy Landscape of Neural Networks](http://arxiv.org/abs/1905.07769v1)
+Mingyuan Zhou|18-05-2019|[Variational Hetero-Encoder Randomized Generative Adversarial Networks   for Joint Image-Text Modeling](http://arxiv.org/abs/1905.08622v1)
+Tamara Broderick|17-05-2019|[LR-GLM: High-Dimensional Bayesian Inference Using Low-Rank Data   Approximations](http://arxiv.org/abs/1905.07499v1)
+Jakob H. Macke|17-05-2019|[Automatic Posterior Transformation for Likelihood-Free Inference](http://arxiv.org/abs/1905.07488v1)
+Thomas Brox|17-05-2019|[AutoDispNet: Improving Disparity Estimation with AutoML](http://arxiv.org/abs/1905.07443v1)
+Darryl Wright|17-05-2019|[Galaxy Zoo: Probabilistic Morphology through Bayesian CNNs and Active   Learning](http://arxiv.org/abs/1905.07424v1)
+Pierre-Marc Jodoin|17-05-2019|[Spectral Metric for Dataset Complexity Assessment](http://arxiv.org/abs/1905.07299v1)
+Andreas Geiger|17-05-2019|[Texture Fields: Learning Texture Representations in Function Space](http://arxiv.org/abs/1905.07259v1)
+Jun Wang|17-05-2019|[A Regularized Opponent Model with Maximum Entropy Objective](http://arxiv.org/abs/1905.08087v1)
+
 ## 17-05-2019
 
 main_author|publish_date|title

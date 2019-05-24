@@ -1,5 +1,16 @@
 # variational
 Click on title for link to paper
+## 24-05-2019
+
+main_author|publish_date|title
+---|---|---
+Sébastien Toth|23-05-2019|[Estimating Risk and Uncertainty in Deep Reinforcement Learning](http://arxiv.org/abs/1905.09638v1)
+Yoshimasa Tsuruoka|22-05-2019|[Learning Robust Options by Conditional Value at Risk Optimization](http://arxiv.org/abs/1905.09191v1)
+Lukasz Szpruch|19-05-2019|[Mean-Field Langevin Dynamics and Energy Landscape of Neural Networks](http://arxiv.org/abs/1905.07769v1)
+Mohammadreza Dabirian|19-05-2019|[Reinforcement Learning for Learning of Dynamical Systems in Uncertain   Environment: a Tutorial](http://arxiv.org/abs/1905.07727v1)
+Jakob H. Macke|17-05-2019|[Automatic Posterior Transformation for Likelihood-Free Inference](http://arxiv.org/abs/1905.07488v1)
+Darryl Wright|17-05-2019|[Galaxy Zoo: Probabilistic Morphology through Bayesian CNNs and Active   Learning](http://arxiv.org/abs/1905.07424v1)
+
 ## 17-05-2019
 
 main_author|publish_date|title

@@ -1,5 +1,35 @@
 # fairness
 Click on title for link to paper
+## 24-05-2019
+
+main_author|publish_date|title
+---|---|---
+Zhanxing Zhu|23-05-2019|[Interpreting Adversarially Trained Convolutional Neural Networks](http://arxiv.org/abs/1905.09797v1)
+Vlado Menkovski|23-05-2019|[Hierarchical Annotation of Images with Two-Alternative-Forced-Choice   Metric Learning](http://arxiv.org/abs/1905.09523v1)
+Rongjun Qin|22-05-2019|[Multi-View Large-Scale Bundle Adjustment Method for High-Resolution   Satellite Images](http://arxiv.org/abs/1905.09152v1)
+Zhi-Hua Zhou|22-05-2019|[Learning to Confuse: Generating Training Time Adversarial Data with   Auto-Encoder](http://arxiv.org/abs/1905.09027v1)
+Davide Bacciu|21-05-2019|[Measuring the effects of confounders in medical supervised   classification problems: the Confounding Index (CI)](http://arxiv.org/abs/1905.08871v1)
+Antonio Rodriguez-Sanchez|21-05-2019|[Limitations of routing-by-agreement based capsule networks](http://arxiv.org/abs/1905.08744v1)
+David Burshtein|21-05-2019|[Unsupervised Linear and Nonlinear Channel Equalization and Decoding   using Variational Autoencoders](http://arxiv.org/abs/1905.08795v1)
+Alfred O. Hero|21-05-2019|[Geometric Estimation of Multivariate Dependency](http://arxiv.org/abs/1905.08594v1)
+Mohammad Javad Masroor|21-05-2019|[Exploring the effects of Lx-norm penalty terms in multivariate curve   resolution methods for resolving LC/GC-MS data](http://arxiv.org/abs/1905.08575v1)
+Jinlong Li|21-05-2019|[Exploring Bias in GAN-based Data Augmentation for Small Samples](http://arxiv.org/abs/1905.08495v1)
+Hannes Stuke|21-05-2019|[Robustness Against Outliers For Deep Neural Networks By Gradient   Conjugate Priors](http://arxiv.org/abs/1905.08464v1)
+Zenglin Xu|21-05-2019|[Clustering with Similarity Preserving](http://arxiv.org/abs/1905.08419v1)
+M. Ehsan Hoque|21-05-2019|[A Causality-Guided Prediction of the TED Talk Ratings from the   Speech-Transcripts using Neural Networks](http://arxiv.org/abs/1905.08392v1)
+Franz Pernkopf|20-05-2019|[Optimisation of Overparametrized Sum-Product Networks](http://arxiv.org/abs/1905.08196v1)
+Luc Van Gool|20-05-2019|[Semi-Supervised Learning by Augmented Distribution Alignment](http://arxiv.org/abs/1905.08171v1)
+Thibaud Vial|20-05-2019|[Transmitter Classification With Supervised Deep Learning](http://arxiv.org/abs/1905.07923v1)
+Dacheng Tao|20-05-2019|[Not All Parts Are Created Equal: 3D Pose Estimation by Modelling   Bi-directional Dependencies of Body Parts](http://arxiv.org/abs/1905.07862v1)
+Joydeep Ghosh|20-05-2019|[CERTIFAI: Counterfactual Explanations for Robustness, Transparency,   Interpretability, and Fairness of Artificial Intelligence models](http://arxiv.org/abs/1905.07857v1)
+Baishakhi Ray|20-05-2019|[Testing Deep Neural Network based Image Classifiers](http://arxiv.org/abs/1905.07831v1)
+Mérouane Debbah|19-05-2019|[Indoor Signal Focusing with Deep Learning Designed Reconfigurable   Intelligent Surfaces](http://arxiv.org/abs/1905.07726v1)
+Hao Li|18-05-2019|[Learning Perspective Undistortion of Portraits](http://arxiv.org/abs/1905.07515v1)
+Emily B. Fox|17-05-2019|[Adaptively Truncating Backpropagation Through Time to Control Gradient   Bias](http://arxiv.org/abs/1905.07473v1)
+Babak Taati|17-05-2019|[Limitations and Biases in Facial Landmark Detection -- An Empirical   Study on Older Adults with Dementia](http://arxiv.org/abs/1905.07446v1)
+Alison Noble|17-05-2019|[Contrastive Fairness in Machine Learning](http://arxiv.org/abs/1905.07360v1)
+Ulrike von Luxburg|17-05-2019|[Comparison-Based Framework for Psychophysics: Lab versus Crowdsourcing](http://arxiv.org/abs/1905.07234v1)
+
 ## 17-05-2019
 
 main_author|publish_date|title
