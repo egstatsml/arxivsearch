@@ -1,5 +1,59 @@
 # fairness
 Click on title for link to paper
+## 31-05-2019
+
+main_author|publish_date|title
+---|---|---
+Stefanie Jegelka|30-05-2019|[What Can Neural Networks Reason About?](http://arxiv.org/abs/1905.13211v1)
+Sneha Desai|30-05-2019|[Exploiting Uncertainty of Loss Landscape for Stochastic Optimization](http://arxiv.org/abs/1905.13200v1)
+Olaf Ronneberger|30-05-2019|[A Hierarchical Probabilistic U-Net for Modeling Multi-Scale Ambiguities](http://arxiv.org/abs/1905.13077v1)
+Lorenzo Rosasco|30-05-2019|[Implicit Regularization of Accelerated Methods in Hilbert Spaces](http://arxiv.org/abs/1905.13000v1)
+Sung Ju Hwang|30-05-2019|[Learning to Balance: Bayesian Meta-Learning for Imbalanced and   Out-of-distribution Tasks](http://arxiv.org/abs/1905.12917v1)
+William Yang Wang|30-05-2019|[Semantically Conditioned Dialog Response Generation via Hierarchical   Disentangled Self-Attention](http://arxiv.org/abs/1905.12866v1)
+Zhiwei Steven Wu|30-05-2019|[Fair Regression: Quantitative Definitions and Reduction-based Algorithms](http://arxiv.org/abs/1905.12843v1)
+Gang Song|30-05-2019|[Adversarial Sub-sequence for Text Generation](http://arxiv.org/abs/1905.12835v1)
+José Hernández-Orallo|29-05-2019|[Fairness and Missing Values](http://arxiv.org/abs/1905.12728v1)
+Una-May O'Reilly|29-05-2019|[Spatial Evolutionary Generative Adversarial Networks](http://arxiv.org/abs/1905.12702v1)
+Anthony Constantinou|29-05-2019|[Evaluating structure learning algorithms with a balanced scoring   function](http://arxiv.org/abs/1905.12666v1)
+Yejin Choi|29-05-2019|[Defending Against Neural Fake News](http://arxiv.org/abs/1905.12616v1)
+Krikamol Muandet|29-05-2019|[Private Causal Inference using Propensity Scores](http://arxiv.org/abs/1905.12592v1)
+Ingmar Weber|29-05-2019|[Racial Bias in Hate Speech and Abusive Language Detection Datasets](http://arxiv.org/abs/1905.12516v1)
+Alexander Wong|29-05-2019|[Food for thought: Ethical considerations of user trust in computer   vision](http://arxiv.org/abs/1905.12487v1)
+Julien Mairal|29-05-2019|[On the Inductive Bias of Neural Tangent Kernels](http://arxiv.org/abs/1905.12173v1)
+Vitaly Shmatikov|28-05-2019|[Differential Privacy Has Disparate Impact on Model Accuracy](http://arxiv.org/abs/1905.12101v1)
+Peng Xu|28-05-2019|[Better Long-Range Dependency By Bootstrapping A Mutual Information   Regularizer](http://arxiv.org/abs/1905.11978v1)
+Stephan ten Brink|28-05-2019|[Towards Practical Indoor Positioning Based on Massive MIMO Systems](http://arxiv.org/abs/1905.11858v1)
+Vitaly Shmatikov|28-05-2019|[Overlearning Reveals Sensitive Attributes](http://arxiv.org/abs/1905.11742v1)
+Nam Soo Kim|28-05-2019|[On Measuring Gender Bias in Translation of Gender-neutral Pronouns](http://arxiv.org/abs/1905.11684v1)
+Paul Hand|28-05-2019|[Invertible generative models for inverse problems: mitigating   representation error and dataset bias](http://arxiv.org/abs/1905.11672v1)
+Depei Qian|28-05-2019|[CompactNet: Platform-Aware Automatic Optimization for Convolutional   Neural Networks](http://arxiv.org/abs/1905.11669v1)
+Mark Crowley|28-05-2019|[The Theory Behind Overfitting, Cross Validation, Regularization,   Bagging, and Boosting: Tutorial](http://arxiv.org/abs/1905.12787v1)
+Dorien Herremans|28-05-2019|[Towards robust audio spoofing detection: a detailed comparison of   traditional and learned features](http://arxiv.org/abs/1905.12439v1)
+Michael W. Mahoney|28-05-2019|[Distributed estimation of the inverse Hessian by determinantal averaging](http://arxiv.org/abs/1905.11546v1)
+Nuno Vasconcelos|27-05-2019|[Semantic Fisher Scores for Task Transfer: Using Objects to Classify   Scenes](http://arxiv.org/abs/1905.11539v1)
+Sheikh Khaled Ghafoor|27-05-2019|"[Infusing domain knowledge in AI-based ""black box"" models for better   explainability with application in bankruptcy prediction](http://arxiv.org/abs/1905.11474v2)"
+Siamak Ravanbakhsh|27-05-2019|[Incidence Networks for Geometric Deep Learning](http://arxiv.org/abs/1905.11460v1)
+Yishay Mansour|27-05-2019|[Efficient candidate screening under multiple tests and implications for   fairness](http://arxiv.org/abs/1905.11361v1)
+Jonathan M. Cohen|27-05-2019|[Stochastic Gradient Methods with Layer-wise Adaptive Moments for   Training of Deep Networks](http://arxiv.org/abs/1905.11286v1)
+Alessandro Rinaldo|27-05-2019|[The bias of the sample mean in multi-armed bandits can be positive or   negative](http://arxiv.org/abs/1905.11397v1)
+Y. Narahari|27-05-2019|[Stochastic Multi-armed Bandits with Arm-specific Fairness Guarantees](http://arxiv.org/abs/1905.11260v1)
+Bernhard Sick|27-05-2019|[Automated Ground Truth Estimation of Vulnerable Road Users in Automotive   Radar Data Using GNSS](http://arxiv.org/abs/1905.11219v1)
+Junjie Yan|27-05-2019|[LAW: Learning to Auto Weight](http://arxiv.org/abs/1905.11058v1)
+Gerhard Weikum|27-05-2019|[Commonsense Properties from Query Logs and Question Anwering Forums](http://arxiv.org/abs/1905.10989v1)
+David M. Blei|26-05-2019|[Equal Opportunity and Affirmative Action via Counterfactual Predictions](http://arxiv.org/abs/1905.10870v2)
+Daphna Weinshall|26-05-2019|[All Neural Networks are Created Equal](http://arxiv.org/abs/1905.10854v1)
+Bruno Olshausen|26-05-2019|[Auditory Separation of a Conversation from Background via Attentional   Gating](http://arxiv.org/abs/1905.10751v1)
+Qing He|26-05-2019|[Towards reliable and fair probabilistic predictions: field-aware   calibration with neural networks](http://arxiv.org/abs/1905.10713v2)
+William Hamilton|25-05-2019|[Compositional Fairness Constraints for Graph Embeddings](http://arxiv.org/abs/1905.10674v1)
+Zhiwei Steven Wu|25-05-2019|[Eliciting and Enforcing Subjective Individual Fairness](http://arxiv.org/abs/1905.10660v1)
+James Glass|25-05-2019|[Quantifying Exposure Bias for Neural Language Generation](http://arxiv.org/abs/1905.10617v1)
+Saeed Sharifi-Malvajerdi|25-05-2019|[Average Individual Fairness: Algorithms, Generalization and Experiments](http://arxiv.org/abs/1905.10607v1)
+Moshe Tennenholtz|25-05-2019|[Protecting the Protected Group: Circumventing Harmful Fairness](http://arxiv.org/abs/1905.10546v1)
+Virginia Smith|25-05-2019|[Fair Resource Allocation in Federated Learning](http://arxiv.org/abs/1905.10497v1)
+Moritz Hardt|24-05-2019|[The advantages of multiple classes for reducing overfitting from test   set reuse](http://arxiv.org/abs/1905.10360v1)
+Zheng Ma|24-05-2019|[Explicitizing an Implicit Bias of the Frequency Principle in Two-layer   Neural Networks](http://arxiv.org/abs/1905.10264v1)
+Runde Yang|24-05-2019|[Not All Features Are Equal: Feature Leveling Deep Neural Networks for   Better Interpretation](http://arxiv.org/abs/1905.10009v2)
+
 ## 24-05-2019
 
 main_author|publish_date|title

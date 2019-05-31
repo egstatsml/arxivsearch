@@ -1,5 +1,21 @@
 # mcmc
 Click on title for link to paper
+## 31-05-2019
+
+main_author|publish_date|title
+---|---|---
+Neill D. F. Campbell|30-05-2019|[Monotonic Gaussian Process Flow](http://arxiv.org/abs/1905.12930v1)
+Patrick Gallinari|30-05-2019|[Regression with Conditional GAN](http://arxiv.org/abs/1905.12868v1)
+Atılım Güneş Baydin|29-05-2019|[Hijacking Malaria Simulators with Probabilistic Programming](http://arxiv.org/abs/1905.12432v1)
+Yves Moreau|29-05-2019|[GRU-ODE-Bayes: Continuous modeling of sporadically-observed time series](http://arxiv.org/abs/1905.12374v1)
+Edward Meeds|28-05-2019|[Efficient Amortised Bayesian Inference for Hierarchical and Nonlinear   Dynamical Systems](http://arxiv.org/abs/1905.12090v1)
+David A Knowles|28-05-2019|[A New Distribution on the Simplex with Auto-Encoding Applications](http://arxiv.org/abs/1905.12052v1)
+Juha Röning|28-05-2019|[Importance of user inputs while using incremental learning to   personalize human activity recognition models](http://arxiv.org/abs/1905.11775v1)
+Peter Richtárik|28-05-2019|[Stochastic Proximal Langevin Algorithm: Potential Splitting and   Nonasymptotic Rates](http://arxiv.org/abs/1905.11768v1)
+Michael Wooldridge|28-05-2019|[Manipulating a Learning Defender and Ways to Counteract](http://arxiv.org/abs/1905.11759v1)
+Abdellatif Zaidi|28-05-2019|[Variational Information Bottleneck for Unsupervised Clustering: Deep   Gaussian Mixture Embedding](http://arxiv.org/abs/1905.11741v1)
+Seiichi Uchida|26-05-2019|[ProbAct: A Probabilistic Activation Function for Deep Neural Networks](http://arxiv.org/abs/1905.10761v1)
+
 ## 24-05-2019
 
 main_author|publish_date|title

@@ -1,5 +1,14 @@
 # interpretable
 Click on title for link to paper
+## 31-05-2019
+
+main_author|publish_date|title
+---|---|---
+Atul Prakash|27-05-2019|[Analyzing the Interpretability Robustness of Self-Explaining Models](http://arxiv.org/abs/1905.12429v1)
+Frank Vetere|27-05-2019|[Explainable Reinforcement Learning Through a Causal Lens](http://arxiv.org/abs/1905.10958v1)
+Orna Cohen|24-05-2019|[Adaptive Symmetric Reward Noising for Reinforcement Learning](http://arxiv.org/abs/1905.10144v1)
+Runde Yang|24-05-2019|[Not All Features Are Equal: Feature Leveling Deep Neural Networks for   Better Interpretation](http://arxiv.org/abs/1905.10009v2)
+
 ## 24-05-2019
 
 main_author|publish_date|title
