@@ -1,5 +1,18 @@
 # mcmc
 Click on title for link to paper
+## 07-06-2019
+
+main_author|publish_date|title
+---|---|---
+Joshua B. Tenenbaum|05-06-2019|[Finding Friend and Foe in Multi-Agent Games](http://arxiv.org/abs/1906.02330v1)
+Pascal Frossard|05-06-2019|[GOT: An Optimal Transport framework for Graph comparison](http://arxiv.org/abs/1906.02085v1)
+Edwin V. Bonilla|05-06-2019|[Variational Spectral Graph Convolutional Networks](http://arxiv.org/abs/1906.01852v1)
+Peter I. Frazier|04-06-2019|[Bayesian Optimization of Composite Functions](http://arxiv.org/abs/1906.01537v1)
+Xinglong Li|04-06-2019|[Universal Boosting Variational Inference](http://arxiv.org/abs/1906.01235v1)
+Aidong Zhang|03-06-2019|[Incorporating Biological Knowledge with Factor Graph Neural Network for   Interpretable Deep Learning](http://arxiv.org/abs/1906.00537v1)
+Bernhard Sick|31-05-2019|[Influences in Forecast Errors for Wind and Photovoltaic Power: A Study   on Machine Learning Models](http://arxiv.org/abs/1905.13668v1)
+Kohei Miyaguchi|31-05-2019|[PAC-Bayesian Transportation Bound](http://arxiv.org/abs/1905.13435v1)
+
 ## 31-05-2019
 
 main_author|publish_date|title

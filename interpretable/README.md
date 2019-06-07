@@ -1,5 +1,17 @@
 # interpretable
 Click on title for link to paper
+## 07-06-2019
+
+main_author|publish_date|title
+---|---|---
+Dimitris Achlioptas|06-06-2019|[Bad Global Minima Exist and SGD Can Reach Them](http://arxiv.org/abs/1906.02613v1)
+Richard Socher|06-06-2019|[Explain Yourself! Leveraging Language Models for Commonsense Reasoning](http://arxiv.org/abs/1906.02361v1)
+My T. Thai|05-06-2019|[Evaluating Explainers via Perturbation](http://arxiv.org/abs/1906.02032v1)
+Hanwang Zhang|05-06-2019|[Learning to Compose and Reason with Language Tree Structures for Visual   Grounding](http://arxiv.org/abs/1906.01784v1)
+Noah D. Goodman|04-06-2019|[Learning to Explain: Answering Why-Questions via Rephrasing](http://arxiv.org/abs/1906.01243v1)
+Raymond J. Mooney|31-05-2019|[Do Human Rationales Improve Machine Explanations?](http://arxiv.org/abs/1905.13714v1)
+Hossein Azizpour|31-05-2019|[Explainability Techniques for Graph Convolutional Networks](http://arxiv.org/abs/1905.13686v1)
+
 ## 31-05-2019
 
 main_author|publish_date|title

@@ -1,5 +1,48 @@
 # bnn
 Click on title for link to paper
+## 07-06-2019
+
+main_author|publish_date|title
+---|---|---
+Susan Athey|06-06-2019|[Counterfactual Inference for Consumer Choice Across Many Product   Categories](http://arxiv.org/abs/1906.02635v1)
+Jack Lee|06-06-2019|[Hierarchical Bayesian myocardial perfusion quantification](http://arxiv.org/abs/1906.02540v1)
+Jian Lü|06-06-2019|[Boosting Operational DNN Testing Efficiency through Conditioning](http://arxiv.org/abs/1906.02533v1)
+Mohammad Emtiyaz Khan|06-06-2019|[Practical Deep Learning with Bayesian Principles](http://arxiv.org/abs/1906.02506v1)
+Marcus Rohrbach|06-06-2019|[Uncertainty-guided Continual Learning with Bayesian Neural Networks](http://arxiv.org/abs/1906.02425v1)
+Le Song|05-06-2019|[Can Graph Neural Networks Help Logic Reasoning?](http://arxiv.org/abs/1906.02111v1)
+Maciej Korzepa|05-06-2019|[Approximate Inference Turns Deep Networks into Gaussian Processes](http://arxiv.org/abs/1906.01930v1)
+Edwin V. Bonilla|05-06-2019|[Variational Spectral Graph Convolutional Networks](http://arxiv.org/abs/1906.01852v1)
+Mark Harley|05-06-2019|[Probabilistic hypergraph grammars for efficient molecular optimization](http://arxiv.org/abs/1906.01845v1)
+Dieter Fox|04-06-2019|[BayesSim: adaptive domain randomization via probabilistic inference for   robotics simulators](http://arxiv.org/abs/1906.01728v1)
+Benjamin M. Marlin|04-06-2019|[Assessing the Robustness of Bayesian Dark Knowledge to Posterior   Uncertainty](http://arxiv.org/abs/1906.01724v1)
+Thomas B. Schön|04-06-2019|[Evaluating Scalable Bayesian Deep Learning Methods for Robust Computer   Vision](http://arxiv.org/abs/1906.01620v1)
+Alex Waibel|04-06-2019|[Self-Attentional Models for Lattice Inputs](http://arxiv.org/abs/1906.01617v1)
+Il Memming Park|04-06-2019|[Streaming Variational Monte Carlo](http://arxiv.org/abs/1906.01549v1)
+Stephen Roberts|03-06-2019|[MEMe: An Accurate Maximum Entropy Method for Efficient Approximations in   Large-Scale Machine Learning](http://arxiv.org/abs/1906.01101v1)
+Juergen Gall|03-06-2019|[A Hybrid RNN-HMM Approach for Weakly Supervised Temporal Action   Segmentation](http://arxiv.org/abs/1906.01028v1)
+Melih Kandemir|03-06-2019|[Bayesian Prior Networks with PAC Training](http://arxiv.org/abs/1906.00816v1)
+Hao Zhao|03-06-2019|[Deeply-supervised Knowledge Synergy](http://arxiv.org/abs/1906.00675v2)
+Florian Jug|03-06-2019|[Probabilistic Noise2Void: Unsupervised Content-Aware Denoising](http://arxiv.org/abs/1906.00651v2)
+Guangyu Sun|03-06-2019|[BAYHENN: Combining Bayesian Deep Learning and Homomorphic Encryption for   Secure DNN Inference](http://arxiv.org/abs/1906.00639v1)
+Risto Miikkulainen|03-06-2019|[Quantifying Point-Prediction Uncertainty in Neural Networks via Residual   Estimation with an I/O Kernel](http://arxiv.org/abs/1906.00588v1)
+Wee Sun Lee|03-06-2019|[Factor Graph Neural Network](http://arxiv.org/abs/1906.00554v1)
+Aidong Zhang|03-06-2019|[Incorporating Biological Knowledge with Factor Graph Neural Network for   Interpretable Deep Learning](http://arxiv.org/abs/1906.00537v1)
+Mark A. Kon|03-06-2019|[Coupled VAE: Improved Accuracy and Robustness of a Variational   Autoencoder](http://arxiv.org/abs/1906.00536v2)
+Vladislav Gennadievich Malyshkin|02-06-2019|[On The Radon--Nikodym Spectral Approach With Optimal Clustering](http://arxiv.org/abs/1906.00460v2)
+Bill Byrne|02-06-2019|[Domain Adaptive Inference for Neural Machine Translation](http://arxiv.org/abs/1906.00408v1)
+Antoine Amarilli|01-06-2019|[Smoothing Structured Decomposable Circuits](http://arxiv.org/abs/1906.00311v1)
+Shiliang Sun|01-06-2019|[Variational Langevin Hamiltonian Monte Carlo for Distant Multi-modal   Sampling](http://arxiv.org/abs/1906.00229v1)
+Barbara E. Engelhardt|01-06-2019|[Patient-Specific Effects of Medication Using Latent Force Models with   Gaussian Processes](http://arxiv.org/abs/1906.00226v1)
+Fabio Ramos|01-06-2019|[Bayesian Deconditional Kernel Mean Embeddings](http://arxiv.org/abs/1906.00199v1)
+Lawrence V. Snyder|01-06-2019|[Multivariate, Multistep Forecasting, Reconstruction and Feature   Selection of Ocean Waves via Recurrent and Sequence-to-Sequence Networks](http://arxiv.org/abs/1906.00195v1)
+Venkatesh Umaashankar|31-05-2019|[ActiveHARNet: Towards On-Device Deep Bayesian Active Learning for Human   Activity Recognition](http://arxiv.org/abs/1906.00108v1)
+Youssef Marzouk|31-05-2019|[Greedy inference with layers of lazy maps](http://arxiv.org/abs/1906.00031v1)
+Souma Chowdhury|31-05-2019|[Adaptive Model Refinement with Batch Bayesian Sampling for Optimization   of Bio-inspired Flow Tailoring](http://arxiv.org/abs/1906.00793v1)
+Tadahiro Taniguchi|31-05-2019|[Symbol Emergence as an Interpersonal Multimodal Categorization](http://arxiv.org/abs/1905.13443v1)
+Kohei Miyaguchi|31-05-2019|[PAC-Bayesian Transportation Bound](http://arxiv.org/abs/1905.13435v1)
+Xia Hu|31-05-2019|[Deep Bayesian Optimization on Attributed Graphs](http://arxiv.org/abs/1905.13403v1)
+Andreas Paepcke|31-05-2019|[Using Latent Variable Models to Observe Academic Pathways](http://arxiv.org/abs/1905.13383v1)
+
 ## 31-05-2019
 
 main_author|publish_date|title
