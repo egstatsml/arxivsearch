@@ -1,5 +1,55 @@
 # fairness
 Click on title for link to paper
+## 14-06-2019
+
+main_author|publish_date|title
+---|---|---
+Frederic Chazal|13-06-2019|[Topological Data Analysis for Arrhythmia Detection through Modular   Neural Networks](http://arxiv.org/abs/1906.05795v1)
+Zohreh Azimifar|13-06-2019|[Meta-heuristic for non-homogeneous peak density spaces and   implementation on 2 real-world parameter learning/tuning applications](http://arxiv.org/abs/1906.05516v1)
+Daniel Lewis|13-06-2019|[An image-driven machine learning approach to kinetic modeling of a   discontinuous precipitation reaction](http://arxiv.org/abs/1906.05496v1)
+Carlos Fernandez-Granda|13-06-2019|[Robust and interpretable blind image denoising via bias-free   convolutional neural networks](http://arxiv.org/abs/1906.05478v1)
+Tillman Weyde|13-06-2019|[Factors for the Generalisation of Identity Relations by Neural Networks](http://arxiv.org/abs/1906.05449v1)
+Mahdi Soltanolkotabi|12-06-2019|[Generalization Guarantees for Neural Networks via Harnessing the   Low-rank Structure of the Jacobian](http://arxiv.org/abs/1906.05392v1)
+Serena Wang|12-06-2019|[Pairwise Fairness for Ranking and Regression](http://arxiv.org/abs/1906.05330v1)
+Zohar Ringel|12-06-2019|[Learning Curves for Deep Neural Networks: A Gaussian Field Theory   Perspective](http://arxiv.org/abs/1906.05301v1)
+Sergey Levine|12-06-2019|[Search on the Replay Buffer: Bridging Planning and Reinforcement   Learning](http://arxiv.org/abs/1906.05253v1)
+Jesse Vig|12-06-2019|[A Multiscale Visualization of Attention in the Transformer Model](http://arxiv.org/abs/1906.05714v1)
+Xiangyang Ji|12-06-2019|[Regret Minimization for Reinforcement Learning by Evaluating the Optimal   Bias Function](http://arxiv.org/abs/1906.05110v1)
+Massimiliano Pontil|12-06-2019|[Leveraging Labeled and Unlabeled Data for Consistent Fair Binary   Classification](http://arxiv.org/abs/1906.05082v1)
+Thibault Vatter|12-06-2019|[Deep Smoothing of the Implied Volatility Surface](http://arxiv.org/abs/1906.05065v1)
+David Leslie|11-06-2019|[Understanding artificial intelligence ethics and safety](http://arxiv.org/abs/1906.05684v1)
+Jason Eisner|11-06-2019|[What Kind of Language Is Hard to Language-Model?](http://arxiv.org/abs/1906.04726v1)
+Max Welling|11-06-2019|[Data-Free Quantization through Weight Equalization and Bias Correction](http://arxiv.org/abs/1906.04721v1)
+Matias Barenstein|11-06-2019|[ProPublica's COMPAS Data Revisited](http://arxiv.org/abs/1906.04711v2)
+Hirokazu Takahashi|11-06-2019|[Dynamical Anatomy of NARMA10 Benchmark Task](http://arxiv.org/abs/1906.04608v3)
+Matus Telgarsky|11-06-2019|[A refined primal-dual analysis of the implicit bias](http://arxiv.org/abs/1906.04540v1)
+Osvaldo Simeone|11-06-2019|[Optimizing Pipelined Computation and Communication for   Latency-Constrained Edge Learning](http://arxiv.org/abs/1906.04488v2)
+David Ha|11-06-2019|[Weight Agnostic Neural Networks](http://arxiv.org/abs/1906.04358v1)
+Martha White|11-06-2019|[Importance Resampling for Off-policy Prediction](http://arxiv.org/abs/1906.04328v1)
+Andrew M. Stuart|10-06-2019|[Analysis Of Momentum Methods](http://arxiv.org/abs/1906.04285v1)
+Yuling Yan|10-06-2019|[Inference and Uncertainty Quantification for Noisy Matrix Completion](http://arxiv.org/abs/1906.04159v1)
+Michael O'Boyle|10-06-2019|[BlockSwap: Fisher-guided Block Substitution for Network Compression](http://arxiv.org/abs/1906.04113v1)
+Lise Getoor|10-06-2019|[Estimating Causal Effects of Tone in Online Debates](http://arxiv.org/abs/1906.04177v2)
+R. Ravi|10-06-2019|[Stretching the Effectiveness of MLE from Accuracy to Bias for Pairwise   Comparisons](http://arxiv.org/abs/1906.04066v1)
+J. Brian Gray|10-06-2019|[On the Insufficiency of the Large Margins Theory in Explaining the   Performance of Ensemble Methods](http://arxiv.org/abs/1906.04063v1)
+Guy Van den Broeck|10-06-2019|[Learning Fair Naive Bayes Classifiers by Discovering and Eliminating   Discrimination Patterns](http://arxiv.org/abs/1906.03843v1)
+Andrew M. Dai|10-06-2019|[Analyzing the Role of Model Uncertainty for Electronic Health Records](http://arxiv.org/abs/1906.03842v1)
+Alon Orlitsky|10-06-2019|[The Broad Optimality of Profile Maximum Likelihood](http://arxiv.org/abs/1906.03794v1)
+David Donoho|10-06-2019|[Degrees of Freedom Analysis of Unrolled Neural Networks](http://arxiv.org/abs/1906.03742v1)
+Aaron Courville|09-06-2019|[Note on the bias and variance of variational inference](http://arxiv.org/abs/1906.03708v1)
+Rakesh Chada|09-06-2019|[Gendered Pronoun Resolution using BERT and an extractive question   answering formulation](http://arxiv.org/abs/1906.03695v1)
+Xiaoyuan Qian|09-06-2019|[The Implicit Bias of AdaGrad on Separable Data](http://arxiv.org/abs/1906.03559v1)
+Nicolas Le Roux|08-06-2019|[Reducing the variance in online optimization by transporting past   gradients](http://arxiv.org/abs/1906.03532v1)
+Percy Liang|08-06-2019|[Maximum Weighted Loss Discrepancy](http://arxiv.org/abs/1906.03518v1)
+Stefan Bauer|07-06-2019|[On the Transfer of Inductive Bias from Simulation to the Real World: a   New Disentanglement Dataset](http://arxiv.org/abs/1906.03292v1)
+Jamie Morgenstern|07-06-2019|[Effectiveness of Equalized Odds for Fair Classification under Imperfect   Group Information](http://arxiv.org/abs/1906.03284v1)
+James McDermott|07-06-2019|"[When and Why Metaheuristics Researchers Can Ignore ""No Free Lunch""   Theorems](http://arxiv.org/abs/1906.03280v1)"
+Mark Grobman|07-06-2019|[Fighting Quantization Bias With Bias](http://arxiv.org/abs/1906.03193v1)
+J. Brian Gray|07-06-2019|[On the Current State of Research in Explaining Ensemble Performance   Using Margins](http://arxiv.org/abs/1906.03123v1)
+Cedrick Ansorge|07-06-2019|[Topological descriptors of spatial coherence in a convective boundary   layer](http://arxiv.org/abs/1906.02993v1)
+Tuo Zhao|07-06-2019|[Inductive Bias of Gradient Descent based Adversarial Training on   Separable Data](http://arxiv.org/abs/1906.02931v2)
+Yi Qin Gao|07-06-2019|[Learning Clustered Representation for Complex Free Energy Landscapes](http://arxiv.org/abs/1906.02852v1)
+
 ## 07-06-2019
 
 main_author|publish_date|title

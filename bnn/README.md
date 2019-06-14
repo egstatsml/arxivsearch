@@ -1,5 +1,37 @@
 # bnn
 Click on title for link to paper
+## 14-06-2019
+
+main_author|publish_date|title
+---|---|---
+Erik Mueller|13-06-2019|[Telephonetic: Making Neural Language Models Robust to ASR and Semantic   Noise](http://arxiv.org/abs/1906.05678v1)
+Nicholas Zabaras|13-06-2019|[Modeling the Dynamics of PDE Systems with Physics-Constrained Deep   Auto-Regressive Networks](http://arxiv.org/abs/1906.05747v1)
+Frank Wood|13-06-2019|[Near-Optimal Glimpse Sequences for Improved Hard Attention Neural   Network Training](http://arxiv.org/abs/1906.05462v1)
+Omesh Tickoo|12-06-2019|[MOPED: Efficient priors for scalable variational inference in Bayesian   deep neural networks](http://arxiv.org/abs/1906.05323v1)
+Jun Wang|12-06-2019|[Neural Variational Inference For Estimating Uncertainty in Knowledge   Graph Embeddings](http://arxiv.org/abs/1906.04985v1)
+Hossein Sangrody|11-06-2019|[Medium-Term Load Forecasting Using Support Vector Regression, Feature   Selection, and Symbiotic Organism Search Optimization](http://arxiv.org/abs/1906.04818v1)
+Ricardo Silva|11-06-2019|[Towards Inverse Reinforcement Learning for Limit Order Book Dynamics](http://arxiv.org/abs/1906.04813v1)
+Roland Badeau|11-06-2019|[Asymptotic Guarantees for Learning Generative Models with the   Sliced-Wasserstein Distance](http://arxiv.org/abs/1906.04516v1)
+Sanjay Singh Bora|11-06-2019|[Approximate Variational Inference Based on a Finite Sample of Gaussian   Latent Variables](http://arxiv.org/abs/1906.04507v1)
+Juergen Schmidhuber|11-06-2019|[Unsupervised Minimax: Adversarial Curiosity, Generative Adversarial   Networks, and Predictability Minimization](http://arxiv.org/abs/1906.04493v1)
+Zizhuo Wang|11-06-2019|[Probabilistic Forecasting with Temporal Convolutional Neural Network](http://arxiv.org/abs/1906.04397v1)
+Xia Hu|11-06-2019|[Coupled Variational Recurrent Collaborative Filtering](http://arxiv.org/abs/1906.04386v1)
+S. A. Sisson|11-06-2019|[Likelihood-free approximate Gibbs sampling](http://arxiv.org/abs/1906.04347v1)
+Rui Wang|11-06-2019|[Inferring 3D Shapes from Image Collections using Adversarial Networks](http://arxiv.org/abs/1906.04910v1)
+Aaron Courville|10-06-2019|[Stochastic Neural Network with Kronecker Flow](http://arxiv.org/abs/1906.04282v1)
+Francisco Pereira|10-06-2019|[Bayesian Automatic Relevance Determination for Utility Function   Specification in Discrete Choice Models](http://arxiv.org/abs/1906.03855v1)
+Andrew M. Dai|10-06-2019|[Analyzing the Role of Model Uncertainty for Electronic Health Records](http://arxiv.org/abs/1906.03842v1)
+Karthik Duraisamy|09-06-2019|[Physics-Informed Probabilistic Learning of Linear Embeddings of   Non-linear Dynamics With Guaranteed Stability](http://arxiv.org/abs/1906.03663v2)
+Dmitry Vetrov|09-06-2019|[The Implicit Metropolis-Hastings Algorithm](http://arxiv.org/abs/1906.03644v1)
+Boyan Beronov|07-06-2019|[Sparse Variational Inference: Bayesian Coresets from Scratch](http://arxiv.org/abs/1906.03329v1)
+Carol C. Wu|07-06-2019|[DropConnect Is Effective in Modeling Uncertainty of Bayesian Deep   Networks](http://arxiv.org/abs/1906.04569v1)
+Jennifer G. Dy|07-06-2019|[Adaptive Nonparametric Variational Autoencoder](http://arxiv.org/abs/1906.03288v1)
+Ender Konukoglu|07-06-2019|[PHiSeg: Capturing Uncertainty in Medical Image Segmentation](http://arxiv.org/abs/1906.04045v1)
+Matthew D. Hoffman|07-06-2019|[Automatic Reparameterisation of Probabilistic Programs](http://arxiv.org/abs/1906.03028v1)
+Mital Kinderkhedia|07-06-2019|[Learning Representations of Graph Data -- A Survey](http://arxiv.org/abs/1906.02989v1)
+Bernd Bischl|07-06-2019|[Resampling-based Assessment of Robustness to Distribution Shift for Deep   Neural Networks](http://arxiv.org/abs/1906.02972v1)
+Mark Schmidt|07-06-2019|[Fast and Simple Natural-Gradient Variational Inference with Mixture of   Exponential-family Approximations](http://arxiv.org/abs/1906.02914v1)
+
 ## 07-06-2019
 
 main_author|publish_date|title

@@ -1,5 +1,15 @@
 # interpretable
 Click on title for link to paper
+## 14-06-2019
+
+main_author|publish_date|title
+---|---|---
+Jie Tang|13-06-2019|[Cognitive Knowledge Graph Reasoning for One-shot Relational Learning](http://arxiv.org/abs/1906.05489v1)
+Luke Zettlemoyer|12-06-2019|[E3: Entailment-driven Extracting and Editing for Conversational Machine   Reading](http://arxiv.org/abs/1906.05373v1)
+Yongfeng Zhang|12-06-2019|[Reinforcement Knowledge Graph Reasoning for Explainable Recommendation](http://arxiv.org/abs/1906.05237v1)
+Tom Goldstein|07-06-2019|[Understanding Generalization through Visualizations](http://arxiv.org/abs/1906.03291v2)
+Hannaneh Hajishirzi|07-06-2019|[Multi-hop Reading Comprehension through Question Decomposition and   Rescoring](http://arxiv.org/abs/1906.02916v1)
+
 ## 07-06-2019
 
 main_author|publish_date|title
