@@ -1,5 +1,11 @@
 # interpretable
 Click on title for link to paper
+## 21-06-2019
+
+main_author|publish_date|title
+---|---|---
+Tim Rocktäschel|14-06-2019|[NLProlog: Reasoning with Weak Unification for Question Answering in   Natural Language](http://arxiv.org/abs/1906.06187v1)
+
 ## 14-06-2019
 
 main_author|publish_date|title

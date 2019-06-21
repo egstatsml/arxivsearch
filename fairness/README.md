@@ -1,5 +1,40 @@
 # fairness
 Click on title for link to paper
+## 21-06-2019
+
+main_author|publish_date|title
+---|---|---
+Meena Jagadeesan|20-06-2019|[Individual Fairness in Sponsored Search Auctions](http://arxiv.org/abs/1906.08732v1)
+Nathan Kallus|20-06-2019|[More Efficient Policy Learning via Optimal Retargeting](http://arxiv.org/abs/1906.08611v1)
+Nisheeth K. Vishnoi|20-06-2019|[Coresets for Clustering with Fairness Constraints](http://arxiv.org/abs/1906.08484v1)
+Yonatan Belinkov|20-06-2019|[Adversarial Regularization for Visual Question Answering: Strengths,   Shortcomings, and Side Effects](http://arxiv.org/abs/1906.08430v1)
+Brenden M. Lake|20-06-2019|[Improving the robustness of ImageNet classifiers using elements of human   visual cognition](http://arxiv.org/abs/1906.08416v1)
+Sosuke Kobayashi|20-06-2019|[Data Interpolating Prediction: Alternative Interpretation of Mixup](http://arxiv.org/abs/1906.08412v1)
+Geoffrey J. Gordon|19-06-2019|[Inherent Tradeoffs in Learning Fair Representation](http://arxiv.org/abs/1906.08386v1)
+Sam Shah|19-06-2019|[Considerations for the Interpretation of Bias Measures of Word   Embeddings](http://arxiv.org/abs/1906.08379v1)
+Besim Avci|19-06-2019|[Incorporating Priors with Feature Attribution on Text Classification](http://arxiv.org/abs/1906.08286v1)
+Sergey Levine|19-06-2019|[When to Trust Your Model: Model-Based Policy Optimization](http://arxiv.org/abs/1906.08253v1)
+Ismail Ben Ayed|19-06-2019|[Clustering with Fairness Constraints: A Flexible and Scalable Approach](http://arxiv.org/abs/1906.08207v1)
+Daniel Lee|19-06-2019|[QXplore: Q-learning Exploration by Maximizing Temporal Difference Error](http://arxiv.org/abs/1906.08189v1)
+Gergely Neu|19-06-2019|[Adaptive Temporal-Difference Learning for Policy Evaluation with   Per-State Uncertainty Estimates](http://arxiv.org/abs/1906.07987v1)
+Alain Tapp|19-06-2019|[Agnostic data debiasing through a local sanitizer learnt from an   adversarial network approach](http://arxiv.org/abs/1906.07858v1)
+Yidong Chen|18-06-2019|[Convolutional neural network models for cancer type prediction based on   gene expression](http://arxiv.org/abs/1906.07794v1)
+Junichi Yamagishi|18-06-2019|[A Unified Speaker Adaptation Method for Speech Synthesis using   Transcribed and Untranscribed Speech with Backpropagation](http://arxiv.org/abs/1906.07414v1)
+Zhanxing Zhu|18-06-2019|[The Multiplicative Noise in Stochastic Gradient Descent: Data-Dependent   Regularization, Continuous and Discrete Approximation](http://arxiv.org/abs/1906.07405v1)
+Yulia Tsvetkov|18-06-2019|[Measuring Bias in Contextualized Word Representations](http://arxiv.org/abs/1906.07337v1)
+Kai Yu|18-06-2019|[Margin Matters: Towards More Discriminative Deep Neural Network   Embeddings for Speaker Recognition](http://arxiv.org/abs/1906.07317v1)
+Bert Huang|17-06-2019|[Active Learning by Greedy Split and Label Exploration](http://arxiv.org/abs/1906.07046v1)
+Giulio Biroli|16-06-2019|[Finding the Needle in the Haystack with Convolutions: on the benefits of   architectural bias](http://arxiv.org/abs/1906.06766v1)
+Zhou Yu|16-06-2019|[Persuasion for Good: Towards a Personalized Persuasive Dialogue System   for Social Good](http://arxiv.org/abs/1906.06725v1)
+Moe Matsuki|15-06-2019|[Uncovering Why Deep Neural Networks Lack Robustness: Representation   Metrics that Link to Adversarial Attacks](http://arxiv.org/abs/1906.06627v2)
+Patrick Loiseau|15-06-2019|[The Price of Local Fairness in Multistage Selection](http://arxiv.org/abs/1906.06613v1)
+Timnit Gebru|14-06-2019|[Detecting Bias with Generative Counterfactual Face Attribute   Augmentation](http://arxiv.org/abs/1906.06439v2)
+Alan W Black|14-06-2019|[Principled Frameworks for Evaluating Ethics in NLP Systems](http://arxiv.org/abs/1906.06425v1)
+Kilian Q. Weinberger|14-06-2019|[Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous   Driving](http://arxiv.org/abs/1906.06310v1)
+Ivan Oseledets|14-06-2019|[Empirical study of extreme overfitting points of neural networks](http://arxiv.org/abs/1906.06295v1)
+Shashank Kotyan|14-06-2019|[Model Agnostic Dual Quality Assessment for Adversarial Machine Learning   and an Analysis of Current Neural Networks and Defenses](http://arxiv.org/abs/1906.06026v1)
+Tomoyuki Obuchi|14-06-2019|[Empirical Bayes Method for Boltzmann Machines](http://arxiv.org/abs/1906.06002v1)
+
 ## 14-06-2019
 
 main_author|publish_date|title

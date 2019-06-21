@@ -1,5 +1,18 @@
 # mcmc
 Click on title for link to paper
+## 21-06-2019
+
+main_author|publish_date|title
+---|---|---
+Gabriel Hugh Elkaim|20-06-2019|[A Hierarchical Architecture for Sequential Decision-Making in Autonomous   Driving using Deep Reinforcement Learning](http://arxiv.org/abs/1906.08464v1)
+Max Welling|19-06-2019|[The Functional Neural Process](http://arxiv.org/abs/1906.08324v1)
+Justin Domke|19-06-2019|[Provable Gradient Variance Guarantees for Black-Box Variational   Inference](http://arxiv.org/abs/1906.08241v1)
+Bo Zhang|19-06-2019|[LIA: Latently Invertible Autoencoder with Adversarial Learning](http://arxiv.org/abs/1906.08090v1)
+Guillaume P. Dehaene|17-06-2019|[Variational Inference with Numerical Derivatives: variance reduction   through coupling](http://arxiv.org/abs/1906.06914v1)
+Ke Tang|17-06-2019|[Running Time Analysis of the (1+1)-EA for Robust Linear Optimization](http://arxiv.org/abs/1906.06873v1)
+Steve Easterbrook|16-06-2019|[Recovering the parameters underlying the Lorenz-96 chaotic dynamics](http://arxiv.org/abs/1906.06786v1)
+Christos Dimitrakakis|14-06-2019|[Epistemic Risk-Sensitive Reinforcement Learning](http://arxiv.org/abs/1906.06273v1)
+
 ## 14-06-2019
 
 main_author|publish_date|title

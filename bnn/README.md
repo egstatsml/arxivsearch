@@ -1,5 +1,25 @@
 # bnn
 Click on title for link to paper
+## 21-06-2019
+
+main_author|publish_date|title
+---|---|---
+Jian Tang|20-06-2019|[Probabilistic Logic Neural Networks for Reasoning](http://arxiv.org/abs/1906.08495v1)
+Max Welling|19-06-2019|[The Functional Neural Process](http://arxiv.org/abs/1906.08324v1)
+Harald Oberhauser|19-06-2019|[Variational Gaussian Processes with Signature Covariances](http://arxiv.org/abs/1906.08215v1)
+Guo-Jun Qi|19-06-2019|[Learning Generalized Transformation Equivariant Representations via   Autoencoding Transformations](http://arxiv.org/abs/1906.08628v1)
+Hisashi Shimodaira|19-06-2019|[Extended probabilistic Rand index and the adjustable moving window-based   pixel-pair sampling method](http://arxiv.org/abs/1906.07893v1)
+Max Welling|18-06-2019|[Differentiable probabilistic models of scientific imaging with the   Fourier slice theorem](http://arxiv.org/abs/1906.07582v2)
+Jian Tang|18-06-2019|[vGraph: A Generative Model for Joint Community Detection and Node   Representation Learning](http://arxiv.org/abs/1906.07159v1)
+David Gifford|18-06-2019|[Maximizing Overall Diversity for Improved Uncertainty Estimates in Deep   Ensembles](http://arxiv.org/abs/1906.07380v1)
+Jiajun Wu|17-06-2019|[Neurally-Guided Structure Inference](http://arxiv.org/abs/1906.07304v1)
+Kai Xu|17-06-2019|[Visual Navigation by Generating Next Expected Observations](http://arxiv.org/abs/1906.07207v1)
+David Rohde|17-06-2019|[A Bayesian Solution to the M-Bias Problem](http://arxiv.org/abs/1906.07136v1)
+Wenying Ji|14-06-2019|[Enhanced Input Modeling for Construction Simulation using Bayesian Deep   Neural Networks](http://arxiv.org/abs/1906.06421v1)
+Tshilidzi Marwala|14-06-2019|[Automatic Relevance Determination Bayesian Neural Networks for Credit   Card Default Modelling](http://arxiv.org/abs/1906.06382v1)
+Joachim M. Buhmann|14-06-2019|[Variational Federated Multi-Task Learning](http://arxiv.org/abs/1906.06268v1)
+Baosen Zhang|14-06-2019|[Fast Calculation of Probabilistic Power Flow: A Model-based Deep   Learning Approach](http://arxiv.org/abs/1906.06017v1)
+
 ## 14-06-2019
 
 main_author|publish_date|title
