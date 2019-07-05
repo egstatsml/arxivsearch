@@ -1,5 +1,30 @@
 # variational
 Click on title for link to paper
+## 05-07-2019
+
+main_author|publish_date|title
+---|---|---
+Stefan Riezler|04-07-2019|[Interactive-Predictive Neural Machine Translation through Reinforcement   and Imitation](http://arxiv.org/abs/1907.02326v1)
+Kyriakos Vamvoudakis|03-07-2019|[Safe Approximate Dynamic Programming Via Kernelized Lipschitz Estimation](http://arxiv.org/abs/1907.02151v1)
+João Paulo P. Gomes|03-07-2019|[Unscented Gaussian Process Latent Variable Model: learning from   uncertain inputs with intractable kernels](http://arxiv.org/abs/1907.01867v1)
+Jixiang Li|03-07-2019|[FairNAS: Rethinking Evaluation Fairness of Weight Sharing Neural   Architecture Search](http://arxiv.org/abs/1907.01845v1)
+Christopher Kanan|02-07-2019|[Rethinking Continual Learning for Autonomous Agents and Robots](http://arxiv.org/abs/1907.01929v1)
+Yutaka Akiyama|02-07-2019|[Molecular activity prediction using graph convolutional deep neural   network considering distance on a molecular graph](http://arxiv.org/abs/1907.01103v2)
+Roland S. Zimmermann|01-07-2019|"[Comment on ""Adv-BNN: Improved Adversarial Defense through Robust   Bayesian Neural Network""](http://arxiv.org/abs/1907.00895v1)"
+Tong-Jie Zhang|01-07-2019|[Model Comparison of Dark Energy models Using Deep Network](http://arxiv.org/abs/1907.00568v2)
+Youssef Marzouk|30-06-2019|[Coupling techniques for nonlinear ensemble filtering](http://arxiv.org/abs/1907.00389v1)
+Masahito Ueda|29-06-2019|[Deep Gamblers: Learning to Abstain with Portfolio Theory](http://arxiv.org/abs/1907.00208v1)
+Frank Wood|28-06-2019|[The Thermodynamic Variational Objective](http://arxiv.org/abs/1907.00031v1)
+J. Nathan Kutz|25-06-2019|[A unified sparse optimization framework to learn parsimonious   physics-informed models from data](http://arxiv.org/abs/1906.10612v1)
+Prateek Saxena|25-06-2019|[Quantitative Verification of Neural Networks And its Security   Applications](http://arxiv.org/abs/1906.10395v1)
+Ding Zhao|25-06-2019|[Modeling Multi-Vehicle Interaction Scenarios Using Gaussian Random Field](http://arxiv.org/abs/1906.10307v1)
+Ryan P. Adams|24-06-2019|[A Theoretical Connection Between Statistical Physics and Reinforcement   Learning](http://arxiv.org/abs/1906.10228v1)
+Alexander M. Rush|24-06-2019|[Compound Probabilistic Context-Free Grammars for Grammar Induction](http://arxiv.org/abs/1906.10225v1)
+Karol Hausman|24-06-2019|[Learning to Interactively Learn and Assist](http://arxiv.org/abs/1906.10187v2)
+Ivan Titov|24-06-2019|[Learning Latent Trees with Stochastic Perturbations and Differentiable   Dynamic Programming](http://arxiv.org/abs/1906.09992v1)
+Peter Sollich|23-06-2019|[Parzen Filters for Spectral Decomposition of Signals](http://arxiv.org/abs/1906.09526v1)
+Daniel Zhuoyu Long|21-06-2019|[Revised Progressive-Hedging-Algorithm Based Two-layer Solution Scheme   for Bayesian Reinforcement Learning](http://arxiv.org/abs/1906.09035v1)
+
 ## 21-06-2019
 
 main_author|publish_date|title

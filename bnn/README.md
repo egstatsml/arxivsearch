@@ -1,5 +1,61 @@
 # bnn
 Click on title for link to paper
+## 05-07-2019
+
+main_author|publish_date|title
+---|---|---
+Ivor Tsang|04-07-2019|[Probabilistic CCA with Implicit Distributions](http://arxiv.org/abs/1907.02345v1)
+Tadahiro Taniguchi|03-07-2019|[Integration of Imitation Learning using GAIL and Reinforcement Learning   using Task-achievement Rewards via Probabilistic Generative Model](http://arxiv.org/abs/1907.02140v1)
+Mijung Park|03-07-2019|[Neuron ranking -- an informed way to condense convolutional neural   networks architecture](http://arxiv.org/abs/1907.02519v1)
+Shiqi Wang|03-07-2019|[Intrinsic Image Popularity Assessment](http://arxiv.org/abs/1907.01985v2)
+Pheng-Ann Heng|03-07-2019|[Probabilistic Multilayer Regularization Network for Unsupervised 3D   Brain Image Registration](http://arxiv.org/abs/1907.01922v1)
+João Paulo P. Gomes|03-07-2019|[Unscented Gaussian Process Latent Variable Model: learning from   uncertain inputs with intractable kernels](http://arxiv.org/abs/1907.01867v1)
+Ziyi Zhong|02-07-2019|[E-Sports Talent Scouting Based on Multimodal Twitch Stream Data](http://arxiv.org/abs/1907.01615v1)
+Marcel Lüthi|02-07-2019|[A Closest Point Proposal for MCMC-based Probabilistic Surface   Registration](http://arxiv.org/abs/1907.01414v1)
+Wilkins Aquino|02-07-2019|[Adaptive particle-based approximations of the Gibbs posterior for   inverse problems](http://arxiv.org/abs/1907.01551v1)
+Stephan Mandt|01-07-2019|[Augmenting and Tuning Knowledge Graph Embeddings](http://arxiv.org/abs/1907.01068v1)
+Linwei Wang|01-07-2019|[Bayesian Optimization on Large Graphs via a Graph Convolutional   Generative Model: Application in Cardiac Model Personalization](http://arxiv.org/abs/1907.01406v1)
+Roland S. Zimmermann|01-07-2019|"[Comment on ""Adv-BNN: Improved Adversarial Defense through Robust   Bayesian Neural Network""](http://arxiv.org/abs/1907.00895v1)"
+Andreas Schwung|01-07-2019|[Neural Logic Rule Layers](http://arxiv.org/abs/1907.00878v1)
+Yarin Gal|01-07-2019|[Radial Bayesian Neural Networks: Robust Variational Inference In Big   Models](http://arxiv.org/abs/1907.00865v1)
+Tong-Jie Zhang|01-07-2019|[Model Comparison of Dark Energy models Using Deep Network](http://arxiv.org/abs/1907.00568v2)
+Juyong Zhang|01-07-2019|[Bandit Learning for Diversified Interactive Recommendation](http://arxiv.org/abs/1907.01647v1)
+Kalyan Veeramachaneni|01-07-2019|[Modeling Tabular data using Conditional GAN](http://arxiv.org/abs/1907.00503v1)
+Christopher Yau|28-06-2019|[Bayesian Nonparametric Boolean Factor Models](http://arxiv.org/abs/1907.00063v1)
+Bharath Hariharan|28-06-2019|[PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows](http://arxiv.org/abs/1906.12320v2)
+Peter Mueller|28-06-2019|[Consensus Monte Carlo for Random Subsets using Shared Anchors](http://arxiv.org/abs/1906.12309v1)
+Micaela Verucchi|28-06-2019|[Mise en abyme with artificial intelligence: how to predict the accuracy   of NN, applied to hyper-parameter tuning](http://arxiv.org/abs/1907.00924v1)
+Joseph Jacob|28-06-2019|[Modelling Airway Geometry as Stock Market Data using Bayesian   Changepoint Detection](http://arxiv.org/abs/1906.12225v1)
+Sumit Borar|28-06-2019|[Early Bird Catches the Worm: Predicting Returns Even Before Purchase in   Fashion E-commerce](http://arxiv.org/abs/1906.12128v1)
+Sumit Borar|28-06-2019|[One Embedding To Do Them All](http://arxiv.org/abs/1906.12120v1)
+Mahito Sugiyama|28-06-2019|[Bias-Variance Trade-Off in Hierarchical Probabilistic Models Using   Higher-Order Feature Interactions](http://arxiv.org/abs/1906.12063v1)
+Jakob H. Macke|27-06-2019|[Teaching deep neural networks to localize sources in super-resolution   microscopy by combining simulation-based learning and unsupervised learning](http://arxiv.org/abs/1907.00770v1)
+Sidney Fels|27-06-2019|[Variational Mandible Shape Completion for Virtual Surgical Planning](http://arxiv.org/abs/1906.11957v1)
+Mason Youngblood|27-06-2019|[Conformity bias in the cultural transmission of music sampling   traditions](http://arxiv.org/abs/1906.11928v1)
+Marco Pavone|27-06-2019|[High-Dimensional Optimization in Adaptive Random Subspaces](http://arxiv.org/abs/1906.11809v1)
+Richard E. Turner|27-06-2019|['In-Between' Uncertainty in Bayesian Neural Networks](http://arxiv.org/abs/1906.11537v1)
+Melih Kandemir|27-06-2019|[Deep Active Learning with Adaptive Acquisition](http://arxiv.org/abs/1906.11471v1)
+Bart Kosko|26-06-2019|[Beyond DAGs: Modeling Causal Feedback with Fuzzy Cognitive Maps](http://arxiv.org/abs/1906.11247v2)
+Joseph Mundy|26-06-2019|[Bayesian Inference of Spacecraft Pose using Particle Filtering](http://arxiv.org/abs/1906.11182v1)
+Wee Peng Tay|25-06-2019|[An Unsupervised Bayesian Neural Network for Truth Discovery](http://arxiv.org/abs/1906.10470v1)
+Prateek Saxena|25-06-2019|[Quantitative Verification of Neural Networks And its Security   Applications](http://arxiv.org/abs/1906.10395v1)
+Ryan P. Adams|24-06-2019|[A Theoretical Connection Between Statistical Physics and Reinforcement   Learning](http://arxiv.org/abs/1906.10228v1)
+Alexander M. Rush|24-06-2019|[Compound Probabilistic Context-Free Grammars for Grammar Induction](http://arxiv.org/abs/1906.10225v1)
+Gordon Cheng|24-06-2019|[A Review on Neural Network Models of Schizophrenia and Autism Spectrum   Disorder](http://arxiv.org/abs/1906.10015v1)
+Ivan Titov|24-06-2019|[Learning Latent Trees with Stochastic Perturbations and Differentiable   Dynamic Programming](http://arxiv.org/abs/1906.09992v1)
+Changyou Chen|24-06-2019|[Bayesian Uncertainty Matching for Unsupervised Domain Adaptation](http://arxiv.org/abs/1906.09693v1)
+Finale Doshi-Velez|24-06-2019|[Quality of Uncertainty Quantification for Bayesian Neural Network   Inference](http://arxiv.org/abs/1906.09686v1)
+Gonzalo Rios|23-06-2019|[Compositionally-Warped Gaussian Processes](http://arxiv.org/abs/1906.09665v1)
+Mert R. Sabuncu|23-06-2019|[Confidence Calibration for Convolutional Neural Networks Using   Structured Dropout](http://arxiv.org/abs/1906.09551v1)
+Stefano Ermon|23-06-2019|[Bias Correction of Learned Generative Models using Likelihood-Free   Importance Weighting](http://arxiv.org/abs/1906.09531v1)
+Peter Sollich|23-06-2019|[Parzen Filters for Spectral Decomposition of Signals](http://arxiv.org/abs/1906.09526v1)
+Jian Peng|22-06-2019|[Learning Belief Representations for Imitation Learning in POMDPs](http://arxiv.org/abs/1906.09510v1)
+Tommy W. S. Chow|22-06-2019|[Learning with fuzzy hypergraphs: a topical approach to query-oriented   text summarization](http://arxiv.org/abs/1906.09445v1)
+Keisuke Yamazaki|22-06-2019|[Model Bridging: To Interpretable Simulation Model From Neural Network](http://arxiv.org/abs/1906.09391v1)
+Kumiko Tanaka-Ishii|22-06-2019|[Evaluating Computational Language Models with Scaling Properties of   Natural Language](http://arxiv.org/abs/1906.09379v1)
+Mark van der Wilk|22-06-2019|[Scalable Bayesian dynamic covariance modeling with variational Wishart   and inverse Wishart processes](http://arxiv.org/abs/1906.09360v1)
+Clement H. C. Leung|21-06-2019|[Leveraging Reinforcement Learning Techniques for Effective Policy   Adoption and Validation](http://arxiv.org/abs/1906.09340v1)
+
 ## 21-06-2019
 
 main_author|publish_date|title

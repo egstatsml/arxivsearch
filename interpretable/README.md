@@ -1,5 +1,14 @@
 # interpretable
 Click on title for link to paper
+## 05-07-2019
+
+main_author|publish_date|title
+---|---|---
+Joel Atallah|02-07-2019|[Machine Learning based Prediction of Hierarchical Classification of   Transposable Elements](http://arxiv.org/abs/1907.01674v1)
+Yair Zick|29-06-2019|[Privacy Risks of Explaining Machine Learning Models](http://arxiv.org/abs/1907.00164v1)
+Chris Watkins|25-06-2019|[Explaining Deep Learning Models with Constrained Adversarial Examples](http://arxiv.org/abs/1906.10671v1)
+Naimul Mefraz Khan|24-06-2019|[DLIME: A Deterministic Local Interpretable Model-Agnostic Explanations   Approach for Computer-Aided Diagnosis Systems](http://arxiv.org/abs/1906.10263v1)
+
 ## 21-06-2019
 
 main_author|publish_date|title
