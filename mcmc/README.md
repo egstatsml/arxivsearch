@@ -1,5 +1,17 @@
 # mcmc
 Click on title for link to paper
+## 12-07-2019
+
+main_author|publish_date|title
+---|---|---
+Fabio Ramos|11-07-2019|[Kernel Trajectory Maps for Multi-Modal Probabilistic Motion Prediction](http://arxiv.org/abs/1907.05127v1)
+Rémi Tachet des Combes|11-07-2019|[Safe Policy Improvement with Soft Baseline Bootstrapping](http://arxiv.org/abs/1907.05079v1)
+Luis Nunes Vicente|10-07-2019|[The stochastic multi-gradient algorithm for multi-objective optimization   and its application to supervised machine learning](http://arxiv.org/abs/1907.04472v1)
+Ahsan Kareem|08-07-2019|[Bayesian deep learning with hierarchical prior: Predictions from limited   and noisy data](http://arxiv.org/abs/1907.04240v1)
+Tadahiro Taniguchi|08-07-2019|[Variational Inference MPC for Bayesian Model-based Reinforcement   Learning](http://arxiv.org/abs/1907.04202v1)
+Cem Tekin|07-07-2019|[Thompson Sampling for Combinatorial Network Optimization in Unknown   Environments](http://arxiv.org/abs/1907.04201v1)
+Johanni Brea|05-07-2019|[An Approximate Bayesian Approach to Surprise-Based Learning](http://arxiv.org/abs/1907.02936v1)
+
 ## 05-07-2019
 
 main_author|publish_date|title

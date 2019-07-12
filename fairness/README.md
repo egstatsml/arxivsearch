@@ -1,5 +1,29 @@
 # fairness
 Click on title for link to paper
+## 12-07-2019
+
+main_author|publish_date|title
+---|---|---
+Stefan Riezler|11-07-2019|[Self-Regulated Interactive Sequence-to-Sequence Learning](http://arxiv.org/abs/1907.05190v1)
+Marcus Hutter|11-07-2019|[Fairness without Regret](http://arxiv.org/abs/1907.05159v1)
+Przemysław Sadowski|11-07-2019|[Machine Learning Kernel Method from a Quantum Generative Model](http://arxiv.org/abs/1907.05103v1)
+An-Yeu Wu|11-07-2019|[Neural Network-based Equalizer by Utilizing Coding Gain in Advance](http://arxiv.org/abs/1907.04980v1)
+Khalid Alnajjar|10-07-2019|[Modelling the Socialization of Creative Agents in a Master-Apprentice   Setting: The Case of Movie Title Puns](http://arxiv.org/abs/1907.04954v1)
+Viktor Prasanna|10-07-2019|[GraphSAINT: Graph Sampling Based Inductive Learning Method](http://arxiv.org/abs/1907.04931v1)
+Aleksandra Faust|10-07-2019|[RL-RRT: Kinodynamic Motion Planning via Learning Reachability Estimators   from RL Policies](http://arxiv.org/abs/1907.04799v1)
+Jan Peters|10-07-2019|[Assessing Transferability from Simulation to Reality for Reinforcement   Learning](http://arxiv.org/abs/1907.04685v1)
+Luis Nunes Vicente|10-07-2019|[The stochastic multi-gradient algorithm for multi-objective optimization   and its application to supervised machine learning](http://arxiv.org/abs/1907.04472v1)
+Jimbo Wilson|09-07-2019|[The What-If Tool: Interactive Probing of Machine Learning Models](http://arxiv.org/abs/1907.04135v1)
+Sebastian Pölsterl|09-07-2019|[Quantifying Confounding Bias in Neuroimaging Datasets with Causal   Inference](http://arxiv.org/abs/1907.04102v1)
+Xueqi Cheng|09-07-2019|[ReCoSa: Detecting the Relevant Contexts with Self-Attention for   Multi-turn Dialogue Generation](http://arxiv.org/abs/1907.05339v1)
+Abed Malti|09-07-2019|[On the Exact Recovery Conditions of 3D Human Motion from 2D Landmark   Motion with Sparse Articulated Motion](http://arxiv.org/abs/1907.03967v1)
+Sergio A Velastin|08-07-2019|[A Deep Learning Approach for Real-Time 3D Human Action Recognition from   Skeletal Data](http://arxiv.org/abs/1907.03520v1)
+Daniel Hsu|08-07-2019|[Unbiased estimators for random design regression](http://arxiv.org/abs/1907.03411v1)
+Alireza Rezaei|06-07-2019|[Composable Core-sets for Determinant Maximization: A Simple Near-Optimal   Algorithm](http://arxiv.org/abs/1907.03197v1)
+Jin Zhang|06-07-2019|[Bilevel Integrative Optimization for Ill-posed Inverse Problems](http://arxiv.org/abs/1907.03083v1)
+Wulfram Gerstner|05-07-2019|[Weight-space symmetry in deep networks gives rise to permutation   saddles, connected by equal-loss valleys across the loss landscape](http://arxiv.org/abs/1907.02911v1)
+David Silver|05-07-2019|[On Inductive Biases in Deep Reinforcement Learning](http://arxiv.org/abs/1907.02908v1)
+
 ## 05-07-2019
 
 main_author|publish_date|title

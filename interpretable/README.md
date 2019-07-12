@@ -1,5 +1,17 @@
 # interpretable
 Click on title for link to paper
+## 12-07-2019
+
+main_author|publish_date|title
+---|---|---
+Tengyu Ma|10-07-2019|[Towards Explaining the Regularization Effect of Initial Large Learning   Rate in Training Neural Networks](http://arxiv.org/abs/1907.04595v1)
+Siegfried Handschuh|09-07-2019|[On the Semantic Interpretability of Artificial Intelligence Models](http://arxiv.org/abs/1907.04105v1)
+J. A. Westerhuis|09-07-2019|[All Sparse PCA Models Are Wrong, But Some Are Useful. Part I:   Computation of Scores, Residuals and Explained Variance](http://arxiv.org/abs/1907.03989v1)
+Andre Barreto|08-07-2019|[General non-linear Bellman equations](http://arxiv.org/abs/1907.03687v1)
+Dinesh Verma|08-07-2019|[Quantifying Transparency of Machine Learning Systems through Analysis of   Contributions](http://arxiv.org/abs/1907.03483v1)
+Sebastien Martin|08-07-2019|[Optimal Explanations of Linear Models](http://arxiv.org/abs/1907.04669v1)
+Faisal Alshargi|04-07-2019|[A Road-map Towards Explainable Question Answering A Solution for   Information Pollution](http://arxiv.org/abs/1907.02606v1)
+
 ## 05-07-2019
 
 main_author|publish_date|title

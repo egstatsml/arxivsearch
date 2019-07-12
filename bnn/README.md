@@ -1,5 +1,25 @@
 # bnn
 Click on title for link to paper
+## 12-07-2019
+
+main_author|publish_date|title
+---|---|---
+Stefan Feuerriegel|11-07-2019|[Forecasting remaining useful life: Interpretable deep learning approach   via variational Bayesian inferences](http://arxiv.org/abs/1907.05146v1)
+Carl Henrik Ek|10-07-2019|[Interpretable Dynamics Models for Data-Efficient Reinforcement Learning](http://arxiv.org/abs/1907.04902v1)
+Danica Kragic|10-07-2019|[Bayesian Optimization in Variational Latent Spaces with Dynamic   Compression](http://arxiv.org/abs/1907.04796v1)
+Thomas B. Schön|10-07-2019|[Probabilistic programming for birth-death models of evolution using an   alive particle filter with delayed sampling](http://arxiv.org/abs/1907.04615v1)
+Alexander M. Rush|09-07-2019|[Don't Take the Premise for Granted: Mitigating Artifacts in Natural   Language Inference](http://arxiv.org/abs/1907.04380v1)
+Stephan Mandt|09-07-2019|[Multivariate Time Series Imputation with Variational Autoencoders](http://arxiv.org/abs/1907.04155v2)
+Christopher D. Manning|09-07-2019|[Learning by Abstraction: The Neural State Machine](http://arxiv.org/abs/1907.03950v2)
+Beren Millidge|08-07-2019|[Deep Active Inference as Variational Policy Gradients](http://arxiv.org/abs/1907.03876v1)
+Alex Pentland|08-07-2019|[Thompson Sampling on Symmetric $α$-Stable Bandits](http://arxiv.org/abs/1907.03821v1)
+Leo Miolane|08-07-2019|[Asymptotic Bayes risk for Gaussian mixture in a semi-supervised setting](http://arxiv.org/abs/1907.03792v1)
+Ahsan Kareem|08-07-2019|[Bayesian deep learning with hierarchical prior: Predictions from limited   and noisy data](http://arxiv.org/abs/1907.04240v1)
+Shih-Fu Chang|08-07-2019|[Variational Context: Exploiting Visual and Textual Context for Grounding   Referring Expressions](http://arxiv.org/abs/1907.03609v1)
+Frank Wood|08-07-2019|[Etalumis: Bringing Probabilistic Programming to Scientific Simulators at   Scale](http://arxiv.org/abs/1907.03382v1)
+Tadahiro Taniguchi|08-07-2019|[Variational Inference MPC for Bayesian Model-based Reinforcement   Learning](http://arxiv.org/abs/1907.04202v1)
+Johanni Brea|05-07-2019|[An Approximate Bayesian Approach to Surprise-Based Learning](http://arxiv.org/abs/1907.02936v1)
+
 ## 05-07-2019
 
 main_author|publish_date|title
