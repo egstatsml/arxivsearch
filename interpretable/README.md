@@ -1,5 +1,13 @@
 # interpretable
 Click on title for link to paper
+## 19-07-2019
+
+main_author|publish_date|title
+---|---|---
+Been Kim|16-07-2019|[Explaining Classifiers with Causal Concept Effect (CaCE)](http://arxiv.org/abs/1907.07165v1)
+Patrick Kinyua Gikunda|15-07-2019|[Modern CNNs for IoT Based Farms](http://arxiv.org/abs/1907.07772v1)
+Avishek Anand|15-07-2019|[A study on the Interpretability of Neural Retrieval Models using   DeepSHAP](http://arxiv.org/abs/1907.06484v1)
+
 ## 12-07-2019
 
 main_author|publish_date|title

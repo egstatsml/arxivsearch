@@ -1,5 +1,25 @@
 # bnn
 Click on title for link to paper
+## 19-07-2019
+
+main_author|publish_date|title
+---|---|---
+Luca Martino|18-07-2019|[Probabilistic Regressor Chains with Monte Carlo Methods](http://arxiv.org/abs/1907.08087v1)
+Tom Rainforth|18-07-2019|[Amortized Monte Carlo Integration](http://arxiv.org/abs/1907.08082v1)
+Guang Lin|17-07-2019|[Robust data-driven discovery of governing physical laws using a new   subsampling-based sparse Bayesian method to tackle four challenges (large   noise, outliers, data integration, and extrapolation)](http://arxiv.org/abs/1907.07788v1)
+Artem Timoshenko|17-07-2019|[Design and Evaluation of Product Aesthetics: A Human-Machine Hybrid   Approach](http://arxiv.org/abs/1907.07786v1)
+Andrew Gordon Wilson|17-07-2019|[Subspace Inference for Bayesian Deep Learning](http://arxiv.org/abs/1907.07504v1)
+Andreas Krause|16-07-2019|[Structured Variational Inference in Unstable Gaussian Process State   Space Models](http://arxiv.org/abs/1907.07035v1)
+Paul Fearnhead|16-07-2019|[Stochastic gradient Markov chain Monte Carlo](http://arxiv.org/abs/1907.06986v1)
+Davide Scaramuzza|16-07-2019|[A General Framework for Uncertainty Estimation in Deep Learning](http://arxiv.org/abs/1907.06890v2)
+Jean Barbier|15-07-2019|[Concentration of the matrix-valued minimum mean-square error in optimal   Bayesian inference](http://arxiv.org/abs/1907.07103v1)
+Shinichi Shirakawa|15-07-2019|[Controlling Model Complexity in Probabilistic Model-Based Dynamic   Optimization of Neural Network Structures](http://arxiv.org/abs/1907.06341v1)
+Vikash K. Mansinghka|14-07-2019|[Bayesian Synthesis of Probabilistic Programs for Automatic Data Modeling](http://arxiv.org/abs/1907.06249v1)
+Xin Wang|14-07-2019|[Modeling the Uncertainty in Electronic Health Records: a Bayesian Deep   Learning Approach](http://arxiv.org/abs/1907.06162v1)
+Sandip Sinha|12-07-2019|[Efficient average-case population recovery in the presence of insertions   and deletions](http://arxiv.org/abs/1907.05964v1)
+Songkuk Kim|12-07-2019|[Differentiable Bayesian Neural Network Inference for Data Streams](http://arxiv.org/abs/1907.05911v1)
+Pietro Lio'|12-07-2019|[Towards Probabilistic Generative Models Harnessing Graph Neural Networks   for Disease-Gene Prediction](http://arxiv.org/abs/1907.05628v1)
+
 ## 12-07-2019
 
 main_author|publish_date|title

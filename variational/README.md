@@ -1,5 +1,15 @@
 # variational
 Click on title for link to paper
+## 19-07-2019
+
+main_author|publish_date|title
+---|---|---
+Naren Ramakrishnan|17-07-2019|[Mitigating Uncertainty in Document Classification](http://arxiv.org/abs/1907.07590v1)
+Andrew Gordon Wilson|17-07-2019|[Subspace Inference for Bayesian Deep Learning](http://arxiv.org/abs/1907.07504v1)
+Paul Fearnhead|16-07-2019|[Stochastic gradient Markov chain Monte Carlo](http://arxiv.org/abs/1907.06986v1)
+Larry Milstein|15-07-2019|[A Neural Network Detector for Spectrum Sensing under Uncertainties](http://arxiv.org/abs/1907.07326v1)
+Shinichi Shirakawa|15-07-2019|[Controlling Model Complexity in Probabilistic Model-Based Dynamic   Optimization of Neural Network Structures](http://arxiv.org/abs/1907.06341v1)
+
 ## 12-07-2019
 
 main_author|publish_date|title

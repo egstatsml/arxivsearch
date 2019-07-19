@@ -1,5 +1,24 @@
 # fairness
 Click on title for link to paper
+## 19-07-2019
+
+main_author|publish_date|title
+---|---|---
+Xian-He Sun|17-07-2019|[CADS: Core-Aware Dynamic Scheduler for Multicore Memory Controllers](http://arxiv.org/abs/1907.07776v1)
+Eirini Ntoutsi|16-07-2019|[FAHT: An Adaptive Fairness-aware Decision Tree Classifier](http://arxiv.org/abs/1907.07237v1)
+Hemant Purohit|16-07-2019|[Modeling Human Annotation Errors to Design Bias-Aware Systems for Social   Stream Processing](http://arxiv.org/abs/1907.07228v1)
+Eirini Ntoutsi|16-07-2019|[Fairness-enhancing interventions in stream classification](http://arxiv.org/abs/1907.07223v1)
+James D. Wilson|15-07-2019|[A Stratification Approach to Partial Dependence for Codependent   Variables](http://arxiv.org/abs/1907.06698v1)
+William S. Isaac|15-07-2019|[A Causal Bayesian Networks Viewpoint on Fairness](http://arxiv.org/abs/1907.06430v1)
+Péter Mihajlik|15-07-2019|[Investigation on N-gram Approximated RNNLMs for Recognition of   Morphologically Rich Speech](http://arxiv.org/abs/1907.06407v1)
+Ke Shen|15-07-2019|[Ranking sentences from product description & bullets for better search](http://arxiv.org/abs/1907.06330v1)
+Nigam H. Shah|14-07-2019|[Counterfactual Reasoning for Fair Clinical Risk Prediction](http://arxiv.org/abs/1907.06260v1)
+Tri Ngo Dinh|14-07-2019|[State Estimation in Visual Inertial Autonomous Helicopter Landing Using   Optimisation on Manifold](http://arxiv.org/abs/1907.06247v1)
+Themos~Stafylakis|13-07-2019|[Speaker Recognition with Random Digit Strings Using Uncertainty   Normalized HMM-based i-vectors](http://arxiv.org/abs/1907.06111v1)
+Roberto Furfaro|13-07-2019|[Seeker based Adaptive Guidance via Reinforcement Meta-Learning Applied   to Asteroid Close Proximity Operations](http://arxiv.org/abs/1907.06098v1)
+Chao Xu|13-07-2019|[Bringing Giant Neural Networks Down to Earth with Unlabeled Data](http://arxiv.org/abs/1907.06065v1)
+Julia Vendemiatti|13-07-2019|[The Futility of Bias-Free Learning and Search](http://arxiv.org/abs/1907.06010v1)
+
 ## 12-07-2019
 
 main_author|publish_date|title

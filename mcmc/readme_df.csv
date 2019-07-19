@@ -1,5 +1,11 @@
 main_author|publish_date|title
 ---|---|---
+Naren Ramakrishnan|17-07-2019|[Mitigating Uncertainty in Document Classification](http://arxiv.org/abs/1907.07590v1)
+Andrew Gordon Wilson|17-07-2019|[Subspace Inference for Bayesian Deep Learning](http://arxiv.org/abs/1907.07504v1)
+Paul Fearnhead|16-07-2019|[Stochastic gradient Markov chain Monte Carlo](http://arxiv.org/abs/1907.06986v1)
+Larry Milstein|15-07-2019|[A Neural Network Detector for Spectrum Sensing under Uncertainties](http://arxiv.org/abs/1907.07326v1)
+Shinichi Shirakawa|15-07-2019|[Controlling Model Complexity in Probabilistic Model-Based Dynamic   Optimization of Neural Network Structures](http://arxiv.org/abs/1907.06341v1)
+---|---|---
 Fabio Ramos|11-07-2019|[Kernel Trajectory Maps for Multi-Modal Probabilistic Motion Prediction](http://arxiv.org/abs/1907.05127v1)
 Rémi Tachet des Combes|11-07-2019|[Safe Policy Improvement with Soft Baseline Bootstrapping](http://arxiv.org/abs/1907.05079v1)
 Luis Nunes Vicente|10-07-2019|[The stochastic multi-gradient algorithm for multi-objective optimization   and its application to supervised machine learning](http://arxiv.org/abs/1907.04472v1)
