@@ -1,5 +1,25 @@
 # fairness
 Click on title for link to paper
+## 26-07-2019
+
+main_author|publish_date|title
+---|---|---
+Sanjiv Kumar|24-07-2019|[Sampled Softmax with Random Fourier Features](http://arxiv.org/abs/1907.10747v1)
+Yejin Choi|24-07-2019|[WINOGRANDE: An Adversarial Winograd Schema Challenge at Scale](http://arxiv.org/abs/1907.10641v1)
+Marzia A. Cremona|24-07-2019|[On the bias of H-scores for comparing biclusters, and how to correct it](http://arxiv.org/abs/1907.11142v1)
+Alexandre H. Thiery|24-07-2019|[On the relationship between variational inference and adaptive   importance sampling](http://arxiv.org/abs/1907.10477v1)
+Yusuke Kawamoto|24-07-2019|[Towards Logical Specification of Statistical Machine Learning](http://arxiv.org/abs/1907.10327v1)
+Paul Weng|24-07-2019|[Fairness in Reinforcement Learning](http://arxiv.org/abs/1907.10323v1)
+Y. Narahari|23-07-2019|[Achieving Fairness in the Stochastic Multi-armed Bandit Problem](http://arxiv.org/abs/1907.10516v1)
+Miroslav Dudík|22-07-2019|[Doubly robust off-policy evaluation with shrinkage](http://arxiv.org/abs/1907.09623v1)
+Joydeep Ghosh|22-07-2019|[Towards Realistic Individual Recourse and Actionable Explanations in   Black-Box Decision Making Systems](http://arxiv.org/abs/1907.09615v1)
+Pavan Turaga|22-07-2019|[Product of Orthogonal Spheres Parameterization for Disentangled   Representation Learning](http://arxiv.org/abs/1907.09554v1)
+Dravyansh Sharma|22-07-2019|[Online optimization of piecewise Lipschitz functions in changing   environments](http://arxiv.org/abs/1907.09137v1)
+Melvin Wevers|21-07-2019|[Using Word Embeddings to Examine Gender Bias in Dutch Newspapers,   1950-1990](http://arxiv.org/abs/1907.08922v1)
+David Pollard|19-07-2019|[Fair quantile regression](http://arxiv.org/abs/1907.08646v1)
+Lorenzo Torresani|19-07-2019|[Only Time Can Tell: Discovering Temporal Data for Temporal Modeling](http://arxiv.org/abs/1907.08340v1)
+Tao Rong|18-07-2019|[Combinatorial Keyword Recommendations for Sponsored Search with Deep   Reinforcement Learning](http://arxiv.org/abs/1907.08686v1)
+
 ## 19-07-2019
 
 main_author|publish_date|title

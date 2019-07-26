@@ -1,5 +1,13 @@
 # interpretable
 Click on title for link to paper
+## 26-07-2019
+
+main_author|publish_date|title
+---|---|---
+Markus Zanker|25-07-2019|[Personalised novel and explainable matrix factorisation](http://arxiv.org/abs/1907.11000v1)
+Alexander M. Rush|24-07-2019|[Visual Interaction with Deep Learning Models through Collaborative   Semantic Inference](http://arxiv.org/abs/1907.10739v1)
+Liu Ren|23-07-2019|[Interpretable and Steerable Sequence Learning via Prototypes](http://arxiv.org/abs/1907.09728v1)
+
 ## 19-07-2019
 
 main_author|publish_date|title

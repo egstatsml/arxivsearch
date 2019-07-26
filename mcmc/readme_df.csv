@@ -1,5 +1,10 @@
 main_author|publish_date|title
 ---|---|---
+Christopher Drovandi|25-07-2019|[BSL: An R Package for Efficient Parameter Estimation for   Simulation-Based Models via Bayesian Synthetic Likelihood](http://arxiv.org/abs/1907.10940v1)
+Hongseok Yang|20-07-2019|[Towards Verified Stochastic Variational Inference for Probabilistic   Programs](http://arxiv.org/abs/1907.08827v1)
+Jiannong Cao|19-07-2019|[D-GAN: Deep Generative Adversarial Nets for Spatio-Temporal Prediction](http://arxiv.org/abs/1907.08556v2)
+Harrison Nguyen|19-07-2019|[When can we improve on sample average approximation for stochastic   optimization?](http://arxiv.org/abs/1907.08334v1)
+---|---|---
 Naren Ramakrishnan|17-07-2019|[Mitigating Uncertainty in Document Classification](http://arxiv.org/abs/1907.07590v1)
 Andrew Gordon Wilson|17-07-2019|[Subspace Inference for Bayesian Deep Learning](http://arxiv.org/abs/1907.07504v1)
 Paul Fearnhead|16-07-2019|[Stochastic gradient Markov chain Monte Carlo](http://arxiv.org/abs/1907.06986v1)

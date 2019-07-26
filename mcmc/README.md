@@ -1,5 +1,14 @@
 # mcmc
 Click on title for link to paper
+## 26-07-2019
+
+main_author|publish_date|title
+---|---|---
+Christopher Drovandi|25-07-2019|[BSL: An R Package for Efficient Parameter Estimation for   Simulation-Based Models via Bayesian Synthetic Likelihood](http://arxiv.org/abs/1907.10940v1)
+Hongseok Yang|20-07-2019|[Towards Verified Stochastic Variational Inference for Probabilistic   Programs](http://arxiv.org/abs/1907.08827v1)
+Jiannong Cao|19-07-2019|[D-GAN: Deep Generative Adversarial Nets for Spatio-Temporal Prediction](http://arxiv.org/abs/1907.08556v2)
+Harrison Nguyen|19-07-2019|[When can we improve on sample average approximation for stochastic   optimization?](http://arxiv.org/abs/1907.08334v1)
+
 ## 19-07-2019
 
 main_author|publish_date|title

@@ -1,5 +1,23 @@
 # bnn
 Click on title for link to paper
+## 26-07-2019
+
+main_author|publish_date|title
+---|---|---
+Mattias P. Heinrich|25-07-2019|[Closing the Gap between Deep and Conventional Image Registration using   Probabilistic Dense Displacement Networks](http://arxiv.org/abs/1907.10931v1)
+Kari Torkkola|24-07-2019|[Deep Generative Quantile-Copula Models for Probabilistic Forecasting](http://arxiv.org/abs/1907.10697v1)
+Beomhee Lee|23-07-2019|[Not Only Look But Observe: Variational Observation Model of Scene-Level   3D Multi-Object Understanding for Probabilistic SLAM](http://arxiv.org/abs/1907.09760v1)
+Claude Barras|23-07-2019|[LSTM based Similarity Measurement with Spectral Clustering for Speaker   Diarization](http://arxiv.org/abs/1907.10393v1)
+Béatrice Cochener|22-07-2019|[Automatic detection of multiple pathologies in fundus photographs using   spin-off learning](http://arxiv.org/abs/1907.09449v2)
+Bjoern H. Menze|22-07-2019|[Probabilistic Point Cloud Reconstructions for Vertebral Shape Analysis](http://arxiv.org/abs/1907.09254v1)
+Assad A Oberai|22-07-2019|[Bayesian Inference with Generative Adversarial Network Priors](http://arxiv.org/abs/1907.09987v1)
+Stephen Odaibo|21-07-2019|[Tutorial: Deriving the Standard Variational Autoencoder (VAE) Loss   Function](http://arxiv.org/abs/1907.08956v1)
+Yoshinobu Sato|21-07-2019|[Automated Muscle Segmentation from Clinical CT using Bayesian U-Net for   Personalization of a Musculoskeletal Model](http://arxiv.org/abs/1907.08915v1)
+Hongseok Yang|20-07-2019|[Towards Verified Stochastic Variational Inference for Probabilistic   Programs](http://arxiv.org/abs/1907.08827v1)
+Charles E. Lawrence|20-07-2019|[Dual Proxy Gaussian Process Stack: Integrating Benthic   $δ^{18}{\rm{O}}$ and Radiocarbon Proxies for Inferring Ages on Ocean   Sediment Cores](http://arxiv.org/abs/1907.08738v1)
+Mohammed Riyaz Ahmed|19-07-2019|[Artificial Neural Network Algorithm based Skyrmion Material Design of   Chiral Crystals](http://arxiv.org/abs/1907.09314v1)
+Hiroyuki Toda|19-07-2019|[Spatially Aggregated Gaussian Processes with Multivariate Areal Outputs](http://arxiv.org/abs/1907.08350v1)
+
 ## 19-07-2019
 
 main_author|publish_date|title
