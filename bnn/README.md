@@ -1,5 +1,22 @@
 # bnn
 Click on title for link to paper
+## 02-08-2019
+
+main_author|publish_date|title
+---|---|---
+Anastasios Panagiotelis|01-08-2019|[Updating Variational Bayes: Fast sequential posterior inference](http://arxiv.org/abs/1908.00225v1)
+Hervé Delingette|31-07-2019|[Probabilistic Motion Modeling from Medical Image Sequences: Application   to Cardiac Cine-MRI](http://arxiv.org/abs/1907.13524v1)
+Daniel C. Alexander|31-07-2019|[Uncertainty Quantification in Deep Learning for Safer Neuroimage   Enhancement](http://arxiv.org/abs/1907.13418v1)
+Manqing Dong|31-07-2019|[Deep Neural Network Hyperparameter Optimization with Orthogonal Array   Tuning](http://arxiv.org/abs/1907.13359v1)
+Rosalind Picard|30-07-2019|[Pain Detection with fNIRS-Measured Brain Signals: A Personalized Machine   Learning Approach Using the Wavelet Transform and Bayesian Hierarchical   Modeling with Dirichlet Process Priors](http://arxiv.org/abs/1907.12830v1)
+Zhi Ding|29-07-2019|[Energy-Efficient Processing and Robust Wireless Cooperative Transmission   for Edge Inference](http://arxiv.org/abs/1907.12475v1)
+Phan Trung Hai Nguyen|29-07-2019|[On the Limitations of the Univariate Marginal Distribution Algorithm to   Deception and Where Bivariate EDAs might help](http://arxiv.org/abs/1907.12438v1)
+Hongsheng Li|28-07-2019|[FocusNet: Imbalanced Large and Small Organ Segmentation with an   End-to-End Deep Neural Network for Head and Neck CT Images](http://arxiv.org/abs/1907.12056v1)
+Xavier Holt|28-07-2019|[Probabilistic Models of Relational Implication](http://arxiv.org/abs/1907.12048v1)
+Mitko Veta|27-07-2019|[Deep learning-based prediction of kinetic parameters from myocardial   perfusion MRI](http://arxiv.org/abs/1907.11899v1)
+David Barber|27-07-2019|[Variational f-divergence Minimization](http://arxiv.org/abs/1907.11891v1)
+Gustavo Carneiro|27-07-2019|[Uncertainty in Model-Agnostic Meta-Learning using Variational Inference](http://arxiv.org/abs/1907.11864v1)
+
 ## 26-07-2019
 
 main_author|publish_date|title

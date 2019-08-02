@@ -1,5 +1,32 @@
 # fairness
 Click on title for link to paper
+## 02-08-2019
+
+main_author|publish_date|title
+---|---|---
+Miyachi Taizo|01-08-2019|[Extract and Merge: Merging extracted humans from different images   utilizing Mask R-CNN](http://arxiv.org/abs/1908.00398v1)
+Waleed A. Yousef|01-08-2019|[Estimating the Standard Error of Cross-Validation-Based Estimators of   Classification Rules Performance](http://arxiv.org/abs/1908.00325v1)
+Zili Wang|01-08-2019|[MSnet: A BERT-based Network for Gendered Pronoun Resolution](http://arxiv.org/abs/1908.00308v1)
+Yu-Ru Lin|01-08-2019|[FairSight: Visual Analytics for Fairness in Decision Making](http://arxiv.org/abs/1908.00176v1)
+Subramanian Ramamoorthy|31-07-2019|[Disentangled Relational Representations for Explaining and Learning from   Demonstration](http://arxiv.org/abs/1907.13627v1)
+Mario Lucic|31-07-2019|[On Mutual Information Maximization for Representation Learning](http://arxiv.org/abs/1907.13625v1)
+Saravanan Thirumuruganathan|31-07-2019|[Are Outlier Detection Methods Resilient to Sampling?](http://arxiv.org/abs/1907.13276v1)
+Jyrki Alakuijala|30-07-2019|[Temporal coding in spiking neural networks with alpha synaptic function](http://arxiv.org/abs/1907.13223v1)
+Volker Fischer|30-07-2019|[Grid Saliency for Context Explanations of Semantic Segmentation](http://arxiv.org/abs/1907.13054v1)
+Allan Hanbury|30-07-2019|[Deep Learning architectures for generalized immunofluorescence based   nuclear image segmentation](http://arxiv.org/abs/1907.12975v1)
+Francis Brochu|30-07-2019|[Increasing Shape Bias in ImageNet-Trained Networks Using Transfer   Learning and Domain-Adversarial Methods](http://arxiv.org/abs/1907.12892v1)
+Marleen de Bruijne|29-07-2019|[Automated Lesion Detection by Regressing Intensity-Based Distance with a   Neural Network](http://arxiv.org/abs/1907.12452v1)
+Clément Chastagnol|29-07-2019|[Learning Invariant Representations for Sentiment Analysis: The Missing   Material is Datasets](http://arxiv.org/abs/1907.12305v1)
+Anton van den Hengel|29-07-2019|[V-PROM: A Benchmark for Visual Reasoning Using Visual Progressive   Matrices](http://arxiv.org/abs/1907.12271v1)
+Silvia Chiappa|28-07-2019|[Wasserstein Fair Classification](http://arxiv.org/abs/1907.12059v1)
+Sanjay Shakkottai|27-07-2019|[Blocking Bandits](http://arxiv.org/abs/1907.11975v1)
+Shan He|27-07-2019|[DynWalks: Global Topology and Recent Changes Awareness Dynamic Network   Embedding](http://arxiv.org/abs/1907.11968v1)
+Jonathan Cagan|26-07-2019|[Learning to design from humans: Imitating human designers through deep   learning](http://arxiv.org/abs/1907.11813v1)
+Rachel Ward|26-07-2019|[Bias of Homotopic Gradient Descent for the Hinge Loss](http://arxiv.org/abs/1907.11746v1)
+York Sure-Vetter|26-07-2019|[Making Neural Networks FAIR](http://arxiv.org/abs/1907.11569v1)
+Christin Seifert|26-07-2019|[How model accuracy and explanation fidelity influence user trust](http://arxiv.org/abs/1907.12652v1)
+Chuancai Liu|26-07-2019|[Improving Generalization via Attribute Selection on Out-of-the-box Data](http://arxiv.org/abs/1907.11397v1)
+
 ## 26-07-2019
 
 main_author|publish_date|title

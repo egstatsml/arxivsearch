@@ -1,5 +1,14 @@
 # interpretable
 Click on title for link to paper
+## 02-08-2019
+
+main_author|publish_date|title
+---|---|---
+Andre C. P. L. F. de Carvalho|31-07-2019|[Local Interpretation Methods to Machine Learning Using the Domain of the   Feature Space](http://arxiv.org/abs/1907.13525v1)
+Mennatallah El-Assady|29-07-2019|[explAIner: A Visual Analytics Framework for Interactive and Explainable   Machine Learning](http://arxiv.org/abs/1908.00087v1)
+Dong Xuan|28-07-2019|[An Empirical Study on Leveraging Scene Graphs for Visual Question   Answering](http://arxiv.org/abs/1907.12133v1)
+Christin Seifert|26-07-2019|[How model accuracy and explanation fidelity influence user trust](http://arxiv.org/abs/1907.12652v1)
+
 ## 26-07-2019
 
 main_author|publish_date|title

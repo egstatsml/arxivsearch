@@ -1,5 +1,14 @@
 # mcmc
 Click on title for link to paper
+## 02-08-2019
+
+main_author|publish_date|title
+---|---|---
+Christine A. Shoemaker|30-07-2019|[pySOT and POAP: An event-driven asynchronous framework for surrogate   optimization](http://arxiv.org/abs/1908.00420v1)
+Jiebo Luo|30-07-2019|[Weakly Supervised Body Part Parsing with Pose based Part Priors](http://arxiv.org/abs/1907.13051v1)
+Reinhard Koch|30-07-2019|[2D and 3D Segmentation of uncertain local collagen fiber orientations in   SHG microscopy](http://arxiv.org/abs/1907.12868v1)
+Michael Behrisch|29-07-2019|[FDive: Learning Relevance Models using Pattern-based Similarity Measures](http://arxiv.org/abs/1907.12489v2)
+
 ## 26-07-2019
 
 main_author|publish_date|title
