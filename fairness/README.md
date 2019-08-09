@@ -1,5 +1,26 @@
 # fairness
 Click on title for link to paper
+## 09-08-2019
+
+main_author|publish_date|title
+---|---|---
+Shir Meir Lador|07-08-2019|[Paired-Consistency: An Example-Based Model-Agnostic Approach to Fairness   Regularization in Machine Learning](http://arxiv.org/abs/1908.02641v1)
+Lester Mackey|06-08-2019|[Debiasing Linear Prediction](http://arxiv.org/abs/1908.02341v1)
+Beth Pineles|06-08-2019|[Modelling Segmented Cardiotocography Time-Series Signals Using   One-Dimensional Convolutional Neural Networks for the Early Detection of   Abnormal Birth Outcomes](http://arxiv.org/abs/1908.02338v1)
+Christopher Pal|06-08-2019|[Promoting Coordination through Policy Regularization in Multi-Agent   Reinforcement Learning](http://arxiv.org/abs/1908.02269v1)
+Rainer Lienhart|06-08-2019|[Addressing Data Bias Problems for Chest X-ray Image Report Generation](http://arxiv.org/abs/1908.02123v1)
+Kyuwoong Hwang|06-08-2019|[An End-to-End Text-independent Speaker Verification Framework with a   Keyword Adversarial Network](http://arxiv.org/abs/1908.02612v1)
+Shugong Xu|06-08-2019|[Triplet Based Embedding Distance and Similarity Learning for   Text-independent Speaker Verification](http://arxiv.org/abs/1908.02283v1)
+Tanya Berger-Wolf|05-08-2019|[Animal Wildlife Population Estimation Using Social Media Images   Collections](http://arxiv.org/abs/1908.01875v2)
+B. V. K Vijaya Kumar|05-08-2019|[Attention Control with Metric Learning Alignment for Image Set-based   Recognition](http://arxiv.org/abs/1908.01872v1)
+Cynthia Rudin|05-08-2019|[A study in Rashomon curves and volumes: A new perspective on   generalization and model simplicity in machine learning](http://arxiv.org/abs/1908.01755v1)
+Jason Zezhong Xiao|05-08-2019|[Discovery of Bias and Strategic Behavior in Crowdsourced Performance   Assessment](http://arxiv.org/abs/1908.01718v1)
+Rahil Garnav|05-08-2019|[Inference of visual field test performance from OCT volumes using deep   learning](http://arxiv.org/abs/1908.01428v1)
+Peter X. -K. Song|04-08-2019|[Method of Contraction-Expansion (MOCE) for Simultaneous Inference in   Linear Models](http://arxiv.org/abs/1908.01253v1)
+Ankur Kapoor|02-08-2019|[Adaloss: Adaptive Loss Function for Landmark Localization](http://arxiv.org/abs/1908.01070v1)
+Mathukumalli Vidyasagar|02-08-2019|[Deterministic Completion of Rectangular Matrices Using Asymmetric   Ramanujan Graphs](http://arxiv.org/abs/1908.00963v1)
+Mykola Pechenizkiy|02-08-2019|[Bias Disparity in Collaborative Recommendation: Algorithmic Evaluation   and Comparison](http://arxiv.org/abs/1908.00831v1)
+
 ## 02-08-2019
 
 main_author|publish_date|title

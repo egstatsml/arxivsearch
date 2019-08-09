@@ -1,5 +1,15 @@
 # mcmc
 Click on title for link to paper
+## 09-08-2019
+
+main_author|publish_date|title
+---|---|---
+Filip Rindler|06-08-2019|[Model inference for Ordinary Differential Equations by parametric   polynomial kernel regression](http://arxiv.org/abs/1908.02105v1)
+Ehecatl Antonio del Rio Chanona|05-08-2019|[Stochastic data-driven model predictive control using Gaussian processes](http://arxiv.org/abs/1908.01786v1)
+Margrit Betke|04-08-2019|[Deep Neural Network for Semantic-based Text Recognition in Images](http://arxiv.org/abs/1908.01403v1)
+Dongxiao Zhanga|03-08-2019|[Ensemble Neural Networks (ENN): A gradient-free stochastic method](http://arxiv.org/abs/1908.01113v1)
+Bangti Jin|01-08-2019|[Probabilistic Residual Learning for Aleatoric Uncertainty in Image   Restoration](http://arxiv.org/abs/1908.01010v1)
+
 ## 02-08-2019
 
 main_author|publish_date|title

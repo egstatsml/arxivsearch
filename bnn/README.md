@@ -1,5 +1,22 @@
 # bnn
 Click on title for link to paper
+## 09-08-2019
+
+main_author|publish_date|title
+---|---|---
+Mert R. Sabuncu|07-08-2019|[Learning Conditional Deformable Templates with Convolutional Networks](http://arxiv.org/abs/1908.02738v1)
+Radu Horaud|07-08-2019|[Audio-visual Speech Enhancement Using Conditional Variational   Auto-Encoder](http://arxiv.org/abs/1908.02590v1)
+Bernhard Kainz|07-08-2019|[Confident Head Circumference Measurement from Ultrasound with Real-time   Feedback for Sonographers](http://arxiv.org/abs/1908.02582v1)
+Leonardo Bobadilla|07-08-2019|[Strengthening the Case for a Bayesian Approach to Car-following Model   Calibration and Validation using Probabilistic Programming](http://arxiv.org/abs/1908.02427v1)
+Haoran Deng|06-08-2019|[Exploiting Channel Similarity for Accelerating Deep Convolutional Neural   Networks](http://arxiv.org/abs/1908.02620v1)
+Filip Rindler|06-08-2019|[Model inference for Ordinary Differential Equations by parametric   polynomial kernel regression](http://arxiv.org/abs/1908.02105v1)
+John H. L. Hansen|04-08-2019|[Probabilistic Permutation Invariant Training for Speech Separation](http://arxiv.org/abs/1908.01768v1)
+Dit-Yan Yeung|03-08-2019|[Knowledge Query Network: How Knowledge Interacts with Skills](http://arxiv.org/abs/1908.02146v1)
+Dongxiao Zhanga|03-08-2019|[Ensemble Neural Networks (ENN): A gradient-free stochastic method](http://arxiv.org/abs/1908.01113v1)
+David M. Blei|02-08-2019|[Population Predictive Checks](http://arxiv.org/abs/1908.00882v1)
+Tobias Ortmaier|02-08-2019|"[Uncertainty Quantification in Computer-Aided Diagnosis: Make Your Model   say ""I don't know"" for Ambiguous Cases](http://arxiv.org/abs/1908.00792v1)"
+Badih Ghattas|02-08-2019|[Inferring linear and nonlinear Interaction networks using neighborhood   support vector machines](http://arxiv.org/abs/1908.00762v1)
+
 ## 02-08-2019
 
 main_author|publish_date|title
