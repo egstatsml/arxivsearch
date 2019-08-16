@@ -1,5 +1,28 @@
 # bnn
 Click on title for link to paper
+## 16-08-2019
+
+main_author|publish_date|title
+---|---|---
+Ali Taylan Cemgil|15-08-2019|[A Bayesian Choice Model for Eliminating Feedback Loops](http://arxiv.org/abs/1908.05640v1)
+Chungen Xu|14-08-2019|[Interpretable Encrypted Searchable Neural Networks](http://arxiv.org/abs/1908.04998v1)
+Heni Ben Amor|14-08-2019|[Probabilistic Multimodal Modeling for Human-Robot Interaction Tasks](http://arxiv.org/abs/1908.04955v1)
+Michael Hobson|13-08-2019|[Bayesian automated posterior repartitioning for nested sampling](http://arxiv.org/abs/1908.04655v1)
+Cheng Zhang|13-08-2019|[Icebreaker: Element-wise Active Information Acquisition with Bayesian   Deep Latent Gaussian Model](http://arxiv.org/abs/1908.04537v2)
+Sung Ju Hwang|12-08-2019|[Adversarial Neural Pruning](http://arxiv.org/abs/1908.04355v1)
+Elmar Rueckert|11-08-2019|[Experience Reuse with Probabilistic Movement Primitives](http://arxiv.org/abs/1908.03936v1)
+Andrew Markham|11-08-2019|[DynaNet: Neural Kalman Dynamical Model for Motion Estimation and   Prediction](http://arxiv.org/abs/1908.03918v1)
+Saumya Shah|11-08-2019|[Supervised Negative Binomial Classifier for Probabilistic Record Linkage](http://arxiv.org/abs/1908.03830v1)
+Yihong Gong|10-08-2019|[Bayesian Loss for Crowd Count Estimation with Point Supervision](http://arxiv.org/abs/1908.03684v1)
+Badr-Eddine Chérief-Abdellatif|09-08-2019|[Generalization Error Bounds for Deep Variational Inference](http://arxiv.org/abs/1908.04847v1)
+Nal Kalchbrenner|09-08-2019|[Bayesian Inference for Large Scale Image Classification](http://arxiv.org/abs/1908.03491v1)
+Antonio Salmerón|09-08-2019|[Probabilistic Models with Deep Neural Networks](http://arxiv.org/abs/1908.03442v1)
+Josh Payne|08-08-2019|[Uncheatable Machine Learning Inference](http://arxiv.org/abs/1908.03270v1)
+Kristian Kersting|08-08-2019|[Random Sum-Product Forests with Residual Links](http://arxiv.org/abs/1908.03250v1)
+Eleanor Rieffel|08-08-2019|[Optimizing quantum heuristics with meta-learning](http://arxiv.org/abs/1908.03185v1)
+Duy Nguyen|08-08-2019|[Variational Bayes on Manifolds](http://arxiv.org/abs/1908.03097v1)
+Aleksei Tiulpin|08-08-2019|[Bayesian Feature Pyramid Networks for Automatic Multi-Label Segmentation   of Chest X-rays and Assessment of Cardio-Thoratic Ratio](http://arxiv.org/abs/1908.02924v1)
+
 ## 09-08-2019
 
 main_author|publish_date|title

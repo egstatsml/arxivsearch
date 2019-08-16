@@ -1,5 +1,15 @@
 # mcmc
 Click on title for link to paper
+## 16-08-2019
+
+main_author|publish_date|title
+---|---|---
+Cheng Zhang|13-08-2019|[Icebreaker: Element-wise Active Information Acquisition with Bayesian   Deep Latent Gaussian Model](http://arxiv.org/abs/1908.04537v2)
+Badr-Eddine Chérief-Abdellatif|09-08-2019|[Generalization Error Bounds for Deep Variational Inference](http://arxiv.org/abs/1908.04847v1)
+Nal Kalchbrenner|09-08-2019|[Bayesian Inference for Large Scale Image Classification](http://arxiv.org/abs/1908.03491v1)
+Antonio Salmerón|09-08-2019|[Probabilistic Models with Deep Neural Networks](http://arxiv.org/abs/1908.03442v1)
+Jianxin Wu|09-08-2019|[Repetitive Reprediction Deep Decipher for Semi-Supervised Learning](http://arxiv.org/abs/1908.04345v1)
+
 ## 09-08-2019
 
 main_author|publish_date|title

@@ -1,5 +1,35 @@
 # fairness
 Click on title for link to paper
+## 16-08-2019
+
+main_author|publish_date|title
+---|---|---
+Ali Taylan Cemgil|15-08-2019|[A Bayesian Choice Model for Eliminating Feedback Loops](http://arxiv.org/abs/1908.05640v1)
+Ivor Tsang|15-08-2019|[Domain-adversarial Network Alignment](http://arxiv.org/abs/1908.05429v1)
+Emmanuel J. Candès|15-08-2019|[With Malice Towards None: Assessing Uncertainty via Equalized Coverage](http://arxiv.org/abs/1908.05428v1)
+Jie Tang|15-08-2019|[Towards Knowledge-Based Recommender Dialog System](http://arxiv.org/abs/1908.05391v1)
+Aluizio F. R. Araújo|15-08-2019|[MOEA/D with Uniformly Randomly Adaptive Weights](http://arxiv.org/abs/1908.05383v1)
+Zhuoran Yang|14-08-2019|[Robust One-Bit Recovery via ReLU Generative Networks: Improved   Statistical Rates and Global Landscape Analysis](http://arxiv.org/abs/1908.05368v1)
+Hieu Pham|14-08-2019|[Optimizing Ensemble Weights and Hyperparameters of Machine Learning   Models for Regression Problems](http://arxiv.org/abs/1908.05287v1)
+Xingqun Jiang|14-08-2019|[A Tour of Convolutional Networks Guided by Linear Interpreters](http://arxiv.org/abs/1908.05168v1)
+Gustavo Carneiro|14-08-2019|[Generalised Zero-Shot Learning with Domain Classification in a Joint   Semantic and Visual Space](http://arxiv.org/abs/1908.04930v1)
+Hongli Xu|14-08-2019|[Aggregating Votes with Local Differential Privacy: Usefulness, Soundness   vs. Indistinguishability](http://arxiv.org/abs/1908.04920v1)
+Jungseock Joo|14-08-2019|[FairFace: Face Attribute Dataset for Balanced Race, Gender, and Age](http://arxiv.org/abs/1908.04913v1)
+Xia Hu|13-08-2019|[Learning Credible Deep Neural Networks with Rationale Regularization](http://arxiv.org/abs/1908.05601v1)
+Philip S. Yu|13-08-2019|[Competitive Multi-Agent Deep Reinforcement Learning with Counterfactual   Thinking](http://arxiv.org/abs/1908.04573v1)
+Suraj|12-08-2019|[Automated retinal vessel segmentation based on morphological   preprocessing and 2D-Gabor wavelets](http://arxiv.org/abs/1908.04123v1)
+Shugong Xu|12-08-2019|[A Study on Angular Based Embedding Learning for Text-independent Speaker   Verification](http://arxiv.org/abs/1908.03990v1)
+Jinghua Qu|10-08-2019|[Natural-Logarithm-Rectified Activation Function in Convolutional Neural   Networks](http://arxiv.org/abs/1908.03682v1)
+Badr-Eddine Chérief-Abdellatif|09-08-2019|[Generalization Error Bounds for Deep Variational Inference](http://arxiv.org/abs/1908.04847v1)
+Nal Kalchbrenner|09-08-2019|[Bayesian Inference for Large Scale Image Classification](http://arxiv.org/abs/1908.03491v1)
+Sanja Fidler|09-08-2019|[Video Face Clustering with Unknown Number of Clusters](http://arxiv.org/abs/1908.03381v1)
+Byron Boots|08-08-2019|[Trajectory-wise Control Variates for Variance Reduction in Policy   Gradient Methods](http://arxiv.org/abs/1908.03263v1)
+Ananda Theertha Suresh|08-08-2019|[Optimal multiclass overfitting by sequence reconstruction from Hamming   queries](http://arxiv.org/abs/1908.03156v1)
+Ari Ercole|08-08-2019|[DeepClean -- self-supervised artefact rejection for intensive care   waveform data using generative deep learning](http://arxiv.org/abs/1908.03129v1)
+Nojun Kwak|08-08-2019|[ExtremeC3Net: Extreme Lightweight Portrait Segmentation Networks using   Advanced C3-modules](http://arxiv.org/abs/1908.03093v1)
+Babette Dellen|08-08-2019|[Feature selection of neural networks is skewed towards the less abstract   cue](http://arxiv.org/abs/1908.03000v1)
+Ryan Wright|08-08-2019|[Graph Node Embeddings using Domain-Aware Biased Random Walks](http://arxiv.org/abs/1908.02947v1)
+
 ## 09-08-2019
 
 main_author|publish_date|title
