@@ -1,5 +1,27 @@
 # bnn
 Click on title for link to paper
+## 23-08-2019
+
+main_author|publish_date|title
+---|---|---
+Shirley Ho|21-08-2019|[Modeling the Gaia Color-Magnitude Diagram with Bayesian Neural Flows to   Constrain Distance Estimates](http://arxiv.org/abs/1908.08045v1)
+Teemu Roos|21-08-2019|[Minimum Description Length Revisited](http://arxiv.org/abs/1908.08484v1)
+Suryakanth V Gangashetty|20-08-2019|[Learning document embeddings along with their uncertainties](http://arxiv.org/abs/1908.07599v1)
+Edmond Boyer|20-08-2019|[Probabilistic Reconstruction Networks for 3D Shape Inference from a   Single Image](http://arxiv.org/abs/1908.07475v1)
+Yan Yan|20-08-2019|[Hierarchical Bayesian Personalized Recommendation: A Case Study and   Beyond](http://arxiv.org/abs/1908.07371v1)
+Frédéric Jurie|20-08-2019|[n-MeRCI: A new Metric to Evaluate the Correlation Between Predictive   Uncertainty and True Error](http://arxiv.org/abs/1908.07253v1)
+Moncef Gabbouj|19-08-2019|[Architecture Search by Estimation of Network Structure Distributions](http://arxiv.org/abs/1908.06886v1)
+Csaba Szepesvari|19-08-2019|[PAC-Bayes with Backprop](http://arxiv.org/abs/1908.07380v2)
+Jakob Verbeek|19-08-2019|[Adaptative Inference Cost With Convolutional Neural Mixture Models](http://arxiv.org/abs/1908.06694v1)
+Frank Hutter|19-08-2019|[Towards Assessing the Impact of Bayesian Optimization's Own   Hyperparameters](http://arxiv.org/abs/1908.06674v1)
+Kazuyoshi Yoshii|18-08-2019|[Music Transcription Based on Bayesian Piece-Specific Score Models   Capturing Repetitions](http://arxiv.org/abs/1908.06969v1)
+Ron Weikamp|17-08-2019|[Prune Sampling: a MCMC inference technique for discrete and   deterministic Bayesian networks](http://arxiv.org/abs/1908.06335v1)
+S. Sumitra|17-08-2019|[Structural Health Monitoring of Cantilever Beam, a Case Study -- Using   Bayesian Neural Network AND Deep Learning](http://arxiv.org/abs/1908.06326v1)
+Rongrong Ji|17-08-2019|[Bayesian Optimized 1-Bit CNNs](http://arxiv.org/abs/1908.06314v1)
+Guy Emerson|17-08-2019|[Leveraging sentence similarity in natural language generation: Improving   beam search using range voting](http://arxiv.org/abs/1908.06288v1)
+Yael Balbastre|16-08-2019|[Empirical Bayesian Mixture Models for Medical Image Translation](http://arxiv.org/abs/1908.05926v1)
+Frank Hutter|16-08-2019|[BOAH: A Tool Suite for Multi-Fidelity Bayesian Optimization & Analysis   of Hyperparameters](http://arxiv.org/abs/1908.06756v1)
+
 ## 16-08-2019
 
 main_author|publish_date|title

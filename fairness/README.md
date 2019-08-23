@@ -1,5 +1,27 @@
 # fairness
 Click on title for link to paper
+## 23-08-2019
+
+main_author|publish_date|title
+---|---|---
+Gerardo Veltri|22-08-2019|[A new measure of modularity density for community detection](http://arxiv.org/abs/1908.08452v1)
+Himanshu Tyagi|22-08-2019|[Finite Precision Stochastic Optimisation -- Accounting for the Bias](http://arxiv.org/abs/1908.08200v1)
+Yeong Ming Keow|22-08-2019|[Benchmarking air-conditioning energy performance of residential rooms   based on regression and clustering techniques](http://arxiv.org/abs/1908.08176v1)
+Nahum Kiryati|21-08-2019|[Dataset Growth in Medical Image Analysis Research](http://arxiv.org/abs/1908.07765v1)
+Fei Lu|21-08-2019|[Data-driven model reduction, Wiener projections, and the Mori-Zwanzig   formalism](http://arxiv.org/abs/1908.07725v1)
+Dan Suciu|20-08-2019|[Data Management for Causal Algorithmic Fairness](http://arxiv.org/abs/1908.07924v1)
+Jens Gregor|19-08-2019|[Direct Neural Network 3D Image Reconstruction of Radon Encoded Data](http://arxiv.org/abs/1908.07516v1)
+Fei Sha|19-08-2019|[Topic Augmented Generator for Abstractive Summarization](http://arxiv.org/abs/1908.07026v1)
+Kalyan Veeramachaneni|19-08-2019|[Learning Fair Classifiers in Online Stochastic Settings](http://arxiv.org/abs/1908.07009v1)
+Eneldo Loza Mencía|19-08-2019|[Efficient Discovery of Expressive Multi-label Rules using Relaxed   Pruning](http://arxiv.org/abs/1908.06874v1)
+Runze Li|19-08-2019|[Model-free Feature Screening and FDR Control with Knockoff Features](http://arxiv.org/abs/1908.06597v2)
+Xiaolong Liang|19-08-2019|[Adversarial Defense by Suppressing High-frequency Components](http://arxiv.org/abs/1908.06566v1)
+Don Matheson|17-08-2019|[A Batched Multi-Armed Bandit Approach to News Headline Testing](http://arxiv.org/abs/1908.06256v1)
+Ravi Divvela|16-08-2019|[Accelerated learning from recommender systems using multi-armed bandit](http://arxiv.org/abs/1908.06158v1)
+Ruijun Xu|16-08-2019|[ScarletNAS: Bridging the Gap Between Scalability and Fairness in Neural   Architecture Search](http://arxiv.org/abs/1908.06022v2)
+Martin Bøgsted|16-08-2019|[Regression on imperfect class labels derived by unsupervised clustering](http://arxiv.org/abs/1908.05885v1)
+John R. Worden|16-08-2019|[Recurrent U-net: Deep learning to predict daily summertime ozone in the   United States](http://arxiv.org/abs/1908.05841v1)
+
 ## 16-08-2019
 
 main_author|publish_date|title

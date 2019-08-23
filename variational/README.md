@@ -1,5 +1,13 @@
 # variational
 Click on title for link to paper
+## 23-08-2019
+
+main_author|publish_date|title
+---|---|---
+Tao Li|22-08-2019|[Distributed Cooperative Online Estimation With Random Observation   Matrices, Communication Graphs and Time-Delays](http://arxiv.org/abs/1908.08245v1)
+Bo Liu|19-08-2019|[Transfer Learning-Based Label Proportions Method with Data of   Uncertainty](http://arxiv.org/abs/1908.06603v1)
+Jongwoo Lim|17-08-2019|[OmniMVS: End-to-End Learning for Omnidirectional Stereo Matching](http://arxiv.org/abs/1908.06257v1)
+
 ## 16-08-2019
 
 main_author|publish_date|title
