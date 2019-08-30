@@ -1,5 +1,34 @@
 # fairness
 Click on title for link to paper
+## 30-08-2019
+
+main_author|publish_date|title
+---|---|---
+Herna Viktor|29-08-2019|[Towards Ethical Content-Based Detection of Online Influence Campaigns](http://arxiv.org/abs/1908.11030v1)
+Yangfeng Ji|28-08-2019|[An Empirical Comparison on Imitation Learning and Reinforcement Learning   for Paraphrase Generation](http://arxiv.org/abs/1908.10835v1)
+Bernd Bischl|28-08-2019|[Multi-Objective Automatic Machine Learning with AutoxgboostMC](http://arxiv.org/abs/1908.10796v1)
+Haohan Wang|28-08-2019|[Unlearn Dataset Bias in Natural Language Inference by Fitting the   Residual](http://arxiv.org/abs/1908.10763v1)
+Ítalo Gomes Santana|28-08-2019|[Improving a State-of-the-Art Heuristic for the Minimum Latency Problem   with Data Mining](http://arxiv.org/abs/1908.10705v1)
+Toru Imai|28-08-2019|[On the overestimation of widely applicable Bayesian information   criterion](http://arxiv.org/abs/1908.10572v1)
+Bill Byrne|27-08-2019|[On NMT Search Errors and Model Errors: Cat Got Your Tongue?](http://arxiv.org/abs/1908.10090v1)
+Abhradeep Thakurta|27-08-2019|[Private Stochastic Convex Optimization with Optimal Rates](http://arxiv.org/abs/1908.09970v1)
+Truyen Tran|26-08-2019|[Theory and Evaluation Metrics for Learning Disentangled Representations](http://arxiv.org/abs/1908.09961v1)
+Tianbao Yang|26-08-2019|[Stochastic Optimization for Non-convex Inf-Projection Problems](http://arxiv.org/abs/1908.09941v1)
+Zhongfei Zhang|26-08-2019|[A Semantics-Guided Class Imbalance Learning Model for Zero-Shot   Classification](http://arxiv.org/abs/1908.09745v1)
+Vladimiro Sassone|26-08-2019|[A Methodology to Select Topology Generators for WANET Simulations   (Extended Version)](http://arxiv.org/abs/1908.09577v1)
+Vivek Srikumar|25-08-2019|[On Measuring and Mitigating Biased Inferences of Word Embeddings](http://arxiv.org/abs/1908.09369v1)
+Jingjing Liu|25-08-2019|[Patient Knowledge Distillation for BERT Model Compression](http://arxiv.org/abs/1908.09355v1)
+Rumi Chunara|24-08-2019|[Population-aware Hierarchical Bayesian Domain Adaptation via   Multiple-component Invariant Learning](http://arxiv.org/abs/1908.09222v1)
+Ladislau Bölöni|24-08-2019|[Universal Policies to Learn Them All](http://arxiv.org/abs/1908.09184v1)
+Paweł Czyż|24-08-2019|[Unsupervised Recalibration](http://arxiv.org/abs/1908.09157v1)
+Christoph-Nikolas Straehle|24-08-2019|[Conditional Flow Variational Autoencoders for Structured Sequence   Prediction](http://arxiv.org/abs/1908.09008v1)
+Emile Givental|24-08-2019|[Fairness Warnings and Fair-MAML: Learning Fairly with Minimal Data](http://arxiv.org/abs/1908.09092v1)
+Zheng Zhu|24-08-2019|[Camera Pose Correction in SLAM Based on Bias Values of Map Points](http://arxiv.org/abs/1908.09072v1)
+Neil Lutz|23-08-2019|[A Center in Your Neighborhood: Fairness in Facility Location](http://arxiv.org/abs/1908.09041v1)
+Xia Hu|23-08-2019|[Fairness in Deep Learning: A Computational Perspective](http://arxiv.org/abs/1908.08843v1)
+Patrick van der Smagt|23-08-2019|[Increasing the Generalisaton Capacity of Conditional VAEs](http://arxiv.org/abs/1908.08750v1)
+Aram Galstyan|23-08-2019|[A Survey on Bias and Fairness in Machine Learning](http://arxiv.org/abs/1908.09635v1)
+
 ## 23-08-2019
 
 main_author|publish_date|title

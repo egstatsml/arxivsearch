@@ -1,5 +1,19 @@
 # mcmc
 Click on title for link to paper
+## 30-08-2019
+
+main_author|publish_date|title
+---|---|---
+Francesca Toni|29-08-2019|[Human-grounded Evaluations of Explanation Methods for Text   Classification](http://arxiv.org/abs/1908.11355v1)
+Evangelos A. Theodorou|28-08-2019|[Deep Learning Theory Review: An Optimal Control and Dynamical Systems   Perspective](http://arxiv.org/abs/1908.10920v1)
+David Rios Insua|26-08-2019|[Variationally Inferred Sampling Through a Refined Bound for   Probabilistic Programs](http://arxiv.org/abs/1908.09744v1)
+M. Jorge Cardoso|26-08-2019|[Stochastic Filter Groups for Multi-Task CNNs: Learning Specialist and   Generalist Convolution Kernels](http://arxiv.org/abs/1908.09597v1)
+Juergen Gall|26-08-2019|[Uncertainty-Aware Anticipation of Activities](http://arxiv.org/abs/1908.09540v2)
+Tieyan Liu|25-08-2019|[LightMC: A Dynamic and Efficient Multiclass Decomposition Algorithm](http://arxiv.org/abs/1908.09362v1)
+Jaime G. Carbonell|23-08-2019|[A Little Annotation does a Lot of Good: A Study in Bootstrapping   Low-resource Named Entity Recognizers](http://arxiv.org/abs/1908.08983v1)
+Theerawit Wilaiprasitporn|23-08-2019|[A comparative study for interpreting deep learning prediction of the   Parkinson's disease diagnosis from SPECT imaging](http://arxiv.org/abs/1908.11199v1)
+Soroosh Shafieezadeh-Abadeh|23-08-2019|[Wasserstein Distributionally Robust Optimization: Theory and   Applications in Machine Learning](http://arxiv.org/abs/1908.08729v1)
+
 ## 23-08-2019
 
 main_author|publish_date|title

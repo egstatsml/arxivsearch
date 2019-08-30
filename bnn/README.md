@@ -1,5 +1,27 @@
 # bnn
 Click on title for link to paper
+## 30-08-2019
+
+main_author|publish_date|title
+---|---|---
+Deyu Meng|29-08-2019|[Variational Denoising Network: Toward Blind Noise Modeling and Removal](http://arxiv.org/abs/1908.11314v1)
+Aljosa Smolic|29-08-2019|[Aesthetic Image Captioning From Weakly-Labelled Photographs](http://arxiv.org/abs/1908.11310v1)
+Kazuyoshi Yoshii|29-08-2019|[Deep Bayesian Unsupervised Source Separation Based on a Complex Gaussian   Mixture Model](http://arxiv.org/abs/1908.11307v1)
+Antonio Salmerón|29-08-2019|[InferPy: Probabilistic Modeling with Deep Neural Networks Made Easy](http://arxiv.org/abs/1908.11161v1)
+Munindar P. Singh|28-08-2019|[Leveraging Structural and Semantic Correspondence for Attribute-Oriented   Aspect Sentiment Discovery](http://arxiv.org/abs/1908.10970v1)
+Zarana Parekh|28-08-2019|[Learning a Multitask Curriculum for Neural Machine Translation](http://arxiv.org/abs/1908.10940v1)
+Evangelos A. Theodorou|28-08-2019|[Deep Learning Theory Review: An Optimal Control and Dynamical Systems   Perspective](http://arxiv.org/abs/1908.10920v1)
+Noémie Elhadad|27-08-2019|[Multi-Task Gaussian Processes and Dilated Convolutional Networks for   Reconstruction of Reproductive Hormonal Dynamics](http://arxiv.org/abs/1908.10226v1)
+William Yang Wang|27-08-2019|[Text Modeling with Syntax-Aware Variational Autoencoders](http://arxiv.org/abs/1908.09964v1)
+Kenneth E. Barner|26-08-2019|[A Probabilistic Representation of Deep Learning](http://arxiv.org/abs/1908.09772v1)
+David Rios Insua|26-08-2019|[Variationally Inferred Sampling Through a Refined Bound for   Probabilistic Programs](http://arxiv.org/abs/1908.09744v1)
+M. Jorge Cardoso|26-08-2019|[Stochastic Filter Groups for Multi-Task CNNs: Learning Specialist and   Generalist Convolution Kernels](http://arxiv.org/abs/1908.09597v1)
+Bernd Bischl|25-08-2019|[Tutorial and Survey on Probabilistic Graphical Model and Variational   Inference in Deep Reinforcement Learning](http://arxiv.org/abs/1908.09381v1)
+Yulan He|25-08-2019|[Open Event Extraction from Online Text using a Generative Adversarial   Network](http://arxiv.org/abs/1908.09246v1)
+Sayan Mukherjee|24-08-2019|[Scalable Modeling of Spatiotemporal Data using the Variational   Autoencoder: an Application in Glaucoma](http://arxiv.org/abs/1908.09195v1)
+Daniel Ramos|23-08-2019|[Calibration of Deep Probabilistic Models with Decoupled Bayesian Neural   Networks](http://arxiv.org/abs/1908.08972v1)
+Daniel T. Chang|22-08-2019|[Tiered Graph Autoencoders with PyTorch Geometric for Molecular Graphs](http://arxiv.org/abs/1908.08612v1)
+
 ## 23-08-2019
 
 main_author|publish_date|title
