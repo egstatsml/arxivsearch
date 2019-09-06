@@ -1,5 +1,21 @@
 # bnn
 Click on title for link to paper
+## 06-09-2019
+
+main_author|publish_date|title
+---|---|---
+Michael Lyu|05-09-2019|[Detecting Deep Neural Network Defects with Data Flow Analysis](http://arxiv.org/abs/1909.02190v1)
+Oliver Kroemer|04-09-2019|[Towards Precise Robotic Grasping by Probabilistic Post-grasp   Displacement Estimation](http://arxiv.org/abs/1909.02129v1)
+Hongyuan Zha|04-09-2019|[Meta Learning with Relational Information for Short Sequences](http://arxiv.org/abs/1909.02105v1)
+Wuchen Li|04-09-2019|[Accelerated Information Gradient flow](http://arxiv.org/abs/1909.02102v1)
+David M. Rocke|04-09-2019|[Gradients of Generative Models for Improved Discriminative Analysis of   Tandem Mass Spectra](http://arxiv.org/abs/1909.02093v1)
+Harri Lähdesmäki|04-09-2019|[Latent Gaussian process with composite likelihoods for data-driven   disease stratification](http://arxiv.org/abs/1909.01614v1)
+Peng Cao|03-09-2019|[MRI Reconstruction Using Deep Bayesian Inference](http://arxiv.org/abs/1909.01127v1)
+Richard E. Turner|02-09-2019|[Pathologies of Factorised Gaussian and MC Dropout Posteriors in Bayesian   Neural Networks](http://arxiv.org/abs/1909.00719v1)
+William T. Freeman|01-09-2019|[Visual Deprojection: Probabilistic Recovery of Collapsed Dimensions](http://arxiv.org/abs/1909.00475v1)
+Eyke Hüllermeier|31-08-2019|[Epistemic Uncertainty Sampling](http://arxiv.org/abs/1909.00218v1)
+Junichi Yamagishi|30-08-2019|[Initial investigation of an encoder-decoder end-to-end TTS framework   using marginalization of monotonic hard latent alignments](http://arxiv.org/abs/1908.11535v1)
+
 ## 30-08-2019
 
 main_author|publish_date|title

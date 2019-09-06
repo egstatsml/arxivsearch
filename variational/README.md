@@ -1,5 +1,14 @@
 # variational
 Click on title for link to paper
+## 06-09-2019
+
+main_author|publish_date|title
+---|---|---
+Hongyuan Zha|04-09-2019|[Meta Learning with Relational Information for Short Sequences](http://arxiv.org/abs/1909.02105v1)
+Rajesh K. Gupta|04-09-2019|[ACES -- Automatic Configuration of Energy Harvesting Sensors with   Reinforcement Learning](http://arxiv.org/abs/1909.01968v1)
+Peng Cao|03-09-2019|[MRI Reconstruction Using Deep Bayesian Inference](http://arxiv.org/abs/1909.01127v1)
+Eyke Hüllermeier|31-08-2019|[Epistemic Uncertainty Sampling](http://arxiv.org/abs/1909.00218v1)
+
 ## 30-08-2019
 
 main_author|publish_date|title
