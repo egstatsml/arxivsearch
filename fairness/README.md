@@ -1,5 +1,46 @@
 # fairness
 Click on title for link to paper
+## 13-09-2019
+
+main_author|publish_date|title
+---|---|---
+Ioannis G. Kevrekidis|12-09-2019|[Coarse-scale PDEs from fine-scale observations via machine learning](http://arxiv.org/abs/1909.05707v1)
+Sergio Escalera|12-09-2019|[On the Effect of Observed Subject Biases in Apparent Personality   Analysis from Audio-visual Signals](http://arxiv.org/abs/1909.05568v1)
+Peter Flach|11-09-2019|[FAT Forensics: A Python Toolbox for Algorithmic Fairness, Accountability   and Transparency](http://arxiv.org/abs/1909.05167v1)
+Georgios Tzimiropoulos|11-09-2019|[AnimalWeb: A Large-Scale Hierarchical Dataset of Annotated Animal Faces](http://arxiv.org/abs/1909.04951v1)
+Thomas Parnell|11-09-2019|[Addressing Algorithmic Bottlenecks in Elastic Machine Learning with   Chicle](http://arxiv.org/abs/1909.04885v1)
+Roger Levy|10-09-2019|[Representation of Constituents in Neural Language Models: Coordination   Phrase as a Case Study](http://arxiv.org/abs/1909.04625v1)
+George Cann|10-09-2019|[Raiders of the Lost Art](http://arxiv.org/abs/1909.05677v1)
+Rahul Moorthy|10-09-2019|[Spam filtering on forums: A synthetic oversampling based approach for   imbalanced data classification](http://arxiv.org/abs/1909.04826v1)
+Natalia Criado|10-09-2019|[Attesting Biases and Discrimination using Language Semantics](http://arxiv.org/abs/1909.04386v1)
+Sanzo Miyazawa|10-09-2019|[Boltzmann machine learning and regularization methods for inferring   evolutionary fields and couplings from a multiple sequence alignment](http://arxiv.org/abs/1909.05006v1)
+Piyush Rai|10-09-2019|[A Meta-Learning Framework for Generalized Zero-Shot Learning](http://arxiv.org/abs/1909.04344v1)
+Georgios B. Giannakis|10-09-2019|[A Multistep Lyapunov Approach for Finite-Time Analysis of Biased   Stochastic Approximation](http://arxiv.org/abs/1909.04299v1)
+Gautam Shroff|10-09-2019|[NISER: Normalized Item and Session Representations with Graph Neural   Networks](http://arxiv.org/abs/1909.04276v1)
+Tiejun Zhao|10-09-2019|[Mitigating Annotation Artifacts in Natural Language Inference Datasets   to Improve Cross-dataset Generalization Ability](http://arxiv.org/abs/1909.04242v1)
+Sam Greydanus|10-09-2019|[Neural reparameterization improves structural optimization](http://arxiv.org/abs/1909.04240v1)
+Andreas Langousis|09-09-2019|[Super learning for daily streamflow forecasting: Large-scale   demonstration and comparison with multiple machine learning algorithms](http://arxiv.org/abs/1909.04131v1)
+Mohamed Siala|09-09-2019|[Learning Fair Rule Lists](http://arxiv.org/abs/1909.03977v1)
+Pingzhong Tang|09-09-2019|[Deterministic Value-Policy Gradients](http://arxiv.org/abs/1909.03939v1)
+John Hallam|09-09-2019|[A Survey on Reproducibility by Evaluating Deep Reinforcement Learning   Algorithms on Real-World Robots](http://arxiv.org/abs/1909.03772v2)
+Jeannette Bohg|09-09-2019|[Learning Visual Dynamics Models of Rigid Objects using Relational   Inductive Biases](http://arxiv.org/abs/1909.03749v1)
+Aurelio Uncini|09-09-2019|[Efficient Continual Learning in Neural Networks with Embedding   Regularization](http://arxiv.org/abs/1909.03742v1)
+Uri Shalit|09-09-2019|[Off-Policy Evaluation in Partially Observable Environments](http://arxiv.org/abs/1909.03739v1)
+Yuan Meng|09-09-2019|[Estimating Granger Causality with Unobserved Confounders via Deep   Latent-Variable Recurrent Neural Network](http://arxiv.org/abs/1909.03704v1)
+Hung-Yi Lee|08-09-2019|[Order-free Learning Alleviating Exposure Bias in Multi-label   Classification](http://arxiv.org/abs/1909.03434v1)
+Annie Louis|08-09-2019|[Countering the Effects of Lead Bias in News Summarization via   Multi-Stage Training and Auxiliary Losses](http://arxiv.org/abs/1909.04028v1)
+Mohit Iyyer|07-09-2019|[Investigating Sports Commentator Bias within a Large Corpus of American   Football Broadcasts](http://arxiv.org/abs/1909.03343v2)
+Richard Socher|07-09-2019|[Pretrained AI Models: Performativity, Mobility, and Change](http://arxiv.org/abs/1909.03290v1)
+Guangyan Song|07-09-2019|[Active learning to optimise time-expensive algorithm selection](http://arxiv.org/abs/1909.03261v1)
+Suresh Venkatasubramanian|07-09-2019|[Equalizing Recourse across Groups](http://arxiv.org/abs/1909.03166v1)
+Abbas Erfanian|06-09-2019|[A framework for seizure detection using effective connectivity, graph   theory and deep modular neural networks](http://arxiv.org/abs/1909.03091v1)
+Heng Huang|06-09-2019|[Approaching Machine Learning Fairness through Adversarial Network](http://arxiv.org/abs/1909.03013v1)
+Yunfeng Zhang|06-09-2019|[One Explanation Does Not Fit All: A Toolkit and Taxonomy of AI   Explainability Techniques](http://arxiv.org/abs/1909.03012v1)
+Vaneet Aggarwal|06-09-2019|[A Reinforcement Learning Based Approach for Joint Multi-Agent Decision   Making](http://arxiv.org/abs/1909.02940v1)
+Maya Gupta|06-09-2019|[Optimizing Generalized Rate Metrics through Game Equilibrium](http://arxiv.org/abs/1909.02939v1)
+Yi-Qing Wang|06-09-2019|[Master your Metrics with Calibration](http://arxiv.org/abs/1909.02827v1)
+Hamed Yazdanpanah|06-09-2019|[On Data-Selective Learning](http://arxiv.org/abs/1909.03891v1)
+
 ## 06-09-2019
 
 main_author|publish_date|title

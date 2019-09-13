@@ -1,5 +1,14 @@
 # variational
 Click on title for link to paper
+## 13-09-2019
+
+main_author|publish_date|title
+---|---|---
+Insup Lee|11-09-2019|[Reinforcement Learning for Temporal Logic Control Synthesis with   Probabilistic Satisfaction Guarantees](http://arxiv.org/abs/1909.05304v1)
+Rémi Tachet des Combes|11-09-2019|[Safe Policy Improvement with an Estimated Baseline Policy](http://arxiv.org/abs/1909.05236v1)
+Beishui Liao|10-09-2019|[A Bayesian Approach to Direct and Inverse Abstract Argumentation   Problems](http://arxiv.org/abs/1909.04319v1)
+Benjamin Van Durme|06-09-2019|[Uncertain Natural Language Inference](http://arxiv.org/abs/1909.03042v1)
+
 ## 06-09-2019
 
 main_author|publish_date|title

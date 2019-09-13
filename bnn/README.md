@@ -1,5 +1,23 @@
 # bnn
 Click on title for link to paper
+## 13-09-2019
+
+main_author|publish_date|title
+---|---|---
+Silvia Chiappa|12-09-2019|[Explicit-Duration Markov Switching Models](http://arxiv.org/abs/1909.05800v1)
+Jie Xu|12-09-2019|[Uncover the Ground-Truth Relations in Distant Supervision: A Neural   Expectation-Maximization Framework](http://arxiv.org/abs/1909.05448v1)
+Arto Klami|11-09-2019|[Correcting Predictions for Approximate Bayesian Inference](http://arxiv.org/abs/1909.04919v1)
+Christopher Drovandi|11-09-2019|[Efficient Bayesian synthetic likelihood with whitening transformations](http://arxiv.org/abs/1909.04857v1)
+Heinz Koeppl|10-09-2019|[Scalable Structure Learning of Continuous-Time Bayesian Networks from   Incomplete Data](http://arxiv.org/abs/1909.04570v1)
+Beishui Liao|10-09-2019|[A Bayesian Approach to Direct and Inverse Abstract Argumentation   Problems](http://arxiv.org/abs/1909.04319v1)
+Stephen Piddock|09-09-2019|[A Quantum Search Decoder for Natural Language Processing](http://arxiv.org/abs/1909.05023v1)
+Svetha Venkatesh|09-09-2019|[Cost-aware Multi-objective Bayesian optimisation](http://arxiv.org/abs/1909.03600v1)
+Benjamin W. Domingue|09-09-2019|[Curve Fitting from Probabilistic Emissions and Applications to Dynamic   Item Response Theory](http://arxiv.org/abs/1909.03586v1)
+Giuseppe Carenini|08-09-2019|[Evaluating Topic Quality with Posterior Variability](http://arxiv.org/abs/1909.03524v1)
+Benjamin Van Durme|06-09-2019|[Uncertain Natural Language Inference](http://arxiv.org/abs/1909.03042v1)
+Todor Kolev|06-09-2019|[Distributed creation of Machine learning agents for Blockchain analysis](http://arxiv.org/abs/1909.03848v1)
+Vladimir Pavlovic|06-09-2019|[Bayes-Factor-VAE: Hierarchical Bayesian Deep Auto-Encoder Models for   Factor Disentanglement](http://arxiv.org/abs/1909.02820v1)
+
 ## 06-09-2019
 
 main_author|publish_date|title
