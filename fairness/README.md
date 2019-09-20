@@ -1,5 +1,36 @@
 # fairness
 Click on title for link to paper
+## 20-09-2019
+
+main_author|publish_date|title
+---|---|---
+Natalia Díaz-Rodríguez|19-09-2019|[Highlighting Bias with Explainable Neural-Symbolic Visual Reasoning](http://arxiv.org/abs/1909.09065v1)
+Jonathan Roth|18-09-2019|[Bias In, Bias Out? Evaluating the Folk Wisdom](http://arxiv.org/abs/1909.08518v1)
+Laurent Besacier|18-09-2019|[Word Recognition, Competition, and Activation in a Model of Visually   Grounded Speech](http://arxiv.org/abs/1909.08491v1)
+Thodoris Lykouris|18-09-2019|[Advancing subgroup fairness via sleeping experts](http://arxiv.org/abs/1909.08375v1)
+Francesca A. Lisi|18-09-2019|[Towards Ethical Machines Via Logic Programming](http://arxiv.org/abs/1909.08255v1)
+Mahdi Eftekhari|18-09-2019|[Towards Shape Biased Unsupervised Representation Learning for Domain   Generalization](http://arxiv.org/abs/1909.08245v1)
+Petros Daras|17-09-2019|[Spherical View Synthesis for Self-Supervised 360 Depth Estimation](http://arxiv.org/abs/1909.08112v1)
+Chao Lan|17-09-2019|[A Distributed Fair Machine Learning Framework with Private Demographic   Data Protection](http://arxiv.org/abs/1909.08081v1)
+Alexandre Gilotte|17-09-2019|[Ranking metrics on non-shuffled traffic](http://arxiv.org/abs/1909.07926v1)
+Zachary C. Lipton|17-09-2019|[Learning to Deceive with Attention-Based Explanations](http://arxiv.org/abs/1909.07913v1)
+Eirini Ntoutsi|17-09-2019|[AdaFair: Cumulative Fairness Adaptive Boosting](http://arxiv.org/abs/1909.08982v1)
+Piyush Rai|17-09-2019|[Refined $α$-Divergence Variational Inference via Rejection Sampling](http://arxiv.org/abs/1909.07627v1)
+Ziye Zhou|17-09-2019|[Measure Contribution of Participants in Federated Learning](http://arxiv.org/abs/1909.08525v1)
+Daniel N. Wilke|15-09-2019|[Empirical study towards understanding line search approximations for   training neural networks](http://arxiv.org/abs/1909.06893v1)
+Darwin G. Caldwell|15-09-2019|[A Linearly Constrained Nonparametric Framework for Imitation Learning](http://arxiv.org/abs/1909.07374v1)
+Edward Raff|14-09-2019|[A Step Toward Quantifying Independently Reproducible Machine Learning   Research](http://arxiv.org/abs/1909.06674v1)
+Michael M. Bronstein|14-09-2019|[Learning interpretable disease self-representations for drug   repositioning](http://arxiv.org/abs/1909.06609v1)
+Yoshua Bengio|14-09-2019|[Torchmeta: A Meta-Learning library for PyTorch](http://arxiv.org/abs/1909.06576v1)
+Slawomir Nowaczyk|14-09-2019|[Machine learning in healthcare -- a system's perspective](http://arxiv.org/abs/1909.07370v1)
+Jiasen Yang|13-09-2019|[Optimization on the Surface of the (Hyper)-Sphere](http://arxiv.org/abs/1909.06463v1)
+Matthew Graham|13-09-2019|[Recommendation or Discrimination?: Quantifying Distribution Parity in   Information Retrieval Systems](http://arxiv.org/abs/1909.06429v1)
+Jan Peters|13-09-2019|[HJB Optimal Feedback Control with Deep Differential Value Functions and   Action Constraints](http://arxiv.org/abs/1909.06153v1)
+Konstantinos Papakonstantinou|13-09-2019|[Shallow Self-Learning for Reject Inference in Credit Scoring](http://arxiv.org/abs/1909.06108v1)
+Ivan Vulić|13-09-2019|[A General Framework for Implicit and Explicit Debiasing of   Distributional Word Vector Spaces](http://arxiv.org/abs/1909.06092v1)
+Wei Lin|13-09-2019|[DL2: A Deep Learning-driven Scheduler for Deep Learning Clusters](http://arxiv.org/abs/1909.06040v1)
+Robin Burke|13-09-2019|[Crank up the volume: preference bias amplification in collaborative   recommendation](http://arxiv.org/abs/1909.06362v1)
+
 ## 13-09-2019
 
 main_author|publish_date|title

@@ -1,5 +1,24 @@
 # bnn
 Click on title for link to paper
+## 20-09-2019
+
+main_author|publish_date|title
+---|---|---
+Asif Ekbal|18-09-2019|[Sentiment-Aware Recommendation System for Healthcare using Social Media](http://arxiv.org/abs/1909.08686v1)
+Pascal Fua|18-09-2019|[Probabilistic Atlases to Enforce Topological Constraints](http://arxiv.org/abs/1909.08330v1)
+Shadi Albarqouni|17-09-2019|[Learn to Estimate Labels Uncertainty for Quality Assurance](http://arxiv.org/abs/1909.08058v1)
+Iadh Ounis|17-09-2019|[Variational Bayesian Context-aware Representation for Grocery   Recommendation](http://arxiv.org/abs/1909.07705v1)
+Carl Henrik Ek|17-09-2019|[Compositional uncertainty in deep Gaussian processes](http://arxiv.org/abs/1909.07698v1)
+Takuma Otsuka|17-09-2019|[Efficient Transfer Bayesian Optimization with Auxiliary Information](http://arxiv.org/abs/1909.07670v1)
+Chandra R. Murthy|17-09-2019|[Learned-SBL: A Deep Learning Architecture for Sparse Signal Recovery](http://arxiv.org/abs/1909.08185v1)
+Marko Robnik-Šikonja|16-09-2019|[Prediction Uncertainty Estimation for Hate Speech Classification](http://arxiv.org/abs/1909.07158v1)
+Aditya Gopalan|16-09-2019|[Bayesian Optimization under Heavy-tailed Payoffs](http://arxiv.org/abs/1909.07040v1)
+Tadahiro Taniguchi|16-09-2019|[Multi-person Pose Tracking using Sequential Monte Carlo with   Probabilistic Neural Pose Predictor](http://arxiv.org/abs/1909.07031v1)
+Bahman Moraffah|16-09-2019|[Inference for multiple object tracking: A Bayesian nonparametric   approach](http://arxiv.org/abs/1909.06984v1)
+Masashi Sugiyama|15-09-2019|[VILD: Variational Imitation Learning with Diverse-quality Demonstrations](http://arxiv.org/abs/1909.06769v1)
+Roderick Murray-Smith|13-09-2019|[Bayesian parameter estimation using conditional variational autoencoders   for gravitational-wave astronomy](http://arxiv.org/abs/1909.06296v2)
+Daniel Hernández-Lobato|13-09-2019|[Adversarial $α$-divergence Minimization for Bayesian Approximate   Inference](http://arxiv.org/abs/1909.06945v2)
+
 ## 13-09-2019
 
 main_author|publish_date|title

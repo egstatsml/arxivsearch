@@ -1,5 +1,14 @@
 # mcmc
 Click on title for link to paper
+## 20-09-2019
+
+main_author|publish_date|title
+---|---|---
+Jonathan P. How|18-09-2019|[Robust Opponent Modeling via Adversarial Ensemble Reinforcement Learning   in Asymmetric Imperfect-Information Games](http://arxiv.org/abs/1909.08735v1)
+Kechen Zhang|15-09-2019|[Cognitive swarming in complex environments with attractor dynamics and   oscillatory computing](http://arxiv.org/abs/1909.06711v1)
+Xiaobo Shen|14-09-2019|[Scalable Gaussian Process Classification with Additive Noise for Various   Likelihoods](http://arxiv.org/abs/1909.06541v1)
+Ding Zhao|14-09-2019|[Active Learning for Risk-Sensitive Inverse Reinforcement Learning](http://arxiv.org/abs/1909.07843v1)
+
 ## 13-09-2019
 
 main_author|publish_date|title
