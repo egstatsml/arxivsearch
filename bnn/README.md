@@ -1,5 +1,27 @@
 # bnn
 Click on title for link to paper
+## 27-09-2019
+
+main_author|publish_date|title
+---|---|---
+Thomas B. Schön|26-09-2019|[DCTD: Deep Conditional Target Densities for Accurate Regression](http://arxiv.org/abs/1909.12297v1)
+Botond Szabo|26-09-2019|[Debiased Bayesian inference for average treatment effects](http://arxiv.org/abs/1909.12078v1)
+Bálint Gyires-Tóth|26-09-2019|[Stochastic Weight Matrix-based Regularization Methods for Deep Neural   Networks](http://arxiv.org/abs/1909.11977v1)
+Ole Winther|25-09-2019|[LAVAE: Disentangling Location and Appearance](http://arxiv.org/abs/1909.11813v1)
+Omesh Tickoo|25-09-2019|[Probabilistic Modeling of Deep Features for Out-of-Distribution and   Adversarial Detection](http://arxiv.org/abs/1909.11786v1)
+Achim Zeileis|25-09-2019|[bamlss: A Lego Toolbox for Flexible Bayesian Regression (and Beyond)](http://arxiv.org/abs/1909.11784v1)
+Michael C. Mozer|25-09-2019|[Stochastic Prototype Embeddings](http://arxiv.org/abs/1909.11702v1)
+Boi Faltings|25-09-2019|[Multi-Dimensional Explanation of Reviews](http://arxiv.org/abs/1909.11386v1)
+Shalinee Kishore|24-09-2019|[A Novel Smoothed Loss and Penalty Function for Noncrossing Composite   Quantile Estimation via Deep Neural Networks](http://arxiv.org/abs/1909.12122v1)
+Ganesh Gopalakrishnan|24-09-2019|[Message Scheduling for Performant, Many-Core Belief Propagation](http://arxiv.org/abs/1909.11469v1)
+Eytan Modiano|24-09-2019|[A Theory of Uncertainty Variables for State Estimation and Inference](http://arxiv.org/abs/1909.10673v1)
+Jin Song Dong|22-09-2019|[Analyzing Recurrent Neural Network by Probabilistic Abstraction](http://arxiv.org/abs/1909.10023v1)
+Marta Kwiatkowska|21-09-2019|[Uncertainty Quantification with Statistical Guarantees in End-to-End   Autonomous Driving Control](http://arxiv.org/abs/1909.09884v1)
+Frank Wood|20-09-2019|[Safer End-to-End Autonomous Driving via Conditional Imitation Learning   and Command Augmentation](http://arxiv.org/abs/1909.09721v1)
+Mingchen Gao|20-09-2019|[Neural Style Transfer Improves 3D Cardiovascular MR Image Segmentation   on Inconsistent Data](http://arxiv.org/abs/1909.09716v1)
+Michael A Osborne|20-09-2019|[Bayesian Optimization for Iterative Learning](http://arxiv.org/abs/1909.09593v1)
+Stefano Ermon|20-09-2019|[Meta-Inverse Reinforcement Learning with Probabilistic Context Variables](http://arxiv.org/abs/1909.09314v1)
+
 ## 20-09-2019
 
 main_author|publish_date|title

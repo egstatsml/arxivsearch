@@ -1,5 +1,14 @@
 # mcmc
 Click on title for link to paper
+## 27-09-2019
+
+main_author|publish_date|title
+---|---|---
+Bálint Gyires-Tóth|26-09-2019|[Stochastic Weight Matrix-based Regularization Methods for Deep Neural   Networks](http://arxiv.org/abs/1909.11977v1)
+Michael C. Mozer|25-09-2019|[Stochastic Prototype Embeddings](http://arxiv.org/abs/1909.11702v1)
+Liyi Dai|23-09-2019|[Community Detection and Improved Detectability in Multiplex Networks](http://arxiv.org/abs/1909.10477v1)
+Xiao Huang|20-09-2019|[A Two-Stage Stochastic Programming Model for Car-Sharing Problem using   Kernel Density Estimation](http://arxiv.org/abs/1909.09293v1)
+
 ## 20-09-2019
 
 main_author|publish_date|title

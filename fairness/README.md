@@ -1,5 +1,38 @@
 # fairness
 Click on title for link to paper
+## 27-09-2019
+
+main_author|publish_date|title
+---|---|---
+Gonzalo Martínez-Muñoz|26-09-2019|[Sequential Training of Neural Networks with Gradient Boosting](http://arxiv.org/abs/1909.12098v1)
+Botond Szabo|26-09-2019|[Debiased Bayesian inference for average treatment effects](http://arxiv.org/abs/1909.12078v1)
+Amit Chakraborty|26-09-2019|[Symplectic ODE-Net: Learning Hamiltonian Dynamics with Control](http://arxiv.org/abs/1909.12077v1)
+Amit Daniely|26-09-2019|[The Implicit Bias of Depth: How Incremental Learning Drives   Generalization](http://arxiv.org/abs/1909.12051v1)
+Vasudha Bhatnagar|26-09-2019|[Complex Network based Supervised Keyword Extractor](http://arxiv.org/abs/1909.12009v1)
+John M Betts|26-09-2019|[Adaptive Class Weight based Dual Focal Loss for Improved Semantic   Segmentation](http://arxiv.org/abs/1909.11932v1)
+Dong Sun Park|26-09-2019|[Unsupervised Image Translation using Adversarial Networks for Improved   Plant Disease Recognition](http://arxiv.org/abs/1909.11915v1)
+Yaniv Ben-Itzhak|26-09-2019|[RADE: Resource-Efficient Supervised Anomaly Detection Using Decision   Tree-Based Ensemble Methods](http://arxiv.org/abs/1909.11877v1)
+Travis J. Desell|26-09-2019|[The Ant Swarm Neuro-Evolution Procedure for Optimizing Recurrent   Networks](http://arxiv.org/abs/1909.11849v1)
+Bryan Perozzi|25-09-2019|[MONET: Debiasing Graph Embeddings via the Metadata-Orthogonal Training   Unit](http://arxiv.org/abs/1909.11793v1)
+Jiashi Feng|25-09-2019|[Revisit Knowledge Distillation: a Teacher-free Framework](http://arxiv.org/abs/1909.11723v1)
+Vasant Honavar|25-09-2019|[The Dynamical Gaussian Process Latent Variable Model in the Longitudinal   Scenario](http://arxiv.org/abs/1909.11630v1)
+Karen Simonyan|25-09-2019|[Off-Policy Actor-Critic with Shared Experience Replay](http://arxiv.org/abs/1909.11583v1)
+Brian M. Sadler|25-09-2019|[Optimally Compressed Nonparametric Online Learning](http://arxiv.org/abs/1909.11555v1)
+Ard A. Louis|25-09-2019|[Neural networks are $\textit{a priori}$ biased towards Boolean functions   with low entropy](http://arxiv.org/abs/1909.11522v1)
+Taiji Suzuki|25-09-2019|[Compression based bound for non-compressed network: unified   generalization error analysis of large compressible deep neural network](http://arxiv.org/abs/1909.11274v2)
+Mauricio Barahona|24-09-2019|[Semi-supervised classification on graphs using explicit diffusion   dynamics](http://arxiv.org/abs/1909.11117v1)
+Tony Q. S. Quek|24-09-2019|[Power Allocation in Cache-Aided NOMA Systems: Optimization and Deep   Reinforcement Learning Approaches](http://arxiv.org/abs/1909.11074v1)
+Andreas Vlachos|24-09-2019|[Neural Generative Rhetorical Structure Parsing](http://arxiv.org/abs/1909.11049v1)
+Manuel Moussallam|24-09-2019|[Improving Collaborative Metric Learning with Efficient Negative Sampling](http://arxiv.org/abs/1909.10912v1)
+Tuanfeng Zhang|23-09-2019|[Generating Geological Facies Models with Fidelity to Diversity and   Statistics of Training Images using Improved Generative Adversarial Networks](http://arxiv.org/abs/1909.10652v1)
+Jakob Foerster|23-09-2019|[Loaded DiCE: Trading off Bias and Variance in Any-Order Score Function   Estimators for Reinforcement Learning](http://arxiv.org/abs/1909.10549v1)
+Jiayun Wang|23-09-2019|[Learning Coupled Spatial-temporal Attention for Skeleton-based Action   Recognition](http://arxiv.org/abs/1909.10214v1)
+Pedro O. S. Vaz de Melo|21-09-2019|[A Multi-Strategy Approach to Overcoming Bias in Community Detection   Evaluation](http://arxiv.org/abs/1909.09903v1)
+Itsik Pe'er|20-09-2019|[Particle Smoothing Variational Objectives](http://arxiv.org/abs/1909.09734v1)
+Phil Blunsom|20-09-2019|[A Critical Analysis of Biased Parsers in Unsupervised Parsing](http://arxiv.org/abs/1909.09428v1)
+Maneesh Singh|20-09-2019|[Sampling Bias in Deep Active Classification: An Empirical Study](http://arxiv.org/abs/1909.09389v1)
+Rosalind W. Picard|20-09-2019|[Characterizing Sources of Uncertainty to Proxy Calibration and   Disambiguate Annotator and Data Bias](http://arxiv.org/abs/1909.09285v1)
+
 ## 20-09-2019
 
 main_author|publish_date|title
