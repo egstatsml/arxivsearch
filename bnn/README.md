@@ -1,5 +1,26 @@
 # bnn
 Click on title for link to paper
+## 04-10-2019
+
+main_author|publish_date|title
+---|---|---
+Jakob H. Macke|03-10-2019|[Inference of a mesoscopic population model from population spike trains](http://arxiv.org/abs/1910.01618v1)
+Vincent Fortuin|03-10-2019|[Variational PSOM: Deep Probabilistic Clustering with Self-Organizing   Maps](http://arxiv.org/abs/1910.01590v1)
+Tony Shardlow|03-10-2019|[A deep surrogate approach to efficient Bayesian inversion in PDE and   integral equation models](http://arxiv.org/abs/1910.01547v1)
+André Grüning|02-10-2019|[An Introduction to Probabilistic Spiking Neural Networks](http://arxiv.org/abs/1910.01059v1)
+David Rohde|02-10-2019|[Causal inference with Bayes rule](http://arxiv.org/abs/1910.01510v1)
+Dennis Prangle|02-10-2019|[Scalable approximate inference for state space models with normalising   flows](http://arxiv.org/abs/1910.00879v1)
+Flavian Vasile|02-10-2019|[Reconsidering Analytical Variational Bounds for Output Layers of Deep   Networks](http://arxiv.org/abs/1910.00877v2)
+Kwanghoon Sohn|02-10-2019|[Joint Learning of Semantic Alignment and Object Landmark Detection](http://arxiv.org/abs/1910.00754v1)
+François Rousseau|01-10-2019|[End-to-end learning of energy-based representations for   irregularly-sampled signals and images](http://arxiv.org/abs/1910.00556v1)
+Dorien Herremans|01-10-2019|[Latent space representation for multi-target speaker detection and   identification with a sparse dataset using Triplet neural networks](http://arxiv.org/abs/1910.01463v1)
+Sho Yaida|30-09-2019|[Non-Gaussian processes and neural networks at finite widths](http://arxiv.org/abs/1910.00019v1)
+Tobias Ortmaier|30-09-2019|[Well-calibrated Model Uncertainty with Temperature Scaling for Dropout   Variational Inference](http://arxiv.org/abs/1909.13550v2)
+Pierre Alquier|29-09-2019|[MMD-Bayes: Robust Bayesian Estimation via Maximum Mean Discrepancy](http://arxiv.org/abs/1909.13339v1)
+Greg Mori|29-09-2019|[Policy Message Passing: A New Algorithm for Probabilistic Graph   Inference](http://arxiv.org/abs/1909.13196v1)
+Patrick Loiseau|28-09-2019|[Nonzero-sum Adversarial Hypothesis Testing Games](http://arxiv.org/abs/1909.13031v1)
+Aditya Nori|27-09-2019|[Alleviating Privacy Attacks via Causal Learning](http://arxiv.org/abs/1909.12732v1)
+
 ## 27-09-2019
 
 main_author|publish_date|title

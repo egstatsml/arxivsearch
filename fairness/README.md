@@ -1,5 +1,28 @@
 # fairness
 Click on title for link to paper
+## 04-10-2019
+
+main_author|publish_date|title
+---|---|---
+Masashi Sugiyama|03-10-2019|[Reducing Overestimation Bias in Multi-Agent Domains Using Double   Centralized Critics](http://arxiv.org/abs/1910.01465v1)
+Gilles Tredan|03-10-2019|[The Bouncer Problem: Challenges to Remote Explainability](http://arxiv.org/abs/1910.01432v1)
+Stephen Jarvis|03-10-2019|[SAFA: a Semi-Asynchronous Protocol for Fast Federated Learning with Low   Overhead](http://arxiv.org/abs/1910.01355v1)
+Enbin Song|03-10-2019|[A sparse semismooth Newton based augmented Lagrangian method for   large-scale support vector machines](http://arxiv.org/abs/1910.01312v1)
+Mihailo R. Jovanović|02-10-2019|[Global exponential stability of primal-dual gradient flow dynamics based   on the proximal augmented Lagrangian: A Lyapunov-based approach](http://arxiv.org/abs/1910.00783v1)
+Peter Maaß|01-10-2019|[The LoDoPaB-CT Dataset: A Benchmark Dataset for Low-Dose CT   Reconstruction Methods](http://arxiv.org/abs/1910.01113v1)
+Florian Schmidt|01-10-2019|[Generalization in Generation: A closer look at Exposure Bias](http://arxiv.org/abs/1910.00292v1)
+Stephan Mandt|30-09-2019|[Tightening Bounds for Variational Inference by Revisiting Perturbation   Theory](http://arxiv.org/abs/1910.00069v1)
+Daniel Zeng|30-09-2019|[Spread-gram: A spreading-activation schema of network structural   learning](http://arxiv.org/abs/1909.13581v1)
+Xianyang Zhang|30-09-2019|[A New Framework for Distance and Kernel-based Metrics in High Dimensions](http://arxiv.org/abs/1909.13469v1)
+Ming-Chang Yang|30-09-2019|[Understanding and Improving Proximity Graph based Maximum Inner Product   Search](http://arxiv.org/abs/1909.13459v1)
+Vahid Partovi Nia|30-09-2019|[Random Bias Initialization Improving Binary Neural Network Training](http://arxiv.org/abs/1909.13446v1)
+Jan-Philipp Kolb|29-09-2019|[A Longitudinal Framework for Predicting Nonresponse in Panel Surveys](http://arxiv.org/abs/1909.13361v1)
+Louis-Martin Rousseau|28-09-2019|[How to Evaluate Machine Learning Approaches for Combinatorial   Optimization: Application to the Travelling Salesman Problem](http://arxiv.org/abs/1909.13121v1)
+Lalitha Sankar|27-09-2019|[Learning Generative Adversarial RePresentations (GAP) under Fairness and   Censoring Constraints](http://arxiv.org/abs/1910.00411v1)
+Mohit Bansal|27-09-2019|[Automatically Learning Data Augmentation Policies for Dialogue Tasks](http://arxiv.org/abs/1909.12868v1)
+Alex Gittens|27-09-2019|[Fast Fixed Dimension L2-Subspace Embeddings of Arbitrary Accuracy, With   Application to L1 and L2 Tasks](http://arxiv.org/abs/1909.12580v1)
+Xiao-Ming Wu|27-09-2019|[Clustering Uncertain Data via Representative Possible Worlds with   Consistency Learning](http://arxiv.org/abs/1909.12514v1)
+
 ## 27-09-2019
 
 main_author|publish_date|title

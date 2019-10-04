@@ -1,5 +1,17 @@
 # variational
 Click on title for link to paper
+## 04-10-2019
+
+main_author|publish_date|title
+---|---|---
+Dennis Prangle|02-10-2019|[Scalable approximate inference for state space models with normalising   flows](http://arxiv.org/abs/1910.00879v1)
+Flavian Vasile|02-10-2019|[Reconsidering Analytical Variational Bounds for Output Layers of Deep   Networks](http://arxiv.org/abs/1910.00877v2)
+Stephan Mandt|30-09-2019|[Tightening Bounds for Variational Inference by Revisiting Perturbation   Theory](http://arxiv.org/abs/1910.00069v1)
+Jung Hoon Lee|29-09-2019|[Libraries of hidden layer activity patterns can lead to better   understanding of operating principles of deep neural networks](http://arxiv.org/abs/1909.13360v1)
+Pierre Alquier|29-09-2019|[MMD-Bayes: Robust Bayesian Estimation via Maximum Mean Discrepancy](http://arxiv.org/abs/1909.13339v1)
+Greg Mori|29-09-2019|[Policy Message Passing: A New Algorithm for Probabilistic Graph   Inference](http://arxiv.org/abs/1909.13196v1)
+Xiao-Ming Wu|27-09-2019|[Clustering Uncertain Data via Representative Possible Worlds with   Consistency Learning](http://arxiv.org/abs/1909.12514v1)
+
 ## 27-09-2019
 
 main_author|publish_date|title
