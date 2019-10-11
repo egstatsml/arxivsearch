@@ -1,5 +1,37 @@
 # fairness
 Click on title for link to paper
+## 11-10-2019
+
+main_author|publish_date|title
+---|---|---
+Richard G. Baraniuk|10-10-2019|[The Implicit Regularization of Ordinary Least Squares Ensembles](http://arxiv.org/abs/1910.04743v1)
+Andrea Moscatelli|10-10-2019|[Modeling of negative protein-protein interactions: methods and   experiments](http://arxiv.org/abs/1910.04709v1)
+Ender Konukoglu|10-10-2019|[Machine Learning with Multi-Site Imaging Data: An Empirical Study on the   Impact of Scanner Effects](http://arxiv.org/abs/1910.04597v1)
+Michael Mistry|09-10-2019|[Online Simultaneous Semi-Parametric Dynamics Model Learning](http://arxiv.org/abs/1910.04297v1)
+Ilya Shpitser|09-10-2019|[Optimal Training of Fair Predictive Models](http://arxiv.org/abs/1910.04109v1)
+Bennett Landman|09-10-2019|[BIAS: Transparent reporting of biomedical image analysis challenges](http://arxiv.org/abs/1910.04071v1)
+Aurélio Campilho|09-10-2019|[Did you miss it? Automatic lung nodule detection combined with gaze   information improves radiologists' screening performance](http://arxiv.org/abs/1910.03986v1)
+Peter Vrancx|09-10-2019|[Compatible features for Monotonic Policy Improvement](http://arxiv.org/abs/1910.03880v1)
+Kee-Eung Kim|09-10-2019|[Policy Optimization Through Approximated Importance Sampling](http://arxiv.org/abs/1910.03857v1)
+Mahesh Pal|09-10-2019|[Deep neural network for pier scour prediction](http://arxiv.org/abs/1910.03804v1)
+Kilian M. Pohl|08-10-2019|[Bias-Resilient Neural Network](http://arxiv.org/abs/1910.03676v1)
+Jan Peters|08-10-2019|[Receding Horizon Curiosity](http://arxiv.org/abs/1910.03620v1)
+Artem Babenko|08-10-2019|[Beyond Vector Spaces: Compact Data Representationas Differentiable   Weighted Graphs](http://arxiv.org/abs/1910.03524v2)
+Weiping Ding|08-10-2019|[Automatic Construction of Multi-layer Perceptron Network from Streaming   Examples](http://arxiv.org/abs/1910.03437v1)
+Josef Scharinger|08-10-2019|[Metric Pose Estimation for Human-Machine Interaction Using Monocular   Vision](http://arxiv.org/abs/1910.03239v1)
+Wendy D. Cornell|07-10-2019|[Combining docking pose rank and structure with deep learning improves   protein-ligand binding mode prediction](http://arxiv.org/abs/1910.02845v1)
+Seong Joon Oh|07-10-2019|[Learning De-biased Representations with Biased Representations](http://arxiv.org/abs/1910.02806v1)
+Dimitri Bertsekas|06-10-2019|[Biased Aggregation, Rollout, and Enhanced Policy Improvement for   Reinforcement Learning](http://arxiv.org/abs/1910.02426v1)
+Nuno Antunes|05-10-2019|[The Impact of Data Preparation on the Fairness of Software Systems](http://arxiv.org/abs/1910.02321v1)
+Guy Van den Broeck|05-10-2019|[On Tractable Computation of Expected Predictions](http://arxiv.org/abs/1910.02182v1)
+Nader Ebrahimi|04-10-2019|[Variable Selection with Random Survival Forest and Bayesian Additive   Regression Tree for Survival Data](http://arxiv.org/abs/1910.02160v1)
+Xavier Amatriain|04-10-2019|[Classification As Decoder: Trading Flexibility For Control In Neural   Dialogue](http://arxiv.org/abs/1910.03476v1)
+Dianbo Liu|04-10-2019|[Privacy Preserving Stochastic Channel-Based Federated Learning with   Neural Network Pruning](http://arxiv.org/abs/1910.02115v1)
+Heinrich Jiang|04-10-2019|[Group-based Fair Learning Leads to Counter-intuitive Predictions](http://arxiv.org/abs/1910.02097v1)
+Wojciech Samek|04-10-2019|[Clustered Federated Learning: Model-Agnostic Distributed Multi-Task   Optimization under Privacy Constraints](http://arxiv.org/abs/1910.01991v1)
+Frederic Dufaux|04-10-2019|[Generating Relevant Counter-Examples from a Positive Unlabeled Dataset   for Image Classification](http://arxiv.org/abs/1910.01968v1)
+Shota Yasui|04-10-2019|[Dual Learning Algorithm for Delayed Feedback in Display Advertising](http://arxiv.org/abs/1910.01847v1)
+
 ## 04-10-2019
 
 main_author|publish_date|title

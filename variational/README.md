@@ -1,5 +1,18 @@
 # variational
 Click on title for link to paper
+## 11-10-2019
+
+main_author|publish_date|title
+---|---|---
+Carl E. Rasmussen|10-10-2019|[Deep Structured Mixtures of Gaussian Processes](http://arxiv.org/abs/1910.04536v1)
+Frank Hutter|10-10-2019|[Probabilistic Rollouts for Learning Curve Extrapolation Across   Hyperparameter Settings](http://arxiv.org/abs/1910.04522v1)
+Masashi Sugiyama|10-10-2019|[Learning from Indirect Observations](http://arxiv.org/abs/1910.04394v1)
+Dorsa Sadigh|10-10-2019|[Asking Easy Questions: A User-Friendly Approach to Active Reward   Learning](http://arxiv.org/abs/1910.04365v1)
+Corné E. van Daalen|08-10-2019|[Stochastic Triangular Mesh Mapping](http://arxiv.org/abs/1910.03644v1)
+Jan Peters|07-10-2019|[Stochastic Optimal Control as Approximate Input Inference](http://arxiv.org/abs/1910.03003v1)
+Evangelos A. Theodorou|05-10-2019|[Bayesian Learning-Based Adaptive Control for Safety Critical Systems](http://arxiv.org/abs/1910.02325v1)
+Jun Zhou|05-10-2019|[Characterizing Membership Privacy in Stochastic Gradient Langevin   Dynamics](http://arxiv.org/abs/1910.02249v1)
+
 ## 04-10-2019
 
 main_author|publish_date|title

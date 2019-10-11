@@ -1,9 +1,10 @@
 main_author|publish_date|title
 ---|---|---
-Dennis Prangle|02-10-2019|[Scalable approximate inference for state space models with normalising   flows](http://arxiv.org/abs/1910.00879v1)
-Flavian Vasile|02-10-2019|[Reconsidering Analytical Variational Bounds for Output Layers of Deep   Networks](http://arxiv.org/abs/1910.00877v2)
-Stephan Mandt|30-09-2019|[Tightening Bounds for Variational Inference by Revisiting Perturbation   Theory](http://arxiv.org/abs/1910.00069v1)
-Jung Hoon Lee|29-09-2019|[Libraries of hidden layer activity patterns can lead to better   understanding of operating principles of deep neural networks](http://arxiv.org/abs/1909.13360v1)
-Pierre Alquier|29-09-2019|[MMD-Bayes: Robust Bayesian Estimation via Maximum Mean Discrepancy](http://arxiv.org/abs/1909.13339v1)
-Greg Mori|29-09-2019|[Policy Message Passing: A New Algorithm for Probabilistic Graph   Inference](http://arxiv.org/abs/1909.13196v1)
-Xiao-Ming Wu|27-09-2019|[Clustering Uncertain Data via Representative Possible Worlds with   Consistency Learning](http://arxiv.org/abs/1909.12514v1)
+Carl E. Rasmussen|10-10-2019|[Deep Structured Mixtures of Gaussian Processes](http://arxiv.org/abs/1910.04536v1)
+Frank Hutter|10-10-2019|[Probabilistic Rollouts for Learning Curve Extrapolation Across   Hyperparameter Settings](http://arxiv.org/abs/1910.04522v1)
+Masashi Sugiyama|10-10-2019|[Learning from Indirect Observations](http://arxiv.org/abs/1910.04394v1)
+Dorsa Sadigh|10-10-2019|[Asking Easy Questions: A User-Friendly Approach to Active Reward   Learning](http://arxiv.org/abs/1910.04365v1)
+Corné E. van Daalen|08-10-2019|[Stochastic Triangular Mesh Mapping](http://arxiv.org/abs/1910.03644v1)
+Jan Peters|07-10-2019|[Stochastic Optimal Control as Approximate Input Inference](http://arxiv.org/abs/1910.03003v1)
+Evangelos A. Theodorou|05-10-2019|[Bayesian Learning-Based Adaptive Control for Safety Critical Systems](http://arxiv.org/abs/1910.02325v1)
+Jun Zhou|05-10-2019|[Characterizing Membership Privacy in Stochastic Gradient Langevin   Dynamics](http://arxiv.org/abs/1910.02249v1)

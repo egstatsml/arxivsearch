@@ -1,5 +1,35 @@
 # bnn
 Click on title for link to paper
+## 11-10-2019
+
+main_author|publish_date|title
+---|---|---
+Carl E. Rasmussen|10-10-2019|[Deep Structured Mixtures of Gaussian Processes](http://arxiv.org/abs/1910.04536v1)
+Frank Hutter|10-10-2019|[Probabilistic Rollouts for Learning Curve Extrapolation Across   Hyperparameter Settings](http://arxiv.org/abs/1910.04522v1)
+Guoping Long|10-10-2019|[Learning beyond Predefined Label Space via Bayesian Nonparametric Topic   Modelling](http://arxiv.org/abs/1910.04420v1)
+Masashi Sugiyama|10-10-2019|[Learning from Indirect Observations](http://arxiv.org/abs/1910.04394v1)
+Akira Nakagawa|10-10-2019|[Rate-Distortion Optimization Guided Autoencoder for Generative Approach   with quantitatively measurable latent space](http://arxiv.org/abs/1910.04329v1)
+George J. Pappas|09-10-2019|[Probabilistic Verification and Reachability Analysis of Neural Networks   via Semidefinite Programming](http://arxiv.org/abs/1910.04249v1)
+Frieder Ganz|09-10-2019|[Continual Learning Using Bayesian Neural Networks](http://arxiv.org/abs/1910.04112v1)
+Tamara Broderick|09-10-2019|[Practical Posterior Error Bounds from Variational Objectives](http://arxiv.org/abs/1910.04102v1)
+Adrian Weller|09-10-2019|[Optimal experimental design via Bayesian optimization: active causal   structure learning for Gaussian process networks](http://arxiv.org/abs/1910.03962v1)
+Mark F. J. Steel|09-10-2019|[Probabilistic sequential matrix factorization](http://arxiv.org/abs/1910.03906v1)
+Corné E. van Daalen|08-10-2019|[Stochastic Triangular Mesh Mapping](http://arxiv.org/abs/1910.03644v1)
+S. Samsonov|08-10-2019|[Variance reduction for Markov chains with application to MCMC](http://arxiv.org/abs/1910.03643v1)
+Dennis Prangle|08-10-2019|[Distilling importance sampling](http://arxiv.org/abs/1910.03632v1)
+William H. Green|07-10-2019|[Evaluating Scalable Uncertainty Estimation Methods for DNN-Based   Molecular Property Prediction](http://arxiv.org/abs/1910.03127v1)
+Jan Peters|07-10-2019|[Stochastic Optimal Control as Approximate Input Inference](http://arxiv.org/abs/1910.03003v1)
+Pietro Perona|07-10-2019|[From Google Maps to a Fine-Grained Catalog of Street trees](http://arxiv.org/abs/1910.02675v1)
+Daniela Rus|07-10-2019|[Deep Evidential Regression](http://arxiv.org/abs/1910.02600v1)
+Wanli Ouyang|06-10-2019|[Improving One-shot NAS by Suppressing the Posterior Fading](http://arxiv.org/abs/1910.02543v1)
+Neil Burgess|06-10-2019|[Probabilistic Successor Representations with Kalman Temporal Differences](http://arxiv.org/abs/1910.02532v1)
+Evangelos A. Theodorou|05-10-2019|[Bayesian Learning-Based Adaptive Control for Safety Critical Systems](http://arxiv.org/abs/1910.02325v1)
+Lanjuan Li|05-10-2019|[A Deep Learning System That Generates Quantitative CT Reports for   Diagnosing Pulmonary Tuberculosis](http://arxiv.org/abs/1910.02285v1)
+Jun Zhou|05-10-2019|[Characterizing Membership Privacy in Stochastic Gradient Langevin   Dynamics](http://arxiv.org/abs/1910.02249v1)
+Guy Van den Broeck|05-10-2019|[On Tractable Computation of Expected Predictions](http://arxiv.org/abs/1910.02182v1)
+Jack Hidary|04-10-2019|[Quantum Hamiltonian-Based Models and the Variational Quantum Thermalizer   Algorithm](http://arxiv.org/abs/1910.02071v1)
+Vivek Kulkarni|04-10-2019|[DialectGram: Automatic Detection of Dialectal Variation at Multiple   Geographic Resolutions](http://arxiv.org/abs/1910.01818v1)
+
 ## 04-10-2019
 
 main_author|publish_date|title
