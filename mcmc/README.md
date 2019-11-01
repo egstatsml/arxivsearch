@@ -1,5 +1,43 @@
 # mcmc
 Click on title for link to paper
+## 01-11-2019
+
+main_author|publish_date|title
+---|---|---
+D. Vijay Rao|31-10-2019|[Quantifying (Hyper) Parameter Leakage in Machine Learning](http://arxiv.org/abs/1910.14409v1)
+Eran Yahav|30-10-2019|[Learning Deterministic Weighted Automata with Queries and   Counterexamples](http://arxiv.org/abs/1910.13895v1)
+Claire J. Tomlin|29-10-2019|[A Hamilton-Jacobi Reachability-Based Framework for Predicting and   Analyzing Human Motion for Safe Planning](http://arxiv.org/abs/1910.13369v1)
+Tom Rainforth|29-10-2019|[Divide, Conquer, and Combine: a New Inference Strategy for Probabilistic   Programs with Stochastic Support](http://arxiv.org/abs/1910.13324v1)
+Talip Ucar|29-10-2019|[Bridging the ELBO and MMD](http://arxiv.org/abs/1910.13181v1)
+Nikhil Oswal|29-10-2019|[Predicting Rainfall using Machine Learning Techniques](http://arxiv.org/abs/1910.13827v1)
+John Dolan|28-10-2019|[Measuring Similarity of Interactive Driving Behaviors Using Matrix   Profile](http://arxiv.org/abs/1910.12969v1)
+Xiaoning Qian|28-10-2019|[Semi-Implicit Stochastic Recurrent Neural Networks](http://arxiv.org/abs/1910.12819v1)
+Jinoh Kim|28-10-2019|[An Ensemble Approach toward Automated Variable Selection for Network   Anomaly Detection](http://arxiv.org/abs/1910.12806v1)
+Jun Zhu|28-10-2019|[Generative Well-intentioned Networks](http://arxiv.org/abs/1910.12481v1)
+Ichiro Takeuchi|26-10-2019|[Bayesian Experimental Design for Finding Reliable Level Set under Input   Uncertainty](http://arxiv.org/abs/1910.12043v1)
+Patrick Jaillet|26-10-2019|[Implicit Posterior Variational Inference for Deep Gaussian Processes](http://arxiv.org/abs/1910.11998v1)
+Frank Wood|25-10-2019|[Deep Probabilistic Surrogate Networks for Universal Simulator   Approximation](http://arxiv.org/abs/1910.11950v1)
+Aurélio Campilho|25-10-2019|[DR$\vert$GRADUATE: uncertainty-aware deep learning-based diabetic   retinopathy grading in eye fundus images](http://arxiv.org/abs/1910.11777v1)
+Guang Lin|23-10-2019|[An Adaptive Empirical Bayesian Method for Sparse Deep Learning](http://arxiv.org/abs/1910.10791v1)
+Andriy Mnih|23-10-2019|[Sparse Orthogonal Variational Inference for Gaussian Processes](http://arxiv.org/abs/1910.10596v2)
+Steve Kroon|23-10-2019|[Stabilising priors for robust Bayesian deep learning](http://arxiv.org/abs/1910.10386v1)
+David Meger|23-10-2019|[Unifying Variational Inference and PAC-Bayes for Supervised Learning   that Scales](http://arxiv.org/abs/1910.10367v1)
+Antonio Artés-Rodríguez|22-10-2019|[Continual Learning for Infinite Hierarchical Change-Point Detection](http://arxiv.org/abs/1910.10087v1)
+Dinesh Manocha|22-10-2019|[Learning Resilient Behaviors for Navigation Under Uncertainty   Environments](http://arxiv.org/abs/1910.09998v1)
+Kenneth E. Barner|22-10-2019|[Explicitly Bayesian Regularizations in Deep Learning](http://arxiv.org/abs/1910.09732v1)
+Hung H. Bui|21-10-2019|[Collapsed Amortized Variational Inference for Switching Nonlinear   Dynamical Systems](http://arxiv.org/abs/1910.09588v1)
+Juergen Branke|21-10-2019|[Bayesian Optimization Allowing for Common Random Numbers](http://arxiv.org/abs/1910.09259v1)
+Tae-Kyun Kim|19-10-2019|[Active 6D Multi-Object Pose Estimation in Cluttered Scenarios with Deep   Reinforcement Learning](http://arxiv.org/abs/1910.08811v1)
+Jürgen Teich|18-10-2019|[Efficient Computation of Probabilistic Dominance in Robust   Multi-Objective Optimization](http://arxiv.org/abs/1910.08413v1)
+Greg Mori|18-10-2019|[Point Process Flows](http://arxiv.org/abs/1910.08281v2)
+Ding Zhao|17-10-2019|[Probabilistic Trajectory Prediction for Autonomous Vehicles with   Attentive Recurrent Neural Process](http://arxiv.org/abs/1910.08102v1)
+Raquel Urtasun|17-10-2019|[Discrete Residual Flow for Probabilistic Pedestrian Behavior Prediction](http://arxiv.org/abs/1910.08041v1)
+J. P. Crutchfield|17-10-2019|[Probabilistic Deterministic Finite Automata and Recurrent Networks,   Revisited](http://arxiv.org/abs/1910.07663v1)
+Jacob R. Gardner|16-10-2019|[Sparse Gaussian Process Regression Beyond Variational Inference](http://arxiv.org/abs/1910.07123v1)
+Priyadip Ray|13-10-2019|[Regularized Sparse Gaussian Processes](http://arxiv.org/abs/1910.05843v1)
+Jin-Hee Cho|12-10-2019|[Deep Learning for Predicting Dynamic Uncertain Opinions in Network Data](http://arxiv.org/abs/1910.05640v1)
+Dragomir Anguelov|12-10-2019|[MultiPath: Multiple Probabilistic Anchor Trajectory Hypotheses for   Behavior Prediction](http://arxiv.org/abs/1910.05449v1)
+
 ## 11-10-2019
 
 main_author|publish_date|title
