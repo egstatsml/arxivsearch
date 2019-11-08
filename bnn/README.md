@@ -1,5 +1,31 @@
 # bnn
 Click on title for link to paper
+## 08-11-2019
+
+main_author|publish_date|title
+---|---|---
+Ganesh Gopalakrishnan|06-11-2019|[A Programmable Approach to Model Compression](http://arxiv.org/abs/1911.02497v1)
+Mohammad Norouzi|06-11-2019|[Don't Blame the ELBO! A Linear VAE Perspective on Posterior Collapse](http://arxiv.org/abs/1911.02469v1)
+Shixiang Gu|06-11-2019|[A Divergence Minimization Perspective on Imitation Learning Methods](http://arxiv.org/abs/1911.02256v1)
+Sayandev Mukherjee|06-11-2019|[Machine Learning using the Variational Predictive Information Bottleneck   with a Validation Set](http://arxiv.org/abs/1911.02210v1)
+A. Gilad Kusne|05-11-2019|[Designing over uncertain outcomes with stochastic sampling Bayesian   optimization](http://arxiv.org/abs/1911.02106v1)
+Aggelos K. Katsaggelos|05-11-2019|[Scalable Variational Gaussian Processes for Crowdsourcing: Glitch   Detection in LIGO](http://arxiv.org/abs/1911.01915v1)
+Yun Yang|04-11-2019|[Statistical Inference in Mean-Field Variational Bayes](http://arxiv.org/abs/1911.01525v1)
+Jan-Willem van de Meent|04-11-2019|[Amortized Population Gibbs Samplers with Neural Sufficient Statistics](http://arxiv.org/abs/1911.01382v1)
+Vinayak A. Rao|04-11-2019|[Asymptotic Consistency of Loss-Calibrated Variational Bayes](http://arxiv.org/abs/1911.01288v1)
+Aditya Gopalan|04-11-2019|[On Batch Bayesian Optimization](http://arxiv.org/abs/1911.01032v1)
+Ruslan Salakhutdinov|04-11-2019|[Multiple Futures Prediction](http://arxiv.org/abs/1911.00997v1)
+Alexander Jung|03-11-2019|[Clustering in Partially Labeled Stochastic Block Models via Total   Variation Minimization](http://arxiv.org/abs/1911.00958v1)
+Jannes Gladrow|03-11-2019|[Digital phase-only holography using deep conditional generative models](http://arxiv.org/abs/1911.00904v1)
+Stanley Osher|02-11-2019|[Laplacian Smoothing Stochastic Gradient Markov Chain Monte Carlo](http://arxiv.org/abs/1911.00782v1)
+Lyudmila Mihaylova|02-11-2019|[Variational Bayesian inference of hidden stochastic processes with   unknown parameters](http://arxiv.org/abs/1911.00757v1)
+Gang Pan|02-11-2019|[Dynamic Ensemble Modeling Approach to Nonstationary Neural Decoding in   Brain-Computer Interfaces](http://arxiv.org/abs/1911.00714v1)
+Finale Doshi-Velez|01-11-2019|[Learning Deep Bayesian Latent Variable Regression Models that   Generalize: When Non-identifiability is a Problem](http://arxiv.org/abs/1911.00569v1)
+Tom Rainforth|01-11-2019|[A Unified Stochastic Gradient Approach to Designing Bayesian-Optimal   Experiments](http://arxiv.org/abs/1911.00294v1)
+Lei Li|01-11-2019|[Kernelized Bayesian Softmax for Text Generation](http://arxiv.org/abs/1911.00274v1)
+Pan Zhang|01-11-2019|[Phase transitions and optimal algorithms in the semi-supervised   classfications in graphs: from belief propagation to convolution neural   networks](http://arxiv.org/abs/1911.00197v1)
+Abani K. Patra|01-11-2019|[Integrated Clustering and Anomaly Detection (INCAD) for Streaming Data   (Revised)](http://arxiv.org/abs/1911.00184v1)
+
 ## 01-11-2019
 
 main_author|publish_date|title

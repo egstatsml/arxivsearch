@@ -1,5 +1,33 @@
 # fairness
 Click on title for link to paper
+## 08-11-2019
+
+main_author|publish_date|title
+---|---|---
+Alessandro Bozzon|06-11-2019|[Designing Evaluations of Machine Learning Models for Subjective   Inference: The Case of Sentence Toxicity](http://arxiv.org/abs/1911.02471v1)
+Pablo Huijse|06-11-2019|[An Information Theory Approach on Deciding Spectroscopic Follow Ups](http://arxiv.org/abs/1911.02444v1)
+Hua Wu|06-11-2019|[CoKE: Contextualized Knowledge Graph Embedding](http://arxiv.org/abs/1911.02168v1)
+Jean Honorio|06-11-2019|[Exact Partitioning of High-order Models with a Novel Convex Tensor Cone   Relaxation](http://arxiv.org/abs/1911.02161v1)
+Eric Tchetgen Tchetgen|05-11-2019|[Bias-aware model selection for machine learning of doubly robust   functionals](http://arxiv.org/abs/1911.02029v1)
+Jean Rouat|05-11-2019|[Language coverage and generalization in RNN-based continuous sentence   embeddings for interacting agents](http://arxiv.org/abs/1911.02002v1)
+Yaniv Shulman|05-11-2019|[Dynamic Time Warp Convolutional Networks](http://arxiv.org/abs/1911.01944v1)
+Sophia Abraham|05-11-2019|[Scenarios and Recommendations for Ethical Interpretive AI](http://arxiv.org/abs/1911.01917v1)
+Alex Beutel|05-11-2019|[Practical Compositional Fairness: Understanding Fairness in Multi-Task   ML Systems](http://arxiv.org/abs/1911.01916v2)
+Jinho D. Choi|05-11-2019|[Incremental Sense Weight Training for the Interpretation of   Contextualized Word Embeddings](http://arxiv.org/abs/1911.01623v1)
+Ping Li|05-11-2019|[A Fourier Analytical Approach to Estimation of Smooth Functions in   Gaussian Shift Model](http://arxiv.org/abs/1911.02010v1)
+Karthikeyan Natesan Ramamurthy|04-11-2019|[Understanding racial bias in health using the Medical Expenditure Panel   Survey data](http://arxiv.org/abs/1911.01509v1)
+L. Elisa Celis|04-11-2019|[Assessing Social and Intersectional Biases in Contextualized Word   Representations](http://arxiv.org/abs/1911.01485v1)
+Konstantinos Georgatzis|04-11-2019|[Auditing and Achieving Intersectional Fairness in Classification   Problems](http://arxiv.org/abs/1911.01468v1)
+Fernando Perez-Cruz|04-11-2019|[Improved BiGAN training with marginal likelihood equalization](http://arxiv.org/abs/1911.01425v1)
+Mohammad Mehrabi|04-11-2019|[Online Debiasing for Adaptively Collected High-dimensional Data](http://arxiv.org/abs/1911.01040v1)
+Matthew Mattina|04-11-2019|[Ternary MobileNets via Per-Layer Hybrid Filter Banks](http://arxiv.org/abs/1911.01028v1)
+Zaiyue Yang|03-11-2019|[Finite-Sample Analysis of Decentralized Temporal-Difference Learning   with Linear Function Approximation](http://arxiv.org/abs/1911.00934v1)
+Rumi Chunara|02-11-2019|[Fair Predictors under Distribution Shift](http://arxiv.org/abs/1911.00677v1)
+Finale Doshi-Velez|01-11-2019|[Learning Deep Bayesian Latent Variable Regression Models that   Generalize: When Non-identifiability is a Problem](http://arxiv.org/abs/1911.00569v1)
+Yao Lu|01-11-2019|[Prediction Modeling and Analysis for Telecom Customer Churn in Two   Months](http://arxiv.org/abs/1911.00558v1)
+Francky Catthoor|01-11-2019|[A Framework to Explore Workload-Specific Performance and Lifetime   Trade-offs in Neuromorphic Computing](http://arxiv.org/abs/1911.00548v1)
+Omar U. Florez|01-11-2019|[On the Unintended Social Bias of Training Language Generation Models   with Data from Local Media](http://arxiv.org/abs/1911.00461v1)
+
 ## 01-11-2019
 
 main_author|publish_date|title

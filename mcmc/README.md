@@ -1,5 +1,21 @@
 # mcmc
 Click on title for link to paper
+## 08-11-2019
+
+main_author|publish_date|title
+---|---|---
+Mohammad Norouzi|06-11-2019|[Don't Blame the ELBO! A Linear VAE Perspective on Posterior Collapse](http://arxiv.org/abs/1911.02469v1)
+A. Gilad Kusne|05-11-2019|[Designing over uncertain outcomes with stochastic sampling Bayesian   optimization](http://arxiv.org/abs/1911.02106v1)
+Justin Domke|05-11-2019|[A Rule for Gradient Estimator Selection, with an Application to   Variational Inference](http://arxiv.org/abs/1911.01894v1)
+Manuel E. Lladser|04-11-2019|[Multilateration of Random Networks with Community Structure](http://arxiv.org/abs/1911.01521v1)
+Jan-Willem van de Meent|04-11-2019|[Amortized Population Gibbs Samplers with Neural Sufficient Statistics](http://arxiv.org/abs/1911.01382v1)
+Ruslan Salakhutdinov|04-11-2019|[Multiple Futures Prediction](http://arxiv.org/abs/1911.00997v1)
+Alexander Jung|03-11-2019|[Clustering in Partially Labeled Stochastic Block Models via Total   Variation Minimization](http://arxiv.org/abs/1911.00958v1)
+Stanley Osher|02-11-2019|[Laplacian Smoothing Stochastic Gradient Markov Chain Monte Carlo](http://arxiv.org/abs/1911.00782v1)
+Lyudmila Mihaylova|02-11-2019|[Variational Bayesian inference of hidden stochastic processes with   unknown parameters](http://arxiv.org/abs/1911.00757v1)
+Finale Doshi-Velez|01-11-2019|[Learning Deep Bayesian Latent Variable Regression Models that   Generalize: When Non-identifiability is a Problem](http://arxiv.org/abs/1911.00569v1)
+Tom Rainforth|01-11-2019|[A Unified Stochastic Gradient Approach to Designing Bayesian-Optimal   Experiments](http://arxiv.org/abs/1911.00294v1)
+
 ## 01-11-2019
 
 main_author|publish_date|title
