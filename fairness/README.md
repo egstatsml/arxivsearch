@@ -2,6 +2,12 @@
 Click on title for link to paper
 ## 14-11-2019
 
+|title|publish_date|main_author
+0|---|---|---
+1|No papers found this week|14-11-2019|  
+
+## 14-11-2019
+
 |main_author|title|update_date|publish_date
 0|---|---|---|---
 1|Rodrigo Fernandes de Mello|[On the Shattering Coefficient of Supervised Learning Algorithms](http://arxiv.org/abs/1911.05461v1)|2019-11-13 13:50:46+00:00|13-11-2019

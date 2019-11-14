@@ -2,6 +2,12 @@
 Click on title for link to paper
 ## 14-11-2019
 
+|title|publish_date|main_author
+0|---|---|---
+1|No papers found this week|14-11-2019|  
+
+## 14-11-2019
+
 |main_author|title|update_date|publish_date
 0|---|---|---|---
 1|Sambuddha Ghosal|[Deep Generative Models Strike Back! Improving Understanding and   Evaluation in Light of Unmet Expectations for OoD Data](http://arxiv.org/abs/1911.04699v1)|2019-11-12 06:41:22+00:00|12-11-2019

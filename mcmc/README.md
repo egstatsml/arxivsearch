@@ -2,6 +2,13 @@
 Click on title for link to paper
 ## 14-11-2019
 
+|main_author|title|update_date|publish_date
+0|---|---|---|---
+1|Masayoshi Tomizuka|[Adaptive Probabilistic Vehicle Trajectory Prediction Through Physically   Feasible Bayesian Recurrent Neural Network](http://arxiv.org/abs/1911.04597v1)|2019-11-11 23:13:06+00:00|11-11-2019
+2|Spyros Chatzivasileiadis|[Physics-Informed Neural Networks for Power Systems](http://arxiv.org/abs/1911.03737v1)|2019-11-09 17:03:08+00:00|09-11-2019
+
+## 14-11-2019
+
 |main_author|publish_date|title
 0|---|---|---
 1|Mohammad Norouzi|06-11-2019|[Don't Blame the ELBO! A Linear VAE Perspective on Posterior Collapse](http://arxiv.org/abs/1911.02469v1)

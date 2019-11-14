@@ -2,6 +2,12 @@
 Click on title for link to paper
 ## 14-11-2019
 
+|title|publish_date|main_author
+0|---|---|---
+1|No papers found this week|14-11-2019|  
+
+## 14-11-2019
+
 |main_author|title|update_date|publish_date
 0|---|---|---|---
 1|Masayoshi Tomizuka|[Adaptive Probabilistic Vehicle Trajectory Prediction Through Physically   Feasible Bayesian Recurrent Neural Network](http://arxiv.org/abs/1911.04597v1)|2019-11-11 23:13:06+00:00|11-11-2019
