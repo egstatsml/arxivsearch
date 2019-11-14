@@ -25,13 +25,13 @@ def main(arguments):
     args = parser.parse_args(arguments)
     
     #read in the newest data frame search results
-    new_df = pd.from_csv(
+    new_df = pd.read_csv(
         os.path.join('./{}/new_df.csv'.format(args.topic)), sep = '|')
     #see if the actual file exists
     #if an original readme file exists, lets read it and then prepend
     #the data too it
     if(os.path.isfile(os.path.join(args.topic, 'readme_df.csv'))):
-        readme_df = pd.DataFrame.from_csv(
+        readme_df = pd.read_csv(
             os.path.join(args.topic, 'readme_df.csv'), sep = '|')
         # now concatenate the old and new dataframes
         # will save this new dataframe at the end
