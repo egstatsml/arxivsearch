@@ -25,7 +25,7 @@ def main(arguments):
     args = parser.parse_args(arguments)
     
     #read in the newest data frame search results
-    new_df = pd.DataFrame.from_csv(
+    new_df = pd.from_csv(
         os.path.join('./{}/new_df.csv'.format(args.topic)), sep = '|')
     #see if the actual file exists
     #if an original readme file exists, lets read it and then prepend
