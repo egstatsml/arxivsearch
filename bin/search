@@ -70,7 +70,7 @@ def load_prev_search(topic):
     """
     df_path = os.path.join('./{}/readme_df.csv'.format(topic))
     if(os.path.isfile(df_path)):
-        df = pd.DataFrame.from_csv(df_path, sep='|')
+        df = pd.from_csv(df_path, sep='|')
     else:
         start_date = (datetime.datetime.now() -
                       datetime.timedelta(days = 60)).strftime("%d-%m-%Y")
