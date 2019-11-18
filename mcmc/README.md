@@ -1,5 +1,6 @@
 # mcmc
 Click on title for link to paper
+<<<<<<< HEAD
 ## 14-11-2019
 
 |main_author|title|update_date|publish_date
@@ -39,6 +40,8 @@ Lyudmila Mihaylova|02-11-2019|[Variational Bayesian inference of hidden stochast
 Finale Doshi-Velez|01-11-2019|[Learning Deep Bayesian Latent Variable Regression Models that   Generalize: When Non-identifiability is a Problem](http://arxiv.org/abs/1911.00569v1)
 Tom Rainforth|01-11-2019|[A Unified Stochastic Gradient Approach to Designing Bayesian-Optimal   Experiments](http://arxiv.org/abs/1911.00294v1)
 
+=======
+>>>>>>> parent of 9ce51c0...  update 08-11-2019
 ## 01-11-2019
 
 main_author|publish_date|title
