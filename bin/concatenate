@@ -5,6 +5,7 @@ import datetime
 import pandas as pd
 
 from arxivsearch.topic import topic, get_topic
+from arxivsearch.utils import read_clean_csv
 
 import os
 import argparse
@@ -15,7 +16,7 @@ def main(arguments):
     """
     main()
     Description:
-    Will concatenate the list of papers with the README for this 
+    Will concatenate the list of papers with the README for this
     topic
     """
     parser = argparse.ArgumentParser(prog="main",
@@ -23,15 +24,18 @@ def main(arguments):
     parser.add_argument('topic', type=str, default='bnn',
                         help="topic we want to search for")
     args = parser.parse_args(arguments)
-    
+
     #read in the newest data frame search results
-    new_df = pd.read_csv(
+    new_df = read_clean_csv(
         os.path.join('./{}/new_df.csv'.format(args.topic)), sep = '|')
+    # sometimes an unnamed column is added byu pandas. If it is, remove it
+    if('Unnamed: 0' in new_df.columns.values):
+        new_df = remove_unnamed(new_df)
     #see if the actual file exists
     #if an original readme file exists, lets read it and then prepend
     #the data too it
     if(os.path.isfile(os.path.join(args.topic, 'readme_df.csv'))):
-        readme_df = pd.read_csv(
+        readme_df = read_clean_csv(
             os.path.join(args.topic, 'readme_df.csv'), sep = '|')
         # now concatenate the old and new dataframes
         # will save this new dataframe at the end
@@ -50,7 +54,7 @@ def main(arguments):
         # will create an empty list that will act as mock up of previously read
         # data from the Markdown version of search results
         old_readme_lines = [' '] * 3
-        
+
     # create the new README markdown file
     # open the file so we can write to it now)
     with open(os.path.join(args.topic, 'README.md'), 'w') as f:

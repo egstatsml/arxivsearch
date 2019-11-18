@@ -6,6 +6,7 @@ import feedparser
 import pandas as pd
 
 from arxivsearch.topic import topic, get_topic
+from arxivsearch.utils import read_clean_csv
 
 import os
 import argparse
@@ -70,7 +71,7 @@ def load_prev_search(topic):
     """
     df_path = os.path.join('./{}/readme_df.csv'.format(topic))
     if(os.path.isfile(df_path)):
-        df = pd.read_csv(df_path, sep='|')
+        df = read_clean_csv(df_path, sep='|')
     else:
         start_date = (datetime.datetime.now() -
                       datetime.timedelta(days = 60)).strftime("%d-%m-%Y")
