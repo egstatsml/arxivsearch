@@ -24,7 +24,7 @@ def format_dataframe(df):
                                            datetime.datetime.now().strftime("%d-%m-%Y")],
                            'main_author':['---', '  ']})
         return df
-    
+
     #otherwise the dataframe hase some entries and we will format it
     df = df.drop(['id', 'terms', 'term',
                   'authors', 'abstract', 'comment',
@@ -37,7 +37,7 @@ def format_dataframe(df):
     types = df.apply(lambda x: pd.api.types.infer_dtype(x.values))
     for col in types[types=='unicode'].index:
         df[col] = df[col].apply(lambda x: x.encode('utf-8').strip())
-    
+
     df['title'] = df.apply(
         lambda row:'[{}]({})'.format(row['title'],
                                      row['url']), axis=1)
@@ -58,7 +58,7 @@ def format_dataframe(df):
 def load_prev_search(topic):
     """Will load in the previous search results
 
-    If the previous search results aren't around, will 
+    If the previous search results aren't around, will
     return an dataframe with a single entry with the date from
     60 days ago where it will begin the search, and will remind
     you that you are awesome :)
@@ -104,13 +104,13 @@ def main(arguments):
                                      epilog=main.__doc__)
     parser.add_argument('topic', type=str, default='bnn',
                         help="topic we want to search for")
-    
+
     args = parser.parse_args(arguments)
     search_topic = get_topic(args.topic)
     # get the previous search database
     prev_search = load_prev_search(args.topic)
     valid_date = most_recent_date(prev_search)
-    
+
     # get the search terms
     search_list = search_topic.format_search()
     results = []
@@ -121,7 +121,7 @@ def main(arguments):
     valid_date = valid_date.replace(tzinfo=None)
     valid_search = [x for x in results
                     if (x['publish_date'].date() > valid_date.date())]
-    
+
     #convert the search results to a df
     valid_df = pd.DataFrame(valid_search)
     #format the dataframe before we convert it to markdown
@@ -132,6 +132,6 @@ def main(arguments):
         os.mkdir(args.topic)
     markdown_df.to_csv(os.path.join(args.topic, "new_df.csv"),
                        sep="|", index=False, encoding='utf-8')
-    
+
 if __name__ == "__main__":
     sys.exit(main(sys.argv[1:]))
