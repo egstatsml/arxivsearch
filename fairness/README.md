@@ -2,6 +2,12 @@
 Click on title for link to paper
 ## 18-11-2019
 
+title|publish_date|main_author
+---|---|---
+No papers found this week|18-11-2019|  
+
+## 18-11-2019
+
 |main_author|title|update_date|publish_date
 0|---|---|---|---
 1|Luca Ambrogioni|[Causal inference using Bayesian non-parametric quasi-experimental design](http://arxiv.org/abs/1911.06722v1)|2019-11-15 16:10:00+00:00|15-11-2019

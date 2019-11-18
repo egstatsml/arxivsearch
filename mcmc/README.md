@@ -2,6 +2,12 @@
 Click on title for link to paper
 ## 18-11-2019
 
+title|publish_date|main_author
+---|---|---
+No papers found this week|18-11-2019|  
+
+## 18-11-2019
+
 |main_author|title|update_date|publish_date
 0|---|---|---|---
 1|Ha Q. Nguyen|[Interpreting chest X-rays via CNNs that exploit disease dependencies and   uncertainty labels](http://arxiv.org/abs/1911.06475v1)|2019-11-15 04:29:43+00:00|15-11-2019
