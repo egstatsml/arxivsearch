@@ -1,47 +1,5 @@
 # mcmc
 Click on title for link to paper
-<<<<<<< HEAD
-## 14-11-2019
-
-|main_author|title|update_date|publish_date
-0|---|---|---|---
-1|Masayoshi Tomizuka|[Adaptive Probabilistic Vehicle Trajectory Prediction Through Physically   Feasible Bayesian Recurrent Neural Network](http://arxiv.org/abs/1911.04597v1)|2019-11-11 23:13:06+00:00|11-11-2019
-2|Spyros Chatzivasileiadis|[Physics-Informed Neural Networks for Power Systems](http://arxiv.org/abs/1911.03737v1)|2019-11-09 17:03:08+00:00|09-11-2019
-
-## 14-11-2019
-
-|main_author|publish_date|title
-0|---|---|---
-1|Mohammad Norouzi|06-11-2019|[Don't Blame the ELBO! A Linear VAE Perspective on Posterior Collapse](http://arxiv.org/abs/1911.02469v1)
-2|A. Gilad Kusne|05-11-2019|[Designing over uncertain outcomes with stochastic sampling Bayesian   optimization](http://arxiv.org/abs/1911.02106v1)
-3|Justin Domke|05-11-2019|[A Rule for Gradient Estimator Selection, with an Application to   Variational Inference](http://arxiv.org/abs/1911.01894v1)
-4|Manuel E. Lladser|04-11-2019|[Multilateration of Random Networks with Community Structure](http://arxiv.org/abs/1911.01521v1)
-5|Jan-Willem van de Meent|04-11-2019|[Amortized Population Gibbs Samplers with Neural Sufficient Statistics](http://arxiv.org/abs/1911.01382v1)
-6|Ruslan Salakhutdinov|04-11-2019|[Multiple Futures Prediction](http://arxiv.org/abs/1911.00997v1)
-7|Alexander Jung|03-11-2019|[Clustering in Partially Labeled Stochastic Block Models via Total   Variation Minimization](http://arxiv.org/abs/1911.00958v1)
-8|Stanley Osher|02-11-2019|[Laplacian Smoothing Stochastic Gradient Markov Chain Monte Carlo](http://arxiv.org/abs/1911.00782v1)
-9|Lyudmila Mihaylova|02-11-2019|[Variational Bayesian inference of hidden stochastic processes with   unknown parameters](http://arxiv.org/abs/1911.00757v1)
-10|Finale Doshi-Velez|01-11-2019|[Learning Deep Bayesian Latent Variable Regression Models that   Generalize: When Non-identifiability is a Problem](http://arxiv.org/abs/1911.00569v1)
-11|Tom Rainforth|01-11-2019|[A Unified Stochastic Gradient Approach to Designing Bayesian-Optimal   Experiments](http://arxiv.org/abs/1911.00294v1)
-
-## 08-11-2019
-
-main_author|publish_date|title
----|---|---
-Mohammad Norouzi|06-11-2019|[Don't Blame the ELBO! A Linear VAE Perspective on Posterior Collapse](http://arxiv.org/abs/1911.02469v1)
-A. Gilad Kusne|05-11-2019|[Designing over uncertain outcomes with stochastic sampling Bayesian   optimization](http://arxiv.org/abs/1911.02106v1)
-Justin Domke|05-11-2019|[A Rule for Gradient Estimator Selection, with an Application to   Variational Inference](http://arxiv.org/abs/1911.01894v1)
-Manuel E. Lladser|04-11-2019|[Multilateration of Random Networks with Community Structure](http://arxiv.org/abs/1911.01521v1)
-Jan-Willem van de Meent|04-11-2019|[Amortized Population Gibbs Samplers with Neural Sufficient Statistics](http://arxiv.org/abs/1911.01382v1)
-Ruslan Salakhutdinov|04-11-2019|[Multiple Futures Prediction](http://arxiv.org/abs/1911.00997v1)
-Alexander Jung|03-11-2019|[Clustering in Partially Labeled Stochastic Block Models via Total   Variation Minimization](http://arxiv.org/abs/1911.00958v1)
-Stanley Osher|02-11-2019|[Laplacian Smoothing Stochastic Gradient Markov Chain Monte Carlo](http://arxiv.org/abs/1911.00782v1)
-Lyudmila Mihaylova|02-11-2019|[Variational Bayesian inference of hidden stochastic processes with   unknown parameters](http://arxiv.org/abs/1911.00757v1)
-Finale Doshi-Velez|01-11-2019|[Learning Deep Bayesian Latent Variable Regression Models that   Generalize: When Non-identifiability is a Problem](http://arxiv.org/abs/1911.00569v1)
-Tom Rainforth|01-11-2019|[A Unified Stochastic Gradient Approach to Designing Bayesian-Optimal   Experiments](http://arxiv.org/abs/1911.00294v1)
-
-=======
->>>>>>> parent of 9ce51c0...  update 08-11-2019
 ## 01-11-2019
 
 main_author|publish_date|title
@@ -466,5 +424,3 @@ Peng Jiang|23-01-2019|[Deep learning Inversion of Seismic Data](http://arxiv.org
 Larry Davis|23-01-2019|[Exploring Uncertainty in Conditional Multi-Modal Retrieval Systems](http://arxiv.org/abs/1901.07702v1)
 Ling Shao|22-01-2019|[Striking the Right Balance with Uncertainty](http://arxiv.org/abs/1901.07590v1)
 Andrea Lodi|22-01-2019|[Predicting Tactical Solutions to Operational Planning Problems under   Imperfect Information](http://arxiv.org/abs/1901.07935v2)
-
-   
