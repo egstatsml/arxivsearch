@@ -63,7 +63,7 @@ def main(arguments):
         f.write('## {}\n\n'.format(
         datetime.datetime.now().strftime("%d-%m-%Y")))
         # write the new search results
-        new_df.to_csv(f, sep='|')
+        new_df.to_csv(f, index=False, sep='|')
         f.write('\n')
         # now write the data from the previous search results
         for line in old_readme_lines:
@@ -74,7 +74,7 @@ def main(arguments):
     # now write the new complete dataframe to file so that we can
     # use it for our search next time
     df.to_csv(os.path.join(args.topic, "readme_df.csv"),
-                       sep="|", encoding='utf-8')
-    
+              index=False, sep="|", encoding='utf-8')
+
 if __name__ == "__main__":
     sys.exit(main(sys.argv[1:]))
