@@ -1,426 +1,79 @@
 # mcmc
 Click on title for link to paper
-## 01-11-2019
+## 18-11-2019
 
-main_author|publish_date|title
----|---|---
-D. Vijay Rao|31-10-2019|[Quantifying (Hyper) Parameter Leakage in Machine Learning](http://arxiv.org/abs/1910.14409v1)
-Eran Yahav|30-10-2019|[Learning Deterministic Weighted Automata with Queries and   Counterexamples](http://arxiv.org/abs/1910.13895v1)
-Claire J. Tomlin|29-10-2019|[A Hamilton-Jacobi Reachability-Based Framework for Predicting and   Analyzing Human Motion for Safe Planning](http://arxiv.org/abs/1910.13369v1)
-Tom Rainforth|29-10-2019|[Divide, Conquer, and Combine: a New Inference Strategy for Probabilistic   Programs with Stochastic Support](http://arxiv.org/abs/1910.13324v1)
-Talip Ucar|29-10-2019|[Bridging the ELBO and MMD](http://arxiv.org/abs/1910.13181v1)
-Nikhil Oswal|29-10-2019|[Predicting Rainfall using Machine Learning Techniques](http://arxiv.org/abs/1910.13827v1)
-John Dolan|28-10-2019|[Measuring Similarity of Interactive Driving Behaviors Using Matrix   Profile](http://arxiv.org/abs/1910.12969v1)
-Xiaoning Qian|28-10-2019|[Semi-Implicit Stochastic Recurrent Neural Networks](http://arxiv.org/abs/1910.12819v1)
-Jinoh Kim|28-10-2019|[An Ensemble Approach toward Automated Variable Selection for Network   Anomaly Detection](http://arxiv.org/abs/1910.12806v1)
-Jun Zhu|28-10-2019|[Generative Well-intentioned Networks](http://arxiv.org/abs/1910.12481v1)
-Ichiro Takeuchi|26-10-2019|[Bayesian Experimental Design for Finding Reliable Level Set under Input   Uncertainty](http://arxiv.org/abs/1910.12043v1)
-Patrick Jaillet|26-10-2019|[Implicit Posterior Variational Inference for Deep Gaussian Processes](http://arxiv.org/abs/1910.11998v1)
-Frank Wood|25-10-2019|[Deep Probabilistic Surrogate Networks for Universal Simulator   Approximation](http://arxiv.org/abs/1910.11950v1)
-Aurélio Campilho|25-10-2019|[DR$\vert$GRADUATE: uncertainty-aware deep learning-based diabetic   retinopathy grading in eye fundus images](http://arxiv.org/abs/1910.11777v1)
-Guang Lin|23-10-2019|[An Adaptive Empirical Bayesian Method for Sparse Deep Learning](http://arxiv.org/abs/1910.10791v1)
-Andriy Mnih|23-10-2019|[Sparse Orthogonal Variational Inference for Gaussian Processes](http://arxiv.org/abs/1910.10596v2)
-Steve Kroon|23-10-2019|[Stabilising priors for robust Bayesian deep learning](http://arxiv.org/abs/1910.10386v1)
-David Meger|23-10-2019|[Unifying Variational Inference and PAC-Bayes for Supervised Learning   that Scales](http://arxiv.org/abs/1910.10367v1)
-Antonio Artés-Rodríguez|22-10-2019|[Continual Learning for Infinite Hierarchical Change-Point Detection](http://arxiv.org/abs/1910.10087v1)
-Dinesh Manocha|22-10-2019|[Learning Resilient Behaviors for Navigation Under Uncertainty   Environments](http://arxiv.org/abs/1910.09998v1)
-Kenneth E. Barner|22-10-2019|[Explicitly Bayesian Regularizations in Deep Learning](http://arxiv.org/abs/1910.09732v1)
-Hung H. Bui|21-10-2019|[Collapsed Amortized Variational Inference for Switching Nonlinear   Dynamical Systems](http://arxiv.org/abs/1910.09588v1)
-Juergen Branke|21-10-2019|[Bayesian Optimization Allowing for Common Random Numbers](http://arxiv.org/abs/1910.09259v1)
-Tae-Kyun Kim|19-10-2019|[Active 6D Multi-Object Pose Estimation in Cluttered Scenarios with Deep   Reinforcement Learning](http://arxiv.org/abs/1910.08811v1)
-Jürgen Teich|18-10-2019|[Efficient Computation of Probabilistic Dominance in Robust   Multi-Objective Optimization](http://arxiv.org/abs/1910.08413v1)
-Greg Mori|18-10-2019|[Point Process Flows](http://arxiv.org/abs/1910.08281v2)
-Ding Zhao|17-10-2019|[Probabilistic Trajectory Prediction for Autonomous Vehicles with   Attentive Recurrent Neural Process](http://arxiv.org/abs/1910.08102v1)
-Raquel Urtasun|17-10-2019|[Discrete Residual Flow for Probabilistic Pedestrian Behavior Prediction](http://arxiv.org/abs/1910.08041v1)
-J. P. Crutchfield|17-10-2019|[Probabilistic Deterministic Finite Automata and Recurrent Networks,   Revisited](http://arxiv.org/abs/1910.07663v1)
-Jacob R. Gardner|16-10-2019|[Sparse Gaussian Process Regression Beyond Variational Inference](http://arxiv.org/abs/1910.07123v1)
-Priyadip Ray|13-10-2019|[Regularized Sparse Gaussian Processes](http://arxiv.org/abs/1910.05843v1)
-Jin-Hee Cho|12-10-2019|[Deep Learning for Predicting Dynamic Uncertain Opinions in Network Data](http://arxiv.org/abs/1910.05640v1)
-Dragomir Anguelov|12-10-2019|[MultiPath: Multiple Probabilistic Anchor Trajectory Hypotheses for   Behavior Prediction](http://arxiv.org/abs/1910.05449v1)
+|main_author|title|update_date|publish_date
+0|---|---|---|---
+1|Ha Q. Nguyen|[Interpreting chest X-rays via CNNs that exploit disease dependencies and   uncertainty labels](http://arxiv.org/abs/1911.06475v1)|2019-11-15 04:29:43+00:00|15-11-2019
+2|Luca Della Libera|[A Comparative Study between Bayesian and Frequentist Neural Networks for   Remaining Useful Life Estimation in Condition-Based Maintenance](http://arxiv.org/abs/1911.06256v1)|2019-11-14 17:31:04+00:00|14-11-2019
+3|Peter I. Frazier|[Bayesian Optimization with Uncertain Preferences over Attributes](http://arxiv.org/abs/1911.05934v1)|2019-11-14 04:29:31+00:00|14-11-2019
+4|Siddharth Prasad|[Incentive Compatible Active Learning](http://arxiv.org/abs/1911.05171v1)|2019-11-12 22:31:58+00:00|12-11-2019
+5|Masayoshi Tomizuka|[Adaptive Probabilistic Vehicle Trajectory Prediction Through Physically   Feasible Bayesian Recurrent Neural Network](http://arxiv.org/abs/1911.04597v1)|2019-11-11 23:13:06+00:00|11-11-2019
+6|Spyros Chatzivasileiadis|[Physics-Informed Neural Networks for Power Systems](http://arxiv.org/abs/1911.03737v1)|2019-11-09 17:03:08+00:00|09-11-2019
+7|Anbang Wu|[Generalized Transformation-based Gradient](http://arxiv.org/abs/1911.02681v1)|2019-11-06 23:40:12+00:00|06-11-2019
+8|Mohammad Norouzi|[Don't Blame the ELBO! A Linear VAE Perspective on Posterior Collapse](http://arxiv.org/abs/1911.02469v1)|2019-11-06 16:34:04+00:00|06-11-2019
+9|A. Gilad Kusne|[Designing over uncertain outcomes with stochastic sampling Bayesian   optimization](http://arxiv.org/abs/1911.02106v1)|2019-11-05 22:21:07+00:00|05-11-2019
+10|Justin Domke|[A Rule for Gradient Estimator Selection, with an Application to   Variational Inference](http://arxiv.org/abs/1911.01894v1)|2019-11-05 15:57:19+00:00|05-11-2019
+11|Manuel E. Lladser|[Multilateration of Random Networks with Community Structure](http://arxiv.org/abs/1911.01521v1)|2019-11-04 22:57:21+00:00|04-11-2019
+12|Jan-Willem van de Meent|[Amortized Population Gibbs Samplers with Neural Sufficient Statistics](http://arxiv.org/abs/1911.01382v1)|2019-11-04 18:10:11+00:00|04-11-2019
+13|Ruslan Salakhutdinov|[Multiple Futures Prediction](http://arxiv.org/abs/1911.00997v1)|2019-11-04 00:42:01+00:00|04-11-2019
+14|Alexander Jung|[Clustering in Partially Labeled Stochastic Block Models via Total   Variation Minimization](http://arxiv.org/abs/1911.00958v1)|2019-11-03 19:57:38+00:00|03-11-2019
+15|Stanley Osher|[Laplacian Smoothing Stochastic Gradient Markov Chain Monte Carlo](http://arxiv.org/abs/1911.00782v1)|2019-11-02 20:32:11+00:00|02-11-2019
+16|Lyudmila Mihaylova|[Variational Bayesian inference of hidden stochastic processes with   unknown parameters](http://arxiv.org/abs/1911.00757v1)|2019-11-02 17:27:11+00:00|02-11-2019
+17|Finale Doshi-Velez|[Learning Deep Bayesian Latent Variable Regression Models that   Generalize: When Non-identifiability is a Problem](http://arxiv.org/abs/1911.00569v1)|2019-11-01 19:51:10+00:00|01-11-2019
+18|Tom Rainforth|[A Unified Stochastic Gradient Approach to Designing Bayesian-Optimal   Experiments](http://arxiv.org/abs/1911.00294v1)|2019-11-01 10:45:12+00:00|01-11-2019
+19|Mauricio A. Álvarez|[Continual Multi-task Gaussian Processes](http://arxiv.org/abs/1911.00002v1)|2019-10-31 13:49:11+00:00|31-10-2019
+20|D. Vijay Rao|[Quantifying (Hyper) Parameter Leakage in Machine Learning](http://arxiv.org/abs/1910.14409v1)|2019-10-31 12:05:00+00:00|31-10-2019
+21|Eran Yahav|[Learning Deterministic Weighted Automata with Queries and   Counterexamples](http://arxiv.org/abs/1910.13895v1)|2019-10-30 14:37:33+00:00|30-10-2019
+22|Claire J. Tomlin|[A Hamilton-Jacobi Reachability-Based Framework for Predicting and   Analyzing Human Motion for Safe Planning](http://arxiv.org/abs/1910.13369v1)|2019-10-29 16:34:00+00:00|29-10-2019
+23|Tom Rainforth|[Divide, Conquer, and Combine: a New Inference Strategy for Probabilistic   Programs with Stochastic Support](http://arxiv.org/abs/1910.13324v1)|2019-10-29 15:36:56+00:00|29-10-2019
+24|Talip Ucar|[Bridging the ELBO and MMD](http://arxiv.org/abs/1910.13181v1)|2019-10-29 10:32:40+00:00|29-10-2019
+25|Nikhil Oswal|[Predicting Rainfall using Machine Learning Techniques](http://arxiv.org/abs/1910.13827v1)|2019-10-29 01:42:15+00:00|29-10-2019
+26|John Dolan|[Measuring Similarity of Interactive Driving Behaviors Using Matrix   Profile](http://arxiv.org/abs/1910.12969v2)|2019-11-03 15:20:43+00:00|28-10-2019
+27|Xiaoning Qian|[Semi-Implicit Stochastic Recurrent Neural Networks](http://arxiv.org/abs/1910.12819v1)|2019-10-28 17:24:41+00:00|28-10-2019
+28|Jinoh Kim|[An Ensemble Approach toward Automated Variable Selection for Network   Anomaly Detection](http://arxiv.org/abs/1910.12806v1)|2019-10-28 17:03:02+00:00|28-10-2019
+29|Jun Zhu|[Generative Well-intentioned Networks](http://arxiv.org/abs/1910.12481v1)|2019-10-28 07:40:41+00:00|28-10-2019
+30|Ichiro Takeuchi|[Bayesian Experimental Design for Finding Reliable Level Set under Input   Uncertainty](http://arxiv.org/abs/1910.12043v1)|2019-10-26 10:30:45+00:00|26-10-2019
+31|Patrick Jaillet|[Implicit Posterior Variational Inference for Deep Gaussian Processes](http://arxiv.org/abs/1910.11998v1)|2019-10-26 05:07:01+00:00|26-10-2019
+32|Frank Wood|[Deep Probabilistic Surrogate Networks for Universal Simulator   Approximation](http://arxiv.org/abs/1910.11950v1)|2019-10-25 21:55:22+00:00|25-10-2019
+33|Aurélio Campilho|[DR$\vert$GRADUATE: uncertainty-aware deep learning-based diabetic   retinopathy grading in eye fundus images](http://arxiv.org/abs/1910.11777v1)|2019-10-25 14:56:15+00:00|25-10-2019
+34|Guang Lin|[An Adaptive Empirical Bayesian Method for Sparse Deep Learning](http://arxiv.org/abs/1910.10791v1)|2019-10-23 20:05:57+00:00|23-10-2019
+35|Andriy Mnih|[Sparse Orthogonal Variational Inference for Gaussian Processes](http://arxiv.org/abs/1910.10596v2)|2019-10-24 16:08:41+00:00|23-10-2019
+36|Steve Kroon|[Stabilising priors for robust Bayesian deep learning](http://arxiv.org/abs/1910.10386v1)|2019-10-23 07:01:17+00:00|23-10-2019
+37|David Meger|[Unifying Variational Inference and PAC-Bayes for Supervised Learning   that Scales](http://arxiv.org/abs/1910.10367v1)|2019-10-23 05:48:26+00:00|23-10-2019
+38|Antonio Artés-Rodríguez|[Continual Learning for Infinite Hierarchical Change-Point Detection](http://arxiv.org/abs/1910.10087v1)|2019-10-22 16:30:14+00:00|22-10-2019
+39|Dinesh Manocha|[Learning Resilient Behaviors for Navigation Under Uncertainty   Environments](http://arxiv.org/abs/1910.09998v1)|2019-10-22 14:15:20+00:00|22-10-2019
+40|Kenneth E. Barner|[Explicitly Bayesian Regularizations in Deep Learning](http://arxiv.org/abs/1910.09732v1)|2019-10-22 02:32:03+00:00|22-10-2019
+41|Hung H. Bui|[Collapsed Amortized Variational Inference for Switching Nonlinear   Dynamical Systems](http://arxiv.org/abs/1910.09588v1)|2019-10-21 18:28:10+00:00|21-10-2019
+42|Juergen Branke|[Bayesian Optimization Allowing for Common Random Numbers](http://arxiv.org/abs/1910.09259v1)|2019-10-21 10:43:07+00:00|21-10-2019
+43|Tae-Kyun Kim|[Active 6D Multi-Object Pose Estimation in Cluttered Scenarios with Deep   Reinforcement Learning](http://arxiv.org/abs/1910.08811v1)|2019-10-19 17:56:43+00:00|19-10-2019
+44|Jürgen Teich|[Efficient Computation of Probabilistic Dominance in Robust   Multi-Objective Optimization](http://arxiv.org/abs/1910.08413v1)|2019-10-18 13:33:55+00:00|18-10-2019
+45|Greg Mori|[Point Process Flows](http://arxiv.org/abs/1910.08281v2)|2019-10-31 02:34:27+00:00|18-10-2019
+46|Ding Zhao|[Probabilistic Trajectory Prediction for Autonomous Vehicles with   Attentive Recurrent Neural Process](http://arxiv.org/abs/1910.08102v1)|2019-10-17 18:26:31+00:00|17-10-2019
+47|Raquel Urtasun|[Discrete Residual Flow for Probabilistic Pedestrian Behavior Prediction](http://arxiv.org/abs/1910.08041v1)|2019-10-17 17:10:28+00:00|17-10-2019
+48|J. P. Crutchfield|[Probabilistic Deterministic Finite Automata and Recurrent Networks,   Revisited](http://arxiv.org/abs/1910.07663v1)|2019-10-17 00:32:12+00:00|17-10-2019
+49|Jacob R. Gardner|[Sparse Gaussian Process Regression Beyond Variational Inference](http://arxiv.org/abs/1910.07123v1)|2019-10-16 01:27:15+00:00|16-10-2019
+50|Priyadip Ray|[Regularized Sparse Gaussian Processes](http://arxiv.org/abs/1910.05843v1)|2019-10-13 21:53:44+00:00|13-10-2019
+51|Jin-Hee Cho|[Deep Learning for Predicting Dynamic Uncertain Opinions in Network Data](http://arxiv.org/abs/1910.05640v1)|2019-10-12 20:10:59+00:00|12-10-2019
+52|Dragomir Anguelov|[MultiPath: Multiple Probabilistic Anchor Trajectory Hypotheses for   Behavior Prediction](http://arxiv.org/abs/1910.05449v1)|2019-10-12 00:34:37+00:00|12-10-2019
+53|Catherine Enright|[Dealing with Stochasticity in Biological ODE Models](http://arxiv.org/abs/1910.04909v2)|2019-10-14 08:57:03+00:00|10-10-2019
+54|Carl E. Rasmussen|[Deep Structured Mixtures of Gaussian Processes](http://arxiv.org/abs/1910.04536v1)|2019-10-10 13:16:13+00:00|10-10-2019
+55|Frank Hutter|[Probabilistic Rollouts for Learning Curve Extrapolation Across   Hyperparameter Settings](http://arxiv.org/abs/1910.04522v1)|2019-10-10 12:49:22+00:00|10-10-2019
+56|Masashi Sugiyama|[Learning from Indirect Observations](http://arxiv.org/abs/1910.04394v1)|2019-10-10 07:15:02+00:00|10-10-2019
+57|Dorsa Sadigh|[Asking Easy Questions: A User-Friendly Approach to Active Reward   Learning](http://arxiv.org/abs/1910.04365v1)|2019-10-10 04:52:46+00:00|10-10-2019
+58|Corné E. van Daalen|[Stochastic Triangular Mesh Mapping](http://arxiv.org/abs/1910.03644v1)|2019-10-08 19:06:05+00:00|08-10-2019
+59|Jan Peters|[Stochastic Optimal Control as Approximate Input Inference](http://arxiv.org/abs/1910.03003v1)|2019-10-07 18:41:52+00:00|07-10-2019
+60|Evangelos A. Theodorou|[Bayesian Learning-Based Adaptive Control for Safety Critical Systems](http://arxiv.org/abs/1910.02325v1)|2019-10-05 20:19:10+00:00|05-10-2019
+61|Jun Zhou|[Characterizing Membership Privacy in Stochastic Gradient Langevin   Dynamics](http://arxiv.org/abs/1910.02249v1)|2019-10-05 11:26:54+00:00|05-10-2019
+62|Dennis Prangle|[Scalable approximate inference for state space models with normalising   flows](http://arxiv.org/abs/1910.00879v1)|2019-10-02 11:28:40+00:00|02-10-2019
+63|Flavian Vasile|[Reconsidering Analytical Variational Bounds for Output Layers of Deep   Networks](http://arxiv.org/abs/1910.00877v2)|2019-10-03 13:21:41+00:00|02-10-2019
+64|Stephan Mandt|[Tightening Bounds for Variational Inference by Revisiting Perturbation   Theory](http://arxiv.org/abs/1910.00069v1)|2019-09-30 19:44:18+00:00|30-09-2019
+65|Pierre Alquier|[MMD-Bayes: Robust Bayesian Estimation via Maximum Mean Discrepancy](http://arxiv.org/abs/1909.13339v1)|2019-09-29 18:49:05+00:00|29-09-2019
+66|Greg Mori|[Policy Message Passing: A New Algorithm for Probabilistic Graph   Inference](http://arxiv.org/abs/1909.13196v1)|2019-09-29 03:23:17+00:00|29-09-2019
+67|Xiao-Ming Wu|[Clustering Uncertain Data via Representative Possible Worlds with   Consistency Learning](http://arxiv.org/abs/1909.12514v1)|2019-09-27 06:36:47+00:00|27-09-2019
+68|Bálint Gyires-Tóth|[Stochastic Weight Matrix-based Regularization Methods for Deep Neural   Networks](http://arxiv.org/abs/1909.11977v1)|2019-09-26 08:38:55+00:00|26-09-2019
+69|Michael C. Mozer|[Stochastic Prototype Embeddings](http://arxiv.org/abs/1909.11702v1)|2019-09-25 18:38:36+00:00|25-09-2019
+70|Liyi Dai|[Community Detection and Improved Detectability in Multiplex Networks](http://arxiv.org/abs/1909.10477v1)|2019-09-23 16:57:17+00:00|23-09-2019
+71|Xiao Huang|[A Two-Stage Stochastic Programming Model for Car-Sharing Problem using   Kernel Density Estimation](http://arxiv.org/abs/1909.09293v1)|2019-09-20 02:05:11+00:00|20-09-2019
 
-## 11-10-2019
-
-main_author|publish_date|title
----|---|---
-Carl E. Rasmussen|10-10-2019|[Deep Structured Mixtures of Gaussian Processes](http://arxiv.org/abs/1910.04536v1)
-Frank Hutter|10-10-2019|[Probabilistic Rollouts for Learning Curve Extrapolation Across   Hyperparameter Settings](http://arxiv.org/abs/1910.04522v1)
-Masashi Sugiyama|10-10-2019|[Learning from Indirect Observations](http://arxiv.org/abs/1910.04394v1)
-Dorsa Sadigh|10-10-2019|[Asking Easy Questions: A User-Friendly Approach to Active Reward   Learning](http://arxiv.org/abs/1910.04365v1)
-Corné E. van Daalen|08-10-2019|[Stochastic Triangular Mesh Mapping](http://arxiv.org/abs/1910.03644v1)
-Jan Peters|07-10-2019|[Stochastic Optimal Control as Approximate Input Inference](http://arxiv.org/abs/1910.03003v1)
-Evangelos A. Theodorou|05-10-2019|[Bayesian Learning-Based Adaptive Control for Safety Critical Systems](http://arxiv.org/abs/1910.02325v1)
-Jun Zhou|05-10-2019|[Characterizing Membership Privacy in Stochastic Gradient Langevin   Dynamics](http://arxiv.org/abs/1910.02249v1)
-
-## 04-10-2019
-
-main_author|publish_date|title
----|---|---
-Dennis Prangle|02-10-2019|[Scalable approximate inference for state space models with normalising   flows](http://arxiv.org/abs/1910.00879v1)
-Flavian Vasile|02-10-2019|[Reconsidering Analytical Variational Bounds for Output Layers of Deep   Networks](http://arxiv.org/abs/1910.00877v2)
-Stephan Mandt|30-09-2019|[Tightening Bounds for Variational Inference by Revisiting Perturbation   Theory](http://arxiv.org/abs/1910.00069v1)
-Jung Hoon Lee|29-09-2019|[Libraries of hidden layer activity patterns can lead to better   understanding of operating principles of deep neural networks](http://arxiv.org/abs/1909.13360v1)
-Pierre Alquier|29-09-2019|[MMD-Bayes: Robust Bayesian Estimation via Maximum Mean Discrepancy](http://arxiv.org/abs/1909.13339v1)
-Greg Mori|29-09-2019|[Policy Message Passing: A New Algorithm for Probabilistic Graph   Inference](http://arxiv.org/abs/1909.13196v1)
-Xiao-Ming Wu|27-09-2019|[Clustering Uncertain Data via Representative Possible Worlds with   Consistency Learning](http://arxiv.org/abs/1909.12514v1)
-
-## 27-09-2019
-
-main_author|publish_date|title
----|---|---
-Bálint Gyires-Tóth|26-09-2019|[Stochastic Weight Matrix-based Regularization Methods for Deep Neural   Networks](http://arxiv.org/abs/1909.11977v1)
-Michael C. Mozer|25-09-2019|[Stochastic Prototype Embeddings](http://arxiv.org/abs/1909.11702v1)
-Liyi Dai|23-09-2019|[Community Detection and Improved Detectability in Multiplex Networks](http://arxiv.org/abs/1909.10477v1)
-Xiao Huang|20-09-2019|[A Two-Stage Stochastic Programming Model for Car-Sharing Problem using   Kernel Density Estimation](http://arxiv.org/abs/1909.09293v1)
-
-## 20-09-2019
-
-main_author|publish_date|title
----|---|---
-Jonathan P. How|18-09-2019|[Robust Opponent Modeling via Adversarial Ensemble Reinforcement Learning   in Asymmetric Imperfect-Information Games](http://arxiv.org/abs/1909.08735v1)
-Kechen Zhang|15-09-2019|[Cognitive swarming in complex environments with attractor dynamics and   oscillatory computing](http://arxiv.org/abs/1909.06711v1)
-Xiaobo Shen|14-09-2019|[Scalable Gaussian Process Classification with Additive Noise for Various   Likelihoods](http://arxiv.org/abs/1909.06541v1)
-Ding Zhao|14-09-2019|[Active Learning for Risk-Sensitive Inverse Reinforcement Learning](http://arxiv.org/abs/1909.07843v1)
-
-## 13-09-2019
-
-main_author|publish_date|title
----|---|---
-Insup Lee|11-09-2019|[Reinforcement Learning for Temporal Logic Control Synthesis with   Probabilistic Satisfaction Guarantees](http://arxiv.org/abs/1909.05304v1)
-Rémi Tachet des Combes|11-09-2019|[Safe Policy Improvement with an Estimated Baseline Policy](http://arxiv.org/abs/1909.05236v1)
-Beishui Liao|10-09-2019|[A Bayesian Approach to Direct and Inverse Abstract Argumentation   Problems](http://arxiv.org/abs/1909.04319v1)
-Benjamin Van Durme|06-09-2019|[Uncertain Natural Language Inference](http://arxiv.org/abs/1909.03042v1)
-
-## 06-09-2019
-
-main_author|publish_date|title
----|---|---
-Hongyuan Zha|04-09-2019|[Meta Learning with Relational Information for Short Sequences](http://arxiv.org/abs/1909.02105v1)
-Rajesh K. Gupta|04-09-2019|[ACES -- Automatic Configuration of Energy Harvesting Sensors with   Reinforcement Learning](http://arxiv.org/abs/1909.01968v1)
-Peng Cao|03-09-2019|[MRI Reconstruction Using Deep Bayesian Inference](http://arxiv.org/abs/1909.01127v1)
-Eyke Hüllermeier|31-08-2019|[Epistemic Uncertainty Sampling](http://arxiv.org/abs/1909.00218v1)
-
-## 30-08-2019
-
-main_author|publish_date|title
----|---|---
-Francesca Toni|29-08-2019|[Human-grounded Evaluations of Explanation Methods for Text   Classification](http://arxiv.org/abs/1908.11355v1)
-Evangelos A. Theodorou|28-08-2019|[Deep Learning Theory Review: An Optimal Control and Dynamical Systems   Perspective](http://arxiv.org/abs/1908.10920v1)
-David Rios Insua|26-08-2019|[Variationally Inferred Sampling Through a Refined Bound for   Probabilistic Programs](http://arxiv.org/abs/1908.09744v1)
-M. Jorge Cardoso|26-08-2019|[Stochastic Filter Groups for Multi-Task CNNs: Learning Specialist and   Generalist Convolution Kernels](http://arxiv.org/abs/1908.09597v1)
-Juergen Gall|26-08-2019|[Uncertainty-Aware Anticipation of Activities](http://arxiv.org/abs/1908.09540v2)
-Tieyan Liu|25-08-2019|[LightMC: A Dynamic and Efficient Multiclass Decomposition Algorithm](http://arxiv.org/abs/1908.09362v1)
-Jaime G. Carbonell|23-08-2019|[A Little Annotation does a Lot of Good: A Study in Bootstrapping   Low-resource Named Entity Recognizers](http://arxiv.org/abs/1908.08983v1)
-Theerawit Wilaiprasitporn|23-08-2019|[A comparative study for interpreting deep learning prediction of the   Parkinson's disease diagnosis from SPECT imaging](http://arxiv.org/abs/1908.11199v1)
-Soroosh Shafieezadeh-Abadeh|23-08-2019|[Wasserstein Distributionally Robust Optimization: Theory and   Applications in Machine Learning](http://arxiv.org/abs/1908.08729v1)
-
-## 23-08-2019
-
-main_author|publish_date|title
----|---|---
-Tao Li|22-08-2019|[Distributed Cooperative Online Estimation With Random Observation   Matrices, Communication Graphs and Time-Delays](http://arxiv.org/abs/1908.08245v1)
-Bo Liu|19-08-2019|[Transfer Learning-Based Label Proportions Method with Data of   Uncertainty](http://arxiv.org/abs/1908.06603v1)
-Jongwoo Lim|17-08-2019|[OmniMVS: End-to-End Learning for Omnidirectional Stereo Matching](http://arxiv.org/abs/1908.06257v1)
-
-## 16-08-2019
-
-main_author|publish_date|title
----|---|---
-Cheng Zhang|13-08-2019|[Icebreaker: Element-wise Active Information Acquisition with Bayesian   Deep Latent Gaussian Model](http://arxiv.org/abs/1908.04537v2)
-Badr-Eddine Chérief-Abdellatif|09-08-2019|[Generalization Error Bounds for Deep Variational Inference](http://arxiv.org/abs/1908.04847v1)
-Nal Kalchbrenner|09-08-2019|[Bayesian Inference for Large Scale Image Classification](http://arxiv.org/abs/1908.03491v1)
-Antonio Salmerón|09-08-2019|[Probabilistic Models with Deep Neural Networks](http://arxiv.org/abs/1908.03442v1)
-Jianxin Wu|09-08-2019|[Repetitive Reprediction Deep Decipher for Semi-Supervised Learning](http://arxiv.org/abs/1908.04345v1)
-
-## 09-08-2019
-
-main_author|publish_date|title
----|---|---
-Filip Rindler|06-08-2019|[Model inference for Ordinary Differential Equations by parametric   polynomial kernel regression](http://arxiv.org/abs/1908.02105v1)
-Ehecatl Antonio del Rio Chanona|05-08-2019|[Stochastic data-driven model predictive control using Gaussian processes](http://arxiv.org/abs/1908.01786v1)
-Margrit Betke|04-08-2019|[Deep Neural Network for Semantic-based Text Recognition in Images](http://arxiv.org/abs/1908.01403v1)
-Dongxiao Zhanga|03-08-2019|[Ensemble Neural Networks (ENN): A gradient-free stochastic method](http://arxiv.org/abs/1908.01113v1)
-Bangti Jin|01-08-2019|[Probabilistic Residual Learning for Aleatoric Uncertainty in Image   Restoration](http://arxiv.org/abs/1908.01010v1)
-
-## 02-08-2019
-
-main_author|publish_date|title
----|---|---
-Christine A. Shoemaker|30-07-2019|[pySOT and POAP: An event-driven asynchronous framework for surrogate   optimization](http://arxiv.org/abs/1908.00420v1)
-Jiebo Luo|30-07-2019|[Weakly Supervised Body Part Parsing with Pose based Part Priors](http://arxiv.org/abs/1907.13051v1)
-Reinhard Koch|30-07-2019|[2D and 3D Segmentation of uncertain local collagen fiber orientations in   SHG microscopy](http://arxiv.org/abs/1907.12868v1)
-Michael Behrisch|29-07-2019|[FDive: Learning Relevance Models using Pattern-based Similarity Measures](http://arxiv.org/abs/1907.12489v2)
-
-## 26-07-2019
-
-main_author|publish_date|title
----|---|---
-Christopher Drovandi|25-07-2019|[BSL: An R Package for Efficient Parameter Estimation for   Simulation-Based Models via Bayesian Synthetic Likelihood](http://arxiv.org/abs/1907.10940v1)
-Hongseok Yang|20-07-2019|[Towards Verified Stochastic Variational Inference for Probabilistic   Programs](http://arxiv.org/abs/1907.08827v1)
-Jiannong Cao|19-07-2019|[D-GAN: Deep Generative Adversarial Nets for Spatio-Temporal Prediction](http://arxiv.org/abs/1907.08556v2)
-Harrison Nguyen|19-07-2019|[When can we improve on sample average approximation for stochastic   optimization?](http://arxiv.org/abs/1907.08334v1)
-
-## 19-07-2019
-
-main_author|publish_date|title
----|---|---
-Naren Ramakrishnan|17-07-2019|[Mitigating Uncertainty in Document Classification](http://arxiv.org/abs/1907.07590v1)
-Andrew Gordon Wilson|17-07-2019|[Subspace Inference for Bayesian Deep Learning](http://arxiv.org/abs/1907.07504v1)
-Paul Fearnhead|16-07-2019|[Stochastic gradient Markov chain Monte Carlo](http://arxiv.org/abs/1907.06986v1)
-Larry Milstein|15-07-2019|[A Neural Network Detector for Spectrum Sensing under Uncertainties](http://arxiv.org/abs/1907.07326v1)
-Shinichi Shirakawa|15-07-2019|[Controlling Model Complexity in Probabilistic Model-Based Dynamic   Optimization of Neural Network Structures](http://arxiv.org/abs/1907.06341v1)
-
-## 12-07-2019
-
-main_author|publish_date|title
----|---|---
-Fabio Ramos|11-07-2019|[Kernel Trajectory Maps for Multi-Modal Probabilistic Motion Prediction](http://arxiv.org/abs/1907.05127v1)
-Rémi Tachet des Combes|11-07-2019|[Safe Policy Improvement with Soft Baseline Bootstrapping](http://arxiv.org/abs/1907.05079v1)
-Luis Nunes Vicente|10-07-2019|[The stochastic multi-gradient algorithm for multi-objective optimization   and its application to supervised machine learning](http://arxiv.org/abs/1907.04472v1)
-Ahsan Kareem|08-07-2019|[Bayesian deep learning with hierarchical prior: Predictions from limited   and noisy data](http://arxiv.org/abs/1907.04240v1)
-Tadahiro Taniguchi|08-07-2019|[Variational Inference MPC for Bayesian Model-based Reinforcement   Learning](http://arxiv.org/abs/1907.04202v1)
-Cem Tekin|07-07-2019|[Thompson Sampling for Combinatorial Network Optimization in Unknown   Environments](http://arxiv.org/abs/1907.04201v1)
-Johanni Brea|05-07-2019|[An Approximate Bayesian Approach to Surprise-Based Learning](http://arxiv.org/abs/1907.02936v1)
-
-## 05-07-2019
-
-main_author|publish_date|title
----|---|---
-Stefan Riezler|04-07-2019|[Interactive-Predictive Neural Machine Translation through Reinforcement   and Imitation](http://arxiv.org/abs/1907.02326v1)
-Kyriakos Vamvoudakis|03-07-2019|[Safe Approximate Dynamic Programming Via Kernelized Lipschitz Estimation](http://arxiv.org/abs/1907.02151v1)
-João Paulo P. Gomes|03-07-2019|[Unscented Gaussian Process Latent Variable Model: learning from   uncertain inputs with intractable kernels](http://arxiv.org/abs/1907.01867v1)
-Jixiang Li|03-07-2019|[FairNAS: Rethinking Evaluation Fairness of Weight Sharing Neural   Architecture Search](http://arxiv.org/abs/1907.01845v1)
-Christopher Kanan|02-07-2019|[Rethinking Continual Learning for Autonomous Agents and Robots](http://arxiv.org/abs/1907.01929v1)
-Yutaka Akiyama|02-07-2019|[Molecular activity prediction using graph convolutional deep neural   network considering distance on a molecular graph](http://arxiv.org/abs/1907.01103v2)
-Roland S. Zimmermann|01-07-2019|"[Comment on ""Adv-BNN: Improved Adversarial Defense through Robust   Bayesian Neural Network""](http://arxiv.org/abs/1907.00895v1)"
-Tong-Jie Zhang|01-07-2019|[Model Comparison of Dark Energy models Using Deep Network](http://arxiv.org/abs/1907.00568v2)
-Youssef Marzouk|30-06-2019|[Coupling techniques for nonlinear ensemble filtering](http://arxiv.org/abs/1907.00389v1)
-Masahito Ueda|29-06-2019|[Deep Gamblers: Learning to Abstain with Portfolio Theory](http://arxiv.org/abs/1907.00208v1)
-Frank Wood|28-06-2019|[The Thermodynamic Variational Objective](http://arxiv.org/abs/1907.00031v1)
-J. Nathan Kutz|25-06-2019|[A unified sparse optimization framework to learn parsimonious   physics-informed models from data](http://arxiv.org/abs/1906.10612v1)
-Prateek Saxena|25-06-2019|[Quantitative Verification of Neural Networks And its Security   Applications](http://arxiv.org/abs/1906.10395v1)
-Ding Zhao|25-06-2019|[Modeling Multi-Vehicle Interaction Scenarios Using Gaussian Random Field](http://arxiv.org/abs/1906.10307v1)
-Ryan P. Adams|24-06-2019|[A Theoretical Connection Between Statistical Physics and Reinforcement   Learning](http://arxiv.org/abs/1906.10228v1)
-Alexander M. Rush|24-06-2019|[Compound Probabilistic Context-Free Grammars for Grammar Induction](http://arxiv.org/abs/1906.10225v1)
-Karol Hausman|24-06-2019|[Learning to Interactively Learn and Assist](http://arxiv.org/abs/1906.10187v2)
-Ivan Titov|24-06-2019|[Learning Latent Trees with Stochastic Perturbations and Differentiable   Dynamic Programming](http://arxiv.org/abs/1906.09992v1)
-Peter Sollich|23-06-2019|[Parzen Filters for Spectral Decomposition of Signals](http://arxiv.org/abs/1906.09526v1)
-Daniel Zhuoyu Long|21-06-2019|[Revised Progressive-Hedging-Algorithm Based Two-layer Solution Scheme   for Bayesian Reinforcement Learning](http://arxiv.org/abs/1906.09035v1)
-
-## 21-06-2019
-
-main_author|publish_date|title
----|---|---
-Gabriel Hugh Elkaim|20-06-2019|[A Hierarchical Architecture for Sequential Decision-Making in Autonomous   Driving using Deep Reinforcement Learning](http://arxiv.org/abs/1906.08464v1)
-Max Welling|19-06-2019|[The Functional Neural Process](http://arxiv.org/abs/1906.08324v1)
-Justin Domke|19-06-2019|[Provable Gradient Variance Guarantees for Black-Box Variational   Inference](http://arxiv.org/abs/1906.08241v1)
-Bo Zhang|19-06-2019|[LIA: Latently Invertible Autoencoder with Adversarial Learning](http://arxiv.org/abs/1906.08090v1)
-Guillaume P. Dehaene|17-06-2019|[Variational Inference with Numerical Derivatives: variance reduction   through coupling](http://arxiv.org/abs/1906.06914v1)
-Ke Tang|17-06-2019|[Running Time Analysis of the (1+1)-EA for Robust Linear Optimization](http://arxiv.org/abs/1906.06873v1)
-Steve Easterbrook|16-06-2019|[Recovering the parameters underlying the Lorenz-96 chaotic dynamics](http://arxiv.org/abs/1906.06786v1)
-Christos Dimitrakakis|14-06-2019|[Epistemic Risk-Sensitive Reinforcement Learning](http://arxiv.org/abs/1906.06273v1)
-
-## 14-06-2019
-
-main_author|publish_date|title
----|---|---
-David Schlangen|13-06-2019|[Know What You Don't Know: Modeling a Pragmatic Speaker that Refers to   Objects of Unknown Categories](http://arxiv.org/abs/1906.05518v1)
-Frank Wood|13-06-2019|[Near-Optimal Glimpse Sequences for Improved Hard Attention Neural   Network Training](http://arxiv.org/abs/1906.05462v1)
-Omesh Tickoo|12-06-2019|[MOPED: Efficient priors for scalable variational inference in Bayesian   deep neural networks](http://arxiv.org/abs/1906.05323v1)
-Jun Wang|12-06-2019|[Neural Variational Inference For Estimating Uncertainty in Knowledge   Graph Embeddings](http://arxiv.org/abs/1906.04985v1)
-David J. Freedman|12-06-2019|[Improving Importance Weighted Auto-Encoders with Annealed Importance   Sampling](http://arxiv.org/abs/1906.04904v1)
-Ricardo Silva|11-06-2019|[Towards Inverse Reinforcement Learning for Limit Order Book Dynamics](http://arxiv.org/abs/1906.04813v1)
-Xia Hu|11-06-2019|[Coupled Variational Recurrent Collaborative Filtering](http://arxiv.org/abs/1906.04386v1)
-Shi Ye|11-06-2019|[Evaluation of Seed Set Selection Approaches and Active Learning   Strategies in Predictive Coding](http://arxiv.org/abs/1906.04367v1)
-Aaron Courville|10-06-2019|[Stochastic Neural Network with Kronecker Flow](http://arxiv.org/abs/1906.04282v1)
-Pekka Marttinen|10-06-2019|[Errors-in-variables Modeling of Personalized Treatment-Response   Trajectories](http://arxiv.org/abs/1906.03989v1)
-Taiji Suzuki|10-06-2019|[Goodness-of-fit Test for Latent Block Models](http://arxiv.org/abs/1906.03886v1)
-Francisco Pereira|10-06-2019|[Bayesian Automatic Relevance Determination for Utility Function   Specification in Discrete Choice Models](http://arxiv.org/abs/1906.03855v1)
-Alekh Agarwal|09-06-2019|[Deep Batch Active Learning by Diverse, Uncertain Gradient Lower Bounds](http://arxiv.org/abs/1906.03671v1)
-Shiliang Sun|09-06-2019|[A Variant of Gaussian Process Dynamical Systems](http://arxiv.org/abs/1906.03647v1)
-Thomas Brox|09-06-2019|[Overcoming Limitations of Mixture Density Networks: A Sampling and   Fitting Framework for Multimodal Future Prediction](http://arxiv.org/abs/1906.03631v1)
-Ashish Khetan|09-06-2019|[Robust conditional GANs under missing or uncertain labels](http://arxiv.org/abs/1906.03579v1)
-Jennifer G. Dy|07-06-2019|[Adaptive Nonparametric Variational Autoencoder](http://arxiv.org/abs/1906.03288v1)
-Trevor Cohn|07-06-2019|[Semi-supervised Stochastic Multi-Domain Learning using Variational   Inference](http://arxiv.org/abs/1906.02897v1)
-Maurizio Filippone|06-06-2019|[Deep Compositional Spatial Models](http://arxiv.org/abs/1906.02840v1)
-
-## 07-06-2019
-
-main_author|publish_date|title
----|---|---
-Joshua B. Tenenbaum|05-06-2019|[Finding Friend and Foe in Multi-Agent Games](http://arxiv.org/abs/1906.02330v1)
-Pascal Frossard|05-06-2019|[GOT: An Optimal Transport framework for Graph comparison](http://arxiv.org/abs/1906.02085v1)
-Edwin V. Bonilla|05-06-2019|[Variational Spectral Graph Convolutional Networks](http://arxiv.org/abs/1906.01852v1)
-Peter I. Frazier|04-06-2019|[Bayesian Optimization of Composite Functions](http://arxiv.org/abs/1906.01537v1)
-Xinglong Li|04-06-2019|[Universal Boosting Variational Inference](http://arxiv.org/abs/1906.01235v1)
-Aidong Zhang|03-06-2019|[Incorporating Biological Knowledge with Factor Graph Neural Network for   Interpretable Deep Learning](http://arxiv.org/abs/1906.00537v1)
-Bernhard Sick|31-05-2019|[Influences in Forecast Errors for Wind and Photovoltaic Power: A Study   on Machine Learning Models](http://arxiv.org/abs/1905.13668v1)
-Kohei Miyaguchi|31-05-2019|[PAC-Bayesian Transportation Bound](http://arxiv.org/abs/1905.13435v1)
-
-## 31-05-2019
-
-main_author|publish_date|title
----|---|---
-Neill D. F. Campbell|30-05-2019|[Monotonic Gaussian Process Flow](http://arxiv.org/abs/1905.12930v1)
-Patrick Gallinari|30-05-2019|[Regression with Conditional GAN](http://arxiv.org/abs/1905.12868v1)
-Atılım Güneş Baydin|29-05-2019|[Hijacking Malaria Simulators with Probabilistic Programming](http://arxiv.org/abs/1905.12432v1)
-Yves Moreau|29-05-2019|[GRU-ODE-Bayes: Continuous modeling of sporadically-observed time series](http://arxiv.org/abs/1905.12374v1)
-Edward Meeds|28-05-2019|[Efficient Amortised Bayesian Inference for Hierarchical and Nonlinear   Dynamical Systems](http://arxiv.org/abs/1905.12090v1)
-David A Knowles|28-05-2019|[A New Distribution on the Simplex with Auto-Encoding Applications](http://arxiv.org/abs/1905.12052v1)
-Juha Röning|28-05-2019|[Importance of user inputs while using incremental learning to   personalize human activity recognition models](http://arxiv.org/abs/1905.11775v1)
-Peter Richtárik|28-05-2019|[Stochastic Proximal Langevin Algorithm: Potential Splitting and   Nonasymptotic Rates](http://arxiv.org/abs/1905.11768v1)
-Michael Wooldridge|28-05-2019|[Manipulating a Learning Defender and Ways to Counteract](http://arxiv.org/abs/1905.11759v1)
-Abdellatif Zaidi|28-05-2019|[Variational Information Bottleneck for Unsupervised Clustering: Deep   Gaussian Mixture Embedding](http://arxiv.org/abs/1905.11741v1)
-Seiichi Uchida|26-05-2019|[ProbAct: A Probabilistic Activation Function for Deep Neural Networks](http://arxiv.org/abs/1905.10761v1)
-
-## 24-05-2019
-
-main_author|publish_date|title
----|---|---
-Sébastien Toth|23-05-2019|[Estimating Risk and Uncertainty in Deep Reinforcement Learning](http://arxiv.org/abs/1905.09638v1)
-Yoshimasa Tsuruoka|22-05-2019|[Learning Robust Options by Conditional Value at Risk Optimization](http://arxiv.org/abs/1905.09191v1)
-Lukasz Szpruch|19-05-2019|[Mean-Field Langevin Dynamics and Energy Landscape of Neural Networks](http://arxiv.org/abs/1905.07769v1)
-Mohammadreza Dabirian|19-05-2019|[Reinforcement Learning for Learning of Dynamical Systems in Uncertain   Environment: a Tutorial](http://arxiv.org/abs/1905.07727v1)
-Jakob H. Macke|17-05-2019|[Automatic Posterior Transformation for Likelihood-Free Inference](http://arxiv.org/abs/1905.07488v1)
-Darryl Wright|17-05-2019|[Galaxy Zoo: Probabilistic Morphology through Bayesian CNNs and Active   Learning](http://arxiv.org/abs/1905.07424v1)
-
-## 17-05-2019
-
-main_author|publish_date|title
----|---|---
-Enrique Munoz de Cote|16-05-2019|[Adaptive Sensor Placement for Continuous Spaces](http://arxiv.org/abs/1905.06821v1)
-Mark A. Anastasio|14-05-2019|[Reconstruction-Aware Imaging System Ranking by use of a Sparsity-Driven   Numerical Observer Enabled by Variational Bayesian Inference](http://arxiv.org/abs/1905.05820v1)
-Zhu Han|13-05-2019|[A Deep Spatio-Temporal Fuzzy Neural Network for Passenger Demand   Prediction](http://arxiv.org/abs/1905.05614v1)
-Creighton Heaukulani|11-05-2019|[Variational inference for neural network matrix factorization and its   application to stochastic blockmodeling](http://arxiv.org/abs/1905.04502v1)
-Maximilian Weininger|10-05-2019|[PAC Statistical Model Checking for Markov Decision Processes and   Stochastic Games](http://arxiv.org/abs/1905.04403v1)
-Michalis K. Titsias|10-05-2019|[A Contrastive Divergence for Combining Variational Inference and MCMC](http://arxiv.org/abs/1905.04062v1)
-
-## 10-05-2019
-
-main_author|publish_date|title
----|---|---
-In So Kweon|09-05-2019|[Learning Loss for Active Learning](http://arxiv.org/abs/1905.03677v1)
-Hyo-Eun Kim|08-05-2019|[Photometric Transformer Networks and Label Adjustment for Breast Density   Prediction](http://arxiv.org/abs/1905.02906v1)
-Kikuo Fujimura|07-05-2019|[Uncertainty-Aware Data Aggregation for Deep Imitation Learning](http://arxiv.org/abs/1905.02780v1)
-Dong Huang|06-05-2019|[Frame-wise Motion and Appearance for Real-time Multiple Object Tracking](http://arxiv.org/abs/1905.02292v1)
-Philippe Casgrain|05-05-2019|[A Bayesian Variational Framework for Stochastic Optimization](http://arxiv.org/abs/1905.01707v3)
-Masayoshi Tomizuka|05-05-2019|[Conditional Generative Neural System for Probabilistic Trajectory   Prediction](http://arxiv.org/abs/1905.01631v1)
-Sergey Levine|03-05-2019|[PRECOG: PREdiction Conditioned On Goals in Visual Multi-Agent Settings](http://arxiv.org/abs/1905.01296v2)
-
-## 03-05-2019
-
-main_author|publish_date|title
----|---|---
-Yves Le Traon|30-04-2019|[Test Selection for Deep Learning Systems](http://arxiv.org/abs/1904.13195v1)
-Fangfang Xia|29-04-2019|[Neuromorphic Acceleration for Approximate Bayesian Inference on Neural   Networks via Permanent Dropout](http://arxiv.org/abs/1904.12904v1)
-Christopher McCord|26-04-2019|[From Predictions to Prescriptions in Multistage Optimization Problems](http://arxiv.org/abs/1904.11637v1)
-
-## 26-04-2019
-
-main_author|publish_date|title
----|---|---
-Alma A. M. Rahat|25-04-2019|[A Bayesian Approach for the Robust Optimisation of Expensive-To-Evaluate   Functions](http://arxiv.org/abs/1904.11416v1)
-Rongzhi Wang|24-04-2019|[Super-resolution based generative adversarial network using visual   perceptual loss function](http://arxiv.org/abs/1904.10654v1)
-Eran Treister|23-04-2019|[Multi-modal 3D Shape Reconstruction Under Calibration Uncertainty using   Parametric Level Set Methods](http://arxiv.org/abs/1904.10379v1)
-
-## 19-04-2019
-
-main_author|publish_date|title
----|---|---
-Yisong Yue|17-04-2019|[Batched Stochastic Bayesian Optimization via Combinatorial Constraints   Design](http://arxiv.org/abs/1904.08102v1)
-Daniel Sheldon|16-04-2019|[A Bayesian Perspective on the Deep Image Prior](http://arxiv.org/abs/1904.07457v1)
-Aleksandrs Slivkins|15-04-2019|[Introduction to Multi-Armed Bandits](http://arxiv.org/abs/1904.07272v1)
-Allen R. Tannenbaum|14-04-2019|[Probabilistic Kernel Support Vector Machines](http://arxiv.org/abs/1904.06762v1)
-Dacheng Tao|14-04-2019|[Exploring Representativeness and Informativeness for Active Learning](http://arxiv.org/abs/1904.06685v1)
-
-## 12-04-2019
-
-main_author|publish_date|title
----|---|---
-Umut Şimşekli|11-04-2019|[Probabilistic Permutation Synchronization using the Riemannian Structure   of the Birkhoff Polytope](http://arxiv.org/abs/1904.05814v1)
-Nicholas A. Heard|06-04-2019|[Bayesian estimation of the latent dimension and communities in   stochastic blockmodels](http://arxiv.org/abs/1904.05333v1)
-Greg Mori|05-04-2019|[A Variational Auto-Encoder Model for Stochastic Point Processes](http://arxiv.org/abs/1904.03273v1)
-David J. Marchette|05-04-2019|[Simultaneous Dimensionality and Complexity Model Selection for Spectral   Graph Clustering](http://arxiv.org/abs/1904.02926v1)
-Sonia Martinez|05-04-2019|[Planning under risk and uncertainty based on Prospect-theoretic models](http://arxiv.org/abs/1904.02851v1)
-
-## 05-04-2019
-
-main_author|publish_date|title
----|---|---
-Roland Wiest|04-04-2019|[Few-shot brain segmentation from weakly labeled data with deep   heteroscedastic multi-task networks](http://arxiv.org/abs/1904.02436v1)
-Juncal Arbelaiz|02-04-2019|[Personalized Cancer Chemotherapy Schedule: a numerical comparison of   performance and robustness in model-based and model-free scheduling   methodologies](http://arxiv.org/abs/1904.01200v1)
-Michael U. Gutmann|01-04-2019|[Robust Optimisation Monte Carlo](http://arxiv.org/abs/1904.00670v1)
-Marcel A. J. van Gerven|31-03-2019|[Perturbative estimation of stochastic gradients](http://arxiv.org/abs/1904.00469v1)
-
-## 29-03-2019
-
-main_author|publish_date|title
----|---|---
-Vadim Indelman|25-03-2019|[General Probabilistic Surface Optimization and Log Density Estimation](http://arxiv.org/abs/1903.10567v1)
-Armando Solar Lezama|25-03-2019|[The Random Conditional Distribution for Higher-Order Probabilistic   Inference](http://arxiv.org/abs/1903.10556v1)
-Jun Sun|25-03-2019|[Learning from Adversarial Features for Few-Shot Classification](http://arxiv.org/abs/1903.10225v1)
-Haralampos Pozidis|22-03-2019|[Sampling Acquisition Functions for Batch Bayesian Optimization](http://arxiv.org/abs/1903.09434v1)
-Prabir Kumar Biswas|22-03-2019|[Fast Bayesian Uncertainty Estimation of Batch Normalized Single Image   Super-Resolution Network](http://arxiv.org/abs/1903.09410v1)
-Daniel Wilke|22-03-2019|[Gradient-only line searches: An Alternative to Probabilistic Line   Searches](http://arxiv.org/abs/1903.09383v1)
-
-## 22-03-2019
-
-main_author|publish_date|title
----|---|---
-Matthias Grossglauser|18-03-2019|[Linear-Time Inference for Pairwise Comparisons with Gaussian-Process   Dynamics](http://arxiv.org/abs/1903.07746v1)
-Yufei Zhang|15-03-2019|[Rectified deep neural networks overcome the curse of dimensionality for   nonsmooth value functions in zero-sum games of nonlinear stiff systems](http://arxiv.org/abs/1903.06652v1)
-Roger Grosse|14-03-2019|[Functional Variational Bayesian Neural Networks](http://arxiv.org/abs/1903.05779v1)
-Abdeslam Boularias|13-03-2019|[Inferring 3D Shapes of Unknown Rigid Objects in Clutter through Inverse   Physics Reasoning](http://arxiv.org/abs/1903.05749v1)
-Daniel Wintz|12-03-2019|[Application of Duration-of-Stay Storage Assignment with Deep Neural   Networks under Uncertainty](http://arxiv.org/abs/1903.05063v1)
-Thomas B. Schön|12-03-2019|[Elements of Sequential Monte Carlo](http://arxiv.org/abs/1903.04797v1)
-Reza Babanezhad|10-03-2019|[Manifold Preserving Adversarial Learning](http://arxiv.org/abs/1903.03905v3)
-Rajesh Ranganath|07-03-2019|[The Variational Predictive Natural Gradient](http://arxiv.org/abs/1903.02984v1)
-Patrick Forré|07-03-2019|[Reparameterizing Distributions on Lie Groups](http://arxiv.org/abs/1903.02958v1)
-Issei Sato|07-03-2019|[On Transformations in Stochastic Gradient MCMC](http://arxiv.org/abs/1903.02750v1)
-Jun Sun|06-03-2019|[Safeguarded Dynamic Label Regression for Generalized Noisy Supervision](http://arxiv.org/abs/1903.02152v1)
-Darwin G. Caldwell|05-03-2019|[Uncertainty-Aware Imitation Learning using Kernelized Movement   Primitives](http://arxiv.org/abs/1903.02114v2)
-Maxim Raginsky|05-03-2019|[Theoretical guarantees for sampling and inference in generative models   with latent diffusions](http://arxiv.org/abs/1903.01608v1)
-Aaron D. Ames|04-03-2019|[Episodic Learning with Control Lyapunov Functions for Uncertain Robotic   Systems](http://arxiv.org/abs/1903.01577v1)
-Durk Kingma|04-03-2019|[VideoFlow: A Flow-Based Generative Model for Video](http://arxiv.org/abs/1903.01434v1)
-Kwong-Sak Leung|04-03-2019|[Stochastic Online Learning with Probabilistic Graph Feedback](http://arxiv.org/abs/1903.01083v1)
-Shaojie Shen|03-03-2019|[Predicting Vehicle Behaviors Over An Extended Horizon Using Behavior   Interaction Network](http://arxiv.org/abs/1903.00848v1)
-Hugo Tullberg|28-02-2019|[Constrained Thompson Sampling for Wireless Link Optimization](http://arxiv.org/abs/1902.11102v1)
-Alexander Munteanu|28-02-2019|[Probabilistic smallest enclosing ball in high dimensions via subgradient   sampling](http://arxiv.org/abs/1902.10966v1)
-Ilias Bilionis|27-02-2019|[Deep active subspaces - a scalable method for high-dimensional   uncertainty propagation](http://arxiv.org/abs/1902.10527v2)
-Stefano Ermon|27-02-2019|[Training Variational Autoencoders with Buffered Stochastic Variational   Inference](http://arxiv.org/abs/1902.10294v1)
-Ruben Martinez-Cantin|26-02-2019|[Fully Distributed Bayesian Optimization with Stochastic Policies](http://arxiv.org/abs/1902.09992v1)
-Maxine Eskenazi|23-02-2019|[Rethinking Action Spaces for Reinforcement Learning in End-to-end Dialog   Agents with Latent Variable Models](http://arxiv.org/abs/1902.08858v1)
-Jérémie Mary|23-02-2019|[Distributionally Robust Reinforcement Learning](http://arxiv.org/abs/1902.08708v1)
-Joshua Reid|22-02-2019|[Multi-Armed Bandit Strategies for Non-Stationary Reward Distributions   and Delayed Feedback Processes](http://arxiv.org/abs/1902.08593v1)
-Bernhard Schölkopf|22-02-2019|[AReS and MaRS - Adversarial and MMD-Minimizing Regression for SDEs](http://arxiv.org/abs/1902.08480v1)
-Yonghong Tian|22-02-2019|[Probabilistic Inference of Binary Markov Random Fields in Spiking Neural   Networks through Mean-field Approximation](http://arxiv.org/abs/1902.08411v1)
-Nisheeth K. Vishnoi|21-02-2019|[Online Sampling from Log-Concave Distributions](http://arxiv.org/abs/1902.08179v2)
-Fabio Ramos|21-02-2019|[Bayesian optimisation under uncertain inputs](http://arxiv.org/abs/1902.07908v1)
-Devi Parikh|21-02-2019|[Probabilistic Neural-symbolic Models for Interpretable Visual Question   Answering](http://arxiv.org/abs/1902.07864v1)
-Philipp Hennig|20-02-2019|[Active Probabilistic Inference on Matrices for Pre-Conditioning in   Stochastic Optimization](http://arxiv.org/abs/1902.07557v1)
-Jeffrey L. Krichmar|16-02-2019|[Neuromodulated Goal-Driven Perception in Uncertain Domains](http://arxiv.org/abs/1903.00068v1)
-Marco Pavone|15-02-2019|[Network Offloading Policies for Cloud Robotics: a Learning-based   Approach](http://arxiv.org/abs/1902.05703v1)
-Shigeyuki Oba|14-02-2019|[Long and Short Memory Balancing in Visual Co-Tracking using Q-Learning](http://arxiv.org/abs/1902.05211v1)
-Ciamac C. Moallemi|12-02-2019|[Thompson Sampling with Information Relaxation Penalties](http://arxiv.org/abs/1902.04251v1)
-Kaushik Roy|11-02-2019|[ReStoCNet: Residual Stochastic Binary Convolutional Spiking Neural   Network for Memory-Efficient Neuromorphic Computing](http://arxiv.org/abs/1902.04161v1)
-Phaedon-Stelios Koutsourelakis|11-02-2019|[A physics-aware, probabilistic machine learning framework for   coarse-graining high-dimensional systems in the Small Data regime](http://arxiv.org/abs/1902.03968v1)
-Andrew Gordon Wilson|11-02-2019|[Cyclical Stochastic Gradient MCMC for Bayesian Deep Learning](http://arxiv.org/abs/1902.03932v1)
-Richard Gerlach|11-02-2019|[Manifold Optimisation Assisted Gaussian Variational Approximation](http://arxiv.org/abs/1902.03718v1)
-Jianfeng Lu|09-02-2019|[A stochastic version of Stein Variational Gradient Descent for efficient   sampling](http://arxiv.org/abs/1902.03394v1)
-Andrew Gordon Wilson|07-02-2019|[A Simple Baseline for Bayesian Uncertainty in Deep Learning](http://arxiv.org/abs/1902.02476v1)
-Ole Winther|06-02-2019|[BIVA: A Very Deep Hierarchy of Latent Variables for Generative Modeling](http://arxiv.org/abs/1902.02102v1)
-Csaba Szepesvári|05-02-2019|[Distribution-Dependent Analysis of Gibbs-ERM Principle](http://arxiv.org/abs/1902.01846v1)
-Zhen Qian|05-02-2019|[AVP: Physics-informed Data Generation for Small-data Learning](http://arxiv.org/abs/1902.01522v1)
-Kenji Doya|04-02-2019|[PIPPS: Flexible Model-Based Policy Search Robust to the Curse of Chaos](http://arxiv.org/abs/1902.01240v1)
-Jonghyun Choi|03-02-2019|[Incremental Learning with Maximum Entropy Regularization: Rethinking   Forgetting and Intransigence](http://arxiv.org/abs/1902.00829v1)
-Mingda Qiao|02-02-2019|[On Generalization Error Bounds of Noisy Gradient Methods for Non-Convex   Learning](http://arxiv.org/abs/1902.00621v1)
-Issei Sato|01-02-2019|[Multi-level Monte Carlo Variational Inference](http://arxiv.org/abs/1902.00468v1)
-and Volkan Cevher|01-02-2019|[Scalable Learning-Based Sampling Optimization for Compressive Dynamic   MRI](http://arxiv.org/abs/1902.00386v3)
-Torsten A. Enßlin|30-01-2019|[Metric Gaussian Variational Inference](http://arxiv.org/abs/1901.11033v1)
-Arnaud Doucet|28-01-2019|[Scalable Metropolis-Hastings for Exact Bayesian Inference with Large   Datasets](http://arxiv.org/abs/1901.09881v2)
-Bo Zhang|24-01-2019|[Adversarial Variational Inference and Learning in Markov Random Fields](http://arxiv.org/abs/1901.08400v1)
-Aurélien Garivier|23-01-2019|[A Review on Quantile Regression for Stochastic Computer Experiments](http://arxiv.org/abs/1901.07874v2)
-Riadh Ksantini|23-01-2019|[Deep Clustering with a Dynamic Autoencoder](http://arxiv.org/abs/1901.07752v2)
-Peng Jiang|23-01-2019|[Deep learning Inversion of Seismic Data](http://arxiv.org/abs/1901.07733v1)
-Larry Davis|23-01-2019|[Exploring Uncertainty in Conditional Multi-Modal Retrieval Systems](http://arxiv.org/abs/1901.07702v1)
-Ling Shao|22-01-2019|[Striking the Right Balance with Uncertainty](http://arxiv.org/abs/1901.07590v1)
-Andrea Lodi|22-01-2019|[Predicting Tactical Solutions to Operational Planning Problems under   Imperfect Information](http://arxiv.org/abs/1901.07935v2)
+   
