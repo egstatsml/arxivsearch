@@ -1,5 +1,16 @@
 # bnn
 Click on title for link to paper
+## 21-11-2019
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Luigi Malagò|[Parameters Estimation for the Cosmic Microwave Background with Bayesian   Neural Networks](http://arxiv.org/abs/1911.08508v1)|2019-11-19 19:09:53+00:00|19-11-2019
+Ying Nian Wu|[Deep Unsupervised Clustering with Clustered Generator Model](http://arxiv.org/abs/1911.08459v1)|2019-11-19 18:39:44+00:00|19-11-2019
+Wei Xu|[Implicit Generative Modeling for Efficient Exploration](http://arxiv.org/abs/1911.08017v1)|2019-11-19 00:37:23+00:00|19-11-2019
+Savitha Ramasamy|[Bayesian Recurrent Framework for Missing Data Imputation and Prediction   with Clinical Time Series](http://arxiv.org/abs/1911.07572v1)|2019-11-18 12:05:49+00:00|18-11-2019
+John B. Bell|[Iterative Construction of Gaussian Process Surrogate Models for Bayesian   Inference](http://arxiv.org/abs/1911.07227v1)|2019-11-17 12:57:32+00:00|17-11-2019
+Guo-Jun Qi|[AETv2: AutoEncoding Transformations for Self-Supervised Representation   Learning by Minimizing Geodesic Distances in Lie Groups](http://arxiv.org/abs/1911.07004v1)|2019-11-16 09:58:58+00:00|16-11-2019
+
 ## 18-11-2019
 
 main_author|title|update_date|publish_date
