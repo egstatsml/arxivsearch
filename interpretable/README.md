@@ -1,5 +1,11 @@
 # interpretable
 Click on title for link to paper
+## 22-11-2019
+
+title|publish_date|main_author
+---|---|---
+No papers found this week|22-11-2019|  
+
 ## 21-11-2019
 
 title|publish_date|main_author

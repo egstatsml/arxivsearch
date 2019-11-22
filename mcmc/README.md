@@ -1,5 +1,12 @@
 # mcmc
 Click on title for link to paper
+## 22-11-2019
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Sabber Ahamed|[Estimating uncertainty of earthquake rupture using Bayesian neural   network](http://arxiv.org/abs/1911.09660v1)|2019-11-21 18:42:35+00:00|21-11-2019
+Wei Kang|[Density Propagation with Characteristics-based Deep Learning](http://arxiv.org/abs/1911.09311v1)|2019-11-21 07:09:38+00:00|21-11-2019
+
 ## 21-11-2019
 
 main_author|title|update_date|publish_date
