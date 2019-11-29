@@ -1,5 +1,21 @@
 # bnn
 Click on title for link to paper
+## 29-11-2019
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Sileye 0. Ba|[Discovering topics with neural topic models built from PLSA assumptions](http://arxiv.org/abs/1911.10924v1)|2019-11-25 13:59:05+00:00|25-11-2019
+Christopher L. Buckley|[Scaling active inference](http://arxiv.org/abs/1911.10601v1)|2019-11-24 20:03:11+00:00|24-11-2019
+Richard E. Turner|[Differentially Private Federated Variational Inference](http://arxiv.org/abs/1911.10563v1)|2019-11-24 16:15:31+00:00|24-11-2019
+Christian Wallraven|[3FabRec: Fast Few-shot Face alignment by Reconstruction](http://arxiv.org/abs/1911.10448v1)|2019-11-24 02:38:17+00:00|24-11-2019
+Chiranjib Sur|[CRUR: Coupled-Recurrent Unit for Unification, Conceptualization and   Context Capture for Language Representation -- A Generalization of Bi   Directional LSTM](http://arxiv.org/abs/1911.10132v1)|2019-11-22 16:48:10+00:00|22-11-2019
+James Geddes|[ptype: Probabilistic Type Inference](http://arxiv.org/abs/1911.10081v1)|2019-11-22 15:21:15+00:00|22-11-2019
+Kyungtae Han|[Graph Convolution Networks for Probabilistic Modeling of Driving   Acceleration](http://arxiv.org/abs/1911.09837v1)|2019-11-22 03:48:43+00:00|22-11-2019
+Bo Zhang|[DBSN: Measuring Uncertainty through Bayesian Learning of Deep Neural   Network Structures](http://arxiv.org/abs/1911.09804v1)|2019-11-22 01:31:28+00:00|22-11-2019
+Sabber Ahamed|[Estimating uncertainty of earthquake rupture using Bayesian neural   network](http://arxiv.org/abs/1911.09660v1)|2019-11-21 18:42:35+00:00|21-11-2019
+Richard E. Turner|[Continual Learning with Adaptive Weights (CLAW)](http://arxiv.org/abs/1911.09514v1)|2019-11-21 14:59:58+00:00|21-11-2019
+Tong Zhang|[Multi-objective Neural Architecture Search via Predictive Network   Performance Optimization](http://arxiv.org/abs/1911.09336v1)|2019-11-21 08:29:00+00:00|21-11-2019
+
 ## 22-11-2019
 
 title|publish_date|main_author

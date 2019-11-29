@@ -1,5 +1,30 @@
 # fairness
 Click on title for link to paper
+## 29-11-2019
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Jixiang Li|[Fair DARTS: Eliminating Unfair Advantages in Differentiable Architecture   Search](http://arxiv.org/abs/1911.12126v1)|2019-11-27 13:10:25+00:00|27-11-2019
+Michael Arens|[Analysis of Explainers of Black Box Deep Neural Networks for Computer   Vision: A Survey](http://arxiv.org/abs/1911.12116v1)|2019-11-27 12:58:52+00:00|27-11-2019
+Vladimir Ivanov|[SAG-VAE: End-to-end Joint Inference of Data Representations and Feature   Relations](http://arxiv.org/abs/1911.11984v1)|2019-11-27 06:48:08+00:00|27-11-2019
+Huchuan Lu|[Class-Conditional Domain Adaptation on Semantic Segmentation](http://arxiv.org/abs/1911.11981v1)|2019-11-27 06:38:28+00:00|27-11-2019
+Olga Russakovsky|[Towards Fairness in Visual Recognition: Effective Strategies for Bias   Mitigation](http://arxiv.org/abs/1911.11834v1)|2019-11-26 21:02:30+00:00|26-11-2019
+Omar Peracha|[Improving Polyphonic Music Models with Feature-Rich Encoding](http://arxiv.org/abs/1911.11775v1)|2019-11-26 18:38:30+00:00|26-11-2019
+Yejin Choi|[PIQA: Reasoning about Physical Commonsense in Natural Language](http://arxiv.org/abs/1911.11641v1)|2019-11-26 15:31:46+00:00|26-11-2019
+Rafael Henrique Santos Rocha|[Cumulative Sum Ranking](http://arxiv.org/abs/1911.11255v1)|2019-11-25 22:04:19+00:00|25-11-2019
+Eduardo Almeida Soares|[A Self-Adaptive Synthetic Over-Sampling Technique for Imbalanced   Classification](http://arxiv.org/abs/1911.11018v1)|2019-11-25 16:08:32+00:00|25-11-2019
+Md. Iftekhar Tanveer|[FairyTED: A Fair Rating Predictor for TED Talk Data](http://arxiv.org/abs/1911.11558v1)|2019-11-25 09:55:52+00:00|25-11-2019
+Juan Feng|[A Causal Inference Method for Reducing Gender Bias in Word Embedding   Relations](http://arxiv.org/abs/1911.10787v1)|2019-11-25 09:47:11+00:00|25-11-2019
+Noam Slonim|[Corpus Wide Argument Mining -- a Working Solution](http://arxiv.org/abs/1911.10763v1)|2019-11-25 08:29:37+00:00|25-11-2019
+Weihong Deng|[Mitigate Bias in Face Recognition using Skewness-Aware Reinforcement   Learning](http://arxiv.org/abs/1911.10692v1)|2019-11-25 03:58:11+00:00|25-11-2019
+Vasant Honavar|[Algorithmic Bias in Recidivism Prediction: A Causal Perspective](http://arxiv.org/abs/1911.10640v1)|2019-11-24 23:47:50+00:00|24-11-2019
+Gang Chen|[Merging Deterministic Policy Gradient Estimations with Varied   Bias-Variance Tradeoff for Effective Deep Reinforcement Learning](http://arxiv.org/abs/1911.10527v1)|2019-11-24 13:44:32+00:00|24-11-2019
+Hanwang Zhang|[Two Causal Principles for Improving Visual Dialog](http://arxiv.org/abs/1911.10496v1)|2019-11-24 10:35:35+00:00|24-11-2019
+Kieran Parsons|[Neural Turbo Equalization: Deep Learning for Fiber-Optic Nonlinearity   Compensation](http://arxiv.org/abs/1911.10131v1)|2019-11-22 16:40:51+00:00|22-11-2019
+Zhiliang Chen|[Fair Multi-party Machine Learning -- a Game Theoretic approach](http://arxiv.org/abs/1911.11555v1)|2019-11-22 07:31:21+00:00|22-11-2019
+Diyi Yang|[Automatically Neutralizing Subjective Bias in Text](http://arxiv.org/abs/1911.09709v1)|2019-11-21 19:15:03+00:00|21-11-2019
+Christian P. Robert|[Parallelising MCMC via Random Forests](http://arxiv.org/abs/1911.09698v1)|2019-11-21 19:02:13+00:00|21-11-2019
+
 ## 22-11-2019
 
 title|publish_date|main_author

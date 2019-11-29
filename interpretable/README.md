@@ -1,5 +1,11 @@
 # interpretable
 Click on title for link to paper
+## 29-11-2019
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Travis LaCroix|[Biology and Compositionality: Empirical Considerations for   Emergent-Communication Protocols](http://arxiv.org/abs/1911.11668v1)|2019-11-26 16:07:44+00:00|26-11-2019
+
 ## 22-11-2019
 
 title|publish_date|main_author

@@ -1,5 +1,16 @@
 # variational
 Click on title for link to paper
+## 29-11-2019
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Austen Lamacraft|[SchrödingeRNN: Generative Modeling of Raw Audio as a Continuously   Observed Quantum State](http://arxiv.org/abs/1911.11879v1)|2019-11-26 23:33:46+00:00|26-11-2019
+Bernhard Schölkopf|[A New Distribution-Free Concept for Representing, Comparing, and   Propagating Uncertainty in Dynamical Systems with Kernel Probabilistic   Programming](http://arxiv.org/abs/1911.11082v1)|2019-11-25 17:41:21+00:00|25-11-2019
+Christopher L. Buckley|[Scaling active inference](http://arxiv.org/abs/1911.10601v1)|2019-11-24 20:03:11+00:00|24-11-2019
+Eric M. Wolff|[CoverNet: Multimodal Behavior Prediction using Trajectory Sets](http://arxiv.org/abs/1911.10298v1)|2019-11-23 01:46:59+00:00|23-11-2019
+Mauricio A. Álvarez|[A Fully Natural Gradient Scheme for Improving Inference of the   Heterogeneous Multi-Output Gaussian Process Model](http://arxiv.org/abs/1911.10225v2)|2019-11-27 11:52:01+00:00|22-11-2019
+Bo Zhang|[DBSN: Measuring Uncertainty through Bayesian Learning of Deep Neural   Network Structures](http://arxiv.org/abs/1911.09804v1)|2019-11-22 01:31:28+00:00|22-11-2019
+
 ## 22-11-2019
 
 main_author|title|update_date|publish_date
