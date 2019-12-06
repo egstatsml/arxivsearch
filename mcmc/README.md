@@ -1,5 +1,19 @@
 # mcmc
 Click on title for link to paper
+## 06-12-2019
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Kian Hsiang Low|[Scalable Variational Bayesian Kernel Selection for Sparse Gaussian   Process Regression](http://arxiv.org/abs/1912.02641v1)|2019-12-05 15:23:10+00:00|05-12-2019
+Iryna Gurevych|[Scalable Bayesian Preference Learning for Crowds](http://arxiv.org/abs/1912.01987v1)|2019-12-04 13:56:38+00:00|04-12-2019
+Zheng Zhang|[Quantum-Inspired Hamiltonian Monte Carlo for Bayesian Sampling](http://arxiv.org/abs/1912.01937v1)|2019-12-04 12:56:35+00:00|04-12-2019
+Byron Boots|[Expressiveness and Learning of Hidden Quantum Markov Models](http://arxiv.org/abs/1912.02098v1)|2019-12-02 21:51:19+00:00|02-12-2019
+Melih Kandemir|[Differential Bayesian Neural Nets](http://arxiv.org/abs/1912.00796v1)|2019-12-02 14:03:55+00:00|02-12-2019
+Haige Shen|[Stochastic Variational Inference via Upper Bound](http://arxiv.org/abs/1912.00650v1)|2019-12-02 09:30:40+00:00|02-12-2019
+Jie Liu|[Model Embedded DRL for Intelligent Greenhouse Control](http://arxiv.org/abs/1912.00020v1)|2019-12-01 18:25:19+00:00|01-12-2019
+Augusto Voltes-Dorta|[A Bayesian Dynamic Multilayered Block Network Model](http://arxiv.org/abs/1911.13136v1)|2019-11-29 15:03:05+00:00|29-11-2019
+Dario Piga|[Model structures and fitting criteria for system identification with   neural networks](http://arxiv.org/abs/1911.13034v1)|2019-11-29 10:14:58+00:00|29-11-2019
+
 ## 29-11-2019
 
 main_author|title|update_date|publish_date

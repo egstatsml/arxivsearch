@@ -1,5 +1,13 @@
 # interpretable
 Click on title for link to paper
+## 06-12-2019
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Dan Goldwasser|[An Anomaly Contribution Explainer for Cyber-Security Applications](http://arxiv.org/abs/1912.00314v1)|2019-12-01 04:16:12+00:00|01-12-2019
+Changsheng Xu|[Time-Guided High-Order Attention Model of Longitudinal Heterogeneous   Healthcare Data](http://arxiv.org/abs/1912.00773v1)|2019-11-28 03:15:24+00:00|28-11-2019
+Aad van Moorsel|[The relationship between trust in AI and trustworthy machine learning   technologies](http://arxiv.org/abs/1912.00782v2)|2019-12-03 11:59:43+00:00|27-11-2019
+
 ## 29-11-2019
 
 main_author|title|update_date|publish_date

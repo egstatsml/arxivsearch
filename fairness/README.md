@@ -1,5 +1,32 @@
 # fairness
 Click on title for link to paper
+## 06-12-2019
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Ruben Spies|[Extreme Learning Machine design for dealing with unrepresentative   features](http://arxiv.org/abs/1912.02154v1)|2019-12-04 18:06:58+00:00|04-12-2019
+Robert Tibshirani|[Reluctant additive modeling](http://arxiv.org/abs/1912.01808v1)|2019-12-04 05:52:09+00:00|04-12-2019
+Daniel Omeiza|[A Step Towards Exposing Bias in Trained Deep Convolutional Neural   Network Models](http://arxiv.org/abs/1912.02094v1)|2019-12-03 13:06:31+00:00|03-12-2019
+Muhammad Shafique|[FANNet: Formal Analysis of Noise Tolerance, Training Bias and Input   Sensitivity in Neural Networks](http://arxiv.org/abs/1912.01978v1)|2019-12-03 12:42:47+00:00|03-12-2019
+Quanquan Gu|[Towards Understanding the Spectral Bias of Deep Learning](http://arxiv.org/abs/1912.01198v1)|2019-12-03 05:34:30+00:00|03-12-2019
+Aaron Defazio|[Offset Masking Improves Deep Learning based Accelerated MRI   Reconstructions](http://arxiv.org/abs/1912.01101v1)|2019-12-02 22:29:26+00:00|02-12-2019
+Kevin Stangl|[Recovering from Biased Data: Can Fairness Constraints Improve Accuracy?](http://arxiv.org/abs/1912.01094v1)|2019-12-02 22:00:14+00:00|02-12-2019
+Giles Hooker|[Asymptotic Normality and Variance Estimation For Supervised Ensembles](http://arxiv.org/abs/1912.01089v1)|2019-12-02 21:42:19+00:00|02-12-2019
+Morten Brun|[On the Delta Method for Uncertainty Approximation in Deep Learning](http://arxiv.org/abs/1912.00832v1)|2019-12-02 14:53:10+00:00|02-12-2019
+Jeffrey Pennington|[A Random Matrix Perspective on Mixtures of Nonlinearities for Deep   Learning](http://arxiv.org/abs/1912.00827v1)|2019-12-02 14:43:16+00:00|02-12-2019
+Moritz Helias|[Capacity of the covariance perceptron](http://arxiv.org/abs/1912.00824v1)|2019-12-02 14:40:57+00:00|02-12-2019
+Haige Shen|[Stochastic Variational Inference via Upper Bound](http://arxiv.org/abs/1912.00650v1)|2019-12-02 09:30:40+00:00|02-12-2019
+Ankush Ganguly|[Face Detection with Feature Pyramids and Landmarks](http://arxiv.org/abs/1912.00596v1)|2019-12-02 06:54:13+00:00|02-12-2019
+David Forsyth|[Exposing and Correcting the Gender Bias in Image Captioning Datasets and   Models](http://arxiv.org/abs/1912.00578v1)|2019-12-02 04:14:39+00:00|02-12-2019
+Alex Kendall|[Urban Driving with Conditional Imitation Learning](http://arxiv.org/abs/1912.00177v2)|2019-12-05 18:17:45+00:00|30-11-2019
+Eva-Maria Walz|[ROC movies -- a new generalization to a popular classic](http://arxiv.org/abs/1912.01956v1)|2019-11-29 21:16:47+00:00|29-11-2019
+Matthias Hein|[Square Attack: a query-efficient black-box adversarial attack via random   search](http://arxiv.org/abs/1912.00049v1)|2019-11-29 19:29:32+00:00|29-11-2019
+Radu Calinescu|[Detection and Mitigation of Rare Subclasses in Neural Network   Classifiers](http://arxiv.org/abs/1911.12780v1)|2019-11-28 16:41:35+00:00|28-11-2019
+Julia Stoyanovich|[FairPrep: Promoting Data to a First-Class Citizen in Studies on   Fairness-Enhancing Interventions](http://arxiv.org/abs/1911.12587v1)|2019-11-28 08:28:46+00:00|28-11-2019
+Kun Kuang|[Stable Learning via Sample Reweighting](http://arxiv.org/abs/1911.12580v1)|2019-11-28 08:12:24+00:00|28-11-2019
+Alexandre Vidmer|[Addressing Time Bias in Bipartite Graph Ranking for Important Node   Identification](http://arxiv.org/abs/1911.12558v1)|2019-11-28 07:07:33+00:00|28-11-2019
+Srikar Appalaraju|[Unbiased Evaluation of Deep Metric Learning Algorithms](http://arxiv.org/abs/1911.12528v1)|2019-11-28 04:54:14+00:00|28-11-2019
+
 ## 29-11-2019
 
 main_author|title|update_date|publish_date

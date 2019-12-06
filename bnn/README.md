@@ -1,5 +1,37 @@
 # bnn
 Click on title for link to paper
+## 06-12-2019
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Harry W Clifford|[Safety and Robustness in Decision Making: Deep Bayesian Recurrent Neural   Networks for Somatic Variant Calling in Cancer](http://arxiv.org/abs/1912.02065v1)|2019-12-04 15:47:56+00:00|04-12-2019
+Iryna Gurevych|[Scalable Bayesian Preference Learning for Crowds](http://arxiv.org/abs/1912.01987v1)|2019-12-04 13:56:38+00:00|04-12-2019
+Zheng Zhang|[Quantum-Inspired Hamiltonian Monte Carlo for Bayesian Sampling](http://arxiv.org/abs/1912.01937v1)|2019-12-04 12:56:35+00:00|04-12-2019
+Brian Mac Namee|[On the Validity of Bayesian Neural Networks for Uncertainty Estimation](http://arxiv.org/abs/1912.01530v1)|2019-12-03 17:18:08+00:00|03-12-2019
+Vishnu Naresh Boddeti|[Multi-Criterion Evolutionary Design of Deep Convolutional Neural   Networks](http://arxiv.org/abs/1912.01369v1)|2019-12-03 13:57:25+00:00|03-12-2019
+Bo Dai|[Overcoming Catastrophic Forgetting by Generative Regularization](http://arxiv.org/abs/1912.01238v1)|2019-12-03 08:17:46+00:00|03-12-2019
+Omesh Tickoo|[Deep Probabilistic Models to Detect Data Poisoning Attacks](http://arxiv.org/abs/1912.01206v1)|2019-12-03 05:58:51+00:00|03-12-2019
+Jeremiah Zhe Liu|[Variable Selection with Rigorous Uncertainty Quantification using Deep   Bayesian Neural Networks: Posterior Concentration and Bernstein-von Mises   Phenomenon](http://arxiv.org/abs/1912.01189v1)|2019-12-03 04:36:21+00:00|03-12-2019
+Gregory C. Beroza|[Bayesian-Deep-Learning Estimation of Earthquake Location from   Single-Station Observations](http://arxiv.org/abs/1912.01144v1)|2019-12-03 01:20:28+00:00|03-12-2019
+Bharath K. Sriperumbudur|[On Distance and Kernel Measures of Conditional Independence](http://arxiv.org/abs/1912.01103v1)|2019-12-02 22:37:21+00:00|02-12-2019
+Shuang Zhao|[A Bayesian Inference Framework for Procedural Material Parameter   Estimation](http://arxiv.org/abs/1912.01067v1)|2019-12-02 20:19:07+00:00|02-12-2019
+L. Szpruch|[On the geometry of Stein variational gradient descent](http://arxiv.org/abs/1912.00894v1)|2019-12-02 16:20:05+00:00|02-12-2019
+Stephen J Roberts|[Implicit Priors for Knowledge Sharing in Bayesian Neural Networks](http://arxiv.org/abs/1912.00874v1)|2019-12-02 15:52:33+00:00|02-12-2019
+Melih Kandemir|[Differential Bayesian Neural Nets](http://arxiv.org/abs/1912.00796v1)|2019-12-02 14:03:55+00:00|02-12-2019
+Anthony C. Constantinou|[Learning Bayesian networks from demographic and health survey data](http://arxiv.org/abs/1912.00715v1)|2019-12-02 12:24:35+00:00|02-12-2019
+Ronan Fablet|[GeoTrackNet-A Maritime Anomaly Detector using Probabilistic Neural   Network Representation of AIS Tracks and A Contrario Detection](http://arxiv.org/abs/1912.00682v1)|2019-12-02 11:04:56+00:00|02-12-2019
+Haige Shen|[Stochastic Variational Inference via Upper Bound](http://arxiv.org/abs/1912.00650v1)|2019-12-02 09:30:40+00:00|02-12-2019
+Andrei Swidinsky|[Inversion of 1D frequency- and time-domain electromagnetic data with   convolutional neural networks](http://arxiv.org/abs/1912.00612v1)|2019-12-02 07:54:36+00:00|02-12-2019
+Amit Sheth|[Knowledge Infused Learning (K-IL): Towards Deep Incorporation of   Knowledge in Deep Learning](http://arxiv.org/abs/1912.00512v1)|2019-12-01 22:36:14+00:00|01-12-2019
+Xuan Zeng|[Bayesian Optimization Approach for Analog Circuit Synthesis Using Neural   Network](http://arxiv.org/abs/1912.00402v1)|2019-12-01 13:13:39+00:00|01-12-2019
+Sanjit Seshia|[A Programmatic and Semantic Approach to Explaining and DebuggingNeural   Network Based Object Detectors](http://arxiv.org/abs/1912.00289v1)|2019-12-01 00:07:59+00:00|01-12-2019
+Peter Wonka|[Point Cloud Instance Segmentation using Probabilistic Embeddings](http://arxiv.org/abs/1912.00145v1)|2019-11-30 07:04:09+00:00|30-11-2019
+Philip H. S. Torr|[Transflow Learning: Repurposing Flow Models Without Retraining](http://arxiv.org/abs/1911.13270v2)|2019-12-05 14:09:04+00:00|29-11-2019
+Maurizio Filippone|[Efficient Approximate Inference with Walsh-Hadamard Variational   Inference](http://arxiv.org/abs/1912.00015v1)|2019-11-29 15:22:08+00:00|29-11-2019
+Augusto Voltes-Dorta|[A Bayesian Dynamic Multilayered Block Network Model](http://arxiv.org/abs/1911.13136v1)|2019-11-29 15:03:05+00:00|29-11-2019
+Jonathan E. Fieldsend|[Greed is Good: Exploration and Exploitation Trade-offs in Bayesian   Optimisation](http://arxiv.org/abs/1911.12809v1)|2019-11-28 17:52:06+00:00|28-11-2019
+Svetha Venkatesh|[Bayesian Optimization for Categorical and Category-Specific Continuous   Inputs](http://arxiv.org/abs/1911.12473v1)|2019-11-28 01:05:03+00:00|28-11-2019
+
 ## 29-11-2019
 
 main_author|title|update_date|publish_date
