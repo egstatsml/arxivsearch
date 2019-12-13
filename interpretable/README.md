@@ -1,5 +1,15 @@
 # interpretable
 Click on title for link to paper
+## 13-12-2019
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Santi Seguí|[WCE Polyp Detection with Triplet based Embeddings](http://arxiv.org/abs/1912.04643v1)|2019-12-10 11:08:45+00:00|10-12-2019
+Narges Razavian|[Graph Neural Network on Electronic Health Records for Predicting   Alzheimer's Disease](http://arxiv.org/abs/1912.03761v1)|2019-12-08 21:06:38+00:00|08-12-2019
+Suvrit Sra|[Why ADAM Beats SGD for Attention Models](http://arxiv.org/abs/1912.03194v1)|2019-12-06 15:58:29+00:00|06-12-2019
+Roman Klinger|[GoodNewsEveryone: A Corpus of News Headlines Annotated with Emotions,   Semantic Roles, and Reader Perception](http://arxiv.org/abs/1912.03184v1)|2019-12-06 15:30:58+00:00|06-12-2019
+Eduardo Soares|[Towards Explainable Deep Neural Networks (xDNN)](http://arxiv.org/abs/1912.02523v1)|2019-12-05 12:01:15+00:00|05-12-2019
+
 ## 06-12-2019
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,34 @@
 # bnn
 Click on title for link to paper
+## 13-12-2019
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Uroš Seljak|[Normalizing Constant Estimation with Gaussianized Bridge Sampling](http://arxiv.org/abs/1912.06073v1)|2019-12-12 16:50:03+00:00|12-12-2019
+Kaspar Thommen|[Adaptive Reticulum](http://arxiv.org/abs/1912.05901v1)|2019-12-12 12:54:48+00:00|12-12-2019
+Jukka Corander|[Diagnosing model misspecification and performing generalized Bayes'   updates via probabilistic classifiers](http://arxiv.org/abs/1912.05810v1)|2019-12-12 07:45:21+00:00|12-12-2019
+Finale Doshi-Velez|[Towards Expressive Priors for Bayesian Neural Networks: Poisson Process   Radial Basis Function Networks](http://arxiv.org/abs/1912.05779v1)|2019-12-12 05:37:46+00:00|12-12-2019
+Soha Hassoun|[Pathway Activity Analysis and Metabolite Annotation for Untargeted   Metabolomics using Probabilistic Modeling](http://arxiv.org/abs/1912.05753v1)|2019-12-12 03:26:37+00:00|12-12-2019
+Piyush Rai|[On the relationship between multitask neural networks and multitask   Gaussian Processes](http://arxiv.org/abs/1912.05723v1)|2019-12-12 01:51:35+00:00|12-12-2019
+Daniel T. Chang|[Bayesian Hyperparameter Optimization with BoTorch, GPyTorch and Ax](http://arxiv.org/abs/1912.05686v1)|2019-12-11 23:11:40+00:00|11-12-2019
+José Miguel Hernández-Lobato|[Bayesian Variational Autoencoders for Unsupervised Out-of-Distribution   Detection](http://arxiv.org/abs/1912.05651v1)|2019-12-11 21:37:54+00:00|11-12-2019
+Cengiz Pehlevan|[A Closer Look at Disentangling in $β$-VAE](http://arxiv.org/abs/1912.05127v1)|2019-12-11 05:51:25+00:00|11-12-2019
+Matt Gardner|[Neural Module Networks for Reasoning over Text](http://arxiv.org/abs/1912.04971v1)|2019-12-10 20:36:07+00:00|10-12-2019
+Tom Rainforth|[Statistically Robust Neural Network Classification](http://arxiv.org/abs/1912.04884v2)|2019-12-11 01:30:46+00:00|10-12-2019
+Scott Niekum|[Deep Bayesian Reward Learning from Preferences](http://arxiv.org/abs/1912.04472v1)|2019-12-10 03:29:51+00:00|10-12-2019
+Piyush Rai|[Nonparametric Bayesian Structure Adaptation for Continual Learning](http://arxiv.org/abs/1912.03624v1)|2019-12-08 06:40:44+00:00|08-12-2019
+Amit Sharma|[Preserving Causal Constraints in Counterfactual Explanations for Machine   Learning Classifiers](http://arxiv.org/abs/1912.03277v1)|2019-12-06 18:16:29+00:00|06-12-2019
+Arno Solin|[Gaussian Process Priors for View-Aware Inference](http://arxiv.org/abs/1912.03249v1)|2019-12-06 17:41:37+00:00|06-12-2019
+Harry W Clifford|[Deep Bayesian Recurrent Neural Networks for Somatic Variant Calling in   Cancer](http://arxiv.org/abs/1912.04174v1)|2019-12-06 16:01:15+00:00|06-12-2019
+Furong Huang|[Sampling-Free Learning of Bayesian Quantized Neural Networks](http://arxiv.org/abs/1912.02992v1)|2019-12-06 06:27:06+00:00|06-12-2019
+Dileep George|[Learning undirected models via query training](http://arxiv.org/abs/1912.02893v1)|2019-12-05 21:42:52+00:00|05-12-2019
+Samuel S. Schoenholz|[Neural Tangents: Fast and Easy Infinite Neural Networks in Python](http://arxiv.org/abs/1912.02803v1)|2019-12-05 18:51:57+00:00|05-12-2019
+Balaji Lakshminarayanan|[Normalizing Flows for Probabilistic Modeling and Inference](http://arxiv.org/abs/1912.02762v1)|2019-12-05 17:55:27+00:00|05-12-2019
+Balaji Lakshminarayanan|[Deep Ensembles: A Loss Landscape Perspective](http://arxiv.org/abs/1912.02757v1)|2019-12-05 17:48:18+00:00|05-12-2019
+Kian Hsiang Low|[Scalable Variational Bayesian Kernel Selection for Sparse Gaussian   Process Regression](http://arxiv.org/abs/1912.02641v1)|2019-12-05 15:23:10+00:00|05-12-2019
+George Tseng|[A sparse negative binomial mixture model for clustering RNA-seq count   data](http://arxiv.org/abs/1912.02399v1)|2019-12-05 05:55:36+00:00|05-12-2019
+Carson C. Chow|[Probabilistically-autoencoded horseshoe-disentangled multidomain   item-response theory models](http://arxiv.org/abs/1912.02351v1)|2019-12-05 02:28:47+00:00|05-12-2019
+
 ## 06-12-2019
 
 main_author|title|update_date|publish_date

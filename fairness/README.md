@@ -1,5 +1,36 @@
 # fairness
 Click on title for link to paper
+## 13-12-2019
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Koen Bertels|[Integration and Evaluation of Quantum Accelerators for Data-Driven User   Functions](http://arxiv.org/abs/1912.06032v1)|2019-12-12 15:30:21+00:00|12-12-2019
+S. Ruan|[SegTHOR: Segmentation of Thoracic Organs at Risk in CT images](http://arxiv.org/abs/1912.05950v1)|2019-12-12 13:46:15+00:00|12-12-2019
+Ranadip Pal|[REFINED (REpresentation of Features as Images with NEighborhood   Dependencies): A novel feature representation for Convolutional Neural   Networks](http://arxiv.org/abs/1912.05687v1)|2019-12-11 23:18:05+00:00|11-12-2019
+Dieter Fox|[A Billion Ways to Grasp: An Evaluation of Grasp Sampling Schemes on a   Dense, Physics-based Grasp Data Set](http://arxiv.org/abs/1912.05604v1)|2019-12-11 20:22:52+00:00|11-12-2019
+Jia-Bin Huang|[Why Can't I Dance in the Mall? Learning to Mitigate Scene Bias in Action   Recognition](http://arxiv.org/abs/1912.05534v1)|2019-12-11 18:59:15+00:00|11-12-2019
+Hanna Wallach|[Measurement and Fairness](http://arxiv.org/abs/1912.05511v1)|2019-12-11 18:21:38+00:00|11-12-2019
+Doug Downey|[Just Add Functions: A Neural-Symbolic Language Model](http://arxiv.org/abs/1912.05421v1)|2019-12-11 16:27:07+00:00|11-12-2019
+Hassan Khotanlou|[An Efficient Approach for Using Expectation Maximization Algorithm in   Capsule Networks](http://arxiv.org/abs/1912.05333v1)|2019-12-11 14:13:15+00:00|11-12-2019
+Kristian Kersting|[BERT has a Moral Compass: Improvements of ethical and moral values of   machines](http://arxiv.org/abs/1912.05238v1)|2019-12-11 11:27:06+00:00|11-12-2019
+Lex Elisabeth|[The Unfairness of Popularity Bias in Music Recommendation: A   Reproducibility Study](http://arxiv.org/abs/1912.04696v1)|2019-12-10 14:13:50+00:00|10-12-2019
+Michael W. Mahoney|[Exact expressions for double descent and implicit regularization via   surrogate random design](http://arxiv.org/abs/1912.04533v1)|2019-12-10 06:49:46+00:00|10-12-2019
+Yogesh Rathore|[Enhancing Learnability of classification algorithms using simple data   preprocessing in fMRI scans of Alzheimer's disease](http://arxiv.org/abs/1912.04453v1)|2019-12-10 02:12:54+00:00|10-12-2019
+Swapnil Kumar|[Novel Approach for Solving a Variant of Equal Flow Problem](http://arxiv.org/abs/1912.04034v2)|2019-12-10 07:39:13+00:00|09-12-2019
+Hwee Tou Ng|[Effective Attention Modeling for Neural Relation Extraction](http://arxiv.org/abs/1912.03832v1)|2019-12-09 03:38:16+00:00|09-12-2019
+John P. Dickerson|[Group Fairness in Bandit Arm Selection](http://arxiv.org/abs/1912.03802v1)|2019-12-09 01:02:35+00:00|09-12-2019
+Pierfrancesco Alaimo Di Loro|[VAT tax gap prediction: a 2-steps Gradient Boosting approach](http://arxiv.org/abs/1912.03781v1)|2019-12-08 23:16:29+00:00|08-12-2019
+Amartansh Dubey|[Improved Covariance Matrix Estimator using Shrinkage Transformation and   Random Matrix Theory](http://arxiv.org/abs/1912.03718v1)|2019-12-08 17:15:58+00:00|08-12-2019
+Jianmin Wang|[Less Confusion More Transferable: Minimum Class Confusion for Versatile   Domain Adaptation](http://arxiv.org/abs/1912.03699v1)|2019-12-08 15:31:14+00:00|08-12-2019
+Djibril Seck|[Modeling the Chlorophyll-a from Sea Surface Reflectance in West Africa   by Deep Learning Methods: A Comparison of Multiple Algorithms](http://arxiv.org/abs/1912.03216v1)|2019-12-06 16:36:18+00:00|06-12-2019
+Christian Wolf|[Weak Supervision helps Emergence of Word-Object Alignment and improves   Vision-Language Tasks](http://arxiv.org/abs/1912.03063v1)|2019-12-06 11:04:08+00:00|06-12-2019
+Chengchao Zhao|[A priori generalization error for two-layer ReLU neural network through   minimum norm solution](http://arxiv.org/abs/1912.03011v2)|2019-12-10 14:15:21+00:00|06-12-2019
+Joseph Fisher|[Measuring Social Bias in Knowledge Graph Embeddings](http://arxiv.org/abs/1912.02761v1)|2019-12-05 17:53:25+00:00|05-12-2019
+Shihua Zhang|[Towards Understanding Residual and Dilated Dense Neural Networks via   Convolutional Sparse Coding](http://arxiv.org/abs/1912.02605v2)|2019-12-08 03:01:51+00:00|05-12-2019
+Ajith Suresh|[ASTRA: High Throughput 3PC over Rings with Application to Secure   Prediction](http://arxiv.org/abs/1912.02592v1)|2019-12-05 14:30:39+00:00|05-12-2019
+Dmitry Nikolaev|[A Document Skew Detection Method Using Fast Hough Transform](http://arxiv.org/abs/1912.02504v1)|2019-12-05 11:07:14+00:00|05-12-2019
+Jun Zhu|[The Search for Sparse, Robust Neural Networks](http://arxiv.org/abs/1912.02386v1)|2019-12-05 05:06:35+00:00|05-12-2019
+
 ## 06-12-2019
 
 main_author|title|update_date|publish_date
