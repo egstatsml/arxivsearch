@@ -1,5 +1,28 @@
 # mcmc
 Click on title for link to paper
+## 08-01-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Vinayak A. Rao|[Variational Bayesian Methods for Stochastically Constrained System   Design Problems](http://arxiv.org/abs/2001.01404v1)|2020-01-06 05:21:39+00:00|06-01-2020
+David Duvenaud|[Scalable Gradients for Stochastic Differential Equations](http://arxiv.org/abs/2001.01328v2)|2020-01-07 07:00:00+00:00|05-01-2020
+Adrian V. Dalca|[Painting Many Pasts: Synthesizing Time Lapse Videos of Paintings](http://arxiv.org/abs/2001.01026v1)|2020-01-04 03:12:38+00:00|04-01-2020
+Naci Saldi|[Fitted Q-Learning in Mean-field Games](http://arxiv.org/abs/1912.13309v1)|2019-12-31 14:05:49+00:00|31-12-2019
+Thomas B. Schon|[Optimistic robust linear quadratic dual control](http://arxiv.org/abs/1912.13143v1)|2019-12-31 02:02:11+00:00|31-12-2019
+Dipti Srinivasan|[Optimal Uncertainty-guided Neural Network Training](http://arxiv.org/abs/1912.12761v1)|2019-12-30 00:03:28+00:00|30-12-2019
+Jordi Vitrià|[Dirichlet uncertainty wrappers for actionable algorithm accuracy   accountability and auditability](http://arxiv.org/abs/1912.12628v1)|2019-12-29 11:05:47+00:00|29-12-2019
+Leena Vachhani|[3D Sensing of a Moving Object with a Nodding 2D LIDAR and Reconfigurable   Mirrors](http://arxiv.org/abs/1912.13461v1)|2019-12-27 10:22:26+00:00|27-12-2019
+Fu-lai Chung|[Variational Metric Scaling for Metric-Based Meta-Learning](http://arxiv.org/abs/1912.11809v1)|2019-12-26 09:00:36+00:00|26-12-2019
+Fabio Nobile|[Sparse Polynomial Chaos expansions using Variational Relevance Vector   Machines](http://arxiv.org/abs/1912.11029v1)|2019-12-23 18:49:55+00:00|23-12-2019
+Muhammad Firmansyah Kasim|[Efficient Parameter Sampling for Neural Network Construction](http://arxiv.org/abs/1912.10559v1)|2019-12-22 23:13:50+00:00|22-12-2019
+Yarin Gal|[A Systematic Comparison of Bayesian Deep Learning Robustness in Diabetic   Retinopathy Tasks](http://arxiv.org/abs/1912.10481v1)|2019-12-22 17:17:14+00:00|22-12-2019
+Sebastian Trimpe|[Safe and Fast Tracking Control on a Robot Manipulator: Robust MPC and   Neural Network Control](http://arxiv.org/abs/1912.10360v1)|2019-12-22 00:01:07+00:00|22-12-2019
+Louis-Phlippe Morency|[Pseudo-Encoded Stochastic Variational Inference](http://arxiv.org/abs/1912.09423v1)|2019-12-19 17:50:18+00:00|19-12-2019
+Jiebo Luo|[Neural Simile Recognition with Cyclic Multitask Learning and Local   Attention](http://arxiv.org/abs/1912.09084v1)|2019-12-19 09:40:19+00:00|19-12-2019
+Alexander Egyed|[Probabilistic Software Modeling: A Data-driven Paradigm for Software   Analysis](http://arxiv.org/abs/1912.07936v2)|2019-12-18 10:39:48+00:00|17-12-2019
+Dan Roth|[Robust Named Entity Recognition with Truecasing Pretraining](http://arxiv.org/abs/1912.07095v1)|2019-12-15 19:33:25+00:00|15-12-2019
+Nandyala Hemachandra|[Optimal PAC-Bayesian Posteriors for Stochastic Classifiers and their use   for Choice of SVM Regularization Parameter](http://arxiv.org/abs/1912.06803v1)|2019-12-14 08:21:57+00:00|14-12-2019
+
 ## 13-12-2019
 
 main_author|title|update_date|publish_date

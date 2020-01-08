@@ -1,5 +1,15 @@
 # interpretable
 Click on title for link to paper
+## 08-01-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Volker Tresp|[Reasoning on Knowledge Graphs with Debate Dynamics](http://arxiv.org/abs/2001.00461v1)|2020-01-02 14:44:23+00:00|02-01-2020
+Michael Krauthammer|[AutoDiscern: Rating the Quality of Online Health Information with   Hierarchical Encoder Attention-based Neural Networks](http://arxiv.org/abs/1912.12999v1)|2019-12-30 16:44:41+00:00|30-12-2019
+Céline Hudelot|[A New Approach for Explainable Multiple Organ Annotation with Few Data](http://arxiv.org/abs/1912.12932v1)|2019-12-30 14:06:32+00:00|30-12-2019
+Yunpeng Shi|[Robust Group Synchronization via Cycle-Edge Message Passing](http://arxiv.org/abs/1912.11347v1)|2019-12-24 13:41:00+00:00|24-12-2019
+Arno Onken|[Analysis of Video Feature Learning in Two-Stream CNNs on the Example of   Zebrafish Swim Bout Classification](http://arxiv.org/abs/1912.09857v1)|2019-12-20 14:51:35+00:00|20-12-2019
+
 ## 13-12-2019
 
 main_author|title|update_date|publish_date

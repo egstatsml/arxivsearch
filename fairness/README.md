@@ -1,5 +1,80 @@
 # fairness
 Click on title for link to paper
+## 08-01-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Louis-Philippe Morency|[Think Locally, Act Globally: Federated Learning with Local and Global   Representations](http://arxiv.org/abs/2001.01523v1)|2020-01-06 12:40:21+00:00|06-01-2020
+Yen-Liang Chen|[Syndrome-Enabled Unsupervised Learning for Channel Adaptive Blind   Equalizer with Joint Optimization Mechanism](http://arxiv.org/abs/2001.01426v1)|2020-01-06 07:24:00+00:00|06-01-2020
+Joonhyuk Kang|[From Learning to Meta-Learning: Reduced Training Overhead and Complexity   for Communication Systems](http://arxiv.org/abs/2001.01227v1)|2020-01-05 12:54:41+00:00|05-01-2020
+Yun Yang|[Cutoff for exact recovery of Gaussian mixture models](http://arxiv.org/abs/2001.01194v1)|2020-01-05 08:57:04+00:00|05-01-2020
+Samuel Wookey|[The Real-World-Weight Cross-Entropy Loss Function: Modeling the Costs of   Mislabeling](http://arxiv.org/abs/2001.00570v1)|2020-01-03 08:54:42+00:00|03-01-2020
+Dianne P. O'Leary|[Auditing and Debugging Deep Learning Models via Decision Boundaries:   Individual-level and Group-level Analysis](http://arxiv.org/abs/2001.00682v1)|2020-01-03 01:45:36+00:00|03-01-2020
+I-Sheng Yang|[A Loss-Function for Causal Machine-Learning](http://arxiv.org/abs/2001.00629v1)|2020-01-02 21:22:18+00:00|02-01-2020
+Huan Liu|[Mining Disinformation and Fake News: Concepts, Methods, and Recent   Advancements](http://arxiv.org/abs/2001.00623v1)|2020-01-02 21:01:02+00:00|02-01-2020
+Noah A. Smith|[On Consequentialism and Fairness](http://arxiv.org/abs/2001.00329v1)|2020-01-02 05:39:48+00:00|02-01-2020
+Yuan Xie|[A Comprehensive and Modularized Statistical Framework for Gradient Norm   Equality in Deep Neural Networks](http://arxiv.org/abs/2001.00254v1)|2020-01-01 17:56:49+00:00|01-01-2020
+Shaul Druckmann|[No Spurious Local Minima in Deep Quadratic Networks](http://arxiv.org/abs/2001.00098v1)|2019-12-31 22:31:11+00:00|31-12-2019
+Philip S. Yu|[Leveraging Semi-Supervised Learning for Fairness using Neural Networks](http://arxiv.org/abs/1912.13230v1)|2019-12-31 09:11:26+00:00|31-12-2019
+Khondkar Islam|[A Robust Comparison of the KDDCup99 and NSL-KDD IoT Network Intrusion   Detection Datasets Through Various Machine Learning Algorithms](http://arxiv.org/abs/1912.13204v1)|2019-12-31 07:36:33+00:00|31-12-2019
+Pierre E. Jacob|[Schrödinger Bridge Samplers](http://arxiv.org/abs/1912.13170v1)|2019-12-31 04:49:30+00:00|31-12-2019
+Andrés García-Camino|[Towards Regulated Deep Learning](http://arxiv.org/abs/1912.13122v1)|2019-12-31 00:10:50+00:00|31-12-2019
+Phaedon-Stelios Koutsourelakis|[Incorporating physical constraints in a deep probabilistic machine   learning framework for coarse-graining dynamical systems](http://arxiv.org/abs/1912.12976v3)|2020-01-06 20:12:22+00:00|30-12-2019
+Sageev Oore|[Detecting Out-of-Distribution Examples with In-distribution Examples and   Gram Matrices](http://arxiv.org/abs/1912.12510v1)|2019-12-28 19:44:03+00:00|28-12-2019
+Asif Mehmood|[SoftAdapt: Techniques for Adaptive Loss Weighting of Neural Networks   with Multi-Part Loss Functions](http://arxiv.org/abs/1912.12355v1)|2019-12-27 22:23:16+00:00|27-12-2019
+Dawn Song|[Synthetic Datasets for Neural Program Synthesis](http://arxiv.org/abs/1912.12345v1)|2019-12-27 21:28:10+00:00|27-12-2019
+Yinchu Zhu|[Minimax Semiparametric Learning With Approximate Sparsity](http://arxiv.org/abs/1912.12213v1)|2019-12-27 16:13:21+00:00|27-12-2019
+Joshua T. Vogelstein|[The Chi-Square Test of Distance Correlation](http://arxiv.org/abs/1912.12150v2)|2020-01-07 15:08:41+00:00|27-12-2019
+Jiliang Tang|[Graduate Employment Prediction with Bias](http://arxiv.org/abs/1912.12012v1)|2019-12-27 07:30:28+00:00|27-12-2019
+Sam Kwong|[Non-Cooperative Game Theory Based Rate Adaptation for Dynamic Video   Streaming over HTTP](http://arxiv.org/abs/1912.11954v1)|2019-12-27 01:19:14+00:00|27-12-2019
+Hamed Pirsiavash|[A simple baseline for domain adaptation using rotation prediction](http://arxiv.org/abs/1912.11903v1)|2019-12-26 17:32:04+00:00|26-12-2019
+Jun Zhu|[Benchmarking Adversarial Robustness](http://arxiv.org/abs/1912.11852v1)|2019-12-26 12:37:01+00:00|26-12-2019
+Jianxun Liu|[Feature-Attention Graph Convolutional Networks for Noise Resilient   Learning](http://arxiv.org/abs/1912.11755v1)|2019-12-26 02:51:55+00:00|26-12-2019
+Swastik Kar|[Development of Use-specific High Performance Cyber-Nanomaterial Optical   Detectors by Effective Choice of Machine Learning Algorithms](http://arxiv.org/abs/1912.11751v3)|2020-01-03 18:50:12+00:00|26-12-2019
+Yuru Zhu|[Confounder Selection via Support Intersection](http://arxiv.org/abs/1912.11652v1)|2019-12-25 12:23:58+00:00|25-12-2019
+Xuedong Huang|[Make Lead Bias in Your Favor: A Simple and Effective Method for News   Summarization](http://arxiv.org/abs/1912.11602v2)|2020-01-07 04:04:03+00:00|25-12-2019
+Yingying Xu|[Learning performance in inverse Ising problems with sparse teacher   couplings](http://arxiv.org/abs/1912.11591v1)|2019-12-25 04:31:29+00:00|25-12-2019
+Zhao Zhong|[BETANAS: BalancEd TrAining and selective drop for Neural Architecture   Search](http://arxiv.org/abs/1912.11191v1)|2019-12-24 03:24:06+00:00|24-12-2019
+Kui Jia|[Geometry-aware Generation of Adversarial and Cooperative Point Clouds](http://arxiv.org/abs/1912.11171v1)|2019-12-24 01:52:46+00:00|24-12-2019
+Ghislain Bugingo|[Defining AI in Policy versus Practice](http://arxiv.org/abs/1912.11095v1)|2019-12-23 20:18:21+00:00|23-12-2019
+Gian Maria Campedelli|[Where Are We? Using Scopus to Map the Literature at the Intersection   Between Artificial Intelligence and Crime](http://arxiv.org/abs/1912.11084v1)|2019-12-23 19:55:52+00:00|23-12-2019
+Sikun Lin|[White Noise Analysis of Neural Networks](http://arxiv.org/abs/1912.12106v1)|2019-12-23 18:14:34+00:00|23-12-2019
+Florian Lemmerich|[Privacy Attacks on Network Embeddings](http://arxiv.org/abs/1912.10979v1)|2019-12-23 17:10:20+00:00|23-12-2019
+Armanda Lewis|[Teaching Responsible Data Science: Charting New Pedagogical Territory](http://arxiv.org/abs/1912.10564v1)|2019-12-23 00:10:22+00:00|23-12-2019
+Huan Liu|[Counterfactual Evaluation of Treatment Assignment Functions with   Networked Observational Data](http://arxiv.org/abs/1912.10536v1)|2019-12-22 21:13:10+00:00|22-12-2019
+Vivek Muthurangu|[Rapid Whole-Heart CMR with Single Volume Super-resolution](http://arxiv.org/abs/1912.10503v1)|2019-12-22 18:36:18+00:00|22-12-2019
+Timnit Gebru|[Lessons from Archives: Strategies for Collecting Sociocultural Data in   Machine Learning](http://arxiv.org/abs/1912.10389v1)|2019-12-22 05:56:55+00:00|22-12-2019
+Murtaza Taj|[Patch-based Generative Adversarial Network Towards Retinal Vessel   Segmentation](http://arxiv.org/abs/1912.10377v1)|2019-12-22 03:33:31+00:00|22-12-2019
+M. Bennamoun|[Robust Pose Invariant Shape and Texture based Hand Recognition](http://arxiv.org/abs/1912.10373v1)|2019-12-22 02:19:02+00:00|22-12-2019
+Yen-Wu Ti|[Detecting Deepfake-Forged Contents with Separable Convolutional Neural   Network and Image Segmentation](http://arxiv.org/abs/1912.12184v1)|2019-12-21 08:32:27+00:00|21-12-2019
+Xianping Fu|[Eliminating cross-camera bias for vehicle re-identification](http://arxiv.org/abs/1912.10193v1)|2019-12-21 04:14:36+00:00|21-12-2019
+Susumu Serita|[Regularized Operating Envelope with Interpretability and   Implementability Constraints](http://arxiv.org/abs/1912.10158v1)|2019-12-21 01:03:54+00:00|21-12-2019
+Alessio Micheli|[A Fair Comparison of Graph Neural Networks for Graph Classification](http://arxiv.org/abs/1912.09893v2)|2020-01-07 13:49:46+00:00|20-12-2019
+Guodong Shi|[Distributed Online Optimization with Long-Term Constraints](http://arxiv.org/abs/1912.09705v1)|2019-12-20 09:07:28+00:00|20-12-2019
+Mario Fritz|[Segmentations-Leak: Membership Inference Attacks and Defenses in   Semantic Image Segmentation](http://arxiv.org/abs/1912.09685v1)|2019-12-20 08:11:47+00:00|20-12-2019
+Johan S. Obando Ceron|[Divide and Conquer: an Accurate Machine Learning Algorithm to Process   Split Videos on a Parallel Processing Infrastructure](http://arxiv.org/abs/1912.09601v1)|2019-12-20 00:51:32+00:00|20-12-2019
+Richard Yi Da Xu|[Gaussian Process Latent Variable Model Factorization for Context-aware   Recommender Systems](http://arxiv.org/abs/1912.09593v1)|2019-12-19 23:57:55+00:00|19-12-2019
+Nicholas A. Lord|[Making Better Mistakes: Leveraging Class Hierarchies with Deep Networks](http://arxiv.org/abs/1912.09393v1)|2019-12-19 17:08:51+00:00|19-12-2019
+Russell Greiner|[Reducing Selection Bias in Counterfactual Reasoning for Individual   Treatment Effects Estimation](http://arxiv.org/abs/1912.09040v1)|2019-12-19 07:10:00+00:00|19-12-2019
+Chaopeng Shen|[Enhancing streamflow forecast and extracting insights using long-short   term memory networks with data integration at continental scales](http://arxiv.org/abs/1912.08949v2)|2020-01-02 19:22:43+00:00|18-12-2019
+Subhransu Maji|[The Spectral Bias of the Deep Image Prior](http://arxiv.org/abs/1912.08905v1)|2019-12-18 21:51:58+00:00|18-12-2019
+Jenny Huang|[Garbage In, Garbage Out? Do Machine Learning Application Papers in   Social Computing Report Where Human-Labeled Training Data Comes From?](http://arxiv.org/abs/1912.08320v1)|2019-12-17 23:49:19+00:00|17-12-2019
+Brady Neal|[On the Bias-Variance Tradeoff: Textbooks Need an Update](http://arxiv.org/abs/1912.08286v1)|2019-12-17 21:50:59+00:00|17-12-2019
+Mitchell L. Stevens|[AI and Holistic Review: Informing Human Reading in College Admissions](http://arxiv.org/abs/1912.09318v1)|2019-12-17 21:08:36+00:00|17-12-2019
+Sriram Sankaranarayanan|[A learning-based algorithm to quickly compute good primal solutions for   Stochastic Integer Programs](http://arxiv.org/abs/1912.08112v1)|2019-12-17 16:09:54+00:00|17-12-2019
+Galit Shmueli|[How Personal is Machine Learning Personalization?](http://arxiv.org/abs/1912.07938v2)|2019-12-24 03:39:46+00:00|17-12-2019
+Michael Carl Tschantz|[Human Comprehension of Fairness in Machine Learning](http://arxiv.org/abs/2001.00089v1)|2019-12-17 00:58:54+00:00|17-12-2019
+Brian Horsak|[On the Understanding and Interpretation of Machine Learning Predictions   in Clinical Gait Analysis Using Explainable Artificial Intelligence](http://arxiv.org/abs/1912.07737v1)|2019-12-16 22:34:06+00:00|16-12-2019
+Alice J. O'Toole|[Accuracy comparison across face recognition algorithms: Where are we on   measuring race bias?](http://arxiv.org/abs/1912.07398v1)|2019-12-16 14:27:10+00:00|16-12-2019
+Preetum Nakkiran|[More Data Can Hurt for Linear Regression: Sample-wise Double Descent](http://arxiv.org/abs/1912.07242v1)|2019-12-16 08:28:26+00:00|16-12-2019
+Longsheng Zhou|[Fairness Assessment for Artificial Intelligence in Financial Industry](http://arxiv.org/abs/1912.07211v1)|2019-12-16 06:09:39+00:00|16-12-2019
+Daniel E. Acuna|[Artificial mental phenomena: Psychophysics as a framework to detect   perception biases in AI models](http://arxiv.org/abs/1912.10818v1)|2019-12-15 19:48:48+00:00|15-12-2019
+Reuben Binns|[On the Apparent Conflict Between Individual and Group Fairness](http://arxiv.org/abs/1912.06883v1)|2019-12-14 17:13:15+00:00|14-12-2019
+Wenhang Bao|[Fairness in Multi-agent Reinforcement Learning for Stock Trading](http://arxiv.org/abs/2001.00918v1)|2019-12-14 16:58:51+00:00|14-12-2019
+Ling Shao|[Fine-grained Recognition: Accounting for Subtle Differences between   Similar Classes](http://arxiv.org/abs/1912.06842v1)|2019-12-14 13:33:20+00:00|14-12-2019
+Stefanos Nikolaidis|[Fair Contextual Multi-Armed Bandits: Theory and Experiments](http://arxiv.org/abs/1912.08055v1)|2019-12-13 22:25:34+00:00|13-12-2019
+Yongjian You|[Spatial-Temporal Self-Attention Network for Flow Prediction](http://arxiv.org/abs/1912.07663v2)|2019-12-23 02:02:09+00:00|13-12-2019
+
 ## 13-12-2019
 
 main_author|title|update_date|publish_date
