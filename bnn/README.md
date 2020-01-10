@@ -1,5 +1,12 @@
 # bnn
 Click on title for link to paper
+## 10-01-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Tomer Dobkin|[Stochastic probabilistic programs](http://arxiv.org/abs/2001.02656v1)|2020-01-08 17:54:40+00:00|08-01-2020
+Justin V. Remais|[Machine-learning classifiers for logographic name matching in public   health applications: approaches for incorporating phonetic, visual, and   keystroke similarity in large-scale probabilistic record linkage](http://arxiv.org/abs/2001.01895v1)|2020-01-07 05:21:21+00:00|07-01-2020
+
 ## 08-01-2020
 
 main_author|title|update_date|publish_date

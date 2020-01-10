@@ -1,5 +1,11 @@
 # interpretable
 Click on title for link to paper
+## 10-01-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Shih-Fu Chang|[Bridging Knowledge Graphs to Generate Scene Graphs](http://arxiv.org/abs/2001.02314v1)|2020-01-07 23:35:52+00:00|07-01-2020
+
 ## 08-01-2020
 
 main_author|title|update_date|publish_date

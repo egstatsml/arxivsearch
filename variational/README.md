@@ -1,5 +1,12 @@
 # variational
 Click on title for link to paper
+## 10-01-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Tomer Dobkin|[Stochastic probabilistic programs](http://arxiv.org/abs/2001.02656v1)|2020-01-08 17:54:40+00:00|08-01-2020
+Jinkyoo Park|[Scalable Hybrid HMM with Gaussian Process Emission for Sequential   Time-series Data Clustering](http://arxiv.org/abs/2001.01917v1)|2020-01-07 07:28:21+00:00|07-01-2020
+
 ## 08-01-2020
 
 main_author|title|update_date|publish_date

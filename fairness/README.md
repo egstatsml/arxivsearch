@@ -1,5 +1,19 @@
 # fairness
 Click on title for link to paper
+## 10-01-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Dennis DeCoste|[Stochastic Weight Averaging in Parallel: Large-Batch Training that   Generalizes Well](http://arxiv.org/abs/2001.02312v1)|2020-01-07 23:13:35+00:00|07-01-2020
+Davin Takahashi|[VC-dimensions of nondeterministic finite automata for words of equal   length](http://arxiv.org/abs/2001.02309v1)|2020-01-07 22:49:55+00:00|07-01-2020
+Ali H. Sayed|[Multitask learning over graphs](http://arxiv.org/abs/2001.02112v1)|2020-01-07 15:32:57+00:00|07-01-2020
+Decebal Mocanu|[Softmax-based Classification is k-means Clustering: Formal Proof,   Consequences for Adversarial Attacks, and Improvement through Centroid Based   Tailoring](http://arxiv.org/abs/2001.01987v1)|2020-01-07 11:47:45+00:00|07-01-2020
+Guanglu Wan|[Learning Speaker Embedding with Momentum Contrast](http://arxiv.org/abs/2001.01986v1)|2020-01-07 11:47:05+00:00|07-01-2020
+James A Watson|[A semi-supervised learning framework for quantitative structure-activity   regression modelling](http://arxiv.org/abs/2001.01924v1)|2020-01-07 07:56:49+00:00|07-01-2020
+Visar Berisha|[Regularization via Structural Label Smoothing](http://arxiv.org/abs/2001.01900v1)|2020-01-07 05:45:18+00:00|07-01-2020
+Yingbin Liang|[Reanalysis of Variance Reduced Temporal Difference Learning](http://arxiv.org/abs/2001.01898v1)|2020-01-07 05:32:43+00:00|07-01-2020
+Chau|[RECAST: Interactive Auditing of Automatic Toxicity Detection Models](http://arxiv.org/abs/2001.01819v1)|2020-01-07 00:17:52+00:00|07-01-2020
+
 ## 08-01-2020
 
 main_author|title|update_date|publish_date
