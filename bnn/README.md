@@ -1,5 +1,27 @@
 # bnn
 Click on title for link to paper
+## 17-01-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Mircea Grigoriu|[Time evolution of the characteristic and probability density function of   diffusion processes via neural networks](http://arxiv.org/abs/2001.05437v1)|2020-01-15 17:15:24+00:00|15-01-2020
+Enrico Magli|[Towards Deep Unsupervised SAR Despeckling with Blind-Spot Convolutional   Neural Networks](http://arxiv.org/abs/2001.05264v1)|2020-01-15 12:21:12+00:00|15-01-2020
+Manfred Opper|[Analysis of Bayesian Inference Algorithms by the Dynamical Functional   Approach](http://arxiv.org/abs/2001.04918v1)|2020-01-14 17:22:02+00:00|14-01-2020
+Daniel Lowd|[EGGS: A Flexible Approach to Relational Modeling of Social Network Spam](http://arxiv.org/abs/2001.04909v1)|2020-01-14 17:06:13+00:00|14-01-2020
+Fritz J. Friedersdorf|[Robust Gaussian Process Regression with a Bias Model](http://arxiv.org/abs/2001.04639v1)|2020-01-14 06:21:51+00:00|14-01-2020
+Felix J. Herrmann|[A deep-learning based Bayesian approach to seismic imaging and   uncertainty quantification](http://arxiv.org/abs/2001.04567v2)|2020-01-15 04:10:53+00:00|13-01-2020
+Xinghao Qiao|[Conditional Variational Inference with Adaptive Truncation for Bayesian   Nonparametric Models](http://arxiv.org/abs/2001.04508v1)|2020-01-13 19:27:11+00:00|13-01-2020
+Anca D. Dragan|[LESS is More: Rethinking Probabilistic Models of Human Behavior](http://arxiv.org/abs/2001.04465v1)|2020-01-13 18:59:01+00:00|13-01-2020
+Wuchen Li|[Information Newton's flow: second-order optimization method in   probability space](http://arxiv.org/abs/2001.04341v2)|2020-01-16 07:24:31+00:00|13-01-2020
+Chundra Aroor Cathcart|[Dialectal Layers in West Iranian: a Hierarchical Dirichlet Process   Approach to Linguistic Relationships](http://arxiv.org/abs/2001.05297v1)|2020-01-13 11:23:28+00:00|13-01-2020
+Nicolas Durrande|[Bayesian Quantile and Expectile Optimisation](http://arxiv.org/abs/2001.04833v1)|2020-01-12 20:51:21+00:00|12-01-2020
+Theo van Walsum|[Dynamic Coronary Roadmapping via Catheter Tip Tracking in X-ray   Fluoroscopy with Deep Learning Based Bayesian Filtering](http://arxiv.org/abs/2001.03801v1)|2020-01-11 22:08:06+00:00|11-01-2020
+Adenilton J. da Silva|[Parametric Probabilistic Quantum Memory](http://arxiv.org/abs/2001.04798v1)|2020-01-11 11:41:05+00:00|11-01-2020
+Gang Su|[Tangent-Space Gradient Optimization of Tensor Network for Machine   Learning](http://arxiv.org/abs/2001.04029v1)|2020-01-10 16:40:40+00:00|10-01-2020
+Kwok-Wing Chau|[Prediction of flow characteristics in the bubble column reactor by the   artificial pheromone-based communication of biological ants](http://arxiv.org/abs/2001.04276v1)|2020-01-09 19:36:45+00:00|09-01-2020
+Julie Shah|[Sampling Prediction-Matching Examples in Neural Networks: A   Probabilistic Programming Approach](http://arxiv.org/abs/2001.03076v1)|2020-01-09 15:57:51+00:00|09-01-2020
+Thomas Bartz-Beielstein|[Expected Improvement versus Predicted Value in Surrogate-Based   Optimization](http://arxiv.org/abs/2001.02957v1)|2020-01-09 13:09:44+00:00|09-01-2020
+
 ## 10-01-2020
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,32 @@
 # fairness
 Click on title for link to paper
+## 17-01-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Jixiang Li|[MixPath: A Unified Approach for One-shot Neural Architecture Search](http://arxiv.org/abs/2001.05887v1)|2020-01-16 15:24:26+00:00|16-01-2020
+Lukáš Machlica|[On Model Evaluation under Non-constant Class Imbalance](http://arxiv.org/abs/2001.05571v1)|2020-01-15 21:52:24+00:00|15-01-2020
+Ilker Ali Ozkan|[Supervised Segmentation of Retinal Vessel Structures Using ANN](http://arxiv.org/abs/2001.05549v1)|2020-01-15 20:48:03+00:00|15-01-2020
+Vasudeva Varma|[Stereotypical Bias Removal for Hate Speech Detection Task using   Knowledge-based Generalizations](http://arxiv.org/abs/2001.05495v1)|2020-01-15 18:17:36+00:00|15-01-2020
+Ulli Waltinger|[AAAI FSS-19: Human-Centered AI: Trustworthiness of AI Models and Data   Proceedings](http://arxiv.org/abs/2001.05375v1)|2020-01-15 15:30:29+00:00|15-01-2020
+Roberto Lotufo|[Hippocampus Segmentation on Epilepsy and Alzheimer's Disease Studies   with Multiple Convolutional Neural Networks](http://arxiv.org/abs/2001.05058v1)|2020-01-14 21:57:46+00:00|14-01-2020
+Miao Pan|[Differentially Private and Fair Classification via Calibrated Functional   Mechanism](http://arxiv.org/abs/2001.04958v1)|2020-01-14 18:33:19+00:00|14-01-2020
+Kin K. Leung|[Adaptive Gradient Sparsification for Efficient Federated Learning: An   Online Learning Approach](http://arxiv.org/abs/2001.04756v2)|2020-01-16 17:56:09+00:00|14-01-2020
+Mihaela van der Schaar|[Learning Overlapping Representations for the Estimation of   Individualized Treatment Effects](http://arxiv.org/abs/2001.04754v1)|2020-01-14 12:56:29+00:00|14-01-2020
+Fritz J. Friedersdorf|[Robust Gaussian Process Regression with a Bias Model](http://arxiv.org/abs/2001.04639v1)|2020-01-14 06:21:51+00:00|14-01-2020
+Felix J. Herrmann|[A deep-learning based Bayesian approach to seismic imaging and   uncertainty quantification](http://arxiv.org/abs/2001.04567v2)|2020-01-15 04:10:53+00:00|13-01-2020
+Petar M. Djuric|[Dynamic Radar Network of UAVs: A Joint Navigation and Tracking Approach](http://arxiv.org/abs/2001.04560v1)|2020-01-13 23:23:09+00:00|13-01-2020
+Andrea Manzoni|[A comprehensive deep learning-based approach to reduced order modeling   of nonlinear time-dependent parametrized PDEs](http://arxiv.org/abs/2001.04001v1)|2020-01-12 21:18:18+00:00|12-01-2020
+Wei Ji Ma|[Unbiased and Efficient Log-Likelihood Estimation with Inverse Binomial   Sampling](http://arxiv.org/abs/2001.03985v1)|2020-01-12 19:51:35+00:00|12-01-2020
+Prashant Trivedi|[On Feature Interactions Identified by Shapley Values of Binary   Classification Games](http://arxiv.org/abs/2001.03956v1)|2020-01-12 16:27:08+00:00|12-01-2020
+Binyamin Manela|[Deep Reinforcement Learning for Complex Manipulation Tasks with Sparse   Feedback](http://arxiv.org/abs/2001.03877v1)|2020-01-12 07:22:15+00:00|12-01-2020
+Hossein Bonakdari|[A Bayesian Monte-Carlo Uncertainty Model for Assessment of Shear Stress   Entropy](http://arxiv.org/abs/2001.04802v1)|2020-01-10 22:46:59+00:00|10-01-2020
+Ting Zhang|[Probabilistic K-means Clustering via Nonlinear Programming](http://arxiv.org/abs/2001.03286v1)|2020-01-10 02:40:41+00:00|10-01-2020
+Kenneth Joseph|[Theory In, Theory Out: The uses of social theory in machine learning for   social science](http://arxiv.org/abs/2001.03203v3)|2020-01-15 16:11:10+00:00|09-01-2020
+Deepti Ghadiyaram|[Don't Judge an Object by Its Context: Learning to Overcome Contextual   Bias](http://arxiv.org/abs/2001.03152v1)|2020-01-09 18:31:55+00:00|09-01-2020
+Luca Magri|[Learning ergodic averages in chaotic systems](http://arxiv.org/abs/2001.04027v1)|2020-01-09 18:12:39+00:00|09-01-2020
+Volker Tresp|[Debate Dynamics for Human-comprehensible Fact-checking on Knowledge   Graphs](http://arxiv.org/abs/2001.03436v1)|2020-01-09 15:19:45+00:00|09-01-2020
+
 ## 10-01-2020
 
 main_author|title|update_date|publish_date

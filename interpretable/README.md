@@ -1,5 +1,12 @@
 # interpretable
 Click on title for link to paper
+## 17-01-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Ulli Waltinger|[AAAI FSS-19: Human-Centered AI: Trustworthiness of AI Models and Data   Proceedings](http://arxiv.org/abs/2001.05375v1)|2020-01-15 15:30:29+00:00|15-01-2020
+Chih-Shiang Shur|[Explainable Deep Convolutional Candlestick Learner](http://arxiv.org/abs/2001.02767v3)|2020-01-16 09:09:02+00:00|08-01-2020
+
 ## 10-01-2020
 
 main_author|title|update_date|publish_date

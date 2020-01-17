@@ -1,5 +1,18 @@
 # variational
 Click on title for link to paper
+## 17-01-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Jeannette Bohg|[Probabilistic 3D Multi-Object Tracking for Autonomous Driving](http://arxiv.org/abs/2001.05673v1)|2020-01-16 06:38:02+00:00|16-01-2020
+Erik Meijer|[Newtonian Monte Carlo: single-site MCMC meets second-order gradient   methods](http://arxiv.org/abs/2001.05567v1)|2020-01-15 21:40:50+00:00|15-01-2020
+Manfred Opper|[Analysis of Bayesian Inference Algorithms by the Dynamical Functional   Approach](http://arxiv.org/abs/2001.04918v1)|2020-01-14 17:22:02+00:00|14-01-2020
+Daniel Lowd|[EGGS: A Flexible Approach to Relational Modeling of Social Network Spam](http://arxiv.org/abs/2001.04909v1)|2020-01-14 17:06:13+00:00|14-01-2020
+Felix J. Herrmann|[A deep-learning based Bayesian approach to seismic imaging and   uncertainty quantification](http://arxiv.org/abs/2001.04567v2)|2020-01-15 04:10:53+00:00|13-01-2020
+Xinghao Qiao|[Conditional Variational Inference with Adaptive Truncation for Bayesian   Nonparametric Models](http://arxiv.org/abs/2001.04508v1)|2020-01-13 19:27:11+00:00|13-01-2020
+Richard D. Wilkinson|[Considering discrepancy when calibrating a mechanistic electrophysiology   model](http://arxiv.org/abs/2001.04230v1)|2020-01-13 13:26:13+00:00|13-01-2020
+Nicolas Durrande|[Bayesian Quantile and Expectile Optimisation](http://arxiv.org/abs/2001.04833v1)|2020-01-12 20:51:21+00:00|12-01-2020
+
 ## 10-01-2020
 
 main_author|title|update_date|publish_date
