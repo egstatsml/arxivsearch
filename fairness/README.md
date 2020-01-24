@@ -1,5 +1,18 @@
 # fairness
 Click on title for link to paper
+## 24-01-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Calton Pu|[EventMapper: Detecting Real-World Physical Events Using Corroborative   and Probabilistic Sources](http://arxiv.org/abs/2001.08700v1)|2020-01-23 17:47:31+00:00|23-01-2020
+Chu-min Li|[Stochastic Item Descent Method for Large Scale Equal Circle Packing   Problem](http://arxiv.org/abs/2001.08540v1)|2020-01-22 02:40:31+00:00|22-01-2020
+Shane Legg|[The Incentives that Shape Behaviour](http://arxiv.org/abs/2001.07118v1)|2020-01-20 14:32:07+00:00|20-01-2020
+Lawrence Carin|[Nested-Wasserstein Self-Imitation Learning for Sequence Generation](http://arxiv.org/abs/2001.06944v1)|2020-01-20 02:19:13+00:00|20-01-2020
+Tanmoy Chakraborty|[Fair Transfer of Multiple Style Attributes in Text](http://arxiv.org/abs/2001.06693v1)|2020-01-18 15:38:04+00:00|18-01-2020
+Eunsuk Kang|[Teaching Software Engineering for AI-Enabled Systems](http://arxiv.org/abs/2001.06691v1)|2020-01-18 15:24:17+00:00|18-01-2020
+Pooyan Jamshidi|[FlexiBO: Cost-Aware Multi-Objective Optimization of Deep Neural Networks](http://arxiv.org/abs/2001.06588v1)|2020-01-18 03:26:03+00:00|18-01-2020
+Benjamin Kaufman|[Machine learning and AI-based approaches for bioactive ligand discovery   and GPCR-ligand recognition](http://arxiv.org/abs/2001.06545v2)|2020-01-22 23:57:00+00:00|17-01-2020
+
 ## 17-01-2020
 
 main_author|title|update_date|publish_date

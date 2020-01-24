@@ -1,5 +1,14 @@
 # interpretable
 Click on title for link to paper
+## 24-01-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Masayoshi Tomizuka|[Interpretable End-to-end Urban Autonomous Driving with Latent Deep   Reinforcement Learning](http://arxiv.org/abs/2001.08726v1)|2020-01-23 18:36:35+00:00|23-01-2020
+Kwan-Liu Ma|[Visual Summary of Value-level Feature Attribution in Prediction Classes   with Recurrent Neural Networks](http://arxiv.org/abs/2001.08379v1)|2020-01-23 05:38:30+00:00|23-01-2020
+Xintian Han|[Explaining Data-Driven Decisions made by AI Systems: The Counterfactual   Approach](http://arxiv.org/abs/2001.07417v1)|2020-01-21 09:58:58+00:00|21-01-2020
+Junichi Kuwata|[A point-wise linear model reveals reasons for 30-day readmission of   heart failure patients](http://arxiv.org/abs/2001.06988v1)|2020-01-20 05:56:32+00:00|20-01-2020
+
 ## 17-01-2020
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,25 @@
 # bnn
 Click on title for link to paper
+## 24-01-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Junbin Gao|[A Bayesian Long Short-Term Memory Model for Value at Risk and Expected   Shortfall Joint Forecasting](http://arxiv.org/abs/2001.08374v1)|2020-01-23 05:13:36+00:00|23-01-2020
+Vladimir Svetnik|[The Reciprocal Bayesian LASSO](http://arxiv.org/abs/2001.08327v1)|2020-01-23 01:21:59+00:00|23-01-2020
+Peter van Vliet|[A Probabilistic Framework for Imitating Human Race Driver Behavior](http://arxiv.org/abs/2001.08255v1)|2020-01-22 20:06:38+00:00|22-01-2020
+Éric Moulines|[On Last-Layer Algorithms for Classification: Decoupling Representation   from Uncertainty Estimation](http://arxiv.org/abs/2001.08049v1)|2020-01-22 15:08:30+00:00|22-01-2020
+Michèle Sebag|[From abstract items to latent spaces to observed data and back:   Compositional Variational Auto-Encoder](http://arxiv.org/abs/2001.07910v1)|2020-01-22 08:30:39+00:00|22-01-2020
+Shuguang Cui|[Convergence Time Optimization for Federated Learning over Wireless   Networks](http://arxiv.org/abs/2001.07845v1)|2020-01-22 01:55:12+00:00|22-01-2020
+A. E. Eiben|[Learning Directed Locomotion in Modular Robots with Evolvable   Morphologies](http://arxiv.org/abs/2001.07804v1)|2020-01-21 23:01:00+00:00|21-01-2020
+Sriram Ganapathy|[Pairwise Discriminative Neural PLDA for Speaker Verification](http://arxiv.org/abs/2001.07034v1)|2020-01-20 09:52:52+00:00|20-01-2020
+Roman Vershynin|[Memory capacity of neural networks with threshold and ReLU activations](http://arxiv.org/abs/2001.06938v1)|2020-01-20 01:54:21+00:00|20-01-2020
+Pravesh Ranchod|[Learning Options from Demonstration using Skill Segmentation](http://arxiv.org/abs/2001.06793v1)|2020-01-19 09:29:58+00:00|19-01-2020
+Pooyan Jamshidi|[FlexiBO: Cost-Aware Multi-Objective Optimization of Deep Neural Networks](http://arxiv.org/abs/2001.06588v1)|2020-01-18 03:26:03+00:00|18-01-2020
+Laurent Bertino|[Bayesian inference of dynamics from partial and noisy observations using   data assimilation and machine learning](http://arxiv.org/abs/2001.06270v1)|2020-01-17 12:46:26+00:00|17-01-2020
+Adam R Stinchcombe|[A Derivative-Free Method for Solving Elliptic Partial Differential   Equations with Deep Neural Networks](http://arxiv.org/abs/2001.06145v1)|2020-01-17 03:29:24+00:00|17-01-2020
+Mark B. Sandler|[A Critical Look at the Applicability of Markov Logic Networks for Music   Signal Analysis](http://arxiv.org/abs/2001.06086v1)|2020-01-16 21:46:13+00:00|16-01-2020
+Lise Getoor|[Estimating Aggregate Properties In Relational Networks With Unobserved   Data](http://arxiv.org/abs/2001.05617v1)|2020-01-16 02:43:02+00:00|16-01-2020
+
 ## 17-01-2020
 
 main_author|title|update_date|publish_date
