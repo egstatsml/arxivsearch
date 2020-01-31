@@ -1,5 +1,14 @@
 # variational
 Click on title for link to paper
+## 31-01-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Gonzalo Rios|[Transport Gaussian Processes for Regression](http://arxiv.org/abs/2001.11473v1)|2020-01-30 17:44:21+00:00|30-01-2020
+Matthias Schubert|[Unsupervised Anomaly Detection for X-Ray Images](http://arxiv.org/abs/2001.10883v1)|2020-01-29 15:14:56+00:00|29-01-2020
+Carlos García Garino|[Reinforcement Learning-based Autoscaling of Workflows in the Cloud: A   Survey](http://arxiv.org/abs/2001.09957v1)|2020-01-27 18:23:43+00:00|27-01-2020
+Dmitry Berenson|[Learning Constraints from Locally-Optimal Demonstrations under Cost   Function Uncertainty](http://arxiv.org/abs/2001.09336v1)|2020-01-25 15:57:48+00:00|25-01-2020
+
 ## 24-01-2020
 
 main_author|title|update_date|publish_date

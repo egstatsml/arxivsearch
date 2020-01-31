@@ -1,5 +1,29 @@
 # fairness
 Click on title for link to paper
+## 31-01-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Anett Schülke|[HAMLET -- A Learning Curve-Enabled Multi-Armed Bandit for Algorithm   Selection](http://arxiv.org/abs/2001.11261v1)|2020-01-30 11:28:39+00:00|30-01-2020
+Michael Macy|[Going beyond accuracy: estimating homophily in social networks using   predictions](http://arxiv.org/abs/2001.11171v1)|2020-01-30 04:37:12+00:00|30-01-2020
+Jan Peters|[An Upper Bound of the Bias of Nadaraya-Watson Kernel Regression under   Lipschitz Assumptions](http://arxiv.org/abs/2001.10972v2)|2020-01-30 09:01:12+00:00|29-01-2020
+Vaishak Belle|[On Constraint Definability in Tractable Probabilistic Models](http://arxiv.org/abs/2001.11349v1)|2020-01-29 16:05:56+00:00|29-01-2020
+Julian Wagner|[On Learning Vehicle Detection in Satellite Video](http://arxiv.org/abs/2001.10900v1)|2020-01-29 15:35:16+00:00|29-01-2020
+Stefano V. Albrecht|[Variational Autoencoders for Opponent Modeling in Multi-Agent Systems](http://arxiv.org/abs/2001.10829v1)|2020-01-29 13:38:59+00:00|29-01-2020
+Farhad Farokhi|[Regularization Helps with Mitigating Poisoning Attacks:   Distributionally-Robust Machine Learning Using the Wasserstein Distance](http://arxiv.org/abs/2001.10655v1)|2020-01-29 01:16:19+00:00|29-01-2020
+Masashi Sugiyama|[Binary Classification from Positive Data with Skewed Confidence](http://arxiv.org/abs/2001.10642v1)|2020-01-29 00:04:36+00:00|29-01-2020
+Modjtaba Shokrian Zini|[Parameter Sharing in Coagent Networks](http://arxiv.org/abs/2001.10474v1)|2020-01-28 17:31:23+00:00|28-01-2020
+Yining Chen|[A random forest based approach for predicting spreads in the primary   catastrophe bond market](http://arxiv.org/abs/2001.10393v1)|2020-01-28 15:04:57+00:00|28-01-2020
+Ivan Panico|[A Primer on Domain Adaptation](http://arxiv.org/abs/2001.09994v1)|2020-01-27 08:10:18+00:00|27-01-2020
+Subbarao Kambhampati|[Imperfect ImaGANation: Implications of GANs Exacerbating Biases on   Facial Data Augmentation and Snapchat Selfie Lenses](http://arxiv.org/abs/2001.09528v1)|2020-01-26 21:57:26+00:00|26-01-2020
+Haifeng Wang|[ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework   for Natural Language Generation](http://arxiv.org/abs/2001.11314v1)|2020-01-26 02:54:49+00:00|26-01-2020
+Shao-Lun Huang|[On the Fairness of Randomized Trials for Recommendation With   Heterogeneous Demographics and Beyond](http://arxiv.org/abs/2001.09328v1)|2020-01-25 14:59:46+00:00|25-01-2020
+Rayid Ghani|[Case Study: Predictive Fairness to Reduce Misdemeanor Recidivism Through   Social Service Interventions](http://arxiv.org/abs/2001.09233v1)|2020-01-24 23:52:55+00:00|24-01-2020
+Ian Dear|[A Branching and Merging Convolutional Network with Homogeneous Filter   Capsules](http://arxiv.org/abs/2001.09136v2)|2020-01-27 17:04:40+00:00|24-01-2020
+Nat Dilokthanakul|[An Explicit Local and Global Representation Disentanglement Framework   with Applications in Deep Clustering and Unsupervised Object Detection](http://arxiv.org/abs/2001.08957v1)|2020-01-24 12:09:20+00:00|24-01-2020
+Y. Narahari|[Ballooning Multi-Armed Bandits](http://arxiv.org/abs/2001.10055v1)|2020-01-24 04:35:05+00:00|24-01-2020
+Alexander Binder|[Simple and Effective Prevention of Mode Collapse in Deep One-Class   Classification](http://arxiv.org/abs/2001.08873v2)|2020-01-28 01:51:12+00:00|24-01-2020
+
 ## 24-01-2020
 
 main_author|title|update_date|publish_date

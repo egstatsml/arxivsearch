@@ -1,5 +1,13 @@
 # interpretable
 Click on title for link to paper
+## 31-01-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Frank Vetere|[Distal Explanations for Explainable Reinforcement Learning Agents](http://arxiv.org/abs/2001.10284v1)|2020-01-28 11:57:38+00:00|28-01-2020
+Matthias Dehmer|[Explainable Artificial Intelligence and Machine Learning: A reality   rooted perspective](http://arxiv.org/abs/2001.09464v1)|2020-01-26 15:09:45+00:00|26-01-2020
+Klaus Mueller|[Explainable Active Learning (XAL): An Empirical Study of How Local   Explanations Impact Annotator Experience](http://arxiv.org/abs/2001.09219v1)|2020-01-24 22:52:18+00:00|24-01-2020
+
 ## 24-01-2020
 
 main_author|title|update_date|publish_date

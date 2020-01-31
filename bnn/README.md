@@ -1,5 +1,21 @@
 # bnn
 Click on title for link to paper
+## 31-01-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Jose C. Principe|[Towards a Kernel based Physical Interpretation of Model Uncertainty](http://arxiv.org/abs/2001.11495v1)|2020-01-30 18:35:36+00:00|30-01-2020
+Gonzalo Rios|[Transport Gaussian Processes for Regression](http://arxiv.org/abs/2001.11473v1)|2020-01-30 17:44:21+00:00|30-01-2020
+Anna Korhonen|[Parameter Space Factorization for Zero-Shot Learning across Tasks and   Languages](http://arxiv.org/abs/2001.11453v1)|2020-01-30 16:58:56+00:00|30-01-2020
+Torsten Enßlin|[Bayesian Reasoning with Deep-Learned Knowledge](http://arxiv.org/abs/2001.11031v1)|2020-01-29 19:00:00+00:00|29-01-2020
+Andrew Gordon Wilson|[The Case for Bayesian Deep Learning](http://arxiv.org/abs/2001.10995v1)|2020-01-29 18:08:52+00:00|29-01-2020
+Thomas Bäck|[Bayesian Neural Architecture Search using A Training-Free Performance   Metric](http://arxiv.org/abs/2001.10726v1)|2020-01-29 08:42:58+00:00|29-01-2020
+Francois Laviolette|[The Indian Chefs Process](http://arxiv.org/abs/2001.10657v1)|2020-01-29 01:28:15+00:00|29-01-2020
+Matthew Gombolay|[Heterogeneous Learning from Demonstration](http://arxiv.org/abs/2001.09569v1)|2020-01-27 03:08:57+00:00|27-01-2020
+Andrew Roth|[Particle-Gibbs Sampling For Bayesian Feature Allocation Models](http://arxiv.org/abs/2001.09367v1)|2020-01-25 22:11:51+00:00|25-01-2020
+Nengli Lim|[Bayesian optimization for backpropagation in Monte-Carlo tree search](http://arxiv.org/abs/2001.09325v1)|2020-01-25 14:33:38+00:00|25-01-2020
+Bogdan Savchynskyy|[Discrete graphical models -- an optimization perspective](http://arxiv.org/abs/2001.09017v1)|2020-01-24 14:01:50+00:00|24-01-2020
+
 ## 24-01-2020
 
 main_author|title|update_date|publish_date
