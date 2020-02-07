@@ -1,5 +1,31 @@
 # bnn
 Click on title for link to paper
+## 07-02-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Sebastian Nowozin|[How Good is the Bayes Posterior in Deep Neural Networks Really?](http://arxiv.org/abs/2002.02405v1)|2020-02-06 17:38:48+00:00|06-02-2020
+Shandian Zhe|[Macroscopic Traffic Flow Modeling with Physics Regularized Gaussian   Process: A New Insight into Machine Learning Applications](http://arxiv.org/abs/2002.02374v1)|2020-02-06 17:22:20+00:00|06-02-2020
+Abdollah Shafieezadeh|[Value of Information Analysis via Active Learning and Knowledge Sharing   in Error-Controlled Adaptive Kriging](http://arxiv.org/abs/2002.02354v1)|2020-02-06 16:58:27+00:00|06-02-2020
+Marco Maggini|[Relational Neural Machines](http://arxiv.org/abs/2002.02193v1)|2020-02-06 10:53:57+00:00|06-02-2020
+Erik M. Bollt|[On Geometry of Information Flow for Causal Inference](http://arxiv.org/abs/2002.02078v1)|2020-02-06 02:46:48+00:00|06-02-2020
+Alma A. M. Rahat|[$ε$-shotgun: $ε$-greedy Batch Bayesian Optimisation](http://arxiv.org/abs/2002.01873v1)|2020-02-05 17:24:39+00:00|05-02-2020
+Gordon J. Ross|[Semiparametric Bayesian Forecasting of Spatial Earthquake Occurrences](http://arxiv.org/abs/2002.01706v1)|2020-02-05 10:11:26+00:00|05-02-2020
+Thomas L. Griffiths|[Generalizing meanings from partners to populations: Hierarchical   inference supports convention formation on networks](http://arxiv.org/abs/2002.01510v1)|2020-02-04 19:30:55+00:00|04-02-2020
+Roberto Barra-Chicote|[BOFFIN TTS: Few-Shot Speaker Adaptation by Bayesian Optimization](http://arxiv.org/abs/2002.01953v1)|2020-02-04 16:37:52+00:00|04-02-2020
+Simon Kirby|[Compositional Languages Emerge in a Neural Iterated Learning Model](http://arxiv.org/abs/2002.01365v1)|2020-02-04 15:19:09+00:00|04-02-2020
+Subramanian Ramamoorthy|[Learning robotic ultrasound scanning using probabilistic temporal   ranking](http://arxiv.org/abs/2002.01240v1)|2020-02-04 11:58:38+00:00|04-02-2020
+Alexander M. Rush|[Torch-Struct: Deep Structured Prediction Library](http://arxiv.org/abs/2002.00876v1)|2020-02-03 16:43:02+00:00|03-02-2020
+Marcel van Gerven|[Automatic structured variational inference](http://arxiv.org/abs/2002.00643v1)|2020-02-03 10:52:30+00:00|03-02-2020
+Tom Drummond|[Automatic Pruning for Quantized Neural Networks](http://arxiv.org/abs/2002.00523v1)|2020-02-03 01:10:13+00:00|03-02-2020
+Noah Goodman|[Variational Item Response Theory: Fast, Accurate, and Expressive](http://arxiv.org/abs/2002.00276v1)|2020-02-01 20:54:02+00:00|01-02-2020
+Jihua Zhu|[Domain segmentation and adjustment for generalized zero-shot learning](http://arxiv.org/abs/2002.00226v1)|2020-02-01 15:00:56+00:00|01-02-2020
+Klaus Dietmayer|[Leveraging Uncertainties for Deep Multi-modal Object Detection in   Autonomous Driving](http://arxiv.org/abs/2002.00216v1)|2020-02-01 14:24:51+00:00|01-02-2020
+Yann Ollivier|[Interpreting a Penalty as the Influence of a Bayesian Prior](http://arxiv.org/abs/2002.00178v1)|2020-02-01 09:48:51+00:00|01-02-2020
+Radford M. Neal|[Non-reversibly updating a uniform [0,1] value for Metropolis   accept/reject decisions](http://arxiv.org/abs/2001.11950v1)|2020-01-31 16:57:53+00:00|31-01-2020
+Andreas Hellander|[Convolutional Neural Networks as Summary Statistics for Approximate   Bayesian Computation](http://arxiv.org/abs/2001.11760v1)|2020-01-31 10:46:30+00:00|31-01-2020
+Andrew P. King|[Automated quantification of myocardial tissue characteristics from   native T1 mapping using neural networks with Bayesian inference for   uncertainty-based quality-control](http://arxiv.org/abs/2001.11711v1)|2020-01-31 08:51:33+00:00|31-01-2020
+
 ## 31-01-2020
 
 main_author|title|update_date|publish_date

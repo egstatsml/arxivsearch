@@ -1,5 +1,13 @@
 # interpretable
 Click on title for link to paper
+## 07-02-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Mark Przybocki|[Four Principles of Explainable AI as Applied to Biometrics and Facial   Forensic Algorithms](http://arxiv.org/abs/2002.01014v1)|2020-02-03 21:03:20+00:00|03-02-2020
+Anca D. Dragan|[Quantifying Hypothesis Space Misspecification in Learning from   Human-Robot Demonstrations and Physical Corrections](http://arxiv.org/abs/2002.00941v1)|2020-02-03 18:59:23+00:00|03-02-2020
+Noah A. Smith|[Citation Text Generation](http://arxiv.org/abs/2002.00317v1)|2020-02-02 03:54:47+00:00|02-02-2020
+
 ## 31-01-2020
 
 main_author|title|update_date|publish_date

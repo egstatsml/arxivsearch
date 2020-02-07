@@ -1,5 +1,31 @@
 # fairness
 Click on title for link to paper
+## 07-02-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Abdollah Shafieezadeh|[Value of Information Analysis via Active Learning and Knowledge Sharing   in Error-Controlled Adaptive Kriging](http://arxiv.org/abs/2002.02354v1)|2020-02-06 16:58:27+00:00|06-02-2020
+Bradley C. Love|[The Costs and Benefits of Goal-Directed Attention in Deep Convolutional   Neural Networks](http://arxiv.org/abs/2002.02342v1)|2020-02-06 16:42:00+00:00|06-02-2020
+Ambuj Tewari|[Near-optimal Reinforcement Learning in Factored MDPs: Oracle-Efficient   Algorithms for the Non-episodic Setting](http://arxiv.org/abs/2002.02302v1)|2020-02-06 15:19:53+00:00|06-02-2020
+Mohammad Mahdian|[Fair Correlation Clustering](http://arxiv.org/abs/2002.02274v1)|2020-02-06 14:28:21+00:00|06-02-2020
+Hanzi Wang|[Joint Deep Learning of Facial Expression Synthesis and Recognition](http://arxiv.org/abs/2002.02194v1)|2020-02-06 10:56:00+00:00|06-02-2020
+Mohan M. Trivedi|[Driver Gaze Estimation in the Real World: Overcoming the Eyeglass   Challenge](http://arxiv.org/abs/2002.02077v1)|2020-02-06 02:45:25+00:00|06-02-2020
+Jason You|[Finite Hilbert Transform in Weighted L2 Spaces](http://arxiv.org/abs/2002.02071v1)|2020-02-06 02:13:18+00:00|06-02-2020
+Matías Salibián-Barrera|[Robust Boosting for Regression Problems](http://arxiv.org/abs/2002.02054v1)|2020-02-06 01:12:45+00:00|06-02-2020
+Christopher Pal|[Exploring Structural Inductive Biases in Emergent Communication](http://arxiv.org/abs/2002.01335v1)|2020-02-04 14:59:08+00:00|04-02-2020
+Hang Zhao|[Neural network with data augmentation in multi-objective prediction of   multi-stage pump](http://arxiv.org/abs/2002.02402v1)|2020-02-04 11:23:42+00:00|04-02-2020
+Moshe Ben-Akiva|[A Neural-embedded Choice Model: TasteNet-MNL Modeling Taste   Heterogeneity with Flexibility and Interpretability](http://arxiv.org/abs/2002.00922v1)|2020-02-03 18:03:54+00:00|03-02-2020
+Eirini Ntoutsi|[FAE: A Fairness-Aware Ensemble Framework](http://arxiv.org/abs/2002.00695v1)|2020-02-03 13:05:18+00:00|03-02-2020
+Giles Chatham Strong|[On the impact of modern deep-learning techniques to the performance and   time-requirements of classification models in experimental high-energy   physics](http://arxiv.org/abs/2002.01427v1)|2020-02-03 12:29:59+00:00|03-02-2020
+Minlie Huang|[CoTK: An Open-Source Toolkit for Fast Development and Fair Evaluation of   Text Generation](http://arxiv.org/abs/2002.00583v1)|2020-02-03 07:15:29+00:00|03-02-2020
+Bryon Aragam|[DYNOTEARS: Structure Learning from Time-Series Data](http://arxiv.org/abs/2002.00498v1)|2020-02-02 21:47:48+00:00|02-02-2020
+Steve Renals|[DropClass and DropAdapt: Dropping classes for deep speaker   representation learning](http://arxiv.org/abs/2002.00453v1)|2020-02-02 18:43:50+00:00|02-02-2020
+Joseph Hassoun|[Near-Lossless Post-Training Quantization of Deep Neural Networks via a   Piecewise Linear Approximation](http://arxiv.org/abs/2002.00104v1)|2020-01-31 23:47:00+00:00|31-01-2020
+Maya Gupta|[Deontological Ethics By Monotonicity Shape Constraints](http://arxiv.org/abs/2001.11990v1)|2020-01-31 18:27:27+00:00|31-01-2020
+Jesse Davis|[Additive Tree Ensembles: Reasoning About Potential Instances](http://arxiv.org/abs/2001.11905v1)|2020-01-31 15:31:23+00:00|31-01-2020
+Reevu Maity|[Learning Unitaries by Gradient Descent](http://arxiv.org/abs/2001.11897v1)|2020-01-31 15:20:55+00:00|31-01-2020
+Ke Xu|[Pseudo-Bidirectional Decoding for Local Sequence Transduction](http://arxiv.org/abs/2001.11694v1)|2020-01-31 07:55:39+00:00|31-01-2020
+
 ## 31-01-2020
 
 main_author|title|update_date|publish_date
