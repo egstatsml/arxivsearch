@@ -1,5 +1,16 @@
 # interpretable
 Click on title for link to paper
+## 14-02-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Min Chen|[HypoML: Visual Analysis for Hypothesis-based Evaluation of Machine   Learning Models](http://arxiv.org/abs/2002.05271v1)|2020-02-12 23:03:44+00:00|12-02-2020
+U. Rajendra Acharya|[HAN-ECG: An Interpretable Atrial Fibrillation Detection Model Using   Hierarchical Attention Networks](http://arxiv.org/abs/2002.05262v1)|2020-02-12 22:23:06+00:00|12-02-2020
+Daniel C. Elton|[Self-explainability as an alternative to interpretability for judging   the trustworthiness of artificial intelligences](http://arxiv.org/abs/2002.05149v1)|2020-02-12 18:50:11+00:00|12-02-2020
+Barbara Hammer|[Convex Density Constraints for Computing Plausible Counterfactual   Explanations](http://arxiv.org/abs/2002.04862v1)|2020-02-12 09:23:42+00:00|12-02-2020
+Shixia Liu|[OoDAnalyzer: Interactive Analysis of Out-of-Distribution Samples](http://arxiv.org/abs/2002.03103v1)|2020-02-08 06:58:33+00:00|08-02-2020
+Johan Bollen|[Depressed individuals express more distorted thinking on social media](http://arxiv.org/abs/2002.02800v1)|2020-02-07 14:18:53+00:00|07-02-2020
+
 ## 07-02-2020
 
 main_author|title|update_date|publish_date

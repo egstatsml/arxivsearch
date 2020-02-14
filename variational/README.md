@@ -1,5 +1,24 @@
 # variational
 Click on title for link to paper
+## 14-02-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Andrej Risteski|[Fast Convergence for Langevin Diffusion with Matrix Manifold Structure](http://arxiv.org/abs/2002.05576v1)|2020-02-13 15:49:04+00:00|13-02-2020
+Jeremy Nixon|[Resolving Spurious Correlations in Causal Models of Environments via   Interventions](http://arxiv.org/abs/2002.05217v1)|2020-02-12 20:20:47+00:00|12-02-2020
+Mohsen Bayati|[A General Framework to Analyze Stochastic Linear Bandit](http://arxiv.org/abs/2002.05152v1)|2020-02-12 18:54:41+00:00|12-02-2020
+Martin Vechev|[Adversarial Robustness for Code](http://arxiv.org/abs/2002.04694v1)|2020-02-11 21:32:14+00:00|11-02-2020
+Atılım Güneş Baydin|[Differentiating the Black-Box: Optimization with Local Generative   Surrogates](http://arxiv.org/abs/2002.04632v1)|2020-02-11 19:02:57+00:00|11-02-2020
+Jimmy D. Moore|[Fine-grained Uncertainty Modeling in Neural Networks](http://arxiv.org/abs/2002.04205v1)|2020-02-11 05:06:25+00:00|11-02-2020
+Yarin Gal|[Try Depth Instead of Weight Correlations: Mean-field is a Less   Restrictive Assumption for Deeper Networks](http://arxiv.org/abs/2002.03704v1)|2020-02-10 13:11:45+00:00|10-02-2020
+Olivier Wintenberger|[Stochastic Online Optimization using Kalman Recursion](http://arxiv.org/abs/2002.03636v1)|2020-02-10 10:33:35+00:00|10-02-2020
+Steven J. Jackson|[Trust in Data Science: Collaboration, Translation, and Accountability in   Corporate Data Science Projects](http://arxiv.org/abs/2002.03389v1)|2020-02-09 15:50:50+00:00|09-02-2020
+P. Richard Hahn|[Stochastic tree ensembles for regularized nonlinear regression](http://arxiv.org/abs/2002.03375v1)|2020-02-09 14:37:02+00:00|09-02-2020
+Dinesh Manocha|[SPA: Verbal Interactions between Agents and Avatars in Shared Virtual   Environments using Propositional Planning](http://arxiv.org/abs/2002.03246v1)|2020-02-08 23:15:06+00:00|08-02-2020
+Faming Liang|[Extended Stochastic Gradient MCMC for Large-Scale Bayesian Variable   Selection](http://arxiv.org/abs/2002.02919v1)|2020-02-07 17:47:07+00:00|07-02-2020
+Sebastian Nowozin|[The k-tied Normal Distribution: A Compact Parameterization of Gaussian   Mean Field Posteriors in Bayesian Neural Networks](http://arxiv.org/abs/2002.02655v1)|2020-02-07 07:33:15+00:00|07-02-2020
+Xinbo Gao|[Image Fine-grained Inpainting](http://arxiv.org/abs/2002.02609v1)|2020-02-07 03:45:25+00:00|07-02-2020
+
 ## 07-02-2020
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,34 @@
 # bnn
 Click on title for link to paper
+## 14-02-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Patrick Shafto|[Sequential Cooperative Bayesian Inference](http://arxiv.org/abs/2002.05706v1)|2020-02-13 18:48:06+00:00|13-02-2020
+Andrej Risteski|[Fast Convergence for Langevin Diffusion with Matrix Manifold Structure](http://arxiv.org/abs/2002.05576v1)|2020-02-13 15:49:04+00:00|13-02-2020
+Emre Özkan|[Extended Target Tracking and Classification Using Neural Networks](http://arxiv.org/abs/2002.05462v1)|2020-02-13 12:02:52+00:00|13-02-2020
+Gabriele Messori|[Ensemble neural network forecasts with singular value decomposition](http://arxiv.org/abs/2002.05398v1)|2020-02-13 09:28:21+00:00|13-02-2020
+Xiaoning Qian|[Learnable Bernoulli Dropout for Bayesian Deep Learning](http://arxiv.org/abs/2002.05155v1)|2020-02-12 18:57:14+00:00|12-02-2020
+Jason Roy|[Bayesian Nonparametric Cost-Effectiveness Analyses: Causal Estimation   and Adaptive Subgroup Discovery](http://arxiv.org/abs/2002.04706v1)|2020-02-11 21:51:58+00:00|11-02-2020
+Guido Sanguinetti|[Robustness of Bayesian Neural Networks to Gradient-Based Attacks](http://arxiv.org/abs/2002.04359v2)|2020-02-12 16:29:29+00:00|11-02-2020
+Michael McCarrick|[Playing to Learn Better: Repeated Games for Adversarial Learning with   Multiple Classifiers](http://arxiv.org/abs/2002.03924v1)|2020-02-10 16:33:42+00:00|10-02-2020
+Taylor Berg-Kirkpatrick|[A Probabilistic Formulation of Unsupervised Text Style Transfer](http://arxiv.org/abs/2002.03912v1)|2020-02-10 16:20:49+00:00|10-02-2020
+Yarin Gal|[Try Depth Instead of Weight Correlations: Mean-field is a Less   Restrictive Assumption for Deeper Networks](http://arxiv.org/abs/2002.03704v1)|2020-02-10 13:11:45+00:00|10-02-2020
+Shihua Zhang|[Distributed Bayesian Matrix Decomposition for Big Data Mining and   Clustering](http://arxiv.org/abs/2002.03703v1)|2020-02-10 13:10:53+00:00|10-02-2020
+Max Mehltretter|[Uncertainty Estimation for End-To-End Learned Dense Stereo Matching via   Probabilistic Deep Learning](http://arxiv.org/abs/2002.03663v1)|2020-02-10 11:27:52+00:00|10-02-2020
+Thang D. Bui|[Hierarchical Gaussian Process Priors for Bayesian Neural Network Weights](http://arxiv.org/abs/2002.04033v1)|2020-02-10 07:19:52+00:00|10-02-2020
+Sriram Ganapathy|[NPLDA: A Deep Neural PLDA Model for Speaker Verification](http://arxiv.org/abs/2002.03562v1)|2020-02-10 05:47:35+00:00|10-02-2020
+Omar Ghattas|[Projected Stein Variational Gradient Descent](http://arxiv.org/abs/2002.03469v1)|2020-02-09 23:17:30+00:00|09-02-2020
+P. Richard Hahn|[Stochastic tree ensembles for regularized nonlinear regression](http://arxiv.org/abs/2002.03375v1)|2020-02-09 14:37:02+00:00|09-02-2020
+Clark Glymour|[Domain Adaptation As a Problem of Inference on Graphical Models](http://arxiv.org/abs/2002.03278v1)|2020-02-09 04:08:15+00:00|09-02-2020
+Illia Horenko|[On a scalable entropic breaching of the overfitting barrier in machine   learning](http://arxiv.org/abs/2002.03176v1)|2020-02-08 14:47:59+00:00|08-02-2020
+Ankur P. Parikh|[A Multilingual View of Unsupervised Machine Translation](http://arxiv.org/abs/2002.02955v1)|2020-02-07 18:50:21+00:00|07-02-2020
+Lawrence Carin|[Learning Autoencoders with Relational Regularization](http://arxiv.org/abs/2002.02913v1)|2020-02-07 17:27:30+00:00|07-02-2020
+Benjamin M. Marlin|[Assessing the Adversarial Robustness of Monte Carlo and Distillation   Methods for Deep Bayesian Neural Network Classification](http://arxiv.org/abs/2002.02842v1)|2020-02-07 15:29:22+00:00|07-02-2020
+Sebastian Nowozin|[The k-tied Normal Distribution: A Compact Parameterization of Gaussian   Mean Field Posteriors in Bayesian Neural Networks](http://arxiv.org/abs/2002.02655v1)|2020-02-07 07:33:15+00:00|07-02-2020
+Roberto Tron|[Statistical Outlier Identification in Multi-robot Visual SLAM using   Expectation Maximization](http://arxiv.org/abs/2002.02638v1)|2020-02-07 06:34:44+00:00|07-02-2020
+Katherine A. Hoadley|[Bidimensional linked matrix factorization for pan-omics pan-cancer   analysis](http://arxiv.org/abs/2002.02601v1)|2020-02-07 03:11:44+00:00|07-02-2020
+
 ## 07-02-2020
 
 main_author|title|update_date|publish_date
