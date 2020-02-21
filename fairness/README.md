@@ -1,5 +1,56 @@
 # fairness
 Click on title for link to paper
+## 21-02-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Andrei Barbu|[Measuring Social Biases in Grounded Vision and Language Embeddings](http://arxiv.org/abs/2002.08911v1)|2020-02-20 17:54:46+00:00|20-02-2020
+Yiannis Demiris|[Support-weighted Adversarial Imitation Learning](http://arxiv.org/abs/2002.08803v1)|2020-02-20 15:34:30+00:00|20-02-2020
+Ke Quan|[Bimodal Distribution Removal and Genetic Algorithm in Neural Network for   Breast Cancer Diagnosis](http://arxiv.org/abs/2002.08729v1)|2020-02-20 13:51:40+00:00|20-02-2020
+Reinhard Koch|[A survey on Semi-, Self- and Unsupervised Techniques in Image   Classification](http://arxiv.org/abs/2002.08721v1)|2020-02-20 13:29:27+00:00|20-02-2020
+Kui Jia|[Unsupervised Multi-Class Domain Adaptation: Theory, Algorithms, and   Practice](http://arxiv.org/abs/2002.08681v1)|2020-02-20 11:26:45+00:00|20-02-2020
+John P. Cunningham|[The continuous categorical: a novel simplex-valued exponential family](http://arxiv.org/abs/2002.08563v1)|2020-02-20 04:28:02+00:00|20-02-2020
+Volker Tresp|[Causal Inference under Networked Interference](http://arxiv.org/abs/2002.08506v1)|2020-02-20 00:35:50+00:00|20-02-2020
+Alessandro Rinaldo|[On conditional versus marginal bias in multi-armed bandits](http://arxiv.org/abs/2002.08422v1)|2020-02-19 20:16:10+00:00|19-02-2020
+Martin Riedmiller|[Keep Doing What Worked: Behavioral Modelling Priors for Offline   Reinforcement Learning](http://arxiv.org/abs/2002.08396v1)|2020-02-19 19:21:08+00:00|19-02-2020
+K. Madhava Krishna|[MonoLayout: Amodal scene layout from a single image](http://arxiv.org/abs/2002.08394v1)|2020-02-19 19:16:34+00:00|19-02-2020
+José Unpingco|[Multiple Imputation with Denoising Autoencoder using Metamorphic Truth   and Imputation Feedback](http://arxiv.org/abs/2002.08338v1)|2020-02-19 18:26:59+00:00|19-02-2020
+Wen-mei Hwu|[MLModelScope: A Distributed Platform for Model Evaluation and   Benchmarking at Scale](http://arxiv.org/abs/2002.08295v1)|2020-02-19 17:13:01+00:00|19-02-2020
+Henry Yuen|[Quantum statistical query learning](http://arxiv.org/abs/2002.08240v1)|2020-02-19 15:36:57+00:00|19-02-2020
+Stéphan Clémençon|[Learning Fair Scoring Functions: Fairness Definitions, Algorithms and   Generalization Bounds for Bipartite Ranking](http://arxiv.org/abs/2002.08159v1)|2020-02-19 13:17:39+00:00|19-02-2020
+Ye Bai|[Rnn-transducer with language bias for end-to-end Mandarin-English   code-switching speech recognition](http://arxiv.org/abs/2002.08126v1)|2020-02-19 12:01:33+00:00|19-02-2020
+Hiroki Ozaki|[Unsupervised Temporal Feature Aggregation for Event Detection in   Unstructured Sports Videos](http://arxiv.org/abs/2002.08097v1)|2020-02-19 10:24:22+00:00|19-02-2020
+Yingbin Liang|[Multi-Step Model-Agnostic Meta-Learning: Convergence and Improved   Algorithms](http://arxiv.org/abs/2002.07836v1)|2020-02-18 19:17:54+00:00|18-02-2020
+Christos Faloutsos|[Higher-Order Label Homogeneity and Spreading in Graphs](http://arxiv.org/abs/2002.07833v1)|2020-02-18 19:09:21+00:00|18-02-2020
+V. Buat|[Constraining the recent star formation history of galaxies : an   Approximate Bayesian Computation approach](http://arxiv.org/abs/2002.07815v1)|2020-02-18 19:00:01+00:00|18-02-2020
+Ho-Chun Herbert Chang|[Multi-Issue Bargaining With Deep Reinforcement Learning](http://arxiv.org/abs/2002.07788v1)|2020-02-18 18:33:46+00:00|18-02-2020
+Matt Fredrikson|[Individual Fairness Revisited: Transferring Techniques from Adversarial   Robustness](http://arxiv.org/abs/2002.07738v1)|2020-02-18 17:14:02+00:00|18-02-2020
+Sivaramakrishnan Natarajan Ramamoorthy|[How to Solve Fair $k$-Center in Massive Data Models](http://arxiv.org/abs/2002.07682v1)|2020-02-18 16:11:40+00:00|18-02-2020
+Rakesh Vohra|[Fair Prediction with Endogenous Behavior](http://arxiv.org/abs/2002.07147v1)|2020-02-18 16:07:25+00:00|18-02-2020
+Suhas Vijaykumar|[A Resolution in Algorithmic Fairness: Calibrated Scores for Fair   Classifications](http://arxiv.org/abs/2002.07676v1)|2020-02-18 16:03:09+00:00|18-02-2020
+Byeungwoo Jeon|[Restricted Structural Random Matrix for Compressive Sensing](http://arxiv.org/abs/2002.07346v1)|2020-02-18 02:52:51+00:00|18-02-2020
+Connor W. Coley|[The Synthesizability of Molecules Proposed by Generative Models](http://arxiv.org/abs/2002.07007v1)|2020-02-17 15:41:28+00:00|17-02-2020
+Volker Tresp|[Interpretable and Fair Comparison of Link Prediction or Entity Alignment   Methods with Adjusted Mean Rank](http://arxiv.org/abs/2002.06914v1)|2020-02-17 12:26:14+00:00|17-02-2020
+Dali Kaafar|[Data and Model Dependencies of Membership Inference Attack](http://arxiv.org/abs/2002.06856v1)|2020-02-17 09:35:00+00:00|17-02-2020
+T. Alderliesten|[Surrogate-free machine learning-based organ dose reconstruction for   pediatric abdominal radiotherapy](http://arxiv.org/abs/2002.07161v1)|2020-02-17 04:19:01+00:00|17-02-2020
+Akinori Fujino|[Learning Individually Fair Classifier with Causal-Effect Constraint](http://arxiv.org/abs/2002.06746v1)|2020-02-17 02:46:17+00:00|17-02-2020
+Ali Vakilian|[(Individual) Fairness for $k$-Clustering](http://arxiv.org/abs/2002.06742v1)|2020-02-17 02:31:13+00:00|17-02-2020
+Kavita Bala|[Block Annotation: Better Image Annotation for Semantic Segmentation with   Sub-Image Decomposition](http://arxiv.org/abs/2002.06626v1)|2020-02-16 17:42:37+00:00|16-02-2020
+Juba Ziani|[Pipeline Interventions](http://arxiv.org/abs/2002.06592v1)|2020-02-16 15:28:29+00:00|16-02-2020
+Ami Wiesel|[Fair Principal Component Analysis and Filter Design](http://arxiv.org/abs/2002.06557v1)|2020-02-16 11:42:52+00:00|16-02-2020
+Mert Pilanci|[Distributed Averaging Methods for Randomized Second Order Optimization](http://arxiv.org/abs/2002.06540v1)|2020-02-16 09:01:18+00:00|16-02-2020
+Kai Fong Ernest Chong|[A closer look at the approximation capabilities of neural networks](http://arxiv.org/abs/2002.06505v1)|2020-02-16 04:58:43+00:00|16-02-2020
+Akiko Takeda|[Convex Fairness Constrained Model Using Causal Effect Estimators](http://arxiv.org/abs/2002.06501v1)|2020-02-16 03:40:04+00:00|16-02-2020
+Martha White|[Maxmin Q-learning: Controlling the Estimation Bias of Q-learning](http://arxiv.org/abs/2002.06487v1)|2020-02-16 02:02:23+00:00|16-02-2020
+Gokhan Tur|[Multi-Task Siamese Neural Network for Improving Replay Attack Detection](http://arxiv.org/abs/2002.07629v1)|2020-02-16 00:21:16+00:00|16-02-2020
+Charles Isbell|[Universal Value Density Estimation for Imitation Learning and   Goal-Conditioned Reinforcement Learning](http://arxiv.org/abs/2002.06473v1)|2020-02-15 23:46:29+00:00|15-02-2020
+Pascal Frossard|[Hold me tight! Influence of discriminative features on deep network   boundaries](http://arxiv.org/abs/2002.06349v1)|2020-02-15 09:29:36+00:00|15-02-2020
+Stephan Mandt|[Extreme Classification via Adversarial Softmax Approximation](http://arxiv.org/abs/2002.06298v1)|2020-02-15 01:42:52+00:00|15-02-2020
+Zhu Han|[Optimal Pricing of Internet of Things: A Machine Learning Approach](http://arxiv.org/abs/2002.05929v1)|2020-02-14 09:17:40+00:00|14-02-2020
+Tiberio Caetano|[Fast Fair Regression via Efficient Approximations of Mutual Information](http://arxiv.org/abs/2002.06200v1)|2020-02-14 08:50:51+00:00|14-02-2020
+Wouter Verbeke|[Learning to rank for uplift modeling](http://arxiv.org/abs/2002.05897v1)|2020-02-14 07:37:16+00:00|14-02-2020
+Jimmy Ba|[An Inductive Bias for Distances: Neural Nets that Respect the Triangle   Inequality](http://arxiv.org/abs/2002.05825v1)|2020-02-14 00:47:31+00:00|14-02-2020
+
 ## 14-02-2020
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,34 @@
 # bnn
 Click on title for link to paper
+## 21-02-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Kani Chen|[A General Pairwise Comparison Model for Extremely Sparse Networks](http://arxiv.org/abs/2002.08853v1)|2020-02-20 16:39:55+00:00|20-02-2020
+Pavel Izmailov|[Bayesian Deep Learning and a Probabilistic Perspective of Generalization](http://arxiv.org/abs/2002.08791v1)|2020-02-20 15:13:27+00:00|20-02-2020
+John P. Cunningham|[The continuous categorical: a novel simplex-valued exponential family](http://arxiv.org/abs/2002.08563v1)|2020-02-20 04:28:02+00:00|20-02-2020
+Georg von Wichert|[Table-Top Scene Analysis Using Knowledge-Supervised MCMC](http://arxiv.org/abs/2002.08417v1)|2020-02-19 20:10:38+00:00|19-02-2020
+Silvio Savarese|[JRMOT: A Real-Time 3D Multi-Object Tracker and a New Large-Scale Dataset](http://arxiv.org/abs/2002.08397v1)|2020-02-19 19:21:33+00:00|19-02-2020
+Michael U. Gutmann|[Bayesian Experimental Design for Implicit Models by Mutual Information   Neural Estimation](http://arxiv.org/abs/2002.08129v1)|2020-02-19 12:09:42+00:00|19-02-2020
+Jamie Dougherty|[Hierarchical Quantized Autoencoders](http://arxiv.org/abs/2002.08111v1)|2020-02-19 11:26:34+00:00|19-02-2020
+Min-Gwan Seo|[Being Bayesian about Categorical Probability](http://arxiv.org/abs/2002.07965v1)|2020-02-19 02:35:32+00:00|19-02-2020
+Geraint F. Lewis|[A unified framework for 21cm tomography sample generation and parameter   inference with Progressively Growing GANs](http://arxiv.org/abs/2002.07940v1)|2020-02-19 00:39:50+00:00|19-02-2020
+V. Buat|[Constraining the recent star formation history of galaxies : an   Approximate Bayesian Computation approach](http://arxiv.org/abs/2002.07815v1)|2020-02-18 19:00:01+00:00|18-02-2020
+Paul M Baggenstoss|[A Neural Network Based on First Principles](http://arxiv.org/abs/2002.07469v1)|2020-02-18 10:16:59+00:00|18-02-2020
+Fredrik Lindsten|[Deep Gaussian Markov random fields](http://arxiv.org/abs/2002.07467v1)|2020-02-18 10:06:39+00:00|18-02-2020
+Fabio Ramos|[DISCO: Double Likelihood-free Inference Stochastic Control](http://arxiv.org/abs/2002.07379v1)|2020-02-18 05:29:40+00:00|18-02-2020
+Mausam|[Generalized Neural Policies for Relational MDPs](http://arxiv.org/abs/2002.07375v1)|2020-02-18 05:03:17+00:00|18-02-2020
+Stephan Mandt|[Variable-Bitrate Neural Compression via Bayesian Arithmetic Coding](http://arxiv.org/abs/2002.08158v1)|2020-02-18 00:15:37+00:00|18-02-2020
+Yao Xie|[Deep Attention Spatio-Temporal Point Processes](http://arxiv.org/abs/2002.07281v1)|2020-02-17 22:25:40+00:00|17-02-2020
+Yang Ning|[Regularized Training and Tight Certification for Randomized Smoothed   Classifier with Provable Robustness](http://arxiv.org/abs/2002.07246v1)|2020-02-17 20:54:34+00:00|17-02-2020
+Samir Bhatt|[$π$VAE: Encoding stochastic process priors with variational   autoencoders](http://arxiv.org/abs/2002.06873v1)|2020-02-17 10:23:18+00:00|17-02-2020
+Frank Neumann|[Evolutionary Bi-objective Optimization for the Dynamic   Chance-Constrained Knapsack Problem Based on Tail Bound Objectives](http://arxiv.org/abs/2002.06766v1)|2020-02-17 04:36:15+00:00|17-02-2020
+Yudong Chen|[Structures of Spurious Local Minima in $k$-means](http://arxiv.org/abs/2002.06694v1)|2020-02-16 22:15:03+00:00|16-02-2020
+Mark Steyvers|[Active Bayesian Assessment for Black-Box Classifiers](http://arxiv.org/abs/2002.06532v1)|2020-02-16 08:08:42+00:00|16-02-2020
+Roland Vollgraf|[Multi-variate Probabilistic Time Series Forecasting via Conditioned   Normalizing Flows](http://arxiv.org/abs/2002.06103v1)|2020-02-14 16:16:51+00:00|14-02-2020
+Adrian Will|[A comparison of different types of Niching Genetic Algorithms for   variable selection in solar radiation estimation](http://arxiv.org/abs/2002.06036v1)|2020-02-14 13:52:04+00:00|14-02-2020
+Jaewe Heo|[Towards an Appropriate Query, Key, and Value Computation for Knowledge   Tracing](http://arxiv.org/abs/2002.07033v1)|2020-02-14 09:21:19+00:00|14-02-2020
+
 ## 14-02-2020
 
 main_author|title|update_date|publish_date

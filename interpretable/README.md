@@ -1,5 +1,14 @@
 # interpretable
 Click on title for link to paper
+## 21-02-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+David Page|[CAUSE: Learning Granger Causality from Event Sequences using Attribution   Methods](http://arxiv.org/abs/2002.07906v1)|2020-02-18 22:21:11+00:00|18-02-2020
+Wei Fan|[A Modified Perturbed Sampling Method for Local Interpretable   Model-agnostic Explanation](http://arxiv.org/abs/2002.07434v1)|2020-02-18 09:03:10+00:00|18-02-2020
+Isabel Valera|[Algorithmic Recourse: from Counterfactual Explanations to Interventions](http://arxiv.org/abs/2002.06278v1)|2020-02-14 22:49:42+00:00|14-02-2020
+Kyle Richardson|[Transformers as Soft Reasoners over Language](http://arxiv.org/abs/2002.05867v1)|2020-02-14 04:23:28+00:00|14-02-2020
+
 ## 14-02-2020
 
 main_author|title|update_date|publish_date

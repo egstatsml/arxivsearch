@@ -1,16 +1,11 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
-Andrej Risteski|[Fast Convergence for Langevin Diffusion with Matrix Manifold Structure](http://arxiv.org/abs/2002.05576v1)|2020-02-13 15:49:04+00:00|13-02-2020
-Jeremy Nixon|[Resolving Spurious Correlations in Causal Models of Environments via   Interventions](http://arxiv.org/abs/2002.05217v1)|2020-02-12 20:20:47+00:00|12-02-2020
-Mohsen Bayati|[A General Framework to Analyze Stochastic Linear Bandit](http://arxiv.org/abs/2002.05152v1)|2020-02-12 18:54:41+00:00|12-02-2020
-Martin Vechev|[Adversarial Robustness for Code](http://arxiv.org/abs/2002.04694v1)|2020-02-11 21:32:14+00:00|11-02-2020
-Atılım Güneş Baydin|[Differentiating the Black-Box: Optimization with Local Generative   Surrogates](http://arxiv.org/abs/2002.04632v1)|2020-02-11 19:02:57+00:00|11-02-2020
-Jimmy D. Moore|[Fine-grained Uncertainty Modeling in Neural Networks](http://arxiv.org/abs/2002.04205v1)|2020-02-11 05:06:25+00:00|11-02-2020
-Yarin Gal|[Try Depth Instead of Weight Correlations: Mean-field is a Less   Restrictive Assumption for Deeper Networks](http://arxiv.org/abs/2002.03704v1)|2020-02-10 13:11:45+00:00|10-02-2020
-Olivier Wintenberger|[Stochastic Online Optimization using Kalman Recursion](http://arxiv.org/abs/2002.03636v1)|2020-02-10 10:33:35+00:00|10-02-2020
-Steven J. Jackson|[Trust in Data Science: Collaboration, Translation, and Accountability in   Corporate Data Science Projects](http://arxiv.org/abs/2002.03389v1)|2020-02-09 15:50:50+00:00|09-02-2020
-P. Richard Hahn|[Stochastic tree ensembles for regularized nonlinear regression](http://arxiv.org/abs/2002.03375v1)|2020-02-09 14:37:02+00:00|09-02-2020
-Dinesh Manocha|[SPA: Verbal Interactions between Agents and Avatars in Shared Virtual   Environments using Propositional Planning](http://arxiv.org/abs/2002.03246v1)|2020-02-08 23:15:06+00:00|08-02-2020
-Faming Liang|[Extended Stochastic Gradient MCMC for Large-Scale Bayesian Variable   Selection](http://arxiv.org/abs/2002.02919v1)|2020-02-07 17:47:07+00:00|07-02-2020
-Sebastian Nowozin|[The k-tied Normal Distribution: A Compact Parameterization of Gaussian   Mean Field Posteriors in Bayesian Neural Networks](http://arxiv.org/abs/2002.02655v1)|2020-02-07 07:33:15+00:00|07-02-2020
-Xinbo Gao|[Image Fine-grained Inpainting](http://arxiv.org/abs/2002.02609v1)|2020-02-07 03:45:25+00:00|07-02-2020
+John P. Cunningham|[The continuous categorical: a novel simplex-valued exponential family](http://arxiv.org/abs/2002.08563v1)|2020-02-20 04:28:02+00:00|20-02-2020
+Georg von Wichert|[A Generalizable Knowledge Framework for Semantic Indoor Mapping Based on   Markov Logic Networks and Data Driven MCMC](http://arxiv.org/abs/2002.08402v1)|2020-02-19 19:30:10+00:00|19-02-2020
+Michael U. Gutmann|[Bayesian Experimental Design for Implicit Models by Mutual Information   Neural Estimation](http://arxiv.org/abs/2002.08129v1)|2020-02-19 12:09:42+00:00|19-02-2020
+Fabio Ramos|[DISCO: Double Likelihood-free Inference Stochastic Control](http://arxiv.org/abs/2002.07379v1)|2020-02-18 05:29:40+00:00|18-02-2020
+Yingbin Liang|[Robust Stochastic Bandit Algorithms under Probabilistic Unbounded   Adversarial Attack](http://arxiv.org/abs/2002.07214v1)|2020-02-17 19:21:08+00:00|17-02-2020
+Samir Bhatt|[$π$VAE: Encoding stochastic process priors with variational   autoencoders](http://arxiv.org/abs/2002.06873v1)|2020-02-17 10:23:18+00:00|17-02-2020
+Frank Neumann|[Evolutionary Bi-objective Optimization for the Dynamic   Chance-Constrained Knapsack Problem Based on Tail Bound Objectives](http://arxiv.org/abs/2002.06766v1)|2020-02-17 04:36:15+00:00|17-02-2020
+Charles Isbell|[Universal Value Density Estimation for Imitation Learning and   Goal-Conditioned Reinforcement Learning](http://arxiv.org/abs/2002.06473v1)|2020-02-15 23:46:29+00:00|15-02-2020
+William L. Hamilton|[Latent Variable Modelling with Hyperbolic Normalizing Flows](http://arxiv.org/abs/2002.06336v2)|2020-02-18 03:56:12+00:00|15-02-2020

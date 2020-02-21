@@ -1,5 +1,19 @@
 # mcmc
 Click on title for link to paper
+## 21-02-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+John P. Cunningham|[The continuous categorical: a novel simplex-valued exponential family](http://arxiv.org/abs/2002.08563v1)|2020-02-20 04:28:02+00:00|20-02-2020
+Georg von Wichert|[A Generalizable Knowledge Framework for Semantic Indoor Mapping Based on   Markov Logic Networks and Data Driven MCMC](http://arxiv.org/abs/2002.08402v1)|2020-02-19 19:30:10+00:00|19-02-2020
+Michael U. Gutmann|[Bayesian Experimental Design for Implicit Models by Mutual Information   Neural Estimation](http://arxiv.org/abs/2002.08129v1)|2020-02-19 12:09:42+00:00|19-02-2020
+Fabio Ramos|[DISCO: Double Likelihood-free Inference Stochastic Control](http://arxiv.org/abs/2002.07379v1)|2020-02-18 05:29:40+00:00|18-02-2020
+Yingbin Liang|[Robust Stochastic Bandit Algorithms under Probabilistic Unbounded   Adversarial Attack](http://arxiv.org/abs/2002.07214v1)|2020-02-17 19:21:08+00:00|17-02-2020
+Samir Bhatt|[$π$VAE: Encoding stochastic process priors with variational   autoencoders](http://arxiv.org/abs/2002.06873v1)|2020-02-17 10:23:18+00:00|17-02-2020
+Frank Neumann|[Evolutionary Bi-objective Optimization for the Dynamic   Chance-Constrained Knapsack Problem Based on Tail Bound Objectives](http://arxiv.org/abs/2002.06766v1)|2020-02-17 04:36:15+00:00|17-02-2020
+Charles Isbell|[Universal Value Density Estimation for Imitation Learning and   Goal-Conditioned Reinforcement Learning](http://arxiv.org/abs/2002.06473v1)|2020-02-15 23:46:29+00:00|15-02-2020
+William L. Hamilton|[Latent Variable Modelling with Hyperbolic Normalizing Flows](http://arxiv.org/abs/2002.06336v2)|2020-02-18 03:56:12+00:00|15-02-2020
+
 ## 14-02-2020
 
 main_author|title|update_date|publish_date
