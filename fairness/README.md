@@ -1,5 +1,42 @@
 # fairness
 Click on title for link to paper
+## 28-02-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Adrien Gaidon|[Semantically-Guided Representation Learning for Self-Supervised   Monocular Depth](http://arxiv.org/abs/2002.12319v1)|2020-02-27 18:40:10+00:00|27-02-2020
+Mohan Mahadevan|[Reducing Geographic Performance Differential for Face Recognition](http://arxiv.org/abs/2002.12093v1)|2020-02-27 13:56:09+00:00|27-02-2020
+Hanwang Zhang|[Unbiased Scene Graph Generation from Biased Training](http://arxiv.org/abs/2002.11949v1)|2020-02-27 07:29:53+00:00|27-02-2020
+Nathan Srebro|[Fair Learning with Private Demographic Data](http://arxiv.org/abs/2002.11651v1)|2020-02-26 17:26:19+00:00|26-02-2020
+Lifeng Lai|[Minimax Optimal Estimation of KL Divergence for Continuous Distributions](http://arxiv.org/abs/2002.11599v1)|2020-02-26 16:37:37+00:00|26-02-2020
+Emilio Leonardi|[Ranking a set of objects: a graph based least-square approach](http://arxiv.org/abs/2002.11590v1)|2020-02-26 16:19:09+00:00|26-02-2020
+Richard Bowden|[NestedVAE: Isolating Common Factors via Weak Supervision](http://arxiv.org/abs/2002.11576v1)|2020-02-26 15:49:57+00:00|26-02-2020
+Tijl De Bie|[DeBayes: a Bayesian method for debiasing network embeddings](http://arxiv.org/abs/2002.11442v1)|2020-02-26 12:57:05+00:00|26-02-2020
+Mohit Wadhwa|[Fairness-Aware Learning with Prejudice Free Representations](http://arxiv.org/abs/2002.12143v1)|2020-02-26 10:06:31+00:00|26-02-2020
+Yi Ma|[Rethinking Bias-Variance Trade-off for Generalization of Neural Networks](http://arxiv.org/abs/2002.11328v1)|2020-02-26 07:21:54+00:00|26-02-2020
+Zsolt Kira|[Generalized ODIN: Detecting Out-of-distribution Image without Learning   from Out-of-distribution Data](http://arxiv.org/abs/2002.11297v1)|2020-02-26 04:18:25+00:00|26-02-2020
+Xue Lin|[Defending against Backdoor Attack on Deep Neural Networks](http://arxiv.org/abs/2002.12162v1)|2020-02-26 02:03:00+00:00|26-02-2020
+John Suckling|[Stochastic encoding of graphs in deep learning allows for complex   analysis of gender classification in resting-state and task functional brain   networks from the UK Biobank](http://arxiv.org/abs/2002.10936v1)|2020-02-25 15:10:51+00:00|25-02-2020
+Niao He|[Biased Stochastic Gradient Descent for Conditional Stochastic   Optimization](http://arxiv.org/abs/2002.10790v1)|2020-02-25 10:57:38+00:00|25-02-2020
+Vlasios Vasileiou|[Counterfactual fairness: removing direct effects through regularization](http://arxiv.org/abs/2002.10774v2)|2020-02-26 11:28:34+00:00|25-02-2020
+Michela Milano|[Teaching the Old Dog New Tricks: Supervised Learning with Constraints](http://arxiv.org/abs/2002.10766v1)|2020-02-25 09:47:39+00:00|25-02-2020
+Stefano Ermon|[A Theory of Usable Information Under Computational Constraints](http://arxiv.org/abs/2002.10689v1)|2020-02-25 06:09:30+00:00|25-02-2020
+Jacopo Staiano|[Discriminative Adversarial Search for Abstractive Summarization](http://arxiv.org/abs/2002.10375v1)|2020-02-24 17:07:32+00:00|24-02-2020
+Yang Liu|[Fair Bandit Learning with Delayed Impact of Actions](http://arxiv.org/abs/2002.10316v1)|2020-02-24 15:43:03+00:00|24-02-2020
+Martin Vechev|[Learning Certified Individually Fair Representations](http://arxiv.org/abs/2002.10312v1)|2020-02-24 15:41:34+00:00|24-02-2020
+Daniel Lowd|[Learning from Positive and Unlabeled Data with Arbitrary Positive Shift](http://arxiv.org/abs/2002.10261v1)|2020-02-24 13:53:22+00:00|24-02-2020
+Changho Suh|[FR-Train: A mutual information-based approach to fair and robust   training](http://arxiv.org/abs/2002.10234v1)|2020-02-24 13:37:29+00:00|24-02-2020
+Björn Eskofier|[Fast and Stable Adversarial Training through Noise Injection](http://arxiv.org/abs/2002.10097v1)|2020-02-24 07:28:43+00:00|24-02-2020
+Ping Chen|[Mitigating Class Boundary Label Uncertainty to Reduce Both Model Bias   and Variance](http://arxiv.org/abs/2002.09963v1)|2020-02-23 18:24:04+00:00|23-02-2020
+George Cevora|[Fair Adversarial Networks](http://arxiv.org/abs/2002.12144v1)|2020-02-23 16:39:38+00:00|23-02-2020
+Bart Baesens|[The Value of Big Data for Credit Scoring: Enhancing Financial Inclusion   using Mobile Phone Data and Social Network Analytics](http://arxiv.org/abs/2002.09931v1)|2020-02-23 16:13:56+00:00|23-02-2020
+Hima Patel|[Data Augmentation for Personal Knowledge Graph Population](http://arxiv.org/abs/2002.10943v1)|2020-02-23 07:39:55+00:00|23-02-2020
+Lin F. Yang|[Deep Reinforcement Learning with Linear Quadratic Regulator Regions](http://arxiv.org/abs/2002.09820v2)|2020-02-26 03:46:10+00:00|23-02-2020
+Felde Imre|[Comparative Analysis of Single and Hybrid Neuro-Fuzzy-Based Models for   an Industrial Heating Ventilation and Air Conditioning Control System](http://arxiv.org/abs/2002.11042v1)|2020-02-22 22:32:34+00:00|22-02-2020
+Amir Globerson|[On the Inductive Bias of a CNN for Orthogonal Patterns Distributions](http://arxiv.org/abs/2002.09781v1)|2020-02-22 22:26:26+00:00|22-02-2020
+Arti Ramesh|[Learning Fairness-aware Relational Structures](http://arxiv.org/abs/2002.09471v1)|2020-02-21 18:53:52+00:00|21-02-2020
+Michael I. Jordan|[Robust Optimization for Fairness with Noisy Protected Groups](http://arxiv.org/abs/2002.09343v1)|2020-02-21 14:58:37+00:00|21-02-2020
+
 ## 21-02-2020
 
 main_author|title|update_date|publish_date

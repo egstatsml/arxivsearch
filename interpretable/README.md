@@ -1,5 +1,18 @@
 # interpretable
 Click on title for link to paper
+## 28-02-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Milo M. Lin|[A neural network model of perception and reasoning](http://arxiv.org/abs/2002.11319v1)|2020-02-26 06:26:04+00:00|26-02-2020
+Visvanathan Ramesh|[Fundamental Issues Regarding Uncertainties in Artificial Neural Networks](http://arxiv.org/abs/2002.11152v1)|2020-02-25 19:32:05+00:00|25-02-2020
+Sorelle Friedler|[Problems with Shapley-value-based explanations as feature importance   measures](http://arxiv.org/abs/2002.11097v1)|2020-02-25 18:51:14+00:00|25-02-2020
+Lansheng Han|[Gödel's Sentence Is An Adversarial Example But Unsolvable](http://arxiv.org/abs/2002.10703v1)|2020-02-25 07:20:17+00:00|25-02-2020
+Vijay Ganesh|[LogicGAN: Logic-guided Generative Adversarial Networks](http://arxiv.org/abs/2002.10438v1)|2020-02-24 18:38:13+00:00|24-02-2020
+Thomas E. Nichols|[Permutation inference for Canonical Correlation Analysis](http://arxiv.org/abs/2002.10046v1)|2020-02-24 02:47:01+00:00|24-02-2020
+Anthony K. H. Tung|[Do Multi-Hop Question Answering Systems Know How to Answer the   Single-Hop Sub-Questions?](http://arxiv.org/abs/2002.09919v1)|2020-02-23 15:16:43+00:00|23-02-2020
+Philip Paquette|[A Road Map to Strong Intelligence](http://arxiv.org/abs/2002.09044v1)|2020-02-20 22:22:50+00:00|20-02-2020
+
 ## 21-02-2020
 
 main_author|title|update_date|publish_date

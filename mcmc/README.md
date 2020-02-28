@@ -1,5 +1,20 @@
 # mcmc
 Click on title for link to paper
+## 28-02-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Christopher Ré|[Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods](http://arxiv.org/abs/2002.11955v1)|2020-02-27 07:51:50+00:00|27-02-2020
+Manfred Opper|[Automated Augmented Conjugate Inference for Non-conjugate Gaussian   Process Models](http://arxiv.org/abs/2002.11451v1)|2020-02-26 13:10:00+00:00|26-02-2020
+Scott A. Sisson|[Smoothing Graphons for Modelling Exchangeable Relational Data](http://arxiv.org/abs/2002.11159v1)|2020-02-25 20:02:06+00:00|25-02-2020
+Odalric-Ambrym Maillard|[Robust Estimation, Prediction and Control with Linear Dynamics and   Generic Costs](http://arxiv.org/abs/2002.10816v1)|2020-02-25 12:24:17+00:00|25-02-2020
+Yu Qiao|[Suppressing Uncertainties for Large-Scale Facial Expression Recognition](http://arxiv.org/abs/2002.10392v1)|2020-02-24 17:24:36+00:00|24-02-2020
+Khashayar Khosravi|[Optimal and Greedy Algorithms for Multi-Armed Bandits with Many Arms](http://arxiv.org/abs/2002.10121v1)|2020-02-24 08:59:34+00:00|24-02-2020
+Ping Chen|[Mitigating Class Boundary Label Uncertainty to Reduce Both Model Bias   and Variance](http://arxiv.org/abs/2002.09963v1)|2020-02-23 18:24:04+00:00|23-02-2020
+Michael W. Mahoney|[Stochastic Normalizing Flows](http://arxiv.org/abs/2002.09547v2)|2020-02-25 19:17:18+00:00|21-02-2020
+Arti Ramesh|[Struct-MMSB: Mixed Membership Stochastic Blockmodels with Interpretable   Structured Priors](http://arxiv.org/abs/2002.09523v1)|2020-02-21 19:32:32+00:00|21-02-2020
+Yuzhong Qu|[Crowdsourced Collective Entity Resolution with Relational Match   Propagation](http://arxiv.org/abs/2002.09361v1)|2020-02-21 15:33:53+00:00|21-02-2020
+
 ## 21-02-2020
 
 main_author|title|update_date|publish_date

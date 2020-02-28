@@ -1,5 +1,38 @@
 # bnn
 Click on title for link to paper
+## 28-02-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Andrew McCallum|[Compact Representation of Uncertainty in Hierarchical Clustering](http://arxiv.org/abs/2002.11661v1)|2020-02-26 17:43:53+00:00|26-02-2020
+Nikolay Atanasov|[Learning Navigation Costs from Demonstration in Partially Observable   Environments](http://arxiv.org/abs/2002.11637v1)|2020-02-26 17:15:10+00:00|26-02-2020
+Scott A. Sisson|[Smoothing Graphons for Modelling Exchangeable Relational Data](http://arxiv.org/abs/2002.11159v1)|2020-02-25 20:02:06+00:00|25-02-2020
+Igor Halperin|[G-Learner and GIRL: Goal Based Wealth Management with Reinforcement   Learning](http://arxiv.org/abs/2002.10990v1)|2020-02-25 16:03:38+00:00|25-02-2020
+Xiaofeng He|[KEML: A Knowledge-Enriched Meta-Learning Framework for Lexical Relation   Classification](http://arxiv.org/abs/2002.10903v1)|2020-02-25 14:43:56+00:00|25-02-2020
+Darko Štern|[Variational Inference and Bayesian CNNs for Uncertainty Estimation in   Multi-Factorial Bone Age Prediction](http://arxiv.org/abs/2002.10819v1)|2020-02-25 12:30:21+00:00|25-02-2020
+Mohammad Emtiyaz Khan|[Training Binary Neural Networks using the Bayesian Learning Rule](http://arxiv.org/abs/2002.10778v1)|2020-02-25 10:20:10+00:00|25-02-2020
+Jean Honorio|[Novel Change of Measure Inequalities and PAC-Bayesian Bounds](http://arxiv.org/abs/2002.10678v1)|2020-02-25 05:36:22+00:00|25-02-2020
+Mu Zhu|[Multivariate time-series modeling with generative neural networks](http://arxiv.org/abs/2002.10645v1)|2020-02-25 03:26:52+00:00|25-02-2020
+David Bindel|[Efficient Rollout Strategies for Bayesian Optimization](http://arxiv.org/abs/2002.10539v2)|2020-02-26 17:52:49+00:00|24-02-2020
+Marcus A. Brubaker|[Variational Hyper RNN for Sequence Modeling](http://arxiv.org/abs/2002.10501v1)|2020-02-24 19:30:32+00:00|24-02-2020
+Samuel Kaski|[Informative Gaussian Scale Mixture Priors for Bayesian Neural Networks](http://arxiv.org/abs/2002.10243v1)|2020-02-24 13:43:44+00:00|24-02-2020
+Scott A. Sisson|[Recurrent Dirichlet Belief Networks for Interpretable Dynamic Relational   Data Modelling](http://arxiv.org/abs/2002.10235v1)|2020-02-24 13:40:24+00:00|24-02-2020
+Philipp Hennig|[Being Bayesian, Even Just a Bit, Fixes Overconfidence in ReLU Networks](http://arxiv.org/abs/2002.10118v1)|2020-02-24 08:52:06+00:00|24-02-2020
+Mohammad Emtiyaz Khan|[Handling the Positive-Definite Constraint in the Bayesian Learning Rule](http://arxiv.org/abs/2002.10060v2)|2020-02-26 09:13:54+00:00|24-02-2020
+Adam Johansen|[Generalized Bayesian Filtering via Sequential Monte Carlo](http://arxiv.org/abs/2002.09998v1)|2020-02-23 22:15:52+00:00|23-02-2020
+Peter W. Battaglia|[PolyGen: An Autoregressive Generative Model of 3D Meshes](http://arxiv.org/abs/2002.10880v1)|2020-02-23 17:16:34+00:00|23-02-2020
+Jasper Snoek|[Weighting Is Worth the Wait: Bayesian Optimization with Importance   Sampling](http://arxiv.org/abs/2002.09927v1)|2020-02-23 15:52:08+00:00|23-02-2020
+Hui Xiong|[SetRank: A Setwise Bayesian Approach for Collaborative Ranking from   Implicit Feedback](http://arxiv.org/abs/2002.09841v1)|2020-02-23 06:40:48+00:00|23-02-2020
+Tian Tian|[VFlow: More Expressive Generative Flows with Variational Data   Augmentation](http://arxiv.org/abs/2002.09741v1)|2020-02-22 18:03:44+00:00|22-02-2020
+Haimin Wang|[Predicting Coronal Mass Ejections Using SDO/HMI Vector Magnetic Data   Products and Recurrent Neural Networks](http://arxiv.org/abs/2002.10953v1)|2020-02-22 11:26:47+00:00|22-02-2020
+Arti Ramesh|[Struct-MMSB: Mixed Membership Stochastic Blockmodels with Interpretable   Structured Priors](http://arxiv.org/abs/2002.09523v1)|2020-02-21 19:32:32+00:00|21-02-2020
+Jukka Corander|[Split-BOLFI for for misspecification-robust likelihood free inference in   high dimensions](http://arxiv.org/abs/2002.09377v1)|2020-02-21 16:06:11+00:00|21-02-2020
+Yuzhong Qu|[Crowdsourced Collective Entity Resolution with Relational Match   Propagation](http://arxiv.org/abs/2002.09361v1)|2020-02-21 15:33:53+00:00|21-02-2020
+Philipp Hennig|[Differentiable Likelihoods for Fast Inversion of 'Likelihood-Free'   Dynamical Systems](http://arxiv.org/abs/2002.09301v1)|2020-02-21 14:00:15+00:00|21-02-2020
+Longxiang Gao|[Leveraging Cross Feedback of User and Item Embeddings for Variational   Autoencoder based Collaborative Filtering](http://arxiv.org/abs/2002.09145v1)|2020-02-21 06:05:06+00:00|21-02-2020
+Jacob R. Gardner|[Deep Sigma Point Processes](http://arxiv.org/abs/2002.09112v1)|2020-02-21 03:40:35+00:00|21-02-2020
+Scott Niekum|[Safe Imitation Learning via Fast Bayesian Reward Inference from   Preferences](http://arxiv.org/abs/2002.09089v1)|2020-02-21 02:04:54+00:00|21-02-2020
+
 ## 21-02-2020
 
 main_author|title|update_date|publish_date
