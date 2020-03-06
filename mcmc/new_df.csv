@@ -1,12 +1,16 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
-Christopher Ré|[Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods](http://arxiv.org/abs/2002.11955v1)|2020-02-27 07:51:50+00:00|27-02-2020
-Manfred Opper|[Automated Augmented Conjugate Inference for Non-conjugate Gaussian   Process Models](http://arxiv.org/abs/2002.11451v1)|2020-02-26 13:10:00+00:00|26-02-2020
-Scott A. Sisson|[Smoothing Graphons for Modelling Exchangeable Relational Data](http://arxiv.org/abs/2002.11159v1)|2020-02-25 20:02:06+00:00|25-02-2020
-Odalric-Ambrym Maillard|[Robust Estimation, Prediction and Control with Linear Dynamics and   Generic Costs](http://arxiv.org/abs/2002.10816v1)|2020-02-25 12:24:17+00:00|25-02-2020
-Yu Qiao|[Suppressing Uncertainties for Large-Scale Facial Expression Recognition](http://arxiv.org/abs/2002.10392v1)|2020-02-24 17:24:36+00:00|24-02-2020
-Khashayar Khosravi|[Optimal and Greedy Algorithms for Multi-Armed Bandits with Many Arms](http://arxiv.org/abs/2002.10121v1)|2020-02-24 08:59:34+00:00|24-02-2020
-Ping Chen|[Mitigating Class Boundary Label Uncertainty to Reduce Both Model Bias   and Variance](http://arxiv.org/abs/2002.09963v1)|2020-02-23 18:24:04+00:00|23-02-2020
-Michael W. Mahoney|[Stochastic Normalizing Flows](http://arxiv.org/abs/2002.09547v2)|2020-02-25 19:17:18+00:00|21-02-2020
-Arti Ramesh|[Struct-MMSB: Mixed Membership Stochastic Blockmodels with Interpretable   Structured Priors](http://arxiv.org/abs/2002.09523v1)|2020-02-21 19:32:32+00:00|21-02-2020
-Yuzhong Qu|[Crowdsourced Collective Entity Resolution with Relational Match   Propagation](http://arxiv.org/abs/2002.09361v1)|2020-02-21 15:33:53+00:00|21-02-2020
+Pietro Liò|[Adaptive Prediction Timing for Electronic Health Records](http://arxiv.org/abs/2003.02554v1)|2020-03-05 12:02:44+00:00|05-03-2020
+Jiashi Feng|[A Balanced and Uncertainty-aware Approach for Partial Domain Adaptation](http://arxiv.org/abs/2003.02541v1)|2020-03-05 11:37:06+00:00|05-03-2020
+Junho Song|[Probabilistic Performance-Pattern Decomposition (PPPD): analysis   framework and applications to stochastic mechanical systems](http://arxiv.org/abs/2003.02205v1)|2020-03-04 17:18:43+00:00|04-03-2020
+Zongben Xu|[On Hyper-parameter Tuning for Stochastic Optimization Algorithms](http://arxiv.org/abs/2003.02038v1)|2020-03-04 12:29:12+00:00|04-03-2020
+Joshua V. Dillon|[Automatic Differentiation Variational Inference with Mixtures](http://arxiv.org/abs/2003.01687v2)|2020-03-05 16:51:02+00:00|03-03-2020
+Timo Welti|[Overall error analysis for the training of deep neural networks via   stochastic gradient descent with random initialisation](http://arxiv.org/abs/2003.01291v1)|2020-03-03 01:41:17+00:00|03-03-2020
+Ruben Martinez-Cantin|[Robust Policy Search for Robot Navigation with Stochastic Meta-Policies](http://arxiv.org/abs/2003.01000v1)|2020-03-02 16:30:59+00:00|02-03-2020
+Aurelio Uncini|[Bayesian Neural Networks With Maximum Mean Discrepancy Regularization](http://arxiv.org/abs/2003.00952v1)|2020-03-02 14:54:48+00:00|02-03-2020
+Junqiang Xi|[Spatiotemporal Learning of Multivehicle Interaction Patterns in   Lane-Change Scenarios](http://arxiv.org/abs/2003.00759v1)|2020-03-02 10:59:35+00:00|02-03-2020
+Hongseok Yang|[Stochastically Differentiable Probabilistic Programs](http://arxiv.org/abs/2003.00704v2)|2020-03-05 14:06:30+00:00|02-03-2020
+Christopher De Sa|[AMAGOLD: Amortized Metropolis Adjustment for Efficient Stochastic   Gradient MCMC](http://arxiv.org/abs/2003.00193v1)|2020-02-29 06:57:43+00:00|29-02-2020
+Andreas Krause|[Mixed Strategies for Robust Optimization of Unknown Objectives](http://arxiv.org/abs/2002.12613v2)|2020-03-02 09:19:06+00:00|28-02-2020
+Baiyu Peng|[Mixed Reinforcement Learning with Additive Stochastic Uncertainty](http://arxiv.org/abs/2003.00848v1)|2020-02-28 08:02:34+00:00|28-02-2020
+Fengqi You|[Distributionally Robust Chance Constrained Programming with Generative   Adversarial Networks (GANs)](http://arxiv.org/abs/2002.12486v1)|2020-02-28 00:05:22+00:00|28-02-2020

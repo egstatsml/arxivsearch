@@ -1,5 +1,42 @@
 # fairness
 Click on title for link to paper
+## 06-03-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Zhifang Sui|[HypoNLI: Exploring the Artificial Patterns of Hypothesis-only Bias in   Natural Language Inference](http://arxiv.org/abs/2003.02756v1)|2020-03-05 16:46:35+00:00|05-03-2020
+Pietro Liò|[Adaptive Prediction Timing for Electronic Health Records](http://arxiv.org/abs/2003.02554v1)|2020-03-05 12:02:44+00:00|05-03-2020
+C. Busch|[Demographic Bias in Biometrics: A Survey on an Emerging Challenge](http://arxiv.org/abs/2003.02488v1)|2020-03-05 09:07:59+00:00|05-03-2020
+Kun Huang|[Towards Fair Cross-Domain Adaptation via Generative Learning](http://arxiv.org/abs/2003.02366v1)|2020-03-04 23:25:09+00:00|04-03-2020
+Ning Yan|[The Impact of Hole Geometry on Relative Robustness of In-Painting   Networks: An Empirical Study](http://arxiv.org/abs/2003.02314v1)|2020-03-04 20:14:14+00:00|04-03-2020
+Dongxiao Zhu|[On the Learning Property of Logistic and Softmax Losses for Deep Neural   Networks](http://arxiv.org/abs/2003.02309v1)|2020-03-04 19:58:02+00:00|04-03-2020
+Han Shen|[Multi-object Tracking via End-to-end Tracklet Searching and Ranking](http://arxiv.org/abs/2003.02795v1)|2020-03-04 18:46:01+00:00|04-03-2020
+Thomas Seidl|[PushNet: Efficient and Adaptive Neural Message Passing](http://arxiv.org/abs/2003.02228v2)|2020-03-05 05:36:52+00:00|04-03-2020
+Liudmila Prokhorenkova|[StochasticRank: Global Optimization of Scale-Free Discrete Functions](http://arxiv.org/abs/2003.02122v1)|2020-03-04 15:27:11+00:00|04-03-2020
+Markus Loecher|[Unbiased variable importance for random forests](http://arxiv.org/abs/2003.02106v1)|2020-03-04 14:40:31+00:00|04-03-2020
+Michèle Sebag|[Variational Auto-Encoder: not all failures are equal](http://arxiv.org/abs/2003.01972v1)|2020-03-04 09:48:02+00:00|04-03-2020
+Chun Chen|[Fast Adaptively Weighted Matrix Factorization for Recommendation with   Implicit Feedback](http://arxiv.org/abs/2003.01892v1)|2020-03-04 04:50:44+00:00|04-03-2020
+Anisha Zaveri|[Sense and Sensitivity Analysis: Simple Post-Hoc Analysis of Bias Due to   Unobserved Confounding](http://arxiv.org/abs/2003.01747v1)|2020-03-03 19:18:24+00:00|03-03-2020
+Brian Coyle|[Robust data encodings for quantum classifiers](http://arxiv.org/abs/2003.01695v1)|2020-03-03 18:36:52+00:00|03-03-2020
+Erik Linstead|[Exploring the Efficacy of Transfer Learning in Mining Image-Based   Software Artifacts](http://arxiv.org/abs/2003.01627v1)|2020-03-03 16:41:45+00:00|03-03-2020
+Pawel Pelka|[Pattern Similarity-based Machine Learning Methods for Mid-term Load   Forecasting: A Comparative Study](http://arxiv.org/abs/2003.01475v1)|2020-03-03 12:14:36+00:00|03-03-2020
+Hugo Larochelle|[Curriculum By Texture](http://arxiv.org/abs/2003.01367v1)|2020-03-03 07:27:44+00:00|03-03-2020
+Florent Krzakala|[Double Trouble in Double Descent : Bias and Variance(s) in the Lazy   Regime](http://arxiv.org/abs/2003.01054v1)|2020-03-02 17:39:31+00:00|02-03-2020
+Frank Neumann|[Evolutionary Image Transition and Painting Using Random Walks](http://arxiv.org/abs/2003.01517v1)|2020-03-02 10:28:24+00:00|02-03-2020
+Aaron Courville|[Out-of-Distribution Generalization via Risk Extrapolation (REx)](http://arxiv.org/abs/2003.00688v2)|2020-03-03 04:15:23+00:00|02-03-2020
+Stefano Ermon|[Permutation Invariant Graph Generation via Score-Based Generative   Modeling](http://arxiv.org/abs/2003.00638v1)|2020-03-02 03:06:14+00:00|02-03-2020
+Insup Lee|[Calibrated Prediction with Covariate Shift via Unsupervised Domain   Adaptation](http://arxiv.org/abs/2003.00343v1)|2020-02-29 20:31:04+00:00|29-02-2020
+Ping Luo|[Channel Equilibrium Networks for Learning Deep Representation](http://arxiv.org/abs/2003.00214v1)|2020-02-29 09:02:31+00:00|29-02-2020
+Chaehan So|[What Emotions Make One or Five Stars? Understanding Ratings of Online   Product Reviews by Sentiment Analysis and XAI](http://arxiv.org/abs/2003.00201v1)|2020-02-29 07:39:35+00:00|29-02-2020
+Christopher De Sa|[AMAGOLD: Amortized Metropolis Adjustment for Efficient Stochastic   Gradient MCMC](http://arxiv.org/abs/2003.00193v1)|2020-02-29 06:57:43+00:00|29-02-2020
+Ari S. Morcos|[Training BatchNorm and Only BatchNorm: On the Expressive Power of Random   Features in CNNs](http://arxiv.org/abs/2003.00152v1)|2020-02-29 01:57:37+00:00|29-02-2020
+Akihiro Yabe|[Causality and Robust Optimization](http://arxiv.org/abs/2002.12626v1)|2020-02-28 10:02:59+00:00|28-02-2020
+George Cevora|[Demonstrating Rosa: the fairness solution for any Data Analytic pipeline](http://arxiv.org/abs/2003.00899v1)|2020-02-28 10:02:58+00:00|28-02-2020
+Yebin Liu|[4D Association Graph for Realtime Multi-person Motion Capture Using   Multiple Video Cameras](http://arxiv.org/abs/2002.12625v1)|2020-02-28 09:57:05+00:00|28-02-2020
+Stefano Ceri|[A multi-layer approach to disinformation detection on Twitter](http://arxiv.org/abs/2002.12612v1)|2020-02-28 09:25:53+00:00|28-02-2020
+Ryan J. Tibshirani|[Modelling High-Dimensional Categorical Data Using Nonconvex Fusion   Penalties](http://arxiv.org/abs/2002.12606v1)|2020-02-28 09:20:41+00:00|28-02-2020
+Mick Grierson|[Learning to See: You Are What You See](http://arxiv.org/abs/2003.00902v1)|2020-02-28 07:12:52+00:00|28-02-2020
+
 ## 28-02-2020
 
 main_author|title|update_date|publish_date

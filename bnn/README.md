@@ -1,5 +1,34 @@
 # bnn
 Click on title for link to paper
+## 06-03-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Alicia Carriquiry|[Knot Selection in Sparse Gaussian Processes with a Variational Objective](http://arxiv.org/abs/2003.02729v1)|2020-03-05 15:56:41+00:00|05-03-2020
+William Marsh|[An Incremental Explanation of Inference in Hybrid Bayesian Networks for   Increasing Model Trustworthiness and Supporting Clinical Decision Making](http://arxiv.org/abs/2003.02599v1)|2020-03-05 13:22:23+00:00|05-03-2020
+Pietro Liò|[Adaptive Prediction Timing for Electronic Health Records](http://arxiv.org/abs/2003.02554v1)|2020-03-05 12:02:44+00:00|05-03-2020
+Siyang Cao|[mmFall: Fall Detection using 4D MmWave Radar and Variational Recurrent   Autoencoder](http://arxiv.org/abs/2003.02386v1)|2020-03-05 00:37:21+00:00|05-03-2020
+Mark A. Anastasio|[Approximating the Hotelling Observer with Autoencoder-Learned Efficient   Channels for Binary Signal Detection Tasks](http://arxiv.org/abs/2003.02321v1)|2020-03-04 20:24:28+00:00|04-03-2020
+Daniel Braun|[Neural-Network Heuristics for Adaptive Bayesian Quantum Estimation](http://arxiv.org/abs/2003.02183v1)|2020-03-04 16:53:08+00:00|04-03-2020
+Andrew Gordon Wilson|[Rethinking Parameter Counting in Deep Models: Effective Dimensionality   Revisited](http://arxiv.org/abs/2003.02139v1)|2020-03-04 15:39:27+00:00|04-03-2020
+Zongben Xu|[On Hyper-parameter Tuning for Stochastic Optimization Algorithms](http://arxiv.org/abs/2003.02038v1)|2020-03-04 12:29:12+00:00|04-03-2020
+Adrian V. Dalca|[A Learning Strategy for Contrast-agnostic MRI Segmentation](http://arxiv.org/abs/2003.01995v1)|2020-03-04 11:00:57+00:00|04-03-2020
+Eduardo Nebot|[Semantic sensor fusion: from camera to sparse lidar information](http://arxiv.org/abs/2003.01871v1)|2020-03-04 03:09:33+00:00|04-03-2020
+Joshua V. Dillon|[Automatic Differentiation Variational Inference with Mixtures](http://arxiv.org/abs/2003.01687v2)|2020-03-05 16:51:02+00:00|03-03-2020
+Pedro Domingos|[Self-Supervised Object-Level Deep Reinforcement Learning](http://arxiv.org/abs/2003.01384v1)|2020-03-03 08:18:49+00:00|03-03-2020
+Timo Welti|[Overall error analysis for the training of deep neural networks via   stochastic gradient descent with random initialisation](http://arxiv.org/abs/2003.01291v1)|2020-03-03 01:41:17+00:00|03-03-2020
+Shan Lin|[MPC-guided Imitation Learning of Neural Network Policies for the   Artificial Pancreas](http://arxiv.org/abs/2003.01283v1)|2020-03-03 01:25:45+00:00|03-03-2020
+Philipp Hennig|[Fast Predictive Uncertainty for Classification with Bayesian Deep   Networks](http://arxiv.org/abs/2003.01227v1)|2020-03-02 22:29:03+00:00|02-03-2020
+Stefan Kramer|[Towards Probability-based Safety Verification of Systems with Components   from Machine Learning](http://arxiv.org/abs/2003.01155v1)|2020-03-02 19:31:37+00:00|02-03-2020
+John Terilla|[Tensor Networks for Language Modeling](http://arxiv.org/abs/2003.01039v1)|2020-03-02 17:16:05+00:00|02-03-2020
+Aurelio Uncini|[Bayesian Neural Networks With Maximum Mean Discrepancy Regularization](http://arxiv.org/abs/2003.00952v1)|2020-03-02 14:54:48+00:00|02-03-2020
+Hongseok Yang|[Stochastically Differentiable Probabilistic Programs](http://arxiv.org/abs/2003.00704v2)|2020-03-05 14:06:30+00:00|02-03-2020
+Soheil Feizi|[Subadditivity of Probability Divergences on Bayes-Nets with Applications   to Time Series GANs](http://arxiv.org/abs/2003.00652v1)|2020-03-02 04:31:22+00:00|02-03-2020
+Tadahiro Taniguchi|[PlaNet of the Bayesians: Reconsidering and Improving Deep Planning   Network by Incorporating Bayesian Inference](http://arxiv.org/abs/2003.00370v1)|2020-03-01 00:46:36+00:00|01-03-2020
+Christopher De Sa|[AMAGOLD: Amortized Metropolis Adjustment for Efficient Stochastic   Gradient MCMC](http://arxiv.org/abs/2003.00193v1)|2020-02-29 06:57:43+00:00|29-02-2020
+Ce Zhang|[End-to-end Robustness for Sensing-Reasoning Machine Learning Pipelines](http://arxiv.org/abs/2003.00120v1)|2020-02-28 23:41:58+00:00|28-02-2020
+Amit Ranjan Trivedi|[$MC^2RAM$: Markov Chain Monte Carlo Sampling in SRAM for Fast Bayesian   Inference](http://arxiv.org/abs/2003.02629v1)|2020-02-28 23:18:32+00:00|28-02-2020
+
 ## 28-02-2020
 
 main_author|title|update_date|publish_date

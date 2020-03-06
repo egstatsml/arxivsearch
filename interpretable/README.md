@@ -1,5 +1,14 @@
 # interpretable
 Click on title for link to paper
+## 06-03-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+William Marsh|[An Incremental Explanation of Inference in Hybrid Bayesian Networks for   Increasing Model Trustworthiness and Supporting Clinical Decision Making](http://arxiv.org/abs/2003.02599v1)|2020-03-05 13:22:23+00:00|05-03-2020
+Michael Arens|[Image-based OoD-Detector Principles on Graph-based Input Data in Human   Action Recognition](http://arxiv.org/abs/2003.01719v1)|2020-03-03 15:38:43+00:00|03-03-2020
+Zheng Ma|[What's the relationship between CNNs and communication systems?](http://arxiv.org/abs/2003.01413v1)|2020-03-03 09:50:46+00:00|03-03-2020
+Chaehan So|[What Emotions Make One or Five Stars? Understanding Ratings of Online   Product Reviews by Sentiment Analysis and XAI](http://arxiv.org/abs/2003.00201v1)|2020-02-29 07:39:35+00:00|29-02-2020
+
 ## 28-02-2020
 
 main_author|title|update_date|publish_date
