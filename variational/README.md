@@ -1,5 +1,16 @@
 # variational
 Click on title for link to paper
+## 13-03-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Klaus Dietmayer|[Uncertainty depth estimation with gated images for 3D reconstruction](http://arxiv.org/abs/2003.05122v1)|2020-03-11 06:00:21+00:00|11-03-2020
+Brian Lovell|[SOS: Selective Objective Switch for Rapid Immunofluorescence Whole Slide   Image Classification](http://arxiv.org/abs/2003.05080v1)|2020-03-11 02:08:46+00:00|11-03-2020
+Florian Shkurti|[DIBS: Diversity inducing Information Bottleneck in Model Ensembles](http://arxiv.org/abs/2003.04514v1)|2020-03-10 03:10:41+00:00|10-03-2020
+Francesco Archetti|[Modelling Human Active Search in Optimizing Black-box Functions](http://arxiv.org/abs/2003.04275v1)|2020-03-09 17:34:24+00:00|09-03-2020
+ST John|[Amortized variance reduction for doubly stochastic objectives](http://arxiv.org/abs/2003.04125v1)|2020-03-09 13:23:14+00:00|09-03-2020
+Maurizio Filippone|[Rethinking Sparse Gaussian Processes: Bayesian Approaches to   Inducing-Variable Approximations](http://arxiv.org/abs/2003.03080v2)|2020-03-09 21:59:27+00:00|06-03-2020
+
 ## 06-03-2020
 
 main_author|title|update_date|publish_date

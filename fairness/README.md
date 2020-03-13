@@ -1,5 +1,34 @@
 # fairness
 Click on title for link to paper
+## 13-03-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Shadi Albarqouni|[Fairness by Learning Orthogonal Disentangled Representations](http://arxiv.org/abs/2003.05707v1)|2020-03-12 11:09:15+00:00|12-03-2020
+Emma Brunskill|[Off-policy Policy Evaluation For Sequential Decisions Under Unobserved   Confounding](http://arxiv.org/abs/2003.05623v1)|2020-03-12 05:20:37+00:00|12-03-2020
+Vlasios Vasileiou|[Fairness by Explicability and Adversarial SHAP Learning](http://arxiv.org/abs/2003.05330v2)|2020-03-12 13:36:06+00:00|11-03-2020
+Junjie Yan|[Equalization Loss for Long-Tailed Object Recognition](http://arxiv.org/abs/2003.05176v1)|2020-03-11 09:14:53+00:00|11-03-2020
+Yuekai Sun|[Auditing ML Models for Individual Bias and Unfairness](http://arxiv.org/abs/2003.05048v1)|2020-03-11 00:35:57+00:00|11-03-2020
+Carlos Castillo|[Addressing multiple metrics of group fairness in data-driven decision   making](http://arxiv.org/abs/2003.04794v1)|2020-03-10 15:13:05+00:00|10-03-2020
+Danilo Mandic|[Methods of Adaptive Signal Processing on Graphs Using Vertex-Time   Autoregressive Models](http://arxiv.org/abs/2003.05729v1)|2020-03-10 12:42:27+00:00|10-03-2020
+Shira Kritchman|[Frequency Bias in Neural Networks for Input of Non-Uniform Density](http://arxiv.org/abs/2003.04560v1)|2020-03-10 07:20:14+00:00|10-03-2020
+Steven Euijong Whang|[Slice Tuner: A Selective Data Collection Framework for Accurate and Fair   Machine Learning Models](http://arxiv.org/abs/2003.04549v1)|2020-03-10 06:34:21+00:00|10-03-2020
+Michael M. Zavlanos|[Transfer Reinforcement Learning under Unobserved Contextual Information](http://arxiv.org/abs/2003.04427v1)|2020-03-09 22:00:04+00:00|09-03-2020
+Jean-Baptiste Mouret|[Automating Representation Discovery with MAP-Elites](http://arxiv.org/abs/2003.04389v1)|2020-03-09 20:06:20+00:00|09-03-2020
+Tianbao Yang|[Revisiting SGD with Increasingly Weighted Averaging: Optimization and   Generalization Perspectives](http://arxiv.org/abs/2003.04339v1)|2020-03-09 18:14:00+00:00|09-03-2020
+Mathieu Salzmann|[How to Train Your Super-Net: An Analysis of Training Heuristics in   Weight-Sharing NAS](http://arxiv.org/abs/2003.04276v1)|2020-03-09 17:34:32+00:00|09-03-2020
+Xilin Chen|[Pseudo-Convolutional Policy Gradient for Sequence-to-Sequence   Lip-Reading](http://arxiv.org/abs/2003.03983v1)|2020-03-09 09:12:26+00:00|09-03-2020
+Xintao Wu|[Removing Disparate Impact of Differentially Private Stochastic Gradient   Descent on Model Accuracy](http://arxiv.org/abs/2003.03699v1)|2020-03-08 02:06:15+00:00|08-03-2020
+Jun Han|[Scalable Approximate Inference and Some Applications](http://arxiv.org/abs/2003.03515v1)|2020-03-07 04:33:27+00:00|07-03-2020
+Nathan Srebro|[Dropout: Explicit Forms and Capacity Control](http://arxiv.org/abs/2003.03397v1)|2020-03-06 19:10:15+00:00|06-03-2020
+Quoc V. Le|[AutoML-Zero: Evolving Machine Learning Algorithms From Scratch](http://arxiv.org/abs/2003.03384v1)|2020-03-06 19:00:04+00:00|06-03-2020
+Richard E. Turner|[TaskNorm: Rethinking Batch Normalization for Meta-Learning](http://arxiv.org/abs/2003.03284v1)|2020-03-06 15:43:27+00:00|06-03-2020
+Andreas Hotho|[SimLoss: Class Similarities in Cross Entropy](http://arxiv.org/abs/2003.03182v1)|2020-03-06 13:21:37+00:00|06-03-2020
+Arjan Kuijper|[Demographic Bias in Presentation Attack Detection of Iris Recognition   Systems](http://arxiv.org/abs/2003.03151v1)|2020-03-06 12:16:19+00:00|06-03-2020
+Weyde Tillman|[Weight Priors for Learning Identity Relations](http://arxiv.org/abs/2003.03125v1)|2020-03-06 10:32:03+00:00|06-03-2020
+Suman Jana|[Towards Practical Lottery Ticket Hypothesis for Adversarial Training](http://arxiv.org/abs/2003.05733v1)|2020-03-06 03:11:52+00:00|06-03-2020
+Dan Jurafsky|[A Framework for the Computational Linguistic Analysis of Dehumanization](http://arxiv.org/abs/2003.03014v1)|2020-03-06 03:02:12+00:00|06-03-2020
+
 ## 06-03-2020
 
 main_author|title|update_date|publish_date

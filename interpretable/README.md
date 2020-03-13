@@ -1,5 +1,12 @@
 # interpretable
 Click on title for link to paper
+## 13-03-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Winston H. Hsu|[xCos: An Explainable Cosine Metric for Face Verification Task](http://arxiv.org/abs/2003.05383v1)|2020-03-11 16:03:44+00:00|11-03-2020
+Daniel S. Weld|[Explanation-Based Tuning of Opaque Machine Learners with Application to   Paper Recommendation](http://arxiv.org/abs/2003.04315v1)|2020-03-09 18:00:00+00:00|09-03-2020
+
 ## 06-03-2020
 
 main_author|title|update_date|publish_date

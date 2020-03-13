@@ -1,5 +1,38 @@
 # bnn
 Click on title for link to paper
+## 13-03-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Mehdi Bennis|[Deep Learning Assisted CSI Estimation for Joint URLLC and eMBB Resource   Allocation](http://arxiv.org/abs/2003.05685v1)|2020-03-12 10:00:08+00:00|12-03-2020
+Liam Paninski|[General linear-time inference for Gaussian Processes on one dimension](http://arxiv.org/abs/2003.05554v1)|2020-03-11 23:20:13+00:00|11-03-2020
+Seid Miad Zandavi|[Multi-Objective Variational Autoencoder: an Application for Smart   Infrastructure Maintenance](http://arxiv.org/abs/2003.05070v1)|2020-03-11 01:30:08+00:00|11-03-2020
+Sam Ganzfried|[Prediction of Bayesian Intervals for Tropical Storms](http://arxiv.org/abs/2003.05024v1)|2020-03-10 22:31:58+00:00|10-03-2020
+Jun Guo|[Channel Attention with Embedding Gaussian Process: A Probabilistic   Methodology](http://arxiv.org/abs/2003.04575v1)|2020-03-10 08:38:49+00:00|10-03-2020
+Florian Shkurti|[DIBS: Diversity inducing Information Bottleneck in Model Ensembles](http://arxiv.org/abs/2003.04514v1)|2020-03-10 03:10:41+00:00|10-03-2020
+Dale Schuurmans|[Variational Inference for Deep Probabilistic Canonical Correlation   Analysis](http://arxiv.org/abs/2003.04292v1)|2020-03-09 17:51:15+00:00|09-03-2020
+Francesco Archetti|[Modelling Human Active Search in Optimizing Black-box Functions](http://arxiv.org/abs/2003.04275v1)|2020-03-09 17:34:24+00:00|09-03-2020
+Prateek Mittal|[Towards Probabilistic Verification of Machine Unlearning](http://arxiv.org/abs/2003.04247v1)|2020-03-09 16:39:46+00:00|09-03-2020
+ST John|[Amortized variance reduction for doubly stochastic objectives](http://arxiv.org/abs/2003.04125v1)|2020-03-09 13:23:14+00:00|09-03-2020
+Yi Gao|[MCMC Guided CNN Training and Segmentation for Pancreas Extraction](http://arxiv.org/abs/2003.03938v1)|2020-03-09 06:27:08+00:00|09-03-2020
+Youngjoon Yoo|[An Empirical Evaluation on Robustness and Uncertainty of Regularization   Methods](http://arxiv.org/abs/2003.03879v1)|2020-03-09 01:15:22+00:00|09-03-2020
+Xin-She Yang|[Neighborhood Information-based Probabilistic Algorithm for Network   Disintegration](http://arxiv.org/abs/2003.04713v1)|2020-03-08 15:09:25+00:00|08-03-2020
+Martin Vechev|[Adversarial Attacks on Probabilistic Autoregressive Forecasting Models](http://arxiv.org/abs/2003.03778v1)|2020-03-08 13:08:34+00:00|08-03-2020
+Xiaowei Huang|[A Safety Framework for Critical Systems Utilising Deep Neural Networks](http://arxiv.org/abs/2003.05311v1)|2020-03-07 23:35:05+00:00|07-03-2020
+Muhammad Bilal Sheikh|[Generating Emotionally Aligned Responses in Dialogues using Affect   Control Theory](http://arxiv.org/abs/2003.03645v1)|2020-03-07 19:31:08+00:00|07-03-2020
+Masayoshi Tomizuka|[Inferring Spatial Uncertainty in Object Detection](http://arxiv.org/abs/2003.03644v1)|2020-03-07 19:29:43+00:00|07-03-2020
+Bruce Graham|[The Variational InfoMax Learning Objective](http://arxiv.org/abs/2003.03524v1)|2020-03-07 07:14:35+00:00|07-03-2020
+Jun Han|[Scalable Approximate Inference and Some Applications](http://arxiv.org/abs/2003.03515v1)|2020-03-07 04:33:27+00:00|07-03-2020
+Christopher Yau|[BasisVAE: Translation-invariant feature-level clustering with   Variational Autoencoders](http://arxiv.org/abs/2003.03462v1)|2020-03-06 23:10:52+00:00|06-03-2020
+Paul H J Kelly|[Scalable Uncertainty for Computer Vision with Functional Variational   Inference](http://arxiv.org/abs/2003.03396v1)|2020-03-06 19:09:42+00:00|06-03-2020
+Bart Dhoedt|[Deep Active Inference for Autonomous Robot Navigation](http://arxiv.org/abs/2003.03220v1)|2020-03-06 14:01:01+00:00|06-03-2020
+Ryo Yoshida|[A Bayesian algorithm for retrosynthesis](http://arxiv.org/abs/2003.03190v1)|2020-03-06 13:30:30+00:00|06-03-2020
+Weyde Tillman|[Weight Priors for Learning Identity Relations](http://arxiv.org/abs/2003.03125v1)|2020-03-06 10:32:03+00:00|06-03-2020
+Nasir Rajpoot|[Meta-SVDD: Probabilistic Meta-Learning for One-Class Classification in   Cancer Histology Images](http://arxiv.org/abs/2003.03109v1)|2020-03-06 09:59:57+00:00|06-03-2020
+Bailu Si|[StereoNeuroBayesSLAM: A Neurobiologically Inspired Stereo Visual SLAM   System Based on Direct Sparse Method](http://arxiv.org/abs/2003.03091v1)|2020-03-06 09:07:50+00:00|06-03-2020
+Maurizio Filippone|[Rethinking Sparse Gaussian Processes: Bayesian Approaches to   Inducing-Variable Approximations](http://arxiv.org/abs/2003.03080v2)|2020-03-09 21:59:27+00:00|06-03-2020
+Yali Amit|[Likelihood Regret: An Out-of-Distribution Detection Score For   Variational Auto-encoder](http://arxiv.org/abs/2003.02977v1)|2020-03-06 00:30:38+00:00|06-03-2020
+
 ## 06-03-2020
 
 main_author|title|update_date|publish_date
