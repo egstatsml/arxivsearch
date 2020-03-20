@@ -1,5 +1,25 @@
 # bnn
 Click on title for link to paper
+## 20-03-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Stephen Lin|[Spatially Adaptive Inference with Stochastic Feature Sampling and   Interpolation](http://arxiv.org/abs/2003.08866v1)|2020-03-19 15:36:31+00:00|19-03-2020
+Keck-Voon Ling|[Conditional Gaussian Distribution Learning for Open Set Recognition](http://arxiv.org/abs/2003.08823v1)|2020-03-19 14:32:08+00:00|19-03-2020
+Amit Sethi|[Uncertainty Estimation in Cancer Survival Prediction](http://arxiv.org/abs/2003.08573v1)|2020-03-19 05:08:01+00:00|19-03-2020
+Amr Ahmed|[Anchor & Transform: Learning Sparse Representations of Discrete Objects](http://arxiv.org/abs/2003.08197v1)|2020-03-18 13:07:51+00:00|18-03-2020
+Barbara E. Engelhardt|[Nonparametric Deconvolution Models](http://arxiv.org/abs/2003.07718v1)|2020-03-17 13:38:43+00:00|17-03-2020
+Carlo Regazzoni|[Anomaly Detection in Video Data Based on Probabilistic Latent Space   Models](http://arxiv.org/abs/2003.07623v1)|2020-03-17 10:32:22+00:00|17-03-2020
+Seongok Ryu|[A comprehensive study on the prediction reliability of graph neural   networks for virtual screening](http://arxiv.org/abs/2003.07611v1)|2020-03-17 10:13:31+00:00|17-03-2020
+Zhengyuan Zhou|[Multi-action Offline Policy Learning with Bayesian Optimization](http://arxiv.org/abs/2003.07545v1)|2020-03-17 05:48:27+00:00|17-03-2020
+João Paulo Papa|[Learnergy: Energy-based Machine Learners](http://arxiv.org/abs/2003.07443v1)|2020-03-16 21:14:32+00:00|16-03-2020
+Sarah Ostadabbas|[G-LBM:Generative Low-dimensional Background Model Estimation from Video   Sequences](http://arxiv.org/abs/2003.07335v1)|2020-03-16 17:10:09+00:00|16-03-2020
+Geoff K. Nicholls|[Semi-Modular Inference: enhanced learning in multi-modular models by   tempering the influence of components](http://arxiv.org/abs/2003.06804v1)|2020-03-15 11:55:55+00:00|15-03-2020
+Alex Kendall|[Probabilistic Future Prediction for Video Scene Understanding](http://arxiv.org/abs/2003.06409v1)|2020-03-13 17:48:21+00:00|13-03-2020
+Ullrich Köthe|[BayesFlow: Learning complex stochastic models with invertible neural   networks](http://arxiv.org/abs/2003.06281v1)|2020-03-13 13:39:31+00:00|13-03-2020
+Rana Hammad Raza|[Automatic Lesion Detection System (ALDS) for Skin Cancer Classification   Using SVM and Neural Classifiers](http://arxiv.org/abs/2003.06276v1)|2020-03-13 13:31:35+00:00|13-03-2020
+George Em Karniadakis|[B-PINNs: Bayesian Physics-Informed Neural Networks for Forward and   Inverse PDE Problems with Noisy Data](http://arxiv.org/abs/2003.06097v1)|2020-03-13 04:00:42+00:00|13-03-2020
+
 ## 13-03-2020
 
 main_author|title|update_date|publish_date

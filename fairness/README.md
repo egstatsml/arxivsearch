@@ -1,5 +1,36 @@
 # fairness
 Click on title for link to paper
+## 20-03-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Konrad Rieck|[Backdooring and Poisoning Neural Networks with Image-Scaling Attacks](http://arxiv.org/abs/2003.08633v1)|2020-03-19 08:59:50+00:00|19-03-2020
+Mohamed Ali Kaafar|[Predicting Performance of Asynchronous Differentially-Private Learning](http://arxiv.org/abs/2003.08500v1)|2020-03-18 23:06:28+00:00|18-03-2020
+Witold R. Rudnicki|[Bootstrap Bias Corrected Cross Validation applied to Super Learning](http://arxiv.org/abs/2003.08342v1)|2020-03-18 17:12:42+00:00|18-03-2020
+Laurent Besacier|[Gender Representation in Open Source Speech Resources](http://arxiv.org/abs/2003.08132v1)|2020-03-18 10:23:36+00:00|18-03-2020
+Mårten Björkman|[Hyperplane Arrangements of Trained ConvNets Are Biased](http://arxiv.org/abs/2003.07797v1)|2020-03-17 16:22:17+00:00|17-03-2020
+Finale Doshi-Velez|[Characterizing and Avoiding Problematic Global Optima of Variational   Autoencoders](http://arxiv.org/abs/2003.07756v1)|2020-03-17 15:14:25+00:00|17-03-2020
+Daniel L. Oberski|[Fair inference on error-prone outcomes](http://arxiv.org/abs/2003.07621v1)|2020-03-17 10:31:59+00:00|17-03-2020
+John Karanicolas|[A Numerical Transform of Random Forest Regressors corrects   Systematically-Biased Predictions](http://arxiv.org/abs/2003.07445v1)|2020-03-16 21:18:06+00:00|16-03-2020
+Chenhao Tan|[Harnessing Explanations to Bridge AI and Humans](http://arxiv.org/abs/2003.07370v1)|2020-03-16 18:00:02+00:00|16-03-2020
+Wojciech Samek|[Towards Ground Truth Evaluation of Visual Explanations](http://arxiv.org/abs/2003.07258v1)|2020-03-16 14:43:33+00:00|16-03-2020
+Daniel C. Alexander|[Image Quality Transfer Enhances Contrast and Resolution of Low-Field   Brain MRI in African Paediatric Epilepsy Patients](http://arxiv.org/abs/2003.07216v2)|2020-03-18 19:52:52+00:00|16-03-2020
+Jan C. van Gemert|[On Translation Invariance in CNNs: Convolutional Layers can Exploit   Absolute Spatial Location](http://arxiv.org/abs/2003.07064v1)|2020-03-16 08:00:06+00:00|16-03-2020
+Yining Wang|[Uncertainty Quantification for Demand Prediction in Contextual Dynamic   Pricing](http://arxiv.org/abs/2003.07017v1)|2020-03-16 04:21:58+00:00|16-03-2020
+Jiajie Zhong|[AVR: Attention based Salient Visual Relationship Detection](http://arxiv.org/abs/2003.07012v1)|2020-03-16 04:12:39+00:00|16-03-2020
+Jesse Berent|[Analysis of Softmax Approximation for Deep Classifiers under   Input-Dependent Label Noise](http://arxiv.org/abs/2003.06778v1)|2020-03-15 08:15:15+00:00|15-03-2020
+Joshua Blumenstock|[Balancing Competing Objectives with Noisy Data: Score-Based Classifiers   for Welfare-Aware Machine Learning](http://arxiv.org/abs/2003.06740v1)|2020-03-15 02:49:39+00:00|15-03-2020
+Rajesh Kumar Muthu|[Medical Image Enhancement Using Histogram Processing and Feature   Extraction for Cancer Classification](http://arxiv.org/abs/2003.06615v1)|2020-03-14 12:11:23+00:00|14-03-2020
+Liang Lin|[Learning Reinforced Agents with Counterfactual Simulation for Medical   Automatic Diagnosis](http://arxiv.org/abs/2003.06534v1)|2020-03-14 02:05:54+00:00|14-03-2020
+Agnieszka Grabska-Barwińska|[Measuring and improving the quality of visual explanations](http://arxiv.org/abs/2003.08774v1)|2020-03-14 00:52:00+00:00|14-03-2020
+Robin Burke|[Exploring User Opinions of Fairness in Recommender Systems](http://arxiv.org/abs/2003.06461v1)|2020-03-13 19:44:26+00:00|13-03-2020
+Vittorio Murino|[Learning Unbiased Representations via Mutual Information Backpropagation](http://arxiv.org/abs/2003.06430v1)|2020-03-13 18:06:31+00:00|13-03-2020
+Manjesh K. Hanawal|[Learning and Fairness in Energy Harvesting: A Maximin Multi-Armed   Bandits Approach](http://arxiv.org/abs/2003.06213v2)|2020-03-16 02:58:18+00:00|13-03-2020
+Roi Livni|[Can Implicit Bias Explain Generalization? Stochastic Convex Optimization   as a Case Study](http://arxiv.org/abs/2003.06152v1)|2020-03-13 08:40:33+00:00|13-03-2020
+Kazuya Takeda|[LIBRE: The Multiple 3D LiDAR Dataset](http://arxiv.org/abs/2003.06129v1)|2020-03-13 06:17:39+00:00|13-03-2020
+Barry Doyle|[Coronary Artery Segmentation from Intravascular Optical Coherence   Tomography Using Deep Capsules](http://arxiv.org/abs/2003.06080v1)|2020-03-13 01:37:45+00:00|13-03-2020
+Moumita Sinha|[Designing Tools for Semi-Automated Detection of Machine Learning Biases:   An Interview Study](http://arxiv.org/abs/2003.07680v2)|2020-03-18 01:41:40+00:00|13-03-2020
+
 ## 13-03-2020
 
 main_author|title|update_date|publish_date

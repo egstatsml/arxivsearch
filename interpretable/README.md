@@ -1,5 +1,13 @@
 # interpretable
 Click on title for link to paper
+## 20-03-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Dhawal Kapadia|[LAXARY: A Trustworthy Explainable Twitter Analysis Model for   Post-Traumatic Stress Disorder Assessment](http://arxiv.org/abs/2003.07433v1)|2020-03-16 20:32:24+00:00|16-03-2020
+Ravi Sahita|[Towards a Resilient Machine Learning Classifier -- a Case Study of   Ransomware Detection](http://arxiv.org/abs/2003.06428v1)|2020-03-13 18:02:19+00:00|13-03-2020
+Nitesh Chawla|[Heterogeneous Relational Reasoning in Knowledge Graphs with   Reinforcement Learning](http://arxiv.org/abs/2003.06050v1)|2020-03-12 22:39:58+00:00|12-03-2020
+
 ## 13-03-2020
 
 main_author|title|update_date|publish_date
