@@ -1,10 +1,7 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
-Patrick van der Smagt|[Learning to Fly via Deep Model-Based Reinforcement Learning](http://arxiv.org/abs/2003.08876v1)|2020-03-19 15:55:39+00:00|19-03-2020
-Stephen Lin|[Spatially Adaptive Inference with Stochastic Feature Sampling and   Interpolation](http://arxiv.org/abs/2003.08866v1)|2020-03-19 15:36:31+00:00|19-03-2020
-Greg Durrett|[Calibration of Pre-trained Transformers](http://arxiv.org/abs/2003.07892v1)|2020-03-17 18:58:44+00:00|17-03-2020
-Zhengyuan Zhou|[Multi-action Offline Policy Learning with Bayesian Optimization](http://arxiv.org/abs/2003.07545v1)|2020-03-17 05:48:27+00:00|17-03-2020
-Alex ChiChung Kot|[Refinements in Motion and Appearance for Online Multi-Object Tracking](http://arxiv.org/abs/2003.07177v2)|2020-03-17 08:15:51+00:00|16-03-2020
-Simon King|[Perception of prosodic variation for speech synthesis using an   unsupervised discrete representation of F0](http://arxiv.org/abs/2003.06686v1)|2020-03-14 19:17:42+00:00|14-03-2020
-Alex Kendall|[Probabilistic Future Prediction for Video Scene Understanding](http://arxiv.org/abs/2003.06409v1)|2020-03-13 17:48:21+00:00|13-03-2020
-Ullrich Köthe|[BayesFlow: Learning complex stochastic models with invertible neural   networks](http://arxiv.org/abs/2003.06281v1)|2020-03-13 13:39:31+00:00|13-03-2020
+Junier B. Oliva|[Defense Through Diverse Directions](http://arxiv.org/abs/2003.10602v1)|2020-03-24 01:22:03+00:00|24-03-2020
+David Blei|"[Markovian Score Climbing: Variational Inference with KL(p||q)](http://arxiv.org/abs/2003.10374v1)"|2020-03-23 16:38:10+00:00|23-03-2020
+Sarah Ostadabbas|[Deep Markov Spatio-Temporal Factorization](http://arxiv.org/abs/2003.09779v1)|2020-03-22 01:27:44+00:00|22-03-2020
+Cesare Alippi|[Deep Reinforcement Learning with Weighted Q-Learning](http://arxiv.org/abs/2003.09280v1)|2020-03-20 13:57:40+00:00|20-03-2020
+Alois Knoll|[Using Counterfactual Reasoning and Reinforcement Learning for   Decision-Making in Autonomous Driving](http://arxiv.org/abs/2003.11919v1)|2020-03-20 10:02:30+00:00|20-03-2020
