@@ -1,5 +1,29 @@
 # bnn
 Click on title for link to paper
+## 03-04-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Khoat Than|[Bag of biterms modeling for short texts](http://arxiv.org/abs/2003.11948v1)|2020-03-26 14:47:09+00:00|26-03-2020
+Shu-Tao Xia|[Matrix Smoothing: A Regularization for DNN with Transition Matrix under   Noisy Labels](http://arxiv.org/abs/2003.11904v1)|2020-03-26 13:49:37+00:00|26-03-2020
+Max Kleiman-Weiner|[Too many cooks: Coordinating multi-agent collaboration through inverse   planning](http://arxiv.org/abs/2003.11778v1)|2020-03-26 07:43:13+00:00|26-03-2020
+Gitta Kutyniok|[Interval Neural Networks: Uncertainty Scores](http://arxiv.org/abs/2003.11566v1)|2020-03-25 18:03:51+00:00|25-03-2020
+Shandian Zhe|[Scalable Variational Gaussian Process Regression Networks](http://arxiv.org/abs/2003.11489v1)|2020-03-25 16:39:47+00:00|25-03-2020
+Evgeny Burnaev|[Bayesian Sparsification Methods for Deep Complex-valued Networks](http://arxiv.org/abs/2003.11413v1)|2020-03-25 13:57:16+00:00|25-03-2020
+Ghassan Hamarneh|[Patch-based Non-Local Bayesian Networks for Blind Confocal Microscopy   Denoising](http://arxiv.org/abs/2003.11177v1)|2020-03-25 01:49:58+00:00|25-03-2020
+Tias Guns|[Hybrid Classification and Reasoning for Image-based Constraint Solving](http://arxiv.org/abs/2003.11001v1)|2020-03-24 17:39:49+00:00|24-03-2020
+Qifeng Chen|[Dynamic Hierarchical Mimicking Towards Consistent Optimization   Objectives](http://arxiv.org/abs/2003.10739v1)|2020-03-24 09:56:13+00:00|24-03-2020
+Junier B. Oliva|[Defense Through Diverse Directions](http://arxiv.org/abs/2003.10602v1)|2020-03-24 01:22:03+00:00|24-03-2020
+David Blei|"[Markovian Score Climbing: Variational Inference with KL(p||q)](http://arxiv.org/abs/2003.10374v1)"|2020-03-23 16:38:10+00:00|23-03-2020
+Michael Tschannen|[Learning Better Lossless Compression Using Lossy Compression](http://arxiv.org/abs/2003.10184v1)|2020-03-23 11:21:52+00:00|23-03-2020
+Kazem Rahimi|[Deep Bayesian Gaussian Processes for Uncertainty Estimation in   Electronic Health Records](http://arxiv.org/abs/2003.10170v1)|2020-03-23 10:36:52+00:00|23-03-2020
+Allan Tucker|[Estimating Uncertainty and Interpretability in Deep Learning for   Coronavirus (COVID-19) Detection](http://arxiv.org/abs/2003.10769v1)|2020-03-22 21:58:13+00:00|22-03-2020
+Tiago A. E. Ferreira|[Gravitational Wave Detection and Information Extraction via Neural   Networks](http://arxiv.org/abs/2003.09995v1)|2020-03-22 21:24:02+00:00|22-03-2020
+Roberto Paredes|[Improving Calibration in Mixup-trained Deep Neural Networks through   Confidence-Based Loss Functions](http://arxiv.org/abs/2003.09946v1)|2020-03-22 16:54:31+00:00|22-03-2020
+Matthias Seeger|[Cost-aware Bayesian Optimization](http://arxiv.org/abs/2003.10870v1)|2020-03-22 14:51:04+00:00|22-03-2020
+Mateja Jamnik|[Probabilistic Dual Network Architecture Search on Graphs](http://arxiv.org/abs/2003.09676v1)|2020-03-21 15:06:47+00:00|21-03-2020
+Michael U. Gutmann|[Sequential Bayesian Experimental Design for Implicit Models via Mutual   Information](http://arxiv.org/abs/2003.09379v1)|2020-03-20 16:52:10+00:00|20-03-2020
+
 ## 27-03-2020
 
 main_author|title|update_date|publish_date

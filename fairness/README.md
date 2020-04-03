@@ -1,5 +1,29 @@
 # fairness
 Click on title for link to paper
+## 03-04-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Markus Loecher|[From unbiased MDI Feature Importance to Explainable AI for Trees](http://arxiv.org/abs/2003.12043v1)|2020-03-26 17:16:58+00:00|26-03-2020
+Sebastian Kohlmeier|[Overview of the TREC 2019 Fair Ranking Track](http://arxiv.org/abs/2003.11650v1)|2020-03-25 21:34:58+00:00|25-03-2020
+Alexandros Iosifidis|[Not all domains are equally complex: Adaptive Multi-Domain Learning](http://arxiv.org/abs/2003.11504v1)|2020-03-25 17:16:00+00:00|25-03-2020
+Ilya Verenich|[Predictive Business Process Monitoring via Generative Adversarial Nets:   The Case of Next Event Prediction](http://arxiv.org/abs/2003.11268v1)|2020-03-25 08:31:28+00:00|25-03-2020
+Masahito Ueda|[Volumization as a Natural Generalization of Weight Decay](http://arxiv.org/abs/2003.11243v1)|2020-03-25 07:13:55+00:00|25-03-2020
+Nasir Rajpoot|[PanNuke Dataset Extension, Insights and Baselines](http://arxiv.org/abs/2003.10778v2)|2020-03-25 20:03:30+00:00|24-03-2020
+Francisco Herrera|[Multifactorial Cellular Genetic Algorithm (MFCGA): Algorithmic Design,   Performance Comparison and Genetic Transferability Analysis](http://arxiv.org/abs/2003.10768v1)|2020-03-24 11:03:55+00:00|24-03-2020
+Hong Chen|[FedSel: Federated SGD under Local Differential Privacy with Top-k   Dimension Selection](http://arxiv.org/abs/2003.10637v1)|2020-03-24 03:31:21+00:00|24-03-2020
+Shweta Jain|[A Pitfall of Learning from User-generated Data: In-depth Analysis of   Subjective Class Problem](http://arxiv.org/abs/2003.10621v1)|2020-03-24 02:25:52+00:00|24-03-2020
+Yuval Timen|[Creating Synthetic Datasets via Evolution for Neural Program Synthesis](http://arxiv.org/abs/2003.10485v1)|2020-03-23 18:34:15+00:00|23-03-2020
+Emilia Gómez|[Multi-task U-Net for Music Source Separation](http://arxiv.org/abs/2003.10414v1)|2020-03-23 17:42:35+00:00|23-03-2020
+David Blei|"[Markovian Score Climbing: Variational Inference with KL(p||q)](http://arxiv.org/abs/2003.10374v1)"|2020-03-23 16:38:10+00:00|23-03-2020
+Marcus Liwicki|[Word2Vec: Optimal Hyper-Parameters and Their Impact on NLP Downstream   Tasks](http://arxiv.org/abs/2003.11645v1)|2020-03-23 07:38:17+00:00|23-03-2020
+Jinfei Liu|[Absolute Shapley Value](http://arxiv.org/abs/2003.10076v1)|2020-03-23 04:26:30+00:00|23-03-2020
+Jens Rittscher|[Additive Angular Margin for Few Shot Learning to Classify Clinical   Endoscopy Images](http://arxiv.org/abs/2003.10033v1)|2020-03-23 00:20:52+00:00|23-03-2020
+Jiebo Luo|[Video-based Person Re-Identification using Gated Convolutional Recurrent   Neural Networks](http://arxiv.org/abs/2003.09717v1)|2020-03-21 18:15:37+00:00|21-03-2020
+Angela P. Schoellig|[Learning-based Bias Correction for Ultra-wideband Localization of   Resource-constrained Mobile Robots](http://arxiv.org/abs/2003.09371v1)|2020-03-20 16:47:33+00:00|20-03-2020
+Cesare Alippi|[Deep Reinforcement Learning with Weighted Q-Learning](http://arxiv.org/abs/2003.09280v1)|2020-03-20 13:57:40+00:00|20-03-2020
+Jan Dirk Wegner|[Privileged Pooling: Supervised attention-based pooling for compensating   dataset bias](http://arxiv.org/abs/2003.09168v2)|2020-03-23 11:45:26+00:00|20-03-2020
+
 ## 27-03-2020
 
 main_author|title|update_date|publish_date
