@@ -1,5 +1,15 @@
 # variational
 Click on title for link to paper
+## 17-04-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Junier B. Oliva|[Defense Through Diverse Directions](http://arxiv.org/abs/2003.10602v1)|2020-03-24 01:22:03+00:00|24-03-2020
+David Blei|"[Markovian Score Climbing: Variational Inference with KL(p||q)](http://arxiv.org/abs/2003.10374v1)"|2020-03-23 16:38:10+00:00|23-03-2020
+Sarah Ostadabbas|[Deep Markov Spatio-Temporal Factorization](http://arxiv.org/abs/2003.09779v1)|2020-03-22 01:27:44+00:00|22-03-2020
+Cesare Alippi|[Deep Reinforcement Learning with Weighted Q-Learning](http://arxiv.org/abs/2003.09280v1)|2020-03-20 13:57:40+00:00|20-03-2020
+Alois Knoll|[Using Counterfactual Reasoning and Reinforcement Learning for   Decision-Making in Autonomous Driving](http://arxiv.org/abs/2003.11919v1)|2020-03-20 10:02:30+00:00|20-03-2020
+
 ## 10-04-2020
 
 main_author|title|update_date|publish_date
