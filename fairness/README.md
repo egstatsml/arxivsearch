@@ -1,5 +1,133 @@
 # fairness
 Click on title for link to paper
+## 24-04-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Eva Tuba|[Tip the Balance: Improving Exploration of Balanced Crossover Operators   by Adaptive Bias](http://arxiv.org/abs/2004.11331v1)|2020-04-23 17:26:43+00:00|23-04-2020
+Sebastian Trimpe|[Learning Constrained Dynamics with Gauss Principle adhering Gaussian   Processes](http://arxiv.org/abs/2004.11238v1)|2020-04-23 15:26:51+00:00|23-04-2020
+Francesca Randone|[Learning a Formula of Interpretability to Learn Interpretable Formulas](http://arxiv.org/abs/2004.11170v1)|2020-04-23 13:59:49+00:00|23-04-2020
+Oliver Schulte|[A Complete Characterization of Projectivity for Statistical Relational   Models](http://arxiv.org/abs/2004.10984v1)|2020-04-23 05:58:27+00:00|23-04-2020
+Xuan Zhang|[Impact of Bias on School Admissions and Targeted Interventions](http://arxiv.org/abs/2004.10846v1)|2020-04-22 20:50:31+00:00|22-04-2020
+Shi Yu|[Eigendecomposition of Q in Equally Constrained Quadratic Programming](http://arxiv.org/abs/2004.10723v1)|2020-04-22 17:25:46+00:00|22-04-2020
+Iyad Rahwan|[SensitiveLoss: Improving Accuracy and Fairness of Face Representations   with Discrimination-Aware Deep Learning](http://arxiv.org/abs/2004.11246v1)|2020-04-22 10:32:16+00:00|22-04-2020
+Frank Neumann|[Runtime Analysis of Evolutionary Algorithms with Biased Mutation for the   Multi-Objective Minimum Spanning Tree Problem](http://arxiv.org/abs/2004.10424v1)|2020-04-22 07:47:00+00:00|22-04-2020
+Joeran Beel|[Synthetic vs. Real Reference Strings for Citation Parsing, and the   Importance of Re-training and Out-Of-Sample Data for Meaningful Evaluations:   Experiments with GROBID, GIANT and Cora](http://arxiv.org/abs/2004.10410v1)|2020-04-22 06:34:36+00:00|22-04-2020
+Prasad Chalasani|[Representation Bayesian Risk Decompositions and Multi-Source Domain   Adaptation](http://arxiv.org/abs/2004.10390v1)|2020-04-22 04:09:21+00:00|22-04-2020
+Mohan Kankanhalli|[Hierarchically Fair Federated Learning](http://arxiv.org/abs/2004.10386v1)|2020-04-22 03:41:06+00:00|22-04-2020
+Alexander Breskin|[Machine learning for causal inference: on the use of cross-fit   estimators](http://arxiv.org/abs/2004.10337v1)|2020-04-21 23:09:55+00:00|21-04-2020
+Jajati Keshari Sahoo|[Forecasting directional movements of stock prices for intraday trading   using LSTM and random forests](http://arxiv.org/abs/2004.10178v1)|2020-04-21 17:35:48+00:00|21-04-2020
+Ce Zhu|[Frequency-Weighted Robust Tensor Principal Component Analysis](http://arxiv.org/abs/2004.10068v1)|2020-04-21 14:58:21+00:00|21-04-2020
+Sihong Xie|[Rigorous Explanation of Inference on Probabilistic Graphical Models](http://arxiv.org/abs/2004.10066v1)|2020-04-21 14:57:12+00:00|21-04-2020
+Jing Zhang|[Knowledge Graph Embedding with Linear Representation for Link Prediction](http://arxiv.org/abs/2004.10037v1)|2020-04-21 14:19:43+00:00|21-04-2020
+Ranga Raju Vatsavai|[Local Clustering with Mean Teacher for Semi-supervised Learning](http://arxiv.org/abs/2004.09665v1)|2020-04-20 22:31:31+00:00|20-04-2020
+Siva Reddy|[StereoSet: Measuring stereotypical bias in pretrained language models](http://arxiv.org/abs/2004.09456v1)|2020-04-20 17:14:33+00:00|20-04-2020
+Matthias Bethge|[The Notorious Difficulty of Comparing Human and Machine Perception](http://arxiv.org/abs/2004.09406v1)|2020-04-20 16:05:36+00:00|20-04-2020
+Tadashi Wadayama|[Deep Unfolded Multicast Beamforming](http://arxiv.org/abs/2004.09345v1)|2020-04-20 14:44:43+00:00|20-04-2020
+Saeid Amiri|[Tractable Approximate Gaussian Inference for Bayesian Neural Networks](http://arxiv.org/abs/2004.09281v1)|2020-04-20 13:37:08+00:00|20-04-2020
+Joost van de Weijer|[Generative Feature Replay For Class-Incremental Learning](http://arxiv.org/abs/2004.09199v1)|2020-04-20 10:58:20+00:00|20-04-2020
+Evangelos Pournaras|[How Value-Sensitive Design Can Empower Sustainable Consumption](http://arxiv.org/abs/2004.09180v1)|2020-04-20 10:11:20+00:00|20-04-2020
+Xiang Ji|[VOC-ReID: Vehicle Re-identification based on Vehicle-Orientation-Camera](http://arxiv.org/abs/2004.09164v1)|2020-04-20 09:44:07+00:00|20-04-2020
+Francisco Herrera|[Fairness in Bio-inspired Optimization Research: A Prescription of   Methodological Guidelines for Comparing Meta-heuristics](http://arxiv.org/abs/2004.09969v1)|2020-04-19 04:46:45+00:00|19-04-2020
+Florian Shkurti|[Model-Predictive Control via Cross-Entropy and Gradient-Based   Optimization](http://arxiv.org/abs/2004.08763v1)|2020-04-19 03:54:50+00:00|19-04-2020
+Sanja Fidler|[Learning to Evaluate Perception Models Using Planner-Centric Metrics](http://arxiv.org/abs/2004.08745v1)|2020-04-19 02:14:00+00:00|19-04-2020
+Vivek Pradeep|[ImagePairs: Realistic Super Resolution Dataset via Beam Splitter Camera   Rig](http://arxiv.org/abs/2004.08513v1)|2020-04-18 03:06:41+00:00|18-04-2020
+Yulia Tsvetkov|[Unsupervised Discovery of Implicit Gender Bias](http://arxiv.org/abs/2004.08361v1)|2020-04-17 17:36:20+00:00|17-04-2020
+Richard M. Everson|[What do you Mean? The Role of the Mean Function in Bayesian Optimisation](http://arxiv.org/abs/2004.08349v1)|2020-04-17 17:10:17+00:00|17-04-2020
+Hongyuan Zha|[F2A2: Flexible Fully-decentralized Approximate Actor-critic for   Cooperative Multi-agent Reinforcement Learning](http://arxiv.org/abs/2004.11145v1)|2020-04-17 14:56:29+00:00|17-04-2020
+Chris Jermaine|[Meta-Meta-Classification for One-Shot Learning](http://arxiv.org/abs/2004.08083v1)|2020-04-17 07:05:03+00:00|17-04-2020
+Olga Russakovsky|[ViBE: A Tool for Measuring and Mitigating Bias in Image Datasets](http://arxiv.org/abs/2004.07999v1)|2020-04-16 23:54:37+00:00|16-04-2020
+Florian Heimerl|[Boxer: Interactive Comparison of Classifier Results](http://arxiv.org/abs/2004.07964v1)|2020-04-16 21:05:34+00:00|16-04-2020
+Bernhard Kainz|[Divergent Search for Few-Shot Image Classification](http://arxiv.org/abs/2004.07903v1)|2020-04-16 19:47:50+00:00|16-04-2020
+Uthaipon Tantipongpipat|[Maximizing Determinants under Matroid Constraints](http://arxiv.org/abs/2004.07886v1)|2020-04-16 19:16:38+00:00|16-04-2020
+Tim Rocktäschel|[There is Strength in Numbers: Avoiding the Hypothesis-Only Bias in   Natural Language Inference via Ensemble Adversarial Training](http://arxiv.org/abs/2004.07790v2)|2020-04-17 17:19:14+00:00|16-04-2020
+Yoav Goldberg|[Null It Out: Guarding Protected Attributes by Iterative Nullspace   Projection](http://arxiv.org/abs/2004.07667v1)|2020-04-16 14:02:50+00:00|16-04-2020
+Xiangzhi Wei|[AMPSO: Artificial Multi-Swarm Particle Swarm Optimization](http://arxiv.org/abs/2004.07561v1)|2020-04-16 09:59:45+00:00|16-04-2020
+Martin V. Holt|[Real-time sparse-sampled Ptychographic imaging through deep neural   networks](http://arxiv.org/abs/2004.08247v1)|2020-04-15 23:43:17+00:00|15-04-2020
+Andreas Dengel|[ESResNet: Environmental Sound Classification Based on Visual Domain   Models](http://arxiv.org/abs/2004.07301v1)|2020-04-15 19:07:55+00:00|15-04-2020
+Elena Zheleva|[Minimizing Interference and Selection Bias in Network Experiment Design](http://arxiv.org/abs/2004.07225v1)|2020-04-15 17:34:13+00:00|15-04-2020
+Massimo Bernsaschi|[Interpretable Probabilistic Password Strength Meters via Deep Learning](http://arxiv.org/abs/2004.07179v1)|2020-04-15 16:05:50+00:00|15-04-2020
+Julian Fierrez|[Bias in Multimodal AI: Testbed for Fair Automatic Recruitment](http://arxiv.org/abs/2004.07173v1)|2020-04-15 15:58:05+00:00|15-04-2020
+Carlos Castillo|[Poisoning Attacks on Algorithmic Fairness](http://arxiv.org/abs/2004.07401v2)|2020-04-23 13:09:38+00:00|15-04-2020
+Vitaly Vanchurin|[Towards a theory of machine learning](http://arxiv.org/abs/2004.09280v1)|2020-04-15 00:41:46+00:00|15-04-2020
+Eugene Charniak|[Extrapolation in Gridworld Markov-Decision Processes](http://arxiv.org/abs/2004.06784v1)|2020-04-14 20:07:10+00:00|14-04-2020
+Manuela Veloso|[Latent Bayesian Inference for Robust Earnings Estimates](http://arxiv.org/abs/2004.06565v1)|2020-04-14 15:10:21+00:00|14-04-2020
+Novi Quadrianto|[Contrastive Examples for Addressing the Tyranny of the Majority](http://arxiv.org/abs/2004.06524v1)|2020-04-14 14:06:44+00:00|14-04-2020
+Huimin Peng|[Measurement Error in Nutritional Epidemiology: A Survey](http://arxiv.org/abs/2004.06448v1)|2020-04-14 12:31:32+00:00|14-04-2020
+Isaac Caswell|[BLEU might be Guilty but References are not Innocent](http://arxiv.org/abs/2004.06063v1)|2020-04-13 16:49:09+00:00|13-04-2020
+Heidi Christensen|[Data augmentation using generative networks to identify dementia](http://arxiv.org/abs/2004.05989v1)|2020-04-13 15:05:24+00:00|13-04-2020
+Min Ye|[Exact recovery and sharp thresholds of Stochastic Ising Block Model](http://arxiv.org/abs/2004.05944v1)|2020-04-13 13:59:13+00:00|13-04-2020
+Richard Yi Da Xu|[On the Neural Tangent Kernel of Deep Networks with Orthogonal   Initialization](http://arxiv.org/abs/2004.05867v1)|2020-04-13 11:12:53+00:00|13-04-2020
+Leiming Ma|[STAS: Adaptive Selecting Spatio-Temporal Deep Features for Improving   Bias Correction on Precipitation](http://arxiv.org/abs/2004.05793v1)|2020-04-13 07:00:55+00:00|13-04-2020
+Christopher Kanan|[A negative case analysis of visual grounding methods for VQA](http://arxiv.org/abs/2004.05704v2)|2020-04-15 17:38:04+00:00|12-04-2020
+Panagiotis Sidiropoulos|[Measuring spatial uniformity with the hypersphere chord length   distribution](http://arxiv.org/abs/2004.05692v1)|2020-04-12 20:48:50+00:00|12-04-2020
+Weiwei Wan|[Online Initialization and Extrinsic Spatial-Temporal Calibration for   Monocular Visual-Inertial Odometry](http://arxiv.org/abs/2004.05534v1)|2020-04-12 03:13:08+00:00|12-04-2020
+Lisa Torrey|[Reinforcement Learning via Reasoning from Demonstration](http://arxiv.org/abs/2004.05512v1)|2020-04-12 00:41:28+00:00|12-04-2020
+Meena Jagadeesan|[Individual Fairness in Pipelines](http://arxiv.org/abs/2004.05167v1)|2020-04-12 00:31:01+00:00|12-04-2020
+Kaichen Chi|[Underwater Image Enhancement Based on Structure-Texture Reconstruction](http://arxiv.org/abs/2004.05430v1)|2020-04-11 15:52:07+00:00|11-04-2020
+Marco Grangetto|[Unveiling COVID-19 from Chest X-ray with deep learning: a hurdles race   with small data](http://arxiv.org/abs/2004.05405v1)|2020-04-11 13:58:17+00:00|11-04-2020
+David Carlson|[Supervised Autoencoders Learn Robust Joint Factor Models of Neural   Activity](http://arxiv.org/abs/2004.05209v1)|2020-04-10 19:31:57+00:00|10-04-2020
+Jean-Max Dutertre|[Luring of Adversarial Perturbations](http://arxiv.org/abs/2004.04919v1)|2020-04-10 06:48:36+00:00|10-04-2020
+Le Song|[Orthogonal Over-Parameterized Training](http://arxiv.org/abs/2004.04690v1)|2020-04-09 17:16:38+00:00|09-04-2020
+Priti Sharma|[Automated Content Grading Using Machine Learning](http://arxiv.org/abs/2004.04300v1)|2020-04-08 23:46:24+00:00|08-04-2020
+Ani Nenkova|[Entity-Switched Datasets: An Approach to Auditing the In-Domain   Robustness of Named Entity Recognition Models](http://arxiv.org/abs/2004.04123v1)|2020-04-08 17:11:31+00:00|08-04-2020
+Yandong Guo|[Learning to Detect Head Movement in Unconstrained Remote Gaze Estimation   in the Wild](http://arxiv.org/abs/2004.03737v1)|2020-04-07 22:38:49+00:00|07-04-2020
+Dan Suciu|[Causal Relational Learning](http://arxiv.org/abs/2004.03644v1)|2020-04-07 18:33:05+00:00|07-04-2020
+Ameet Talwalkar|[Model-Agnostic Characterization of Fairness Trade-offs](http://arxiv.org/abs/2004.03424v2)|2020-04-08 17:55:32+00:00|07-04-2020
+Torsten Zesch|[Operationalizing the legal concept of 'Incitement to Hatred' as an NLP   task](http://arxiv.org/abs/2004.03422v1)|2020-04-07 14:13:38+00:00|07-04-2020
+Marco Baroni|[Emergent Language Generalization and Acquisition Speed are not tied to   Compositionality](http://arxiv.org/abs/2004.03420v1)|2020-04-07 14:10:27+00:00|07-04-2020
+Xuefeng Du|[Towards Efficient Unconstrained Palmprint Recognition via Deep   Distillation Hashing](http://arxiv.org/abs/2004.03303v1)|2020-04-07 12:15:04+00:00|07-04-2020
+Tobias Meisen|[How Do You Act? An Empirical Study to Understand Behavior of Deep   Reinforcement Learning Agents](http://arxiv.org/abs/2004.03237v1)|2020-04-07 10:08:55+00:00|07-04-2020
+David M. J. Tax|[A Brief Prehistory of Double Descent](http://arxiv.org/abs/2004.04328v1)|2020-04-07 09:41:24+00:00|07-04-2020
+Il-Chul Moon|[Neutralizing Gender Bias in Word Embedding with Latent Disentanglement   and Counterfactual Generation](http://arxiv.org/abs/2004.03133v1)|2020-04-07 05:16:48+00:00|07-04-2020
+Nasir Rajpoot|[Dense Steerable Filter CNNs for Exploiting Rotational Symmetry in   Histology Images](http://arxiv.org/abs/2004.03037v1)|2020-04-06 23:12:31+00:00|06-04-2020
+Francois Fleuret|[Fair Latency-Aware Metric for real-time video segmentation networks](http://arxiv.org/abs/2004.02574v1)|2020-04-06 11:41:31+00:00|06-04-2020
+Mark A. Griswold|[Game of Learning Bloch Equation Simulations for MR Fingerprinting](http://arxiv.org/abs/2004.02270v1)|2020-04-05 18:15:52+00:00|05-04-2020
+Gal Chechik|[Long-tail learning with attributes](http://arxiv.org/abs/2004.02235v2)|2020-04-11 21:41:26+00:00|05-04-2020
+Bodo Rosenhahn|[FairNN- Conjoint Learning of Fair Representations for Fair Decisions](http://arxiv.org/abs/2004.02173v2)|2020-04-11 20:00:16+00:00|05-04-2020
+Miaomiao Zhang|[DeepFLASH: An Efficient Network for Learning-based Medical Image   Registration](http://arxiv.org/abs/2004.02097v1)|2020-04-05 05:17:07+00:00|05-04-2020
+Pengtao Xie|[Identifying Radiological Findings Related to COVID-19 from Medical   Literature](http://arxiv.org/abs/2004.01862v1)|2020-04-04 05:33:21+00:00|04-04-2020
+Pragya Sur|[Abstracting Fairness: Oracles, Metrics, and Interpretability](http://arxiv.org/abs/2004.01840v1)|2020-04-04 03:14:53+00:00|04-04-2020
+Nathaniel D. Osgood|[DNA Methylation Data to Predict Suicidal and Non-Suicidal Deaths: A   Machine Learning Approach](http://arxiv.org/abs/2004.01819v1)|2020-04-04 00:34:22+00:00|04-04-2020
+Nathaniel D. Bastian|[Stacked Generalizations in Imbalanced Fraud Data Sets using Resampling   Methods](http://arxiv.org/abs/2004.01764v1)|2020-04-03 20:38:22+00:00|03-04-2020
+Marius Kloft|[Orthogonal Inductive Matrix Completion](http://arxiv.org/abs/2004.01653v2)|2020-04-23 17:41:31+00:00|03-04-2020
+Sharon Goldwater|[Analyzing autoencoder-based acoustic word embeddings](http://arxiv.org/abs/2004.01647v1)|2020-04-03 16:11:57+00:00|03-04-2020
+Mohammad Havaei|[DFNet: Discriminative feature extraction and integration network for   salient object detection](http://arxiv.org/abs/2004.01573v1)|2020-04-03 13:56:41+00:00|03-04-2020
+Vincent Margot|[A rigorous method to compare interpretability of rule-based algorithms](http://arxiv.org/abs/2004.01570v2)|2020-04-06 07:39:24+00:00|03-04-2020
+C. Busch|[Demographic Bias: A Challenge for Fingervein Recognition Systems?](http://arxiv.org/abs/2004.01418v1)|2020-04-03 07:53:11+00:00|03-04-2020
+Vikas Singh|[FairALM: Augmented Lagrangian Method for Training Fair Models with   Little Regret](http://arxiv.org/abs/2004.01355v1)|2020-04-03 03:18:53+00:00|03-04-2020
+Aritra Mitra|[Distributed Hypothesis Testing and Social Learning in Finite Time with a   Finite Amount of Communication](http://arxiv.org/abs/2004.01306v1)|2020-04-02 23:38:13+00:00|02-04-2020
+Daniel Watzenig|[Extraction and Assessment of Naturalistic Human Driving Trajectories   from Infrastructure Camera and Radar Sensors](http://arxiv.org/abs/2004.01288v1)|2020-04-02 22:28:29+00:00|02-04-2020
+Tobias Meisen|[Under the Hood of Neural Networks: Characterizing Learned   Representations by Functional Neuron Populations and Network Ablations](http://arxiv.org/abs/2004.01254v1)|2020-04-02 20:45:01+00:00|02-04-2020
+Arjan Kuijper|[Face Quality Estimation and Its Correlation to Demographic and   Non-Demographic Bias in Face Recognition](http://arxiv.org/abs/2004.01019v1)|2020-04-02 14:19:12+00:00|02-04-2020
+Kobi Gal|[Best Practices for Transparency in Machine Generated Personalization](http://arxiv.org/abs/2004.00935v1)|2020-04-02 11:07:38+00:00|02-04-2020
+Jianlong Fu|[Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal   Transformers](http://arxiv.org/abs/2004.00849v1)|2020-04-02 07:39:28+00:00|02-04-2020
+Tai Vu|[Combating The Machine Ethics Crisis: An Educational Approach](http://arxiv.org/abs/2004.00817v1)|2020-04-02 05:04:33+00:00|02-04-2020
+Javier Civera|[Robust Single Rotation Averaging](http://arxiv.org/abs/2004.00732v1)|2020-04-01 23:06:57+00:00|01-04-2020
+Suna Bensch|[Bias in Machine Learning What is it Good (and Bad) for?](http://arxiv.org/abs/2004.00686v1)|2020-04-01 20:00:20+00:00|01-04-2020
+Belinda Stapelberg|[Particle Swarm Optimization: Stability Analysis using N-Informers under   Arbitrary Coefficient Distributions](http://arxiv.org/abs/2004.00476v1)|2020-04-01 14:45:02+00:00|01-04-2020
+Huaxiang Zhang|[Task-adaptive Asymmetric Deep Cross-modal Hashing](http://arxiv.org/abs/2004.00197v1)|2020-04-01 02:09:20+00:00|01-04-2020
+Irina Rish|[Towards Lifelong Self-Supervision For Unpaired Image-to-Image   Translation](http://arxiv.org/abs/2004.00161v1)|2020-03-31 23:23:51+00:00|31-03-2020
+Eva Vanmassenhove|[On the Integration of LinguisticFeatures into Statistical and Neural   Machine Translation](http://arxiv.org/abs/2003.14324v1)|2020-03-31 16:03:38+00:00|31-03-2020
+Richard Tomsett|[Explaining Motion Relevance for Activity Recognition in Video Deep   Learning Models](http://arxiv.org/abs/2003.14285v1)|2020-03-31 15:19:04+00:00|31-03-2020
+Carlos Gómez-Rodríguez|[Inherent Dependency Displacement Bias of Transition-Based Algorithms](http://arxiv.org/abs/2003.14282v1)|2020-03-31 15:11:12+00:00|31-03-2020
+Laurent Risser|[A survey of bias in Machine Learning through the prism of Statistical   Parity for the Adult Data Set](http://arxiv.org/abs/2003.14263v2)|2020-04-06 11:16:10+00:00|31-03-2020
+Chen Feng|[SPARE3D: A Dataset for SPAtial REasoning on Three-View Line Drawings](http://arxiv.org/abs/2003.14034v1)|2020-03-31 09:01:27+00:00|31-03-2020
+Sophie Rosset|[A Comparison of Metric Learning Loss Functions for End-To-End Speaker   Verification](http://arxiv.org/abs/2003.14021v1)|2020-03-31 08:36:07+00:00|31-03-2020
+Meena Jagadeesan|[Fairness in ad auctions through inverse proportionality](http://arxiv.org/abs/2003.13966v1)|2020-03-31 06:10:07+00:00|31-03-2020
+Anil Aswani|[Covariance-Robust Dynamic Watermarking](http://arxiv.org/abs/2003.13908v1)|2020-03-31 01:55:58+00:00|31-03-2020
+Soman KP|[Deep Learning based Frameworks for Handling Imbalance in DGA, Email, and   URL Data Analysis](http://arxiv.org/abs/2004.04812v1)|2020-03-31 00:22:25+00:00|31-03-2020
+Ashok Thillaisundaram|[A Hierarchical Transformer for Unsupervised Parsing](http://arxiv.org/abs/2003.13841v1)|2020-03-30 22:07:22+00:00|30-03-2020
+François Yvon|[The European Language Technology Landscape in 2020: Language-Centric and   Human-Centric AI for Cross-Cultural Communication in Multilingual Europe](http://arxiv.org/abs/2003.13833v1)|2020-03-30 21:42:45+00:00|30-03-2020
+Bruno Verschuere|[How human judgment impairs automated deception detection performance](http://arxiv.org/abs/2003.13316v1)|2020-03-30 10:06:36+00:00|30-03-2020
+Yongdong Zhang|[Domain-aware Visual Bias Eliminating for Generalized Zero-Shot Learning](http://arxiv.org/abs/2003.13261v2)|2020-04-10 07:12:53+00:00|30-03-2020
+Amnon Shashua|[On the Ethics of Building AI in a Responsible Manner](http://arxiv.org/abs/2004.04644v1)|2020-03-30 04:11:08+00:00|30-03-2020
+Grzegorz Dudek|[Are Direct Links Necessary in RVFL NNs for Regression?](http://arxiv.org/abs/2003.13090v1)|2020-03-29 17:55:35+00:00|29-03-2020
+Grzegorz Dudek|[Ensemble Forecasting of Monthly Electricity Demand using Pattern   Similarity-based Methods](http://arxiv.org/abs/2004.00426v1)|2020-03-29 17:26:58+00:00|29-03-2020
+Yuteng Zhu|[Designing Color Filters that Make Cameras MoreColorimetric](http://arxiv.org/abs/2003.12645v1)|2020-03-27 21:41:30+00:00|27-03-2020
+Svetha Venkatesh|[Incorporating Expert Prior in Bayesian Optimisation via Space Warping](http://arxiv.org/abs/2003.12250v1)|2020-03-27 06:18:49+00:00|27-03-2020
+Marc G. Bellemare|[A Distributional Analysis of Sampling-Based Reinforcement Learning   Algorithms](http://arxiv.org/abs/2003.12239v1)|2020-03-27 05:13:29+00:00|27-03-2020
+
 ## 17-04-2020
 
 main_author|title|update_date|publish_date

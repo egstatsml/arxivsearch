@@ -1,5 +1,27 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
+Samuel Kaski|[Variance reduction for distributed stochastic gradient MCMC](http://arxiv.org/abs/2004.11231v1)|2020-04-23 15:25:09+00:00|23-04-2020
+Brian Nord|[Deeply Uncertain: Comparing Methods of Uncertainty Quantification in   Deep Learning Algorithms](http://arxiv.org/abs/2004.10710v1)|2020-04-22 17:13:15+00:00|22-04-2020
+Richard D Wilkinson|[Gaussian Process Manifold Interpolation for Probabilistic Atrial   Activation Maps and Uncertain Conduction Velocity](http://arxiv.org/abs/2004.10586v2)|2020-04-23 10:57:59+00:00|22-04-2020
+David A. Clifton|[SoQal: Selective Oracle Questioning in Active Learning](http://arxiv.org/abs/2004.10468v1)|2020-04-22 09:53:55+00:00|22-04-2020
+Hung D. Nguyen|[Gaussian Process Learning-based Probabilistic Optimal Power Flow](http://arxiv.org/abs/2004.07757v1)|2020-04-16 16:49:31+00:00|16-04-2020
+Fred Godtliebsen|[Data-Driven Robust Control Using Reinforcement Learning](http://arxiv.org/abs/2004.07690v1)|2020-04-16 14:57:15+00:00|16-04-2020
+Yang Xiang|[Incorporating Uncertain Segmentation Information into Chinese NER for   Social Media Text](http://arxiv.org/abs/2004.06384v1)|2020-04-14 09:39:35+00:00|14-04-2020
+Il-Chul Moon|[Adversarial Likelihood-Free Inference on Black-Box Generator](http://arxiv.org/abs/2004.05803v1)|2020-04-13 07:37:56+00:00|13-04-2020
+Marcelo H. Ang Jr|[Toward Hierarchical Self-Supervised Monocular Absolute Depth Estimation   for Autonomous Driving Applications](http://arxiv.org/abs/2004.05560v1)|2020-04-12 07:57:03+00:00|12-04-2020
+Filipe Rodrigues|[Scaling Bayesian inference of mixed multinomial logit models to very   large datasets](http://arxiv.org/abs/2004.05426v1)|2020-04-11 15:30:47+00:00|11-04-2020
+Dominik Wagner|[Densities of almost-surely terminating probabilistic programs are   differentiable almost everywhere](http://arxiv.org/abs/2004.03924v1)|2020-04-08 10:40:14+00:00|08-04-2020
+Eilyan Bitar|[Nonparametric Estimation of Uncertainty Sets for Robust Optimization](http://arxiv.org/abs/2004.03069v1)|2020-04-07 01:47:55+00:00|07-04-2020
+Lingjiong Zhu|[Non-Convex Stochastic Optimization via Non-Reversible Stochastic   Gradient Langevin Dynamics](http://arxiv.org/abs/2004.02823v1)|2020-04-06 17:11:03+00:00|06-04-2020
+Wouter Edeling|[Resampling with neural networks for stochastic parameterization in   multiscale systems](http://arxiv.org/abs/2004.01457v1)|2020-04-03 10:09:18+00:00|03-04-2020
+Charles Sutton|[OptTyper: Probabilistic Type Inference by Optimising Logical and Natural   Constraints](http://arxiv.org/abs/2004.00348v1)|2020-04-01 11:32:28+00:00|01-04-2020
+Xiaoyun Yang|[High-Performance Long-Term Tracking with Meta-Updater](http://arxiv.org/abs/2004.00305v1)|2020-04-01 09:29:23+00:00|01-04-2020
+Felix J. Herrmann|[Uncertainty quantification in imaging and automatic horizon tracking: a   Bayesian deep-prior based approach](http://arxiv.org/abs/2004.00227v3)|2020-04-14 22:42:14+00:00|01-04-2020
+Dilip K. Prasad|[Neural network based country wise risk prediction of COVID-19](http://arxiv.org/abs/2004.00959v1)|2020-03-31 20:03:10+00:00|31-03-2020
+Vasso Reppa|[Model-Reference Reinforcement Learning Control of Autonomous Surface   Vehicles with Uncertainties](http://arxiv.org/abs/2003.13839v1)|2020-03-30 22:02:13+00:00|30-03-2020
+J. M. Berg|[A Decentralized Policy with Logarithmic Regret for a Class of   Multi-Agent Multi-Armed Bandit Problems with Option Unavailability   Constraints and Stochastic Communication Protocols](http://arxiv.org/abs/2003.12968v2)|2020-03-31 04:29:22+00:00|29-03-2020
+Zhenzhong Chen|[Predicting the Popularity of Micro-videos with Multimodal Variational   Encoder-Decoder Framework](http://arxiv.org/abs/2003.12724v1)|2020-03-28 06:08:16+00:00|28-03-2020
+---|---|---|---
 Junier B. Oliva|[Defense Through Diverse Directions](http://arxiv.org/abs/2003.10602v1)|2020-03-24 01:22:03+00:00|24-03-2020
 David Blei|"[Markovian Score Climbing: Variational Inference with KL(p||q)](http://arxiv.org/abs/2003.10374v1)"|2020-03-23 16:38:10+00:00|23-03-2020
 Sarah Ostadabbas|[Deep Markov Spatio-Temporal Factorization](http://arxiv.org/abs/2003.09779v1)|2020-03-22 01:27:44+00:00|22-03-2020

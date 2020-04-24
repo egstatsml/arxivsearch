@@ -1,5 +1,25 @@
 # interpretable
 Click on title for link to paper
+## 24-04-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Yasuno Takato|[Disaster Feature Classification on Aerial Photography to Explain Typhoon   Damaged Region using Grad-CAM](http://arxiv.org/abs/2004.10130v1)|2020-04-21 16:21:52+00:00|21-04-2020
+Evangelos Pournaras|[How Value-Sensitive Design Can Empower Sustainable Consumption](http://arxiv.org/abs/2004.09180v1)|2020-04-20 10:11:20+00:00|20-04-2020
+Paolo Fiorini|[Autonomous task planning and situation awareness in robotic surgery](http://arxiv.org/abs/2004.08911v1)|2020-04-19 17:08:22+00:00|19-04-2020
+Jian Ma|[Predicting MMSE Score from Finger-Tapping Measurement](http://arxiv.org/abs/2004.08730v1)|2020-04-18 23:30:57+00:00|18-04-2020
+Ashok Goel|[Symmetry as an Organizing Principle for Geometric Intelligence](http://arxiv.org/abs/2004.07879v1)|2020-04-16 18:58:15+00:00|16-04-2020
+David Martens|[Explainable Image Classification with Evidence Counterfactual](http://arxiv.org/abs/2004.07511v1)|2020-04-16 08:02:48+00:00|16-04-2020
+Ming-Ming Cheng|[JCS: An Explainable COVID-19 Diagnosis System by Joint Classification   and Segmentation](http://arxiv.org/abs/2004.07054v1)|2020-04-15 12:30:40+00:00|15-04-2020
+H. Andrew Schwartz|[Quantifying Community Characteristics of Maternal Mortality Using Social   Media](http://arxiv.org/abs/2004.06303v1)|2020-04-14 04:57:51+00:00|14-04-2020
+Roger Wattenhofer|[Telling BERT's full story: from Local Attention to Global Aggregation](http://arxiv.org/abs/2004.05916v1)|2020-04-10 01:36:41+00:00|10-04-2020
+Kenneth L. McMillan|[Bayesian Interpolants as Explanations for Neural Inferences](http://arxiv.org/abs/2004.04198v1)|2020-04-08 18:45:06+00:00|08-04-2020
+Liming Zhu|[Trust in Recommender Systems: A Deep Learning Perspective](http://arxiv.org/abs/2004.03774v1)|2020-04-08 02:11:55+00:00|08-04-2020
+Srinivasan Parthasarathy|[Understanding Knowledge Gaps in Visual Question Answering: Implications   for Gap Identification and Testing](http://arxiv.org/abs/2004.03755v1)|2020-04-08 00:27:43+00:00|08-04-2020
+Kunal N. Chaudhury|[Plug-and-play ISTA converges with kernel denoisers](http://arxiv.org/abs/2004.03145v2)|2020-04-14 14:24:53+00:00|07-04-2020
+Pitoyo Hartono|[Generating Similarity Map for COVID-19 Transmission Dynamics with   Topological Autoencoder](http://arxiv.org/abs/2004.01481v2)|2020-04-06 06:26:13+00:00|03-04-2020
+Xinyu Dai|[R3: A Reading Comprehension Benchmark Requiring Reasoning Processes](http://arxiv.org/abs/2004.01251v1)|2020-04-02 20:39:12+00:00|02-04-2020
+
 ## 17-04-2020
 
 main_author|title|update_date|publish_date
