@@ -1,5 +1,10 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
+Ivan Titov|[Preventing Posterior Collapse with Levenshtein Variational Autoencoder](http://arxiv.org/abs/2004.14758v1)|2020-04-30 13:27:26+00:00|30-04-2020
+Deng-Ping Fan|[Bilateral Attention Network for RGB-D Salient Object Detection](http://arxiv.org/abs/2004.14582v1)|2020-04-30 04:23:32+00:00|30-04-2020
+Mattia Zorzi|[Autoregressive Identification of Kronecker Graphical Models](http://arxiv.org/abs/2004.14199v1)|2020-04-29 13:44:26+00:00|29-04-2020
+Sergey Levine|[The Variational Bandwidth Bottleneck: Stochastic Evaluation on an   Information Budget](http://arxiv.org/abs/2004.11935v1)|2020-04-24 18:29:31+00:00|24-04-2020
+---|---|---|---
 Samuel Kaski|[Variance reduction for distributed stochastic gradient MCMC](http://arxiv.org/abs/2004.11231v1)|2020-04-23 15:25:09+00:00|23-04-2020
 Brian Nord|[Deeply Uncertain: Comparing Methods of Uncertainty Quantification in   Deep Learning Algorithms](http://arxiv.org/abs/2004.10710v1)|2020-04-22 17:13:15+00:00|22-04-2020
 Richard D Wilkinson|[Gaussian Process Manifold Interpolation for Probabilistic Atrial   Activation Maps and Uncertain Conduction Velocity](http://arxiv.org/abs/2004.10586v2)|2020-04-23 10:57:59+00:00|22-04-2020

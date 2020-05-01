@@ -1,5 +1,17 @@
 # bnn
 Click on title for link to paper
+## 01-05-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Ivan Titov|[Preventing Posterior Collapse with Levenshtein Variational Autoencoder](http://arxiv.org/abs/2004.14758v1)|2020-04-30 13:27:26+00:00|30-04-2020
+Martin Vechev|[Robustness Certification of Generative Models](http://arxiv.org/abs/2004.14756v1)|2020-04-30 13:23:02+00:00|30-04-2020
+Yezhou Yang|[memeBot: Towards Automatic Image Meme Generation](http://arxiv.org/abs/2004.14571v1)|2020-04-30 03:48:14+00:00|30-04-2020
+Ayaka Sakata|[Bayesian inference of infected patients in group testing with prevalence   estimation](http://arxiv.org/abs/2004.13667v1)|2020-04-28 17:11:43+00:00|28-04-2020
+Stephen Gould|[Inferring Temporal Compositions of Actions Using Probabilistic Automata](http://arxiv.org/abs/2004.13217v1)|2020-04-28 00:15:26+00:00|28-04-2020
+Adriana Iamnitchi|[Cascade-LSTM: Predicting Information Cascades using Deep Neural Networks](http://arxiv.org/abs/2004.12373v1)|2020-04-26 13:17:24+00:00|26-04-2020
+Anthony Lasenby|[Compromise-free Bayesian neural networks](http://arxiv.org/abs/2004.12211v2)|2020-04-28 15:23:29+00:00|25-04-2020
+
 ## 24-04-2020
 
 main_author|title|update_date|publish_date

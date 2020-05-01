@@ -1,5 +1,48 @@
 # fairness
 Click on title for link to paper
+## 01-05-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Ivan Titov|[How do Decisions Emerge across Layers in Neural Models? Interpretation   with Differentiable Masking](http://arxiv.org/abs/2004.14992v1)|2020-04-30 17:36:14+00:00|30-04-2020
+Michael Gadermayr|[Generative Adversarial Networks in Digital Pathology: A Survey on Trends   and Future Potential](http://arxiv.org/abs/2004.14936v1)|2020-04-30 16:38:06+00:00|30-04-2020
+Derek Doran|[Explainable Deep Learning: A Field Guide for the Uninitiated](http://arxiv.org/abs/2004.14545v1)|2020-04-30 02:09:02+00:00|30-04-2020
+Luiz Miranda|[Bias-corrected estimator for intrinsic dimension and differential   entropy--a visual multiscale approach](http://arxiv.org/abs/2004.14528v1)|2020-04-30 00:29:28+00:00|30-04-2020
+Emmanuel Noutahi|[Molecular Design in Synthetically Accessible Chemical Space via Deep   Reinforcement Learning](http://arxiv.org/abs/2004.14308v1)|2020-04-29 16:29:28+00:00|29-04-2020
+Wei Liu|[Quantized Adam with Error Feedback](http://arxiv.org/abs/2004.14180v1)|2020-04-29 13:21:54+00:00|29-04-2020
+Tiejun Zhao|[Demographics Should Not Be the Reason of Toxicity: Mitigating   Discrimination in Text Classifications with Instance Weighting](http://arxiv.org/abs/2004.14088v1)|2020-04-29 11:22:19+00:00|29-04-2020
+Akshay S. Chaudhari|[The International Workshop on Osteoarthritis Imaging Knee MRI   Segmentation Challenge: A Multi-Institute Evaluation and Analysis Framework   on a Standardized Dataset](http://arxiv.org/abs/2004.14003v1)|2020-04-29 07:54:26+00:00|29-04-2020
+Avishek Anand|[Valid Explanations for Learning to Rank Models](http://arxiv.org/abs/2004.13972v1)|2020-04-29 06:21:56+00:00|29-04-2020
+Dongrui Wu|[Rethink the Connections among Generalization, Memorization and the   Spectral Bias of DNNs](http://arxiv.org/abs/2004.13954v1)|2020-04-29 04:24:25+00:00|29-04-2020
+Vidya N. Murali|[Deflating Dataset Bias Using Synthetic Data Augmentation](http://arxiv.org/abs/2004.13866v1)|2020-04-28 21:56:10+00:00|28-04-2020
+Stephen Roberts|[VIGN: Variational Integrator Graph Networks](http://arxiv.org/abs/2004.13688v1)|2020-04-28 17:42:47+00:00|28-04-2020
+Mohit Bansal|[The Curse of Performance Instability in Analysis Datasets: Consequences,   Source, and Suggestions](http://arxiv.org/abs/2004.13606v1)|2020-04-28 15:41:12+00:00|28-04-2020
+Neil M. Bressler|[Addressing Artificial Intelligence Bias in Retinal Disease Diagnostics](http://arxiv.org/abs/2004.13515v1)|2020-04-28 13:46:54+00:00|28-04-2020
+Daniel Campos|[On the Reliability of Test Collections for Evaluating Systems of   Different Types](http://arxiv.org/abs/2004.13486v1)|2020-04-28 13:22:26+00:00|28-04-2020
+Phillip Stanley-Marbell|[A System for Generating Non-Uniform Random Variates using Graphene   Field-Effect Transistors](http://arxiv.org/abs/2004.14111v1)|2020-04-28 10:09:05+00:00|28-04-2020
+Richard Socher|[The AI Economist: Improving Equality and Productivity with AI-Driven Tax   Policies](http://arxiv.org/abs/2004.13332v1)|2020-04-28 06:57:18+00:00|28-04-2020
+Steve Jiang|[A deep learning-based framework for segmenting invisible clinical target   volumes with estimated uncertainties for post-operative prostate cancer   radiotherapy](http://arxiv.org/abs/2004.13294v1)|2020-04-28 04:29:46+00:00|28-04-2020
+Jason H. Moore|[Genetic programming approaches to learning fair classifiers](http://arxiv.org/abs/2004.13282v1)|2020-04-28 04:20:25+00:00|28-04-2020
+Giovanni Zappella|[Learning to Rank in the Position Based Model with Bandit Feedback](http://arxiv.org/abs/2004.13106v1)|2020-04-27 19:12:20+00:00|27-04-2020
+Rita Cucchiara|[A Novel Attention-based Aggregation Function to Combine Vision and   Language](http://arxiv.org/abs/2004.13073v1)|2020-04-27 18:09:46+00:00|27-04-2020
+Yingbin Liang|[Improving Sample Complexity Bounds for Actor-Critic Algorithms](http://arxiv.org/abs/2004.12956v2)|2020-04-28 15:20:38+00:00|27-04-2020
+Bernhard Schölkopf|[Towards causal generative scene models via competition of experts](http://arxiv.org/abs/2004.12906v1)|2020-04-27 16:10:04+00:00|27-04-2020
+Loris Nanni|[A Critic Evaluation of Methods for COVID-19 Automatic Detection from   X-Ray Images](http://arxiv.org/abs/2004.12823v1)|2020-04-27 14:05:36+00:00|27-04-2020
+Yusuke Kawamoto|[An Epistemic Approach to the Formal Specification of Statistical Machine   Learning](http://arxiv.org/abs/2004.12734v1)|2020-04-27 12:16:45+00:00|27-04-2020
+Håvard Rue|[Efficient Quantile Tracking Using an Oracle](http://arxiv.org/abs/2004.12588v1)|2020-04-27 05:49:05+00:00|27-04-2020
+Xiaoping Yang|[Towards Efficient COVID-19 CT Annotation: A Benchmark for Lung and   Infection Segmentation](http://arxiv.org/abs/2004.12537v1)|2020-04-27 01:31:48+00:00|27-04-2020
+Ramesh Karri|[Bias Busters: Robustifying DL-based Lithographic Hotspot Detectors   Against Backdooring Attacks](http://arxiv.org/abs/2004.12492v1)|2020-04-26 22:30:52+00:00|26-04-2020
+Manolis C. Tsakiris|[An exposition to the finiteness of fibers in matrix completion via   Plücker coordinates](http://arxiv.org/abs/2004.12430v2)|2020-04-28 09:25:06+00:00|26-04-2020
+Moumita Sinha|[The Impact of Presentation Style on Human-In-The-Loop Detection of   Algorithmic Bias](http://arxiv.org/abs/2004.12388v2)|2020-04-28 14:33:08+00:00|26-04-2020
+Kawin Ethayarajh|[Is Your Classifier Actually Biased? Measuring Fairness under Uncertainty   with Bernstein Bounds](http://arxiv.org/abs/2004.12332v1)|2020-04-26 09:45:45+00:00|26-04-2020
+Wei Fan|[An Extension of LIME with Improvement of Interpretability and Fidelity](http://arxiv.org/abs/2004.12277v1)|2020-04-26 02:54:27+00:00|26-04-2020
+Juang|[Active Voice Authentication](http://arxiv.org/abs/2004.12071v1)|2020-04-25 07:08:41+00:00|25-04-2020
+Hani Mahdi|[Deep convolutional neural networks for face and iris presentation attack   detection: Survey and case study](http://arxiv.org/abs/2004.12040v1)|2020-04-25 02:06:19+00:00|25-04-2020
+H. Jonathan Chao|[CFR-RL: Traffic Engineering with Reinforcement Learning in SDN](http://arxiv.org/abs/2004.11986v1)|2020-04-24 20:46:54+00:00|24-04-2020
+J. E. G. Peek|[DeepMerge: Classifying High-redshift Merging Galaxies with Deep Neural   Networks](http://arxiv.org/abs/2004.11981v1)|2020-04-24 20:36:06+00:00|24-04-2020
+Anjin Liu Jie Lu Guangquan Zhang|[Concept Drift Detection via Equal Intensity k-means Space Partitioning](http://arxiv.org/abs/2004.11587v1)|2020-04-24 08:00:16+00:00|24-04-2020
+Xiaowei Xu|[What Can Be Transferred: Unsupervised Domain Adaptation for Endoscopic   Lesions Segmentation](http://arxiv.org/abs/2004.11500v1)|2020-04-24 00:57:05+00:00|24-04-2020
+
 ## 24-04-2020
 
 main_author|title|update_date|publish_date

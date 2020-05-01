@@ -1,5 +1,14 @@
 # mcmc
 Click on title for link to paper
+## 01-05-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Ivan Titov|[Preventing Posterior Collapse with Levenshtein Variational Autoencoder](http://arxiv.org/abs/2004.14758v1)|2020-04-30 13:27:26+00:00|30-04-2020
+Deng-Ping Fan|[Bilateral Attention Network for RGB-D Salient Object Detection](http://arxiv.org/abs/2004.14582v1)|2020-04-30 04:23:32+00:00|30-04-2020
+Mattia Zorzi|[Autoregressive Identification of Kronecker Graphical Models](http://arxiv.org/abs/2004.14199v1)|2020-04-29 13:44:26+00:00|29-04-2020
+Sergey Levine|[The Variational Bandwidth Bottleneck: Stochastic Evaluation on an   Information Budget](http://arxiv.org/abs/2004.11935v1)|2020-04-24 18:29:31+00:00|24-04-2020
+
 ## 24-04-2020
 
 main_author|title|update_date|publish_date
