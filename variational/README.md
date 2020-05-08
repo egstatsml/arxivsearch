@@ -1,5 +1,17 @@
 # variational
 Click on title for link to paper
+## 08-05-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Christos Thrampoulidis|[Regret Bounds for Safe Gaussian Process Bandit Optimization](http://arxiv.org/abs/2005.01936v1)|2020-05-05 03:54:43+00:00|05-05-2020
+Jan Peters|[Hierarchical Decomposition of Nonlinear Dynamics and Control for System   Identification and Policy Distillation](http://arxiv.org/abs/2005.01432v1)|2020-05-04 12:40:59+00:00|04-05-2020
+Anupam Datta|[Influence Paths for Characterizing Subject-Verb Number Agreement in LSTM   Language Models](http://arxiv.org/abs/2005.01190v1)|2020-05-03 21:10:31+00:00|03-05-2020
+Brent Harrison|[Reinforcement Learning for Decentralized Stable Matching](http://arxiv.org/abs/2005.01117v1)|2020-05-03 15:28:41+00:00|03-05-2020
+Ramtin Zand|[Electrically-Tunable Stochasticity for Spin-based Neuromorphic Circuits:   Self-Adjusting to Variation](http://arxiv.org/abs/2005.00923v1)|2020-05-02 21:26:10+00:00|02-05-2020
+Christopher Ré|[On the Generalization Effects of Linear Transformations in Data   Augmentation](http://arxiv.org/abs/2005.00695v1)|2020-05-02 04:10:21+00:00|02-05-2020
+Yu Su|[An Imitation Game for Learning Semantic Parsers from User Interaction](http://arxiv.org/abs/2005.00689v1)|2020-05-02 03:30:49+00:00|02-05-2020
+
 ## 01-05-2020
 
 main_author|title|update_date|publish_date

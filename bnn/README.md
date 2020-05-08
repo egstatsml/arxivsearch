@@ -1,5 +1,23 @@
 # bnn
 Click on title for link to paper
+## 08-05-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Kensaku Mori|[Regression Forest-Based Atlas Localization and Direction Specific Atlas   Generation for Pancreas Segmentation](http://arxiv.org/abs/2005.03345v1)|2020-05-07 09:20:55+00:00|07-05-2020
+Anthony Maida|[Hierarchical Predictive Coding Models in a Deep-Learning Framework](http://arxiv.org/abs/2005.03230v1)|2020-05-07 03:39:57+00:00|07-05-2020
+Pawel Herman|[Brain-like approaches to unsupervised learning of hidden representations   -- a comparative study](http://arxiv.org/abs/2005.03476v1)|2020-05-06 11:20:21+00:00|06-05-2020
+Paul Diac|[Vehicle Routing and Scheduling for Regular Mobile Healthcare Services](http://arxiv.org/abs/2005.02618v1)|2020-05-06 07:06:28+00:00|06-05-2020
+Emmanuel Hauptmann|[ESG2Risk: A Deep Learning Framework from ESG News to Stock Volatility   Prediction](http://arxiv.org/abs/2005.02527v1)|2020-05-05 23:01:36+00:00|05-05-2020
+Panos K. Chrysanthis|[A Pipeline for Integrated Theory and Data-Driven Modeling of Genomic and   Clinical Data](http://arxiv.org/abs/2005.02521v1)|2020-05-05 22:23:27+00:00|05-05-2020
+Naoaki Okazaki|[It's Easier to Translate out of English than into it: Measuring Neural   Translation Difficulty by Cross-Mutual Information](http://arxiv.org/abs/2005.02354v1)|2020-05-05 17:38:48+00:00|05-05-2020
+Thomas C. Henderson|[Explainable AI for Classification using Probabilistic Logic Inference](http://arxiv.org/abs/2005.02074v1)|2020-05-05 11:39:23+00:00|05-05-2020
+Luigi Malagò|[Parameters Estimation from the 21 cm signal using Variational Inference](http://arxiv.org/abs/2005.02299v1)|2020-05-04 17:06:56+00:00|04-05-2020
+Taylor Berg-Kirkpatrick|[A Probabilistic Generative Model for Typographical Analysis of Early   Modern Printing](http://arxiv.org/abs/2005.01646v1)|2020-05-04 17:01:11+00:00|04-05-2020
+Sergei V. Kalinin|[Off-the-shelf deep learning is not enough: parsimony, Bayes and   causality](http://arxiv.org/abs/2005.01557v1)|2020-05-04 15:16:30+00:00|04-05-2020
+Durba Bhattacharya|[Hierarchical Bayesian Approach for Improving Weights for Solving   Multi-Objective Route Optimization Problem](http://arxiv.org/abs/2005.02811v1)|2020-05-03 06:13:52+00:00|03-05-2020
+Ramtin Zand|[Electrically-Tunable Stochasticity for Spin-based Neuromorphic Circuits:   Self-Adjusting to Variation](http://arxiv.org/abs/2005.00923v1)|2020-05-02 21:26:10+00:00|02-05-2020
+
 ## 01-05-2020
 
 main_author|title|update_date|publish_date

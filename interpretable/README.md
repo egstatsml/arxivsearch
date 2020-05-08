@@ -1,5 +1,22 @@
 # interpretable
 Click on title for link to paper
+## 08-05-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Friedrich T. Sommer|[A Model for Image Segmentation in Retina](http://arxiv.org/abs/2005.02567v1)|2020-05-06 02:58:18+00:00|06-05-2020
+Sheraz Ahmed|[P2ExNet: Patch-based Prototype Explanation Network](http://arxiv.org/abs/2005.02006v1)|2020-05-05 08:45:43+00:00|05-05-2020
+Matthias Samwald|[Post-hoc explanation of black-box classifiers using confident itemsets](http://arxiv.org/abs/2005.01992v1)|2020-05-05 08:11:24+00:00|05-05-2020
+O. R. Zaïane|[A multi-component framework for the analysis and design of explainable   artificial intelligence](http://arxiv.org/abs/2005.01908v1)|2020-05-05 01:48:40+00:00|05-05-2020
+Patrick Forré|[Designing Data Augmentation for Simulating Interventions](http://arxiv.org/abs/2005.01856v2)|2020-05-06 14:59:40+00:00|04-05-2020
+Peter Flach|[LIMEtree: Interactively Customisable Explanations Based on Local   Surrogate Multi-output Regression Trees](http://arxiv.org/abs/2005.01427v1)|2020-05-04 12:31:29+00:00|04-05-2020
+Sheraz Ahmed|[Explaining AI-based Decision Support Systems using Concept Localization   Maps](http://arxiv.org/abs/2005.01399v1)|2020-05-04 11:33:00+00:00|04-05-2020
+Zhaopeng Tu|[How Does Selective Mechanism Improve Self-Attention Networks?](http://arxiv.org/abs/2005.00979v1)|2020-05-03 04:18:44+00:00|03-05-2020
+Dragomir Radev|[ESPRIT: Explaining Solutions to Physical Reasoning Tasks](http://arxiv.org/abs/2005.00730v1)|2020-05-02 07:03:06+00:00|02-05-2020
+Gerard de Melo|[A Joint Framework for Inductive Representation Learning and Explainable   Reasoning in Knowledge Graphs](http://arxiv.org/abs/2005.00637v1)|2020-05-01 22:17:37+00:00|01-05-2020
+Przemyslaw Biecek|[The Grammar of Interactive Explanatory Model Analysis](http://arxiv.org/abs/2005.00497v1)|2020-05-01 17:12:22+00:00|01-05-2020
+Lambert Schomaker|[Structure-Tags Improve Text Classification for Scholarly Document   Quality Prediction](http://arxiv.org/abs/2005.00129v1)|2020-04-30 22:34:34+00:00|30-04-2020
+
 ## 01-05-2020
 
 main_author|title|update_date|publish_date

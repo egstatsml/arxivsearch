@@ -1,5 +1,48 @@
 # fairness
 Click on title for link to paper
+## 08-05-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Alexandre Termier|[Local Cascade Ensemble for Multivariate Data Classification](http://arxiv.org/abs/2005.03645v1)|2020-05-07 17:50:18+00:00|07-05-2020
+Rico Sennrich|[On Exposure Bias, Hallucination and Domain Shift in Neural Machine   Translation](http://arxiv.org/abs/2005.03642v1)|2020-05-07 17:46:02+00:00|07-05-2020
+Kerstin Bunte|[Visualisation and knowledge discovery from interpretable models](http://arxiv.org/abs/2005.03632v1)|2020-05-07 17:37:06+00:00|07-05-2020
+Xudong Li|[Noisy Differentiable Architecture Search](http://arxiv.org/abs/2005.03566v1)|2020-05-07 15:53:52+00:00|07-05-2020
+Yingbin Liang|[Non-asymptotic Convergence Analysis of Two Time-scale (Natural)   Actor-Critic Algorithms](http://arxiv.org/abs/2005.03557v1)|2020-05-07 15:42:31+00:00|07-05-2020
+Prasant Mohapatra|[Fair Algorithms for Hierarchical Agglomerative Clustering](http://arxiv.org/abs/2005.03197v1)|2020-05-07 01:41:56+00:00|07-05-2020
+Wayne Zhang|[Scale-Equalizing Pyramid Convolution for Object Detection](http://arxiv.org/abs/2005.03101v1)|2020-05-06 19:34:56+00:00|06-05-2020
+Mohit Bansal|[Diagnosing the Environment Bias in Vision-and-Language Navigation](http://arxiv.org/abs/2005.03086v1)|2020-05-06 19:24:33+00:00|06-05-2020
+Tom Michoel|[Restricted maximum-likelihood method for learning latent variance   components in gene expression data with known and unknown confounders](http://arxiv.org/abs/2005.02921v1)|2020-05-06 15:53:17+00:00|06-05-2020
+Ye Wang|[Stochastic Bottleneck: Rateless Auto-Encoder for Flexible Dimensionality   Reduction](http://arxiv.org/abs/2005.02870v1)|2020-05-06 14:47:42+00:00|06-05-2020
+Suvam Mukherjee|[Ensuring Fairness under Prior Probability Shifts](http://arxiv.org/abs/2005.03474v1)|2020-05-06 13:07:05+00:00|06-05-2020
+Naiyan Wang|[UST: Unifying Spatio-Temporal Context for Trajectory Prediction in   Autonomous Driving](http://arxiv.org/abs/2005.02790v1)|2020-05-06 13:02:57+00:00|06-05-2020
+Vedran Dunjko|[Towards quantum advantage for topological data analysis](http://arxiv.org/abs/2005.02607v1)|2020-05-06 06:31:24+00:00|06-05-2020
+Taylor Berg-Kirkpatrick|[Phonetic and Visual Priors for Decipherment of Informal Romanization](http://arxiv.org/abs/2005.02517v1)|2020-05-05 21:57:27+00:00|05-05-2020
+Xiang Ren|[Contextualizing Hate Speech Classifiers with Post-hoc Explanation](http://arxiv.org/abs/2005.02439v1)|2020-05-05 18:56:40+00:00|05-05-2020
+Doug Downey|[Stolen Probability: A Structural Weakness of Neural Language Models](http://arxiv.org/abs/2005.02433v1)|2020-05-05 18:40:32+00:00|05-05-2020
+Antoine Savine|[Differential Machine Learning](http://arxiv.org/abs/2005.02347v2)|2020-05-07 09:10:58+00:00|05-05-2020
+Ryan Steed|[Heuristic-Based Weak Learning for Moral Decision-Making](http://arxiv.org/abs/2005.02342v1)|2020-05-05 17:22:52+00:00|05-05-2020
+Arkadiusz Kwasigroch|[Global explanations for discovering bias in data](http://arxiv.org/abs/2005.02269v1)|2020-05-05 15:05:33+00:00|05-05-2020
+Percy Liang|[ExpBERT: Representation Engineering with Natural Language Explanations](http://arxiv.org/abs/2005.01932v1)|2020-05-05 03:40:23+00:00|05-05-2020
+Yishay Mansour|[Sample Complexity of Uniform Convergence for Multicalibration](http://arxiv.org/abs/2005.01757v1)|2020-05-04 18:01:38+00:00|04-05-2020
+Samuel Kaski|[Human Strategic Steering Improves Performance of Interactive   Optimization](http://arxiv.org/abs/2005.01291v1)|2020-05-04 06:56:52+00:00|04-05-2020
+Brent Harrison|[Reinforcement Learning for Decentralized Stable Matching](http://arxiv.org/abs/2005.01117v1)|2020-05-03 15:28:41+00:00|03-05-2020
+Xingchen Zhang|[Multi-focus Image Fusion: A Benchmark](http://arxiv.org/abs/2005.01116v1)|2020-05-03 15:25:43+00:00|03-05-2020
+Caiming Xiong|[Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation](http://arxiv.org/abs/2005.00965v1)|2020-05-03 02:33:20+00:00|03-05-2020
+Tal Linzen|[How Can We Accelerate Progress Towards Human-like Linguistic   Generalization?](http://arxiv.org/abs/2005.00955v1)|2020-05-03 00:31:15+00:00|03-05-2020
+Elissa M. Redmiles|[Dimensions of Diversity in Human Perceptions of Algorithmic Fairness](http://arxiv.org/abs/2005.00808v1)|2020-05-02 11:59:39+00:00|02-05-2020
+Yuan Xie|[Comparing SNNs and RNNs on Neuromorphic Vision Datasets: Similarities   and Differences](http://arxiv.org/abs/2005.02183v1)|2020-05-02 10:19:37+00:00|02-05-2020
+Ahmed Hassan Awadallah|[Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer](http://arxiv.org/abs/2005.00699v1)|2020-05-02 04:34:37+00:00|02-05-2020
+Brendan O'Connor|[Text and Causal Inference: A Review of Using Text to Remove Confounding   from Causal Estimates](http://arxiv.org/abs/2005.00649v1)|2020-05-01 23:20:49+00:00|01-05-2020
+Katja Filippova|[We Need to Talk About Random Splits](http://arxiv.org/abs/2005.00636v1)|2020-05-01 22:14:16+00:00|01-05-2020
+Adina Williams|[Multi-Dimensional Gender Bias Classification](http://arxiv.org/abs/2005.00614v1)|2020-05-01 21:23:20+00:00|01-05-2020
+Y-Lan Boureau|[Multi-scale Transformer Language Models](http://arxiv.org/abs/2005.00581v1)|2020-05-01 19:58:56+00:00|01-05-2020
+Judith M. Katzy|[Adversarial domain adaptation to reduce sample bias of a high energy   physics classifier](http://arxiv.org/abs/2005.00568v1)|2020-05-01 18:46:12+00:00|01-05-2020
+Wuteng Qi|[An Adaptive Enhancement Based Hybrid CNN Model for Digital Dental X-ray   Positions Classification](http://arxiv.org/abs/2005.01509v1)|2020-05-01 13:55:44+00:00|01-05-2020
+Markus Schedl|[Do Neural Ranking Models Intensify Gender Bias?](http://arxiv.org/abs/2005.00372v1)|2020-05-01 13:31:11+00:00|01-05-2020
+Chitta Baral|[Self-supervised Knowledge Triplet Learning for Zero-shot Question   Answering](http://arxiv.org/abs/2005.00316v1)|2020-05-01 11:24:18+00:00|01-05-2020
+Yaqi Wang|[A cascade network for Detecting COVID-19 using chest x-rays](http://arxiv.org/abs/2005.01468v1)|2020-05-01 09:56:56+00:00|01-05-2020
+
 ## 01-05-2020
 
 main_author|title|update_date|publish_date
