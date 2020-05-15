@@ -1,5 +1,27 @@
 # bnn
 Click on title for link to paper
+## 15-05-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Dustin Tran|[Efficient and Scalable Bayesian Neural Nets with Rank-1 Factors](http://arxiv.org/abs/2005.07186v1)|2020-05-14 17:58:59+00:00|14-05-2020
+Sanjit A. Seshia|[Formal Analysis and Redesign of a Neural Network-Based Aircraft Taxiing   System with VerifAI](http://arxiv.org/abs/2005.07173v1)|2020-05-14 17:42:14+00:00|14-05-2020
+Max Welling|[Bayesian Bits: Unifying Quantization and Pruning](http://arxiv.org/abs/2005.07093v1)|2020-05-14 16:00:34+00:00|14-05-2020
+Simon Arridge|[On Learned Operator Correction](http://arxiv.org/abs/2005.07069v1)|2020-05-14 15:37:28+00:00|14-05-2020
+Atılım Güneş Baydin|[Simulation-Based Inference for Global Health Decisions](http://arxiv.org/abs/2005.07062v1)|2020-05-14 15:29:45+00:00|14-05-2020
+Bharat Biswal|[Neural Architecture Search for Gliomas Segmentation on Multimodal   Magnetic Resonance Imaging](http://arxiv.org/abs/2005.06338v1)|2020-05-13 14:32:00+00:00|13-05-2020
+Henry Medeiros|[Probabilistic Semantic Segmentation Refinement by Monte Carlo Region   Growing](http://arxiv.org/abs/2005.05856v1)|2020-05-12 15:23:57+00:00|12-05-2020
+Jiangshe Zhang|[Bayesian Fusion for Infrared and Visible Images](http://arxiv.org/abs/2005.05839v1)|2020-05-12 14:57:19+00:00|12-05-2020
+Hiroki Koda|[Exploring TTS without T Using Biologically/Psychologically Motivated   Neural Network Modules (ZeroSpeech 2020)](http://arxiv.org/abs/2005.05487v1)|2020-05-11 23:44:37+00:00|11-05-2020
+Tobias Andermann|[Prior choice affects ability of Bayesian neural networks to identify   unknowns](http://arxiv.org/abs/2005.04987v1)|2020-05-11 10:32:47+00:00|11-05-2020
+Xia Zhu|[Incorporating structured assumptions with probabilistic graphical models   in fMRI data analysis](http://arxiv.org/abs/2005.04879v1)|2020-05-11 06:32:54+00:00|11-05-2020
+Erdogan Taskesen|[HNet: Graphical Hypergeometric Networks](http://arxiv.org/abs/2005.04679v1)|2020-05-10 14:33:52+00:00|10-05-2020
+David M. Blei|[Text-Based Ideal Points](http://arxiv.org/abs/2005.04232v1)|2020-05-08 21:16:42+00:00|08-05-2020
+Majid Zamani|[Data-Driven Verification under Signal Temporal Logic Constraints](http://arxiv.org/abs/2005.05040v1)|2020-05-08 08:32:30+00:00|08-05-2020
+Paul-Christian Bürkner|[Amortized Bayesian Inference for Models of Cognition](http://arxiv.org/abs/2005.03899v2)|2020-05-11 10:33:49+00:00|08-05-2020
+Martin Wirsing|[Synthesizing Safe Policies under Probabilistic Constraints with   Reinforcement Learning and Bayesian Model Checking](http://arxiv.org/abs/2005.03898v1)|2020-05-08 08:11:31+00:00|08-05-2020
+Weisheng Zhao|[Efficient Computation Reduction in Bayesian Neural Networks Through   Feature Decomposition and Memorization](http://arxiv.org/abs/2005.03857v1)|2020-05-08 05:03:04+00:00|08-05-2020
+
 ## 08-05-2020
 
 main_author|title|update_date|publish_date

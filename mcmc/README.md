@@ -1,5 +1,14 @@
 # mcmc
 Click on title for link to paper
+## 15-05-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Max Welling|[Bayesian Bits: Unifying Quantization and Pruning](http://arxiv.org/abs/2005.07093v1)|2020-05-14 16:00:34+00:00|14-05-2020
+Yann Ollivier|[Convergence of Online Adaptive and Recurrent Optimization Algorithms](http://arxiv.org/abs/2005.05645v1)|2020-05-12 09:48:52+00:00|12-05-2020
+Ye Qingwen|[Automatic Cross-Domain Transfer Learning for Linear Regression](http://arxiv.org/abs/2005.04088v1)|2020-05-08 15:05:37+00:00|08-05-2020
+Majid Zamani|[Data-Driven Verification under Signal Temporal Logic Constraints](http://arxiv.org/abs/2005.05040v1)|2020-05-08 08:32:30+00:00|08-05-2020
+
 ## 08-05-2020
 
 main_author|title|update_date|publish_date

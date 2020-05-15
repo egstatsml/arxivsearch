@@ -1,5 +1,13 @@
 # interpretable
 Click on title for link to paper
+## 15-05-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Yulia Tsvetkov|[Explaining Black Box Predictions and Unveiling Data Artifacts through   Influence Functions](http://arxiv.org/abs/2005.06676v1)|2020-05-14 00:45:23+00:00|14-05-2020
+Eric MSP Veith|[Explainable Reinforcement Learning: A Survey](http://arxiv.org/abs/2005.06247v1)|2020-05-13 10:52:49+00:00|13-05-2020
+Fernando V. Paulovich|[Explainable Matrix -- Visualization for Global and Local   Interpretability of Random Forest Classification Ensembles](http://arxiv.org/abs/2005.04289v1)|2020-05-08 21:03:48+00:00|08-05-2020
+
 ## 08-05-2020
 
 main_author|title|update_date|publish_date

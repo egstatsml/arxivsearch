@@ -1,5 +1,44 @@
 # fairness
 Click on title for link to paper
+## 15-05-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Kui Ren|[Towards Understanding the Adversarial Vulnerability of Skeleton-based   Action Recognition](http://arxiv.org/abs/2005.07151v1)|2020-05-14 17:12:52+00:00|14-05-2020
+Debasis Ganguly|[Towards Socially Responsible AI: Cognitive Bias-Aware Multi-Objective   Learning](http://arxiv.org/abs/2005.06618v1)|2020-05-14 17:01:53+00:00|14-05-2020
+Seyed-Ahmad Ahmadi|[Simultaneous imputation and disease classification in incomplete medical   datasets using Multigraph Geometric Matrix Completion (MGMC)](http://arxiv.org/abs/2005.06935v1)|2020-05-14 13:11:35+00:00|14-05-2020
+Derek Greene|[Mitigating Gender Bias in Machine Learning Data Sets](http://arxiv.org/abs/2005.06898v1)|2020-05-14 12:06:02+00:00|14-05-2020
+Bettina Berendt|[Ethical Adversaries: Towards Mitigating Unfairness with Adversarial   Machine Learning](http://arxiv.org/abs/2005.06852v1)|2020-05-14 10:10:19+00:00|14-05-2020
+Wanling Gao|[Finet: Using Fine-grained Batch Normalization to Train Light-weight   Neural Networks](http://arxiv.org/abs/2005.06828v1)|2020-05-14 09:16:13+00:00|14-05-2020
+Jianping Pan|[Thompson Sampling for Combinatorial Semi-bandits with Sleeping Arms and   Long-Term Fairness Constraints](http://arxiv.org/abs/2005.06725v1)|2020-05-14 05:24:53+00:00|14-05-2020
+Roger P. Levy|[A Rate-Distortion view of human pragmatic reasoning](http://arxiv.org/abs/2005.06641v1)|2020-05-13 22:04:27+00:00|13-05-2020
+Kai-Wei Chang|[Mitigating Gender Bias Amplification in Distribution by Posterior   Regularization](http://arxiv.org/abs/2005.06251v1)|2020-05-13 11:07:10+00:00|13-05-2020
+Lukas Stasytis|[Localized convolutional neural networks for geospatial wind forecasting](http://arxiv.org/abs/2005.05930v2)|2020-05-13 14:56:21+00:00|12-05-2020
+Vivek Datta|[Intersectional Bias in Hate Speech and Abusive Language Datasets](http://arxiv.org/abs/2005.05921v1)|2020-05-12 16:58:48+00:00|12-05-2020
+Yangqiu Song|[WinoWhy: A Deep Diagnosis of Essential Commonsense Knowledge for   Answering Winograd Schema Challenge](http://arxiv.org/abs/2005.05763v1)|2020-05-12 13:40:06+00:00|12-05-2020
+Qing Ling|[Byzantine-Robust Decentralized Stochastic Optimization over Static and   Time-Varying Networks](http://arxiv.org/abs/2005.06276v1)|2020-05-12 04:18:39+00:00|12-05-2020
+Xiaohong Ma|[A New Computer-Aided Diagnosis System with Modified Genetic Feature   Selection for BI-RADS Classification of Breast Masses in Mammograms](http://arxiv.org/abs/2005.05074v1)|2020-05-11 13:06:25+00:00|11-05-2020
+Javier Del Ser|[On the Transferability of Knowledge among Vehicle Routing Problems by   using a Cellular Evolutionary Multitasking](http://arxiv.org/abs/2005.05066v1)|2020-05-11 12:58:00+00:00|11-05-2020
+Jeroen van den Hoven|[Designing for Human Rights in AI](http://arxiv.org/abs/2005.04949v1)|2020-05-11 09:21:10+00:00|11-05-2020
+Tarek Abdelzaher|[Hypergraph Learning with Line Expansion](http://arxiv.org/abs/2005.04843v2)|2020-05-12 00:38:09+00:00|11-05-2020
+Alessandro Vinciarelli|[The Visual Social Distancing Problem](http://arxiv.org/abs/2005.04813v1)|2020-05-11 00:04:34+00:00|11-05-2020
+Mohit Bansal|[Towards Robustifying NLI Models Against Lexical Dataset Biases](http://arxiv.org/abs/2005.04732v2)|2020-05-13 23:44:17+00:00|10-05-2020
+Fulvio Gini|[Reinforcement Learning based Beamforming for Massive MIMO Radar   Multi-target Detection](http://arxiv.org/abs/2005.04708v1)|2020-05-10 16:29:06+00:00|10-05-2020
+Preslav Nakov|[What Was Written vs. Who Read It: News Media Profiling Using Text   Analysis and Social Media Context](http://arxiv.org/abs/2005.04518v1)|2020-05-09 22:00:08+00:00|09-05-2020
+Oguzhan Gencoglu|[Cyberbullying Detection with Fairness Constraints](http://arxiv.org/abs/2005.06625v1)|2020-05-09 13:04:26+00:00|09-05-2020
+Osvaldo Simeone|[Information-Theoretic Generalization Bounds for Meta-Learning and   Applications](http://arxiv.org/abs/2005.04372v2)|2020-05-14 16:17:24+00:00|09-05-2020
+Percy Liang|[An Investigation of Why Overparameterization Exacerbates Spurious   Correlations](http://arxiv.org/abs/2005.04345v1)|2020-05-09 01:59:13+00:00|09-05-2020
+Elissa M. Redmiles|[How good is good enough for COVID19 apps? The influence of benefits,   accuracy, and privacy on willingness to adopt](http://arxiv.org/abs/2005.04343v3)|2020-05-13 22:56:16+00:00|09-05-2020
+Dmitry Vetrov|[Controlling Overestimation Bias with Truncated Mixture of Continuous   Distributional Quantile Critics](http://arxiv.org/abs/2005.04269v1)|2020-05-08 19:52:26+00:00|08-05-2020
+Cynthia Rudin|[In Pursuit of Interpretable, Fair and Accurate Machine Learning for   Criminal Recidivism Prediction](http://arxiv.org/abs/2005.04176v1)|2020-05-08 17:16:31+00:00|08-05-2020
+Ye Qingwen|[Automatic Cross-Domain Transfer Learning for Linear Regression](http://arxiv.org/abs/2005.04088v1)|2020-05-08 15:05:37+00:00|08-05-2020
+Adrian Weller|[Adversarial Graph Embeddings for Fair Influence Maximization over Social   Networks](http://arxiv.org/abs/2005.04074v2)|2020-05-11 01:01:31+00:00|08-05-2020
+Dino Sejdinovic|[Spectral Ranking with Covariates](http://arxiv.org/abs/2005.04035v2)|2020-05-13 15:41:17+00:00|08-05-2020
+Michael A. Riegler|[An Extensive Study on Cross-Dataset Bias and Evaluation Metrics   Interpretation for Machine Learning applied to Gastrointestinal Tract   Abnormality Classification](http://arxiv.org/abs/2005.03912v1)|2020-05-08 08:59:31+00:00|08-05-2020
+Donald E. Brown|[Hierarchical Deep Convolutional Neural Networks for Multi-category   Diagnosis of Gastrointestinal Disorders on Histopathological Images](http://arxiv.org/abs/2005.03868v1)|2020-05-08 06:05:09+00:00|08-05-2020
+Hoirin Kim|[Multi-Task Network for Noise-Robust Keyword Spotting and Speaker   Verification using CTC-based Soft VAD and Global Query Attention](http://arxiv.org/abs/2005.03867v2)|2020-05-12 11:16:56+00:00|08-05-2020
+Saiph Savage|[Reputation Agent: Prompting Fair Reviews in Gig Markets](http://arxiv.org/abs/2005.06022v1)|2020-05-08 01:56:10+00:00|08-05-2020
+
 ## 08-05-2020
 
 main_author|title|update_date|publish_date
