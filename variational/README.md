@@ -1,5 +1,17 @@
 # variational
 Click on title for link to paper
+## 22-05-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Yong Man Ro|[Efficient Ensemble Model Generation for Uncertainty Estimation with   Bayesian Approximation in Segmentation](http://arxiv.org/abs/2005.10754v1)|2020-05-21 16:08:38+00:00|21-05-2020
+Wilker Aziz|[Is MAP Decoding All You Need? The Inadequacy of the Mode in Neural   Machine Translation](http://arxiv.org/abs/2005.10283v1)|2020-05-20 18:05:51+00:00|20-05-2020
+Manohar Kaul|[Learning Representations using Spectral-Biased Random Walks on Graphs](http://arxiv.org/abs/2005.09752v1)|2020-05-19 20:42:43+00:00|19-05-2020
+Wataru Kitade|[Unbiased MLMC stochastic gradient-based optimization of Bayesian   experimental designs](http://arxiv.org/abs/2005.08414v1)|2020-05-18 01:02:31+00:00|18-05-2020
+Edzer Pebesma|[Predicting into unknown space? Estimating the area of applicability of   spatial prediction models](http://arxiv.org/abs/2005.07939v1)|2020-05-16 10:31:55+00:00|16-05-2020
+Suhas Diggavi|[Byzantine-Resilient SGD in High Dimensions on Heterogeneous Data](http://arxiv.org/abs/2005.07866v1)|2020-05-16 04:15:27+00:00|16-05-2020
+Sebastian Trimpe|[Excursion Search for Constrained Bayesian Optimization under a Limited   Budget of Failures](http://arxiv.org/abs/2005.07443v1)|2020-05-15 09:54:09+00:00|15-05-2020
+
 ## 15-05-2020
 
 main_author|title|update_date|publish_date

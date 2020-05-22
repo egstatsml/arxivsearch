@@ -1,5 +1,52 @@
 # fairness
 Click on title for link to paper
+## 22-05-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Zhou Yu|[Beyond User Self-Reported Likert Scale Ratings: A Comparison Model for   Automatic Dialog Evaluation](http://arxiv.org/abs/2005.10716v1)|2020-05-21 15:14:49+00:00|21-05-2020
+Maarten de Rijke|[Accelerated Convergence for Counterfactual Learning to Rank](http://arxiv.org/abs/2005.10615v1)|2020-05-21 12:53:36+00:00|21-05-2020
+Kimmo Kärkkäinen|[Gender Slopes: Counterfactual Fairness for Computer Vision Models by   Attribute Manipulation](http://arxiv.org/abs/2005.10430v1)|2020-05-21 02:33:28+00:00|21-05-2020
+Sanjiv Kumar|[Why distillation helps: a statistical perspective](http://arxiv.org/abs/2005.10419v1)|2020-05-21 01:49:51+00:00|21-05-2020
+Zhichao Jiang|[Principal Fairness for Human and Algorithmic Decision-Making](http://arxiv.org/abs/2005.10400v1)|2020-05-21 00:24:54+00:00|21-05-2020
+Ajith Suresh|[SWIFT: Super-fast and Robust Privacy-Preserving Machine Learning](http://arxiv.org/abs/2005.10296v1)|2020-05-20 18:20:23+00:00|20-05-2020
+Xiao-ming Wu|[M2GRL: A Multi-task Multi-view Graph Representation Learning Framework   for Web-scale Recommender Systems](http://arxiv.org/abs/2005.10110v1)|2020-05-20 15:08:57+00:00|20-05-2020
+Veronika Cheplygina|[Risk of Training Diagnostic Algorithms on Data with Demographic Bias](http://arxiv.org/abs/2005.10050v1)|2020-05-20 13:51:01+00:00|20-05-2020
+Marco Gherardi|[Beyond the storage capacity: data driven satisfiability transition](http://arxiv.org/abs/2005.09992v1)|2020-05-20 12:25:38+00:00|20-05-2020
+Savitha Sam Abraham|[Fair Outlier Detection](http://arxiv.org/abs/2005.09900v1)|2020-05-20 08:02:41+00:00|20-05-2020
+Manohar Kaul|[Learning Representations using Spectral-Biased Random Walks on Graphs](http://arxiv.org/abs/2005.09752v1)|2020-05-19 20:42:43+00:00|19-05-2020
+Aleksander Madry|[Identifying Statistical Bias in Dataset Replication](http://arxiv.org/abs/2005.09619v1)|2020-05-19 17:48:32+00:00|19-05-2020
+Roger Wattenhofer|[Normalized Attention Without Probability Cage](http://arxiv.org/abs/2005.09561v1)|2020-05-19 16:26:34+00:00|19-05-2020
+Anthony Skjellum|[Pre-print: Radio Identity Verification-based IoT Security Using RF-DNA   Fingerprints and SVM](http://arxiv.org/abs/2005.09503v1)|2020-05-19 15:02:20+00:00|19-05-2020
+Shen Fan|[Experience Augmentation: Boosting and Accelerating Off-Policy   Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2005.09453v2)|2020-05-20 02:12:08+00:00|19-05-2020
+Xiangliang Zhang|[Addressing Class-Imbalance Problem in Personalized Ranking](http://arxiv.org/abs/2005.09272v1)|2020-05-19 08:11:26+00:00|19-05-2020
+Hang Yu|[Patch Attack for Automatic Check-out](http://arxiv.org/abs/2005.09257v1)|2020-05-19 07:38:54+00:00|19-05-2020
+Shimon Whiteson|[Privileged Information Dropout in Reinforcement Learning](http://arxiv.org/abs/2005.09220v1)|2020-05-19 05:32:33+00:00|19-05-2020
+Krishna P. Gummadi|[Fair Inputs and Fair Outputs: The Incompatibility of Fairness in Privacy   and Accuracy](http://arxiv.org/abs/2005.09209v2)|2020-05-20 23:48:21+00:00|19-05-2020
+Jun Wang|[Learning from a Lightweight Teacher for Efficient Knowledge Distillation](http://arxiv.org/abs/2005.09163v1)|2020-05-19 01:54:15+00:00|19-05-2020
+Stephen Boyd|[Optimal Representative Sample Weighting](http://arxiv.org/abs/2005.09065v1)|2020-05-18 20:29:00+00:00|18-05-2020
+Sarah Jane Delany|[Algorithmic Bias and Regularisation in Machine Learning](http://arxiv.org/abs/2005.09052v1)|2020-05-18 20:01:56+00:00|18-05-2020
+Ajith Suresh|[BLAZE: Blazing Fast Privacy-Preserving Machine Learning](http://arxiv.org/abs/2005.09042v1)|2020-05-18 19:18:22+00:00|18-05-2020
+Oren Freifeld|[Effective Learning of a GMRF Mixture Model](http://arxiv.org/abs/2005.09030v2)|2020-05-20 07:59:19+00:00|18-05-2020
+Laurent Schmalen|[Experimental Investigation of Deep Learning for Digital Signal   Processing in Short Reach Optical Fiber Communications](http://arxiv.org/abs/2005.08790v1)|2020-05-18 15:09:41+00:00|18-05-2020
+Gregory Cooper|[Learning Adjustment Sets from Observational and Limited Experimental   Data](http://arxiv.org/abs/2005.08749v1)|2020-05-18 14:23:32+00:00|18-05-2020
+Massimiliano Pontil|[Meta-learning with Stochastic Linear Bandits](http://arxiv.org/abs/2005.08531v1)|2020-05-18 08:41:39+00:00|18-05-2020
+Svetha Venkatesh|[HyperVAE: A Minimum Description Length Variational Hyper-Encoding   Network](http://arxiv.org/abs/2005.08482v1)|2020-05-18 06:46:09+00:00|18-05-2020
+Hongning Wang|[Unbiased Learning to Rank via Propensity Ratio Scoring](http://arxiv.org/abs/2005.08480v1)|2020-05-18 06:31:12+00:00|18-05-2020
+Sumegha Garg|[The Role of Randomness and Noise in Strategic Classification](http://arxiv.org/abs/2005.08377v1)|2020-05-17 21:49:41+00:00|17-05-2020
+Kwangjun Ahn|[From Proximal Point Method to Nesterov's Acceleration](http://arxiv.org/abs/2005.08304v1)|2020-05-17 17:17:18+00:00|17-05-2020
+Eugene Belilovsky|[Graph Density-Aware Losses for Novel Compositions in Scene Graph   Generation](http://arxiv.org/abs/2005.08230v1)|2020-05-17 11:45:29+00:00|17-05-2020
+Dong Yu|[Recurrent Chunking Mechanisms for Long-Text Machine Reading   Comprehension](http://arxiv.org/abs/2005.08056v2)|2020-05-19 14:29:08+00:00|16-05-2020
+Peng Liu|[Towards classification parity across cohorts](http://arxiv.org/abs/2005.08033v1)|2020-05-16 16:31:08+00:00|16-05-2020
+Luciano da F. Costa|[Revisiting Agglomerative Clustering](http://arxiv.org/abs/2005.07995v1)|2020-05-16 14:07:25+00:00|16-05-2020
+Jinhui Xu|[Graph Neural Networks with Composite Kernels](http://arxiv.org/abs/2005.07869v1)|2020-05-16 04:44:29+00:00|16-05-2020
+Susan Leavy|[Uncovering Gender Bias in Media Coverage of Politicians with Machine   Learning](http://arxiv.org/abs/2005.07734v1)|2020-05-15 18:37:56+00:00|15-05-2020
+Javier Ortega-Garcia|[Keystroke Biometrics in Response to Fake News Propagation in a Global   Pandemic](http://arxiv.org/abs/2005.07688v2)|2020-05-18 06:23:56+00:00|15-05-2020
+William S. Isaac|[Participatory Problem Formulation for Fairer Machine Learning Through   Community Based System Dynamics](http://arxiv.org/abs/2005.07572v2)|2020-05-18 03:54:30+00:00|15-05-2020
+Fredrik Heintz|[Enhancing Lattice-based Motion Planning with Introspective Learning and   Reasoning](http://arxiv.org/abs/2005.07385v1)|2020-05-15 07:16:51+00:00|15-05-2020
+Zheng-Hua Tan|[On Bottleneck Features for Text-Dependent Speaker Verification Using   X-vectors](http://arxiv.org/abs/2005.07383v1)|2020-05-15 07:10:53+00:00|15-05-2020
+Maja Pantic|[Investigating Bias in Deep Face Analysis: The KANFace Dataset and   Empirical Study](http://arxiv.org/abs/2005.07302v1)|2020-05-15 00:14:39+00:00|15-05-2020
+
 ## 15-05-2020
 
 main_author|title|update_date|publish_date

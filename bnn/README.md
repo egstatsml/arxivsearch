@@ -1,5 +1,28 @@
 # bnn
 Click on title for link to paper
+## 22-05-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Nihat Ay|[On the Locality of the Natural Gradient for Deep Learning](http://arxiv.org/abs/2005.10791v1)|2020-05-21 17:17:03+00:00|21-05-2020
+Yong Man Ro|[Efficient Ensemble Model Generation for Uncertainty Estimation with   Bayesian Approximation in Segmentation](http://arxiv.org/abs/2005.10754v1)|2020-05-21 16:08:38+00:00|21-05-2020
+Yun Fu|[HyperSTAR: Task-Aware Hyperparameters for Deep Networks](http://arxiv.org/abs/2005.10524v1)|2020-05-21 08:56:50+00:00|21-05-2020
+Junichi Yamagishi|[Investigation of learning abilities on linguistic features in   sequence-to-sequence text-to-speech synthesis](http://arxiv.org/abs/2005.10390v1)|2020-05-20 23:26:14+00:00|20-05-2020
+Benjamin Dutton|[Adversarial Canonical Correlation Analysis](http://arxiv.org/abs/2005.10349v1)|2020-05-20 20:46:35+00:00|20-05-2020
+Wilker Aziz|[Is MAP Decoding All You Need? The Inadequacy of the Mode in Neural   Machine Translation](http://arxiv.org/abs/2005.10283v1)|2020-05-20 18:05:51+00:00|20-05-2020
+Jun Zhu|[Nonparametric Score Estimators](http://arxiv.org/abs/2005.10099v1)|2020-05-20 15:01:03+00:00|20-05-2020
+Alan C. Evans|[Local semi-supervised approach to brain tissue classification in child   brain MRI](http://arxiv.org/abs/2005.09871v1)|2020-05-20 06:43:41+00:00|20-05-2020
+Manohar Kaul|[Learning Representations using Spectral-Biased Random Walks on Graphs](http://arxiv.org/abs/2005.09752v1)|2020-05-19 20:42:43+00:00|19-05-2020
+Rasmus M. Birn|[Bayesian convolutional neural network based MRI brain extraction on   nonhuman primates](http://arxiv.org/abs/2005.08460v1)|2020-05-18 05:08:30+00:00|18-05-2020
+Rasmus M. Birn|[Deep Learning and Bayesian Deep Learning Based Gender Prediction in   Multi-Scale Brain Functional Connectivity](http://arxiv.org/abs/2005.08431v1)|2020-05-18 02:43:26+00:00|18-05-2020
+Anna N. Rafferty|[Encodings of Source Syntax: Similarities in NMT Representations Across   Target Languages](http://arxiv.org/abs/2005.08177v1)|2020-05-17 06:41:32+00:00|17-05-2020
+Laurence Aitchison|[Global inducing point variational posteriors for Bayesian neural   networks and deep Gaussian processes](http://arxiv.org/abs/2005.08140v1)|2020-05-17 01:10:37+00:00|17-05-2020
+Benjamin M. Marlin|[Generalized Bayesian Posterior Expectation Distillation for Deep Neural   Networks](http://arxiv.org/abs/2005.08110v1)|2020-05-16 21:40:47+00:00|16-05-2020
+Alex A. Freitas|[A Robust Experimental Evaluation of Automated Multi-Label Classification   Methods](http://arxiv.org/abs/2005.08083v1)|2020-05-16 20:08:04+00:00|16-05-2020
+Galen Reeves|[Information-theoretic limits of a multiview low-rank symmetric spiked   matrix model](http://arxiv.org/abs/2005.08017v1)|2020-05-16 15:31:07+00:00|16-05-2020
+Sarah Filippi|[BART-based inference for Poisson processes](http://arxiv.org/abs/2005.07927v1)|2020-05-16 10:01:54+00:00|16-05-2020
+Linwei Wang|[High-dimensional Bayesian Optimization of Personalized Cardiac Model   Parameters via an Embedded Generative Model](http://arxiv.org/abs/2005.07804v1)|2020-05-15 22:14:16+00:00|15-05-2020
+
 ## 15-05-2020
 
 main_author|title|update_date|publish_date
