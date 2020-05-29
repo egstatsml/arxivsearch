@@ -1,5 +1,11 @@
 # interpretable
 Click on title for link to paper
+## 29-05-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Kimmo Kärkkäinen|[Gender Slopes: Counterfactual Fairness for Computer Vision Models by   Attribute Manipulation](http://arxiv.org/abs/2005.10430v1)|2020-05-21 02:33:28+00:00|21-05-2020
+
 ## 22-05-2020
 
 main_author|title|update_date|publish_date
