@@ -1,5 +1,49 @@
 # bnn
 Click on title for link to paper
+## 05-06-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Guy Emerson|[Linguists Who Use Probabilistic Models Love Them: Quantification in   Functional Distributional Semantics](http://arxiv.org/abs/2006.03002v1)|2020-06-04 16:48:45+00:00|04-06-2020
+Gilles Louppe|[Graphical Normalizing Flows](http://arxiv.org/abs/2006.02548v1)|2020-06-03 21:50:29+00:00|03-06-2020
+James Glass|[A Convolutional Deep Markov Model for Unsupervised Speech Representation   Learning](http://arxiv.org/abs/2006.02547v1)|2020-06-03 21:50:20+00:00|03-06-2020
+Mark Tygert|[Plots of the cumulative differences between observed and expected values   of ordered Bernoulli variates](http://arxiv.org/abs/2006.02504v1)|2020-06-03 20:15:43+00:00|03-06-2020
+John Ashburner|[Flexible Bayesian Modelling for Nonlinear Image Registration](http://arxiv.org/abs/2006.02338v1)|2020-06-03 15:33:14+00:00|03-06-2020
+Fabrizio Riguzzi|[Automatic Setting of DNN Hyper-Parameters by Mixing Bayesian   Optimization and Tuning Rules](http://arxiv.org/abs/2006.02105v1)|2020-06-03 08:53:48+00:00|03-06-2020
+Alán Aspuru-Guzik|[Experimental demonstration of a quantum generative adversarial network   for continuous distributions](http://arxiv.org/abs/2006.01976v1)|2020-06-02 23:14:45+00:00|02-06-2020
+Phaedon-Stelios Koutsourelakis|[A probabilistic generative model for semi-supervised training of   coarse-grained surrogates and enforcing physical constraints through virtual   observables](http://arxiv.org/abs/2006.01789v1)|2020-06-02 17:14:36+00:00|02-06-2020
+François Lanusse|[Bayesian Neural Networks](http://arxiv.org/abs/2006.01490v1)|2020-06-02 09:43:00+00:00|02-06-2020
+Masanori Koyama|[Meta Learning as Bayes Risk Minimization](http://arxiv.org/abs/2006.01488v1)|2020-06-02 09:38:00+00:00|02-06-2020
+Andreas Krause|[From Sets to Multisets: Provable Variational Inference for Probabilistic   Integer Submodular Models](http://arxiv.org/abs/2006.01293v1)|2020-06-01 22:20:45+00:00|01-06-2020
+Leandro dos Santos Coelho|[Multi-Stage Transfer Learning with an Application to Selection Process](http://arxiv.org/abs/2006.01276v1)|2020-06-01 21:27:04+00:00|01-06-2020
+Cédric Févotte|[Ordinal Non-negative Matrix Factorization for Recommendation](http://arxiv.org/abs/2006.01034v1)|2020-06-01 16:02:11+00:00|01-06-2020
+Swarnim Narayan|[Neural Architecture Search with Reinforce and Masked Attention   Autoregressive Density Estimators](http://arxiv.org/abs/2006.00939v2)|2020-06-02 02:27:48+00:00|01-06-2020
+Gilles Louppe|[You say Normalizing Flows I see Bayesian Networks](http://arxiv.org/abs/2006.00866v2)|2020-06-03 21:43:28+00:00|01-06-2020
+Laura Wynter|[Variational Bayesian Inference for Crowdsourcing Predictions](http://arxiv.org/abs/2006.00778v2)|2020-06-02 02:53:30+00:00|01-06-2020
+Juergen Branke|[Bayesian Optimisation vs. Input Uncertainty Reduction](http://arxiv.org/abs/2006.00643v1)|2020-05-31 23:42:22+00:00|31-05-2020
+Dominika Ďurovčíková|[Fully probabilistic quasar continua predictions near Lyman-α with   conditional neural spline flows](http://arxiv.org/abs/2006.00615v2)|2020-06-02 19:05:23+00:00|31-05-2020
+J. López-Santiago|[Adaptive quadrature schemes for Bayesian inference via active learning](http://arxiv.org/abs/2006.00535v2)|2020-06-03 16:25:26+00:00|31-05-2020
+Steve Jiang|[Probabilistic self-learning framework for Low-dose CT Denoising](http://arxiv.org/abs/2006.00327v1)|2020-05-30 17:47:10+00:00|30-05-2020
+Pooyan Jamshidi|[Learning LWF Chain Graphs: A Markov Blanket Discovery Approach](http://arxiv.org/abs/2006.00970v1)|2020-05-29 16:44:25+00:00|29-05-2020
+N. Gonçalves|[Probabilistic Object Classification using CNN ML-MAP layers](http://arxiv.org/abs/2005.14565v1)|2020-05-29 13:34:15+00:00|29-05-2020
+Anthony Gitter|[Inferring Signaling Pathways with Probabilistic Programming](http://arxiv.org/abs/2005.14062v1)|2020-05-28 14:55:11+00:00|28-05-2020
+Dorothea Kolossa|[Variational Autoencoder with Embedded Student-$t$ Mixture Model for   Authorship Attribution](http://arxiv.org/abs/2005.13930v1)|2020-05-28 11:52:32+00:00|28-05-2020
+Krzysztof Choromanski|[Demystifying Orthogonal Monte Carlo and Beyond](http://arxiv.org/abs/2005.13590v1)|2020-05-27 18:44:38+00:00|27-05-2020
+Brian Williams|[Fast Risk Assessment for Autonomous Vehicles Using Learned Models of   Agent Futures](http://arxiv.org/abs/2005.13458v2)|2020-06-03 23:56:09+00:00|27-05-2020
+Heni Ben Amor|[Predictive Modeling of Periodic Behavior for Human-Robot Symbiotic   Walking](http://arxiv.org/abs/2005.13139v1)|2020-05-27 03:30:48+00:00|27-05-2020
+Richard Baraniuk|[VarFA: A Variational Factor Analysis Framework For Efficient Bayesian   Learning Analytics](http://arxiv.org/abs/2005.13107v1)|2020-05-27 01:03:07+00:00|27-05-2020
+Yongxin Liu|[Study on Key Technologies of Transit Passengers Travel Pattern Mining   and Applications based on Multiple Sources of Data](http://arxiv.org/abs/2006.02526v1)|2020-05-26 22:35:28+00:00|26-05-2020
+Filip Rindler|[Probabilistic solution of chaotic dynamical system inverse problems   using Bayesian Artificial Neural Networks](http://arxiv.org/abs/2005.13028v1)|2020-05-26 20:35:02+00:00|26-05-2020
+Andre F. Marquand|[Hierarchical Bayesian Regression for Multi-Site Normative Modeling of   Neuroimaging Data](http://arxiv.org/abs/2005.12055v1)|2020-05-25 11:55:19+00:00|25-05-2020
+François Petitjean|[A Bayesian-inspired, deep learning, semi-supervised domain adaptation   technique for land cover mapping](http://arxiv.org/abs/2005.11930v1)|2020-05-25 05:36:50+00:00|25-05-2020
+Rasmus M. Birn|[Bayesian Conditional GAN for MRI Brain Image Synthesis](http://arxiv.org/abs/2005.11875v1)|2020-05-25 00:58:23+00:00|25-05-2020
+Dorothea Kolossa|[Detecting Adversarial Examples for Speech Recognition via Uncertainty   Quantification](http://arxiv.org/abs/2005.14611v1)|2020-05-24 19:31:02+00:00|24-05-2020
+Amit Sethi|[Functional Space Variational Inference for Uncertainty Estimation in   Computer Aided Diagnosis](http://arxiv.org/abs/2005.11797v2)|2020-05-28 16:47:06+00:00|24-05-2020
+Javier González|[Causal Bayesian Optimization](http://arxiv.org/abs/2005.11741v2)|2020-05-26 10:57:50+00:00|24-05-2020
+Elise Jennings|[Bayesian Neural Networks at Scale: A Performance Analysis and Pruning   Study](http://arxiv.org/abs/2005.11619v2)|2020-05-28 23:18:54+00:00|23-05-2020
+Ben Lambert|[Model Evidence with Fast Tree Based Quadrature](http://arxiv.org/abs/2005.11300v1)|2020-05-22 17:48:06+00:00|22-05-2020
+Barbara Rakitsch|[Beyond the Mean-Field: Structured Deep Gaussian Processes Improve the   Predictive Uncertainties](http://arxiv.org/abs/2005.11110v1)|2020-05-22 11:10:59+00:00|22-05-2020
+
 ## 29-05-2020
 
 main_author|title|update_date|publish_date

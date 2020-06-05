@@ -1,5 +1,21 @@
 # interpretable
 Click on title for link to paper
+## 05-06-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Yuan Zhu|[MFPP: Morphological Fragmental Perturbation Pyramid for Black-Box Model   Explanations](http://arxiv.org/abs/2006.02659v1)|2020-06-04 06:13:40+00:00|04-06-2020
+Shuiwang Ji|[XGNN: Towards Model-Level Explanations of Graph Neural Networks](http://arxiv.org/abs/2006.02587v1)|2020-06-03 23:52:43+00:00|03-06-2020
+Ilya Shpitser|[Explaining The Behavior Of Black-Box Prediction Algorithms With Causal   Learning](http://arxiv.org/abs/2006.02482v1)|2020-06-03 19:02:34+00:00|03-06-2020
+Saket Anand|[DGSAC: Density Guided Sampling and Consensus](http://arxiv.org/abs/2006.02413v1)|2020-06-03 17:42:53+00:00|03-06-2020
+Alex Pentland|[Interpretable Stochastic Block Influence Model: measuring social   influence among homophilous communities](http://arxiv.org/abs/2006.01028v1)|2020-06-01 15:49:22+00:00|01-06-2020
+Amro Najjar|[Explanations of Black-Box Model Predictions by Contextual Importance and   Utility](http://arxiv.org/abs/2006.00199v1)|2020-05-30 06:49:50+00:00|30-05-2020
+Philip S. Yu|[User Memory Reasoning for Conversational Recommendation](http://arxiv.org/abs/2006.00184v1)|2020-05-30 05:29:23+00:00|30-05-2020
+Wang-Chiew Tan|[ExplainIt: Explainable Review Summarization with Opinion Causality   Graphs](http://arxiv.org/abs/2006.00119v1)|2020-05-29 23:11:48+00:00|29-05-2020
+Homa Karimabadi|[Instance Explainable Temporal Network For Multivariate Timeseries](http://arxiv.org/abs/2005.13037v1)|2020-05-26 20:55:24+00:00|26-05-2020
+Shenghong Li|[Joint learning of interpretation and distillation](http://arxiv.org/abs/2005.11638v1)|2020-05-24 02:01:22+00:00|24-05-2020
+Eyke Hüllermeier|[Towards Analogy-Based Explanations in Machine Learning](http://arxiv.org/abs/2005.12800v1)|2020-05-23 06:41:35+00:00|23-05-2020
+
 ## 29-05-2020
 
 main_author|title|update_date|publish_date

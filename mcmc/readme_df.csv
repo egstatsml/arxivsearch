@@ -1,5 +1,19 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
+Prasanth B. Nair|[Quadruply Stochastic Gaussian Processes](http://arxiv.org/abs/2006.03015v1)|2020-06-04 17:06:25+00:00|04-06-2020
+Ehecatl Antonio del Río Chanona|[Constrained Reinforcement Learning for Dynamic Optimization under   Uncertainty](http://arxiv.org/abs/2006.02750v1)|2020-06-04 10:17:35+00:00|04-06-2020
+Stephen MacKinnon|[Learning across label confidence distributions using Filtered Transfer   Learning](http://arxiv.org/abs/2006.02528v1)|2020-06-03 21:00:11+00:00|03-06-2020
+Dmitry Berenson|[Explaining Multi-stage Tasks by Learning Temporal Logic Formulas from   Suboptimal Demonstrations](http://arxiv.org/abs/2006.02411v1)|2020-06-03 17:40:14+00:00|03-06-2020
+Juergen Branke|[Bayesian Optimisation vs. Input Uncertainty Reduction](http://arxiv.org/abs/2006.00643v1)|2020-05-31 23:42:22+00:00|31-05-2020
+James M. Rehg|[In the Eye of the Beholder: Gaze and Actions in First Person Video](http://arxiv.org/abs/2006.00626v1)|2020-05-31 22:06:06+00:00|31-05-2020
+Brian Williams|[Fast Risk Assessment for Autonomous Vehicles Using Learned Models of   Agent Futures](http://arxiv.org/abs/2005.13458v2)|2020-06-03 23:56:09+00:00|27-05-2020
+Dario Piga|[Skew Gaussian Processes for Classification](http://arxiv.org/abs/2005.12987v1)|2020-05-26 19:13:03+00:00|26-05-2020
+Matthew Ikle'|[Embedding Vector Differences Can Be Aligned With Uncertain Intensional   Logic Differences](http://arxiv.org/abs/2005.12535v1)|2020-05-26 06:20:32+00:00|26-05-2020
+Ha Q. Nguyen|[Interpreting Chest X-rays via CNNs that Exploit Hierarchical Disease   Dependencies and Uncertainty Labels](http://arxiv.org/abs/2005.12734v1)|2020-05-25 11:07:53+00:00|25-05-2020
+Dusit Niyato|[Optimization-driven Deep Reinforcement Learning for Robust Beamforming   in IRS-assisted Wireless Communications](http://arxiv.org/abs/2005.11885v1)|2020-05-25 01:42:55+00:00|25-05-2020
+Purushottam Kar|[Epidemiologically and Socio-economically Optimal Policies via Bayesian   Optimization](http://arxiv.org/abs/2005.11257v1)|2020-05-22 16:11:33+00:00|22-05-2020
+Junghye Lee|[Secure and Differentially Private Bayesian Learning on Distributed Data](http://arxiv.org/abs/2005.11007v1)|2020-05-22 05:13:43+00:00|22-05-2020
+---|---|---|---
 Yong Man Ro|[Efficient Ensemble Model Generation for Uncertainty Estimation with   Bayesian Approximation in Segmentation](http://arxiv.org/abs/2005.10754v1)|2020-05-21 16:08:38+00:00|21-05-2020
 Wilker Aziz|[Is MAP Decoding All You Need? The Inadequacy of the Mode in Neural   Machine Translation](http://arxiv.org/abs/2005.10283v1)|2020-05-20 18:05:51+00:00|20-05-2020
 Manohar Kaul|[Learning Representations using Spectral-Biased Random Walks on Graphs](http://arxiv.org/abs/2005.09752v1)|2020-05-19 20:42:43+00:00|19-05-2020

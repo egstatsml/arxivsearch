@@ -1,5 +1,73 @@
 # fairness
 Click on title for link to paper
+## 05-06-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Vijay Pandey|[Overcoming Overfitting and Large Weight Update Problem in Linear   Rectifiers: Thresholded Exponential Rectified Linear Units](http://arxiv.org/abs/2006.02797v1)|2020-06-04 11:55:47+00:00|04-06-2020
+Eva L. Dyer|[Bayesian optimization for modular black-box systems with switching costs](http://arxiv.org/abs/2006.02624v1)|2020-06-04 02:56:54+00:00|04-06-2020
+Mark Tygert|[An optimizable scalar objective value cannot be objective and should not   be the sole objective](http://arxiv.org/abs/2006.02577v1)|2020-06-03 23:10:38+00:00|03-06-2020
+Alexandre Gramfort|[Debiased Sinkhorn barycenters](http://arxiv.org/abs/2006.02575v1)|2020-06-03 23:06:02+00:00|03-06-2020
+Gilles Louppe|[Graphical Normalizing Flows](http://arxiv.org/abs/2006.02548v1)|2020-06-03 21:50:29+00:00|03-06-2020
+Philippe Burlina|[Rényi Generative Adversarial Networks](http://arxiv.org/abs/2006.02479v1)|2020-06-03 18:44:05+00:00|03-06-2020
+Bin Dong|[Learning to Scan: A Deep Reinforcement Learning Approach for   Personalized Scanning in CT Imaging](http://arxiv.org/abs/2006.02420v1)|2020-06-03 17:50:54+00:00|03-06-2020
+Vassilios Assimakopoulos|[Hierarchical forecast reconciliation with machine learning](http://arxiv.org/abs/2006.02043v1)|2020-06-03 04:49:39+00:00|03-06-2020
+Sebastian Reich|[Spectral convergence of diffusion maps: improved error bounds and an   alternative normalisation](http://arxiv.org/abs/2006.02037v1)|2020-06-03 04:23:43+00:00|03-06-2020
+Tanmoy Chakraborty|[Nurse is Closer to Woman than Surgeon? Mitigating Gender-Biased   Proximities in Word Embeddings](http://arxiv.org/abs/2006.01938v1)|2020-06-02 20:50:43+00:00|02-06-2020
+Max Welling|[The Convolution Exponential and Generalized Sylvester Flows](http://arxiv.org/abs/2006.01910v1)|2020-06-02 19:43:36+00:00|02-06-2020
+Sennur Ulukus|[Age-Based Coded Computation for Bias Reduction in Distributed Learning](http://arxiv.org/abs/2006.01816v1)|2020-06-02 17:51:11+00:00|02-06-2020
+Phaedon-Stelios Koutsourelakis|[A probabilistic generative model for semi-supervised training of   coarse-grained surrogates and enforcing physical constraints through virtual   observables](http://arxiv.org/abs/2006.01789v1)|2020-06-02 17:14:36+00:00|02-06-2020
+Issa Kohler-Hausmann|[What's Sex Got To Do With Machine Learning](http://arxiv.org/abs/2006.01770v1)|2020-06-02 16:51:39+00:00|02-06-2020
+Samuli Siltanen|[Deep neural networks for inverse problems with pseudodifferential   operators: an application to limited-angle tomography](http://arxiv.org/abs/2006.01620v1)|2020-06-02 14:03:41+00:00|02-06-2020
+Ondrej Marsalek|[Committee neural network potentials control generalization errors and   enable active learning](http://arxiv.org/abs/2006.01541v1)|2020-06-02 12:01:10+00:00|02-06-2020
+Alexander Keller|[Neural Control Variates](http://arxiv.org/abs/2006.01524v1)|2020-06-02 11:17:55+00:00|02-06-2020
+Arnout Van Messem|[Perturbation Analysis of Gradient-based Adversarial Attacks](http://arxiv.org/abs/2006.01456v1)|2020-06-02 08:51:37+00:00|02-06-2020
+Richard G. Baraniuk|[Attention Word Embedding](http://arxiv.org/abs/2006.00988v1)|2020-06-01 14:47:48+00:00|01-06-2020
+Qi Wu|[Structured Multimodal Attentions for TextVQA](http://arxiv.org/abs/2006.00753v1)|2020-06-01 07:07:36+00:00|01-06-2020
+Nhat Ho|[Uniform Convergence Rates for Maximum Likelihood Estimation under   Two-Component Gaussian Mixture Models](http://arxiv.org/abs/2006.00704v1)|2020-06-01 04:13:48+00:00|01-06-2020
+Hongxin Yu|[Data-driven Optimal Power Flow: A Physics-Informed Machine Learning   Approach](http://arxiv.org/abs/2006.00544v1)|2020-05-31 15:41:24+00:00|31-05-2020
+Barry Koren|[Improved stochastic rounding](http://arxiv.org/abs/2006.00489v1)|2020-05-31 10:33:20+00:00|31-05-2020
+Johannes Schmidt-Hieber|[On lower bounds for the bias-variance trade-off](http://arxiv.org/abs/2006.00278v1)|2020-05-30 14:07:43+00:00|30-05-2020
+Mahbubunnabi Tamal|[Positron Emission Tomography (PET) image enhancement using a gradient   vector orientation based nonlinear diffusion filter (GVOF) for accurate   quantitation of radioactivity concentration](http://arxiv.org/abs/2006.00273v1)|2020-05-30 13:57:02+00:00|30-05-2020
+Paul M. Thompson|[Overview of Scanner Invariant Representations](http://arxiv.org/abs/2006.00115v1)|2020-05-29 22:56:47+00:00|29-05-2020
+Lars Ruthotto|[OT-Flow: Fast and Accurate Continuous Normalizing Flows via Optimal   Transport](http://arxiv.org/abs/2006.00104v1)|2020-05-29 22:31:10+00:00|29-05-2020
+Kenric P. Nelson|[Applying the Decisiveness and Robustness Metrics to Convolutional Neural   Networks](http://arxiv.org/abs/2006.00058v1)|2020-05-29 20:05:06+00:00|29-05-2020
+Jason A. Shaw|[Prosody leaks into the memories of words](http://arxiv.org/abs/2005.14716v1)|2020-05-29 17:58:33+00:00|29-05-2020
+Thorsten Joachims|[Controlling Fairness and Bias in Dynamic Learning-to-Rank](http://arxiv.org/abs/2005.14713v1)|2020-05-29 17:57:56+00:00|29-05-2020
+Meike Riebeling|[A Process for the Evaluation of Node Embedding Methods in the Context of   Node Classification](http://arxiv.org/abs/2005.14683v1)|2020-05-29 17:20:19+00:00|29-05-2020
+Florian Ziel|[The energy distance for ensemble and scenario reduction](http://arxiv.org/abs/2005.14670v1)|2020-05-29 16:52:23+00:00|29-05-2020
+Stefan Obermayer|[Modeling System Dynamics with Physics-Informed Neural Networks Based on   Lagrangian Mechanics](http://arxiv.org/abs/2005.14617v1)|2020-05-29 15:10:43+00:00|29-05-2020
+Sheraz Ahmed|[Two-stage framework for optic disc localization and glaucoma   classification in retinal fundus images using deep learning](http://arxiv.org/abs/2005.14284v1)|2020-05-28 20:40:19+00:00|28-05-2020
+Jukka Heikkonen|[Estimating the Prediction Performance of Spatial Models via Spatial   k-Fold Cross Validation](http://arxiv.org/abs/2005.14263v1)|2020-05-28 19:55:18+00:00|28-05-2020
+John Ashburner|[Joint Total Variation ESTATICS for Robust Multi-Parameter Mapping](http://arxiv.org/abs/2005.14247v1)|2020-05-28 19:08:42+00:00|28-05-2020
+Lasse Hansen|[Unsupervised learning of multimodal image registration using domain   adaptation with projected Earth Move's discrepancies](http://arxiv.org/abs/2005.14107v1)|2020-05-28 15:57:21+00:00|28-05-2020
+Hanna Wallach|"[Language (Technology) is Power: A Critical Survey of ""Bias"" in NLP](http://arxiv.org/abs/2005.14050v2)"|2020-05-29 16:44:18+00:00|28-05-2020
+Vasudevan Lakshminarayanan|[Explainable deep learning models in medical image analysis](http://arxiv.org/abs/2005.13799v1)|2020-05-28 06:31:05+00:00|28-05-2020
+Parth Chadha|[Domain Knowledge Integration By Gradient Matching For Sample-Efficient   Reinforcement Learning](http://arxiv.org/abs/2005.13778v1)|2020-05-28 05:02:47+00:00|28-05-2020
+Roi Reichart|[CausaLM: Causal Model Explanation Through Counterfactual Language Models](http://arxiv.org/abs/2005.13407v2)|2020-06-03 06:59:21+00:00|27-05-2020
+Hoi-To Wai|[Convergence Analysis of Riemannian Stochastic Approximation Schemes](http://arxiv.org/abs/2005.13284v1)|2020-05-27 11:24:58+00:00|27-05-2020
+Taiji Suzuki|[Selective Inference for Latent Block Models](http://arxiv.org/abs/2005.13273v1)|2020-05-27 10:44:19+00:00|27-05-2020
+Lu Fang|[Zoom in to the details of human-centric videos](http://arxiv.org/abs/2005.13222v1)|2020-05-27 08:04:47+00:00|27-05-2020
+Timothy Baldwin|[Give Me Convenience and Give Her Death: Who Should Decide What Uses of   NLP are Appropriate, and on What Basis?](http://arxiv.org/abs/2005.13213v1)|2020-05-27 07:31:57+00:00|27-05-2020
+Zhenzhong Chen|[Towards Mesh Saliency Detection in 6 Degrees of Freedom](http://arxiv.org/abs/2005.13127v1)|2020-05-27 02:04:33+00:00|27-05-2020
+Debasmita Bhattacharya|[Examining Racial Bias in an Online Abuse Corpus with Structural Topic   Modeling](http://arxiv.org/abs/2005.13041v1)|2020-05-26 21:02:43+00:00|26-05-2020
+Jean-Michel Loubes|[Review of Mathematical frameworks for Fairness in Machine Learning](http://arxiv.org/abs/2005.13755v1)|2020-05-26 11:40:13+00:00|26-05-2020
+Junbum Lee|[BEEP! Korean Corpus of Online News Comments for Toxic Speech Detection](http://arxiv.org/abs/2005.12503v1)|2020-05-26 03:34:01+00:00|26-05-2020
+Christopher Healy|[Improving Regression Uncertainty Estimates with an Empirical Prior](http://arxiv.org/abs/2005.12496v1)|2020-05-26 03:08:43+00:00|26-05-2020
+Jelena Bradic|[Fair Policy Targeting](http://arxiv.org/abs/2005.12395v1)|2020-05-25 20:45:25+00:00|25-05-2020
+Yulia Tsvetkov|[Demoting Racial Bias in Hate Speech Detection](http://arxiv.org/abs/2005.12246v1)|2020-05-25 17:43:22+00:00|25-05-2020
+Qingpeng Cai|[Generator and Critic: A Deep Reinforcement Learning Approach for Slate   Re-ranking in E-commerce](http://arxiv.org/abs/2005.12206v1)|2020-05-25 16:24:01+00:00|25-05-2020
+Dexing Zhong|[A Joint Pixel and Feature Alignment Framework for Cross-dataset   Palmprint Recognition](http://arxiv.org/abs/2005.12044v1)|2020-05-25 11:40:51+00:00|25-05-2020
+Saif M. Mohammad|[Sentiment Analysis: Detecting Valence, Emotions, and Other Affectual   States from Text](http://arxiv.org/abs/2005.11882v1)|2020-05-25 01:37:31+00:00|25-05-2020
+Jean-Michel Loubes|[The price for fairness in a regression framework](http://arxiv.org/abs/2005.11720v2)|2020-05-26 09:16:22+00:00|24-05-2020
+Chengqi Zhang|[Connecting the Dots: Multivariate Time Series Forecasting with Graph   Neural Networks](http://arxiv.org/abs/2005.11650v1)|2020-05-24 04:02:18+00:00|24-05-2020
+Muhammad E. H. Chowdhury|[Coronavirus: Comparing COVID-19, SARS and MERS in the eyes of AI](http://arxiv.org/abs/2005.11524v3)|2020-06-02 11:53:04+00:00|23-05-2020
+Lingxiao Li|[SentPWNet: A Unified Sentence Pair Weighting Network for Task-specific   Sentence Embedding](http://arxiv.org/abs/2005.11347v1)|2020-05-22 18:32:35+00:00|22-05-2020
+Zohar Karnin|[PruneNet: Channel Pruning via Global Importance](http://arxiv.org/abs/2005.11282v1)|2020-05-22 17:09:56+00:00|22-05-2020
+Bela Gipp|[Classification and Clustering of arXiv Documents, Sections, and   Abstracts, Comparing Encodings of Natural and Mathematical Language](http://arxiv.org/abs/2005.11021v1)|2020-05-22 06:16:32+00:00|22-05-2020
+Jingge Zhu|[Semi-Supervised Learning: the Case When Unlabeled Data is Equally Useful](http://arxiv.org/abs/2005.11018v2)|2020-05-25 06:53:36+00:00|22-05-2020
+Jingming Liu|[Investigating Label Bias in Beam Search for Open-ended Text Generation](http://arxiv.org/abs/2005.11009v1)|2020-05-22 05:17:53+00:00|22-05-2020
+
 ## 29-05-2020
 
 main_author|title|update_date|publish_date
