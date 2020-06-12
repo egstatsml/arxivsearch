@@ -1,5 +1,42 @@
 # bnn
 Click on title for link to paper
+## 12-06-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Sayan Mukherjee|[Stanza: A Nonlinear State Space Model for Probabilistic Inference in   Non-Stationary Time Series](http://arxiv.org/abs/2006.06553v1)|2020-06-11 16:06:35+00:00|11-06-2020
+Meng Jiang|[A Probabilistic Model with Commonsense Constraints for Pattern-based   Temporal Fact Extraction](http://arxiv.org/abs/2006.06436v1)|2020-06-11 13:48:04+00:00|11-06-2020
+Uijung Chung|[Deep Learning Requires Explicit Regularization for Reliable Predictive   Probability](http://arxiv.org/abs/2006.06399v1)|2020-06-11 13:14:01+00:00|11-06-2020
+Jing Shi|[Learning Continuous-Time Dynamics by Stochastic Differential Networks](http://arxiv.org/abs/2006.06145v1)|2020-06-11 01:40:34+00:00|11-06-2020
+Sungjin Ahn|[Learning to Infer 3D Object Models from Images](http://arxiv.org/abs/2006.06130v1)|2020-06-11 00:42:56+00:00|11-06-2020
+Ben Glocker|[Stochastic Segmentation Networks: Modelling Spatially Correlated   Aleatoric Uncertainty](http://arxiv.org/abs/2006.06015v1)|2020-06-10 18:06:41+00:00|10-06-2020
+Chi-Guhn Lee|[Bayesian Experience Reuse for Learning from Multiple Demonstrators](http://arxiv.org/abs/2006.05725v1)|2020-06-10 08:32:39+00:00|10-06-2020
+Ruslan Salakhutdinov|[Neural Methods for Point-wise Dependency Estimation](http://arxiv.org/abs/2006.05553v2)|2020-06-11 01:55:04+00:00|09-06-2020
+Thang D. Bui|[Variational Auto-Regressive Gaussian Processes for Continual Learning](http://arxiv.org/abs/2006.05468v1)|2020-06-09 19:23:57+00:00|09-06-2020
+Mohammad Ghavamzadeh|[Variational Model-based Policy Optimization](http://arxiv.org/abs/2006.05443v1)|2020-06-09 18:30:15+00:00|09-06-2020
+Filipe Rodrigues|[Recurrent Flow Networks: A Recurrent Latent Variable Model for   Spatio-Temporal Density Modelling](http://arxiv.org/abs/2006.05256v1)|2020-06-09 13:44:08+00:00|09-06-2020
+Vincent Thibeault|[Detecting structural perturbations from time series with deep learning](http://arxiv.org/abs/2006.05232v1)|2020-06-09 13:08:40+00:00|09-06-2020
+Cédric Archambeau|[Fair Bayesian Optimization](http://arxiv.org/abs/2006.05109v1)|2020-06-09 08:31:08+00:00|09-06-2020
+Roland Vollgraf|[CRISP: A Probabilistic Model for Individual-Level COVID-19 Infection   Risk Estimation Based on Contact Data](http://arxiv.org/abs/2006.04942v1)|2020-06-09 04:25:56+00:00|09-06-2020
+Shandian Zhe|[Physics Regularized Gaussian Processes](http://arxiv.org/abs/2006.04976v1)|2020-06-08 22:43:31+00:00|08-06-2020
+David A. Knowles|[Variational Variance: Simple and Reliable Predictive Variance   Parameterization](http://arxiv.org/abs/2006.04910v2)|2020-06-11 12:29:21+00:00|08-06-2020
+Maurizio Filippone|[A Variational View on Bootstrap Ensembles as Bayesian Inference](http://arxiv.org/abs/2006.04548v1)|2020-06-08 13:01:37+00:00|08-06-2020
+Yarin Gal|[Revisiting the Train Loss: an Efficient Performance Estimator for Neural   Architecture Search](http://arxiv.org/abs/2006.04492v1)|2020-06-08 11:48:09+00:00|08-06-2020
+Wilker Aziz|[The Power Spherical distribution](http://arxiv.org/abs/2006.04437v1)|2020-06-08 09:51:43+00:00|08-06-2020
+Steven Atkinson|[Bayesian Hidden Physics Models: Uncertainty Quantification for Discovery   of Nonlinear Partial Differential Operators from Data](http://arxiv.org/abs/2006.04228v1)|2020-06-07 18:48:43+00:00|07-06-2020
+Maryam Saleki|[Uncertainty-Aware Deep Classifiers using Generative Models](http://arxiv.org/abs/2006.04183v1)|2020-06-07 15:38:35+00:00|07-06-2020
+Karl Friston|[Deep active inference agents using Monte-Carlo methods](http://arxiv.org/abs/2006.04176v1)|2020-06-07 15:10:42+00:00|07-06-2020
+Thomas L. Griffiths|[Analogy as Nonparametric Bayesian Inference over Relational Systems](http://arxiv.org/abs/2006.04156v1)|2020-06-07 14:07:46+00:00|07-06-2020
+Yongjun Xu|[Multi-view Contrastive Learning for Online Knowledge Distillation](http://arxiv.org/abs/2006.04093v1)|2020-06-07 09:11:28+00:00|07-06-2020
+Xiaoning Qian|[Bayesian Graph Neural Networks with Adaptive Connection Sampling](http://arxiv.org/abs/2006.04064v1)|2020-06-07 07:06:35+00:00|07-06-2020
+Liam Paninski|[A zero-inflated gamma model for deconvolved calcium imaging traces](http://arxiv.org/abs/2006.03737v1)|2020-06-05 23:29:33+00:00|05-06-2020
+Haiyan Wang|[Health Indicator Forecasting for Improving Remaining Useful Life   Estimation](http://arxiv.org/abs/2006.03729v1)|2020-06-05 23:02:10+00:00|05-06-2020
+Jarred Barber|[Sparse Gaussian Processes via Parametric Families of Compactly-supported   Kernels](http://arxiv.org/abs/2006.03673v1)|2020-06-05 20:44:09+00:00|05-06-2020
+Quoc V. Le|[AutoHAS: Differentiable Hyper-parameter and Architecture Search](http://arxiv.org/abs/2006.03656v1)|2020-06-05 19:57:24+00:00|05-06-2020
+Kanad Basu|[High-level Modeling of Manufacturing Faults in Deep Neural Network   Accelerators](http://arxiv.org/abs/2006.03616v1)|2020-06-05 18:11:14+00:00|05-06-2020
+Rosalyn Moran|[A Meta-Bayesian Model of Intentional Visual Search](http://arxiv.org/abs/2006.03531v1)|2020-06-05 16:10:35+00:00|05-06-2020
+Mikael Persson|[Uncertainty-Aware CNNs for Depth Completion: Uncertainty from Beginning   to End](http://arxiv.org/abs/2006.03349v1)|2020-06-05 10:18:35+00:00|05-06-2020
+
 ## 05-06-2020
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,15 @@
 # interpretable
 Click on title for link to paper
+## 12-06-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Kamran Kowsari|[Diagnosis and Analysis of Celiac Disease and Environmental Enteropathy   on Biopsy Images using Deep Learning Approaches](http://arxiv.org/abs/2006.06627v1)|2020-06-11 17:25:29+00:00|11-06-2020
+Jean-Philippe Vert|[On Mixup Regularization](http://arxiv.org/abs/2006.06049v1)|2020-06-10 20:11:46+00:00|10-06-2020
+Federico Chesani|[OptiLIME: Optimized LIME Explanations for Diagnostic Computer Algorithms](http://arxiv.org/abs/2006.05714v1)|2020-06-10 08:10:37+00:00|10-06-2020
+Hujun Yin|[3D Point Cloud Feature Explanations Using Gradient-Based Methods](http://arxiv.org/abs/2006.05548v1)|2020-06-09 23:17:24+00:00|09-06-2020
+Dietrich Klakow|[On the Stability of Fine-tuning BERT: Misconceptions, Explanations, and   Strong Baselines](http://arxiv.org/abs/2006.04884v1)|2020-06-08 19:06:24+00:00|08-06-2020
+
 ## 05-06-2020
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,78 @@
 # fairness
 Click on title for link to paper
+## 12-06-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Jinchao Ye|[Reserve Price Optimization for First Price Auctions](http://arxiv.org/abs/2006.06519v1)|2020-06-11 15:35:19+00:00|11-06-2020
+Ioannis Sechopoulos|[Deep learning reconstruction of digital breast tomosynthesis images for   accurate breast density and patient-specific radiation dose estimation](http://arxiv.org/abs/2006.06508v1)|2020-06-11 15:26:00+00:00|11-06-2020
+Mårten Wadenbäck|[Embed Me If You Can: A Geometric Perceptron](http://arxiv.org/abs/2006.06507v1)|2020-06-11 15:25:50+00:00|11-06-2020
+Rich Caruana|[How Interpretable and Trustworthy are GAMs?](http://arxiv.org/abs/2006.06466v1)|2020-06-11 14:21:59+00:00|11-06-2020
+Ran El-Yaniv|[DNF-Net: A Neural Architecture for Tabular Data](http://arxiv.org/abs/2006.06465v1)|2020-06-11 14:21:45+00:00|11-06-2020
+Lorenzo Rosasco|[Asymptotics of Ridge(less) Regression under General Source Condition](http://arxiv.org/abs/2006.06386v1)|2020-06-11 13:00:21+00:00|11-06-2020
+Frederik Benzing|[Understanding Regularisation Methods for Continual Learning](http://arxiv.org/abs/2006.06357v1)|2020-06-11 12:20:38+00:00|11-06-2020
+Mitko Veta|[Adversarial Attack Vulnerability of Medical Image Analysis Systems:   Unexplored Factors](http://arxiv.org/abs/2006.06356v1)|2020-06-11 12:19:39+00:00|11-06-2020
+Tarek Alnaffouri|[Improved Design of Quadratic Discriminant Analysis Classifier in   Unbalanced Settings](http://arxiv.org/abs/2006.06355v1)|2020-06-11 12:17:05+00:00|11-06-2020
+Mikael Skoglund|[A Variational Approach to Privacy and Fairness](http://arxiv.org/abs/2006.06332v1)|2020-06-11 11:08:34+00:00|11-06-2020
+Víctor Vicente-Palacios|[Design Considerations for High Impact, Automated Echocardiogram Analysis](http://arxiv.org/abs/2006.06292v1)|2020-06-11 09:57:05+00:00|11-06-2020
+Stefanie Schwaar|[A Generalised Linear Model Framework for Variational Autoencoders based   on Exponential Dispersion Families](http://arxiv.org/abs/2006.06267v1)|2020-06-11 09:17:22+00:00|11-06-2020
+Hwalsuk Lee|[CLEval: Character-Level Evaluation for Text Detection and Recognition   Tasks](http://arxiv.org/abs/2006.06244v1)|2020-06-11 08:12:39+00:00|11-06-2020
+Hiroyuki Mizuno|[Sensorimotor Visual Perception on Embodied System Using Free Energy   Principle](http://arxiv.org/abs/2006.06192v1)|2020-06-11 05:03:45+00:00|11-06-2020
+Romis Attux|[A multi-objective-based approach for Fair Principal Component Analysis](http://arxiv.org/abs/2006.06137v1)|2020-06-11 01:00:22+00:00|11-06-2020
+Łukasz Szpruch|[Multi-index Antithetic Stochastic Gradient Algorithm](http://arxiv.org/abs/2006.06102v1)|2020-06-10 22:59:23+00:00|10-06-2020
+Ioannis Ch. Paschalidis|[Robust Grouped Variable Selection Using Distributionally Robust   Optimization](http://arxiv.org/abs/2006.06094v1)|2020-06-10 22:32:52+00:00|10-06-2020
+Ritwik Mitra|[System to Integrate Fairness Transparently: An Industry Approach](http://arxiv.org/abs/2006.06082v1)|2020-06-10 21:54:27+00:00|10-06-2020
+Kush R. Varshney|[Fair Data Integration](http://arxiv.org/abs/2006.06053v1)|2020-06-10 20:20:10+00:00|10-06-2020
+Yoav Artzi|[Revisiting Few-sample BERT Fine-tuning](http://arxiv.org/abs/2006.05987v1)|2020-06-10 17:57:03+00:00|10-06-2020
+Mert Pilanci|[Effective Dimension Adaptive Sketching Methods for Faster Regularized   Least-Squares Optimization](http://arxiv.org/abs/2006.05874v1)|2020-06-10 15:00:09+00:00|10-06-2020
+Nagarajan Kandasamy|[Improving Dependability of Neuromorphic Computing With Non-Volatile   Memory](http://arxiv.org/abs/2006.05868v1)|2020-06-10 14:50:28+00:00|10-06-2020
+Ivan Dokmanić|[Learning the geometry of wave-based imaging](http://arxiv.org/abs/2006.05854v2)|2020-06-11 09:36:49+00:00|10-06-2020
+Prathosh AP|[To Regularize or Not To Regularize? The Bias Variance Trade-off in   Regularized AEs](http://arxiv.org/abs/2006.05838v1)|2020-06-10 14:00:14+00:00|10-06-2020
+Marco Turchi|[Gender in Danger? Evaluating Speech Translation Technology on the   MuST-SHE Corpus](http://arxiv.org/abs/2006.05754v1)|2020-06-10 09:55:38+00:00|10-06-2020
+Christian Wolf|[Estimating semantic structure for the VQA answer space](http://arxiv.org/abs/2006.05726v1)|2020-06-10 08:32:56+00:00|10-06-2020
+Adam Finkelstein|[HiFi-GAN: High-Fidelity Denoising and Dereverberation Based on Speech   Deep Features in Adversarial Networks](http://arxiv.org/abs/2006.05694v1)|2020-06-10 07:24:39+00:00|10-06-2020
+Austin R. Benson|[Fair Clustering for Diverse and Experienced Groups](http://arxiv.org/abs/2006.05645v2)|2020-06-11 14:59:51+00:00|10-06-2020
+Dongsheng Li|[ADMMiRNN: Training RNN with Stable Convergence via An Efficient ADMM   Approach](http://arxiv.org/abs/2006.05622v1)|2020-06-10 02:43:11+00:00|10-06-2020
+Ha-Jin Yu|[Integrated Replay Spoofing-aware Text-independent Speaker Verification](http://arxiv.org/abs/2006.05599v1)|2020-06-10 01:24:55+00:00|10-06-2020
+Alejandro Ribeiro|[Probably Approximately Correct Constrained Learning](http://arxiv.org/abs/2006.05487v1)|2020-06-09 19:59:29+00:00|09-06-2020
+Mohammad Ghavamzadeh|[Variational Model-based Policy Optimization](http://arxiv.org/abs/2006.05443v1)|2020-06-09 18:30:15+00:00|09-06-2020
+Fernando Ortega|[DeepFair: Deep Learning for Improving Fairness in Recommender Systems](http://arxiv.org/abs/2006.05255v1)|2020-06-09 13:39:38+00:00|09-06-2020
+Eran Yahav|[On the Bottleneck of Graph Neural Networks and its Practical   Implications](http://arxiv.org/abs/2006.05205v1)|2020-06-09 12:04:50+00:00|09-06-2020
+Aydin Mohseni|[The Tragedy of the AI Commons](http://arxiv.org/abs/2006.05203v1)|2020-06-09 12:01:01+00:00|09-06-2020
+Piotr Syga|[A Note on Deepfake Detection with Low-Resources](http://arxiv.org/abs/2006.05183v1)|2020-06-09 11:07:08+00:00|09-06-2020
+Christian Wolf|[Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?](http://arxiv.org/abs/2006.05121v1)|2020-06-09 08:50:39+00:00|09-06-2020
+Cédric Archambeau|[Fair Bayesian Optimization](http://arxiv.org/abs/2006.05109v1)|2020-06-09 08:31:08+00:00|09-06-2020
+Christoph Busch|[Detection of Makeup Presentation Attacks based on Deep Face   Representations](http://arxiv.org/abs/2006.05074v1)|2020-06-09 06:53:58+00:00|09-06-2020
+Ronitt Rubinfeld|[Online Page Migration with ML Advice](http://arxiv.org/abs/2006.05028v1)|2020-06-09 03:15:34+00:00|09-06-2020
+Mohammad Havaei|[Implicit Class-Conditioned Domain Alignment for Unsupervised Domain   Adaptation](http://arxiv.org/abs/2006.04996v1)|2020-06-09 00:20:21+00:00|09-06-2020
+Jamie Morgenstern|[A Notion of Individual Fairness for Clustering](http://arxiv.org/abs/2006.04960v1)|2020-06-08 21:41:39+00:00|08-06-2020
+Aldo Pacchiano|[Learning the Truth From Only One Side of the Story](http://arxiv.org/abs/2006.04858v1)|2020-06-08 18:20:28+00:00|08-06-2020
+Morris Yau|[Classification Under Misspecification: Halfspaces, Generalized Linear   Models, and Connections to Evolvability](http://arxiv.org/abs/2006.04787v1)|2020-06-08 17:59:11+00:00|08-06-2020
+Nisheeth K. Vishnoi|[Fair Classification with Noisy Protected Attributes](http://arxiv.org/abs/2006.04778v1)|2020-06-08 17:52:48+00:00|08-06-2020
+Christian Szegedy|[Language Modeling for Formal Mathematics](http://arxiv.org/abs/2006.04757v2)|2020-06-10 04:30:28+00:00|08-06-2020
+Theodoros Rekatsinas|[Picket: Self-supervised Data Diagnostics for ML Pipelines](http://arxiv.org/abs/2006.04730v1)|2020-06-08 16:37:25+00:00|08-06-2020
+Masashi Sugiyama|[Rethinking Importance Weighting for Deep Learning under Distribution   Shift](http://arxiv.org/abs/2006.04662v1)|2020-06-08 15:03:40+00:00|08-06-2020
+Wendy Hall|[Semantic Graph-enhanced Visual Network for Zero-shot Learning](http://arxiv.org/abs/2006.04648v1)|2020-06-08 14:54:08+00:00|08-06-2020
+Jacopo Staiano|[ColdGANs: Taming Language GANs with Cautious Sampling Strategies](http://arxiv.org/abs/2006.04643v1)|2020-06-08 14:48:14+00:00|08-06-2020
+Jamie Hayes|[Provable trade-offs between private & robust machine learning](http://arxiv.org/abs/2006.04622v1)|2020-06-08 14:20:12+00:00|08-06-2020
+Reza Rawassizadeh|[SEFR: A Fast Linear-Time Classifier for Ultra-Low Power Devices](http://arxiv.org/abs/2006.04620v1)|2020-06-08 14:13:54+00:00|08-06-2020
+Aylin Caliskan|[Iterative Effect-Size Bias in Ridehailing: Measuring Social Bias in   Dynamic Pricing of 100 Million Rides](http://arxiv.org/abs/2006.04599v1)|2020-06-08 13:51:03+00:00|08-06-2020
+Kristof Meding|[The Big Picture: Ethical Considerations and Statistical Analysis of   Industry Involvement in Machine Learning Research](http://arxiv.org/abs/2006.04541v1)|2020-06-08 12:51:38+00:00|08-06-2020
+Yishi Lin|[Invariant Adversarial Learning for Distributional Robustness](http://arxiv.org/abs/2006.04414v1)|2020-06-08 08:42:34+00:00|08-06-2020
+Aijun Zhang|[Balance-Subsampled Stable Prediction](http://arxiv.org/abs/2006.04381v1)|2020-06-08 07:01:38+00:00|08-06-2020
+Emmanuel J. Candès|[Achieving Equalized Odds by Resampling Sensitive Attributes](http://arxiv.org/abs/2006.04292v1)|2020-06-08 00:18:34+00:00|08-06-2020
+Maja Pantic|[Enhancing Facial Data Diversity with Style-based Face Aging](http://arxiv.org/abs/2006.03985v1)|2020-06-06 21:53:44+00:00|06-06-2020
+Aylin Caliskan|[Detecting Emergent Intersectional Biases: Contextualized Word Embeddings   Contain a Distribution of Human-like Biases](http://arxiv.org/abs/2006.03955v1)|2020-06-06 19:49:50+00:00|06-06-2020
+Marius Popescu|[A Generic and Model-Agnostic Exemplar Synthetization Framework for   Explainable AI](http://arxiv.org/abs/2006.03896v1)|2020-06-06 15:46:48+00:00|06-06-2020
+Damien Querlioz|[Scaling Equilibrium Propagation to Deep ConvNets by Drastically Reducing   its Gradient Estimator Bias](http://arxiv.org/abs/2006.03824v1)|2020-06-06 09:36:07+00:00|06-06-2020
+Hanke Chen|[Extracting Cellular Location of Human Proteins Using Deep Learning](http://arxiv.org/abs/2006.03800v1)|2020-06-06 07:15:11+00:00|06-06-2020
+Bamshad Mobasher|[Using Stable Matching to Optimize the Balance between Accuracy and   Diversity in Recommendation](http://arxiv.org/abs/2006.03715v1)|2020-06-05 22:12:25+00:00|05-06-2020
+Shalini Ghosh|[Hierarchical Class-Based Curriculum Loss](http://arxiv.org/abs/2006.03629v1)|2020-06-05 18:48:57+00:00|05-06-2020
+David Guy Brizan|[Quantum Criticism: A Tagged News Corpus Analysed for Sentiment and Named   Entities](http://arxiv.org/abs/2006.05267v1)|2020-06-05 17:59:12+00:00|05-06-2020
+Benjamin Doerr|[Runtime Analysis of a Heavy-Tailed $(1+(λ,λ))$ Genetic   Algorithm on Jump Functions](http://arxiv.org/abs/2006.03523v1)|2020-06-05 15:57:55+00:00|05-06-2020
+Giulio Biroli|[Triple descent and the two kinds of overfitting: Where & why do they   appear?](http://arxiv.org/abs/2006.03509v1)|2020-06-05 15:24:48+00:00|05-06-2020
+Julia E. Vogt|[Generation of Differentially Private Heterogeneous Electronic Health   Records](http://arxiv.org/abs/2006.03423v1)|2020-06-05 13:21:46+00:00|05-06-2020
+
 ## 05-06-2020
 
 main_author|title|update_date|publish_date
