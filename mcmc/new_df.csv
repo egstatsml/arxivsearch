@@ -1,17 +1,14 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
-Uijung Chung|[Deep Learning Requires Explicit Regularization for Reliable Predictive   Probability](http://arxiv.org/abs/2006.06399v1)|2020-06-11 13:14:01+00:00|11-06-2020
-Jing Shi|[Learning Continuous-Time Dynamics by Stochastic Differential Networks](http://arxiv.org/abs/2006.06145v1)|2020-06-11 01:40:34+00:00|11-06-2020
-Emmanuel J. Candès|[Conformal Inference of Counterfactuals and Individual Treatment Effects](http://arxiv.org/abs/2006.06138v1)|2020-06-11 01:03:32+00:00|11-06-2020
-Qin Li|[Variance reduction for Langevin Monte Carlo in high dimensional sampling   problems](http://arxiv.org/abs/2006.06068v1)|2020-06-10 21:08:38+00:00|10-06-2020
-Ben Glocker|[Stochastic Segmentation Networks: Modelling Spatially Correlated   Aleatoric Uncertainty](http://arxiv.org/abs/2006.06015v1)|2020-06-10 18:06:41+00:00|10-06-2020
-Filipe Rodrigues|[Recurrent Flow Networks: A Recurrent Latent Variable Model for   Spatio-Temporal Density Modelling](http://arxiv.org/abs/2006.05256v1)|2020-06-09 13:44:08+00:00|09-06-2020
-John C. Murray|[Physically constrained short-term vehicle trajectory forecasting with   naive semantic maps](http://arxiv.org/abs/2006.05159v1)|2020-06-09 09:52:44+00:00|09-06-2020
-Pietro Michiardi|[Isotropic SGD: a Practical Approach to Bayesian Posterior Sampling](http://arxiv.org/abs/2006.05087v1)|2020-06-09 07:31:21+00:00|09-06-2020
-Shandian Zhe|[Physics Regularized Gaussian Processes](http://arxiv.org/abs/2006.04976v1)|2020-06-08 22:43:31+00:00|08-06-2020
-Aldo Pacchiano|[Learning the Truth From Only One Side of the Story](http://arxiv.org/abs/2006.04858v1)|2020-06-08 18:20:28+00:00|08-06-2020
-Yarin Gal|[Revisiting the Train Loss: an Efficient Performance Estimator for Neural   Architecture Search](http://arxiv.org/abs/2006.04492v1)|2020-06-08 11:48:09+00:00|08-06-2020
-Wilker Aziz|[The Power Spherical distribution](http://arxiv.org/abs/2006.04437v1)|2020-06-08 09:51:43+00:00|08-06-2020
-Stephan Mandt|[Improving Inference for Neural Image Compression](http://arxiv.org/abs/2006.04240v2)|2020-06-09 06:03:55+00:00|07-06-2020
-Bo An|[Learning Behaviors with Uncertain Human Feedback](http://arxiv.org/abs/2006.04201v1)|2020-06-07 16:51:48+00:00|07-06-2020
-Xiaoning Qian|[Bayesian Graph Neural Networks with Adaptive Connection Sampling](http://arxiv.org/abs/2006.04064v1)|2020-06-07 07:06:35+00:00|07-06-2020
+Andrey Malinin|[Uncertainty in Gradient Boosting via Ensembles](http://arxiv.org/abs/2006.10562v1)|2020-06-18 14:11:27+00:00|18-06-2020
+Melih Kandemir|[Learning Partially Known Stochastic Dynamics with Empirical PAC Bayes](http://arxiv.org/abs/2006.09914v1)|2020-06-17 14:47:06+00:00|17-06-2020
+Kenneth E. Barner|[PAC-Bayesian Generalization Bounds for MultiLayer Perceptrons](http://arxiv.org/abs/2006.08888v2)|2020-06-17 05:21:00+00:00|16-06-2020
+Robert Nowak|[Finding All ε-Good Arms in Stochastic Bandits](http://arxiv.org/abs/2006.08850v1)|2020-06-16 00:58:40+00:00|16-06-2020
+Mingyuan Zhou|[Deep Autoencoding Topic Model with Scalable Hybrid Bayesian Inference](http://arxiv.org/abs/2006.08804v1)|2020-06-15 22:22:56+00:00|15-06-2020
+Junier B. Oliva|[Dynamic Feature Acquisition with Arbitrary Conditional Flows](http://arxiv.org/abs/2006.07701v1)|2020-06-13 19:01:12+00:00|13-06-2020
+Wojciech Rejchel|[Structure learning for CTBN's via penalized maximum likelihood methods](http://arxiv.org/abs/2006.07648v1)|2020-06-13 14:28:19+00:00|13-06-2020
+Yi-yan Yao|[Perturbed Newton Method with Trust-region Time-stepping Schemes for   Linear Programming with Uncertain Data](http://arxiv.org/abs/2006.07568v1)|2020-06-13 06:01:53+00:00|13-06-2020
+François-Xavier Briol|[Scalable Control Variates for Monte Carlo Methods via Stochastic   Optimization](http://arxiv.org/abs/2006.07487v1)|2020-06-12 22:03:25+00:00|12-06-2020
+Tatiana V. Guy|[Similarity-based transfer learning of decision policies](http://arxiv.org/abs/2006.08768v1)|2020-06-12 16:39:54+00:00|12-06-2020
+Antoine Thabault|[Recurrent Neural Networks for Stochastic Control in Real-Time Bidding](http://arxiv.org/abs/2006.07042v1)|2020-06-12 09:53:10+00:00|12-06-2020
+Jinkyoo Park|[Approximate Inference for Spectral Mixture Kernel](http://arxiv.org/abs/2006.07036v1)|2020-06-12 09:39:29+00:00|12-06-2020

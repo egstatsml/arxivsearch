@@ -1,5 +1,16 @@
 # interpretable
 Click on title for link to paper
+## 19-06-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Yi Song|[An Exploratory Study of Argumentative Writing by Young Students: A   Transformer-based Approach](http://arxiv.org/abs/2006.09873v1)|2020-06-17 13:55:31+00:00|17-06-2020
+Marius Kloft|[How Much Can I Trust You? -- Quantifying Uncertainties in Explaining   Neural Networks](http://arxiv.org/abs/2006.09000v1)|2020-06-16 08:54:42+00:00|16-06-2020
+Jiawei Huang|[Defending Support Vector Machines against Poisoning Attacks: the   Hardness and Algorithm](http://arxiv.org/abs/2006.07757v1)|2020-06-14 01:19:38+00:00|14-06-2020
+Nael Abu-Ghazaleh|[Defensive Approximation: Enhancing CNNs Security through Approximate   Computing](http://arxiv.org/abs/2006.07700v1)|2020-06-13 18:58:25+00:00|13-06-2020
+Henry Kautz|[Explaining Local, Global, And Higher-Order Interactions In Deep Learning](http://arxiv.org/abs/2006.08601v1)|2020-06-12 18:13:27+00:00|12-06-2020
+Kwong Sak Leung|[CUHK at SemEval-2020 Task 4: CommonSense Explanation, Reasoning and   Prediction with Multi-task Learning](http://arxiv.org/abs/2006.09161v1)|2020-06-12 13:51:12+00:00|12-06-2020
+
 ## 12-06-2020
 
 main_author|title|update_date|publish_date

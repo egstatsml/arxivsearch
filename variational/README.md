@@ -1,5 +1,22 @@
 # variational
 Click on title for link to paper
+## 19-06-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Andrey Malinin|[Uncertainty in Gradient Boosting via Ensembles](http://arxiv.org/abs/2006.10562v1)|2020-06-18 14:11:27+00:00|18-06-2020
+Melih Kandemir|[Learning Partially Known Stochastic Dynamics with Empirical PAC Bayes](http://arxiv.org/abs/2006.09914v1)|2020-06-17 14:47:06+00:00|17-06-2020
+Kenneth E. Barner|[PAC-Bayesian Generalization Bounds for MultiLayer Perceptrons](http://arxiv.org/abs/2006.08888v2)|2020-06-17 05:21:00+00:00|16-06-2020
+Robert Nowak|[Finding All ε-Good Arms in Stochastic Bandits](http://arxiv.org/abs/2006.08850v1)|2020-06-16 00:58:40+00:00|16-06-2020
+Mingyuan Zhou|[Deep Autoencoding Topic Model with Scalable Hybrid Bayesian Inference](http://arxiv.org/abs/2006.08804v1)|2020-06-15 22:22:56+00:00|15-06-2020
+Junier B. Oliva|[Dynamic Feature Acquisition with Arbitrary Conditional Flows](http://arxiv.org/abs/2006.07701v1)|2020-06-13 19:01:12+00:00|13-06-2020
+Wojciech Rejchel|[Structure learning for CTBN's via penalized maximum likelihood methods](http://arxiv.org/abs/2006.07648v1)|2020-06-13 14:28:19+00:00|13-06-2020
+Yi-yan Yao|[Perturbed Newton Method with Trust-region Time-stepping Schemes for   Linear Programming with Uncertain Data](http://arxiv.org/abs/2006.07568v1)|2020-06-13 06:01:53+00:00|13-06-2020
+François-Xavier Briol|[Scalable Control Variates for Monte Carlo Methods via Stochastic   Optimization](http://arxiv.org/abs/2006.07487v1)|2020-06-12 22:03:25+00:00|12-06-2020
+Tatiana V. Guy|[Similarity-based transfer learning of decision policies](http://arxiv.org/abs/2006.08768v1)|2020-06-12 16:39:54+00:00|12-06-2020
+Antoine Thabault|[Recurrent Neural Networks for Stochastic Control in Real-Time Bidding](http://arxiv.org/abs/2006.07042v1)|2020-06-12 09:53:10+00:00|12-06-2020
+Jinkyoo Park|[Approximate Inference for Spectral Mixture Kernel](http://arxiv.org/abs/2006.07036v1)|2020-06-12 09:39:29+00:00|12-06-2020
+
 ## 12-06-2020
 
 main_author|title|update_date|publish_date

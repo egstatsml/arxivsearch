@@ -1,5 +1,47 @@
 # bnn
 Click on title for link to paper
+## 19-06-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Chelsea Finn|[Deep Reinforcement Learning amidst Lifelong Non-Stationarity](http://arxiv.org/abs/2006.10701v1)|2020-06-18 17:34:50+00:00|18-06-2020
+Andreas Loukas|[Erdos Goes Neural: an Unsupervised Learning Framework for Combinatorial   Optimization on Graphs](http://arxiv.org/abs/2006.10643v1)|2020-06-18 16:13:36+00:00|18-06-2020
+Samuel Kaski|[Likelihood-Free Inference with Deep Gaussian Processes](http://arxiv.org/abs/2006.10571v1)|2020-06-18 14:24:05+00:00|18-06-2020
+Jascha Sohl-Dickstein|[Exact posterior distributions of wide Bayesian neural networks](http://arxiv.org/abs/2006.10541v1)|2020-06-18 13:57:04+00:00|18-06-2020
+Roman Novak|[Infinite attention: NNGP and NTK for deep attention networks](http://arxiv.org/abs/2006.10540v1)|2020-06-18 13:57:01+00:00|18-06-2020
+Ronald Yu|[A Tutorial on VAEs: From Bayes' Rule to Lossless Compression](http://arxiv.org/abs/2006.10273v1)|2020-06-18 04:38:44+00:00|18-06-2020
+Justin Bayer|[Variational State-Space Models for Localisation and Dense 3D Mapping in   6 DoF](http://arxiv.org/abs/2006.10178v1)|2020-06-17 22:06:35+00:00|17-06-2020
+Orcun Goksel|[Deep Network for Scatterer Distribution Estimation for Ultrasound Image   Simulation](http://arxiv.org/abs/2006.10166v1)|2020-06-17 21:25:13+00:00|17-06-2020
+Balaji Lakshminarayanan|[Simple and Principled Uncertainty Estimation with Deterministic Deep   Learning via Distance Awareness](http://arxiv.org/abs/2006.10108v1)|2020-06-17 19:18:22+00:00|17-06-2020
+Richard G. Baraniuk|[Analytical Probability Distributions and EM-Learning for Deep Generative   Networks](http://arxiv.org/abs/2006.10023v1)|2020-06-17 17:35:06+00:00|17-06-2020
+Melih Kandemir|[Learning Partially Known Stochastic Dynamics with Empirical PAC Bayes](http://arxiv.org/abs/2006.09914v1)|2020-06-17 14:47:06+00:00|17-06-2020
+Daniel Ratner|[Introduction to Machine Learning for Accelerator Physics](http://arxiv.org/abs/2006.09913v1)|2020-06-17 14:46:46+00:00|17-06-2020
+Jonas Sjöberg|[Reinforcement Learning with Uncertainty Estimation for Tactical   Decision-Making in Intersections](http://arxiv.org/abs/2006.09786v1)|2020-06-17 11:29:26+00:00|17-06-2020
+Sergey Nikolenko|[Improving unsupervised neural aspect extraction for online discussions   using out-of-domain classification](http://arxiv.org/abs/2006.09766v1)|2020-06-17 10:34:16+00:00|17-06-2020
+J. Sullivan|[Probabilistic orientation estimation with matrix Fisher distributions](http://arxiv.org/abs/2006.09740v1)|2020-06-17 09:28:19+00:00|17-06-2020
+Subramanian Ramamoorthy|[Learning from Demonstration with Weakly Supervised Disentanglement](http://arxiv.org/abs/2006.09107v1)|2020-06-16 12:29:51+00:00|16-06-2020
+Lars Kai Hansen|[Probabilistic Decoupling of Labels in Classification](http://arxiv.org/abs/2006.09046v1)|2020-06-16 10:07:50+00:00|16-06-2020
+Marius Kloft|[How Much Can I Trust You? -- Quantifying Uncertainties in Explaining   Neural Networks](http://arxiv.org/abs/2006.09000v1)|2020-06-16 08:54:42+00:00|16-06-2020
+Kenneth E. Barner|[PAC-Bayesian Generalization Bounds for MultiLayer Perceptrons](http://arxiv.org/abs/2006.08888v2)|2020-06-17 05:21:00+00:00|16-06-2020
+Mingyuan Zhou|[Deep Autoencoding Topic Model with Scalable Hybrid Bayesian Inference](http://arxiv.org/abs/2006.08804v1)|2020-06-15 22:22:56+00:00|15-06-2020
+Yannis Pantazis|[Optimizing variational representations of divergences and accelerating   their statistical estimation](http://arxiv.org/abs/2006.08781v1)|2020-06-15 21:32:21+00:00|15-06-2020
+Luigi Acerbi|[Variational Bayesian Monte Carlo with Noisy Likelihoods](http://arxiv.org/abs/2006.08655v1)|2020-06-15 18:06:18+00:00|15-06-2020
+José Miguel Hernández-Lobato|[Depth Uncertainty in Neural Networks](http://arxiv.org/abs/2006.08437v1)|2020-06-15 14:33:40+00:00|15-06-2020
+Joshua B. Tenenbaum|[DreamCoder: Growing generalizable, interpretable knowledge with   wake-sleep Bayesian program learning](http://arxiv.org/abs/2006.08381v1)|2020-06-15 13:06:29+00:00|15-06-2020
+Fabio A. González|[Dissimilarity Mixture Autoencoder for Deep Clustering](http://arxiv.org/abs/2006.08177v1)|2020-06-15 07:08:59+00:00|15-06-2020
+Ion Stoica|[NeuroCard: One Cardinality Estimator for All Tables](http://arxiv.org/abs/2006.08109v1)|2020-06-15 03:21:46+00:00|15-06-2020
+Mahsa Shoaran|[ResOT: Resource-Efficient Oblique Trees for Neural Signal Classification](http://arxiv.org/abs/2006.07900v1)|2020-06-14 13:29:02+00:00|14-06-2020
+Toshitake Asabuki|[Continual General Chunking Problem and SyncMap](http://arxiv.org/abs/2006.07853v2)|2020-06-16 02:00:10+00:00|14-06-2020
+Junier B. Oliva|[Dynamic Feature Acquisition with Arbitrary Conditional Flows](http://arxiv.org/abs/2006.07701v1)|2020-06-13 19:01:12+00:00|13-06-2020
+Tracy M. Sweet|[Faster MCMC for Gaussian Latent Position Network Models](http://arxiv.org/abs/2006.07687v1)|2020-06-13 17:38:34+00:00|13-06-2020
+Fei Sha|[Uncertainty Estimation with Infinitesimal Jackknife, Its Distribution   and Mean-Field Approximation](http://arxiv.org/abs/2006.07584v1)|2020-06-13 07:32:38+00:00|13-06-2020
+Issei Sato|[$γ$-ABC: Outlier-Robust Approximate Bayesian Computation based on   Robust Divergence Estimator](http://arxiv.org/abs/2006.07571v1)|2020-06-13 06:09:27+00:00|13-06-2020
+Michael Osborne|[Neural Architecture Search using Bayesian Optimisation with   Weisfeiler-Lehman Kernel](http://arxiv.org/abs/2006.07556v1)|2020-06-13 04:10:34+00:00|13-06-2020
+François-Xavier Briol|[Scalable Control Variates for Monte Carlo Methods via Stochastic   Optimization](http://arxiv.org/abs/2006.07487v1)|2020-06-12 22:03:25+00:00|12-06-2020
+Guillaume Hennequin|[Manifold GPLVMs for discovering non-Euclidean latent structure in neural   data](http://arxiv.org/abs/2006.07429v1)|2020-06-12 19:08:54+00:00|12-06-2020
+Jinkyoo Park|[Approximate Inference for Spectral Mixture Kernel](http://arxiv.org/abs/2006.07036v1)|2020-06-12 09:39:29+00:00|12-06-2020
+Seongok Ryu|[A benchmark study on reliable molecular supervised learning via Bayesian   learning](http://arxiv.org/abs/2006.07021v1)|2020-06-12 09:06:16+00:00|12-06-2020
+
 ## 12-06-2020
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,90 @@
 # fairness
 Click on title for link to paper
+## 19-06-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Sergey Levine|[Learning Invariant Representations for Reinforcement Learning without   Reconstruction](http://arxiv.org/abs/2006.10742v1)|2020-06-18 17:59:35+00:00|18-06-2020
+Ren Ng|[Fourier Features Let Networks Learn High Frequency Functions in Low   Dimensional Domains](http://arxiv.org/abs/2006.10739v1)|2020-06-18 17:59:11+00:00|18-06-2020
+Ji Xu|[When Does Preconditioning Help or Hurt Generalization?](http://arxiv.org/abs/2006.10732v1)|2020-06-18 17:57:26+00:00|18-06-2020
+Min Wu|[Towards Threshold Invariant Fair Classification](http://arxiv.org/abs/2006.10667v1)|2020-06-18 16:49:46+00:00|18-06-2020
+Sotirios Chatzis|[Local Competition and Uncertainty for Adversarial Robustness in Deep   Learning](http://arxiv.org/abs/2006.10620v1)|2020-06-18 15:41:11+00:00|18-06-2020
+Wei Cui|[Algorithmic Decision Making with Conditional Fairness](http://arxiv.org/abs/2006.10483v1)|2020-06-18 12:56:28+00:00|18-06-2020
+Csaba Szepesvári|[Confident Off-Policy Evaluation and Selection through Self-Normalized   Importance Weighting](http://arxiv.org/abs/2006.10460v1)|2020-06-18 12:15:37+00:00|18-06-2020
+Stefano Ermon|[Individual Calibration with Randomized Forecasting](http://arxiv.org/abs/2006.10288v1)|2020-06-18 05:53:10+00:00|18-06-2020
+Yuyan Wang|[Fair Hierarchical Clustering](http://arxiv.org/abs/2006.10221v1)|2020-06-18 01:05:11+00:00|18-06-2020
+Martin J. Wainwright|[Revisiting complexity and the bias-variance tradeoff](http://arxiv.org/abs/2006.10189v1)|2020-06-17 22:45:14+00:00|17-06-2020
+Arvind Thiagarajan|[Using Weighted P-Values in Fisher's Method](http://arxiv.org/abs/2006.10126v1)|2020-06-17 19:56:09+00:00|17-06-2020
+Santosh Vempala|[Fair k-Means Clustering](http://arxiv.org/abs/2006.10085v1)|2020-06-17 18:05:17+00:00|17-06-2020
+Aristides Gionis|[Diverse Rule Sets](http://arxiv.org/abs/2006.09890v1)|2020-06-17 14:15:25+00:00|17-06-2020
+Silvia Villa|[Implicit regularization for convex regularizers](http://arxiv.org/abs/2006.09859v1)|2020-06-17 13:39:29+00:00|17-06-2020
+Maria A. Zuluaga|[Maximum Roaming Multi-Task Learning](http://arxiv.org/abs/2006.09762v1)|2020-06-17 10:25:41+00:00|17-06-2020
+Amedeo Napoli|[LimeOut: An Ensemble Approach To Improve Process Fairness](http://arxiv.org/abs/2006.10531v1)|2020-06-17 09:00:58+00:00|17-06-2020
+Pascal Frossard|[Neural Anisotropy Directions](http://arxiv.org/abs/2006.09717v1)|2020-06-17 08:36:28+00:00|17-06-2020
+William S. Isaac|[Extending the Machine Learning Abstraction Boundary: A Complex Systems   Approach to Incorporate Societal Context](http://arxiv.org/abs/2006.09663v1)|2020-06-17 05:22:33+00:00|17-06-2020
+Shukor Abd Razak|[Fairness-Oriented Semi-Chaotic Genetic Algorithm-Based Channel   Assignment Technique for Nodes Starvation Problem in Wireless Mesh Network](http://arxiv.org/abs/2006.09655v1)|2020-06-17 04:43:47+00:00|17-06-2020
+Alexander G. Gray|[Solving Constrained CASH Problems with ADMM](http://arxiv.org/abs/2006.09635v1)|2020-06-17 03:39:31+00:00|17-06-2020
+Shih-Fu Chang|[Learning Visual Commonsense for Robust Scene Graph Generation](http://arxiv.org/abs/2006.09623v1)|2020-06-17 03:07:53+00:00|17-06-2020
+Camylle Lanteigne|[Response by the Montreal AI Ethics Institute to the European   Commission's Whitepaper on AI](http://arxiv.org/abs/2006.09428v1)|2020-06-16 18:16:51+00:00|16-06-2020
+Anh Nguyen|[Intriguing generalization and simplicity of adversarially trained neural   networks](http://arxiv.org/abs/2006.09373v1)|2020-06-16 16:38:16+00:00|16-06-2020
+James Zhang|[Model Embedding Model-Based Reinforcement Learning](http://arxiv.org/abs/2006.09234v1)|2020-06-16 15:10:28+00:00|16-06-2020
+Yi Ma|[Robust Recovery via Implicit Bias of Discrepant Learning Rates for   Double Over-parameterization](http://arxiv.org/abs/2006.08857v1)|2020-06-16 01:21:22+00:00|16-06-2020
+Guy Van den Broeck|[Counterexample-Guided Learning of Monotonic Neural Networks](http://arxiv.org/abs/2006.08852v1)|2020-06-16 01:04:26+00:00|16-06-2020
+Wei Biao Wu|[Explainable AI for a No-Teardown Vehicle Component Cost Estimation: A   Top-Down Approach](http://arxiv.org/abs/2006.08828v1)|2020-06-15 23:47:19+00:00|15-06-2020
+Huzefa Rangwala|[Learning Smooth and Fair Representations](http://arxiv.org/abs/2006.08788v1)|2020-06-15 21:51:50+00:00|15-06-2020
+Pietro Lio|[Generalisable Relational Reasoning With Comparators in Low-Dimensional   Manifolds](http://arxiv.org/abs/2006.08698v1)|2020-06-15 19:09:13+00:00|15-06-2020
+Julia Stoyanovich|[Causal intersectionality for fair ranking](http://arxiv.org/abs/2006.08688v1)|2020-06-15 18:57:46+00:00|15-06-2020
+Tengyu Ma|[Shape Matters: Understanding the Implicit Bias of the Noise Covariance](http://arxiv.org/abs/2006.08680v2)|2020-06-18 03:34:08+00:00|15-06-2020
+Reza Shokri|[On Adversarial Bias and the Robustness of Fair Machine Learning](http://arxiv.org/abs/2006.08669v1)|2020-06-15 18:17:44+00:00|15-06-2020
+Beatrice Acciaio|[COT-GAN: Generating Sequential Data via Causal Optimal Transport](http://arxiv.org/abs/2006.08571v1)|2020-06-15 17:37:15+00:00|15-06-2020
+Naveen Sundar Govindarajulu|[Post-Hoc Methods for Debiasing Neural Networks](http://arxiv.org/abs/2006.08564v1)|2020-06-15 17:30:57+00:00|15-06-2020
+Andrew Gordon Wilson|[Why Normalizing Flows Fail to Detect Out-of-Distribution Data](http://arxiv.org/abs/2006.08545v1)|2020-06-15 17:00:01+00:00|15-06-2020
+Hung-Hsu Chou|[Weighted Optimization: better generalization by smoother interpolation](http://arxiv.org/abs/2006.08495v1)|2020-06-15 15:53:22+00:00|15-06-2020
+Joakim Jaldén|[Deep unfolding of the weighted MMSE beamforming algorithm](http://arxiv.org/abs/2006.08448v1)|2020-06-15 14:51:20+00:00|15-06-2020
+Oliver Dukes|[Assumption-lean inference for generalised linear model parameters](http://arxiv.org/abs/2006.08402v1)|2020-06-15 13:49:48+00:00|15-06-2020
+Jordi Vitrià|[Causal Inference with Deep Causal Graphs](http://arxiv.org/abs/2006.08380v1)|2020-06-15 13:03:33+00:00|15-06-2020
+Bertrand K. Hassani|[Societal biases reinforcement through machine learning: A credit scoring   perspective](http://arxiv.org/abs/2006.08350v1)|2020-06-15 12:40:21+00:00|15-06-2020
+Xia Hu|[Mitigating Gender Bias in Captioning Systems](http://arxiv.org/abs/2006.08315v1)|2020-06-15 12:16:19+00:00|15-06-2020
+Fei Wang|[xOrder: A Model Agnostic Post-Processing Framework for Achieving Ranking   Fairness While Maintaining Algorithm Utility](http://arxiv.org/abs/2006.08267v2)|2020-06-16 04:13:20+00:00|15-06-2020
+Marius Lindauer|[Learning Heuristic Selection with Dynamic Algorithm Configuration](http://arxiv.org/abs/2006.08246v1)|2020-06-15 09:35:07+00:00|15-06-2020
+Masahito Ueda|[Neural Networks Fail to Learn Periodic Functions and How to Fix It](http://arxiv.org/abs/2006.08195v1)|2020-06-15 07:49:33+00:00|15-06-2020
+Mengxiao Zhang|[Bias no more: high-probability data-dependent regret bounds for   adversarial bandits and MDPs](http://arxiv.org/abs/2006.08040v1)|2020-06-14 22:09:27+00:00|14-06-2020
+Pulkit Grover|[Fairness Under Feature Exemptions: Counterfactual and Observational   Measures](http://arxiv.org/abs/2006.07986v1)|2020-06-14 19:14:00+00:00|14-06-2020
+Christopher Potts|[Relational reasoning and generalization using non-symbolic neural   networks](http://arxiv.org/abs/2006.07968v2)|2020-06-16 04:34:22+00:00|14-06-2020
+Milind Tambe|[Fair Influence Maximization: A Welfare Optimization Approach](http://arxiv.org/abs/2006.07906v1)|2020-06-14 14:08:10+00:00|14-06-2020
+Murat A. Erdogdu|[An Analysis of Constant Step Size SGD in the Non-convex Regime:   Asymptotic Normality and Bias](http://arxiv.org/abs/2006.07904v1)|2020-06-14 13:58:44+00:00|14-06-2020
+Stefano V. Albrecht|[Comparative Evaluation of Multi-Agent Deep Reinforcement Learning   Algorithms](http://arxiv.org/abs/2006.07869v1)|2020-06-14 11:22:53+00:00|14-06-2020
+Rama Chellappa|[An adversarial learning algorithm for mitigating gender bias in face   recognition](http://arxiv.org/abs/2006.07845v1)|2020-06-14 08:54:03+00:00|14-06-2020
+Sarath Chandar|[PatchUp: A Regularization Technique for Convolutional Neural Networks](http://arxiv.org/abs/2006.07794v1)|2020-06-14 04:28:11+00:00|14-06-2020
+Kwang-Ting Cheng|[Cascaded deep monocular 3D human pose estimation with evolutionary   training data](http://arxiv.org/abs/2006.07778v1)|2020-06-14 03:09:52+00:00|14-06-2020
+Praneeth Netrapalli|[The Pitfalls of Simplicity Bias in Neural Networks](http://arxiv.org/abs/2006.07710v1)|2020-06-13 20:15:26+00:00|13-06-2020
+John E. Mitchell|[Low-Rank Factorization for Rank Minimization with Nonconvex Regularizers](http://arxiv.org/abs/2006.07702v1)|2020-06-13 19:04:37+00:00|13-06-2020
+Tibor Szendrei|[Horseshoe Prior Bayesian Quantile Regression](http://arxiv.org/abs/2006.07655v1)|2020-06-13 15:07:52+00:00|13-06-2020
+Yuan-Fang Li|[Learning from the Scene and Borrowing from the Rich: Tackling the Long   Tail in Scene Graph Generation](http://arxiv.org/abs/2006.07585v1)|2020-06-13 07:43:40+00:00|13-06-2020
+Anil K. Jain|[Mitigating Face Recognition Bias via Group Adaptive Classifier](http://arxiv.org/abs/2006.07576v1)|2020-06-13 06:43:37+00:00|13-06-2020
+Michael Osborne|[Neural Architecture Search using Bayesian Optimisation with   Weisfeiler-Lehman Kernel](http://arxiv.org/abs/2006.07556v1)|2020-06-13 04:10:34+00:00|13-06-2020
+Nicolas Gillis|[Sparse Separable Nonnegative Matrix Factorization](http://arxiv.org/abs/2006.07553v1)|2020-06-13 03:52:29+00:00|13-06-2020
+Zhenguo Li|[Risk Variance Penalization: From Distributional Robustness to Causality](http://arxiv.org/abs/2006.07544v1)|2020-06-13 03:20:49+00:00|13-06-2020
+Zhi Xu|[Rethinking the Value of Labels for Improving Class-Imbalanced Learning](http://arxiv.org/abs/2006.07529v1)|2020-06-13 01:35:58+00:00|13-06-2020
+Andrew C. Parnell|[Bayesian Additive Regression Trees with Model Trees](http://arxiv.org/abs/2006.07493v1)|2020-06-12 22:19:58+00:00|12-06-2020
+Yunhao Tang|[Self-Imitation Learning via Generalized Lower Bound Q-learning](http://arxiv.org/abs/2006.07442v1)|2020-06-12 19:52:04+00:00|12-06-2020
+Eli Shlizerman|[BI-MAML: Balanced Incremental Approach for Meta Learning](http://arxiv.org/abs/2006.07412v1)|2020-06-12 18:28:48+00:00|12-06-2020
+Guido Montúfar|[Implicit bias of gradient descent for mean squared error regression with   wide neural networks](http://arxiv.org/abs/2006.07356v1)|2020-06-12 17:46:40+00:00|12-06-2020
+Mikhail Belkin|[Evaluation of Neural Architectures Trained with Square Loss vs   Cross-Entropy in Classification Tasks](http://arxiv.org/abs/2006.07322v1)|2020-06-12 17:00:49+00:00|12-06-2020
+Robert N. Shorten|[Fairness in Forecasting and Learning Linear Dynamical Systems](http://arxiv.org/abs/2006.07315v1)|2020-06-12 16:53:27+00:00|12-06-2020
+Massimiliano Pontil|[Fair Regression with Wasserstein Barycenters](http://arxiv.org/abs/2006.07286v1)|2020-06-12 16:10:41+00:00|12-06-2020
+Juba Ziani|[Algorithms and Learning for Fair Portfolio Design](http://arxiv.org/abs/2006.07281v1)|2020-06-12 16:00:41+00:00|12-06-2020
+Marco Cuturi|[Handling Multiple Costs in Optimal Transport: Strong Duality and   Efficient Computation](http://arxiv.org/abs/2006.07260v1)|2020-06-12 15:15:41+00:00|12-06-2020
+Ram Rajagopal|[FedGAN: Federated Generative Adversarial Networks for Distributed Data](http://arxiv.org/abs/2006.07228v2)|2020-06-15 06:38:12+00:00|12-06-2020
+Bo Wahlberg|[Task-similarity Aware Meta-learning through Nonparametric Kernel   Regression](http://arxiv.org/abs/2006.07212v1)|2020-06-12 14:15:11+00:00|12-06-2020
+Olivier Sigaud|[DECSTR: Learning Goal-Directed Abstract Behaviors using Pre-Verbal   Spatial Predicates in Intrinsically Motivated Agents](http://arxiv.org/abs/2006.07185v1)|2020-06-12 13:46:10+00:00|12-06-2020
+Antti Honkela|[Tight Approximate Differential Privacy for Discrete-Valued Mechanisms   Using FFT](http://arxiv.org/abs/2006.07134v1)|2020-06-12 12:46:42+00:00|12-06-2020
+Fei Wu|[Learning Decomposed Representation for Counterfactual Inference](http://arxiv.org/abs/2006.07040v1)|2020-06-12 09:50:42+00:00|12-06-2020
+Quentin Duchemin|[Markov Random Geometric Graph (MRGG): A Growth Model for Temporal   Dynamic Networks](http://arxiv.org/abs/2006.07001v1)|2020-06-12 08:35:54+00:00|12-06-2020
+Gang Chen|[Decorrelated Double Q-learning](http://arxiv.org/abs/2006.06956v1)|2020-06-12 05:59:05+00:00|12-06-2020
+Mi Zhang|[Does Unsupervised Architecture Representation Learning Help Neural   Architecture Search?](http://arxiv.org/abs/2006.06936v1)|2020-06-12 04:15:34+00:00|12-06-2020
+Smita Krishnaswamy|[Uncovering the Folding Landscape of RNA Secondary Structure with Deep   Graph Embeddings](http://arxiv.org/abs/2006.06885v2)|2020-06-16 03:07:40+00:00|12-06-2020
+
 ## 12-06-2020
 
 main_author|title|update_date|publish_date
