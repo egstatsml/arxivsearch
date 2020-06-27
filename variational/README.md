@@ -1,5 +1,32 @@
 # variational
 Click on title for link to paper
+## 27-06-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Tiago P. Peixoto|[Statistical inference of assortative community structures](http://arxiv.org/abs/2006.14493v1)|2020-06-25 15:44:05+00:00|25-06-2020
+Nicolas Durrande|[Automatic Tuning of Stochastic Gradient Descent with Bayesian   Optimisation](http://arxiv.org/abs/2006.14376v1)|2020-06-25 13:18:18+00:00|25-06-2020
+Xiaohong Guan|[Multi-Agent Deep Reinforcement Learning for HVAC Control in Commercial   Buildings](http://arxiv.org/abs/2006.14156v1)|2020-06-25 03:41:42+00:00|25-06-2020
+B. Glocker|[Bayesian Sampling Bias Correction: Training with the Right Loss Function](http://arxiv.org/abs/2006.13798v1)|2020-06-24 15:10:43+00:00|24-06-2020
+Lorenzo Rimella|[Inference in Stochastic Epidemic Models via Multinomial Approximations](http://arxiv.org/abs/2006.13700v1)|2020-06-24 13:08:56+00:00|24-06-2020
+Hamed Hassani|[Safe Learning under Uncertain Objectives and Constraints](http://arxiv.org/abs/2006.13326v1)|2020-06-23 20:51:00+00:00|23-06-2020
+Mark van der Wilk|[Variational Orthogonal Features](http://arxiv.org/abs/2006.13170v1)|2020-06-23 17:18:07+00:00|23-06-2020
+Eduardo Nebot|[Probabilistic Crowd GAN: Multimodal Pedestrian Trajectory Prediction   using a Graph Vehicle-Pedestrian Attention Network](http://arxiv.org/abs/2006.12906v1)|2020-06-23 11:25:16+00:00|23-06-2020
+Jes Frellsen|[not-MIWAE: Deep Generative Modelling with Missing not at Random Data](http://arxiv.org/abs/2006.12871v1)|2020-06-23 10:06:21+00:00|23-06-2020
+Sung Ju Hwang|[Clinical Risk Prediction with Temporal Probabilistic Asymmetric   Multi-Task Learning](http://arxiv.org/abs/2006.12777v1)|2020-06-23 06:01:36+00:00|23-06-2020
+Michael Tetelman|[On Compression Principle and Bayesian Optimization for Neural Networks](http://arxiv.org/abs/2006.12714v1)|2020-06-23 03:23:47+00:00|23-06-2020
+Manuela Veloso|[Risk-Sensitive Reinforcement Learning: a Martingale Approach to Reward   Uncertainty](http://arxiv.org/abs/2006.12686v1)|2020-06-23 01:20:00+00:00|23-06-2020
+Benjamin Guedj|[Differentiable PAC-Bayes Objectives with Partially Aggregated Neural   Networks](http://arxiv.org/abs/2006.12228v1)|2020-06-22 13:25:32+00:00|22-06-2020
+Xiaochuan Wang|[ReCO: A Large Scale Chinese Reading Comprehension Dataset on Opinion](http://arxiv.org/abs/2006.12146v1)|2020-06-22 11:18:26+00:00|22-06-2020
+Aidong Men|[Split to Be Slim: An Overlooked Redundancy in Vanilla Convolution](http://arxiv.org/abs/2006.12085v1)|2020-06-22 09:08:51+00:00|22-06-2020
+Suhas Diggavi|[Byzantine-Resilient High-Dimensional SGD with Local Iterations on   Heterogeneous Data](http://arxiv.org/abs/2006.13041v1)|2020-06-22 03:54:36+00:00|22-06-2020
+Søren Hauberg|[Isometric Gaussian Process Latent Variable Model for Dissimilarity Data](http://arxiv.org/abs/2006.11741v1)|2020-06-21 08:56:18+00:00|21-06-2020
+George Yin|[Langevin Dynamics for Inverse Reinforcement Learning of Stochastic   Gradient Algorithms](http://arxiv.org/abs/2006.11674v1)|2020-06-20 23:12:11+00:00|20-06-2020
+Tobias Ortmaier|[Calibration of Model Uncertainty for Dropout Variational Inference](http://arxiv.org/abs/2006.11584v1)|2020-06-20 14:12:55+00:00|20-06-2020
+Daniel Hoffmann|[Classifier uncertainty: evidence, potential impact, and probabilistic   treatment](http://arxiv.org/abs/2006.11105v1)|2020-06-19 12:49:19+00:00|19-06-2020
+Robert Legenstein|[Oscillatory background activity implements a backbone for sampling-based   computations in spiking neural networks](http://arxiv.org/abs/2006.11099v1)|2020-06-19 12:18:43+00:00|19-06-2020
+Chenlu Shen|[Convolutional Gaussian Embeddings for Personalized Recommendation with   Uncertainty](http://arxiv.org/abs/2006.10932v1)|2020-06-19 02:10:38+00:00|19-06-2020
+
 ## 19-06-2020
 
 main_author|title|update_date|publish_date

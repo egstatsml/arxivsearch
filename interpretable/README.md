@@ -1,5 +1,14 @@
 # interpretable
 Click on title for link to paper
+## 27-06-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Andrew P. King|[Interpretable Deep Models for Cardiac Resynchronisation Therapy Response   Prediction](http://arxiv.org/abs/2006.13811v1)|2020-06-24 15:35:47+00:00|24-06-2020
+Ji-Tian Sheu|[Using Deep Learning and Explainable Artificial Intelligence in Patients'   Choices of Hospital Levels](http://arxiv.org/abs/2006.13427v1)|2020-06-24 02:15:15+00:00|24-06-2020
+Max A. Little|[Latent feature sharing: an adaptive approach to linear decomposition   models](http://arxiv.org/abs/2006.12369v1)|2020-06-22 16:09:11+00:00|22-06-2020
+Murat Kantarcioglu|[Does Explainable Artificial Intelligence Improve Human Decision-Making?](http://arxiv.org/abs/2006.11194v1)|2020-06-19 15:46:13+00:00|19-06-2020
+
 ## 19-06-2020
 
 main_author|title|update_date|publish_date
