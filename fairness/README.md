@@ -1,5 +1,43 @@
 # fairness
 Click on title for link to paper
+## 03-07-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Alexander G. Schwing|[Not All Unlabeled Data are Equal: Learning to Weight Data in   Semi-supervised Learning](http://arxiv.org/abs/2007.01293v1)|2020-07-02 17:59:05+00:00|02-07-2020
+Pierre-Yves Oudeyer|[Hierarchically-Organized Latent Modules for Exploratory Search in   Morphogenetic Systems](http://arxiv.org/abs/2007.01195v1)|2020-07-02 15:28:27+00:00|02-07-2020
+Virginia Smith|[Tilted Empirical Risk Minimization](http://arxiv.org/abs/2007.01162v1)|2020-07-02 14:49:48+00:00|02-07-2020
+Zhihui Wang|[Rethink Maximum Mean Discrepancy for Domain Adaptation](http://arxiv.org/abs/2007.00689v1)|2020-07-01 18:25:10+00:00|01-07-2020
+Aram Galstyan|[All in the Exponential Family: Bregman Duality in Thermodynamic   Variational Inference](http://arxiv.org/abs/2007.00642v1)|2020-07-01 17:46:49+00:00|01-07-2020
+Vahab Mirrokni|[Regularized Online Allocation Problems: Fairness and Beyond](http://arxiv.org/abs/2007.00514v1)|2020-07-01 14:24:58+00:00|01-07-2020
+Nicolas Flammarion|[Online Robust Regression via SGD on the l1 loss](http://arxiv.org/abs/2007.00399v1)|2020-07-01 11:38:21+00:00|01-07-2020
+Jonathan Berant|[Latent Compositional Representations Improve Systematic Generalization   in Grounded Question Answering](http://arxiv.org/abs/2007.00266v1)|2020-07-01 06:22:51+00:00|01-07-2020
+Jean Honorio|[Fairness constraints can help exact inference in structured prediction](http://arxiv.org/abs/2007.00218v1)|2020-07-01 04:11:29+00:00|01-07-2020
+Jiayu Yu|[Regularly Updated Deterministic Policy Gradient Algorithm](http://arxiv.org/abs/2007.00169v1)|2020-07-01 01:18:25+00:00|01-07-2020
+René F. Kizilcec|[Evaluation of Fairness Trade-offs in Predicting Student Success](http://arxiv.org/abs/2007.00088v1)|2020-06-30 20:03:18+00:00|30-06-2020
+Vivek Srikumar|[OSCaR: Orthogonal Subspace Correction and Rectification of Biases in   Word Embeddings](http://arxiv.org/abs/2007.00049v1)|2020-06-30 18:18:13+00:00|30-06-2020
+Joseph Y. Halpern|[Bounded Rationality in Las Vegas: Probabilistic Finite Automata   PlayMulti-Armed Bandits](http://arxiv.org/abs/2006.16950v1)|2020-06-30 16:42:08+00:00|30-06-2020
+Catuscia Palamidessi|[On the Applicability of ML Fairness Notions](http://arxiv.org/abs/2006.16745v1)|2020-06-30 13:01:06+00:00|30-06-2020
+Qiang Wu|[Optimal Rates of Distributed Regression with Imperfect Kernels](http://arxiv.org/abs/2006.16744v1)|2020-06-30 13:00:16+00:00|30-06-2020
+Jarvis Haupt|[Provable Online CP/PARAFAC Decomposition of a Structured Tensor via   Dictionary Learning](http://arxiv.org/abs/2006.16442v1)|2020-06-30 00:31:06+00:00|30-06-2020
+Lin Guang|[Bayesian Sparse learning with preconditioned stochastic gradient MCMC   and its applications](http://arxiv.org/abs/2006.16376v1)|2020-06-29 20:57:20+00:00|29-06-2020
+Bibek Paudel|[Adversarial Learning for Debiasing Knowledge Graph Embeddings](http://arxiv.org/abs/2006.16309v1)|2020-06-29 18:36:15+00:00|29-06-2020
+Orcun Goksel|[GramGAN: Deep 3D Texture Synthesis From 2D Exemplars](http://arxiv.org/abs/2006.16112v2)|2020-06-30 10:33:59+00:00|29-06-2020
+Bai Wang|[Decorrelated Clustering with Data Selection Bias](http://arxiv.org/abs/2006.15874v2)|2020-07-02 15:04:28+00:00|29-06-2020
+Anthony Man-Cho So|[Non-Convex Exact Community Recovery in Stochastic Block Model](http://arxiv.org/abs/2006.15843v2)|2020-07-02 09:09:08+00:00|29-06-2020
+Le Song|[Retro*: Learning Retrosynthetic Planning with Neural Guided A* Search](http://arxiv.org/abs/2006.15820v1)|2020-06-29 05:53:33+00:00|29-06-2020
+Tie-Yan Liu|[Rethinking Positional Encoding in Language Pre-training](http://arxiv.org/abs/2006.15595v2)|2020-06-30 02:57:50+00:00|28-06-2020
+Mingyi Hong|[Understanding Gradient Clipping in Private SGD: A Geometric Perspective](http://arxiv.org/abs/2006.15429v1)|2020-06-27 19:08:12+00:00|27-06-2020
+Yanmin Zhu|[Modeling Long-Term and Short-Term Interests with Parallel Attentions for   Session-based Recommendation](http://arxiv.org/abs/2006.15346v1)|2020-06-27 11:47:51+00:00|27-06-2020
+Alexander J. Smola|[DDPG++: Striving for Simplicity in Continuous-control Off-Policy   Reinforcement Learning](http://arxiv.org/abs/2006.15199v1)|2020-06-26 20:21:12+00:00|26-06-2020
+Ard A. Louis|[Is SGD a Bayesian sampler? Well, almost](http://arxiv.org/abs/2006.15191v1)|2020-06-26 19:45:36+00:00|26-06-2020
+Pascal Frossard|[Building powerful and equivariant graph neural networks with   message-passing](http://arxiv.org/abs/2006.15107v1)|2020-06-26 17:15:16+00:00|26-06-2020
+Alejandro Ribeiro|[Resource Allocation via Graph Neural Networks in Free Space Optical   Fronthaul Networks](http://arxiv.org/abs/2006.15005v1)|2020-06-26 14:20:48+00:00|26-06-2020
+Rahma Chaabouni|[What they do when in doubt: a study of inductive biases in seq2seq   learners](http://arxiv.org/abs/2006.14953v1)|2020-06-26 12:43:10+00:00|26-06-2020
+Subbarao Kambhampati|[Not all Failure Modes are Created Equal: Training Deep Neural Networks   for Explicable (Mis)Classification](http://arxiv.org/abs/2006.14841v1)|2020-06-26 07:37:33+00:00|26-06-2020
+Robert C. Williamson|[PAC-Bayesian Bound for the Conditional Value at Risk](http://arxiv.org/abs/2006.14763v1)|2020-06-26 02:55:24+00:00|26-06-2020
+Susan B. Davidson|[DeltaGrad: Rapid retraining of machine learning models](http://arxiv.org/abs/2006.14755v2)|2020-06-30 21:18:21+00:00|26-06-2020
+
 ## 27-06-2020
 
 main_author|title|update_date|publish_date

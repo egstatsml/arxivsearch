@@ -1,5 +1,44 @@
 # bnn
 Click on title for link to paper
+## 03-07-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Deniz Erdogmus|[AutoBayes: Automated Inference via Bayesian Graph Exploration for   Nuisance-Robust Biosignal Analysis](http://arxiv.org/abs/2007.01255v1)|2020-07-02 17:06:26+00:00|02-07-2020
+Carola Doerr|[High Dimensional Bayesian Optimization Assisted by Principal Component   Analysis](http://arxiv.org/abs/2007.00925v1)|2020-07-02 07:03:27+00:00|02-07-2020
+Oluwasanmi Koyejo|[Bayesian Coresets: An Optimization Perspective](http://arxiv.org/abs/2007.00715v1)|2020-07-01 19:34:59+00:00|01-07-2020
+Yuandong Tian|[Learning Search Space Partition for Black-box Optimization using Monte   Carlo Tree Search](http://arxiv.org/abs/2007.00708v1)|2020-07-01 19:17:47+00:00|01-07-2020
+Lingjiong Zhu|[Decentralized Stochastic Gradient Langevin Dynamics and Hamiltonian   Monte Carlo](http://arxiv.org/abs/2007.00590v2)|2020-07-02 16:19:37+00:00|01-07-2020
+Stefanie Speidel|[Rethinking Anticipation Tasks: Uncertainty-aware Anticipation of Sparse   Surgical Instrument Usage for Context-aware Assistance](http://arxiv.org/abs/2007.00548v1)|2020-07-01 15:17:56+00:00|01-07-2020
+Hairong Gu|[Can Global Optimization Strategy Outperform Myopic Strategy for Bayesian   Parameter Estimation?](http://arxiv.org/abs/2007.00373v1)|2020-07-01 10:31:16+00:00|01-07-2020
+Heinz Koeppl|[Augmenting Continuous-Time Bayesian Networks with Clocks](http://arxiv.org/abs/2007.00347v1)|2020-07-01 09:33:39+00:00|01-07-2020
+Junhee Seok|[Estimation with Uncertainty via Conditional Generative Adversarial   Networks](http://arxiv.org/abs/2007.00334v1)|2020-07-01 08:54:17+00:00|01-07-2020
+Roderick Murray-Smith|[Tomographic Auto-Encoder: Unsupervised Bayesian Recovery of Corrupted   Data](http://arxiv.org/abs/2006.16938v1)|2020-06-30 16:18:16+00:00|30-06-2020
+Daniel Cremers|[Deriving Neural Network Design and Learning from the Probabilistic   Framework of Chain Graphs](http://arxiv.org/abs/2006.16856v1)|2020-06-30 14:46:08+00:00|30-06-2020
+Barak Peleg|[Technical Report: Auxiliary Tuning and its Application to Conditional   Text Generation](http://arxiv.org/abs/2006.16823v1)|2020-06-30 14:00:48+00:00|30-06-2020
+Jason Eisner|[Neural Datalog Through Time: Informed Temporal Modeling via Logical   Specification](http://arxiv.org/abs/2006.16723v1)|2020-06-30 12:26:04+00:00|30-06-2020
+Sachin Singh Gautam|[A Bayesian regularization-backpropagation neural network model for   peeling computations](http://arxiv.org/abs/2006.16409v1)|2020-06-29 21:58:43+00:00|29-06-2020
+Lin Guang|[Bayesian Sparse learning with preconditioned stochastic gradient MCMC   and its applications](http://arxiv.org/abs/2006.16376v1)|2020-06-29 20:57:20+00:00|29-06-2020
+Luca Rossini|[Inference in Bayesian Additive Vector Autoregressive Tree Models](http://arxiv.org/abs/2006.16333v1)|2020-06-29 19:37:09+00:00|29-06-2020
+Daniel Nicolas Wilke|[Gradient-only line searches to automatically determine learning rates   for a variety of stochastic training algorithms](http://arxiv.org/abs/2007.01054v1)|2020-06-29 08:59:31+00:00|29-06-2020
+Jim Q. Smith|[Propagation for Dynamic Continuous Time Chain Event Graphs](http://arxiv.org/abs/2006.15865v1)|2020-06-29 08:24:57+00:00|29-06-2020
+Adam Klivans|[Statistical-Query Lower Bounds via Functional Gradients](http://arxiv.org/abs/2006.15812v1)|2020-06-29 05:15:32+00:00|29-06-2020
+Tapabrata Maiti|[Statistical Foundation of Variational Bayes Neural Networks](http://arxiv.org/abs/2006.15786v1)|2020-06-29 03:04:18+00:00|29-06-2020
+Yipeng Liu|[Bayesian Low Rank Tensor Ring Model for Image Completion](http://arxiv.org/abs/2007.01055v1)|2020-06-29 02:58:25+00:00|29-06-2020
+Ding Zhao|[Deep Probabilistic Accelerated Evaluation: A Certifiable Rare-Event   Simulation Methodology for Black-Box Autonomy](http://arxiv.org/abs/2006.15722v2)|2020-07-01 02:09:04+00:00|28-06-2020
+Suhang Wang|[Graph Convolutional Networks against Degree-Related Biases](http://arxiv.org/abs/2006.15643v1)|2020-06-28 16:26:47+00:00|28-06-2020
+Theodoros Damoulas|[Variational Autoencoding of PDE Inverse Problems](http://arxiv.org/abs/2006.15641v1)|2020-06-28 16:17:03+00:00|28-06-2020
+Ahmed Hassan Awadallah|[Uncertainty-aware Self-training for Text Classification with Few Labels](http://arxiv.org/abs/2006.15315v1)|2020-06-27 08:13:58+00:00|27-06-2020
+Guy Van den Broeck|[On the Relationship Between Probabilistic Circuits and Determinantal   Point Processes](http://arxiv.org/abs/2006.15233v1)|2020-06-26 22:35:13+00:00|26-06-2020
+Peter Szolovits|[CheXpert++: Approximating the CheXpert labeler for   Speed,Differentiability, and Probabilistic Output](http://arxiv.org/abs/2006.15229v1)|2020-06-26 22:14:11+00:00|26-06-2020
+Ard A. Louis|[Is SGD a Bayesian sampler? Well, almost](http://arxiv.org/abs/2006.15191v1)|2020-06-26 19:45:36+00:00|26-06-2020
+Aapo Hyvärinen|[Relative gradient optimization of the Jacobian term in unsupervised deep   learning](http://arxiv.org/abs/2006.15090v1)|2020-06-26 16:41:08+00:00|26-06-2020
+Min Lin|[Continual Learning from the Perspective of Compression](http://arxiv.org/abs/2006.15078v1)|2020-06-26 16:15:49+00:00|26-06-2020
+Mihaela van der Schaar|[Unlabelled Data Improves Bayesian Uncertainty Calibration under   Covariate Shift](http://arxiv.org/abs/2006.14988v1)|2020-06-26 13:50:19+00:00|26-06-2020
+Hugh Salimbeni|[Stochastic Differential Equations with Variational Wishart Diffusions](http://arxiv.org/abs/2006.14895v1)|2020-06-26 10:21:35+00:00|26-06-2020
+Wolfram Schiffmann|[Ensemble Transfer Learning for Emergency Landing Field Identification on   Moderate Resource Heterogeneous Kubernetes Cluster](http://arxiv.org/abs/2006.14887v1)|2020-06-26 09:40:32+00:00|26-06-2020
+Daniel M. Tartakovsky|[GINNs: Graph-Informed Neural Networks for Multiscale Physics](http://arxiv.org/abs/2006.14807v1)|2020-06-26 05:47:45+00:00|26-06-2020
+
 ## 27-06-2020
 
 main_author|title|update_date|publish_date

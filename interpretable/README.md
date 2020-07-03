@@ -1,5 +1,15 @@
 # interpretable
 Click on title for link to paper
+## 03-07-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Giedrius T. Burachas|[The Impact of Explanations on AI Competency Prediction in VQA](http://arxiv.org/abs/2007.00900v1)|2020-07-02 06:11:28+00:00|02-07-2020
+Muhammad Bilal Zafar|[Unifying Model Explainability and Robustness via Machine-Checkable   Concepts](http://arxiv.org/abs/2007.00251v2)|2020-07-02 07:33:15+00:00|01-07-2020
+Baiying Lei|[Do not forget interaction: Predicting fatality of COVID-19 patients   using logistic regression](http://arxiv.org/abs/2006.16942v1)|2020-06-30 16:28:41+00:00|30-06-2020
+Osmar R. Zaïane|[ANA at SemEval-2020 Task 4: mUlti-task learNIng for cOmmonsense   reasoNing (UNION)](http://arxiv.org/abs/2006.16403v1)|2020-06-29 21:44:51+00:00|29-06-2020
+Daniel S. Weld|[Does the Whole Exceed its Parts? The Effect of AI Explanations on   Complementary Team Performance](http://arxiv.org/abs/2006.14779v2)|2020-06-30 21:23:55+00:00|26-06-2020
+
 ## 27-06-2020
 
 main_author|title|update_date|publish_date
