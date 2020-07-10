@@ -1,5 +1,21 @@
 # mcmc
 Click on title for link to paper
+## 10-07-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Jörg Krüger|[Uncertainty Quantification in Deep Residual Neural Networks](http://arxiv.org/abs/2007.04905v1)|2020-07-09 16:05:37+00:00|09-07-2020
+Randal Douc|[Online Approximate Bayesian learning](http://arxiv.org/abs/2007.04803v1)|2020-07-09 14:17:43+00:00|09-07-2020
+Arno Solin|[Fast Variational Learning in State-Space Gaussian Process Models](http://arxiv.org/abs/2007.04731v1)|2020-07-09 12:06:34+00:00|09-07-2020
+Nabeel Seedat|[MCU-Net: A framework towards uncertainty representations for decision   support system patient referrals in healthcare contexts](http://arxiv.org/abs/2007.03995v1)|2020-07-08 09:54:56+00:00|08-07-2020
+Yu-Kun Lai|[Adaptive 3D Face Reconstruction from a Single Image](http://arxiv.org/abs/2007.03979v1)|2020-07-08 09:35:26+00:00|08-07-2020
+Yan Wang|[srMO-BO-3GP: A sequential regularized multi-objective constrained   Bayesian optimization for design applications](http://arxiv.org/abs/2007.03502v2)|2020-07-08 02:14:48+00:00|07-07-2020
+Yiming Yang|[Kernel Stein Generative Modeling](http://arxiv.org/abs/2007.03074v1)|2020-07-06 21:26:04+00:00|06-07-2020
+Jian Tang|[Few-shot Relation Extraction via Bayesian Meta-learning on Relation   Graphs](http://arxiv.org/abs/2007.02387v1)|2020-07-05 17:04:41+00:00|05-07-2020
+Rolando Estrada|[Deep Active Learning via Open Set Recognition](http://arxiv.org/abs/2007.02196v2)|2020-07-08 20:56:01+00:00|04-07-2020
+Mark W. Woolrich|[Stochastic Variational Bayesian Inference for a Nonlinear Forward Model](http://arxiv.org/abs/2007.01675v1)|2020-07-03 13:30:50+00:00|03-07-2020
+Mark W. Woolrich|[The FMRIB Variational Bayesian Inference Tutorial II: Stochastic   Variational Bayes](http://arxiv.org/abs/2007.02725v2)|2020-07-09 10:30:42+00:00|03-07-2020
+
 ## 03-07-2020
 
 main_author|title|update_date|publish_date

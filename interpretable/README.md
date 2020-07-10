@@ -1,5 +1,15 @@
 # interpretable
 Click on title for link to paper
+## 10-07-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Jiyang Qi|[Multi-Granularity Modularized Network for Abstract Visual Reasoning](http://arxiv.org/abs/2007.04670v1)|2020-07-09 09:54:05+00:00|09-07-2020
+Ching-An Cheng|[Explaining Fast Improvement in Online Policy Optimization](http://arxiv.org/abs/2007.02520v2)|2020-07-08 01:51:50+00:00|06-07-2020
+Tolga Tasdizen|[Interpretation of Disease Evidence for Medical Images Using Adversarial   Deformation Fields](http://arxiv.org/abs/2007.01975v1)|2020-07-04 00:51:54+00:00|04-07-2020
+Klaus-Robert Müller|[Explainable Deep One-Class Classification](http://arxiv.org/abs/2007.01760v1)|2020-07-03 15:29:06+00:00|03-07-2020
+Adnan Darwiche|[On Symbolically Encoding the Behavior of Random Forests](http://arxiv.org/abs/2007.01493v1)|2020-07-03 04:21:47+00:00|03-07-2020
+
 ## 03-07-2020
 
 main_author|title|update_date|publish_date

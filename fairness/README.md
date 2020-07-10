@@ -1,5 +1,43 @@
 # fairness
 Click on title for link to paper
+## 10-07-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Lei Huang|[Invertible Zero-Shot Recognition Flows](http://arxiv.org/abs/2007.04873v1)|2020-07-09 15:21:28+00:00|09-07-2020
+Erick Galinkin|[Green Lighting ML: Confidentiality, Integrity, and Availability of   Machine Learning Systems in Deployment](http://arxiv.org/abs/2007.04693v1)|2020-07-09 10:38:59+00:00|09-07-2020
+Tonya Custis|[PointMask: Towards Interpretable and Bias-Resilient Point Cloud   Processing](http://arxiv.org/abs/2007.04525v1)|2020-07-09 03:06:06+00:00|09-07-2020
+Min Wu|[Transparency Tools for Fairness in AI (Luskin)](http://arxiv.org/abs/2007.04484v1)|2020-07-09 00:21:54+00:00|09-07-2020
+William Isaac|[Decolonial AI: Decolonial Theory as Sociotechnical Foresight in   Artificial Intelligence](http://arxiv.org/abs/2007.04068v1)|2020-07-08 12:36:21+00:00|08-07-2020
+Masashi Sugiyama|[A One-step Approach to Covariate Shift Adaptation](http://arxiv.org/abs/2007.04043v1)|2020-07-08 11:35:47+00:00|08-07-2020
+Philip H. S. Torr|[How benign is benign overfitting?](http://arxiv.org/abs/2007.04028v1)|2020-07-08 11:07:10+00:00|08-07-2020
+Akira Matsui|[Unbiased Lift-based Bidding System](http://arxiv.org/abs/2007.04002v2)|2020-07-09 02:09:17+00:00|08-07-2020
+Michele Faucci Giannelli|[Supervised machine learning techniques for data matching based on   similarity metrics](http://arxiv.org/abs/2007.04001v1)|2020-07-08 10:04:35+00:00|08-07-2020
+Ryan Cotterell|[Best-First Beam Search](http://arxiv.org/abs/2007.03909v2)|2020-07-09 09:56:49+00:00|08-07-2020
+L. Baldini|[Deep Ensemble Analysis for Imaging X-ray Polarimetry](http://arxiv.org/abs/2007.03828v1)|2020-07-08 00:10:15+00:00|08-07-2020
+Hyeran Byun|[README: REpresentation learning by fairness-Aware Disentangling MEthod](http://arxiv.org/abs/2007.03775v1)|2020-07-07 20:16:49+00:00|07-07-2020
+David P. Woodruff|[Streaming Complexity of SVMs](http://arxiv.org/abs/2007.03633v1)|2020-07-07 17:10:00+00:00|07-07-2020
+Louis-Philippe Morency|[What Gives the Answer Away? Question Answering Bias Analysis on Video QA   Datasets](http://arxiv.org/abs/2007.03626v1)|2020-07-07 17:00:11+00:00|07-07-2020
+Ümit Özgüner|[A Vision-based Social Distancing and Critical Density Detection System   for COVID-19](http://arxiv.org/abs/2007.03578v2)|2020-07-08 22:53:16+00:00|07-07-2020
+Aleksei Shpilman|[Imitation Learning Approach for AI Driving Olympics Trained on   Real-world and Simulation Data Simultaneously](http://arxiv.org/abs/2007.03514v1)|2020-07-07 14:48:11+00:00|07-07-2020
+Masahiro Ikeda|[Gradient Descent Converges to Ridgelet Spectrum](http://arxiv.org/abs/2007.03441v1)|2020-07-07 13:47:57+00:00|07-07-2020
+Dale Schuurmans|[Off-Policy Evaluation via the Regularized Lagrangian](http://arxiv.org/abs/2007.03438v1)|2020-07-07 13:45:56+00:00|07-07-2020
+Shen Jianbing|[Re-thinking Co-Salient Object Detection](http://arxiv.org/abs/2007.03380v1)|2020-07-07 12:20:51+00:00|07-07-2020
+Michael I. Jordan|[Manifold Learning via Manifold Deflation](http://arxiv.org/abs/2007.03315v1)|2020-07-07 10:04:28+00:00|07-07-2020
+Yidong Ouyang|[Robust Learning with Frequency Domain Regularization](http://arxiv.org/abs/2007.03244v1)|2020-07-07 07:29:20+00:00|07-07-2020
+Loic Landrieu|[Metric-Guided Prototype Learning](http://arxiv.org/abs/2007.03047v1)|2020-07-06 20:22:08+00:00|06-07-2020
+Robert Long|[Fairness in machine learning: against false positive rate equality as a   measure of fairness](http://arxiv.org/abs/2007.02890v1)|2020-07-06 17:03:58+00:00|06-07-2020
+Tanja Zseby|[LFQ: Online Learning of Per-flow Queuing Policies using Deep   Reinforcement Learning](http://arxiv.org/abs/2007.02735v2)|2020-07-08 12:55:55+00:00|06-07-2020
+Ching-An Cheng|[Explaining Fast Improvement in Online Policy Optimization](http://arxiv.org/abs/2007.02520v2)|2020-07-08 01:51:50+00:00|06-07-2020
+Jakob Engel|[TLIO: Tight Learned Inertial Odometry](http://arxiv.org/abs/2007.01867v2)|2020-07-08 20:46:41+00:00|06-07-2020
+Toshihiko Yamasaki|[Image Aesthetics Prediction Using Multiple Patches Preserving the   Original Aspect Ratio of Contents](http://arxiv.org/abs/2007.02268v1)|2020-07-05 08:49:23+00:00|05-07-2020
+Masashi Sugiyama|[Unbiased Risk Estimators Can Mislead: A Case Study of Learning with   Complementary Labels](http://arxiv.org/abs/2007.02235v2)|2020-07-07 08:28:25+00:00|05-07-2020
+Anup Das|[A Case for Lifetime Reliability-Aware Neuromorphic Computing](http://arxiv.org/abs/2007.02210v1)|2020-07-04 23:53:13+00:00|04-07-2020
+Arman Maesumi|[Playing Chess with Limited Look Ahead](http://arxiv.org/abs/2007.02130v1)|2020-07-04 16:02:43+00:00|04-07-2020
+Markus Ettl|[Model Distillation for Revenue Optimization: Interpretable Personalized   Pricing](http://arxiv.org/abs/2007.01903v1)|2020-07-03 18:33:23+00:00|03-07-2020
+Rahil Garnavi|[Dueling Deep Q-Network for Unsupervised Inter-frame Eye Movement   Correction in Optical Coherence Tomography Volumes](http://arxiv.org/abs/2007.01522v1)|2020-07-03 07:14:30+00:00|03-07-2020
+Alain Pumir|[Improved Preterm Prediction Based on Optimized Synthetic Sampling of EHG   Signal](http://arxiv.org/abs/2007.01447v1)|2020-07-03 01:12:31+00:00|03-07-2020
+
 ## 03-07-2020
 
 main_author|title|update_date|publish_date

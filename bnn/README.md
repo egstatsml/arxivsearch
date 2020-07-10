@@ -1,5 +1,38 @@
 # bnn
 Click on title for link to paper
+## 10-07-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Jörg Krüger|[Uncertainty Quantification in Deep Residual Neural Networks](http://arxiv.org/abs/2007.04905v1)|2020-07-09 16:05:37+00:00|09-07-2020
+Randal Douc|[Online Approximate Bayesian learning](http://arxiv.org/abs/2007.04803v1)|2020-07-09 14:17:43+00:00|09-07-2020
+Ender Konukoglu|[Modelling the Distribution of 3D Brain MRI using a 2D Slice VAE](http://arxiv.org/abs/2007.04780v1)|2020-07-09 13:23:15+00:00|09-07-2020
+Xiangming Meng|[Training Restricted Boltzmann Machines with Binary Synapses using the   Bayesian Learning Rule](http://arxiv.org/abs/2007.04676v1)|2020-07-09 10:05:46+00:00|09-07-2020
+Benjamin M. Marlin|[URSABench: Comprehensive Benchmarking of Approximate Bayesian Inference   Methods for Deep Neural Networks](http://arxiv.org/abs/2007.04466v1)|2020-07-08 22:51:28+00:00|08-07-2020
+Jiun-Huei Proty Wu|[Detection of Gravitational Waves Using Bayesian Neural Networks](http://arxiv.org/abs/2007.04176v1)|2020-07-08 15:07:08+00:00|08-07-2020
+Maurice Schmeits|[Statistical post-processing of wind speed forecasts using convolutional   neural networks](http://arxiv.org/abs/2007.04005v1)|2020-07-08 10:18:07+00:00|08-07-2020
+Thomas Bäck|[IOHanalyzer: Performance Analysis for Iterative Optimization Heuristic](http://arxiv.org/abs/2007.03953v1)|2020-07-08 08:20:19+00:00|08-07-2020
+Yan Wang|[srMO-BO-3GP: A sequential regularized multi-objective constrained   Bayesian optimization for design applications](http://arxiv.org/abs/2007.03502v2)|2020-07-08 02:14:48+00:00|07-07-2020
+Daniel J. Graham|[Fast Bayesian Estimation of Spatial Count Data Models](http://arxiv.org/abs/2007.03681v1)|2020-07-07 10:24:45+00:00|07-07-2020
+Oliver Dürr|[Single Shot MC Dropout Approximation](http://arxiv.org/abs/2007.03293v1)|2020-07-07 09:17:17+00:00|07-07-2020
+Fahiem Bacchus|[Learning Branching Heuristics for Propositional Model Counting](http://arxiv.org/abs/2007.03204v1)|2020-07-07 05:20:29+00:00|07-07-2020
+Shandian Zhe|[Multi-Fidelity Bayesian Optimization via Deep Neural Networks](http://arxiv.org/abs/2007.03117v2)|2020-07-08 13:43:38+00:00|06-07-2020
+Yiming Yang|[Kernel Stein Generative Modeling](http://arxiv.org/abs/2007.03074v1)|2020-07-06 21:26:04+00:00|06-07-2020
+Cheng Zhang|[Meta-Learning for Variational Inference](http://arxiv.org/abs/2007.02912v1)|2020-07-06 17:43:01+00:00|06-07-2020
+Jiawei Han|[GCN for HIN via Implicit Utilization of Attention and Meta-paths](http://arxiv.org/abs/2007.02643v1)|2020-07-06 11:09:40+00:00|06-07-2020
+Alan Yuille|[Probabilistic Multi-modal Trajectory Prediction with Lane Attention for   Autonomous Vehicles](http://arxiv.org/abs/2007.02574v1)|2020-07-06 07:57:23+00:00|06-07-2020
+Barnabas Poczos|[Covariate Distribution Aware Meta-learning](http://arxiv.org/abs/2007.02523v2)|2020-07-08 19:22:10+00:00|06-07-2020
+Aurelio Uncini|[Pseudo-Rehearsal for Continual Learning with Normalizing Flows](http://arxiv.org/abs/2007.02443v1)|2020-07-05 20:43:52+00:00|05-07-2020
+Jian Tang|[Few-shot Relation Extraction via Bayesian Meta-learning on Relation   Graphs](http://arxiv.org/abs/2007.02387v1)|2020-07-05 17:04:41+00:00|05-07-2020
+Rolando Estrada|[Deep Active Learning via Open Set Recognition](http://arxiv.org/abs/2007.02196v2)|2020-07-08 20:56:01+00:00|04-07-2020
+Bani K. Mallick|[Continuous shrinkage prior revisited: a collapsing behavior and remedy](http://arxiv.org/abs/2007.02192v1)|2020-07-04 21:40:12+00:00|04-07-2020
+Ye Wang|[Deep Graph Random Process for Relational-Thinking-Based Speech   Recognition](http://arxiv.org/abs/2007.02126v2)|2020-07-08 09:03:55+00:00|04-07-2020
+Enrico Magli|[Speckle2Void: Deep Self-Supervised SAR Despeckling with Blind-Spot   Convolutional Neural Networks](http://arxiv.org/abs/2007.02075v1)|2020-07-04 11:38:48+00:00|04-07-2020
+Majid Jahani|[DynNet: Physics-based neural architecture design for linear and   nonlinear structural response modeling and prediction](http://arxiv.org/abs/2007.01814v1)|2020-07-03 17:05:35+00:00|03-07-2020
+Ronald Seoh|[Qualitative Analysis of Monte Carlo Dropout](http://arxiv.org/abs/2007.01720v1)|2020-07-03 14:40:56+00:00|03-07-2020
+Mark W. Woolrich|[Stochastic Variational Bayesian Inference for a Nonlinear Forward Model](http://arxiv.org/abs/2007.01675v1)|2020-07-03 13:30:50+00:00|03-07-2020
+Mark W. Woolrich|[The FMRIB Variational Bayesian Inference Tutorial II: Stochastic   Variational Bayes](http://arxiv.org/abs/2007.02725v2)|2020-07-09 10:30:42+00:00|03-07-2020
+
 ## 03-07-2020
 
 main_author|title|update_date|publish_date

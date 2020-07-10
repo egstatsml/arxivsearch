@@ -1,22 +1,13 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
-Stijn de Waele|[Accurate Characterization of Non-Uniformly Sampled Time Series using   Stochastic Differential Equations](http://arxiv.org/abs/2007.01073v1)|2020-07-02 13:03:09+00:00|02-07-2020
-Paul Rayson|[BOSH: Bayesian Optimization by Sampling Hierarchically](http://arxiv.org/abs/2007.00939v1)|2020-07-02 07:35:49+00:00|02-07-2020
-Aram Galstyan|[All in the Exponential Family: Bregman Duality in Thermodynamic   Variational Inference](http://arxiv.org/abs/2007.00642v1)|2020-07-01 17:46:49+00:00|01-07-2020
-Lingjiong Zhu|[Decentralized Stochastic Gradient Langevin Dynamics and Hamiltonian   Monte Carlo](http://arxiv.org/abs/2007.00590v2)|2020-07-02 16:19:37+00:00|01-07-2020
-Heinz Koeppl|[Augmenting Continuous-Time Bayesian Networks with Clocks](http://arxiv.org/abs/2007.00347v1)|2020-07-01 09:33:39+00:00|01-07-2020
-Veronika Rockova|[Variable Selection via Thompson Sampling](http://arxiv.org/abs/2007.00187v1)|2020-07-01 02:22:53+00:00|01-07-2020
-Michal Valko|[Sampling from a $k$-DPP without looking at all items](http://arxiv.org/abs/2006.16947v1)|2020-06-30 16:40:44+00:00|30-06-2020
-Daniel Cremers|[Deriving Neural Network Design and Learning from the Probabilistic   Framework of Chain Graphs](http://arxiv.org/abs/2006.16856v1)|2020-06-30 14:46:08+00:00|30-06-2020
-Lin Guang|[Bayesian Sparse learning with preconditioned stochastic gradient MCMC   and its applications](http://arxiv.org/abs/2006.16376v1)|2020-06-29 20:57:20+00:00|29-06-2020
-Luca Rossini|[Inference in Bayesian Additive Vector Autoregressive Tree Models](http://arxiv.org/abs/2006.16333v1)|2020-06-29 19:37:09+00:00|29-06-2020
-Frank Eliassen|[Distributed Deep Reinforcement Learning for Intelligent Load Scheduling   in Residential Smart Grids](http://arxiv.org/abs/2006.16100v1)|2020-06-29 15:01:51+00:00|29-06-2020
-Daniel Nicolas Wilke|[Gradient-only line searches to automatically determine learning rates   for a variety of stochastic training algorithms](http://arxiv.org/abs/2007.01054v1)|2020-06-29 08:59:31+00:00|29-06-2020
-Roman Garnett|[Efficient Nonmyopic Bayesian Optimization via One-Shot Multi-Step Trees](http://arxiv.org/abs/2006.15779v1)|2020-06-29 02:17:18+00:00|29-06-2020
-Suhang Wang|[Graph Convolutional Networks against Degree-Related Biases](http://arxiv.org/abs/2006.15643v1)|2020-06-28 16:26:47+00:00|28-06-2020
-Theodoros Damoulas|[Variational Autoencoding of PDE Inverse Problems](http://arxiv.org/abs/2006.15641v1)|2020-06-28 16:17:03+00:00|28-06-2020
-Joungyoul Park|[Localization Uncertainty Estimation for Anchor-Free Object Detection](http://arxiv.org/abs/2006.15607v1)|2020-06-28 13:49:30+00:00|28-06-2020
-Lars K. Rasmussen|[$α$ Belief Propagation for Approximate Inference](http://arxiv.org/abs/2006.15363v1)|2020-06-27 13:32:06+00:00|27-06-2020
-Ard A. Louis|[Is SGD a Bayesian sampler? Well, almost](http://arxiv.org/abs/2006.15191v1)|2020-06-26 19:45:36+00:00|26-06-2020
-Hugh Salimbeni|[Stochastic Differential Equations with Variational Wishart Diffusions](http://arxiv.org/abs/2006.14895v1)|2020-06-26 10:21:35+00:00|26-06-2020
-Ali Farhadi|[Supermasks in Superposition](http://arxiv.org/abs/2006.14769v2)|2020-06-30 16:57:02+00:00|26-06-2020
+Jörg Krüger|[Uncertainty Quantification in Deep Residual Neural Networks](http://arxiv.org/abs/2007.04905v1)|2020-07-09 16:05:37+00:00|09-07-2020
+Randal Douc|[Online Approximate Bayesian learning](http://arxiv.org/abs/2007.04803v1)|2020-07-09 14:17:43+00:00|09-07-2020
+Arno Solin|[Fast Variational Learning in State-Space Gaussian Process Models](http://arxiv.org/abs/2007.04731v1)|2020-07-09 12:06:34+00:00|09-07-2020
+Nabeel Seedat|[MCU-Net: A framework towards uncertainty representations for decision   support system patient referrals in healthcare contexts](http://arxiv.org/abs/2007.03995v1)|2020-07-08 09:54:56+00:00|08-07-2020
+Yu-Kun Lai|[Adaptive 3D Face Reconstruction from a Single Image](http://arxiv.org/abs/2007.03979v1)|2020-07-08 09:35:26+00:00|08-07-2020
+Yan Wang|[srMO-BO-3GP: A sequential regularized multi-objective constrained   Bayesian optimization for design applications](http://arxiv.org/abs/2007.03502v2)|2020-07-08 02:14:48+00:00|07-07-2020
+Yiming Yang|[Kernel Stein Generative Modeling](http://arxiv.org/abs/2007.03074v1)|2020-07-06 21:26:04+00:00|06-07-2020
+Jian Tang|[Few-shot Relation Extraction via Bayesian Meta-learning on Relation   Graphs](http://arxiv.org/abs/2007.02387v1)|2020-07-05 17:04:41+00:00|05-07-2020
+Rolando Estrada|[Deep Active Learning via Open Set Recognition](http://arxiv.org/abs/2007.02196v2)|2020-07-08 20:56:01+00:00|04-07-2020
+Mark W. Woolrich|[Stochastic Variational Bayesian Inference for a Nonlinear Forward Model](http://arxiv.org/abs/2007.01675v1)|2020-07-03 13:30:50+00:00|03-07-2020
+Mark W. Woolrich|[The FMRIB Variational Bayesian Inference Tutorial II: Stochastic   Variational Bayes](http://arxiv.org/abs/2007.02725v2)|2020-07-09 10:30:42+00:00|03-07-2020
