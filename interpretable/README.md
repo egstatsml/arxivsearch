@@ -1,5 +1,16 @@
 # interpretable
 Click on title for link to paper
+## 17-07-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Pradipta Biswas|[Decoding CNN based Object Classifier Using Visualization](http://arxiv.org/abs/2007.07482v1)|2020-07-15 05:01:27+00:00|15-07-2020
+Sercan O. Arik|[Explaining Deep Neural Networks using Unsupervised Clustering](http://arxiv.org/abs/2007.07477v2)|2020-07-16 00:50:15+00:00|15-07-2020
+Niklas Kühl|[An Uncertainty-based Human-in-the-loop System for Industrial Tool Wear   Analysis](http://arxiv.org/abs/2007.07129v2)|2020-07-16 09:46:42+00:00|14-07-2020
+Tim Rocktäschel|[Learning Reasoning Strategies in End-to-End Differentiable Proving](http://arxiv.org/abs/2007.06477v2)|2020-07-14 08:40:14+00:00|13-07-2020
+Katja Bühler|[Domain aware medical image classifier interpretation by counterfactual   impact analysis](http://arxiv.org/abs/2007.06312v1)|2020-07-13 11:11:17+00:00|13-07-2020
+Ganapathy Krishnamurthi|[Distangling Biological Noise in Cellular Images with a focus on   Explainability](http://arxiv.org/abs/2007.05743v1)|2020-07-11 11:04:16+00:00|11-07-2020
+
 ## 10-07-2020
 
 main_author|title|update_date|publish_date

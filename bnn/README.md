@@ -1,5 +1,39 @@
 # bnn
 Click on title for link to paper
+## 17-07-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Quanying Liu|[Detecting Out-of-distribution Samples via Variational Auto-encoder with   Reliable Uncertainty Estimation](http://arxiv.org/abs/2007.08128v1)|2020-07-16 06:02:18+00:00|16-07-2020
+Jian Tang|[GRADE: Graph Dynamic Embedding](http://arxiv.org/abs/2007.08060v1)|2020-07-16 01:17:24+00:00|16-07-2020
+Felix J. Herrmann|[Faster Uncertainty Quantification for Inverse Problems with Conditional   Normalizing Flows](http://arxiv.org/abs/2007.07985v1)|2020-07-15 20:36:30+00:00|15-07-2020
+Huiyu Zhou|[CANet: Context Aware Network for 3D Brain Tumor Segmentation](http://arxiv.org/abs/2007.07788v1)|2020-07-15 16:12:41+00:00|15-07-2020
+Ling Shao|[Learning to Learn with Variational Information Bottleneck for Domain   Generalization](http://arxiv.org/abs/2007.07645v1)|2020-07-15 12:05:52+00:00|15-07-2020
+Rudolph Triebel|[Learning Multiplicative Interactions with Bayesian Neural Networks for   Visual-Inertial Odometry](http://arxiv.org/abs/2007.07630v1)|2020-07-15 11:39:29+00:00|15-07-2020
+Shandian Zhe|[Streaming Probabilistic Deep Tensor Factorization](http://arxiv.org/abs/2007.07367v1)|2020-07-14 21:25:39+00:00|14-07-2020
+Tom Rainforth|[Towards a Theoretical Understanding of the Robustness of Variational   Autoencoders](http://arxiv.org/abs/2007.07365v1)|2020-07-14 21:22:29+00:00|14-07-2020
+Vikash Mansinghka|[Causal Inference using Gaussian Processes with Structured Latent   Confounders](http://arxiv.org/abs/2007.07127v1)|2020-07-14 15:45:28+00:00|14-07-2020
+Daniele Durante|[A Class of Conjugate Priors for Multinomial Probit Models which Includes   the Multivariate Normal One](http://arxiv.org/abs/2007.06944v1)|2020-07-14 10:08:23+00:00|14-07-2020
+Mohammed Bennamoun|[Hands-on Bayesian Neural Networks -- a Tutorial for Deep Learning Users](http://arxiv.org/abs/2007.06823v1)|2020-07-14 05:21:27+00:00|14-07-2020
+Shireen Elhabian|[Uncertain-DeepSSM: From Images to Probabilistic Shape Models](http://arxiv.org/abs/2007.06516v1)|2020-07-13 17:18:21+00:00|13-07-2020
+Umut Simsekli|[Quantitative Propagation of Chaos for SGD in Wide Neural Networks](http://arxiv.org/abs/2007.06352v2)|2020-07-14 06:19:18+00:00|13-07-2020
+Daniel L. Rubin|[Probabilistic bounds on data sensitivity in deep rectifier networks](http://arxiv.org/abs/2007.06192v1)|2020-07-13 05:15:04+00:00|13-07-2020
+Justin Solomon|[Model Fusion with Kullback--Leibler Divergence](http://arxiv.org/abs/2007.06168v1)|2020-07-13 03:27:45+00:00|13-07-2020
+Carla Gomes|[Disentangled Variational Autoencoder based Multi-Label Classification   with Covariance-Aware Multivariate Probit Model](http://arxiv.org/abs/2007.06126v1)|2020-07-12 23:08:07+00:00|12-07-2020
+Weiwei Pan|[BaCOUn: Bayesian Classifers with Out-of-Distribution Uncertainty](http://arxiv.org/abs/2007.06096v1)|2020-07-12 20:52:55+00:00|12-07-2020
+Hatem Hajri|[Probabilistic Jacobian-based Saliency Maps Attacks](http://arxiv.org/abs/2007.06032v1)|2020-07-12 16:32:26+00:00|12-07-2020
+Arno Solin|[State Space Expectation Propagation: Efficient Inference Schemes for   Temporal Gaussian Processes](http://arxiv.org/abs/2007.05994v1)|2020-07-12 13:59:25+00:00|12-07-2020
+Yee Whye Teh|[Bayesian Deep Ensembles via the Neural Tangent Kernel](http://arxiv.org/abs/2007.05864v1)|2020-07-11 22:10:52+00:00|11-07-2020
+Zhihua Zhang|[An Asymptotically Optimal Multi-Armed Bandit Algorithm and   Hyperparameter Optimization](http://arxiv.org/abs/2007.05670v1)|2020-07-11 03:15:21+00:00|11-07-2020
+Asja Fischer|[Characteristics of Monte Carlo Dropout in Wide Neural Networks](http://arxiv.org/abs/2007.05434v1)|2020-07-10 15:14:43+00:00|10-07-2020
+Lukas Herrmann|[Deep neural network approximation for high-dimensional elliptic PDEs   with boundary conditions](http://arxiv.org/abs/2007.05384v1)|2020-07-10 13:40:27+00:00|10-07-2020
+Florian Buettner|[TIMELY: Improving Labeling Consistency in Medical Imaging for Cell Type   Classification](http://arxiv.org/abs/2007.05307v1)|2020-07-10 11:13:13+00:00|10-07-2020
+Marko Robnik-Sikonja|[To BAN or not to BAN: Bayesian Attention Networks for Reliable Hate   Speech Detection](http://arxiv.org/abs/2007.05304v3)|2020-07-16 10:19:23+00:00|10-07-2020
+Christian Wolf|[Learning to plan with uncertain topological maps](http://arxiv.org/abs/2007.05270v1)|2020-07-10 09:28:30+00:00|10-07-2020
+Viktor K. Prasanna|[Fast and Accurate Forecasting of COVID-19 Deaths Using the SIkJ$α$   Model](http://arxiv.org/abs/2007.05180v2)|2020-07-13 03:34:48+00:00|10-07-2020
+Artur Dubrawski|[Self-Reflective Variational Autoencoder](http://arxiv.org/abs/2007.05166v1)|2020-07-10 05:05:26+00:00|10-07-2020
+Balaji Lakshminarayanan|[Revisiting One-vs-All Classifiers for Predictive Uncertainty and   Out-of-Distribution Detection in Neural Networks](http://arxiv.org/abs/2007.05134v1)|2020-07-10 01:55:02+00:00|10-07-2020
+
 ## 10-07-2020
 
 main_author|title|update_date|publish_date

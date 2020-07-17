@@ -1,5 +1,21 @@
 # mcmc
 Click on title for link to paper
+## 17-07-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Negin Golrezaei|[Optimal Learning for Structured Bandits](http://arxiv.org/abs/2007.07302v1)|2020-07-14 18:56:44+00:00|14-07-2020
+Apoorv Jain|[Towards Credit-Fraud Detection via Sparsely Varying Gaussian   Approximations](http://arxiv.org/abs/2007.07181v1)|2020-07-14 16:56:06+00:00|14-07-2020
+Ian Molloy|[Adversarial Examples and Metrics](http://arxiv.org/abs/2007.06993v2)|2020-07-15 11:50:21+00:00|14-07-2020
+Anindya Banerjee|[Verification of ML Systems via Reparameterization](http://arxiv.org/abs/2007.06776v1)|2020-07-14 02:19:25+00:00|14-07-2020
+Shireen Elhabian|[Uncertain-DeepSSM: From Images to Probabilistic Shape Models](http://arxiv.org/abs/2007.06516v1)|2020-07-13 17:18:21+00:00|13-07-2020
+Tommy Sonne Alstrøm|[On uncertainty estimation in active learning for image segmentation](http://arxiv.org/abs/2007.06364v1)|2020-07-13 13:20:32+00:00|13-07-2020
+Umut Simsekli|[Quantitative Propagation of Chaos for SGD in Wide Neural Networks](http://arxiv.org/abs/2007.06352v2)|2020-07-14 06:19:18+00:00|13-07-2020
+Byung-Jun Yoon|[Optimal Experimental Design for Uncertain Systems Based on Coupled   Differential Equations](http://arxiv.org/abs/2007.06117v1)|2020-07-12 22:36:15+00:00|12-07-2020
+H. R. Tizhoosh|[Batch-Incremental Triplet Sampling for Training Triplet Networks Using   Bayesian Updating Theorem](http://arxiv.org/abs/2007.05610v1)|2020-07-10 21:07:51+00:00|10-07-2020
+Christian Wolf|[Learning to plan with uncertain topological maps](http://arxiv.org/abs/2007.05270v1)|2020-07-10 09:28:30+00:00|10-07-2020
+Artur Dubrawski|[Self-Reflective Variational Autoencoder](http://arxiv.org/abs/2007.05166v1)|2020-07-10 05:05:26+00:00|10-07-2020
+
 ## 10-07-2020
 
 main_author|title|update_date|publish_date

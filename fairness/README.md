@@ -1,5 +1,49 @@
 # fairness
 Click on title for link to paper
+## 17-07-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Yisong Yue|[Active Learning under Label Shift](http://arxiv.org/abs/2007.08479v1)|2020-07-16 17:30:02+00:00|16-07-2020
+Michael I. Jordan|[Transferable Calibration with Lower Bias and Variance in Domain   Adaptation](http://arxiv.org/abs/2007.08259v1)|2020-07-16 11:09:36+00:00|16-07-2020
+Chun-Yi Lee|[Mixture of Step Returns in Bootstrapped DQN](http://arxiv.org/abs/2007.08229v1)|2020-07-16 10:00:16+00:00|16-07-2020
+Clinton Fookes|[Memory Based Attentive Fusion](http://arxiv.org/abs/2007.08076v1)|2020-07-16 02:05:54+00:00|16-07-2020
+Leandro dos Santos Coelho|[Short-term forecasting of Amazon rainforest fires based on ensemble   decomposition model](http://arxiv.org/abs/2007.07979v1)|2020-07-15 20:21:22+00:00|15-07-2020
+Benjamin J. Raphael|[Quantifying and Reducing Bias in Maximum Likelihood Estimation of   Structured Anomalies](http://arxiv.org/abs/2007.07878v1)|2020-07-15 17:54:27+00:00|15-07-2020
+Vijay Keswani|[Dialect Diversity in Text Summarization on Twitter](http://arxiv.org/abs/2007.07860v1)|2020-07-15 17:24:41+00:00|15-07-2020
+Amit Bermano|[Focus-and-Expand: Training Guidance Through Gradual Manipulation of   Input Features](http://arxiv.org/abs/2007.07723v1)|2020-07-15 14:49:56+00:00|15-07-2020
+Eugeny Burnaev|[Are Hyperbolic Representations in Graphs Created Equal?](http://arxiv.org/abs/2007.07698v1)|2020-07-15 14:14:14+00:00|15-07-2020
+Pawan Goyal|[Logic Constrained Pointer Networks for Interpretable Textual Similarity](http://arxiv.org/abs/2007.07670v1)|2020-07-15 13:01:44+00:00|15-07-2020
+Rudolph Triebel|[Learning Multiplicative Interactions with Bayesian Neural Networks for   Visual-Inertial Odometry](http://arxiv.org/abs/2007.07630v1)|2020-07-15 11:39:29+00:00|15-07-2020
+H. Vincent Poor|[Tackling the Objective Inconsistency Problem in Heterogeneous Federated   Optimization](http://arxiv.org/abs/2007.07481v1)|2020-07-15 05:01:23+00:00|15-07-2020
+Kenji Yamanishi|[Mixture Complexity and Its Application to Gradual Clustering Change   Detection](http://arxiv.org/abs/2007.07467v1)|2020-07-15 03:49:38+00:00|15-07-2020
+Leonidas Tsepenekas|[A Pairwise Fair and Community-preserving Approach to k-Center Clustering](http://arxiv.org/abs/2007.07384v1)|2020-07-14 22:32:27+00:00|14-07-2020
+Xianghua Xie|[Privacy Preserving Text Recognition with Gradient-Boosting for Federated   Learning](http://arxiv.org/abs/2007.07296v1)|2020-07-14 18:47:23+00:00|14-07-2020
+Soumik Sarkar|[Robustifying Reinforcement Learning Agents via Action Space Adversarial   Training](http://arxiv.org/abs/2007.07176v1)|2020-07-14 16:50:02+00:00|14-07-2020
+Vikash Mansinghka|[Causal Inference using Gaussian Processes with Structured Latent   Confounders](http://arxiv.org/abs/2007.07127v1)|2020-07-14 15:45:28+00:00|14-07-2020
+Ivan Oseledets|[Follow the bisector: a simple method for multi-objective optimization](http://arxiv.org/abs/2007.06937v1)|2020-07-14 09:50:33+00:00|14-07-2020
+Iddo Drori|[Vehicle Trajectory Prediction by Transfer Learning of Semi-Supervised   Models](http://arxiv.org/abs/2007.06781v1)|2020-07-14 02:42:48+00:00|14-07-2020
+Anindya Banerjee|[Verification of ML Systems via Reparameterization](http://arxiv.org/abs/2007.06776v1)|2020-07-14 02:19:25+00:00|14-07-2020
+Daniel Soudry|[Implicit Bias in Deep Linear Classification: Initialization Scale vs   Training Accuracy](http://arxiv.org/abs/2007.06738v1)|2020-07-13 23:49:53+00:00|13-07-2020
+Luc Van Gool|[T-Basis: a Compact Representation for Neural Networks](http://arxiv.org/abs/2007.06631v1)|2020-07-13 19:03:22+00:00|13-07-2020
+Bernhard Schölkopf|[S2RMs: Spatially Structured Recurrent Modules](http://arxiv.org/abs/2007.06533v1)|2020-07-13 17:44:30+00:00|13-07-2020
+Pietro Perona|[Towards causal benchmarking of bias in face analysis algorithms](http://arxiv.org/abs/2007.06570v1)|2020-07-13 17:10:34+00:00|13-07-2020
+Lars Kai Hansen|[A simple defense against adversarial attacks on heatmap explanations](http://arxiv.org/abs/2007.06381v1)|2020-07-13 13:44:13+00:00|13-07-2020
+Angel Yanguas-Gil|[Coarse scale representation of spiking neural networks: backpropagation   through spikes and application to neuromorphic hardware](http://arxiv.org/abs/2007.06176v1)|2020-07-13 04:02:35+00:00|13-07-2020
+Panagiotis Michalatos|[Gender Classification and Bias Mitigation in Facial Images](http://arxiv.org/abs/2007.06141v1)|2020-07-13 01:09:06+00:00|13-07-2020
+Daniel Hsu|[Ensuring Fairness Beyond the Training Data](http://arxiv.org/abs/2007.06029v1)|2020-07-12 16:20:28+00:00|12-07-2020
+Kailash Karthik S|[The Impossibility Theorem of Machine Fairness -- A Causal Perspective](http://arxiv.org/abs/2007.06024v1)|2020-07-12 15:56:15+00:00|12-07-2020
+Lei Li|[Improving Maximum Likelihood Training for Text Generation with Density   Ratio Estimation](http://arxiv.org/abs/2007.06018v1)|2020-07-12 15:31:24+00:00|12-07-2020
+Hien Nguyen|[Explaining the data or explaining a model? Shapley values that uncover   non-linear dependencies](http://arxiv.org/abs/2007.06011v2)|2020-07-16 08:31:29+00:00|12-07-2020
+Douglas A. Reynolds|[Tandem Assessment of Spoofing Countermeasures and Automatic Speaker   Verification: Fundamentals](http://arxiv.org/abs/2007.05979v1)|2020-07-12 12:44:08+00:00|12-07-2020
+Sanming Zhou|[A Graph Symmetrisation Bound on Channel Information Leakage under   Blowfish Privacy](http://arxiv.org/abs/2007.05975v1)|2020-07-12 12:38:32+00:00|12-07-2020
+Michael W. Mahoney|[Adversarially-Trained Deep Nets Transfer Better](http://arxiv.org/abs/2007.05869v1)|2020-07-11 22:48:42+00:00|11-07-2020
+Massimiliano Pontil|[Online Parameter-Free Learning of Multiple Low Variance Tasks](http://arxiv.org/abs/2007.05732v1)|2020-07-11 09:52:53+00:00|11-07-2020
+Cora Dvorkin|[Flow-Based Likelihoods for Non-Gaussian Inference](http://arxiv.org/abs/2007.05535v1)|2020-07-10 18:00:00+00:00|10-07-2020
+Iosif Mporas|[Evaluation of Big Data based CNN Models in Classification of Skin   Lesions with Melanoma](http://arxiv.org/abs/2007.05446v1)|2020-07-10 15:39:32+00:00|10-07-2020
+Hansol Lee|[Algorithmic Fairness in Education](http://arxiv.org/abs/2007.05443v1)|2020-07-10 15:35:10+00:00|10-07-2020
+Christian Wolf|[Learning to plan with uncertain topological maps](http://arxiv.org/abs/2007.05270v1)|2020-07-10 09:28:30+00:00|10-07-2020
+
 ## 10-07-2020
 
 main_author|title|update_date|publish_date
