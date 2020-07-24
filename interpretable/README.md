@@ -1,5 +1,15 @@
 # interpretable
 Click on title for link to paper
+## 24-07-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Michael Färber|[Right for the Right Reason: Making Image Classification Robust](http://arxiv.org/abs/2007.11924v1)|2020-07-23 10:55:11+00:00|23-07-2020
+Wei He|[Illumination invariant hyperspectral image unmixing based on a digital   surface model](http://arxiv.org/abs/2007.11770v1)|2020-07-23 03:27:02+00:00|23-07-2020
+Ashutosh Modi|[CS-NET at SemEval-2020 Task 4: Siamese BERT for ComVE](http://arxiv.org/abs/2007.10830v1)|2020-07-21 14:08:02+00:00|21-07-2020
+Zheng-Jun Zha|[Learning to Discretely Compose Reasoning Module Networks for Video   Captioning](http://arxiv.org/abs/2007.09049v1)|2020-07-17 15:27:37+00:00|17-07-2020
+Aad van Moorsel|[Technologies for Trustworthy Machine Learning: A Survey in a   Socio-Technical Context](http://arxiv.org/abs/2007.08911v1)|2020-07-17 11:39:20+00:00|17-07-2020
+
 ## 17-07-2020
 
 main_author|title|update_date|publish_date

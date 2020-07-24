@@ -1,5 +1,18 @@
 # mcmc
 Click on title for link to paper
+## 24-07-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Enrique Romero|[Efficient Evaluation of the Partition Function of RBMs with Annealed   Importance Sampling](http://arxiv.org/abs/2007.11926v1)|2020-07-23 10:59:04+00:00|23-07-2020
+Tinne Tuytelaars|[Attend and Segment: Attention Guided Active Semantic Segmentation](http://arxiv.org/abs/2007.11548v1)|2020-07-22 17:09:13+00:00|22-07-2020
+Ryan P. Adams|[Randomized Automatic Differentiation](http://arxiv.org/abs/2007.10412v1)|2020-07-20 19:03:44+00:00|20-07-2020
+Nuno Vasconcelos|[Solving Long-tailed Recognition with Deep Realistic Taxonomic Classifier](http://arxiv.org/abs/2007.09898v1)|2020-07-20 05:57:42+00:00|20-07-2020
+Jakob H. Macke|[SBI -- A toolkit for simulation-based inference](http://arxiv.org/abs/2007.09114v2)|2020-07-22 15:43:36+00:00|17-07-2020
+Yefeng Zheng|[Superpixel-Guided Label Softening for Medical Image Segmentation](http://arxiv.org/abs/2007.08897v1)|2020-07-17 10:55:59+00:00|17-07-2020
+Xianfeng Terry Yang|[Modeling Stochastic Microscopic Traffic Behaviors: a Physics Regularized   Gaussian Process Approach](http://arxiv.org/abs/2007.10109v1)|2020-07-17 06:03:32+00:00|17-07-2020
+David B. Dunson|[Extended Stochastic Block Models](http://arxiv.org/abs/2007.08569v1)|2020-07-16 19:06:16+00:00|16-07-2020
+
 ## 17-07-2020
 
 main_author|title|update_date|publish_date

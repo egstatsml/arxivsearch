@@ -1,5 +1,34 @@
 # fairness
 Click on title for link to paper
+## 24-07-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Floris Geerts|[The expressive power of kth-order invariant graph networks](http://arxiv.org/abs/2007.12035v1)|2020-07-23 14:30:51+00:00|23-07-2020
+Yan Chen|[Deep Learning Based Equalizer for MIMO-OFDM Systems with Insufficient   Cyclic Prefix](http://arxiv.org/abs/2007.11757v1)|2020-07-23 02:21:24+00:00|23-07-2020
+Jun Sun|[SOCRATES: Towards a Unified Platform for Neural Network Verification](http://arxiv.org/abs/2007.11206v1)|2020-07-22 05:18:57+00:00|22-07-2020
+David H. Wolpert|[What is important about the No Free Lunch theorems?](http://arxiv.org/abs/2007.10928v1)|2020-07-21 16:42:36+00:00|21-07-2020
+Alexander Binder|[Lymphocyte counting -- Error Analysis of Regression versus Bounding Box   Detection Approaches](http://arxiv.org/abs/2007.10817v1)|2020-07-21 14:05:09+00:00|21-07-2020
+Goutam Saha|[Optimization of data-driven filterbank for automatic speaker   verification](http://arxiv.org/abs/2007.10729v1)|2020-07-21 11:42:20+00:00|21-07-2020
+H. Vincent Poor|[Learning Centric Power Allocation for Edge Intelligence](http://arxiv.org/abs/2007.11399v1)|2020-07-21 07:02:07+00:00|21-07-2020
+katsuhiko Ishiguro|[Learning Structured Latent Factors from Dependent Data:A Generative   Model Framework from Information-Theoretic Perspective](http://arxiv.org/abs/2007.10623v1)|2020-07-21 06:59:29+00:00|21-07-2020
+Baoyu Zhou|[Sequential Quadratic Optimization for Nonlinear Equality Constrained   Stochastic Optimization](http://arxiv.org/abs/2007.10525v1)|2020-07-20 23:04:26+00:00|20-07-2020
+Nigam H. Shah|[An Empirical Characterization of Fair Machine Learning For Clinical Risk   Prediction](http://arxiv.org/abs/2007.10306v1)|2020-07-20 17:46:31+00:00|20-07-2020
+Kirill Simonov|[On Coresets for Fair Clustering in Metric and Euclidean Spaces and Their   Applications](http://arxiv.org/abs/2007.10137v1)|2020-07-20 14:15:23+00:00|20-07-2020
+Fatih Furkan Yilmaz|[Early Stopping in Deep Networks: Double Descent and How to Eliminate it](http://arxiv.org/abs/2007.10099v1)|2020-07-20 13:43:33+00:00|20-07-2020
+Pan Kessel|[Fairwashing Explanations with Off-Manifold Detergent](http://arxiv.org/abs/2007.09969v1)|2020-07-20 09:42:06+00:00|20-07-2020
+Yilin Wang|[Incorporating Reinforced Adversarial Learning in Autoregressive Image   Generation](http://arxiv.org/abs/2007.09923v1)|2020-07-20 08:10:07+00:00|20-07-2020
+M. Narasimha Murty|[Robust Hierarchical Graph Classification with Subgraph Attention](http://arxiv.org/abs/2007.10908v1)|2020-07-19 10:03:06+00:00|19-07-2020
+Marlin W. Ulmer|[Same-Day Delivery with Fairness](http://arxiv.org/abs/2007.09541v1)|2020-07-19 00:25:09+00:00|19-07-2020
+Jose Blanchet|[A Distributionally Robust Approach to Fair Classification](http://arxiv.org/abs/2007.09530v1)|2020-07-18 22:34:48+00:00|18-07-2020
+Xingjun Ma|[How to Democratise and Protect AI: Fair and Differentially Private   Decentralised Deep Learning](http://arxiv.org/abs/2007.09370v1)|2020-07-18 09:06:10+00:00|18-07-2020
+Abraham Martin del Campo|[Combinatorial and computational investigations of Neighbor-Joining bias](http://arxiv.org/abs/2007.09345v1)|2020-07-18 06:48:45+00:00|18-07-2020
+Wenyu Liu|[Deep multi-metric learning for text-independent speaker verification](http://arxiv.org/abs/2007.10479v1)|2020-07-17 13:19:44+00:00|17-07-2020
+Aad van Moorsel|[Technologies for Trustworthy Machine Learning: A Survey in a   Socio-Technical Context](http://arxiv.org/abs/2007.08911v1)|2020-07-17 11:39:20+00:00|17-07-2020
+Shu-Tao Xia|[Backdoor Learning: A Survey](http://arxiv.org/abs/2007.08745v1)|2020-07-17 04:09:20+00:00|17-07-2020
+Yizhou Wang|[Leveraging both Lesion Features and Procedural Bias in Neuroimaging: An   Dual-Task Split dynamics of inverse scale space](http://arxiv.org/abs/2007.08740v1)|2020-07-17 03:41:48+00:00|17-07-2020
+Tie-Yan Liu|[Learning to Match Distributions for Domain Adaptation](http://arxiv.org/abs/2007.10791v2)|2020-07-23 11:05:56+00:00|17-07-2020
+
 ## 17-07-2020
 
 main_author|title|update_date|publish_date

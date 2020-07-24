@@ -1,5 +1,32 @@
 # bnn
 Click on title for link to paper
+## 24-07-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Osvaldo Simeone|[Multi-Compartment Variational Online Learning for Spiking Neural   Networks](http://arxiv.org/abs/2007.11894v1)|2020-07-23 10:03:58+00:00|23-07-2020
+Vikash K. Mansinghka|[PClean: Bayesian Data Cleaning at Scale with Domain-Specific   Probabilistic Programming](http://arxiv.org/abs/2007.11838v1)|2020-07-23 08:01:47+00:00|23-07-2020
+Leandro dos Santos Coelho|[Forecasting Brazilian and American COVID-19 cases based on artificial   intelligence coupled with climatic exogenous variables](http://arxiv.org/abs/2007.10981v1)|2020-07-21 17:58:11+00:00|21-07-2020
+Alexander Immer|[Disentangling the Gauss-Newton Method and Approximate Inference for   Neural Networks](http://arxiv.org/abs/2007.11994v1)|2020-07-21 17:42:58+00:00|21-07-2020
+Servane Gey|[MAGMA: Inference and Prediction with Multi-Task Gaussian Processes](http://arxiv.org/abs/2007.10731v1)|2020-07-21 11:43:54+00:00|21-07-2020
+Andre Rosendo|[Deep vs. Deep Bayesian: Reinforcement Learning on a Multi-Robot   Competitive Experiment](http://arxiv.org/abs/2007.10675v1)|2020-07-21 09:28:18+00:00|21-07-2020
+Lorin Crawford|[Generalizing Variational Autoencoders with Hierarchical Empirical Bayes](http://arxiv.org/abs/2007.10389v1)|2020-07-20 18:18:39+00:00|20-07-2020
+Davide Scaramuzza|[Learning High-Level Policies for Model Predictive Control](http://arxiv.org/abs/2007.10284v1)|2020-07-20 17:12:34+00:00|20-07-2020
+Robert Leech|[Bayesian optimization for automatic design of face stimuli](http://arxiv.org/abs/2007.09989v1)|2020-07-20 10:27:18+00:00|20-07-2020
+Bangti Jin|[Quantifying Model Uncertainty in Inverse Problems via Bayesian Deep   Gradient Descent](http://arxiv.org/abs/2007.09971v1)|2020-07-20 09:43:31+00:00|20-07-2020
+Michael Zhu|[Multi-level Training and Bayesian Optimization for Economical   Hyperparameter Optimization](http://arxiv.org/abs/2007.09953v1)|2020-07-20 09:03:02+00:00|20-07-2020
+Guttorm Alendal|[Semi Conditional Variational Auto-Encoder for Flow Reconstruction and   Uncertainty Quantification from Limited Observations](http://arxiv.org/abs/2007.09644v1)|2020-07-19 10:15:56+00:00|19-07-2020
+T. Yong-Jin Han|[Probabilistic Neighbourhood Component Analysis: Sample Efficient   Uncertainty Estimation in Deep Learning](http://arxiv.org/abs/2007.10800v1)|2020-07-18 21:36:31+00:00|18-07-2020
+Fiona Ginty|[Automated Phenotyping via Cell Auto Training (CAT) on the Cell DIVE   Platform](http://arxiv.org/abs/2007.09471v1)|2020-07-18 16:45:32+00:00|18-07-2020
+Zhenguo Li|[CATCH: Context-based Meta Reinforcement Learning for Transferrable   Architecture Search](http://arxiv.org/abs/2007.09380v3)|2020-07-22 05:39:31+00:00|18-07-2020
+Guy Van den Broeck|[Strudel: Learning Structured-Decomposable Probabilistic Circuits](http://arxiv.org/abs/2007.09331v1)|2020-07-18 04:51:31+00:00|18-07-2020
+Genevieve Quintin|[Semi-Supervised Learning Approach to Discover Enterprise User Insights   from Feedback and Support](http://arxiv.org/abs/2007.09303v3)|2020-07-22 00:20:23+00:00|18-07-2020
+Anima Anandkumar|[Neural Networks with Recurrent Generative Feedback](http://arxiv.org/abs/2007.09200v1)|2020-07-17 19:32:48+00:00|17-07-2020
+Niteesh Sahni|[Network Learning Approaches to study World Happiness](http://arxiv.org/abs/2007.09181v1)|2020-07-17 18:29:49+00:00|17-07-2020
+Maren Mahsereci|[A Fourier State Space Model for Bayesian ODE Filters](http://arxiv.org/abs/2007.09118v2)|2020-07-22 12:04:02+00:00|17-07-2020
+Jakob H. Macke|[SBI -- A toolkit for simulation-based inference](http://arxiv.org/abs/2007.09114v2)|2020-07-22 15:43:36+00:00|17-07-2020
+Xianfeng Terry Yang|[Modeling Stochastic Microscopic Traffic Behaviors: a Physics Regularized   Gaussian Process Approach](http://arxiv.org/abs/2007.10109v1)|2020-07-17 06:03:32+00:00|17-07-2020
+
 ## 17-07-2020
 
 main_author|title|update_date|publish_date
