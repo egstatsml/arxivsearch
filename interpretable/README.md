@@ -1,5 +1,14 @@
 # interpretable
 Click on title for link to paper
+## 31-07-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Lior Rokach|[Evolving Context-Aware Recommender Systems With Users in Mind](http://arxiv.org/abs/2007.15409v1)|2020-07-30 12:03:22+00:00|30-07-2020
+Mahboobeh Parsapoor|[A Brain Emotional Learning-inspired Model For the Prediction of   Geomagnetic Storms](http://arxiv.org/abs/2007.15579v1)|2020-07-28 20:28:18+00:00|28-07-2020
+Alizé Papp|[Interpretabilité des modèles : état des lieux des méthodes et   application à l'assurance](http://arxiv.org/abs/2007.12919v1)|2020-07-25 12:18:07+00:00|25-07-2020
+Mohammad Shakhawat Hossain|[Study of Different Deep Learning Approach with Explainable AI for   Screening Patients with COVID-19 Symptoms: Using CT Scan and Chest X-ray   Image Dataset](http://arxiv.org/abs/2007.12525v1)|2020-07-24 13:51:58+00:00|24-07-2020
+
 ## 24-07-2020
 
 main_author|title|update_date|publish_date

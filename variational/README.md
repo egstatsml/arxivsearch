@@ -1,5 +1,16 @@
 # variational
 Click on title for link to paper
+## 31-07-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Karl K. Berggren|[A superconducting nanowire spiking element for neural networks](http://arxiv.org/abs/2007.15101v1)|2020-07-29 20:48:36+00:00|29-07-2020
+Justin Domke|[Approximation Based Variance Reduction for Reparameterization Gradients](http://arxiv.org/abs/2007.14634v1)|2020-07-29 06:55:11+00:00|29-07-2020
+Dongxiao Zhang|[Deep-Learning based Inverse Modeling Approaches: A Subsurface Flow   Example](http://arxiv.org/abs/2007.15580v1)|2020-07-28 15:31:07+00:00|28-07-2020
+Emmanuel Vazquez|[Sequential design of multi-fidelity computer experiments: maximizing the   rate of stepwise uncertainty reduction](http://arxiv.org/abs/2007.13553v1)|2020-07-27 13:34:12+00:00|27-07-2020
+Sandra Hirche|[Anticipating the Long-Term Effect of Online Learning in Control](http://arxiv.org/abs/2007.12377v1)|2020-07-24 07:00:14+00:00|24-07-2020
+Haiqin Lu|[Impact of Medical Data Imprecision on Learning Results](http://arxiv.org/abs/2007.12375v1)|2020-07-24 06:54:57+00:00|24-07-2020
+
 ## 24-07-2020
 
 main_author|title|update_date|publish_date

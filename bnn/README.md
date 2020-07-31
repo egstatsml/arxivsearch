@@ -1,5 +1,24 @@
 # bnn
 Click on title for link to paper
+## 31-07-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Karl K. Berggren|[A superconducting nanowire spiking element for neural networks](http://arxiv.org/abs/2007.15101v1)|2020-07-29 20:48:36+00:00|29-07-2020
+Roland R. Ramsahai|[Connecting actuarial judgment to probabilistic learning techniques with   graph theory](http://arxiv.org/abs/2007.15475v1)|2020-07-29 13:24:40+00:00|29-07-2020
+Daniel L. Gillen|[Quantity vs. Quality: On Hyperparameter Optimization for Deep   Reinforcement Learning](http://arxiv.org/abs/2007.14604v2)|2020-07-30 06:16:00+00:00|29-07-2020
+Daoyi Dong|[Lifelong Incremental Reinforcement Learning with Online Bayesian   Inference](http://arxiv.org/abs/2007.14196v1)|2020-07-28 13:23:41+00:00|28-07-2020
+Christian Riess|[Toward Reliable Models for Authenticating Multimedia Content: Detecting   Resampling Artifacts With Bayesian Neural Networks](http://arxiv.org/abs/2007.14132v1)|2020-07-28 11:23:40+00:00|28-07-2020
+Yasuhiro Oikawa|[Self-supervised Neural Audio-Visual Sound Source Localization via   Probabilistic Spatial Modeling](http://arxiv.org/abs/2007.13976v1)|2020-07-28 03:52:53+00:00|28-07-2020
+John M. Pearson|[Online Neural Connectivity Estimation with Noisy Group Testing](http://arxiv.org/abs/2007.13911v1)|2020-07-27 23:47:03+00:00|27-07-2020
+Roger Ghanem|[Normal-bundle Bootstrap](http://arxiv.org/abs/2007.13869v1)|2020-07-27 21:14:19+00:00|27-07-2020
+Yarin Gal|[On the robustness of effectiveness estimation of nonpharmaceutical   interventions against COVID-19 transmission](http://arxiv.org/abs/2007.13454v1)|2020-07-27 11:49:54+00:00|27-07-2020
+Ayaka Sakata|[Active pooling design in group testing based on Bayesian posterior   prediction](http://arxiv.org/abs/2007.13323v1)|2020-07-27 06:50:24+00:00|27-07-2020
+Csaba Szepesvári|[Tighter risk certificates for neural networks](http://arxiv.org/abs/2007.12911v1)|2020-07-25 11:02:16+00:00|25-07-2020
+Antonio Artés-Rodríguez|[Multinomial Sampling for Hierarchical Change-Point Detection](http://arxiv.org/abs/2007.12420v1)|2020-07-24 09:18:17+00:00|24-07-2020
+Sandra Hirche|[Anticipating the Long-Term Effect of Online Learning in Control](http://arxiv.org/abs/2007.12377v1)|2020-07-24 07:00:14+00:00|24-07-2020
+Marek Petrik|[Bayesian Robust Optimization for Imitation Learning](http://arxiv.org/abs/2007.12315v1)|2020-07-24 01:52:11+00:00|24-07-2020
+
 ## 24-07-2020
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,45 @@
 # fairness
 Click on title for link to paper
+## 31-07-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Michael Tiemann|[When are Neural ODE Solutions Proper ODEs?](http://arxiv.org/abs/2007.15386v1)|2020-07-30 11:24:05+00:00|30-07-2020
+Patrick Thiran|[Generalization Comparison of Deep Neural Networks via Output Sensitivity](http://arxiv.org/abs/2007.15378v1)|2020-07-30 11:08:42+00:00|30-07-2020
+Sebastian Vollmer|[A Recommendation and Risk Classification System for Connecting Rough   Sleepers to Essential Outreach Services](http://arxiv.org/abs/2007.15326v1)|2020-07-30 09:14:46+00:00|30-07-2020
+Tomi Kinnunen|[A Comparative Re-Assessment of Feature Extractors for Deep Speaker   Embeddings](http://arxiv.org/abs/2007.15283v1)|2020-07-30 07:55:58+00:00|30-07-2020
+Krishnaram Kenthapadi|[Fairness-Aware Online Personalization](http://arxiv.org/abs/2007.15270v1)|2020-07-30 07:16:17+00:00|30-07-2020
+Xian-Sheng Hua|[Stable Learning via Causality-based Feature Rectification](http://arxiv.org/abs/2007.15241v1)|2020-07-30 05:48:48+00:00|30-07-2020
+Huamin Qu|[Visual Analysis of Discrimination in Machine Learning](http://arxiv.org/abs/2007.15182v1)|2020-07-30 02:07:03+00:00|30-07-2020
+Sui Tang|[Learning interaction kernels in stochastic systems of interacting   particles from multiple trajectories](http://arxiv.org/abs/2007.15174v1)|2020-07-30 01:28:06+00:00|30-07-2020
+Yuichi Takano|[Prediction of hierarchical time series using structured regularization   and its application to artificial neural networks](http://arxiv.org/abs/2007.15159v1)|2020-07-30 00:30:32+00:00|30-07-2020
+Xingchen Zhang|[Benchmarking and Comparing Multi-exposure Image Fusion Algorithms](http://arxiv.org/abs/2007.15156v1)|2020-07-30 00:19:37+00:00|30-07-2020
+Hongxia Wang|[A regularized deep matrix factorized model of matrix completion for   image restoration](http://arxiv.org/abs/2007.14581v1)|2020-07-29 04:05:35+00:00|29-07-2020
+Manolis Zampetakis|[Truncated Linear Regression in High Dimensions](http://arxiv.org/abs/2007.14539v1)|2020-07-29 00:31:34+00:00|29-07-2020
+Mia Hubert|[Visualizing classification results](http://arxiv.org/abs/2007.14495v1)|2020-07-28 21:27:15+00:00|28-07-2020
+Hanxu Zhou|[Deep frequency principle towards understanding why deeper learning is   faster](http://arxiv.org/abs/2007.14313v1)|2020-07-28 15:35:49+00:00|28-07-2020
+Hui Zhang|[Emotion Correlation Mining Through Deep Learning Models on Natural   Language Text](http://arxiv.org/abs/2007.14071v1)|2020-07-28 08:59:16+00:00|28-07-2020
+Diwa Koirala|[Linguistic Taboos and Euphemisms in Nepali](http://arxiv.org/abs/2007.13798v1)|2020-07-27 18:25:01+00:00|27-07-2020
+Behnam Neyshabur|[Towards Learning Convolutions from Scratch](http://arxiv.org/abs/2007.13657v1)|2020-07-27 16:13:13+00:00|27-07-2020
+Jitao Sang|[Towards Accuracy-Fairness Paradox: Adversarial Example-based Data   Augmentation for Visual Debiasing](http://arxiv.org/abs/2007.13632v1)|2020-07-27 15:17:52+00:00|27-07-2020
+Salman Avestimehr|[FedML: A Research Library and Benchmark for Federated Machine Learning](http://arxiv.org/abs/2007.13518v1)|2020-07-27 13:02:08+00:00|27-07-2020
+Hema A Murthy|[Evidence of Task-Independent Person-Specific Signatures in EEG using   Subspace Techniques](http://arxiv.org/abs/2007.13517v1)|2020-07-27 13:01:37+00:00|27-07-2020
+Ji-Hwan Kim|[Self-Attentive Multi-Layer Aggregation with Feature Recalibration and   Normalization for End-to-End Speaker Verification System](http://arxiv.org/abs/2007.13350v2)|2020-07-28 07:20:40+00:00|27-07-2020
+Andre Gruning|[Supervised Learning in Temporally-Coded Spiking Neural Networks with   Approximate Backpropagation](http://arxiv.org/abs/2007.13296v1)|2020-07-27 03:39:49+00:00|27-07-2020
+Ben Carterette|[Recommending Podcasts for Cold-Start Users Based on Music Listening and   Taste](http://arxiv.org/abs/2007.13287v1)|2020-07-27 02:55:23+00:00|27-07-2020
+Anthony Bagnall|[Benchmarking Multivariate Time Series Classification Algorithms](http://arxiv.org/abs/2007.13156v1)|2020-07-26 15:56:40+00:00|26-07-2020
+Ender Konukoglu|[Joint reconstruction and bias field correction for undersampled MR   imaging](http://arxiv.org/abs/2007.13123v1)|2020-07-26 12:58:34+00:00|26-07-2020
+Emmanuel Vincent|[UIAI System for Short-Duration Speaker Verification Challenge 2020](http://arxiv.org/abs/2007.13118v1)|2020-07-26 12:32:34+00:00|26-07-2020
+Ben Carterett|[Counterfactual Evaluation of Slate Recommendations with Sequential   Reward Interactions](http://arxiv.org/abs/2007.12986v1)|2020-07-25 17:58:01+00:00|25-07-2020
+Chenguang Lu|[Fair Marriage Principle and Initialization Map for the EM Algorithm](http://arxiv.org/abs/2007.12845v1)|2020-07-25 03:23:49+00:00|25-07-2020
+Mladen Nikolić|[Hierachial Protein Function Prediction with Tails-GNNs](http://arxiv.org/abs/2007.12804v1)|2020-07-24 23:38:41+00:00|24-07-2020
+Daby Sow|[A Canonical Architecture For Predictive Analytics on Longitudinal   Patient Records](http://arxiv.org/abs/2007.12780v1)|2020-07-24 21:51:41+00:00|24-07-2020
+Maarten de Rijke|[Taking the Counterfactual Online: Efficient and Unbiased Online   Evaluation for Ranking](http://arxiv.org/abs/2007.12719v2)|2020-07-28 17:59:33+00:00|24-07-2020
+Peter J. Stuckey|[MurTree: Optimal Classification Trees via Dynamic Programming and Search](http://arxiv.org/abs/2007.12652v1)|2020-07-24 17:06:55+00:00|24-07-2020
+Yuri A. Lawryshyn|[Evolve To Control: Evolution-based Soft Actor-Critic for Scalable   Reinforcement Learning](http://arxiv.org/abs/2007.13690v1)|2020-07-24 16:29:19+00:00|24-07-2020
+Sebastián Maldonado|[The foundations of cost-sensitive causal classification](http://arxiv.org/abs/2007.12582v2)|2020-07-30 10:47:01+00:00|24-07-2020
+Raghu vamshi Hemadri|[Performance analysis of weighted low rank model with sparse image   histograms for face recognition under lowlevel illumination and occlusion](http://arxiv.org/abs/2007.12362v1)|2020-07-24 05:59:28+00:00|24-07-2020
+
 ## 24-07-2020
 
 main_author|title|update_date|publish_date
