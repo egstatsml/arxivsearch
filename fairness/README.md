@@ -1,5 +1,43 @@
 # fairness
 Click on title for link to paper
+## 07-08-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Natalia Criado|[Discovering and Categorising Language Biases in Reddit](http://arxiv.org/abs/2008.02754v1)|2020-08-06 16:42:10+00:00|06-08-2020
+Andrei Barbu|[Compositional Networks Enable Systematic Generalization for Grounded   Language Understanding](http://arxiv.org/abs/2008.02742v1)|2020-08-06 16:17:35+00:00|06-08-2020
+Matthias Paulik|[Improving on-device speaker verification using federated learning with   privacy](http://arxiv.org/abs/2008.02651v1)|2020-08-06 13:37:14+00:00|06-08-2020
+Sparsh Mittal|[Modeling Data Reuse in Deep Neural Networks by Taking Data-Types into   Cognizance](http://arxiv.org/abs/2008.02565v1)|2020-08-06 10:38:07+00:00|06-08-2020
+Damian Borth|[Learning Sampling in Financial Statement Audits using Vector Quantised   Autoencoder Neural Networks](http://arxiv.org/abs/2008.02528v1)|2020-08-06 09:02:02+00:00|06-08-2020
+Eduardo Lleida|[Shouted Speech Compensation for Speaker Verification Robust to Vocal   Effort Conditions](http://arxiv.org/abs/2008.02487v1)|2020-08-06 07:25:57+00:00|06-08-2020
+Fatih Porikli|[Structured Convolutions for Efficient Neural Network Design](http://arxiv.org/abs/2008.02454v1)|2020-08-06 04:38:38+00:00|06-08-2020
+Lauren Pusey-Nazzaro|[QUBO Formulations for Training Machine Learning Models](http://arxiv.org/abs/2008.02369v1)|2020-08-05 21:16:05+00:00|05-08-2020
+Jacob Steinhardt|[Aligning AI With Shared Human Values](http://arxiv.org/abs/2008.02275v1)|2020-08-05 17:59:16+00:00|05-08-2020
+Wotao Yin|[Projecting to Manifolds via Unsupervised Learning](http://arxiv.org/abs/2008.02200v1)|2020-08-05 15:58:55+00:00|05-08-2020
+Philip S. Yu|[More Than Privacy: Applying Differential Privacy in Key Areas of   Artificial Intelligence](http://arxiv.org/abs/2008.01916v1)|2020-08-05 03:07:36+00:00|05-08-2020
+Blesson Varghese|[A Case For Adaptive Deep Neural Networks in Edge Computing](http://arxiv.org/abs/2008.01814v1)|2020-08-04 20:23:50+00:00|04-08-2020
+Ankit Patel|[Shallow Univariate ReLu Networks as Splines: Initialization, Loss   Surface, Hessian, & Gradient Flow Dynamics](http://arxiv.org/abs/2008.01772v1)|2020-08-04 19:19:49+00:00|04-08-2020
+Vitaly Vanchurin|[The world as a neural network](http://arxiv.org/abs/2008.01540v1)|2020-08-04 17:10:46+00:00|04-08-2020
+B. D. Parameshachari|[Land Use and Land Cover Classification using a Human Group based   Particle Swarm Optimization Algorithm with a LSTM classifier on   hybrid-pre-processing Remote Sensing Images](http://arxiv.org/abs/2008.01635v1)|2020-08-04 15:30:10+00:00|04-08-2020
+Qi Tian|[Weight-Sharing Neural Architecture Search: A Battle to Shrink the   Optimization Gap](http://arxiv.org/abs/2008.01475v2)|2020-08-05 03:30:13+00:00|04-08-2020
+Marco Grangetto|[A non-discriminatory approach to ethical deep learning](http://arxiv.org/abs/2008.01430v1)|2020-08-04 09:33:02+00:00|04-08-2020
+Nal Kalchbrenner|[A Spectral Energy Distance for Parallel Speech Synthesis](http://arxiv.org/abs/2008.01160v1)|2020-08-03 19:56:04+00:00|03-08-2020
+Luis Nunes Vicente|[Accuracy and Fairness Trade-offs in Machine Learning: A Stochastic   Multi-Objective Approach](http://arxiv.org/abs/2008.01132v1)|2020-08-03 18:51:24+00:00|03-08-2020
+Liang Lin|[Adversarial Graph Representation Adaptation for Cross-Domain Facial   Expression Recognition](http://arxiv.org/abs/2008.00859v2)|2020-08-04 09:50:05+00:00|03-08-2020
+Alykhan Tejani|[Deep Bayesian Bandits: Exploring in Online Personalized Recommendations](http://arxiv.org/abs/2008.00727v1)|2020-08-03 08:58:18+00:00|03-08-2020
+David Doermann|[Anti-Bandit Neural Architecture Search for Model Defense](http://arxiv.org/abs/2008.00698v2)|2020-08-05 08:33:48+00:00|03-08-2020
+Bernhard Schölkopf|[Geometrically Enriched Latent Spaces](http://arxiv.org/abs/2008.00565v1)|2020-08-02 20:57:58+00:00|02-08-2020
+Long Quan|[Stochastic Bundle Adjustment for Efficient and Scalable 3D   Reconstruction](http://arxiv.org/abs/2008.00446v1)|2020-08-02 10:26:09+00:00|02-08-2020
+Tanveer Syeda-Mahmood|[Looking in the Right place for Anomalies: Explainable AI through   Automatic Location Learning](http://arxiv.org/abs/2008.00363v1)|2020-08-02 00:02:37+00:00|02-08-2020
+Alexander Wong|[Vulnerability Under Adversarial Machine Learning: Bias or Variance?](http://arxiv.org/abs/2008.00138v1)|2020-08-01 00:58:54+00:00|01-08-2020
+Craig Boutilier|[Optimizing Long-term Social Welfare in Recommender Systems: A   Constrained Matching Approach](http://arxiv.org/abs/2008.00104v1)|2020-07-31 22:40:47+00:00|31-07-2020
+Mohammad Amin Alipour|[On the Generalizability of Neural Program Analyzers with respect to   Semantic-Preserving Program Transformations](http://arxiv.org/abs/2008.01566v1)|2020-07-31 20:39:20+00:00|31-07-2020
+Sebastian U. Stich|[Analysis of SGD with Biased Gradient Estimators](http://arxiv.org/abs/2008.00051v1)|2020-07-31 19:37:59+00:00|31-07-2020
+Luís A. Alexandre|[HMCNAS: Neural Architecture Search using Hidden Markov Chains and   Bayesian Optimization](http://arxiv.org/abs/2007.16149v1)|2020-07-31 16:04:08+00:00|31-07-2020
+Esa Rahtu|[L$^2$C -- Learning to Learn to Compress](http://arxiv.org/abs/2007.16054v1)|2020-07-31 13:13:53+00:00|31-07-2020
+Qiaozhu Mei|[An Empirical Study on Explainable Prediction of Text Complexity:   Preliminaries for Text Simplification](http://arxiv.org/abs/2007.15823v1)|2020-07-31 03:33:37+00:00|31-07-2020
+Chi Zhang|[Denoising individual bias for a fairer binary submatrix detection](http://arxiv.org/abs/2007.15816v1)|2020-07-31 02:52:25+00:00|31-07-2020
+
 ## 31-07-2020
 
 main_author|title|update_date|publish_date

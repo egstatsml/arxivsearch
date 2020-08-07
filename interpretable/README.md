@@ -1,5 +1,14 @@
 # interpretable
 Click on title for link to paper
+## 07-08-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Yutaka Matsubara|[Safety design concepts for statistical machine learning components   toward accordance with functional safety standards](http://arxiv.org/abs/2008.01263v1)|2020-08-04 01:01:00+00:00|04-08-2020
+Jeffrey Byrne|[Explainable Face Recognition](http://arxiv.org/abs/2008.00916v1)|2020-08-03 14:47:51+00:00|03-08-2020
+Rijo Jackson Tom|[An Explainable Machine Learning Model for Early Detection of Parkinson's   Disease using LIME on DaTscan Imagery](http://arxiv.org/abs/2008.00238v1)|2020-08-01 10:44:03+00:00|01-08-2020
+Peter R. Rijnbeek|[The role of explainability in creating trustworthy artificial   intelligence for health care: a comprehensive survey of the terminology,   design choices, and evaluation strategies](http://arxiv.org/abs/2007.15911v1)|2020-07-31 09:08:27+00:00|31-07-2020
+
 ## 31-07-2020
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,30 @@
 # bnn
 Click on title for link to paper
+## 07-08-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Aviv Tamar|[Offline Meta Reinforcement Learning](http://arxiv.org/abs/2008.02598v1)|2020-08-06 12:09:18+00:00|06-08-2020
+Liping Wang|[Bayesian learning of orthogonal embeddings for multi-fidelity Gaussian   Processes](http://arxiv.org/abs/2008.02386v1)|2020-08-05 22:28:53+00:00|05-08-2020
+Bipin Rajendran|[SpinAPS: A High-Performance Spintronic Accelerator for Probabilistic   Spiking Neural Networks](http://arxiv.org/abs/2008.02189v1)|2020-08-05 15:37:47+00:00|05-08-2020
+Marco Scutari|[Structure Learning from Related Data Sets with a Hierarchical Bayesian   Score](http://arxiv.org/abs/2008.01683v1)|2020-08-04 16:41:05+00:00|04-08-2020
+A. H. Bell-Thomas|[Exploring Variational Deep Q Networks](http://arxiv.org/abs/2008.01641v1)|2020-08-04 15:36:31+00:00|04-08-2020
+Tom Diethe|[Interpretable Anomaly Detection with Mondrian P{ó}lya Forests on Data   Streams](http://arxiv.org/abs/2008.01505v1)|2020-08-04 13:19:07+00:00|04-08-2020
+Tatsuya Harada|[Neural Granular Sound Synthesis](http://arxiv.org/abs/2008.01393v1)|2020-08-04 08:08:00+00:00|04-08-2020
+Naoki Hayashi|[The Exact Asymptotic Form of Bayesian Generalization Error in Latent   Dirichlet Allocation](http://arxiv.org/abs/2008.01304v1)|2020-08-04 03:26:16+00:00|04-08-2020
+Martin Gärttner|[Spiking neuromorphic chip learns entangled quantum states](http://arxiv.org/abs/2008.01039v2)|2020-08-05 07:20:09+00:00|03-08-2020
+Arno Onken|[Parametric Copula-GP model for analyzing multidimensional neuronal and   behavioral relationships](http://arxiv.org/abs/2008.01007v1)|2020-08-03 16:44:29+00:00|03-08-2020
+Hadi Meidani|[Adaptive Physics-Informed Neural Networks for Markov-Chain Monte Carlo](http://arxiv.org/abs/2008.01604v1)|2020-08-03 15:25:10+00:00|03-08-2020
+Alykhan Tejani|[Deep Bayesian Bandits: Exploring in Online Personalized Recommendations](http://arxiv.org/abs/2008.00727v1)|2020-08-03 08:58:18+00:00|03-08-2020
+Indranil Pan|[Rule-based Bayesian regression](http://arxiv.org/abs/2008.00422v1)|2020-08-02 07:20:45+00:00|02-08-2020
+Trung Bui|[Bayesian Optimization for Selecting Efficient Machine Learning Models](http://arxiv.org/abs/2008.00386v1)|2020-08-02 02:56:30+00:00|02-08-2020
+Yu Kong|[Uncertainty-based Traffic Accident Anticipation with Spatio-Temporal   Relational Learning](http://arxiv.org/abs/2008.00334v1)|2020-08-01 20:21:48+00:00|01-08-2020
+Mark van der Wilk|[Convergence of Sparse Variational Inference in Gaussian Processes   Regression](http://arxiv.org/abs/2008.00323v1)|2020-08-01 19:23:34+00:00|01-08-2020
+Samuel L. Smith|[Cold Posteriors and Aleatoric Uncertainty](http://arxiv.org/abs/2008.00029v1)|2020-07-31 18:37:31+00:00|31-07-2020
+Homayoun Valafar|[A Comparative study of Artificial Neural Networks Using Reinforcement   learning and Multidimensional Bayesian Classification Using Parzen Density   Estimation for Identification of GC-EIMS Spectra of Partially Methylated   Alditol Acetates](http://arxiv.org/abs/2008.02072v1)|2020-07-31 17:54:51+00:00|31-07-2020
+Luís A. Alexandre|[HMCNAS: Neural Architecture Search using Hidden Markov Chains and   Bayesian Optimization](http://arxiv.org/abs/2007.16149v1)|2020-07-31 16:04:08+00:00|31-07-2020
+William S. York|[Identification of 1H-NMR Spectra of Xyloglucan Oligosaccharides: A   Comparative Study of Artificial Neural Networks and Bayesian Classification   Using Nonparametric Density Estimation](http://arxiv.org/abs/2008.01004v1)|2020-07-30 16:29:04+00:00|30-07-2020
+
 ## 31-07-2020
 
 main_author|title|update_date|publish_date

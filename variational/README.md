@@ -1,5 +1,13 @@
 # variational
 Click on title for link to paper
+## 07-08-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+John Leonard|[Variational Filtering with Copula Models for SLAM](http://arxiv.org/abs/2008.00504v1)|2020-08-02 15:38:23+00:00|02-08-2020
+Alison Q. O'Neil|[Paying Per-label Attention for Multi-label Extraction from Radiology   Reports](http://arxiv.org/abs/2007.16152v2)|2020-08-04 16:17:18+00:00|31-07-2020
+Ehecatl Antonio del Rio-Chanona|[Chance Constrained Policy Optimization for Process Control and   Optimization](http://arxiv.org/abs/2008.00030v1)|2020-07-30 14:20:35+00:00|30-07-2020
+
 ## 31-07-2020
 
 main_author|title|update_date|publish_date
