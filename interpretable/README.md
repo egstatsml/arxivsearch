@@ -1,5 +1,12 @@
 # interpretable
 Click on title for link to paper
+## 14-08-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Joshua B. Tenenbaum|[Learning abstract structure for drawing by efficient motor program   induction](http://arxiv.org/abs/2008.03519v1)|2020-08-08 13:31:14+00:00|08-08-2020
+Faraz Hussain|[Improving Explainability of Image Classification in Scenarios with Class   Overlap: Application to COVID-19 and Pneumonia](http://arxiv.org/abs/2008.02866v2)|2020-08-10 21:20:02+00:00|06-08-2020
+
 ## 07-08-2020
 
 main_author|title|update_date|publish_date

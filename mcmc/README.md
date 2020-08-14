@@ -1,5 +1,19 @@
 # mcmc
 Click on title for link to paper
+## 14-08-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Mahmoud Hassaballah|[DAWN: Vehicle Detection in Adverse Weather Nature Dataset](http://arxiv.org/abs/2008.05402v1)|2020-08-12 15:48:49+00:00|12-08-2020
+Simo Särkkä|[Deep State-Space Gaussian Processes](http://arxiv.org/abs/2008.04733v1)|2020-08-11 14:50:07+00:00|11-08-2020
+Subhayan De|[Uncertainty Quantification of Locally Nonlinear Dynamical Systems using   Neural Networks](http://arxiv.org/abs/2008.04598v1)|2020-08-11 09:30:47+00:00|11-08-2020
+Ko Nishino|[Invertible Neural BRDF for Object Inverse Rendering](http://arxiv.org/abs/2008.04030v2)|2020-08-11 04:15:00+00:00|10-08-2020
+Moti Freiman|[Unsupervised Deep-Learning Based Deformable Image Registration: A   Bayesian Framework](http://arxiv.org/abs/2008.03949v1)|2020-08-10 08:15:49+00:00|10-08-2020
+Chen Feng|[DR^2Track: Towards Real-Time Visual Tracking for UAV via Distractor   Repressed Dynamic Regression](http://arxiv.org/abs/2008.03912v1)|2020-08-10 06:08:31+00:00|10-08-2020
+Mingxuan Li|[Towards Sample Efficient Agents through Algorithmic Alignment](http://arxiv.org/abs/2008.03229v1)|2020-08-07 15:44:32+00:00|07-08-2020
+Asja Fischer|[Investigating maximum likelihood based training of infinite mixtures for   uncertainty quantification](http://arxiv.org/abs/2008.03209v1)|2020-08-07 14:55:53+00:00|07-08-2020
+Mandar Tabib|[A nudged hybrid analysis and modeling approach for realtime wake-vortex   transport and decay prediction](http://arxiv.org/abs/2008.03157v1)|2020-08-05 23:47:15+00:00|05-08-2020
+
 ## 07-08-2020
 
 main_author|title|update_date|publish_date

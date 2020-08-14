@@ -1,5 +1,28 @@
 # bnn
 Click on title for link to paper
+## 14-08-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Raquel Urtasun|[DSDNet: Deep Structured self-Driving Network](http://arxiv.org/abs/2008.06041v1)|2020-08-13 17:54:06+00:00|13-08-2020
+Melanie N. Zeilinger|[Meta Learning MPC using Finite-Dimensional Gaussian Process   Approximations](http://arxiv.org/abs/2008.05984v1)|2020-08-13 15:59:38+00:00|13-08-2020
+Laurence Aitchison|[A statistical theory of semi-supervised learning](http://arxiv.org/abs/2008.05913v1)|2020-08-13 13:50:27+00:00|13-08-2020
+Laurence Aitchison|[A statistical theory of cold posteriors in deep neural networks](http://arxiv.org/abs/2008.05912v1)|2020-08-13 13:46:58+00:00|13-08-2020
+Naimul Khan|[An Efficient Confidence Measure-Based Evaluation Metric for Breast   Cancer Screening Using Bayesian Neural Networks](http://arxiv.org/abs/2008.05566v1)|2020-08-12 20:34:14+00:00|12-08-2020
+Keck-Voon Ling|[Open Set Recognition with Conditional Probabilistic Generative Models](http://arxiv.org/abs/2008.05129v1)|2020-08-12 06:23:49+00:00|12-08-2020
+Sriram Ganapathy|[Neural PLDA Modeling for End-to-End Speaker Verification](http://arxiv.org/abs/2008.04527v1)|2020-08-11 05:54:54+00:00|11-08-2020
+Ko Nishino|[Invertible Neural BRDF for Object Inverse Rendering](http://arxiv.org/abs/2008.04030v2)|2020-08-11 04:15:00+00:00|10-08-2020
+Michael Beigl|[Automatic Remaining Useful Life Estimation Framework with Embedded   Convolutional LSTM as the Backbone](http://arxiv.org/abs/2008.03961v1)|2020-08-10 08:34:20+00:00|10-08-2020
+Moti Freiman|[Unsupervised Deep-Learning Based Deformable Image Registration: A   Bayesian Framework](http://arxiv.org/abs/2008.03949v1)|2020-08-10 08:15:49+00:00|10-08-2020
+Houman Owhadi|[Do ideas have shape? Plato's theory of forms as the continuous limit of   artificial neural networks](http://arxiv.org/abs/2008.03920v1)|2020-08-10 06:46:43+00:00|10-08-2020
+Deyu Meng|[From Rain Removal to Rain Generation](http://arxiv.org/abs/2008.03580v1)|2020-08-08 18:56:51+00:00|08-08-2020
+Hideitsu Hino|[Modal Principal Component Analysis](http://arxiv.org/abs/2008.03400v1)|2020-08-07 23:59:05+00:00|07-08-2020
+Jonathan Gair|[Complete parameter inference for GW150914 using deep learning](http://arxiv.org/abs/2008.03312v1)|2020-08-07 18:00:02+00:00|07-08-2020
+Asja Fischer|[Investigating maximum likelihood based training of infinite mixtures for   uncertainty quantification](http://arxiv.org/abs/2008.03209v1)|2020-08-07 14:55:53+00:00|07-08-2020
+Lolian Shtembari|[BAT.jl -- A Julia-based tool for Bayesian inference](http://arxiv.org/abs/2008.03132v1)|2020-08-07 12:55:52+00:00|07-08-2020
+Alexander I. Jordan|[Evaluating probabilistic classifiers: Reliability diagrams and score   decompositions revisited](http://arxiv.org/abs/2008.03033v1)|2020-08-07 08:22:26+00:00|07-08-2020
+Hiroshi Saruwatari|[Multi-speaker Text-to-speech Synthesis Using Deep Gaussian Processes](http://arxiv.org/abs/2008.02950v1)|2020-08-07 02:03:27+00:00|07-08-2020
+
 ## 07-08-2020
 
 main_author|title|update_date|publish_date

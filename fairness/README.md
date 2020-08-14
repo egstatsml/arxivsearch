@@ -1,5 +1,38 @@
 # fairness
 Click on title for link to paper
+## 14-08-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Mitesh M. Khapra|[On the Importance of Local Information in Transformer Based Models](http://arxiv.org/abs/2008.05828v1)|2020-08-13 11:32:47+00:00|13-08-2020
+Kiseok Kwon|[Weight Equalizing Shift Scaler-Coupled Post-training Quantization](http://arxiv.org/abs/2008.05767v1)|2020-08-13 09:19:57+00:00|13-08-2020
+Ketan Rajawat|[Conservative Stochastic Optimization with Expectation Constraints](http://arxiv.org/abs/2008.05758v1)|2020-08-13 08:56:24+00:00|13-08-2020
+Lawrence Carin|[WAFFLe: Weight Anonymized Factorization for Federated Learning](http://arxiv.org/abs/2008.05687v1)|2020-08-13 04:26:31+00:00|13-08-2020
+Thomas Runkler|[Overcoming Model Bias for Robust Offline Deep Reinforcement Learning](http://arxiv.org/abs/2008.05533v1)|2020-08-12 19:08:55+00:00|12-08-2020
+Guang Lin|[Non-convex Learning via Replica Exchange Stochastic Gradient MCMC](http://arxiv.org/abs/2008.05367v1)|2020-08-12 15:02:59+00:00|12-08-2020
+Novi Quadrianto|[Null-sampling for Interpretable and Fair Representations](http://arxiv.org/abs/2008.05248v1)|2020-08-12 11:49:01+00:00|12-08-2020
+Dario Augusto Borges Oliveira|[Implanting Synthetic Lesions for Improving Liver Lesion Segmentation in   CT Exams](http://arxiv.org/abs/2008.04690v1)|2020-08-11 13:23:04+00:00|11-08-2020
+Eric Horvitz|[An Empirical Analysis of Backward Compatibility in Machine Learning   Systems](http://arxiv.org/abs/2008.04572v1)|2020-08-11 08:10:58+00:00|11-08-2020
+Tomoko Ohkuma|[Unbiased Learning for the Causal Effect of Recommendation](http://arxiv.org/abs/2008.04563v1)|2020-08-11 07:30:44+00:00|11-08-2020
+Scott Bloom|[Key-Nets: Optical Transformation Convolutional Networks for Privacy   Preserving Vision Sensors](http://arxiv.org/abs/2008.04469v1)|2020-08-11 01:21:29+00:00|11-08-2020
+Shan Luo|[Spatio-temporal Attention Model for Tactile Texture Recognition](http://arxiv.org/abs/2008.04442v1)|2020-08-10 22:32:34+00:00|10-08-2020
+Jingdong Wang|[Informative Dropout for Robust Representation Learning: A Shape-bias   Perspective](http://arxiv.org/abs/2008.04254v1)|2020-08-10 16:52:24+00:00|10-08-2020
+Alexey Tumanov|[HOLMES: Health OnLine Model Ensemble Serving for Deep Learning Models in   Intensive Care Units](http://arxiv.org/abs/2008.04063v1)|2020-08-10 12:38:46+00:00|10-08-2020
+Frank Neumann|[Using Neural Networks and Diversifying Differential Evolution for   Dynamic Optimisation](http://arxiv.org/abs/2008.04002v1)|2020-08-10 10:07:43+00:00|10-08-2020
+Chitta Baral|[DQI: A Guide to Benchmark Evaluation](http://arxiv.org/abs/2008.03964v1)|2020-08-10 08:38:55+00:00|10-08-2020
+Qingyan Duan|[Domain Private and Agnostic Feature for Modality Adaptive Face   Recognition](http://arxiv.org/abs/2008.03848v1)|2020-08-10 00:59:42+00:00|10-08-2020
+Li Xia|[Risk-Sensitive Markov Decision Processes with Combined Metrics of Mean   and Variance](http://arxiv.org/abs/2008.03707v1)|2020-08-09 10:35:35+00:00|09-08-2020
+Guangquan Zhang|[Concept Drift Detection: Dealing with MissingValues via Fuzzy Distance   Estimations](http://arxiv.org/abs/2008.03662v1)|2020-08-09 05:25:46+00:00|09-08-2020
+Ji Zhu|[Community models for partially observed networks from surveys](http://arxiv.org/abs/2008.03652v1)|2020-08-09 04:53:13+00:00|09-08-2020
+Abeer Alwan|[Variable frame rate-based data augmentation to handle speaking-style   variability for automatic speaker verification](http://arxiv.org/abs/2008.03616v1)|2020-08-08 22:47:12+00:00|08-08-2020
+Dennis Hedderich|[Complex Grey Matter Structure Segmentation in Brains via Deep Learning:   Example of the Claustrum](http://arxiv.org/abs/2008.03465v1)|2020-08-08 07:25:48+00:00|08-08-2020
+Nandakumar Paramparambath|[Audio Spoofing Verification using Deep Convolutional Neural Networks by   Transfer Learning](http://arxiv.org/abs/2008.03464v1)|2020-08-08 07:14:40+00:00|08-08-2020
+Mark Hasegawa-Johnson|[Deep F-measure Maximization for End-to-End Speech Understanding](http://arxiv.org/abs/2008.03425v1)|2020-08-08 03:02:27+00:00|08-08-2020
+Luca Belli|[Assessing Demographic Bias in Named Entity Recognition](http://arxiv.org/abs/2008.03415v1)|2020-08-08 02:01:25+00:00|08-08-2020
+Wei Wang|[Using UNet and PSPNet to explore the reusability principle of CNN   parameters](http://arxiv.org/abs/2008.03414v1)|2020-08-08 01:51:08+00:00|08-08-2020
+Zoltán Somogyvári|[Manifold-adaptive dimension estimation revisited](http://arxiv.org/abs/2008.03221v2)|2020-08-10 10:04:22+00:00|07-08-2020
+Bayu A. Nugroho|[The Ensemble Method for Thorax Diseases Classification](http://arxiv.org/abs/2008.03008v3)|2020-08-12 03:15:53+00:00|07-08-2020
+
 ## 07-08-2020
 
 main_author|title|update_date|publish_date
