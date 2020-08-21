@@ -1,5 +1,21 @@
 # variational
 Click on title for link to paper
+## 21-08-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Lorenzo Federici|[Reinforcement Learning for Low-Thrust Trajectory Design of   Interplanetary Missions](http://arxiv.org/abs/2008.08501v1)|2020-08-19 15:22:15+00:00|19-08-2020
+Peter Duerr|[Super-Human Performance in Gran Turismo Sport Using Deep Reinforcement   Learning](http://arxiv.org/abs/2008.07971v1)|2020-08-18 15:06:44+00:00|18-08-2020
+Xiaojie Mao|[Stochastic Optimization Forests](http://arxiv.org/abs/2008.07473v1)|2020-08-17 16:56:06+00:00|17-08-2020
+Matias Valdenegro-Toro|[Hey Human, If your Facial Emotions are Uncertain, You Should Use   Bayesian Neural Networks!](http://arxiv.org/abs/2008.07426v1)|2020-08-17 15:50:40+00:00|17-08-2020
+Vasso Reppa|[Model-Reference Reinforcement Learning for Collision-Free Tracking   Control of Autonomous Surface Vehicles](http://arxiv.org/abs/2008.07240v1)|2020-08-17 12:15:15+00:00|17-08-2020
+Yusuke Miyao|[Predicting Event Time by Classifying Sub-Level Temporal Relations   Induced from a Unified Representation of Time Anchors](http://arxiv.org/abs/2008.06452v1)|2020-08-14 16:30:07+00:00|14-08-2020
+Nicholas D. Lane|[SPINN: Synergistic Progressive Inference of Neural Networks over Device   and Cloud](http://arxiv.org/abs/2008.06402v1)|2020-08-14 15:00:19+00:00|14-08-2020
+Sunyoung Kwon|[Which Strategies Matter for Noisy Label Classification? Insight into   Loss and Uncertainty](http://arxiv.org/abs/2008.06218v1)|2020-08-14 07:34:32+00:00|14-08-2020
+Nandyala Hemachandra|[Optimal Posteriors for Chi-squared Divergence based PAC-Bayesian Bounds   and Comparison with KL-divergence based Optimal Posteriors and   Cross-Validation Procedure](http://arxiv.org/abs/2008.07330v1)|2020-08-14 03:15:23+00:00|14-08-2020
+Patrick Cardinal|[Deep Domain Adaptation for Ordinal Regression of Pain Intensity   Estimation Using Weakly-Labelled Videos](http://arxiv.org/abs/2008.06392v1)|2020-08-13 15:42:23+00:00|13-08-2020
+Beate Sick|[Integrating uncertainty in deep neural networks for MRI based stroke   analysis](http://arxiv.org/abs/2008.06332v1)|2020-08-13 09:50:17+00:00|13-08-2020
+
 ## 14-08-2020
 
 main_author|title|update_date|publish_date

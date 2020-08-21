@@ -1,5 +1,25 @@
 # bnn
 Click on title for link to paper
+## 21-08-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Jan Kautz|[DeepGMR: Learning Latent Gaussian Mixture Models for Registration](http://arxiv.org/abs/2008.09088v1)|2020-08-20 17:25:16+00:00|20-08-2020
+Matthias Bauer|[Improving predictions of Bayesian neural networks via local   linearization](http://arxiv.org/abs/2008.08400v1)|2020-08-19 12:35:55+00:00|19-08-2020
+David Dunson|[Bayesian neural networks and dimensionality reduction](http://arxiv.org/abs/2008.08044v2)|2020-08-19 15:47:32+00:00|18-08-2020
+Neil Walton|[Fast Approximate Bayesian Contextual Cold Start Learning (FAB-COST)](http://arxiv.org/abs/2008.08038v1)|2020-08-18 17:08:39+00:00|18-08-2020
+Jingya Zhang|[Bayesian geoacoustic inversion using mixture density network](http://arxiv.org/abs/2008.07902v2)|2020-08-19 08:00:52+00:00|18-08-2020
+Susumu Shirayama|[Selecting Data Adaptive Learner from Multiple Deep Learners using   Bayesian Networks](http://arxiv.org/abs/2008.07709v1)|2020-08-18 02:48:43+00:00|18-08-2020
+Chenyang Gu|[Estimation of causal effects of multiple treatments in healthcare   database studies with rare outcomes](http://arxiv.org/abs/2008.07687v1)|2020-08-18 01:26:36+00:00|18-08-2020
+Matias Valdenegro-Toro|[Hey Human, If your Facial Emotions are Uncertain, You Should Use   Bayesian Neural Networks!](http://arxiv.org/abs/2008.07426v1)|2020-08-17 15:50:40+00:00|17-08-2020
+Theo Economou|[Bayesian deep learning: a new era for 'big data' geostatistics?](http://arxiv.org/abs/2008.07320v2)|2020-08-19 12:11:59+00:00|17-08-2020
+Animesh Garg|[OCEAN: Online Task Inference for Compositional Tasks with Context   Adaptation](http://arxiv.org/abs/2008.07087v1)|2020-08-17 04:50:34+00:00|17-08-2020
+Fan Li|[Estimating Heterogeneous Survival Treatment Effect via Machine/Deep   Learning Methods in Observational Studies](http://arxiv.org/abs/2008.07044v1)|2020-08-17 01:02:14+00:00|17-08-2020
+Jai Ahuja|[Enhanced data efficiency using deep neural networks and Gaussian   processes for aerodynamic design optimization](http://arxiv.org/abs/2008.06731v1)|2020-08-15 15:09:21+00:00|15-08-2020
+Riccardo Volpi|[Reliable Uncertainties for Bayesian Neural Networks using   Alpha-divergences](http://arxiv.org/abs/2008.06729v1)|2020-08-15 15:03:46+00:00|15-08-2020
+Dario Piga|[Preferential Bayesian optimisation with Skew Gaussian Processes](http://arxiv.org/abs/2008.06677v1)|2020-08-15 08:23:17+00:00|15-08-2020
+Liping Wang|[Data-Informed Decomposition for Localized Uncertainty Quantification of   Dynamical Systems](http://arxiv.org/abs/2008.06556v1)|2020-08-14 19:49:32+00:00|14-08-2020
+
 ## 14-08-2020
 
 main_author|title|update_date|publish_date

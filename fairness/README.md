@@ -1,5 +1,38 @@
 # fairness
 Click on title for link to paper
+## 21-08-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Eric D. Ragan|[The Role of Domain Expertise in User Trust and the Impact of First   Impressions with Intelligent Systems](http://arxiv.org/abs/2008.09100v1)|2020-08-20 17:41:02+00:00|20-08-2020
+A. Salman Avestimehr|[Analog Lagrange Coded Computing](http://arxiv.org/abs/2008.08565v1)|2020-08-19 17:47:37+00:00|19-08-2020
+Katherine P. Andriole|"[""Name that manufacturer"". Relating image acquisition bias with task   complexity when training deep learning models: experiments on head CT](http://arxiv.org/abs/2008.08525v1)"|2020-08-19 16:05:58+00:00|19-08-2020
+David L. Donoho|[Prevalence of Neural Collapse during the terminal phase of deep learning   training](http://arxiv.org/abs/2008.08186v1)|2020-08-18 23:12:54+00:00|18-08-2020
+Kris Kitani|[AB3DMOT: A Baseline for 3D Multi-Object Tracking and New Evaluation   Metrics](http://arxiv.org/abs/2008.08063v1)|2020-08-18 17:45:56+00:00|18-08-2020
+Christoph Busch|[Anomaly Detection with Convolutional Autoencoders for Fingerprint   Presentation Attack Detection](http://arxiv.org/abs/2008.07989v1)|2020-08-18 15:33:41+00:00|18-08-2020
+Hoi-To Wai|[On the Convergence of Consensus Algorithms with Markovian Noise and   Gradient Bias](http://arxiv.org/abs/2008.07841v1)|2020-08-18 10:29:33+00:00|18-08-2020
+Jorma Laaksonen|[Tackling the Unannotated: Scene Graph Generation with Bias-Reduced   Models](http://arxiv.org/abs/2008.07832v1)|2020-08-18 10:04:51+00:00|18-08-2020
+Matthieu Zimmer|[Learning Fair Policies in Multiobjective (Deep) Reinforcement Learning   with Average and Discounted Rewards](http://arxiv.org/abs/2008.07773v1)|2020-08-18 07:17:53+00:00|18-08-2020
+Susumu Shirayama|[Selecting Data Adaptive Learner from Multiple Deep Learners using   Bayesian Networks](http://arxiv.org/abs/2008.07709v1)|2020-08-18 02:48:43+00:00|18-08-2020
+Chenyang Gu|[Estimation of causal effects of multiple treatments in healthcare   database studies with rare outcomes](http://arxiv.org/abs/2008.07687v1)|2020-08-18 01:26:36+00:00|18-08-2020
+Soummya Kar|[A near-optimal stochastic gradient method for decentralized non-convex   finite-sum optimization](http://arxiv.org/abs/2008.07428v2)|2020-08-19 19:07:13+00:00|17-08-2020
+Krzysztof Rykaczewski|[Deep Learning Based Open Set Acoustic Scene Classification](http://arxiv.org/abs/2008.07247v1)|2020-08-17 12:23:27+00:00|17-08-2020
+Georgios N. Yannakakis|[Moment-to-moment Engagement Prediction through the Eyes of the Observer:   PUBG Streaming on Twitch](http://arxiv.org/abs/2008.07207v1)|2020-08-17 10:40:34+00:00|17-08-2020
+Yusuke Narita|[A Large-scale Open Dataset for Bandit Algorithms](http://arxiv.org/abs/2008.07146v1)|2020-08-17 08:23:50+00:00|17-08-2020
+Wenguang Chen|[AIPerf: Automated machine learning as an AI-HPC benchmark](http://arxiv.org/abs/2008.07141v2)|2020-08-19 08:53:50+00:00|17-08-2020
+Ronald Y. Chang|[Semi-Supervised Learning with GANs for Device-Free Fingerprinting Indoor   Localization](http://arxiv.org/abs/2008.07111v1)|2020-08-17 06:32:13+00:00|17-08-2020
+Fan Li|[Estimating Heterogeneous Survival Treatment Effect via Machine/Deep   Learning Methods in Observational Studies](http://arxiv.org/abs/2008.07044v1)|2020-08-17 01:02:14+00:00|17-08-2020
+Kevin W. Bowyer|[Is Face Recognition Sexist? No, Gendered Hairstyles and Biology Are](http://arxiv.org/abs/2008.06989v1)|2020-08-16 20:29:05+00:00|16-08-2020
+David Leslie|[Tackling COVID-19 through Responsible AI Innovation: Five Steps in the   Right Direction](http://arxiv.org/abs/2008.06755v1)|2020-08-15 17:26:48+00:00|15-08-2020
+Ahmed Khan Salman|[A Deep Convolutional Neural Network Model for improving WRF Forecasts](http://arxiv.org/abs/2008.06489v1)|2020-08-14 17:48:06+00:00|14-08-2020
+Noel Crespi|[Hate Speech Detection and Racial Bias Mitigation in Social Media based   on BERT model](http://arxiv.org/abs/2008.06460v1)|2020-08-14 16:47:25+00:00|14-08-2020
+David E. Shaw|[Efficient hyperparameter optimization by way of PAC-Bayes bound   minimization](http://arxiv.org/abs/2008.06431v1)|2020-08-14 15:54:51+00:00|14-08-2020
+Georgios Evangelidis|[Renormalization for Initialization of Rolling Shutter Visual-Inertial   Odometry](http://arxiv.org/abs/2008.06399v1)|2020-08-14 14:54:15+00:00|14-08-2020
+Carola-Bibiane Schönlieb|[Machine learning for COVID-19 detection and prognostication using chest   radiographs and CT scans: a systematic methodological review](http://arxiv.org/abs/2008.06388v1)|2020-08-14 14:25:21+00:00|14-08-2020
+Pablo Estevez|[Free Lunch! Retrospective Uplift Modeling for Dynamic Promotions   Recommendation within ROI Constraints](http://arxiv.org/abs/2008.06293v2)|2020-08-17 06:31:44+00:00|14-08-2020
+Peter R. Rijnbeek|[How little data do we need for patient-level prediction?](http://arxiv.org/abs/2008.07361v1)|2020-08-14 11:00:13+00:00|14-08-2020
+Krishnaram Kenthapadi|[LiFT: A Scalable Framework for Measuring Fairness in ML Applications](http://arxiv.org/abs/2008.07433v1)|2020-08-14 03:55:31+00:00|14-08-2020
+
 ## 14-08-2020
 
 main_author|title|update_date|publish_date

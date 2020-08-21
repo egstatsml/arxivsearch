@@ -1,5 +1,13 @@
 # interpretable
 Click on title for link to paper
+## 21-08-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Eric D. Ragan|[The Role of Domain Expertise in User Trust and the Impact of First   Impressions with Intelligent Systems](http://arxiv.org/abs/2008.09100v1)|2020-08-20 17:41:02+00:00|20-08-2020
+Jeffrey Pennington|[The Neural Tangent Kernel in High Dimensions: Triple Descent and a   Multi-Scale Theory of Generalization](http://arxiv.org/abs/2008.06786v1)|2020-08-15 20:55:40+00:00|15-08-2020
+Balaji Srinivasan|[Abstracting Deep Neural Networks into Concept Graphs for Concept Level   Interpretability](http://arxiv.org/abs/2008.06457v1)|2020-08-14 16:34:32+00:00|14-08-2020
+
 ## 14-08-2020
 
 main_author|title|update_date|publish_date
