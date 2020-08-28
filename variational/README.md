@@ -1,5 +1,16 @@
 # variational
 Click on title for link to paper
+## 28-08-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Marco Pavone|[Safe Model-Based Meta-Reinforcement Learning: A Sequential   Exploration-Exploitation Framework](http://arxiv.org/abs/2008.11700v1)|2020-08-26 17:39:58+00:00|26-08-2020
+Konrad Schindler|[Deep Active Learning in Remote Sensing for data efficient Change   Detection](http://arxiv.org/abs/2008.11201v1)|2020-08-25 17:58:17+00:00|25-08-2020
+Peter Richtárik|[PAGE: A Simple and Optimal Probabilistic Gradient Estimator for   Nonconvex Optimization](http://arxiv.org/abs/2008.10898v1)|2020-08-25 09:11:31+00:00|25-08-2020
+Chao Zhang|[SDE-Net: Equipping Deep Neural Networks with Uncertainty Estimates](http://arxiv.org/abs/2008.10546v1)|2020-08-24 16:33:54+00:00|24-08-2020
+Chellu Chandra Sekhar|[Unsupervised Deep Metric Learning via Orthogonality based Probabilistic   Loss](http://arxiv.org/abs/2008.09880v1)|2020-08-22 17:13:33+00:00|22-08-2020
+Herke van Hoof|[Doubly Stochastic Variational Inference for Neural Processes with   Hierarchical Latent Variables](http://arxiv.org/abs/2008.09469v1)|2020-08-21 13:32:12+00:00|21-08-2020
+
 ## 21-08-2020
 
 main_author|title|update_date|publish_date

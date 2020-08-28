@@ -1,5 +1,28 @@
 # fairness
 Click on title for link to paper
+## 28-08-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Qian Wang|[Collaborative Fairness in Federated Learning](http://arxiv.org/abs/2008.12161v1)|2020-08-27 14:39:09+00:00|27-08-2020
+Arun Kumar Kuchibhotla|[Improving Fairness in Criminal Justice Algorithmic Risk Assessments   Using Conformal Prediction Sets](http://arxiv.org/abs/2008.11664v1)|2020-08-26 16:47:02+00:00|26-08-2020
+Andreas Dominik Husch|[On the Composition and Limitations of Publicly Available COVID-19 X-Ray   Imaging Datasets](http://arxiv.org/abs/2008.11572v1)|2020-08-26 14:16:01+00:00|26-08-2020
+Thilo Hagendorff|[Ethical behavior in humans and machines -- Evaluating training data   quality for beneficial machine learning](http://arxiv.org/abs/2008.11463v1)|2020-08-26 09:48:38+00:00|26-08-2020
+Prateek Mishra|[Few Shot Text-Independent speaker verification using 3D-CNN](http://arxiv.org/abs/2008.11088v1)|2020-08-25 15:03:29+00:00|25-08-2020
+Yan Wang|[Auxiliary-task Based Deep Reinforcement Learning for Participant   Selection Problem in Mobile Crowdsourcing](http://arxiv.org/abs/2008.11087v2)|2020-08-26 00:55:05+00:00|25-08-2020
+Patrick Forré|[Improving Fair Predictions Using Variational Inference In Causal Models](http://arxiv.org/abs/2008.10880v1)|2020-08-25 08:27:11+00:00|25-08-2020
+Sudip Vhaduri|[Context-Dependent Implicit Authentication for Wearable Device User](http://arxiv.org/abs/2008.12145v1)|2020-08-25 04:34:19+00:00|25-08-2020
+Marc Niethammer|[The Fairness-Accuracy Pareto Front](http://arxiv.org/abs/2008.10797v1)|2020-08-25 03:32:15+00:00|25-08-2020
+Dipyaman Banerjee|[Sample-Rank: Weak Multi-Objective Recommendations Using Rejection   Sampling](http://arxiv.org/abs/2008.10277v1)|2020-08-24 09:17:18+00:00|24-08-2020
+Yaser Jararweh|[Predicting Helpfulness of Online Reviews](http://arxiv.org/abs/2008.10129v1)|2020-08-23 23:19:17+00:00|23-08-2020
+Gautam Shroff|[Hi-CI: Deep Causal Inference in High Dimensions](http://arxiv.org/abs/2008.09858v1)|2020-08-22 15:41:59+00:00|22-08-2020
+Yiannis Andreopoulos|[Biased Mixtures Of Experts: Enabling Computer Vision Inference Under   Data Transfer Limitations](http://arxiv.org/abs/2008.09662v1)|2020-08-21 19:38:26+00:00|21-08-2020
+Aleksey Min|[Testing for equality between conditional copulas given discretized   conditioning events](http://arxiv.org/abs/2008.09498v1)|2020-08-21 14:26:05+00:00|21-08-2020
+Mehryar Mohri|[Beyond Individual and Group Fairness](http://arxiv.org/abs/2008.09490v1)|2020-08-21 14:14:44+00:00|21-08-2020
+Hemanth Nadipineni|[Method to Classify Skin Lesions using Dermoscopic images](http://arxiv.org/abs/2008.09418v1)|2020-08-21 10:58:33+00:00|21-08-2020
+Helge B D Sorensen|[Automatic sleep stage classification with deep residual networks in a   mixed-cohort setting](http://arxiv.org/abs/2008.09416v1)|2020-08-21 10:48:35+00:00|21-08-2020
+Chitta Baral|"[It's better to say ""I can't answer"" than answering incorrectly: Towards   Safety critical NLP systems](http://arxiv.org/abs/2008.09371v1)"|2020-08-21 08:46:36+00:00|21-08-2020
+
 ## 21-08-2020
 
 main_author|title|update_date|publish_date

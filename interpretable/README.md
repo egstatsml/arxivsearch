@@ -1,5 +1,15 @@
 # interpretable
 Click on title for link to paper
+## 28-08-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Romain Hennequin|[Making Neural Networks Interpretable with Attribution: Application to   Implicit Signals Prediction](http://arxiv.org/abs/2008.11406v1)|2020-08-26 06:46:49+00:00|26-08-2020
+Yasuo Kuniyoshi|[Identifying Critical States by the Action-Based Variance of Expected   Return](http://arxiv.org/abs/2008.11332v1)|2020-08-26 01:38:58+00:00|26-08-2020
+Ayse K. Coskun|[Counterfactual Explanations for Machine Learning on Multivariate Time   Series Data](http://arxiv.org/abs/2008.10781v1)|2020-08-25 02:04:59+00:00|25-08-2020
+Eldad Klaiman|[Certainty Pooling for Multiple Instance Learning](http://arxiv.org/abs/2008.10548v1)|2020-08-24 16:38:46+00:00|24-08-2020
+Peter Tu|[Emergent symbolic language based deep medical image classification](http://arxiv.org/abs/2008.09860v1)|2020-08-22 15:53:29+00:00|22-08-2020
+
 ## 21-08-2020
 
 main_author|title|update_date|publish_date

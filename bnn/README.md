@@ -1,5 +1,24 @@
 # bnn
 Click on title for link to paper
+## 28-08-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+T. J. Sullivan|[The linear conditional expectation in Hilbert space](http://arxiv.org/abs/2008.12070v1)|2020-08-27 11:56:51+00:00|27-08-2020
+Saumik Bhattacharya|[A Data-driven Understanding of COVID-19 Dynamics Using Sequential   Genetic Algorithm Based Probabilistic Cellular Automata](http://arxiv.org/abs/2008.12020v1)|2020-08-27 09:53:21+00:00|27-08-2020
+Marco Pavone|[Safe Model-Based Meta-Reinforcement Learning: A Sequential   Exploration-Exploitation Framework](http://arxiv.org/abs/2008.11700v1)|2020-08-26 17:39:58+00:00|26-08-2020
+Zilu Tang|[Discrete Word Embedding for Logical Natural Language Understanding](http://arxiv.org/abs/2008.11649v1)|2020-08-26 16:15:18+00:00|26-08-2020
+Maria Maleshkova|[Training Multimodal Systems for Classification with Multiple Objectives](http://arxiv.org/abs/2008.11450v1)|2020-08-26 09:05:40+00:00|26-08-2020
+Ajitabh Kumar|[Uncertainty-Aware Surrogate Model For Oilfield Reservoir Simulation](http://arxiv.org/abs/2008.11433v1)|2020-08-26 08:03:03+00:00|26-08-2020
+Dagmar Kainmueller|[Probabilistic Deep Learning for Instance Segmentation](http://arxiv.org/abs/2008.10678v1)|2020-08-24 19:51:48+00:00|24-08-2020
+Russ Tedrake|[Neural Bridge Sampling for Evaluating Safety-Critical Autonomous Systems](http://arxiv.org/abs/2008.10581v1)|2020-08-24 17:46:27+00:00|24-08-2020
+Chao Zhang|[SDE-Net: Equipping Deep Neural Networks with Uncertainty Estimates](http://arxiv.org/abs/2008.10546v1)|2020-08-24 16:33:54+00:00|24-08-2020
+Wenyu Zhang|[Hierarchical Adaptive Lasso: Learning Sparse Neural Networks with   Shrinkage via Single Stage Training](http://arxiv.org/abs/2008.10183v1)|2020-08-24 04:08:48+00:00|24-08-2020
+Virgilio Centeno|[Deep Neural Network based Wide-Area Event Classification in Power   Systems](http://arxiv.org/abs/2008.10151v1)|2020-08-24 01:32:57+00:00|24-08-2020
+Choong Seon Hong|[Drive Safe: Cognitive-Behavioral Mining for Intelligent Transportation   Cyber-Physical System](http://arxiv.org/abs/2008.10148v1)|2020-08-24 01:19:40+00:00|24-08-2020
+Daoyi Dong|[Quantum Language Model with Entanglement Embedding for Question   Answering](http://arxiv.org/abs/2008.09943v1)|2020-08-23 02:34:26+00:00|23-08-2020
+Danilo J. Rezende|[Amortized learning of neural causal representations](http://arxiv.org/abs/2008.09301v1)|2020-08-21 04:35:06+00:00|21-08-2020
+
 ## 21-08-2020
 
 main_author|title|update_date|publish_date
