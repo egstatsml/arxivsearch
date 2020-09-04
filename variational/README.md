@@ -1,5 +1,19 @@
 # variational
 Click on title for link to paper
+## 04-09-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Naomi Leonard|[Heterogeneous Explore-Exploit Strategies on Multi-Star Networks](http://arxiv.org/abs/2009.01339v1)|2020-09-02 20:56:49+00:00|02-09-2020
+Aki Vehtari|[Robust, Accurate Stochastic Optimization for Variational Inference](http://arxiv.org/abs/2009.00666v2)|2020-09-03 15:45:09+00:00|01-09-2020
+Yuanqing Xia|[Stochastic Graph Recurrent Neural Network](http://arxiv.org/abs/2009.00538v1)|2020-09-01 16:14:30+00:00|01-09-2020
+Shiliang Pu|[RangeRCNN: Towards Fast and Accurate 3D Object Detection with Range   Image Representation](http://arxiv.org/abs/2009.00206v1)|2020-09-01 03:28:13+00:00|01-09-2020
+Cecilia Mascolo|[$β$-Cores: Robust Large-Scale Bayesian Data Summarization in the   Presence of Outliers](http://arxiv.org/abs/2008.13600v1)|2020-08-31 13:47:12+00:00|31-08-2020
+Mohsen Guizani|[Optimization-driven Machine Learning for Intelligent Reflecting Surfaces   Assisted Wireless Networks](http://arxiv.org/abs/2008.12938v1)|2020-08-29 08:39:43+00:00|29-08-2020
+Junghye Lee|[GRAFFL: Gradient-free Federated Learning of a Bayesian Generative Model](http://arxiv.org/abs/2008.12925v1)|2020-08-29 07:19:44+00:00|29-08-2020
+Xiaofang Wang|[Modulating Scalable Gaussian Processes for Expressive Statistical   Learning](http://arxiv.org/abs/2008.12922v1)|2020-08-29 06:41:45+00:00|29-08-2020
+Hong Zheng|[Cost-Quality Adaptive Active Learning for Chinese Clinical Named Entity   Recognition](http://arxiv.org/abs/2008.12548v1)|2020-08-28 09:27:43+00:00|28-08-2020
+
 ## 28-08-2020
 
 main_author|title|update_date|publish_date

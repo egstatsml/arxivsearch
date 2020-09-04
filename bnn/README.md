@@ -1,5 +1,28 @@
 # bnn
 Click on title for link to paper
+## 04-09-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Brian Mac Namee|[Ramifications of Approximate Posterior Inference for Bayesian Deep   Learning in Adversarial and Out-of-Distribution Settings](http://arxiv.org/abs/2009.01798v1)|2020-09-03 16:58:15+00:00|03-09-2020
+Marco F. Huber|[Bayesian Perceptron: Towards fully Bayesian Neural Networks](http://arxiv.org/abs/2009.01730v1)|2020-09-03 15:08:49+00:00|03-09-2020
+Hyuk-Jae Lee|[Layer-specific Optimization for Mixed Data Flow with Mixed Precision in   FPGA Design for CNN-based Object Detectors](http://arxiv.org/abs/2009.01588v1)|2020-09-03 11:27:40+00:00|03-09-2020
+Osvaldo Simeone|[End-to-End Learning of Neuromorphic Wireless Systems for Low-Power Edge   Artificial Intelligence](http://arxiv.org/abs/2009.01527v1)|2020-09-03 09:10:16+00:00|03-09-2020
+Ifeoma Nwogu|[Modeling Global Body Configurations in American Sign Language](http://arxiv.org/abs/2009.01468v1)|2020-09-03 06:20:10+00:00|03-09-2020
+C. -C. Jay Kuo|[NITES: A Non-Parametric Interpretable Texture Synthesis Method](http://arxiv.org/abs/2009.01376v1)|2020-09-02 22:52:44+00:00|02-09-2020
+William Chan|[WaveGrad: Estimating Gradients for Waveform Generation](http://arxiv.org/abs/2009.00713v1)|2020-09-02 17:44:10+00:00|02-09-2020
+B. Verheij|[Local-HDP: Interactive Open-Ended 3D Object Categorization](http://arxiv.org/abs/2009.01152v1)|2020-09-02 15:55:49+00:00|02-09-2020
+Mário A. T. Figueiredo|[Variational Mixture of Normalizing Flows](http://arxiv.org/abs/2009.00585v1)|2020-09-01 17:20:08+00:00|01-09-2020
+Dacheng Tao|[Heatmap Regression via Randomized Rounding](http://arxiv.org/abs/2009.00225v1)|2020-09-01 04:54:22+00:00|01-09-2020
+Cecilia Mascolo|[$β$-Cores: Robust Large-Scale Bayesian Data Summarization in the   Presence of Outliers](http://arxiv.org/abs/2008.13600v1)|2020-08-31 13:47:12+00:00|31-08-2020
+Stefan Leutenegger|[Deep Probabilistic Feature-metric Tracking](http://arxiv.org/abs/2008.13504v1)|2020-08-31 11:47:59+00:00|31-08-2020
+Kyumin Lee|[Quaternion-Based Self-Attentive Long Short-Term User Preference Encoding   for Recommendation](http://arxiv.org/abs/2008.13335v1)|2020-08-31 03:22:14+00:00|31-08-2020
+F. Trevor Rogers|[Loss convergence in a causal Bayesian neural network of retail firm   performance](http://arxiv.org/abs/2008.13038v1)|2020-08-29 19:16:43+00:00|29-08-2020
+Junghye Lee|[GRAFFL: Gradient-free Federated Learning of a Bayesian Generative Model](http://arxiv.org/abs/2008.12925v1)|2020-08-29 07:19:44+00:00|29-08-2020
+Josef Schreiner|[Nowcasting in a Pandemic using Non-Parametric Mixed Frequency VARs](http://arxiv.org/abs/2008.12706v1)|2020-08-28 15:35:54+00:00|28-08-2020
+C. Wachinger|[Bayesian Neural Networks for Uncertainty Estimation of Imaging   Biomarkers](http://arxiv.org/abs/2008.12680v2)|2020-09-01 23:22:54+00:00|28-08-2020
+Flavian Vasile|[BLOB : A Probabilistic Model for Recommendation that Combines Organic   and Bandit Signals](http://arxiv.org/abs/2008.12504v1)|2020-08-28 06:57:10+00:00|28-08-2020
+
 ## 28-08-2020
 
 main_author|title|update_date|publish_date

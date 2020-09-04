@@ -1,5 +1,11 @@
 # interpretable
 Click on title for link to paper
+## 04-09-2020
+
+title|publish_date|main_author
+---|---|---
+No papers found this week|04-09-2020|  
+
 ## 28-08-2020
 
 main_author|title|update_date|publish_date

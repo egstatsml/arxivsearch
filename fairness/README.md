@@ -1,5 +1,34 @@
 # fairness
 Click on title for link to paper
+## 04-09-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Tsendsuren Munkhdalai|[Sparse Meta Networks for Sequential Adaptation and its Application to   Adaptive Language Modelling](http://arxiv.org/abs/2009.01803v1)|2020-09-03 17:06:52+00:00|03-09-2020
+Brian Mac Namee|[Ramifications of Approximate Posterior Inference for Bayesian Deep   Learning in Adversarial and Out-of-Distribution Settings](http://arxiv.org/abs/2009.01798v1)|2020-09-03 16:58:15+00:00|03-09-2020
+Maximilien Kintz|[Can AutoML outperform humans? An evaluation on popular OpenML datasets   using AutoML Benchmark](http://arxiv.org/abs/2009.01564v1)|2020-09-03 10:25:34+00:00|03-09-2020
+Joseph Keshet|[Fairness in the Eyes of the Data: Certifying Machine-Learning Models](http://arxiv.org/abs/2009.01534v1)|2020-09-03 09:22:39+00:00|03-09-2020
+Suhang Wang|[FairGNN: Eliminating the Discrimination in Graph Neural Networks with   Limited Sensitive Attribute Information](http://arxiv.org/abs/2009.01454v1)|2020-09-03 05:17:30+00:00|03-09-2020
+Dahua Lin|[Understanding the wiring evolution in differentiable neural architecture   search](http://arxiv.org/abs/2009.01272v1)|2020-09-02 18:08:34+00:00|02-09-2020
+Hervé Delingette|[Quasi-symplectic Langevin Variational Autoencoder](http://arxiv.org/abs/2009.01675v1)|2020-09-02 12:13:27+00:00|02-09-2020
+Chang Xu|[Adversarially Robust Neural Architectures](http://arxiv.org/abs/2009.00902v1)|2020-09-02 08:52:15+00:00|02-09-2020
+Dina Taiwe Kolyang|[Application of LSTM architectures for next frame forecasting in   Sentinel-1 images time series](http://arxiv.org/abs/2009.00841v1)|2020-09-02 06:44:16+00:00|02-09-2020
+John H. L. Hansen|[Speaker Representation Learning using Global Context Guided Channel and   Time-Frequency Transformations](http://arxiv.org/abs/2009.00768v1)|2020-09-02 01:07:29+00:00|02-09-2020
+Steve Kroon|[Performance-Agnostic Fusion of Probabilistic Classifier Outputs](http://arxiv.org/abs/2009.00565v1)|2020-09-01 16:53:29+00:00|01-09-2020
+Guiping Hu|[Improved Weighted Random Forest for Classification Problems](http://arxiv.org/abs/2009.00534v1)|2020-09-01 16:08:45+00:00|01-09-2020
+Zhenan Sun|[Recognition Oriented Iris Image Quality Assessment in the Feature Space](http://arxiv.org/abs/2009.00294v1)|2020-09-01 08:58:18+00:00|01-09-2020
+Kurt Keutzer|[A Review of Single-Source Deep Unsupervised Visual Domain Adaptation](http://arxiv.org/abs/2009.00155v1)|2020-09-01 00:06:50+00:00|01-09-2020
+Elad Benjamin|[A Multisite, Report-Based, Centralized Infrastructure for Feedback and   Monitoring of Radiology AI/ML Development and Clinical Deployment](http://arxiv.org/abs/2008.13781v1)|2020-08-31 17:59:04+00:00|31-08-2020
+Ioannis Kanellos|[Initial Classifier Weights Replay for Memoryless Class Incremental   Learning](http://arxiv.org/abs/2008.13710v1)|2020-08-31 16:18:12+00:00|31-08-2020
+Frank-Michael Schleif|[Complex-valued embeddings of generic proximity data](http://arxiv.org/abs/2008.13454v1)|2020-08-31 09:40:30+00:00|31-08-2020
+Ali Borji|[Shape Defense](http://arxiv.org/abs/2008.13336v1)|2020-08-31 03:23:59+00:00|31-08-2020
+Giulio Sandini|[Action similarity judgment based on kinematic primitives](http://arxiv.org/abs/2008.13176v1)|2020-08-30 13:58:47+00:00|30-08-2020
+Marcin Detyniecki|[Adversarial Learning for Counterfactual Fairness](http://arxiv.org/abs/2008.13122v1)|2020-08-30 09:06:03+00:00|30-08-2020
+Daniel Rueckert|[Patch-based Brain Age Estimation from MR Images](http://arxiv.org/abs/2008.12965v1)|2020-08-29 11:50:37+00:00|29-08-2020
+Shannon M. Lynch|[A Rigorous Machine Learning Analysis Pipeline for Biomedical Binary   Classification: Application in Pancreatic Cancer Nested Case-control Studies   with Implications for Bias Assessments](http://arxiv.org/abs/2008.12829v1)|2020-08-28 19:58:05+00:00|28-08-2020
+Jiucai Zhang|[Meta Reinforcement Learning-Based Lane Change Strategy for Autonomous   Vehicles](http://arxiv.org/abs/2008.12451v1)|2020-08-28 02:57:11+00:00|28-08-2020
+Weijun Xie|[Exact and Approximation Algorithms for Sparse PCA](http://arxiv.org/abs/2008.12438v1)|2020-08-28 02:07:08+00:00|28-08-2020
+
 ## 28-08-2020
 
 main_author|title|update_date|publish_date
