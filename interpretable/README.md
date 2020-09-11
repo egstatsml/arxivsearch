@@ -1,5 +1,11 @@
 # interpretable
 Click on title for link to paper
+## 11-09-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Peter Fettke|[Explainable Artificial Intelligence for Process Mining: A General   Overview and Application of a Novel Local Explanation Approach for Predictive   Process Monitoring](http://arxiv.org/abs/2009.02098v1)|2020-09-04 10:28:56+00:00|04-09-2020
+
 ## 04-09-2020
 
 title|publish_date|main_author

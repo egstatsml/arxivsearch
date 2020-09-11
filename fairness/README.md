@@ -1,5 +1,31 @@
 # fairness
 Click on title for link to paper
+## 11-09-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Soujanya Poria|[Investigating Gender Bias in BERT](http://arxiv.org/abs/2009.05021v1)|2020-09-10 17:38:32+00:00|10-09-2020
+Nicolas Heess|[Importance Weighted Policy Learning and Adaption](http://arxiv.org/abs/2009.04875v1)|2020-09-10 14:16:58+00:00|10-09-2020
+Filipe Rodrigues|[Generalized Multi-Output Gaussian Process Censored Regression](http://arxiv.org/abs/2009.04822v1)|2020-09-10 12:46:29+00:00|10-09-2020
+Gerald Kane|[A Framework for Fairer Machine Learning in Organizations](http://arxiv.org/abs/2009.04661v1)|2020-09-10 04:07:10+00:00|10-09-2020
+Claudiu Musat|[Addressing Fairness in Classification with a Model-Agnostic   Multi-Objective Algorithm](http://arxiv.org/abs/2009.04441v1)|2020-09-09 17:40:24+00:00|09-09-2020
+Venkata Sriram Siddhardh Nadendla|[On the Identification of Fair Auditors to Evaluate Recommender Systems   based on a Novel Non-Comparative Fairness Notion](http://arxiv.org/abs/2009.04383v1)|2020-09-09 16:04:41+00:00|09-09-2020
+Rui Gao|[Finite-Sample Guarantees for Wasserstein Distributionally Robust   Optimization: Breaking the Curse of Dimensionality](http://arxiv.org/abs/2009.04382v1)|2020-09-09 16:02:57+00:00|09-09-2020
+Yannis Panagakis|[Multilinear Latent Conditioning for Generating Unseen Attribute   Combinations](http://arxiv.org/abs/2009.04075v1)|2020-09-09 02:23:13+00:00|09-09-2020
+Hengrui Luo|[A Distance-preserving Matrix Sketch](http://arxiv.org/abs/2009.03979v1)|2020-09-08 20:15:14+00:00|08-09-2020
+Mehdi Ammi|[Interpreting Deep Glucose Predictive Models for Diabetic People Using   RETAIN](http://arxiv.org/abs/2009.04524v1)|2020-09-08 13:20:15+00:00|08-09-2020
+Bernd Bickel|[Computational Design of Cold Bent Glass Façades](http://arxiv.org/abs/2009.03667v1)|2020-09-08 12:14:37+00:00|08-09-2020
+Blaž Škrlj|[SNoRe: Scalable Unsupervised Learning of Symbolic Node Representations](http://arxiv.org/abs/2009.04535v1)|2020-09-08 08:13:21+00:00|08-09-2020
+Marcin Detyniecki|[Learning Unbiased Representations via Rényi Minimization](http://arxiv.org/abs/2009.03183v1)|2020-09-07 15:48:24+00:00|07-09-2020
+Jing Tao|[Doubly Robust Semiparametric Difference-in-Differences Estimators with   High-Dimensional Data](http://arxiv.org/abs/2009.03151v1)|2020-09-07 15:14:29+00:00|07-09-2020
+Pietro Vischia|[Unfolding by Folding: a resampling approach to the problem of matrix   inversion without actually inverting any matrix](http://arxiv.org/abs/2009.02913v1)|2020-09-07 07:20:45+00:00|07-09-2020
+Max Botler|[Anomaly Detection With Partitioning Overfitting Autoencoder Ensembles](http://arxiv.org/abs/2009.02755v1)|2020-09-06 15:35:53+00:00|06-09-2020
+Arno Onken|[CalciumGAN: A Generative Adversarial Network Model for Synthesising   Realistic Calcium Imaging Data of Neuronal Populations](http://arxiv.org/abs/2009.02707v2)|2020-09-08 03:58:43+00:00|06-09-2020
+Klaus Mueller|[Active Learning++: Incorporating Annotator's Rationale using Local Model   Explanation](http://arxiv.org/abs/2009.04568v1)|2020-09-06 08:07:33+00:00|06-09-2020
+Tian Gao|"[""And the Winner Is..."": Dynamic Lotteries for Multi-group Fairness-Aware   Recommendation](http://arxiv.org/abs/2009.02590v1)"|2020-09-05 20:15:14+00:00|05-09-2020
+Huy L. Nguyen|[Fair and Useful Cohort Selection](http://arxiv.org/abs/2009.02207v1)|2020-09-04 14:06:08+00:00|04-09-2020
+Xiangyang Xue|[A New Screening Method for COVID-19 based on Ocular Feature Recognition   by Machine Learning Tools](http://arxiv.org/abs/2009.03184v1)|2020-09-04 00:50:27+00:00|04-09-2020
+
 ## 04-09-2020
 
 main_author|title|update_date|publish_date

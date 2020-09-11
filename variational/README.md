@@ -1,5 +1,16 @@
 # variational
 Click on title for link to paper
+## 11-09-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Alexander I. Nesterov|[Deep learning for gravitational-wave data analysis: A resampling   white-box approach](http://arxiv.org/abs/2009.04088v1)|2020-09-09 03:28:57+00:00|09-09-2020
+Takayuki Mizuno|[Nondiagonal Mixture of Dirichlet Network Distributions for Analyzing a   Stock Ownership Network](http://arxiv.org/abs/2009.04446v1)|2020-09-08 05:56:10+00:00|08-09-2020
+Nick Barnes|[Uncertainty Inspired RGB-D Saliency Detection](http://arxiv.org/abs/2009.03075v1)|2020-09-07 13:01:45+00:00|07-09-2020
+Partha Maji|[Stochastic-YOLO: Efficient Probabilistic Object Detection under Dataset   Shifts](http://arxiv.org/abs/2009.02967v1)|2020-09-07 09:28:17+00:00|07-09-2020
+Ch. Schwab|[Higher-order Quasi-Monte Carlo Training of Deep Neural Networks](http://arxiv.org/abs/2009.02713v1)|2020-09-06 11:31:42+00:00|06-09-2020
+Kun Chen|[Suicide Risk Modeling with Uncertain Diagnostic Records](http://arxiv.org/abs/2009.02597v1)|2020-09-05 20:47:16+00:00|05-09-2020
+
 ## 04-09-2020
 
 main_author|title|update_date|publish_date

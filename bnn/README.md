@@ -1,5 +1,22 @@
 # bnn
 Click on title for link to paper
+## 11-09-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Nicolas Heess|[Importance Weighted Policy Learning and Adaption](http://arxiv.org/abs/2009.04875v1)|2020-09-10 14:16:58+00:00|10-09-2020
+Alexander I. Nesterov|[Deep learning for gravitational-wave data analysis: A resampling   white-box approach](http://arxiv.org/abs/2009.04088v1)|2020-09-09 03:28:57+00:00|09-09-2020
+Mevin B. Hooten|[Bayesian Inverse Reinforcement Learning for Collective Animal Movement](http://arxiv.org/abs/2009.04003v1)|2020-09-08 21:33:52+00:00|08-09-2020
+Robert Frank|[Probabilistic Predictions of People Perusing: Evaluating Metrics of   Language Model Performance for Psycholinguistic Modeling](http://arxiv.org/abs/2009.03954v1)|2020-09-08 19:12:06+00:00|08-09-2020
+Thomas A. Mellan|[Simulating normalising constants with referenced thermodynamic   integration: application to COVID-19 model selection](http://arxiv.org/abs/2009.03851v2)|2020-09-10 17:26:52+00:00|08-09-2020
+Takayuki Mizuno|[Nondiagonal Mixture of Dirichlet Network Distributions for Analyzing a   Stock Ownership Network](http://arxiv.org/abs/2009.04446v1)|2020-09-08 05:56:10+00:00|08-09-2020
+L. M. Sarro|[Modeling protoplanetary disk SEDs with artificial neural networks:   Revisiting the viscous disk model and updated disk masses](http://arxiv.org/abs/2009.03323v1)|2020-09-07 18:00:02+00:00|07-09-2020
+Lenart Treven|[Iterative Correction of Sensor Degradation and a Bayesian Multi-Sensor   Data Fusion Method](http://arxiv.org/abs/2009.03091v1)|2020-09-07 13:24:47+00:00|07-09-2020
+Nick Barnes|[Uncertainty Inspired RGB-D Saliency Detection](http://arxiv.org/abs/2009.03075v1)|2020-09-07 13:01:45+00:00|07-09-2020
+Partha Maji|[Stochastic-YOLO: Efficient Probabilistic Object Detection under Dataset   Shifts](http://arxiv.org/abs/2009.02967v1)|2020-09-07 09:28:17+00:00|07-09-2020
+Sergios Theodoridis|[Towards Probabilistic Tensor Canonical Polyadic Decomposition 2.0:   Automatic Tensor Rank Learning Using Generalized Hyperbolic Prior](http://arxiv.org/abs/2009.02472v1)|2020-09-05 06:07:21+00:00|05-09-2020
+Wei-Lun Chao|[FedDistill: Making Bayesian Model Ensemble Applicable to Federated   Learning](http://arxiv.org/abs/2009.01974v1)|2020-09-04 01:18:25+00:00|04-09-2020
+
 ## 04-09-2020
 
 main_author|title|update_date|publish_date
