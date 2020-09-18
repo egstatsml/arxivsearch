@@ -1,5 +1,16 @@
 # interpretable
 Click on title for link to paper
+## 18-09-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Andrei Nicolicioiu|[Dynamic Regions Graph Neural Networks for Spatio-Temporal Reasoning](http://arxiv.org/abs/2009.08427v1)|2020-09-17 17:23:38+00:00|17-09-2020
+Alessandra Rufa|[Gravitational Models Explain Shifts on Human Visual Attention](http://arxiv.org/abs/2009.06963v1)|2020-09-15 10:12:41+00:00|15-09-2020
+Konstantina S. Nikita|[An explainable XGBoost-based approach towards assessing the risk of   cardiovascular disease in patients with Type 2 Diabetes Mellitus](http://arxiv.org/abs/2009.06629v1)|2020-09-14 12:19:10+00:00|14-09-2020
+Mark T. Keane|[On Generating Plausible Counterfactual and Semi-Factual Explanations for   Deep Learning](http://arxiv.org/abs/2009.06399v1)|2020-09-10 14:48:12+00:00|10-09-2020
+Isabelle Augenstein|[Multi-Hop Fact Checking of Political Claims](http://arxiv.org/abs/2009.06401v1)|2020-09-10 13:54:15+00:00|10-09-2020
+Alexander Wong|[COVIDNet-CT: A Tailored Deep Convolutional Neural Network Design for   Detection of COVID-19 Cases from Chest CT Images](http://arxiv.org/abs/2009.05383v1)|2020-09-08 15:49:55+00:00|08-09-2020
+
 ## 11-09-2020
 
 main_author|title|update_date|publish_date

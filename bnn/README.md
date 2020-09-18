@@ -1,5 +1,28 @@
 # bnn
 Click on title for link to paper
+## 18-09-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Pietro Lió|[Graph representation forecasting of patient's medical conditions:   towards a digital twin](http://arxiv.org/abs/2009.08299v1)|2020-09-17 13:49:48+00:00|17-09-2020
+Kewei Tu|[Fast and Accurate Sequence Labeling with Approximate Inference Network](http://arxiv.org/abs/2009.08229v1)|2020-09-17 12:18:43+00:00|17-09-2020
+Ichiro Takeuchi|[Mean-Variance Analysis in Bayesian Optimization under Uncertainty](http://arxiv.org/abs/2009.08166v1)|2020-09-17 09:21:46+00:00|17-09-2020
+Junlan Feng|[A Probabilistic End-To-End Task-Oriented Dialog Model with Latent Belief   States towards Semi-Supervised Learning](http://arxiv.org/abs/2009.08115v1)|2020-09-17 07:26:37+00:00|17-09-2020
+Alexander Lavin|[Neuro-symbolic Neurodegenerative Disease Modeling as Probabilistic   Programmed Deep Kernels](http://arxiv.org/abs/2009.07738v1)|2020-09-16 15:16:03+00:00|16-09-2020
+Justin Dauwels|[Efficient Variational Bayesian Structure Learning of Dynamic Graphical   Models](http://arxiv.org/abs/2009.07703v1)|2020-09-16 14:19:23+00:00|16-09-2020
+Jie Xu|[Neural Dialogue State Tracking with Temporally Expressive Networks](http://arxiv.org/abs/2009.07615v1)|2020-09-16 11:53:00+00:00|16-09-2020
+Ben Cox|[Deep Learning in Photoacoustic Tomography: Current approaches and future   directions](http://arxiv.org/abs/2009.07608v1)|2020-09-16 11:33:29+00:00|16-09-2020
+Alex A. Freitas|[An Extensive Experimental Evaluation of Automated Machine Learning   Methods for Recommending Classification Algorithms (Extended Version)](http://arxiv.org/abs/2009.07430v1)|2020-09-16 02:36:43+00:00|16-09-2020
+Alison Marsden|[Geometric Uncertainty in Patient-Specific Cardiovascular Modeling with   Convolutional Dropout Networks](http://arxiv.org/abs/2009.07395v1)|2020-09-16 00:13:12+00:00|16-09-2020
+Nanyun Peng|[Domain Knowledge Empowered Structured Neural Net for End-to-End Event   Temporal Relation Extraction](http://arxiv.org/abs/2009.07373v1)|2020-09-15 22:20:27+00:00|15-09-2020
+Natalia Efremova|[Optimal Use of Multi-spectral Satellite Data with Convolutional Neural   Networks](http://arxiv.org/abs/2009.07000v1)|2020-09-15 11:55:45+00:00|15-09-2020
+J. F. C. Yu|[Density Estimation via Bayesian Inference Engines](http://arxiv.org/abs/2009.06182v1)|2020-09-14 04:07:51+00:00|14-09-2020
+Takashi Takekawa|[Clustering of non-Gaussian data by variational Bayes for normal inverse   Gaussian mixture models](http://arxiv.org/abs/2009.06002v1)|2020-09-13 14:13:27+00:00|13-09-2020
+Vivek Sarkar|[Advanced Graph-Based Deep Learning for Probabilistic Type Inference](http://arxiv.org/abs/2009.05949v1)|2020-09-13 08:13:01+00:00|13-09-2020
+Naifu Zhang|[Extended Radial Basis Function Controller for Reinforcement Learning](http://arxiv.org/abs/2009.05866v1)|2020-09-12 20:56:48+00:00|12-09-2020
+Leslie Pack Kaelbling|[Planning with Learned Object Importance in Large Problem Instances using   Graph Neural Networks](http://arxiv.org/abs/2009.05613v1)|2020-09-11 18:55:08+00:00|11-09-2020
+Osvaldo Simeone|[Federated Generalized Bayesian Learning via Distributed Stein   Variational Gradient Descent](http://arxiv.org/abs/2009.06419v1)|2020-09-11 17:33:22+00:00|11-09-2020
+
 ## 11-09-2020
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,17 @@
 # mcmc
 Click on title for link to paper
+## 18-09-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Ichiro Takeuchi|[Mean-Variance Analysis in Bayesian Optimization under Uncertainty](http://arxiv.org/abs/2009.08166v1)|2020-09-17 09:21:46+00:00|17-09-2020
+Leto Peel|[Hierarchical community structure in networks](http://arxiv.org/abs/2009.07196v1)|2020-09-15 16:18:26+00:00|15-09-2020
+Donald Estep|[Learning Quantities of Interest from Dynamical Systems for   Observation-Consistent Inversion](http://arxiv.org/abs/2009.06918v1)|2020-09-15 08:27:27+00:00|15-09-2020
+Rainer Stiefelhagen|[Unsupervised Domain Adaptation by Uncertain Feature Alignment](http://arxiv.org/abs/2009.06483v1)|2020-09-14 14:42:41+00:00|14-09-2020
+Shunichi Koshimura|[Learning from Multimodal and Multitemporal Earth Observation Data for   Building Damage Mapping](http://arxiv.org/abs/2009.06200v1)|2020-09-14 05:04:19+00:00|14-09-2020
+Mac Schwager|[Risk-Sensitive Sequential Action Control with Multi-Modal Human   Trajectory Forecasting for Safe Crowd-Robot Interaction](http://arxiv.org/abs/2009.05702v1)|2020-09-12 02:02:52+00:00|12-09-2020
+Sarah Ostadabbas|[Deep Switching Auto-Regressive Factorization:Application to Time Series   Forecasting](http://arxiv.org/abs/2009.05135v1)|2020-09-10 20:15:59+00:00|10-09-2020
+
 ## 11-09-2020
 
 main_author|title|update_date|publish_date
