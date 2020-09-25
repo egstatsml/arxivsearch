@@ -1,5 +1,29 @@
 # bnn
 Click on title for link to paper
+## 25-09-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Benedikt Pfülb|[A Rigorous Link Between Self-Organizing Maps and Gaussian Mixture Models](http://arxiv.org/abs/2009.11710v1)|2020-09-24 14:09:04+00:00|24-09-2020
+Ufuk Topcu|[Robust Finite-State Controllers for Uncertain POMDPs](http://arxiv.org/abs/2009.11459v1)|2020-09-24 02:58:50+00:00|24-09-2020
+Zitao Liu|[Representation Learning from Limited Educational Data with Crowdsourced   Labels](http://arxiv.org/abs/2009.11222v1)|2020-09-23 15:34:40+00:00|23-09-2020
+Robert Busa-Fekete|[Probabilistic Label Trees for Extreme Multi-label Classification](http://arxiv.org/abs/2009.11218v1)|2020-09-23 15:30:00+00:00|23-09-2020
+Jennifer Neville|[A Hybrid Model for Learning Embeddings and Logical Rules Simultaneously   from Knowledge Graphs](http://arxiv.org/abs/2009.10800v1)|2020-09-22 20:29:27+00:00|22-09-2020
+Tamara Broderick|[Independent finite approximations for Bayesian nonparametric inference:   construction, error bounds, and practical implications](http://arxiv.org/abs/2009.10780v1)|2020-09-22 19:37:21+00:00|22-09-2020
+Steven Hoi|[Partially Observable Online Change Detection via Smooth-Sparse   Decomposition](http://arxiv.org/abs/2009.10645v1)|2020-09-22 16:03:04+00:00|22-09-2020
+Yufei Ding|[Uncertainty-aware Attention Graph Neural Network for Defending   Adversarial Attacks](http://arxiv.org/abs/2009.10235v1)|2020-09-22 00:46:40+00:00|22-09-2020
+Niraj K. Jha|[DISPATCH: Design Space Exploration of Cyber-Physical Systems](http://arxiv.org/abs/2009.10214v1)|2020-09-21 23:14:51+00:00|21-09-2020
+Bryan Catanzaro|[DiffWave: A Versatile Diffusion Model for Audio Synthesis](http://arxiv.org/abs/2009.09761v1)|2020-09-21 11:20:38+00:00|21-09-2020
+Shixia Liu|[Interactive Steering of Hierarchical Clustering](http://arxiv.org/abs/2009.09618v1)|2020-09-21 05:26:07+00:00|21-09-2020
+Samuel Anthony|[Modeling Score Distributions and Continuous Covariates: A Bayesian   Approach](http://arxiv.org/abs/2009.09583v1)|2020-09-21 02:41:20+00:00|21-09-2020
+Mirko Pieropan|[Expectation propagation for the diluted Bayesian classifier](http://arxiv.org/abs/2009.09545v1)|2020-09-20 23:59:44+00:00|20-09-2020
+Faming Liang|[Stochastic Gradient Langevin Dynamics Algorithms with Adaptive Drifts](http://arxiv.org/abs/2009.09535v1)|2020-09-20 22:03:39+00:00|20-09-2020
+Yang Chen|[Remote sensing image fusion based on Bayesian GAN](http://arxiv.org/abs/2009.09465v1)|2020-09-20 16:15:51+00:00|20-09-2020
+Lenka Zdeborová|[Epidemic mitigation by statistical inference from contact tracing data](http://arxiv.org/abs/2009.09422v1)|2020-09-20 12:24:45+00:00|20-09-2020
+Changyou Chen|[Repulsive Attention: Rethinking Multi-head Attention as Bayesian   Inference](http://arxiv.org/abs/2009.09364v1)|2020-09-20 06:32:23+00:00|20-09-2020
+Amir Mosavi|[Early detection of the advanced persistent threat attack using   performance analysis of deep learning](http://arxiv.org/abs/2009.10524v1)|2020-09-19 19:27:35+00:00|19-09-2020
+Benoit Chachuat|[Modifier Adaptation Meets Bayesian Optimization and Derivative-Free   Optimization](http://arxiv.org/abs/2009.08819v1)|2020-09-18 12:57:17+00:00|18-09-2020
+
 ## 18-09-2020
 
 main_author|title|update_date|publish_date

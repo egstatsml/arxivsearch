@@ -1,5 +1,49 @@
 # fairness
 Click on title for link to paper
+## 25-09-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Gaurav S. Sukhatme|[Learning Equality Constraints for Motion Planning on Manifolds](http://arxiv.org/abs/2009.11852v1)|2020-09-24 17:54:28+00:00|24-09-2020
+Lilian Berton|[Identifying noisy labels with a transductive semi-supervised   leave-one-out filter](http://arxiv.org/abs/2009.11811v1)|2020-09-24 16:50:06+00:00|24-09-2020
+Laurence Aitchison|[Legally grounded fairness objectives](http://arxiv.org/abs/2009.11677v1)|2020-09-24 13:30:03+00:00|24-09-2020
+Ajita Rattani|[Understanding Fairness of Gender Classification Algorithms Across   Gender-Race Groups](http://arxiv.org/abs/2009.11491v1)|2020-09-24 04:56:10+00:00|24-09-2020
+Haijun Song|[Automatic identification of fossils and abiotic grains during carbonate   microfacies analysis using deep convolutional neural networks](http://arxiv.org/abs/2009.11429v1)|2020-09-24 00:58:48+00:00|24-09-2020
+Jun Zhao|[FTN: Foreground-Guided Texture-Focused Person Re-Identification](http://arxiv.org/abs/2009.11425v1)|2020-09-24 00:44:05+00:00|24-09-2020
+Feng Chen|[Unfairness Discovery and Prevention For Few-Shot Regression](http://arxiv.org/abs/2009.11406v1)|2020-09-23 22:34:06+00:00|23-09-2020
+Feng Chen|[Rank-Based Multi-task Learning for Fair Regression](http://arxiv.org/abs/2009.11405v1)|2020-09-23 22:32:57+00:00|23-09-2020
+Bruce A. Wade|[EPEM: Efficient Parameter Estimation for Multiple Class Monotone Missing   Data](http://arxiv.org/abs/2009.11360v1)|2020-09-23 20:07:53+00:00|23-09-2020
+Lajos Hanzo|[Multi-Agent Deep Reinforcement Learning Based Trajectory Planning for   Multi-UAV Assisted Mobile Edge Computing](http://arxiv.org/abs/2009.11277v1)|2020-09-23 17:44:07+00:00|23-09-2020
+Anders Søgaard|[Worst-Case-Aware Curriculum Learning for Zero and Few Shot Transfer](http://arxiv.org/abs/2009.11138v1)|2020-09-23 13:32:39+00:00|23-09-2020
+Christian Hansen|[Anisotropic 3D Multi-Stream CNN for Accurate Prostate Segmentation from   Multi-Planar MRI](http://arxiv.org/abs/2009.11120v1)|2020-09-23 12:56:14+00:00|23-09-2020
+Miguel Alvarado|[Accurate and Interpretable Machine Learning for Transparent Pricing of   Health Insurance Plans](http://arxiv.org/abs/2009.10990v1)|2020-09-23 08:07:33+00:00|23-09-2020
+Bing Yin|[On Data Augmentation for Extreme Multi-label Classification](http://arxiv.org/abs/2009.10778v1)|2020-09-22 19:31:08+00:00|22-09-2020
+Zenglin Xu|[Heuristic Rank Selection with Progressively Searching Tensor Ring   Network](http://arxiv.org/abs/2009.10580v1)|2020-09-22 14:44:27+00:00|22-09-2020
+Marzyeh Ghassemi|[Ethical Machine Learning in Health Care](http://arxiv.org/abs/2009.10576v2)|2020-09-23 12:16:57+00:00|22-09-2020
+Yongxian Long|[ABM: an automatic supervised feature engineering method for loss based   models based on group and fused lasso](http://arxiv.org/abs/2009.10498v1)|2020-09-22 12:42:22+00:00|22-09-2020
+Dmitry Denisov|[Gamma distribution-based sampling for imbalanced data](http://arxiv.org/abs/2009.10343v1)|2020-09-22 06:39:13+00:00|22-09-2020
+Claudia von Vacano|[Constructing interval variables via faceted Rasch measurement and   multitask deep learning: a hate speech application](http://arxiv.org/abs/2009.10277v1)|2020-09-22 02:15:05+00:00|22-09-2020
+Francesca A. Lisi|[Logic Programming and Machine Ethics](http://arxiv.org/abs/2009.11186v1)|2020-09-22 00:47:18+00:00|22-09-2020
+Tim Althoff|[Adjusting for Confounders with Text: Challenges and an Empirical   Evaluation Framework for Causal Inference](http://arxiv.org/abs/2009.09961v1)|2020-09-21 15:38:45+00:00|21-09-2020
+Maxim Likhachev|[CMAX++ : Leveraging Experience in Planning and Execution using   Inaccurate Models](http://arxiv.org/abs/2009.09942v2)|2020-09-22 01:23:29+00:00|21-09-2020
+Arjan Kuijper|[Beyond Identity: What Information Is Stored in Biometric Face Templates?](http://arxiv.org/abs/2009.09918v1)|2020-09-21 14:41:18+00:00|21-09-2020
+Yandre M. G. Costa|[Impact of lung segmentation on the diagnosis and explanation of COVID-19   in chest X-ray images](http://arxiv.org/abs/2009.09780v1)|2020-09-21 12:03:54+00:00|21-09-2020
+Yongcan Cao|[Learn to Exceed: Stereo Inverse Reinforcement Learning with Concurrent   Policy Optimization](http://arxiv.org/abs/2009.09577v2)|2020-09-22 23:04:09+00:00|21-09-2020
+John H. L. Hansen|[Open-set Short Utterance Forensic Speaker Verification using   Teacher-Student Network with Explicit Inductive Bias](http://arxiv.org/abs/2009.09556v1)|2020-09-21 00:58:40+00:00|21-09-2020
+Faming Liang|[Stochastic Gradient Langevin Dynamics Algorithms with Adaptive Drifts](http://arxiv.org/abs/2009.09535v1)|2020-09-20 22:03:39+00:00|20-09-2020
+Katia Sycara|[Addressing reward bias in Adversarial Imitation Learning with neutral   reward functions](http://arxiv.org/abs/2009.09467v1)|2020-09-20 16:24:10+00:00|20-09-2020
+Ryan Cotterell|[Exploring the Linear Subspace Hypothesis in Gender Bias Mitigation](http://arxiv.org/abs/2009.09435v1)|2020-09-20 14:13:45+00:00|20-09-2020
+Lenka Zdeborová|[Epidemic mitigation by statistical inference from contact tracing data](http://arxiv.org/abs/2009.09422v1)|2020-09-20 12:24:45+00:00|20-09-2020
+Sang Wan Lee|[F^2-Softmax: Diversifying Neural Text Generation via Frequency   Factorized Softmax](http://arxiv.org/abs/2009.09417v1)|2020-09-20 12:03:58+00:00|20-09-2020
+Lior Wolf|[Scale-Localized Abstract Reasoning](http://arxiv.org/abs/2009.09405v1)|2020-09-20 10:37:29+00:00|20-09-2020
+Shengchao Qin|[Bias Field Poses a Threat to DNN-based X-Ray Recognition](http://arxiv.org/abs/2009.09247v1)|2020-09-19 14:58:02+00:00|19-09-2020
+Francesca Dominici|[Causal Rule Ensemble: Interpretable Inference of Heterogeneous Treatment   Effects](http://arxiv.org/abs/2009.09036v1)|2020-09-18 19:28:57+00:00|18-09-2020
+Guy Van den Broeck|[Group Fairness by Probabilistic Modeling with Latent Fair Decisions](http://arxiv.org/abs/2009.09031v1)|2020-09-18 19:13:23+00:00|18-09-2020
+Jingrui He|[Robust Decentralized Learning for Neural Networks](http://arxiv.org/abs/2009.09026v1)|2020-09-18 18:58:25+00:00|18-09-2020
+Rahmatollah Beheshti|[Time-series Imputation and Prediction with Bi-Directional Generative   Adversarial Networks](http://arxiv.org/abs/2009.08900v1)|2020-09-18 15:47:51+00:00|18-09-2020
+Aythami Morales|[Learning Emotional-Blinded Face Representations](http://arxiv.org/abs/2009.08704v1)|2020-09-18 09:24:10+00:00|18-09-2020
+Hisashi Kashima|[Chemical Property Prediction Under Experimental Biases](http://arxiv.org/abs/2009.08687v1)|2020-09-18 08:40:57+00:00|18-09-2020
+
 ## 18-09-2020
 
 main_author|title|update_date|publish_date

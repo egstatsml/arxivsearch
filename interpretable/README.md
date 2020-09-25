@@ -1,5 +1,18 @@
 # interpretable
 Click on title for link to paper
+## 25-09-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Phil Blunsom|[The Struggles of Feature-Based Explanations: Shapley Values vs. Minimal   Sufficient Subsets](http://arxiv.org/abs/2009.11023v1)|2020-09-23 09:45:23+00:00|23-09-2020
+Daniel Sonntag|[Attention with Multiple Sources Knowledges for COVID-19 from CT Images](http://arxiv.org/abs/2009.11008v2)|2020-09-24 01:31:50+00:00|23-09-2020
+Z. Berkay Celik|[What Do You See? Evaluation of Explainable Artificial Intelligence (XAI)   Interpretability through Neural Backdoors](http://arxiv.org/abs/2009.10639v1)|2020-09-22 15:53:19+00:00|22-09-2020
+Francesca A. Lisi|[Logic Programming and Machine Ethics](http://arxiv.org/abs/2009.11186v1)|2020-09-22 00:47:18+00:00|22-09-2020
+Yufei Ding|[Uncertainty-aware Attention Graph Neural Network for Defending   Adversarial Attacks](http://arxiv.org/abs/2009.10235v1)|2020-09-22 00:46:40+00:00|22-09-2020
+Martin V. Butz|[Hidden Latent State Inference in a Spatio-Temporal Generative Model](http://arxiv.org/abs/2009.09823v1)|2020-09-21 12:59:40+00:00|21-09-2020
+Ioannis Papantonis|[Principles and Practice of Explainable Machine Learning](http://arxiv.org/abs/2009.11698v1)|2020-09-18 14:50:27+00:00|18-09-2020
+Hirokazu Kameoka|[X-DC: Explainable Deep Clustering based on Learnable Spectrogram   Templates](http://arxiv.org/abs/2009.08661v1)|2020-09-18 07:26:52+00:00|18-09-2020
+
 ## 18-09-2020
 
 main_author|title|update_date|publish_date
