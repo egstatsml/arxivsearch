@@ -1,5 +1,39 @@
 # fairness
 Click on title for link to paper
+## 02-10-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Samuel R. Bowman|[CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked   Language Models](http://arxiv.org/abs/2010.00133v1)|2020-09-30 22:38:40+00:00|30-09-2020
+Kari Sentz|[Interactive Re-Fitting as a Technique for Improving Word Embeddings](http://arxiv.org/abs/2010.00121v1)|2020-09-30 21:54:22+00:00|30-09-2020
+Sachin S. Sapatnekar|[A general approach for identifying hierarchical symmetry constraints for   analog circuit layout](http://arxiv.org/abs/2010.00051v1)|2020-09-30 18:34:58+00:00|30-09-2020
+N. Ares|[Deep Reinforcement Learning for Efficient Measurement of Quantum Devices](http://arxiv.org/abs/2009.14825v1)|2020-09-30 17:55:49+00:00|30-09-2020
+Tae-Kyun Kim|[3D Dense Geometry-Guided Facial Expression Synthesis by Adversarial   Learning](http://arxiv.org/abs/2009.14798v1)|2020-09-30 17:12:35+00:00|30-09-2020
+Yuta Nakashima|[Demographic Influences on Contemporary Art with Unsupervised Style   Embeddings](http://arxiv.org/abs/2009.14545v1)|2020-09-30 10:13:18+00:00|30-09-2020
+Jayaraman J. Thiagarajan|[Ask-n-Learn: Active Learning via Reliable Gradient Representations for   Image Classification](http://arxiv.org/abs/2009.14448v1)|2020-09-30 05:19:56+00:00|30-09-2020
+Francis Bach|[Deep Equals Shallow for ReLU Networks in Kernel Regimes](http://arxiv.org/abs/2009.14397v1)|2020-09-30 02:37:43+00:00|30-09-2020
+Pierre Albert|[Ethically Collecting Multi-Modal Spontaneous Conversations with People   that have Cognitive Impairments](http://arxiv.org/abs/2009.14361v1)|2020-09-30 00:57:33+00:00|30-09-2020
+Qiang Wu|[A Framework of Learning Through Empirical Gain Maximization](http://arxiv.org/abs/2009.14250v1)|2020-09-29 18:36:26+00:00|29-09-2020
+Bruce A. Bassett|[Deep Evolution for Facial Emotion Recognition](http://arxiv.org/abs/2009.14194v1)|2020-09-29 17:58:09+00:00|29-09-2020
+Marcelo C. Medeiros|[Online Action Learning in High Dimensions: A New Exploration Rule for   Contextual $ε_t$-Greedy Heuristics](http://arxiv.org/abs/2009.13961v1)|2020-09-29 12:25:05+00:00|29-09-2020
+Dan Jurafsky|[Utility is in the Eye of the User: A Critique of NLP Leaderboards](http://arxiv.org/abs/2009.13888v1)|2020-09-29 09:25:31+00:00|29-09-2020
+Caiming Xiong|[GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing](http://arxiv.org/abs/2009.13845v1)|2020-09-29 08:17:58+00:00|29-09-2020
+Zhiquan Feng|[Self-grouping Convolutional Neural Networks](http://arxiv.org/abs/2009.13803v1)|2020-09-29 06:24:32+00:00|29-09-2020
+Yuhua Zhu|[Why resampling outperforms reweighting for correcting sampling bias](http://arxiv.org/abs/2009.13447v1)|2020-09-28 16:12:38+00:00|28-09-2020
+John N. Aucott|[AI Progress in Skin Lesion Analysis](http://arxiv.org/abs/2009.13323v1)|2020-09-28 13:44:50+00:00|28-09-2020
+Gardave S Bhumbra|[Quantal synaptic dilution enhances sparse encoding and dropout   regularisation in deep networks](http://arxiv.org/abs/2009.13165v1)|2020-09-28 09:29:49+00:00|28-09-2020
+Shota Yasui|[Learning Classifiers under Delayed Feedback with a Time Window   Assumption](http://arxiv.org/abs/2009.13092v1)|2020-09-28 06:20:24+00:00|28-09-2020
+Luis Santos|[Agent Environment Cycle Games](http://arxiv.org/abs/2009.13051v1)|2020-09-28 04:02:08+00:00|28-09-2020
+Jiliang Tang|[Mitigating Gender Bias for Neural Dialogue Generation with Adversarial   Learning](http://arxiv.org/abs/2009.13028v1)|2020-09-28 02:46:59+00:00|28-09-2020
+Michael I. Jordan|[Learning from eXtreme Bandit Feedback](http://arxiv.org/abs/2009.12947v1)|2020-09-27 20:47:25+00:00|27-09-2020
+Haim Avron|[Experimental Design for Overparameterized Learning with Application to   Single Shot Deep Active Learning](http://arxiv.org/abs/2009.12820v1)|2020-09-27 11:27:49+00:00|27-09-2020
+Laurent Itti|[Beneficial Perturbation Network for designing general adaptive   artificial intelligence systems](http://arxiv.org/abs/2009.13954v1)|2020-09-27 01:28:10+00:00|27-09-2020
+Latifur Khan|[A Primal-Dual Subgradient Approach for Fair Meta Learning](http://arxiv.org/abs/2009.12675v1)|2020-09-26 19:47:38+00:00|26-09-2020
+Pascal Van Hentenryck|[Differentially Private and Fair Deep Learning: A Lagrangian Dual   Approach](http://arxiv.org/abs/2009.12562v1)|2020-09-26 10:50:33+00:00|26-09-2020
+Iryna Gurevych|[Towards Debiasing NLU Models from Unknown Biases](http://arxiv.org/abs/2009.12303v1)|2020-09-25 15:49:39+00:00|25-09-2020
+Philip S. Yu|[Fairness in Semi-supervised Learning: Unlabeled Data Help to Reduce   Discrimination](http://arxiv.org/abs/2009.12040v1)|2020-09-25 05:48:56+00:00|25-09-2020
+Jinho D. Choi|[Revealing the Myth of Higher-Order Inference in Coreference Resolution](http://arxiv.org/abs/2009.12013v2)|2020-09-28 22:47:33+00:00|25-09-2020
+
 ## 25-09-2020
 
 main_author|title|update_date|publish_date

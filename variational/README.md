@@ -1,5 +1,20 @@
 # variational
 Click on title for link to paper
+## 02-10-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Jonathan P. How|[Robustness Analysis of Neural Networks via Efficient Partitioning:   Theory and Applications in Control Systems](http://arxiv.org/abs/2010.00540v1)|2020-10-01 16:51:36+00:00|01-10-2020
+Daniil Ryabko|[Universal time-series forecasting with mixture predictors](http://arxiv.org/abs/2010.00297v1)|2020-10-01 10:56:23+00:00|01-10-2020
+Hongseok Yang|[Bayesian Policy Search for Stochastic Domains](http://arxiv.org/abs/2010.00284v1)|2020-10-01 10:22:15+00:00|01-10-2020
+Hongseok Yang|[Probabilistic Programs with Stochastic Conditioning](http://arxiv.org/abs/2010.00282v1)|2020-10-01 10:17:52+00:00|01-10-2020
+Fabio Ramos|[Heteroscedastic Bayesian Optimisation for Stochastic Model Predictive   Control](http://arxiv.org/abs/2010.00202v1)|2020-10-01 05:31:41+00:00|01-10-2020
+Mahnoosh Alizadeh|[Stage-wise Conservative Linear Bandits](http://arxiv.org/abs/2010.00081v1)|2020-09-30 19:51:37+00:00|30-09-2020
+Naira Hovakimyan|[$f$-Divergence Variational Inference](http://arxiv.org/abs/2009.13093v2)|2020-09-29 19:53:24+00:00|28-09-2020
+Mingyuan Zhou|[Variational Temporal Deep Generative Model for Radar HRRP Target   Recognition](http://arxiv.org/abs/2009.13011v1)|2020-09-28 02:03:51+00:00|28-09-2020
+George Yin|[Adaptive Non-reversible Stochastic Gradient Langevin Dynamics](http://arxiv.org/abs/2009.12690v1)|2020-09-26 21:34:01+00:00|26-09-2020
+Shihao Ji|[A Unified Plug-and-Play Framework for Effective Data Denoising and   Robust Abstention](http://arxiv.org/abs/2009.12027v1)|2020-09-25 04:18:08+00:00|25-09-2020
+
 ## 25-09-2020
 
 main_author|title|update_date|publish_date

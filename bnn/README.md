@@ -1,5 +1,26 @@
 # bnn
 Click on title for link to paper
+## 02-10-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Daniel Soudry|[Task Agnostic Continual Learning Using Online Variational Bayes with   Fixed-Point Updates](http://arxiv.org/abs/2010.00373v1)|2020-10-01 13:10:35+00:00|01-10-2020
+Ullrich Köthe|[Model-based Bayesian inference of disease outbreak with invertible   neural networks](http://arxiv.org/abs/2010.00300v1)|2020-10-01 11:01:49+00:00|01-10-2020
+Hongseok Yang|[Bayesian Policy Search for Stochastic Domains](http://arxiv.org/abs/2010.00284v1)|2020-10-01 10:22:15+00:00|01-10-2020
+Hongseok Yang|[Probabilistic Programs with Stochastic Conditioning](http://arxiv.org/abs/2010.00282v1)|2020-10-01 10:17:52+00:00|01-10-2020
+Jan Peters|[Active Inference or Control as Inference? A Unifying View](http://arxiv.org/abs/2010.00262v1)|2020-10-01 09:08:45+00:00|01-10-2020
+Zhiwei Qin|[Value-based Bayesian Meta-reinforcement Learning and Traffic Signal   Control](http://arxiv.org/abs/2010.00163v1)|2020-10-01 01:15:17+00:00|01-10-2020
+Mahnoosh Alizadeh|[Stage-wise Conservative Linear Bandits](http://arxiv.org/abs/2010.00081v1)|2020-09-30 19:51:37+00:00|30-09-2020
+Dhruv Madeka|[MQTransformer: Multi-Horizon Forecasts with Context Dependent and   Feedback-Aware Attention](http://arxiv.org/abs/2009.14799v1)|2020-09-30 17:12:46+00:00|30-09-2020
+Fatemeh Bagheri|[ParaMonte: A high-performance serial/parallel Monte Carlo simulation   library for C, C++, Fortran](http://arxiv.org/abs/2009.14229v1)|2020-09-29 18:04:02+00:00|29-09-2020
+Stefano Spinelli|[Identification of Probability weighted ARX models with arbitrary domains](http://arxiv.org/abs/2009.13975v1)|2020-09-29 12:50:33+00:00|29-09-2020
+Nicholas Zabaras|[Physics-Constrained Predictive Molecular Latent Space Discovery with   Graph Scattering Variational Autoencoder](http://arxiv.org/abs/2009.13878v1)|2020-09-29 09:05:27+00:00|29-09-2020
+Kumaradevan Punithakumar|[Fully Automated Left Atrium Segmentation from Anatomical Cine Long-axis   MRI Sequences using Deep Convolutional Neural Network with Unscented Kalman   Filter](http://arxiv.org/abs/2009.13627v1)|2020-09-28 21:06:35+00:00|28-09-2020
+Naira Hovakimyan|[$f$-Divergence Variational Inference](http://arxiv.org/abs/2009.13093v2)|2020-09-29 19:53:24+00:00|28-09-2020
+Paul D. W. Kirk|[Kernel learning approaches for summarising and combining posterior   similarity matrices](http://arxiv.org/abs/2009.12852v1)|2020-09-27 14:16:14+00:00|27-09-2020
+Pattie Maes|[Why have a Unified Predictive Uncertainty? Disentangling it using Deep   Split Ensembles](http://arxiv.org/abs/2009.12406v1)|2020-09-25 19:15:26+00:00|25-09-2020
+Yves Moreau|[Multilevel Gibbs Sampling for Bayesian Regression](http://arxiv.org/abs/2009.12132v1)|2020-09-25 11:18:17+00:00|25-09-2020
+
 ## 25-09-2020
 
 main_author|title|update_date|publish_date

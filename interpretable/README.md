@@ -1,5 +1,17 @@
 # interpretable
 Click on title for link to paper
+## 02-10-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+André Freitas|[Explainable Natural Language Reasoning via Conceptual Unification](http://arxiv.org/abs/2009.14539v1)|2020-09-30 09:50:39+00:00|30-09-2020
+Andreas Spanias|[Accurate and Robust Feature Importance Estimation under Distribution   Shifts](http://arxiv.org/abs/2009.14454v1)|2020-09-30 05:29:01+00:00|30-09-2020
+Ayu Purwarianti|[Sequence-to-Sequence Learning for Indonesian Automatic Question   Generator](http://arxiv.org/abs/2009.13889v1)|2020-09-29 09:25:54+00:00|29-09-2020
+Yirong Wu|[Where is the Model Looking At?--Concentrate and Explain the Network   Attention](http://arxiv.org/abs/2009.13862v1)|2020-09-29 08:36:18+00:00|29-09-2020
+Yuhua Zhu|[Why resampling outperforms reweighting for correcting sampling bias](http://arxiv.org/abs/2009.13447v1)|2020-09-28 16:12:38+00:00|28-09-2020
+Josep Carmona|[An Iterative Approach based on Explainability to Improve the Learning of   Fraud Detection Models](http://arxiv.org/abs/2009.13437v1)|2020-09-28 16:04:07+00:00|28-09-2020
+Siegfried Handschuh|[XTE: Explainable Text Entailment](http://arxiv.org/abs/2009.12431v1)|2020-09-25 20:49:07+00:00|25-09-2020
+
 ## 25-09-2020
 
 main_author|title|update_date|publish_date
