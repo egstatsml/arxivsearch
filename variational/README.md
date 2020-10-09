@@ -1,5 +1,20 @@
 # variational
 Click on title for link to paper
+## 09-10-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Filip Radlinski|"[""I'd rather just go to bed"": Understanding Indirect Answers](http://arxiv.org/abs/2010.03450v1)"|2020-10-07 14:41:40+00:00|07-10-2020
+Junier B. Oliva|[Active Feature Acquisition with Generative Surrogate Models](http://arxiv.org/abs/2010.02433v1)|2020-10-06 02:10:06+00:00|06-10-2020
+Dan Stowell|[Short-term prediction of photovoltaic power generation using Gaussian   process regression](http://arxiv.org/abs/2010.02275v1)|2020-10-05 18:35:25+00:00|05-10-2020
+Ralph Evins|[Using Bayesian deep learning approaches for uncertainty-aware building   energy surrogate models](http://arxiv.org/abs/2010.03029v1)|2020-10-05 15:04:18+00:00|05-10-2020
+Jun Zhu|[BayesAdapter: Being Bayesian, Inexpensively and Robustly, via Bayeisan   Fine-tuning](http://arxiv.org/abs/2010.01979v1)|2020-10-05 13:13:21+00:00|05-10-2020
+David J. Nott|[Deep Distributional Time Series Models and the Probabilistic Forecasting   of Intraday Electricity Prices](http://arxiv.org/abs/2010.01844v1)|2020-10-05 08:02:29+00:00|05-10-2020
+Sebastian W. Ober|[Deep kernel processes](http://arxiv.org/abs/2010.01590v1)|2020-10-04 14:31:18+00:00|04-10-2020
+Guang Lin|[An adaptive Hessian approximated stochastic gradient MCMC method](http://arxiv.org/abs/2010.01384v1)|2020-10-03 16:22:15+00:00|03-10-2020
+Somayeh Sojoudi|[Data-Driven Assessment of Deep Neural Networks with Random Input   Uncertainty](http://arxiv.org/abs/2010.01171v1)|2020-10-02 19:13:35+00:00|02-10-2020
+Mingyuan Zhou|[MCMC-Interactive Variational Inference](http://arxiv.org/abs/2010.02029v1)|2020-10-02 17:43:20+00:00|02-10-2020
+
 ## 02-10-2020
 
 main_author|title|update_date|publish_date

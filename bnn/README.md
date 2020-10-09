@@ -1,5 +1,44 @@
 # bnn
 Click on title for link to paper
+## 09-10-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Ann B. Lee|[HECT: High-Dimensional Ensemble Consistency Testing for Climate Models](http://arxiv.org/abs/2010.04051v1)|2020-10-08 15:16:16+00:00|08-10-2020
+Jian Tang|[RNNLogic: Learning Logic Rules for Reasoning on Knowledge Graphs](http://arxiv.org/abs/2010.04029v1)|2020-10-08 14:47:02+00:00|08-10-2020
+Frank Wood|[Uncertainty in Neural Processes](http://arxiv.org/abs/2010.03753v1)|2020-10-08 04:10:05+00:00|08-10-2020
+Kazuyoshi Yoshii|[Tatum-Level Drum Transcription Based on a Convolutional Recurrent Neural   Network with Language Model-Based Regularized Training](http://arxiv.org/abs/2010.03749v1)|2020-10-08 03:47:25+00:00|08-10-2020
+Luke Sciarappa|[Neural Group Actions](http://arxiv.org/abs/2010.03733v1)|2020-10-08 02:27:05+00:00|08-10-2020
+Paul J. Young|[Ensembling geophysical models with Bayesian Neural Networks](http://arxiv.org/abs/2010.03561v1)|2020-10-07 18:32:32+00:00|07-10-2020
+Vikash K. Mansinghka|[Exact Symbolic Inference in Probabilistic Programs via Sum-Product   Representations](http://arxiv.org/abs/2010.03485v1)|2020-10-07 15:42:37+00:00|07-10-2020
+David Barber|[Learning Deep-Latent Hierarchies by Stacking Wasserstein Autoencoders](http://arxiv.org/abs/2010.03467v1)|2020-10-07 15:04:20+00:00|07-10-2020
+Andrew B. Duncan|[Data Driven Density Functional Theory: A case for Physics Informed   Learning](http://arxiv.org/abs/2010.03374v1)|2020-10-07 12:43:42+00:00|07-10-2020
+Eric F. Lock|[Bayesian Distance Weighted Discrimination](http://arxiv.org/abs/2010.03111v1)|2020-10-07 02:15:04+00:00|07-10-2020
+Yutian Chen|[Sequential Changepoint Detection in Neural Networks with Checkpoints](http://arxiv.org/abs/2010.03053v1)|2020-10-06 21:49:54+00:00|06-10-2020
+Matthew B. Blaschko|[Additive Tree-Structured Conditional Parameter Spaces in Bayesian   Optimization: A Novel Covariance Function and a Fast Implementation](http://arxiv.org/abs/2010.03171v1)|2020-10-06 16:08:58+00:00|06-10-2020
+Giovanni Pilloni|[Inferring Microbial Biomass Yield and Cell Weight using Probabilistic   Macrochemical Modeling](http://arxiv.org/abs/2010.02759v1)|2020-10-06 14:23:21+00:00|06-10-2020
+Philipp Hennig|[Learnable Uncertainty under Laplace Approximations](http://arxiv.org/abs/2010.02720v1)|2020-10-06 13:43:33+00:00|06-10-2020
+Philipp Hennig|[Fixing Asymptotic Uncertainty of Bayesian Neural Networks with Infinite   ReLU Features](http://arxiv.org/abs/2010.02709v1)|2020-10-06 13:32:18+00:00|06-10-2020
+Pietro Lió|[Gene Regulatory Network Inference with Latent Force Models](http://arxiv.org/abs/2010.02555v1)|2020-10-06 09:03:34+00:00|06-10-2020
+Doina Precup|[Reward Propagation Using Graph Convolutional Networks](http://arxiv.org/abs/2010.02474v1)|2020-10-06 04:38:16+00:00|06-10-2020
+Philip Resnik|[Improving Neural Topic Models using Knowledge Distillation](http://arxiv.org/abs/2010.02377v1)|2020-10-05 22:49:16+00:00|05-10-2020
+Dan Stowell|[Short-term prediction of photovoltaic power generation using Gaussian   process regression](http://arxiv.org/abs/2010.02275v1)|2020-10-05 18:35:25+00:00|05-10-2020
+Calvin Lin|[Learned Hardware/Software Co-Design of Neural Accelerators](http://arxiv.org/abs/2010.02075v1)|2020-10-05 15:12:52+00:00|05-10-2020
+Ralph Evins|[Using Bayesian deep learning approaches for uncertainty-aware building   energy surrogate models](http://arxiv.org/abs/2010.03029v1)|2020-10-05 15:04:18+00:00|05-10-2020
+Ender Konukoglu|[Probabilistic 3D surface reconstruction from sparse MRI information](http://arxiv.org/abs/2010.02041v1)|2020-10-05 14:18:52+00:00|05-10-2020
+Quang Phuc Ha|[Motion-Encoded Particle Swarm Optimization for Moving Target Search   Using UAVs](http://arxiv.org/abs/2010.02039v1)|2020-10-05 14:17:49+00:00|05-10-2020
+Jun Zhu|[BayesAdapter: Being Bayesian, Inexpensively and Robustly, via Bayeisan   Fine-tuning](http://arxiv.org/abs/2010.01979v1)|2020-10-05 13:13:21+00:00|05-10-2020
+Raizy Kellerman|[Multi-Loss Sub-Ensembles for Accurate Classification with Uncertainty   Estimation](http://arxiv.org/abs/2010.01917v1)|2020-10-05 10:59:11+00:00|05-10-2020
+Ryota Kanai|[Non-trivial informational closure of a Bayesian hyperparameter](http://arxiv.org/abs/2010.01855v1)|2020-10-05 08:35:51+00:00|05-10-2020
+David J. Nott|[Deep Distributional Time Series Models and the Probabilistic Forecasting   of Intraday Electricity Prices](http://arxiv.org/abs/2010.01844v1)|2020-10-05 08:02:29+00:00|05-10-2020
+William M. Wells|[DEMI: Discriminative Estimator of Mutual Information](http://arxiv.org/abs/2010.01766v1)|2020-10-05 04:19:27+00:00|05-10-2020
+Jinhui Xu|[Learning Manifold Implicitly via Explicit Heat-Kernel Learning](http://arxiv.org/abs/2010.01761v1)|2020-10-05 03:39:58+00:00|05-10-2020
+Sebastian W. Ober|[Deep kernel processes](http://arxiv.org/abs/2010.01590v1)|2020-10-04 14:31:18+00:00|04-10-2020
+Hamid R. Rabiee|[Joint Inference of Structure and Diffusion in Partially Observed Social   Networks](http://arxiv.org/abs/2010.01400v1)|2020-10-03 17:48:57+00:00|03-10-2020
+Guang Lin|[An adaptive Hessian approximated stochastic gradient MCMC method](http://arxiv.org/abs/2010.01384v1)|2020-10-03 16:22:15+00:00|03-10-2020
+Marco Lorenzi|[Joint data imputation and mechanistic modelling for simulating   heart-brain interactions in incomplete datasets](http://arxiv.org/abs/2010.01052v3)|2020-10-08 12:36:31+00:00|02-10-2020
+Markus Buehren|[PrognoseNet: A Generative Probabilistic Framework for Multimodal   Position Prediction given Context Information](http://arxiv.org/abs/2010.00802v1)|2020-10-02 06:13:41+00:00|02-10-2020
+
 ## 02-10-2020
 
 main_author|title|update_date|publish_date

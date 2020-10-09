@@ -1,5 +1,24 @@
 # interpretable
 Click on title for link to paper
+## 09-10-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Tsopze Norbert|[Simplifying the explanation of deep neural networks with sufficient and   necessary feature-sets: case of text classification](http://arxiv.org/abs/2010.03724v1)|2020-10-08 02:01:21+00:00|08-10-2020
+Parisa Kordjamshidi|[SRLGRN: Semantic Role Labeling Graph Reasoning Network](http://arxiv.org/abs/2010.03604v1)|2020-10-07 18:51:17+00:00|07-10-2020
+Peter Clark|[Learning to Explain: Datasets and Models for Identifying Valid Reasoning   Chains in Multihop Question-Answering](http://arxiv.org/abs/2010.03274v1)|2020-10-07 08:46:02+00:00|07-10-2020
+Urko Zurutuza|[Deep learning models for predictive maintenance: a survey, comparison,   challenges and prospect](http://arxiv.org/abs/2010.03207v1)|2020-10-07 06:28:01+00:00|07-10-2020
+Maciej Liśkiewicz|[Recovering Causal Structures from Low-Order Conditional Independencies](http://arxiv.org/abs/2010.02675v1)|2020-10-06 12:47:20+00:00|06-10-2020
+Lidong Bing|[Position-Aware Tagging for Aspect Sentiment Triplet Extraction](http://arxiv.org/abs/2010.02609v1)|2020-10-06 10:40:34+00:00|06-10-2020
+Shiliang Pu|[Joint Semantics and Data-Driven Path Representation for Knowledge Graph   Inference](http://arxiv.org/abs/2010.02602v1)|2020-10-06 10:24:45+00:00|06-10-2020
+Sudipta Chattopadhyay|[Astraea: Grammar-based Fairness Testing](http://arxiv.org/abs/2010.02542v1)|2020-10-06 08:19:01+00:00|06-10-2020
+Dacheng Tao|[Self-supervised Exposure Trajectory Recovery for Dynamic Blur Estimation](http://arxiv.org/abs/2010.02484v1)|2020-10-06 05:23:33+00:00|06-10-2020
+Trevor Hastie|[Generalized Matrix Factorization](http://arxiv.org/abs/2010.02469v1)|2020-10-06 04:28:19+00:00|06-10-2020
+Niranjan Balasubramanian|[Modeling Preconditions in Text with a Crowd-sourced Dataset](http://arxiv.org/abs/2010.02429v2)|2020-10-07 02:20:14+00:00|06-10-2020
+Trevor Darrell|[Remembering for the Right Reasons: Explanations Reduce Catastrophic   Forgetting](http://arxiv.org/abs/2010.01528v1)|2020-10-04 10:05:27+00:00|04-10-2020
+Oana-Maria Camburu|[Explaining Deep Neural Networks](http://arxiv.org/abs/2010.01496v1)|2020-10-04 07:23:13+00:00|04-10-2020
+Daxin Jiang|[Towards Interpretable Reasoning over Paragraph Effects in Situation](http://arxiv.org/abs/2010.01272v1)|2020-10-03 04:03:52+00:00|03-10-2020
+
 ## 02-10-2020
 
 main_author|title|update_date|publish_date
