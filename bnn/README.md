@@ -1,5 +1,30 @@
 # bnn
 Click on title for link to paper
+## 16-10-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Liang Lin|[A Hamiltonian Monte Carlo Method for Probabilistic Adversarial Attack   and Learning](http://arxiv.org/abs/2010.07849v1)|2020-10-15 16:07:26+00:00|15-10-2020
+Il-Chul Moon|[Sequential Likelihood-Free Inference with Implicit Surrogate Proposal](http://arxiv.org/abs/2010.07604v1)|2020-10-15 08:59:23+00:00|15-10-2020
+Jasper Snoek|[Exploring the Uncertainty Properties of Neural Networks' Implicit Priors   in the Infinite-Width Limit](http://arxiv.org/abs/2010.07355v1)|2020-10-14 18:41:54+00:00|14-10-2020
+Richard Zemel|[Theoretical bounds on estimation error for meta-learning](http://arxiv.org/abs/2010.07140v1)|2020-10-14 14:57:21+00:00|14-10-2020
+Dragomir Anguelov|[Just Pick a Sign: Optimizing Deep Multitask Models with Gradient Sign   Dropout](http://arxiv.org/abs/2010.06808v1)|2020-10-14 04:42:18+00:00|14-10-2020
+Brian Jalaian|[Scaling Hamiltonian Monte Carlo Inference for Bayesian Neural Networks   with Symmetric Splitting](http://arxiv.org/abs/2010.06772v1)|2020-10-14 01:58:34+00:00|14-10-2020
+Jeffrey P. Spence|[Flexible mean field variational inference using mixtures of   non-overlapping exponential families](http://arxiv.org/abs/2010.06768v1)|2020-10-14 01:46:56+00:00|14-10-2020
+Erich Schikuta|[Error-guided likelihood-free MCMC](http://arxiv.org/abs/2010.06735v1)|2020-10-13 23:25:31+00:00|13-10-2020
+Sanjit A. Seshia|[Scenic: A Language for Scenario Specification and Data Generation](http://arxiv.org/abs/2010.06580v1)|2020-10-13 17:58:31+00:00|13-10-2020
+Kyle Cranmer|[Simulation-based inference methods for particle physics](http://arxiv.org/abs/2010.06439v1)|2020-10-13 14:55:28+00:00|13-10-2020
+Abraham Otero|[Stochastic embeddings of dynamical phenomena through variational   autoencoders](http://arxiv.org/abs/2010.06265v1)|2020-10-13 10:10:24+00:00|13-10-2020
+Dinh Phung|[Towards Understanding Pixel Vulnerability under Adversarial Attacks for   Images](http://arxiv.org/abs/2010.06131v1)|2020-10-13 02:51:10+00:00|13-10-2020
+Xiaowei Huang|[How does Weight Correlation Affect the Generalisation Ability of Deep   Neural Networks](http://arxiv.org/abs/2010.05983v2)|2020-10-15 09:33:10+00:00|12-10-2020
+Xiaoning Qian|[BayReL: Bayesian Relational Learning for Multi-omics Data Integration](http://arxiv.org/abs/2010.05895v1)|2020-10-12 17:43:07+00:00|12-10-2020
+My T. Thai|[PGM-Explainer: Probabilistic Graphical Model Explanations for Graph   Neural Networks](http://arxiv.org/abs/2010.05788v1)|2020-10-12 15:33:13+00:00|12-10-2020
+Maurizio Pierini|[Anomaly Detection With Conditional Variational Autoencoders](http://arxiv.org/abs/2010.05531v1)|2020-10-12 08:39:37+00:00|12-10-2020
+Jun Guo|[Advanced Dropout: A Model-free Methodology for Bayesian Dropout   Optimization](http://arxiv.org/abs/2010.05244v1)|2020-10-11 13:19:58+00:00|11-10-2020
+Yuan Zhou|[SYMPAIS: SYMbolic Parallel Adaptive Importance Sampling for   Probabilistic Program Analysis](http://arxiv.org/abs/2010.05050v1)|2020-10-10 17:39:12+00:00|10-10-2020
+Alexandre M. Tartakovsky|[Physics-Informed Gaussian Process Regression for Probabilistic States   Estimation and Forecasting in Power Grids](http://arxiv.org/abs/2010.04591v1)|2020-10-09 14:18:31+00:00|09-10-2020
+Henning Sprekeler|[Learning not to learn: Nature versus nurture in silico](http://arxiv.org/abs/2010.04466v1)|2020-10-09 09:47:40+00:00|09-10-2020
+
 ## 09-10-2020
 
 main_author|title|update_date|publish_date

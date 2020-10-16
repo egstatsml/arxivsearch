@@ -1,5 +1,18 @@
 # interpretable
 Click on title for link to paper
+## 16-10-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Zainab Hasnain|[Interactive Latent Interpolation on MNIST Dataset](http://arxiv.org/abs/2010.07581v1)|2020-10-15 08:04:48+00:00|15-10-2020
+Ari Morcos|[Linking average- and worst-case perturbation robustness via class   selectivity and dimensionality](http://arxiv.org/abs/2010.07693v1)|2020-10-14 00:45:29+00:00|14-10-2020
+Ben Evans|[It's the Journey Not the Destination: Building Genetic Algorithms   Practitioners Can Trust](http://arxiv.org/abs/2010.06406v1)|2020-10-13 14:07:30+00:00|13-10-2020
+Ngoc Thang Vu|[F1 is Not Enough! Models and Evaluation Towards User-Centered   Explainable Question Answering](http://arxiv.org/abs/2010.06283v1)|2020-10-13 10:53:20+00:00|13-10-2020
+Qianru Sun|[Counterfactual Variable Control for Robust and Interpretable Question   Answering](http://arxiv.org/abs/2010.05581v1)|2020-10-12 10:09:05+00:00|12-10-2020
+Mathias Niepert|[Explaining Neural Matrix Factorization with Gradient Rollback](http://arxiv.org/abs/2010.05516v2)|2020-10-14 07:27:32+00:00|12-10-2020
+Nesime Tatbul|[AnomalyBench: An Open Benchmark for Explainable Anomaly Detection](http://arxiv.org/abs/2010.05073v1)|2020-10-10 19:31:22+00:00|10-10-2020
+Xueqi Cheng|[Beyond Language: Learning Commonsense from Images for Reasoning](http://arxiv.org/abs/2010.05001v1)|2020-10-10 13:47:13+00:00|10-10-2020
+
 ## 09-10-2020
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,56 @@
 # fairness
 Click on title for link to paper
+## 16-10-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Fan Li|[Double Robust Representation Learning for Counterfactual Prediction](http://arxiv.org/abs/2010.07866v1)|2020-10-15 16:39:26+00:00|15-10-2020
+Dongmei Zhang|[Hierarchical Poset Decoding for Compositional Generalization in Language](http://arxiv.org/abs/2010.07792v1)|2020-10-15 14:34:26+00:00|15-10-2020
+Luigi V. Mancini|[EnCoD: Distinguishing Compressed and Encrypted File Fragments](http://arxiv.org/abs/2010.07754v1)|2020-10-15 13:55:55+00:00|15-10-2020
+Grigorios Tsoumakas|[Altruist: Argumentative Explanations through Local Interpretations of   Predictive Models](http://arxiv.org/abs/2010.07650v1)|2020-10-15 10:36:48+00:00|15-10-2020
+Jakub Tarnawski|[Fairness in Streaming Submodular Maximization: Algorithms and Hardness](http://arxiv.org/abs/2010.07431v1)|2020-10-14 22:57:07+00:00|14-10-2020
+Svetlana Kiritchenko|[On Cross-Dataset Generalization in Automatic Detection of Online Abuse](http://arxiv.org/abs/2010.07414v1)|2020-10-14 21:47:03+00:00|14-10-2020
+Ilya Feige|[Explainability for fair machine learning](http://arxiv.org/abs/2010.07389v1)|2020-10-14 20:21:01+00:00|14-10-2020
+Rumi Chunara|[Causal Multi-Level Fairness](http://arxiv.org/abs/2010.07343v1)|2020-10-14 18:26:17+00:00|14-10-2020
+Richard Zemel|[Exchanging Lessons Between Algorithmic Fairness and Domain   Generalization](http://arxiv.org/abs/2010.07249v1)|2020-10-14 17:11:46+00:00|14-10-2020
+Ilya Shpitser|[Differentiable Causal Discovery Under Unmeasured Confounding](http://arxiv.org/abs/2010.06978v1)|2020-10-14 11:47:45+00:00|14-10-2020
+Daniel Olmeda Reino|[Identifying Wrongly Predicted Samples: A Method for Active Learning](http://arxiv.org/abs/2010.06890v1)|2020-10-14 09:00:42+00:00|14-10-2020
+James R. Foulds|[Equitable Allocation of Healthcare Resources with Fair Cox Models](http://arxiv.org/abs/2010.06820v1)|2020-10-14 06:08:15+00:00|14-10-2020
+Ari S. Morcos|[Are all negatives created equal in contrastive instance discrimination?](http://arxiv.org/abs/2010.06682v1)|2020-10-13 20:52:10+00:00|13-10-2020
+Marzyeh Ghassemi|[Chasing Your Long Tails: Differentially Private Prediction in Health   Care Settings](http://arxiv.org/abs/2010.06667v1)|2020-10-13 19:56:37+00:00|13-10-2020
+Robert Sabourin|[Intrapersonal Parameter Optimization for Offline Handwritten Signature   Augmentation](http://arxiv.org/abs/2010.06663v1)|2020-10-13 19:54:02+00:00|13-10-2020
+Bernhard Schölkopf|[On the Fairness of Causal Algorithmic Recourse](http://arxiv.org/abs/2010.06529v2)|2020-10-14 09:48:33+00:00|13-10-2020
+John P. Dickerson|[ProportionNet: Balancing Fairness and Revenue for Auction Design with   Deep Learning](http://arxiv.org/abs/2010.06398v1)|2020-10-13 13:54:21+00:00|13-10-2020
+Raúl Santos-Rodríguez|[Model-Based Reinforcement Learning for Type 1Diabetes Blood Glucose   Control](http://arxiv.org/abs/2010.06266v1)|2020-10-13 10:17:30+00:00|13-10-2020
+Yanning Zhang|[Few-shot Action Recognition with Implicit Temporal Alignment and Pair   Similarity Optimization](http://arxiv.org/abs/2010.06215v1)|2020-10-13 07:56:06+00:00|13-10-2020
+Jiliang Tang|[To be Robust or to be Fair: Towards Fairness in Adversarial Training](http://arxiv.org/abs/2010.06121v1)|2020-10-13 02:21:54+00:00|13-10-2020
+Joydeep Ghosh|[FaiR-N: Fair and Robust Neural Networks for Structured Data](http://arxiv.org/abs/2010.06113v1)|2020-10-13 01:53:15+00:00|13-10-2020
+Saturnino Luz|[Artificial Intelligence, speech and language processing approaches to   monitoring Alzheimer's Disease: a systematic review](http://arxiv.org/abs/2010.06047v1)|2020-10-12 21:43:04+00:00|12-10-2020
+Nathan Cross|[Assessing Lesion Segmentation Bias of Neural Networks on Motion   Corrupted Brain MRI](http://arxiv.org/abs/2010.06027v1)|2020-10-12 21:06:40+00:00|12-10-2020
+Justin Gottschlich|[Class-Weighted Evaluation Metrics for Imbalanced Data Classification](http://arxiv.org/abs/2010.05995v1)|2020-10-12 19:47:09+00:00|12-10-2020
+Lawrence Carin|[Improving Text Generation with Student-Forcing Optimal Transport](http://arxiv.org/abs/2010.05994v1)|2020-10-12 19:42:25+00:00|12-10-2020
+Cihang Xie|[Shape-Texture Debiased Neural Network Training](http://arxiv.org/abs/2010.05981v1)|2020-10-12 19:16:12+00:00|12-10-2020
+Aaron Sidford|[Large-Scale Methods for Distributionally Robust Optimization](http://arxiv.org/abs/2010.05893v1)|2020-10-12 17:41:44+00:00|12-10-2020
+Jinsul Kim|[A Lightweight Speaker Recognition System Using Timbre Properties](http://arxiv.org/abs/2010.05502v2)|2020-10-13 05:58:43+00:00|12-10-2020
+Stratis Tsirtsis|[Bridging Machine Learning and Mechanism Design towards Algorithmic   Fairness](http://arxiv.org/abs/2010.05434v1)|2020-10-12 03:42:20+00:00|12-10-2020
+Deepak P|[Local Connectivity in Centroid Clustering](http://arxiv.org/abs/2010.05353v1)|2020-10-11 21:56:42+00:00|11-10-2020
+Savitha Sam Abraham|[Representativity Fairness in Clustering](http://arxiv.org/abs/2010.07054v1)|2020-10-11 21:50:06+00:00|11-10-2020
+Edgar Dobriban|[What causes the test error? Going beyond bias-variance via ANOVA](http://arxiv.org/abs/2010.05170v1)|2020-10-11 05:21:13+00:00|11-10-2020
+Brian Ziebart|[Robust Fairness under Covariate Shift](http://arxiv.org/abs/2010.05166v1)|2020-10-11 04:42:01+00:00|11-10-2020
+Tom Goldstein|[An Open Review of OpenReview: A Critical Analysis of the Machine   Learning Conference Review Process](http://arxiv.org/abs/2010.05137v1)|2020-10-11 02:06:04+00:00|11-10-2020
+Hanghang Tong|[Fairness-aware Agnostic Federated Learning](http://arxiv.org/abs/2010.05057v1)|2020-10-10 17:58:20+00:00|10-10-2020
+Mingming Liu|[Reinforcement Learning on Computational Resource Allocation of   Cloud-based Wireless Networks](http://arxiv.org/abs/2010.05024v1)|2020-10-10 15:16:26+00:00|10-10-2020
+Sumeet Agarwal|[Can RNNs trained on harder subject-verb agreement instances still   perform well on easier ones?](http://arxiv.org/abs/2010.04976v1)|2020-10-10 11:30:58+00:00|10-10-2020
+Antigoni Polychroniadou|[CryptoCredit: Securely Training Fair Models](http://arxiv.org/abs/2010.04840v1)|2020-10-09 23:05:37+00:00|09-10-2020
+Andreas Krause|[Rao-Blackwellizing the Straight-Through Gumbel-Softmax Gradient   Estimator](http://arxiv.org/abs/2010.04838v1)|2020-10-09 22:54:38+00:00|09-10-2020
+Bryan S. Graham|[Sparse network asymptotics for logistic regression](http://arxiv.org/abs/2010.04703v1)|2020-10-09 17:46:29+00:00|09-10-2020
+Alan W Black|[Case Study: Deontological Ethics in NLP](http://arxiv.org/abs/2010.04658v1)|2020-10-09 16:04:51+00:00|09-10-2020
+Loic Landrieu|[Torch-Points3D: A Modular Multi-Task Frameworkfor Reproducible Deep   Learning on 3D Point Clouds](http://arxiv.org/abs/2010.04642v1)|2020-10-09 15:34:32+00:00|09-10-2020
+Michael Mathioudakis|[Streaming Submodular Maximization with Fairness Constraints](http://arxiv.org/abs/2010.04412v1)|2020-10-09 07:49:13+00:00|09-10-2020
+Dacheng Tao|[Targeted Attention Attack on Deep Learning Models in Road Sign   Recognition](http://arxiv.org/abs/2010.04331v1)|2020-10-09 02:31:34+00:00|09-10-2020
+Ferdinando Fioretto|[Bias and Variance of Post-processing in Differential Privacy](http://arxiv.org/abs/2010.04327v1)|2020-10-09 02:12:54+00:00|09-10-2020
+Fabio Ramos|[Sparse Spectrum Warped Input Measures for Nonstationary Kernel Learning](http://arxiv.org/abs/2010.04315v1)|2020-10-09 01:10:08+00:00|09-10-2020
+
 ## 09-10-2020
 
 main_author|title|update_date|publish_date

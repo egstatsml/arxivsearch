@@ -1,5 +1,21 @@
 # mcmc
 Click on title for link to paper
+## 16-10-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Vincent Y. F. Tan|[Probabilistic Sequential Shrinking: A Best Arm Identification Algorithm   for Stochastic Bandits with Corruptions](http://arxiv.org/abs/2010.07904v1)|2020-10-15 17:34:26+00:00|15-10-2020
+Dragomir Anguelov|[Just Pick a Sign: Optimizing Deep Multitask Models with Gradient Sign   Dropout](http://arxiv.org/abs/2010.06808v1)|2020-10-14 04:42:18+00:00|14-10-2020
+Anura P. Jayasumana|[A Patch-based Image Denoising Method Using Eigenvectors of the   Geodesics' Gramian Matrix](http://arxiv.org/abs/2010.07769v1)|2020-10-14 04:07:24+00:00|14-10-2020
+Brian Jalaian|[Scaling Hamiltonian Monte Carlo Inference for Bayesian Neural Networks   with Symmetric Splitting](http://arxiv.org/abs/2010.06772v1)|2020-10-14 01:58:34+00:00|14-10-2020
+Bastien Chopard|[Interpretable pathological test for Cardio-vascular disease: Approximate   Bayesian computation with distance learning](http://arxiv.org/abs/2010.06465v1)|2020-10-13 15:20:21+00:00|13-10-2020
+Abraham Otero|[Stochastic embeddings of dynamical phenomena through variational   autoencoders](http://arxiv.org/abs/2010.06265v1)|2020-10-13 10:10:24+00:00|13-10-2020
+Jun Guo|[Advanced Dropout: A Model-free Methodology for Bayesian Dropout   Optimization](http://arxiv.org/abs/2010.05244v1)|2020-10-11 13:19:58+00:00|11-10-2020
+Na Li|[Online Learning and Distributed Control for Residential Demand Response](http://arxiv.org/abs/2010.05153v1)|2020-10-11 03:52:30+00:00|11-10-2020
+Percy Liang|[On the Importance of Adaptive Data Collection for Extremely Imbalanced   Pairwise Tasks](http://arxiv.org/abs/2010.05103v1)|2020-10-10 21:56:27+00:00|10-10-2020
+Yuan Zhou|[SYMPAIS: SYMbolic Parallel Adaptive Importance Sampling for   Probabilistic Program Analysis](http://arxiv.org/abs/2010.05050v1)|2020-10-10 17:39:12+00:00|10-10-2020
+Alexandre M. Tartakovsky|[Physics-Informed Gaussian Process Regression for Probabilistic States   Estimation and Forecasting in Power Grids](http://arxiv.org/abs/2010.04591v1)|2020-10-09 14:18:31+00:00|09-10-2020
+
 ## 09-10-2020
 
 main_author|title|update_date|publish_date
