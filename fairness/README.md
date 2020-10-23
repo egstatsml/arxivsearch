@@ -1,5 +1,53 @@
 # fairness
 Click on title for link to paper
+## 23-10-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Joseph J. Lim|[Accelerating Reinforcement Learning with Learned Skill Priors](http://arxiv.org/abs/2010.11944v1)|2020-10-22 17:59:51+00:00|22-10-2020
+Mark Johnson|[Detecting and Exorcising Statistical Demons from Language Models with   Anti-Models of Negative Data](http://arxiv.org/abs/2010.11855v1)|2020-10-22 16:45:32+00:00|22-10-2020
+Nicolas Riche|[Urban Sound Classification : striving towards a fair comparison](http://arxiv.org/abs/2010.11805v1)|2020-10-22 15:37:39+00:00|22-10-2020
+Christopher Ré|[Sharp Bias-variance Tradeoffs of Hard Parameter Sharing in   High-dimensional Linear Regression](http://arxiv.org/abs/2010.11750v1)|2020-10-22 14:14:20+00:00|22-10-2020
+Nobukatsu Hojo|[CycleGAN-VC3: Examining and Improving CycleGAN-VCs for Mel-spectrogram   Conversion](http://arxiv.org/abs/2010.11672v1)|2020-10-22 13:08:44+00:00|22-10-2020
+Pavel Kalaidin|[Reducing Unintended Identity Bias in Russian Hate Speech Detection](http://arxiv.org/abs/2010.11666v1)|2020-10-22 12:54:14+00:00|22-10-2020
+Sebastian J Vollmer|[Model updating after interventions paradoxically introduces bias](http://arxiv.org/abs/2010.11530v1)|2020-10-22 08:43:29+00:00|22-10-2020
+Stefano Ermon|[Probabilistic Circuits for Variational Inference in Discrete Graphical   Models](http://arxiv.org/abs/2010.11446v1)|2020-10-22 05:04:38+00:00|22-10-2020
+Haiyi Zhu|[Value Cards: An Educational Toolkit for Teaching Social Impacts of   Machine Learning through Deliberation](http://arxiv.org/abs/2010.11411v1)|2020-10-22 03:27:19+00:00|22-10-2020
+Christopher Pal|[Learning to Summarize Long Texts with Memory Compression and Transfer](http://arxiv.org/abs/2010.11322v1)|2020-10-21 21:45:44+00:00|21-10-2020
+Cheng Zhang|[How Do Fair Decisions Fare in Long-term Qualification?](http://arxiv.org/abs/2010.11300v1)|2020-10-21 20:27:48+00:00|21-10-2020
+Anirban Mukhopadhyay|[What is Wrong with Continual Learning in Medical Image Segmentation?](http://arxiv.org/abs/2010.11008v1)|2020-10-21 13:48:37+00:00|21-10-2020
+Nisheeth K. Vishnoi|[The Effect of the Rooney Rule on Implicit Bias in the Long Term](http://arxiv.org/abs/2010.10992v1)|2020-10-21 13:33:00+00:00|21-10-2020
+Finale Doshi-Velez|[Incorporating Interpretable Output Constraints in Bayesian Neural   Networks](http://arxiv.org/abs/2010.10969v1)|2020-10-21 13:00:05+00:00|21-10-2020
+Osvaldo Simeone|[Conditional Mutual Information Bound for Meta Generalization Gap](http://arxiv.org/abs/2010.10886v1)|2020-10-21 10:44:33+00:00|21-10-2020
+Tamir Hazan|[Removing Bias in Multi-modal Classifiers: Regularization by Maximizing   Functional Entropies](http://arxiv.org/abs/2010.10802v1)|2020-10-21 07:40:33+00:00|21-10-2020
+Benno Stein|[Analyzing Political Bias and Unfairness in News Articles at Different   Levels of Granularity](http://arxiv.org/abs/2010.10652v1)|2020-10-20 22:25:00+00:00|20-10-2020
+Kyle Cranmer|[Semi-parametric $γ$-ray modeling with Gaussian processes and   variational inference](http://arxiv.org/abs/2010.10450v1)|2020-10-20 17:04:37+00:00|20-10-2020
+Ömer Deniz Akyildiz|[VarGrad: A Low-Variance Gradient Estimator for Variational Inference](http://arxiv.org/abs/2010.10436v1)|2020-10-20 16:46:01+00:00|20-10-2020
+A. Feder Cooper|[Where Is the Normative Proof? Assumptions and Contradictions in ML   Fairness Research](http://arxiv.org/abs/2010.10407v1)|2020-10-20 16:13:46+00:00|20-10-2020
+Thore Graepel|[Negotiating Team Formation Using Deep Reinforcement Learning](http://arxiv.org/abs/2010.10380v1)|2020-10-20 15:41:23+00:00|20-10-2020
+Josef Kittler|[A Flatter Loss for Bias Mitigation in Cross-dataset Facial Age   Estimation](http://arxiv.org/abs/2010.10368v1)|2020-10-20 15:22:29+00:00|20-10-2020
+A. Ben Hamza|[Graph Fairing Convolutional Networks for Anomaly Detection](http://arxiv.org/abs/2010.10274v1)|2020-10-20 13:45:47+00:00|20-10-2020
+Mark Steyvers|[Can I Trust My Fairness Metric? Assessing Fairness with Unlabeled Data   and Bayesian Inference](http://arxiv.org/abs/2010.09851v1)|2020-10-19 20:42:18+00:00|19-10-2020
+David R. Chapman|[Lung Nodule Classification Using Biomarkers, Volumetric Radiomics and 3D   CNNs](http://arxiv.org/abs/2010.11682v1)|2020-10-19 18:57:26+00:00|19-10-2020
+M Gopi|[GAMesh: Guided and Augmented Meshing for Deep Point Networks](http://arxiv.org/abs/2010.09774v1)|2020-10-19 18:23:53+00:00|19-10-2020
+Noah Smith|[Parameter Norm Growth During Training of Transformers](http://arxiv.org/abs/2010.09697v1)|2020-10-19 17:40:38+00:00|19-10-2020
+Konstantinos P. Michmizos|[Deep Reinforcement Learning with Population-Coded Spiking Neural Network   for Continuous Control](http://arxiv.org/abs/2010.09635v1)|2020-10-19 16:20:45+00:00|19-10-2020
+Baoyuan Wu|[Teacher-Student Competition for Unsupervised Domain Adaptation](http://arxiv.org/abs/2010.09572v2)|2020-10-20 03:37:22+00:00|19-10-2020
+Catuscia Palamidessi|[Survey on Causal-based Machine Learning Fairness Notions](http://arxiv.org/abs/2010.09553v1)|2020-10-19 14:28:55+00:00|19-10-2020
+Justin Domke|[On the Difficulty of Unbiased Alpha Divergence Minimization](http://arxiv.org/abs/2010.09541v2)|2020-10-22 11:54:50+00:00|19-10-2020
+Wee Sun Lee|[Neuralizing Efficient Higher-order Belief Propagation](http://arxiv.org/abs/2010.09283v1)|2020-10-19 07:51:31+00:00|19-10-2020
+Jinhui Xu|[Estimating Stochastic Linear Combination of Non-linear Regressions   Efficiently and Scalably](http://arxiv.org/abs/2010.09265v1)|2020-10-19 07:15:38+00:00|19-10-2020
+Longbo Huang|[Softmax Deep Double Deterministic Policy Gradients](http://arxiv.org/abs/2010.09177v1)|2020-10-19 02:52:00+00:00|19-10-2020
+Zhangyang Wang|[Training Stronger Baselines for Learning to Optimize](http://arxiv.org/abs/2010.09089v1)|2020-10-18 20:05:48+00:00|18-10-2020
+Mengyi Liu|[Distortion-aware Monocular Depth Estimation for Omnidirectional Images](http://arxiv.org/abs/2010.08942v1)|2020-10-18 08:47:57+00:00|18-10-2020
+Gabriel A. Silva|[Generalizable Machine Learning in Neuroscience using Graph Neural   Networks](http://arxiv.org/abs/2010.08569v1)|2020-10-16 18:09:46+00:00|16-10-2020
+Sanjeev Arora|[Why Are Convolutional Nets More Sample-Efficient than Fully-Connected   Nets?](http://arxiv.org/abs/2010.08515v1)|2020-10-16 17:15:39+00:00|16-10-2020
+Wieland Brendel|[On the surprising similarities between supervised and self-supervised   models](http://arxiv.org/abs/2010.08377v1)|2020-10-16 13:28:13+00:00|16-10-2020
+Jean-Philippe Vert|[Differentiable Divergences Between Time Series](http://arxiv.org/abs/2010.08354v1)|2020-10-16 12:45:13+00:00|16-10-2020
+Kuldeep Singh|[QA2Explanation: Generating and Evaluating Explanations for Question   Answering Systems over Knowledge Graph](http://arxiv.org/abs/2010.08323v1)|2020-10-16 11:32:12+00:00|16-10-2020
+Bo Zhang|[Variational (Gradient) Estimate of the Score Function in Energy-based   Latent Variable Models](http://arxiv.org/abs/2010.08258v1)|2020-10-16 09:20:52+00:00|16-10-2020
+Kyomin Jung|[Collaborative Training of GANs in Continuous and Discrete Spaces for   Text Generation](http://arxiv.org/abs/2010.08213v1)|2020-10-16 07:51:16+00:00|16-10-2020
+
 ## 16-10-2020
 
 main_author|title|update_date|publish_date

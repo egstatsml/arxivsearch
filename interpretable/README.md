@@ -1,5 +1,15 @@
 # interpretable
 Click on title for link to paper
+## 23-10-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Vahab Mirrokni|[Limiting Behaviors of Nonconvex-Nonconcave Minimax Optimization via   Continuous-Time Systems](http://arxiv.org/abs/2010.10628v1)|2020-10-20 21:14:51+00:00|20-10-2020
+Minlie Huang|[Bridging the Gap between Conversational Reasoning and Interactive   Recommendation](http://arxiv.org/abs/2010.10333v1)|2020-10-20 14:53:22+00:00|20-10-2020
+Junyi Jessy Li|[Elaborative Simplification: Content Addition and Explanation Generation   in Text Simplification](http://arxiv.org/abs/2010.10035v1)|2020-10-20 05:06:23+00:00|20-10-2020
+Payam Barnaghi|[Verifying the Causes of Adversarial Examples](http://arxiv.org/abs/2010.09633v1)|2020-10-19 16:17:20+00:00|19-10-2020
+Yang Yu|[Difference-in-Differences: Bridging Normalization and Disentanglement in   PG-GAN](http://arxiv.org/abs/2010.08402v1)|2020-10-16 14:02:53+00:00|16-10-2020
+
 ## 16-10-2020
 
 main_author|title|update_date|publish_date

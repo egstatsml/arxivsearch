@@ -1,13 +1,21 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
-Vincent Y. F. Tan|[Probabilistic Sequential Shrinking: A Best Arm Identification Algorithm   for Stochastic Bandits with Corruptions](http://arxiv.org/abs/2010.07904v1)|2020-10-15 17:34:26+00:00|15-10-2020
-Dragomir Anguelov|[Just Pick a Sign: Optimizing Deep Multitask Models with Gradient Sign   Dropout](http://arxiv.org/abs/2010.06808v1)|2020-10-14 04:42:18+00:00|14-10-2020
-Anura P. Jayasumana|[A Patch-based Image Denoising Method Using Eigenvectors of the   Geodesics' Gramian Matrix](http://arxiv.org/abs/2010.07769v1)|2020-10-14 04:07:24+00:00|14-10-2020
-Brian Jalaian|[Scaling Hamiltonian Monte Carlo Inference for Bayesian Neural Networks   with Symmetric Splitting](http://arxiv.org/abs/2010.06772v1)|2020-10-14 01:58:34+00:00|14-10-2020
-Bastien Chopard|[Interpretable pathological test for Cardio-vascular disease: Approximate   Bayesian computation with distance learning](http://arxiv.org/abs/2010.06465v1)|2020-10-13 15:20:21+00:00|13-10-2020
-Abraham Otero|[Stochastic embeddings of dynamical phenomena through variational   autoencoders](http://arxiv.org/abs/2010.06265v1)|2020-10-13 10:10:24+00:00|13-10-2020
-Jun Guo|[Advanced Dropout: A Model-free Methodology for Bayesian Dropout   Optimization](http://arxiv.org/abs/2010.05244v1)|2020-10-11 13:19:58+00:00|11-10-2020
-Na Li|[Online Learning and Distributed Control for Residential Demand Response](http://arxiv.org/abs/2010.05153v1)|2020-10-11 03:52:30+00:00|11-10-2020
-Percy Liang|[On the Importance of Adaptive Data Collection for Extremely Imbalanced   Pairwise Tasks](http://arxiv.org/abs/2010.05103v1)|2020-10-10 21:56:27+00:00|10-10-2020
-Yuan Zhou|[SYMPAIS: SYMbolic Parallel Adaptive Importance Sampling for   Probabilistic Program Analysis](http://arxiv.org/abs/2010.05050v1)|2020-10-10 17:39:12+00:00|10-10-2020
-Alexandre M. Tartakovsky|[Physics-Informed Gaussian Process Regression for Probabilistic States   Estimation and Forecasting in Power Grids](http://arxiv.org/abs/2010.04591v1)|2020-10-09 14:18:31+00:00|09-10-2020
+Pablo Piantanida|[The Role of Mutual Information in Variational Classifiers](http://arxiv.org/abs/2010.11642v1)|2020-10-22 12:27:57+00:00|22-10-2020
+Stefano Ermon|[Probabilistic Circuits for Variational Inference in Discrete Graphical   Models](http://arxiv.org/abs/2010.11446v1)|2020-10-22 05:04:38+00:00|22-10-2020
+Cao Xiao|[UNITE: Uncertainty-based Health Risk Prediction Leveraging Multi-sourced   Data](http://arxiv.org/abs/2010.11389v1)|2020-10-22 02:28:11+00:00|22-10-2020
+Byron Boots|[Quantum Tensor Networks, Stochastic Processes, and Weighted Automata](http://arxiv.org/abs/2010.10653v1)|2020-10-20 22:28:50+00:00|20-10-2020
+Mingyuan Zhou|[Bayesian Attention Modules](http://arxiv.org/abs/2010.10604v1)|2020-10-20 20:30:55+00:00|20-10-2020
+Andrea Goldsmith|[Bayesian Algorithms for Decentralized Stochastic Bandits](http://arxiv.org/abs/2010.10569v1)|2020-10-20 19:14:20+00:00|20-10-2020
+Kyle Cranmer|[Semi-parametric $γ$-ray modeling with Gaussian processes and   variational inference](http://arxiv.org/abs/2010.10450v1)|2020-10-20 17:04:37+00:00|20-10-2020
+Ömer Deniz Akyildiz|[VarGrad: A Low-Variance Gradient Estimator for Variational Inference](http://arxiv.org/abs/2010.10436v1)|2020-10-20 16:46:01+00:00|20-10-2020
+Leszek Szczecinski|[Elo-MOV rating algorithm: Generalization of the Elo algorithm by   modelling the discretized Margin of Victory](http://arxiv.org/abs/2010.11187v1)|2020-10-20 03:55:30+00:00|20-10-2020
+Faming Liang|[A Contour Stochastic Gradient Langevin Dynamics Algorithm for   Simulations of Multi-modal Distributions](http://arxiv.org/abs/2010.09800v1)|2020-10-19 19:20:47+00:00|19-10-2020
+Philipp Hennig|[Probabilistic Linear Solvers for Machine Learning](http://arxiv.org/abs/2010.09691v1)|2020-10-19 17:29:16+00:00|19-10-2020
+Debdeep Pati|[Statistical Guarantees and Algorithmic Convergence Issues of Variational   Boosting](http://arxiv.org/abs/2010.09540v2)|2020-10-22 00:15:06+00:00|19-10-2020
+Bjørn Sand Jensen|[Probabilistic selection of inducing points in sparse Gaussian processes](http://arxiv.org/abs/2010.09370v2)|2020-10-20 12:02:36+00:00|19-10-2020
+Samuel Kaski|[Bayesian Inference for Optimal Transport with Stochastic Cost](http://arxiv.org/abs/2010.09327v1)|2020-10-19 09:07:57+00:00|19-10-2020
+Zhiqiang He|[Double-Uncertainty Weighted Method for Semi-supervised Learning](http://arxiv.org/abs/2010.09298v1)|2020-10-19 08:20:18+00:00|19-10-2020
+Yingnan Zhao|[Variational Dynamic for Self-Supervised Exploration in Deep   Reinforcement Learning](http://arxiv.org/abs/2010.08755v1)|2020-10-17 09:54:51+00:00|17-10-2020
+Zheng Zhang|[End-to-End Variational Bayesian Training of Tensorized Neural Networks   with Automatic Rank Determination](http://arxiv.org/abs/2010.08689v1)|2020-10-17 01:23:26+00:00|17-10-2020
+Judy Hoffman|[Active Domain Adaptation via Clustering Uncertainty-weighted Embeddings](http://arxiv.org/abs/2010.08666v1)|2020-10-16 23:37:44+00:00|16-10-2020
+Joakim Jaldén|[Reinforcement Learning for Efficient and Tuning-Free Link Adaptation](http://arxiv.org/abs/2010.08651v1)|2020-10-16 22:20:58+00:00|16-10-2020
