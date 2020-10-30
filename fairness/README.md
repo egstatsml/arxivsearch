@@ -1,5 +1,53 @@
 # fairness
 Click on title for link to paper
+## 30-10-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Hong Zhou|[A Local Search Framework for Experimental Design](http://arxiv.org/abs/2010.15805v1)|2020-10-29 17:43:06+00:00|29-10-2020
+Liam Paninski|[Attentive Clustering Processes](http://arxiv.org/abs/2010.15727v1)|2020-10-29 16:18:48+00:00|29-10-2020
+Fei Lu|[Learning interaction kernels in mean-field equations of 1st-order   systems of interacting particles](http://arxiv.org/abs/2010.15694v1)|2020-10-29 15:37:17+00:00|29-10-2020
+Stephan Günnemann|[Reliable Graph Neural Networks via Robust Aggregation](http://arxiv.org/abs/2010.15651v1)|2020-10-29 14:55:20+00:00|29-10-2020
+Nihar B. Shah|[Uncovering Latent Biases in Text: Method and Application to Peer Review](http://arxiv.org/abs/2010.15300v1)|2020-10-29 01:24:19+00:00|29-10-2020
+Aylin Caliskan|[Image Representations Learned With Unsupervised Pre-Training Contain   Human-like Biases](http://arxiv.org/abs/2010.15052v1)|2020-10-28 15:55:49+00:00|28-10-2020
+Mark D. Plumbley|[Raw Audio for Depression Detection Can Be More Robust Against Gender   Imbalance than Mel-Spectrogram Features](http://arxiv.org/abs/2010.15120v1)|2020-10-28 14:53:56+00:00|28-10-2020
+Zhenwen Dai|[The Evidence Lower Bound of Variational Autoencoders Converges to a Sum   of Three Entropies](http://arxiv.org/abs/2010.14860v1)|2020-10-28 10:13:28+00:00|28-10-2020
+Patrick Cardinal|[Deep DA for Ordinal Regression of Pain Intensity Estimation Using   Weakly-Labeled Videos](http://arxiv.org/abs/2010.15675v1)|2020-10-28 03:20:34+00:00|28-10-2020
+Petar Kormushev|[Learning to Represent Action Values as a Hypergraph on the Action   Vertices](http://arxiv.org/abs/2010.14680v1)|2020-10-28 00:19:13+00:00|28-10-2020
+Han Shao|[Online Learning with Primary and Secondary Losses](http://arxiv.org/abs/2010.14670v1)|2020-10-27 23:50:27+00:00|27-10-2020
+Albert Gatt|[Unmasking Contextual Stereotypes: Measuring and Mitigating BERT's Gender   Bias](http://arxiv.org/abs/2010.14534v1)|2020-10-27 18:06:09+00:00|27-10-2020
+Gerard I. Gállego|[Evaluating Gender Bias in Speech Translation](http://arxiv.org/abs/2010.14465v1)|2020-10-27 17:24:27+00:00|27-10-2020
+Bernhard Schölkopf|[On the Transfer of Disentangled Representations in Realistic Settings](http://arxiv.org/abs/2010.14407v1)|2020-10-27 16:15:24+00:00|27-10-2020
+Jan Peters|[Batch Reinforcement Learning with a Nonparametric Off-Policy Policy   Gradient](http://arxiv.org/abs/2010.14771v2)|2020-10-29 11:07:49+00:00|27-10-2020
+Henry D. Pfister|[Physics-Based Deep Learning for Fiber-Optic Communication Systems](http://arxiv.org/abs/2010.14258v1)|2020-10-27 12:55:23+00:00|27-10-2020
+Percy Liang|[Selective Classification Can Magnify Disparities Across Groups](http://arxiv.org/abs/2010.14134v1)|2020-10-27 08:51:30+00:00|27-10-2020
+Min Chi|[An Adversarial Domain Separation Framework for Septic Shock Early   Prediction Across EHR Systems](http://arxiv.org/abs/2010.13952v1)|2020-10-26 23:41:33+00:00|26-10-2020
+Ho Shan Lam|[KFC: A Scalable Approximation Algorithm for $k$-center Fair Clustering](http://arxiv.org/abs/2010.13949v1)|2020-10-26 23:33:34+00:00|26-10-2020
+Pankaj Mehta|[Memorizing without overfitting: Bias, variance, and interpolation in   over-parameterized models](http://arxiv.org/abs/2010.13933v1)|2020-10-26 22:31:04+00:00|26-10-2020
+Jesse Davis|[Versatile Verification of Tree Ensembles](http://arxiv.org/abs/2010.13880v1)|2020-10-26 20:13:17+00:00|26-10-2020
+Mijung Park|[Q-FIT: The Quantifiable Feature Importance Technique for Explainable   Machine Learning](http://arxiv.org/abs/2010.13872v1)|2020-10-26 19:55:58+00:00|26-10-2020
+Mengmeng Niu|[Data Troubles in Sentence Level Confidence Estimation for Machine   Translation](http://arxiv.org/abs/2010.13856v1)|2020-10-26 19:20:29+00:00|26-10-2020
+Yejin Choi|[PowerTransformer: Unsupervised Controllable Revision for Biased Language   Correction](http://arxiv.org/abs/2010.13816v1)|2020-10-26 18:05:48+00:00|26-10-2020
+Risa H. Wechsler|[Hierarchical Inference With Bayesian Neural Networks: An Application to   Strong Gravitational Lensing](http://arxiv.org/abs/2010.13787v2)|2020-10-28 02:07:20+00:00|26-10-2020
+Matthew B. Blaschko|[Optimization for Medical Image Segmentation: Theory and Practice when   evaluating with Dice Score or Jaccard Index](http://arxiv.org/abs/2010.13499v1)|2020-10-26 11:45:55+00:00|26-10-2020
+Yuri Nakao|[One-vs.-One Mitigation of Intersectional Bias: A General Method to   Extend Fairness-Aware Binary Classification](http://arxiv.org/abs/2010.13494v1)|2020-10-26 11:35:39+00:00|26-10-2020
+In So Kweon|[Robustness May Be at Odds with Fairness: An Empirical Study on   Class-wise Accuracy](http://arxiv.org/abs/2010.13365v1)|2020-10-26 06:32:32+00:00|26-10-2020
+Xuanrong Pang|[A Distributed Training Algorithm of Generative Adversarial Networks with   Quantized Gradients](http://arxiv.org/abs/2010.13359v1)|2020-10-26 06:06:43+00:00|26-10-2020
+Cyrus DiCiccio|[Interpretable Assessment of Fairness During Model Evaluation](http://arxiv.org/abs/2010.13782v1)|2020-10-26 02:31:17+00:00|26-10-2020
+Paris Smaragdis|[Unified Gradient Reweighting for Model Biasing with Applications to   Source Separation](http://arxiv.org/abs/2010.13228v1)|2020-10-25 21:41:45+00:00|25-10-2020
+Susan Athey|[Tractable contextual bandits beyond realizability](http://arxiv.org/abs/2010.13013v1)|2020-10-25 01:36:04+00:00|25-10-2020
+Furong Huang|[Are Adversarial Examples Created Equal? A Learnable Weighted Minimax   Risk for Robustness under Non-uniform Attacks](http://arxiv.org/abs/2010.12989v1)|2020-10-24 21:20:35+00:00|24-10-2020
+Dhanya Sridhar|[Causal Effects of Linguistic Properties](http://arxiv.org/abs/2010.12919v1)|2020-10-24 15:43:37+00:00|24-10-2020
+Harish G. Ramaswamy|[Inductive Bias of Gradient Descent for Exponentially Weight Normalized   Smooth Homogeneous Neural Nets](http://arxiv.org/abs/2010.12909v1)|2020-10-24 14:34:56+00:00|24-10-2020
+Xiang Ren|[Efficiently Mitigating Classification Bias via Transfer Learning](http://arxiv.org/abs/2010.12864v1)|2020-10-24 10:36:11+00:00|24-10-2020
+Rachel Cummings|[Differentially Private Online Submodular Maximization](http://arxiv.org/abs/2010.12816v1)|2020-10-24 07:23:30+00:00|24-10-2020
+Bryan Kian Hsiang Low|[Collaborative Machine Learning with Incentive-Aware Model Rewards](http://arxiv.org/abs/2010.12797v1)|2020-10-24 06:20:55+00:00|24-10-2020
+Morteza Dehghani|[Fair Hate Speech Detection through Evaluation of Social Group   Counterfactuals](http://arxiv.org/abs/2010.12779v1)|2020-10-24 04:51:47+00:00|24-10-2020
+Jehoshua Bruck|[Robust Correction of Sampling Bias Using Cumulative Distribution   Functions](http://arxiv.org/abs/2010.12687v1)|2020-10-23 22:13:00+00:00|23-10-2020
+Kazuho Watanabe|[Unbiased Estimation Equation under $f$-Separable Bregman Distortion   Measures](http://arxiv.org/abs/2010.12286v1)|2020-10-23 10:33:55+00:00|23-10-2020
+Massimo Bernaschi|[Reducing Bias in Modeling Real-world Password Strength via Deep Learning   and Dynamic Dictionaries](http://arxiv.org/abs/2010.12269v2)|2020-10-26 10:13:31+00:00|23-10-2020
+Florian Kerschbaum|[Differentially Private Learning Does Not Bound Membership Inference](http://arxiv.org/abs/2010.12112v1)|2020-10-23 00:16:46+00:00|23-10-2020
+
 ## 23-10-2020
 
 main_author|title|update_date|publish_date

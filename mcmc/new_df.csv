@@ -1,21 +1,12 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
-Pablo Piantanida|[The Role of Mutual Information in Variational Classifiers](http://arxiv.org/abs/2010.11642v1)|2020-10-22 12:27:57+00:00|22-10-2020
-Stefano Ermon|[Probabilistic Circuits for Variational Inference in Discrete Graphical   Models](http://arxiv.org/abs/2010.11446v1)|2020-10-22 05:04:38+00:00|22-10-2020
-Cao Xiao|[UNITE: Uncertainty-based Health Risk Prediction Leveraging Multi-sourced   Data](http://arxiv.org/abs/2010.11389v1)|2020-10-22 02:28:11+00:00|22-10-2020
-Byron Boots|[Quantum Tensor Networks, Stochastic Processes, and Weighted Automata](http://arxiv.org/abs/2010.10653v1)|2020-10-20 22:28:50+00:00|20-10-2020
-Mingyuan Zhou|[Bayesian Attention Modules](http://arxiv.org/abs/2010.10604v1)|2020-10-20 20:30:55+00:00|20-10-2020
-Andrea Goldsmith|[Bayesian Algorithms for Decentralized Stochastic Bandits](http://arxiv.org/abs/2010.10569v1)|2020-10-20 19:14:20+00:00|20-10-2020
-Kyle Cranmer|[Semi-parametric $γ$-ray modeling with Gaussian processes and   variational inference](http://arxiv.org/abs/2010.10450v1)|2020-10-20 17:04:37+00:00|20-10-2020
-Ömer Deniz Akyildiz|[VarGrad: A Low-Variance Gradient Estimator for Variational Inference](http://arxiv.org/abs/2010.10436v1)|2020-10-20 16:46:01+00:00|20-10-2020
-Leszek Szczecinski|[Elo-MOV rating algorithm: Generalization of the Elo algorithm by   modelling the discretized Margin of Victory](http://arxiv.org/abs/2010.11187v1)|2020-10-20 03:55:30+00:00|20-10-2020
-Faming Liang|[A Contour Stochastic Gradient Langevin Dynamics Algorithm for   Simulations of Multi-modal Distributions](http://arxiv.org/abs/2010.09800v1)|2020-10-19 19:20:47+00:00|19-10-2020
-Philipp Hennig|[Probabilistic Linear Solvers for Machine Learning](http://arxiv.org/abs/2010.09691v1)|2020-10-19 17:29:16+00:00|19-10-2020
-Debdeep Pati|[Statistical Guarantees and Algorithmic Convergence Issues of Variational   Boosting](http://arxiv.org/abs/2010.09540v2)|2020-10-22 00:15:06+00:00|19-10-2020
-Bjørn Sand Jensen|[Probabilistic selection of inducing points in sparse Gaussian processes](http://arxiv.org/abs/2010.09370v2)|2020-10-20 12:02:36+00:00|19-10-2020
-Samuel Kaski|[Bayesian Inference for Optimal Transport with Stochastic Cost](http://arxiv.org/abs/2010.09327v1)|2020-10-19 09:07:57+00:00|19-10-2020
-Zhiqiang He|[Double-Uncertainty Weighted Method for Semi-supervised Learning](http://arxiv.org/abs/2010.09298v1)|2020-10-19 08:20:18+00:00|19-10-2020
-Yingnan Zhao|[Variational Dynamic for Self-Supervised Exploration in Deep   Reinforcement Learning](http://arxiv.org/abs/2010.08755v1)|2020-10-17 09:54:51+00:00|17-10-2020
-Zheng Zhang|[End-to-End Variational Bayesian Training of Tensorized Neural Networks   with Automatic Rank Determination](http://arxiv.org/abs/2010.08689v1)|2020-10-17 01:23:26+00:00|17-10-2020
-Judy Hoffman|[Active Domain Adaptation via Clustering Uncertainty-weighted Embeddings](http://arxiv.org/abs/2010.08666v1)|2020-10-16 23:37:44+00:00|16-10-2020
-Joakim Jaldén|[Reinforcement Learning for Efficient and Tuning-Free Link Adaptation](http://arxiv.org/abs/2010.08651v1)|2020-10-16 22:20:58+00:00|16-10-2020
+Daniela Rus|[Learning to Plan Optimistically: Uncertainty-Guided Deep Exploration via   Latent Model Ensembles](http://arxiv.org/abs/2010.14641v1)|2020-10-27 22:06:57+00:00|27-10-2020
+Mark van der Wilk|[A Bayesian Perspective on Training Speed and Model Selection](http://arxiv.org/abs/2010.14499v1)|2020-10-27 17:56:14+00:00|27-10-2020
+Roger Ghanem|[Probabilistic learning on manifolds constrained by nonlinear partial   differential equations for small datasets](http://arxiv.org/abs/2010.14324v1)|2020-10-27 14:34:54+00:00|27-10-2020
+Meeyoung Cha|[Take a Chance: Managing the Exploitation-Exploration Dilemma in Customs   Fraud Detection via Online Active Learning](http://arxiv.org/abs/2010.14282v1)|2020-10-27 13:31:31+00:00|27-10-2020
+Osvaldo Simeone|[Spiking Neural Networks -- Part II: Detecting Spatio-Temporal Patterns](http://arxiv.org/abs/2010.14217v1)|2020-10-27 11:47:42+00:00|27-10-2020
+Percy Liang|[Selective Classification Can Magnify Disparities Across Groups](http://arxiv.org/abs/2010.14134v1)|2020-10-27 08:51:30+00:00|27-10-2020
+Tias Guns|[Interior Point Solving for LP-based prediction+optimisation](http://arxiv.org/abs/2010.13943v1)|2020-10-26 23:05:21+00:00|26-10-2020
+Akshay Srivastava|[Recurrent Neural Based Electricity Load Forecasting of G-20 Members](http://arxiv.org/abs/2010.12934v1)|2020-10-24 16:56:29+00:00|24-10-2020
+Loizos Michael|[Abduction and Argumentation for Explainable Machine Learning: A Position   Survey](http://arxiv.org/abs/2010.12896v1)|2020-10-24 13:23:44+00:00|24-10-2020
+Pedro A. Ortega|[Algorithms for Causal Reasoning in Probability Trees](http://arxiv.org/abs/2010.12237v1)|2020-10-23 08:51:52+00:00|23-10-2020

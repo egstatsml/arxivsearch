@@ -1,5 +1,40 @@
 # bnn
 Click on title for link to paper
+## 30-10-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Andreas Maier|[Maximum a posteriori signal recovery for optical coherence tomography   angiography image generation and denoising](http://arxiv.org/abs/2010.15682v1)|2020-10-29 15:28:22+00:00|29-10-2020
+Carlo Regazzoni|[Collective Awareness for Abnormality Detection in Connected Autonomous   Vehicles](http://arxiv.org/abs/2010.14908v1)|2020-10-28 12:11:36+00:00|28-10-2020
+Mario Marchese|[Dynamic Bayesian Approach for decision-making in Ego-Things](http://arxiv.org/abs/2010.14900v1)|2020-10-28 11:38:51+00:00|28-10-2020
+Kewei Tu|[Second-Order Unsupervised Neural Dependency Parsing](http://arxiv.org/abs/2010.14720v1)|2020-10-28 03:01:33+00:00|28-10-2020
+José Miguel Hernández-Lobato|[Expressive yet Tractable Bayesian Deep Learning via Subnetwork Inference](http://arxiv.org/abs/2010.14689v1)|2020-10-28 01:10:11+00:00|28-10-2020
+Jiwoo Lee|[Improving seasonal forecast using probabilistic deep learning](http://arxiv.org/abs/2010.14610v1)|2020-10-27 21:02:26+00:00|27-10-2020
+Mark van der Wilk|[A Bayesian Perspective on Training Speed and Model Selection](http://arxiv.org/abs/2010.14499v1)|2020-10-27 17:56:14+00:00|27-10-2020
+Katherine L. Bouman|[Deep Probabilistic Imaging: Uncertainty Quantification and Multi-modal   Solution Characterization for Computational Imaging](http://arxiv.org/abs/2010.14462v1)|2020-10-27 17:23:09+00:00|27-10-2020
+Roger Ghanem|[Probabilistic learning on manifolds constrained by nonlinear partial   differential equations for small datasets](http://arxiv.org/abs/2010.14324v1)|2020-10-27 14:34:54+00:00|27-10-2020
+Osvaldo Simeone|[Spiking Neural Networks -- Part II: Detecting Spatio-Temporal Patterns](http://arxiv.org/abs/2010.14217v1)|2020-10-27 11:47:42+00:00|27-10-2020
+Bjoern Menze|[Micro-CT Synthesis and Inner Ear Super Resolution via Bayesian   Generative Adversarial Networks](http://arxiv.org/abs/2010.14105v1)|2020-10-27 07:18:34+00:00|27-10-2020
+Kenneth E. Barner|[A Probabilistic Representation of Deep Learning for Improving The   Information Theoretic Interpretability](http://arxiv.org/abs/2010.14054v1)|2020-10-27 05:14:28+00:00|27-10-2020
+Risa H. Wechsler|[Hierarchical Inference With Bayesian Neural Networks: An Application to   Strong Gravitational Lensing](http://arxiv.org/abs/2010.13787v2)|2020-10-28 02:07:20+00:00|26-10-2020
+Jayaraman J. Thiagarajan|[Meaningful uncertainties from deep neural network surrogates of   large-scale numerical simulations](http://arxiv.org/abs/2010.13749v1)|2020-10-26 17:39:05+00:00|26-10-2020
+Carl Henrik Ek|[Black-box density function estimation using recursive partitioning](http://arxiv.org/abs/2010.13632v1)|2020-10-26 14:47:32+00:00|26-10-2020
+Markus Heinonen|[Scalable Bayesian neural networks by layer-wise input augmentation](http://arxiv.org/abs/2010.13498v1)|2020-10-26 11:45:19+00:00|26-10-2020
+Lara Vomfell|[Robust Bayesian Inference for Discrete Outcomes with the Total Variation   Distance](http://arxiv.org/abs/2010.13456v1)|2020-10-26 09:53:06+00:00|26-10-2020
+Fernando Alarid-Escudero|[BayCANN: Streamlining Bayesian Calibration with Artificial Neural   Network Metamodeling](http://arxiv.org/abs/2010.13452v1)|2020-10-26 09:47:39+00:00|26-10-2020
+Naimul Khan|[Interpreting Uncertainty in Model Predictions For COVID-19 Diagnosis](http://arxiv.org/abs/2010.13271v1)|2020-10-26 01:27:29+00:00|26-10-2020
+Marina Vannucci|[Latent Network Estimation and Variable Selection for Compositional Data   via Variational EM](http://arxiv.org/abs/2010.13229v1)|2020-10-25 21:52:39+00:00|25-10-2020
+Dan Gutfreund|[Improving the Reconstruction of Disentangled Representation Learners via   Multi-Stage Modelling](http://arxiv.org/abs/2010.13187v1)|2020-10-25 18:51:15+00:00|25-10-2020
+Debdeep Pati|[Statistical optimality and stability of tangent transform algorithms in   logit models](http://arxiv.org/abs/2010.13039v1)|2020-10-25 05:15:13+00:00|25-10-2020
+François Laviolette|[Implicit Variational Inference: the Parameter and the Predictor Space](http://arxiv.org/abs/2010.12995v1)|2020-10-24 21:41:21+00:00|24-10-2020
+Guang Cheng|[Nearly Optimal Variational Inference for High Dimensional Regression   with Shrinkage Priors](http://arxiv.org/abs/2010.12887v1)|2020-10-24 12:10:27+00:00|24-10-2020
+Patrick Jaillet|[Variational Bayesian Unlearning](http://arxiv.org/abs/2010.12883v1)|2020-10-24 11:53:00+00:00|24-10-2020
+Stefan Kramer|[Ranking Creative Language Characteristics in Small Data Scenarios](http://arxiv.org/abs/2010.12613v1)|2020-10-23 18:57:47+00:00|23-10-2020
+Hartwig Adam|[View-Invariant, Occlusion-Robust Probabilistic Embedding for Human Pose](http://arxiv.org/abs/2010.13321v1)|2020-10-23 17:58:35+00:00|23-10-2020
+Graham W. Pulford|[From the Expectation Maximisation Algorithm to Autoencoded Variational   Bayes](http://arxiv.org/abs/2010.13551v1)|2020-10-23 17:23:26+00:00|23-10-2020
+Massimo Bernaschi|[Reducing Bias in Modeling Real-world Password Strength via Deep Learning   and Dynamic Dictionaries](http://arxiv.org/abs/2010.12269v2)|2020-10-26 10:13:31+00:00|23-10-2020
+Erik Meijer|[Accelerating Metropolis-Hastings with Lightweight Inference Compilation](http://arxiv.org/abs/2010.12128v1)|2020-10-23 02:05:37+00:00|23-10-2020
+
 ## 23-10-2020
 
 main_author|title|update_date|publish_date

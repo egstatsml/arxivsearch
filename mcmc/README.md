@@ -1,5 +1,20 @@
 # mcmc
 Click on title for link to paper
+## 30-10-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Daniela Rus|[Learning to Plan Optimistically: Uncertainty-Guided Deep Exploration via   Latent Model Ensembles](http://arxiv.org/abs/2010.14641v1)|2020-10-27 22:06:57+00:00|27-10-2020
+Mark van der Wilk|[A Bayesian Perspective on Training Speed and Model Selection](http://arxiv.org/abs/2010.14499v1)|2020-10-27 17:56:14+00:00|27-10-2020
+Roger Ghanem|[Probabilistic learning on manifolds constrained by nonlinear partial   differential equations for small datasets](http://arxiv.org/abs/2010.14324v1)|2020-10-27 14:34:54+00:00|27-10-2020
+Meeyoung Cha|[Take a Chance: Managing the Exploitation-Exploration Dilemma in Customs   Fraud Detection via Online Active Learning](http://arxiv.org/abs/2010.14282v1)|2020-10-27 13:31:31+00:00|27-10-2020
+Osvaldo Simeone|[Spiking Neural Networks -- Part II: Detecting Spatio-Temporal Patterns](http://arxiv.org/abs/2010.14217v1)|2020-10-27 11:47:42+00:00|27-10-2020
+Percy Liang|[Selective Classification Can Magnify Disparities Across Groups](http://arxiv.org/abs/2010.14134v1)|2020-10-27 08:51:30+00:00|27-10-2020
+Tias Guns|[Interior Point Solving for LP-based prediction+optimisation](http://arxiv.org/abs/2010.13943v1)|2020-10-26 23:05:21+00:00|26-10-2020
+Akshay Srivastava|[Recurrent Neural Based Electricity Load Forecasting of G-20 Members](http://arxiv.org/abs/2010.12934v1)|2020-10-24 16:56:29+00:00|24-10-2020
+Loizos Michael|[Abduction and Argumentation for Explainable Machine Learning: A Position   Survey](http://arxiv.org/abs/2010.12896v1)|2020-10-24 13:23:44+00:00|24-10-2020
+Pedro A. Ortega|[Algorithms for Causal Reasoning in Probability Trees](http://arxiv.org/abs/2010.12237v1)|2020-10-23 08:51:52+00:00|23-10-2020
+
 ## 23-10-2020
 
 main_author|title|update_date|publish_date

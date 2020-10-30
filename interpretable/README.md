@@ -1,5 +1,18 @@
 # interpretable
 Click on title for link to paper
+## 30-10-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Dan Goldwasser|"[""where is this relationship going?"": Understanding Relationship   Trajectories in Narrative Text](http://arxiv.org/abs/2010.15313v1)"|2020-10-29 02:07:05+00:00|29-10-2020
+Scott Lundberg|[Shapley Flow: A Graph-based Approach to Interpreting Model Predictions](http://arxiv.org/abs/2010.14592v1)|2020-10-27 20:21:00+00:00|27-10-2020
+Daniel M. Roy|[Enforcing Interpretability and its Statistical Impacts: Trade-offs   between Accuracy and Interpretability](http://arxiv.org/abs/2010.13764v2)|2020-10-28 17:34:32+00:00|26-10-2020
+André Freitas|[ExplanationLP: Abductive Reasoning for Explainable Science Question   Answering](http://arxiv.org/abs/2010.13128v1)|2020-10-25 14:49:24+00:00|25-10-2020
+Qiyue Yin|[Planning with Exploration: Addressing Dynamics Bottleneck in Model-based   Reinforcement Learning](http://arxiv.org/abs/2010.12914v1)|2020-10-24 15:29:02+00:00|24-10-2020
+Loizos Michael|[Abduction and Argumentation for Explainable Machine Learning: A Position   Survey](http://arxiv.org/abs/2010.12896v1)|2020-10-24 13:23:44+00:00|24-10-2020
+Jin-Hee Cho|[Uncertainty Aware Semi-Supervised Learning on Graph Data](http://arxiv.org/abs/2010.12783v1)|2020-10-24 04:56:46+00:00|24-10-2020
+Ruihai Dong|[Generating Plausible Counterfactual Explanations for Deep Transformers   in Financial Text Classification](http://arxiv.org/abs/2010.12512v1)|2020-10-23 16:29:26+00:00|23-10-2020
+
 ## 23-10-2020
 
 main_author|title|update_date|publish_date
