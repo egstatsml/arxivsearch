@@ -1,5 +1,47 @@
 # fairness
 Click on title for link to paper
+## 06-11-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Roger Levy|[Investigating Novel Verb Learning in BERT: Selectional Preference   Classes and Alternation-Based Syntactic Generalization](http://arxiv.org/abs/2011.02417v1)|2020-11-04 17:17:49+00:00|04-11-2020
+Sebastian Vollmer|[Debiasing classifiers: is reality at variance with expectation?](http://arxiv.org/abs/2011.02407v1)|2020-11-04 17:00:54+00:00|04-11-2020
+Sébastien Marcel|[Fairness in Biometrics: a figure of merit to assess biometric   verification systems](http://arxiv.org/abs/2011.02395v1)|2020-11-04 16:46:37+00:00|04-11-2020
+Ravinder R. Regatte|[Fast Data-Driven Learning of MRI Sampling Pattern for Large Scale   Problems](http://arxiv.org/abs/2011.02322v1)|2020-11-04 14:42:41+00:00|04-11-2020
+Amir Dib|[Quantized Variational Inference](http://arxiv.org/abs/2011.02271v1)|2020-11-04 13:22:50+00:00|04-11-2020
+Christian Riess|[The Forchheim Image Database for Camera Identification in the Wild](http://arxiv.org/abs/2011.02241v1)|2020-11-04 11:54:54+00:00|04-11-2020
+Michele Loi|[On the Moral Justification of Statistical Parity](http://arxiv.org/abs/2011.02079v1)|2020-11-04 00:26:15+00:00|04-11-2020
+Christopher R. King|[(Un)fairness in Post-operative Complication Prediction Models](http://arxiv.org/abs/2011.02036v1)|2020-11-03 22:11:19+00:00|03-11-2020
+Karthik Shanmugam|[High-Dimensional Feature Selection for Sample Efficient Treatment Effect   Estimation](http://arxiv.org/abs/2011.01979v1)|2020-11-03 19:54:16+00:00|03-11-2020
+Xiao Yu Wang|[Insights into Fairness through Trust: Multi-scale Trust Quantification   for Financial Deep Learning](http://arxiv.org/abs/2011.01961v1)|2020-11-03 19:05:07+00:00|03-11-2020
+Rahul Savani|[The Complexity of Gradient Descent: CLS = PPAD $\cap$ PLS](http://arxiv.org/abs/2011.01929v1)|2020-11-03 18:58:51+00:00|03-11-2020
+Esther E. Bron|[Learning unbiased registration and joint segmentation: evaluation on   longitudinal diffusion MRI](http://arxiv.org/abs/2011.01869v1)|2020-11-03 17:44:15+00:00|03-11-2020
+Guillermo Sapiro|[Minimax Pareto Fairness: A Multi Objective Perspective](http://arxiv.org/abs/2011.01821v1)|2020-11-03 16:21:53+00:00|03-11-2020
+Albert Y. Zomaya|[An Efficiency-boosting Client Selection Scheme for Federated Learning   with Fairness Guarantee](http://arxiv.org/abs/2011.01783v2)|2020-11-04 15:28:10+00:00|03-11-2020
+Hemant Tyagi|[Regularized spectral methods for clustering signed networks](http://arxiv.org/abs/2011.01737v1)|2020-11-03 14:40:34+00:00|03-11-2020
+Alice Coucke|[Small footprint Text-Independent Speaker Verification for Embedded   Systems](http://arxiv.org/abs/2011.01709v1)|2020-11-03 13:53:05+00:00|03-11-2020
+Mikhail Kanevski|[Uncertainty Quantification in Extreme Learning Machine: Analytical   Developments, Variance Estimates and Confidence Intervals](http://arxiv.org/abs/2011.01704v1)|2020-11-03 13:45:59+00:00|03-11-2020
+Jun Zhao|[Recent Advances in Understanding Adversarial Robustness of Deep Neural   Networks](http://arxiv.org/abs/2011.01539v1)|2020-11-03 07:42:53+00:00|03-11-2020
+Oluwasanmi Koyejo|[Quadratic Metric Elicitation with Application to Fairness](http://arxiv.org/abs/2011.01516v1)|2020-11-03 07:22:15+00:00|03-11-2020
+Nalini Ratha|[Trustworthy AI](http://arxiv.org/abs/2011.02272v1)|2020-11-02 20:04:18+00:00|02-11-2020
+Yansong Feng|[Exploring Question-Specific Rewards for Generating Deep Questions](http://arxiv.org/abs/2011.01102v1)|2020-11-02 16:37:30+00:00|02-11-2020
+Mark Crowley|[Sampling Algorithms, from Survey Sampling to Monte Carlo Methods:   Tutorial and Literature Review](http://arxiv.org/abs/2011.00901v1)|2020-11-02 11:27:23+00:00|02-11-2020
+Christian L. Müller|[c-lasso -- a Python package for constrained sparse and robust regression   and classification](http://arxiv.org/abs/2011.00898v1)|2020-11-02 11:16:27+00:00|02-11-2020
+Alexander Hauptmann|[Event-Related Bias Removal for Real-time Disaster Events](http://arxiv.org/abs/2011.00681v1)|2020-11-02 02:03:07+00:00|02-11-2020
+Karthikeyan Shanmugam|[Active Structure Learning of Causal DAGs via Directed Clique Tree](http://arxiv.org/abs/2011.00641v1)|2020-11-01 23:11:17+00:00|01-11-2020
+Amedeo Napoli|[Making ML models fairer through explanations: the case of LimeOut](http://arxiv.org/abs/2011.00603v1)|2020-11-01 19:07:11+00:00|01-11-2020
+Caleb Levy|[Fair Classification with Group-Dependent Label Noise](http://arxiv.org/abs/2011.00379v1)|2020-10-31 22:35:01+00:00|31-10-2020
+Gerasimos Spanakis|[Evaluating Bias In Dutch Word Embeddings](http://arxiv.org/abs/2011.00244v2)|2020-11-03 22:34:44+00:00|31-10-2020
+Kyoung Mu Lee|[Meta-Learning with Adaptive Hyperparameters](http://arxiv.org/abs/2011.00209v1)|2020-10-31 08:05:34+00:00|31-10-2020
+Jiliang Tang|[Personalized Multimodal Feedback Generation in Education](http://arxiv.org/abs/2011.00192v1)|2020-10-31 05:26:49+00:00|31-10-2020
+Alice Xiang|"[""What We Can't Measure, We Can't Understand"": Challenges to Demographic   Data Procurement in the Pursuit of Fairness](http://arxiv.org/abs/2011.02282v1)"|2020-10-30 21:06:41+00:00|30-10-2020
+Kristina Lerman|[Inherent Trade-offs in the Fair Allocation of Treatments](http://arxiv.org/abs/2010.16409v1)|2020-10-30 17:55:00+00:00|30-10-2020
+Christine Largeron|[All of the Fairness for Edge Prediction with Optimal Transport](http://arxiv.org/abs/2010.16326v1)|2020-10-30 15:33:13+00:00|30-10-2020
+Evgeniy Faerman|[A Critical Assessment of State-of-the-Art in Entity Alignment](http://arxiv.org/abs/2010.16314v1)|2020-10-30 15:09:19+00:00|30-10-2020
+Gerasimos Spanakis|"[""Thy algorithm shalt not bear false witness"": An Evaluation of   Multiclass Debiasing Methods on Word Embeddings](http://arxiv.org/abs/2010.16228v2)"|2020-11-04 09:24:21+00:00|30-10-2020
+Jérôme Idier|[Multiplicative Updates for NMF with $β$-Divergences under Disjoint   Equality Constraints](http://arxiv.org/abs/2010.16223v1)|2020-10-30 12:31:35+00:00|30-10-2020
+Sinho Chewi|[Efficient constrained sampling via the mirror-Langevin algorithm](http://arxiv.org/abs/2010.16212v1)|2020-10-30 11:54:24+00:00|30-10-2020
+
 ## 30-10-2020
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,26 @@
 # bnn
 Click on title for link to paper
+## 06-11-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Tie-yan Liu|[Latent Causal Invariant Model](http://arxiv.org/abs/2011.02203v1)|2020-11-04 10:00:27+00:00|04-11-2020
+Alán Aspuru-Guzik|[Bayesian Variational Optimization for Combinatorial Spaces](http://arxiv.org/abs/2011.02004v1)|2020-11-03 20:56:13+00:00|03-11-2020
+C. Karen Liu|[Policy Transfer via Kinematic Domain Randomization and Adaptation](http://arxiv.org/abs/2011.01891v1)|2020-11-03 18:09:35+00:00|03-11-2020
+Maximilian Ilse|[Problems using deep generative models for probabilistic audio source   separation](http://arxiv.org/abs/2011.01761v1)|2020-11-03 15:01:47+00:00|03-11-2020
+Tommaso Mansi|[Learning a Generative Motion Model from Image Sequences based on a   Latent Motion Matrix](http://arxiv.org/abs/2011.01741v1)|2020-11-03 14:44:09+00:00|03-11-2020
+Oliver J. Robinson|[Recommendations for Bayesian hierarchical model specifications for   case-control studies in mental health](http://arxiv.org/abs/2011.01725v1)|2020-11-03 14:19:59+00:00|03-11-2020
+Oliver J. Gurney-Champion|[Improved unsupervised physics-informed deep learning for   intravoxel-incoherent motion modeling and evaluation in pancreatic cancer   patients](http://arxiv.org/abs/2011.01689v1)|2020-11-03 13:24:29+00:00|03-11-2020
+Theodoros Damoulas|[Transforming Gaussian Processes With Normalizing Flows](http://arxiv.org/abs/2011.01596v1)|2020-11-03 09:52:37+00:00|03-11-2020
+Mohammed Eunus Ali|[BayesBeat: A Bayesian Deep Learning Approach for Atrial Fibrillation   Detection from Noisy Photoplethysmography Data](http://arxiv.org/abs/2011.00753v1)|2020-11-02 05:20:32+00:00|02-11-2020
+Marco Wiering|[Comparing Machine Learning Algorithms with or without Feature Extraction   for DNA Classification](http://arxiv.org/abs/2011.00485v1)|2020-11-01 12:04:54+00:00|01-11-2020
+Antti Honkela|[Differentially Private Bayesian Inference for Generalized Linear Models](http://arxiv.org/abs/2011.00467v1)|2020-11-01 10:38:22+00:00|01-11-2020
+David Bradley|[Temporally-Continuous Probabilistic Prediction using Polynomial   Trajectory Parameterization](http://arxiv.org/abs/2011.00399v1)|2020-11-01 01:51:44+00:00|01-11-2020
+Henkjan Huisman|[Encoding Clinical Priori in 3D Convolutional Neural Networks for   Prostate Cancer Detection in bpMRI](http://arxiv.org/abs/2011.00263v2)|2020-11-03 02:53:28+00:00|31-10-2020
+Teresa Tung|[Resource-Aware Pareto-Optimal Automated Machine Learning Platform](http://arxiv.org/abs/2011.00073v1)|2020-10-30 19:37:48+00:00|30-10-2020
+Zhengying Liu|[AgEBO-Tabular: Joint Neural Architecture and Hyperparameter Search with   Autotuned Data-Parallel Training for Tabular Data](http://arxiv.org/abs/2010.16358v1)|2020-10-30 16:28:48+00:00|30-10-2020
+Rudolph Triebel|[Bayesian Optimization Meets Laplace Approximation for Robotic   Introspection](http://arxiv.org/abs/2010.16141v1)|2020-10-30 09:28:10+00:00|30-10-2020
+
 ## 30-10-2020
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,21 @@
 # mcmc
 Click on title for link to paper
+## 06-11-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Amir Dib|[Quantized Variational Inference](http://arxiv.org/abs/2011.02271v1)|2020-11-04 13:22:50+00:00|04-11-2020
+Theodoros Damoulas|[Transforming Gaussian Processes With Normalizing Flows](http://arxiv.org/abs/2011.01596v1)|2020-11-03 09:52:37+00:00|03-11-2020
+Graham Neubig|[Reducing Confusion in Active Learning for Part-Of-Speech Tagging](http://arxiv.org/abs/2011.00767v1)|2020-11-02 06:24:58+00:00|02-11-2020
+Anupam Datta|[Abstracting Influence Paths for Explaining (Contextualization of) BERT   Models](http://arxiv.org/abs/2011.00740v1)|2020-11-02 04:28:16+00:00|02-11-2020
+Jakub Marecek|[Screening for an Infectious Disease as a Problem in Stochastic Control](http://arxiv.org/abs/2011.00635v1)|2020-11-01 22:03:26+00:00|01-11-2020
+Tom Rainforth|[On Signal-to-Noise Ratio Issues in Variational Inference for Deep   Gaussian Processes](http://arxiv.org/abs/2011.00515v1)|2020-11-01 14:38:02+00:00|01-11-2020
+Matthew Gombolay|[FireCommander: An Interactive, Probabilistic Multi-agent Environment for   Joint Perception-Action Tasks](http://arxiv.org/abs/2011.00165v1)|2020-10-31 02:06:07+00:00|31-10-2020
+Yasushi Okuno|[Health improvement framework for planning actionable treatment process   using surrogate Bayesian model](http://arxiv.org/abs/2010.16087v1)|2020-10-30 06:02:49+00:00|30-10-2020
+Vien Ngo|[Bayes-Adaptive Deep Model-Based Policy Optimisation](http://arxiv.org/abs/2010.15948v1)|2020-10-29 21:17:25+00:00|29-10-2020
+Ken Goldberg|[Recovery RL: Safe Reinforcement Learning with Learned Recovery Zones](http://arxiv.org/abs/2010.15920v1)|2020-10-29 20:10:02+00:00|29-10-2020
+Michael I. Jordan|[Learning Strategies in Decentralized Matching Markets under Uncertain   Preferences](http://arxiv.org/abs/2011.00159v1)|2020-10-29 03:08:22+00:00|29-10-2020
+
 ## 30-10-2020
 
 main_author|title|update_date|publish_date

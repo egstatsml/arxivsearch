@@ -1,5 +1,14 @@
 # interpretable
 Click on title for link to paper
+## 06-11-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Michele Loi|[On the Moral Justification of Statistical Parity](http://arxiv.org/abs/2011.02079v1)|2020-11-04 00:26:15+00:00|04-11-2020
+Narayanan C Krishnan|[MACE: Model Agnostic Concept Extractor for Explaining Image   Classification Networks](http://arxiv.org/abs/2011.01472v1)|2020-11-03 04:40:49+00:00|03-11-2020
+Nalini Ratha|[Trustworthy AI](http://arxiv.org/abs/2011.02272v1)|2020-11-02 20:04:18+00:00|02-11-2020
+Yasushi Okuno|[Health improvement framework for planning actionable treatment process   using surrogate Bayesian model](http://arxiv.org/abs/2010.16087v1)|2020-10-30 06:02:49+00:00|30-10-2020
+
 ## 30-10-2020
 
 main_author|title|update_date|publish_date
