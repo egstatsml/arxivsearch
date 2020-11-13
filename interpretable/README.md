@@ -1,5 +1,16 @@
 # interpretable
 Click on title for link to paper
+## 13-11-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Federico M. Sukno|[Survey on 3D face reconstruction from uncalibrated images](http://arxiv.org/abs/2011.05740v1)|2020-11-11 12:48:11+00:00|11-11-2020
+Dino Pedreschi|[FairLens: Auditing Black-box Clinical Decision Support Systems](http://arxiv.org/abs/2011.04049v1)|2020-11-08 18:40:50+00:00|08-11-2020
+Francesca Toni|[Explainable Automated Fact-Checking: A Survey](http://arxiv.org/abs/2011.03870v1)|2020-11-07 23:56:02+00:00|07-11-2020
+Su-In Lee|[Feature Removal Is a Unifying Principle for Model Explanation Methods](http://arxiv.org/abs/2011.03623v1)|2020-11-06 22:37:55+00:00|06-11-2020
+Pankesh Patel|[Explainable AI meets Healthcare: A Study on Heart Disease Dataset](http://arxiv.org/abs/2011.03195v1)|2020-11-06 05:18:43+00:00|06-11-2020
+Dinh Phung|[Explain by Evidence: An Explainable Memory-based Neural Network for   Question Answering](http://arxiv.org/abs/2011.03096v1)|2020-11-05 21:18:21+00:00|05-11-2020
+
 ## 06-11-2020
 
 main_author|title|update_date|publish_date

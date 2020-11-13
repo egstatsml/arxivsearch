@@ -1,5 +1,42 @@
 # fairness
 Click on title for link to paper
+## 13-11-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Beatrice Alex|[Situated Data, Situated Systems: A Methodology to Engage with Power   Relations in Natural Language Processing Research](http://arxiv.org/abs/2011.05911v1)|2020-11-11 17:04:55+00:00|11-11-2020
+Jaeyoung Park|[Learning a high-dimensional classification rule using auxiliary outcomes](http://arxiv.org/abs/2011.05493v1)|2020-11-11 01:14:33+00:00|11-11-2020
+Pontus Stenetorp|[Don't Read Too Much into It: Adaptive Computation for Open-Domain   Question Answering](http://arxiv.org/abs/2011.05435v1)|2020-11-10 22:37:56+00:00|10-11-2020
+Guillaume Coqueret|[Dirichlet policies for reinforced factor portfolios](http://arxiv.org/abs/2011.05381v2)|2020-11-12 08:25:15+00:00|10-11-2020
+Eric Granger|[Temporal Stochastic Softmax for 3D CNNs: An Application in Facial   Expression Recognition](http://arxiv.org/abs/2011.05227v1)|2020-11-10 16:40:00+00:00|10-11-2020
+Yves Le Traon|[Efficient and Transferable Adversarial Examples from Bayesian Neural   Networks](http://arxiv.org/abs/2011.05074v1)|2020-11-10 12:46:52+00:00|10-11-2020
+Aaditya Ramdas|[Dimension-agnostic inference](http://arxiv.org/abs/2011.05068v1)|2020-11-10 12:21:34+00:00|10-11-2020
+Neo Christopher Chung|[Removing Brightness Bias in Rectified Gradients](http://arxiv.org/abs/2011.05002v1)|2020-11-10 09:45:13+00:00|10-11-2020
+Steve Dias Da Cruz|[Expressiveness of Neural Networks Having Width Equal or Below the Input   Dimension](http://arxiv.org/abs/2011.04923v1)|2020-11-10 06:06:02+00:00|10-11-2020
+Laurenz Wiskott|[Singular Sturm-Liouville Problems with Zero Potential (q=0) and Singular   Slow Feature Analysis](http://arxiv.org/abs/2011.04765v1)|2020-11-09 21:09:38+00:00|09-11-2020
+Michael I. Jordan|[Bridging Exploration and General Function Approximation in Reinforcement   Learning: Provably Efficient Kernel and Neural Value Iterations](http://arxiv.org/abs/2011.04622v1)|2020-11-09 18:32:22+00:00|09-11-2020
+Rudolph Triebel|[Learning to Localize in New Environments from Synthetic Training Data](http://arxiv.org/abs/2011.04539v1)|2020-11-09 16:19:35+00:00|09-11-2020
+L. Elisa Celis|[Mitigating Bias in Set Selection with Noisy Protected Attributes](http://arxiv.org/abs/2011.04219v1)|2020-11-09 06:45:15+00:00|09-11-2020
+Hongyuan Zha|[Reliable Off-policy Evaluation for Reinforcement Learning](http://arxiv.org/abs/2011.04102v1)|2020-11-08 23:16:19+00:00|08-11-2020
+Dino Pedreschi|[FairLens: Auditing Black-box Clinical Decision Support Systems](http://arxiv.org/abs/2011.04049v1)|2020-11-08 18:40:50+00:00|08-11-2020
+Xiaodan Zhu|[Exploring End-to-End Differentiable Natural Logic Modeling](http://arxiv.org/abs/2011.04044v1)|2020-11-08 18:18:15+00:00|08-11-2020
+Mengdi Wang|[Sparse Feature Selection Makes Batch Reinforcement Learning More Sample   Efficient](http://arxiv.org/abs/2011.04019v1)|2020-11-08 16:48:02+00:00|08-11-2020
+Alessandro Oltramari|[Knowledge-driven Self-supervision for Zero-shot Commonsense Question   Answering](http://arxiv.org/abs/2011.03863v1)|2020-11-07 22:52:21+00:00|07-11-2020
+Luke Zettlemoyer|[Learning to Model and Ignore Dataset Bias with Mixed Capacity Ensembles](http://arxiv.org/abs/2011.03856v1)|2020-11-07 22:20:03+00:00|07-11-2020
+Reza Shokri|[On the Privacy Risks of Algorithmic Fairness](http://arxiv.org/abs/2011.03731v1)|2020-11-07 09:15:31+00:00|07-11-2020
+Yang Liu|[When Optimizing $f$-divergence is Robust with Label Noise](http://arxiv.org/abs/2011.03687v1)|2020-11-07 04:31:33+00:00|07-11-2020
+Zachary C. Lipton|[Fair Machine Learning Under Partial Compliance](http://arxiv.org/abs/2011.03654v2)|2020-11-10 06:55:54+00:00|07-11-2020
+Charlie Dickens|[Ridge Regression with Frequent Directions: Statistical and Optimization   Perspectives](http://arxiv.org/abs/2011.03607v1)|2020-11-06 21:40:38+00:00|06-11-2020
+Pankesh Patel|[Explainable AI meets Healthcare: A Study on Heart Disease Dataset](http://arxiv.org/abs/2011.03195v1)|2020-11-06 05:18:43+00:00|06-11-2020
+Murat A. Erdogdu|[On the Ergodicity, Bias and Asymptotic Normality of Randomized Midpoint   Sampling Method](http://arxiv.org/abs/2011.03176v1)|2020-11-06 03:39:23+00:00|06-11-2020
+Yuekai Sun|[There is no trade-off: enforcing fairness can improve accuracy](http://arxiv.org/abs/2011.03173v1)|2020-11-06 03:22:52+00:00|06-11-2020
+Arjun Ravi Kannan|[Wasserstein-based fairness interpretability framework for machine   learning models](http://arxiv.org/abs/2011.03156v1)|2020-11-06 02:01:29+00:00|06-11-2020
+Pauline Ong|[Parametric Flatten-T Swish: An Adaptive Non-linear Activation Function   For Deep Learning](http://arxiv.org/abs/2011.03155v1)|2020-11-06 01:50:46+00:00|06-11-2020
+Aaron Roth|[Convergent Algorithms for (Relaxed) Minimax Fairness](http://arxiv.org/abs/2011.03108v1)|2020-11-05 21:42:56+00:00|05-11-2020
+Katharina Morik|[Generalized Negative Correlation Learning for Deep Ensembling](http://arxiv.org/abs/2011.02952v1)|2020-11-05 16:29:22+00:00|05-11-2020
+Ajmal Mian|[Defense-friendly Images in Adversarial Attacks: Dataset and Metrics for   Perturbation Difficulty](http://arxiv.org/abs/2011.02675v2)|2020-11-07 02:57:50+00:00|05-11-2020
+Changjie Fan|[Learning to Utilize Shaping Rewards: A New Approach of Reward Shaping](http://arxiv.org/abs/2011.02669v1)|2020-11-05 05:34:14+00:00|05-11-2020
+
 ## 06-11-2020
 
 main_author|title|update_date|publish_date

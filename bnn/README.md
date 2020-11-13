@@ -1,5 +1,22 @@
 # bnn
 Click on title for link to paper
+## 13-11-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Gilles Louppe|[Neural Empirical Bayes: Source Distribution Estimation and its   Applications to Simulation-Based Inference](http://arxiv.org/abs/2011.05836v1)|2020-11-11 14:59:34+00:00|11-11-2020
+Changhe Tu|[Scribble-Supervised Semantic Segmentation by Random Walk on Neural   Representation and Self-Supervision on Neural Eigenspace](http://arxiv.org/abs/2011.05621v2)|2020-11-12 05:53:26+00:00|11-11-2020
+Xuefeng Zhu|[A Quantum-Inspired Probabilistic Model for the Inverse Design of   Meta-Structures](http://arxiv.org/abs/2011.05511v1)|2020-11-11 02:09:10+00:00|11-11-2020
+John P. Cunningham|[Uses and Abuses of the Cross-Entropy Loss: Case Studies in Modern Deep   Learning](http://arxiv.org/abs/2011.05231v1)|2020-11-10 16:44:35+00:00|10-11-2020
+Jan Peters|[A Variational Infinite Mixture for Probabilistic Inverse Dynamics   Learning](http://arxiv.org/abs/2011.05217v1)|2020-11-10 16:15:13+00:00|10-11-2020
+Yves Le Traon|[Efficient and Transferable Adversarial Examples from Bayesian Neural   Networks](http://arxiv.org/abs/2011.05074v1)|2020-11-10 12:46:52+00:00|10-11-2020
+John Paisley|[Deep Bayesian Nonparametric Factor Analysis](http://arxiv.org/abs/2011.04770v1)|2020-11-09 21:14:22+00:00|09-11-2020
+Dmitry Berenson|[Uncertainty-Aware Constraint Learning for Adaptive Safe Motion Planning   from Demonstrations](http://arxiv.org/abs/2011.04141v1)|2020-11-09 01:59:14+00:00|09-11-2020
+Jason J. Corso|[Integrating Human Gaze into Attention for Egocentric Activity   Recognition](http://arxiv.org/abs/2011.03920v1)|2020-11-08 08:02:30+00:00|08-11-2020
+Roger Grosse|[Beyond Marginal Uncertainty: How Accurately can Bayesian Regression   Models Estimate Posterior Predictive Correlations?](http://arxiv.org/abs/2011.03178v1)|2020-11-06 03:48:59+00:00|06-11-2020
+Simon Osindero|[Contrastive Topographic Models: Energy-based density models applied to   the understanding of sensory coding and cortical topography](http://arxiv.org/abs/2011.03535v1)|2020-11-05 16:36:43+00:00|05-11-2020
+Sergey Levine|[Amortized Conditional Normalized Maximum Likelihood](http://arxiv.org/abs/2011.02696v1)|2020-11-05 08:04:34+00:00|05-11-2020
+
 ## 06-11-2020
 
 main_author|title|update_date|publish_date
