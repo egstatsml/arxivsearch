@@ -148,7 +148,7 @@ Peter Fettke|[Explainable Artificial Intelligence for Process Mining: A General 
 
 title|publish_date|main_author
 ---|---|---
-No papers found this week|04-09-2020|  
+No papers found this week|04-09-2020|
 
 ## 28-08-2020
 
@@ -520,13 +520,13 @@ Travis LaCroix|[Biology and Compositionality: Empirical Considerations for   Eme
 
 title|publish_date|main_author
 ---|---|---
-No papers found this week|22-11-2019|  
+No papers found this week|22-11-2019|
 
 ## 21-11-2019
 
 title|publish_date|main_author
 ---|---|---
-No papers found this week|21-11-2019|  
+No papers found this week|21-11-2019|
 
 ## 21-11-2019
 
@@ -570,5 +570,3 @@ Taiji Suzuki|[Compression based bound for non-compressed network: unified   gene
 Mohan Sridharan|[Non-monotonic Logical Reasoning Guiding Deep Learning for Explainable   Visual Question Answering](http://arxiv.org/abs/1909.10650v1)|2019-09-23 23:34:32+00:00|23-09-2019
 Miguel Navascues|[Quantum Inflation: A General Approach to Quantum Causal Compatibility](http://arxiv.org/abs/1909.10519v1)|2019-09-23 18:00:00+00:00|23-09-2019
 Liang Lin|[Explainable High-order Visual Question Reasoning: A New Benchmark and   Knowledge-routed Network](http://arxiv.org/abs/1909.10128v1)|2019-09-23 02:38:56+00:00|23-09-2019
-
-   

@@ -2167,7 +2167,7 @@ Christian P. Robert|[Parallelising MCMC via Random Forests](http://arxiv.org/abs
 
 title|publish_date|main_author
 ---|---|---
-No papers found this week|22-11-2019|  
+No papers found this week|22-11-2019|
 
 ## 21-11-2019
 
@@ -2447,5 +2447,3 @@ Andreas Vlachos|[Neural Generative Rhetorical Structure Parsing](http://arxiv.or
 Tuanfeng Zhang|[Generating Geological Facies Models with Fidelity to Diversity and   Statistics of Training Images using Improved Generative Adversarial Networks](http://arxiv.org/abs/1909.10652v1)|2019-09-23 23:40:59+00:00|23-09-2019
 Jakob Foerster|[Loaded DiCE: Trading off Bias and Variance in Any-Order Score Function   Estimators for Reinforcement Learning](http://arxiv.org/abs/1909.10549v1)|2019-09-23 18:13:50+00:00|23-09-2019
 Jiayun Wang|[Learning Coupled Spatial-temporal Attention for Skeleton-based Action   Recognition](http://arxiv.org/abs/1909.10214v1)|2019-09-23 08:30:11+00:00|23-09-2019
-
-   

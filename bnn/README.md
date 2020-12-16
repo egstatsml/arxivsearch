@@ -1505,7 +1505,7 @@ Tong Zhang|[Multi-objective Neural Architecture Search via Predictive Network   
 
 title|publish_date|main_author
 ---|---|---
-No papers found this week|22-11-2019|  
+No papers found this week|22-11-2019|
 
 ## 21-11-2019
 
@@ -1719,5 +1719,3 @@ Frank Wood|[Safer End-to-End Autonomous Driving via Conditional Imitation Learni
 Mingchen Gao|[Neural Style Transfer Improves 3D Cardiovascular MR Image Segmentation   on Inconsistent Data](http://arxiv.org/abs/1909.09716v1)|2019-09-20 20:58:45+00:00|20-09-2019
 Michael A Osborne|[Bayesian Optimization for Iterative Learning](http://arxiv.org/abs/1909.09593v2)|2019-10-07 13:48:56+00:00|20-09-2019
 Stefano Ermon|[Meta-Inverse Reinforcement Learning with Probabilistic Context Variables](http://arxiv.org/abs/1909.09314v2)|2019-10-26 21:15:42+00:00|20-09-2019
-
-   

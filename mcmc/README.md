@@ -814,5 +814,3 @@ Xiao-Ming Wu|[Clustering Uncertain Data via Representative Possible Worlds with 
 Bálint Gyires-Tóth|[Stochastic Weight Matrix-based Regularization Methods for Deep Neural   Networks](http://arxiv.org/abs/1909.11977v1)|2019-09-26 08:38:55+00:00|26-09-2019
 Michael C. Mozer|[Stochastic Prototype Embeddings](http://arxiv.org/abs/1909.11702v1)|2019-09-25 18:38:36+00:00|25-09-2019
 Liyi Dai|[Community Detection and Improved Detectability in Multiplex Networks](http://arxiv.org/abs/1909.10477v1)|2019-09-23 16:57:17+00:00|23-09-2019
-
-   
