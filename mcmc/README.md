@@ -1,5 +1,61 @@
 # mcmc
 Click on title for link to paper
+## 16-12-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Omesh Tickoo|[Improving model calibration with accuracy versus uncertainty   optimization](http://arxiv.org/abs/2012.07923v1)|2020-12-14 20:19:21+00:00|14-12-2020
+Jon Sporring|[Morphology on categorical distributions](http://arxiv.org/abs/2012.07315v1)|2020-12-14 07:54:00+00:00|14-12-2020
+Chris Rackauckas|[Bayesian Neural Ordinary Differential Equations](http://arxiv.org/abs/2012.07244v1)|2020-12-14 04:05:26+00:00|14-12-2020
+Alan Yuille|[Mask Guided Matting via Progressive Refinement Network](http://arxiv.org/abs/2012.06722v1)|2020-12-12 04:26:14+00:00|12-12-2020
+Shun Miao|[A New Window Loss Function for Bone Fracture Detection and Localization   in X-ray Images with Point-based Annotation](http://arxiv.org/abs/2012.04066v1)|2020-12-07 21:19:04+00:00|07-12-2020
+Milind Tambe|[Efficient Reservoir Management through Deep Reinforcement Learning](http://arxiv.org/abs/2012.03822v1)|2020-12-07 16:13:05+00:00|07-12-2020
+Yongjia Song|[Adaptive Sequential SAA for Solving Two-stage Stochastic Linear Programs](http://arxiv.org/abs/2012.03761v1)|2020-12-07 14:58:16+00:00|07-12-2020
+Fei Gao|[Photoacoustic Image Reconstruction Beyond Supervised to Compensate   Limit-view and Remove Artifacts](http://arxiv.org/abs/2012.02472v1)|2020-12-04 08:53:46+00:00|04-12-2020
+Bin Wang|[Few-Shot Event Detection with Prototypical Amortized Conditional Random   Field](http://arxiv.org/abs/2012.02353v1)|2020-12-04 01:11:13+00:00|04-12-2020
+Jimmy Olsson|[A similarity-based Bayesian mixture-of-experts model](http://arxiv.org/abs/2012.02130v1)|2020-12-03 18:08:30+00:00|03-12-2020
+Jinqiao Shi|[Label Enhanced Event Detection with Heterogeneous Graph Attention   Networks](http://arxiv.org/abs/2012.01878v1)|2020-12-03 12:49:22+00:00|03-12-2020
+Svetha Venkatesh|[Semi-Supervised Learning with Variational Bayesian Inference and Maximum   Uncertainty Regularization](http://arxiv.org/abs/2012.01793v1)|2020-12-03 09:49:35+00:00|03-12-2020
+James R. Luedtke|[Residuals-based distributionally robust optimization with covariate   information](http://arxiv.org/abs/2012.01088v1)|2020-12-02 11:21:34+00:00|02-12-2020
+Carola-Bibiane Schönlieb|[A Three-Stage Self-Training Framework for Semi-Supervised Semantic   Segmentation](http://arxiv.org/abs/2012.00827v1)|2020-12-01 21:00:27+00:00|01-12-2020
+Osbert Bastani|[Diverse Sampling for Normalizing Flow Based Trajectory Forecasting](http://arxiv.org/abs/2011.15084v1)|2020-11-30 18:23:29+00:00|30-11-2020
+He Zhang|[Uncertainty Quantification in Deep Learning through Stochastic Maximum   Principle](http://arxiv.org/abs/2011.14145v1)|2020-11-28 15:19:36+00:00|28-11-2020
+Christopher Lee-Messer|[Inaccurate Supervision of Neural Networks with Incorrect Labels:   Application to Epilepsy](http://arxiv.org/abs/2011.14101v2)|2020-12-01 09:00:37+00:00|28-11-2020
+Celia Lozano|[Machine Learning to study the impact of gender-based violence in the   news media](http://arxiv.org/abs/2012.07490v1)|2020-11-27 08:42:33+00:00|27-11-2020
+Chunguang Li|[Distributed Variational Bayesian Algorithms Over Sensor Networks](http://arxiv.org/abs/2011.13600v1)|2020-11-27 08:12:18+00:00|27-11-2020
+Qiang Yang|[Rethinking Uncertainty in Deep Learning: Whether and How it Improves   Robustness](http://arxiv.org/abs/2011.13538v1)|2020-11-27 03:22:50+00:00|27-11-2020
+Ben Poole|[Score-Based Generative Modeling through Stochastic Differential   Equations](http://arxiv.org/abs/2011.13456v1)|2020-11-26 19:39:10+00:00|26-11-2020
+Djoumbissie David Romain|[Predicting S&P500 Index direction with Transfer Learning and a Causal   Graph as main Input](http://arxiv.org/abs/2011.13113v1)|2020-11-26 03:45:51+00:00|26-11-2020
+Søren Hauberg|[Bayesian Triplet Loss: Uncertainty Quantification in Image Retrieval](http://arxiv.org/abs/2011.12663v1)|2020-11-25 11:47:33+00:00|25-11-2020
+Cristina Puente|[Fuzzy Stochastic Timed Petri Nets for Causal properties representation](http://arxiv.org/abs/2011.12075v1)|2020-11-24 13:22:34+00:00|24-11-2020
+Mathias Niepert|[Uncertainty Estimation and Calibration with Finite-State Probabilistic   RNNs](http://arxiv.org/abs/2011.12010v1)|2020-11-24 10:35:28+00:00|24-11-2020
+Chengzhe Xu|[Solving The Lunar Lander Problem under Uncertainty using Reinforcement   Learning](http://arxiv.org/abs/2011.11850v1)|2020-11-24 02:35:21+00:00|24-11-2020
+Bradley C. Love|[Enriching ImageNet with Human Similarity Judgments and Psychological   Embeddings](http://arxiv.org/abs/2011.11015v1)|2020-11-22 13:41:54+00:00|22-11-2020
+Laurence Aitchison|[Gradient Regularisation as Approximate Variational Inference](http://arxiv.org/abs/2011.10443v1)|2020-11-20 15:16:18+00:00|20-11-2020
+Fengqi You|[Online Learning Based Risk-Averse Stochastic MPC of Constrained Linear   Uncertain Systems](http://arxiv.org/abs/2011.11441v1)|2020-11-20 13:00:28+00:00|20-11-2020
+Jun Guo|[DS-UI: Dual-Supervised Mixture of Gaussian Mixture Models for   Uncertainty Inference](http://arxiv.org/abs/2011.08595v1)|2020-11-17 12:35:02+00:00|17-11-2020
+Tianyu Zhang|[A robust solution of a statistical inverse problem in multiscale   computational mechanics using an artificial neural network](http://arxiv.org/abs/2011.11761v1)|2020-11-16 09:37:27+00:00|16-11-2020
+Koushil Sreenath|[Gaussian Process-based Min-norm Stabilizing Controller for   Control-Affine Systems with Uncertain Input Effects](http://arxiv.org/abs/2011.07183v1)|2020-11-14 01:27:32+00:00|14-11-2020
+Fabio Ramos|[Anticipatory Navigation in Crowds by Probabilistic Prediction of   Pedestrian Future Movements](http://arxiv.org/abs/2011.06235v1)|2020-11-12 07:18:20+00:00|12-11-2020
+Csaba Szepesvári|[Asymptotically Optimal Information-Directed Sampling](http://arxiv.org/abs/2011.05944v1)|2020-11-11 18:01:59+00:00|11-11-2020
+Bowen Baker|[Emergent Reciprocity and Team Formation from Randomized Uncertain Social   Preferences](http://arxiv.org/abs/2011.05373v1)|2020-11-10 20:06:19+00:00|10-11-2020
+Tias Guns|[Discrete solution pools and noise-contrastive estimation for   predict-and-optimize](http://arxiv.org/abs/2011.05354v1)|2020-11-10 19:09:12+00:00|10-11-2020
+John Paisley|[Deep Bayesian Nonparametric Factor Analysis](http://arxiv.org/abs/2011.04770v1)|2020-11-09 21:14:22+00:00|09-11-2020
+Emre Ugur|[Reward Conditioned Neural Movement Primitives for Population Based   Variational Policy Optimization](http://arxiv.org/abs/2011.04282v1)|2020-11-09 09:53:37+00:00|09-11-2020
+Dmitry Berenson|[Uncertainty-Aware Constraint Learning for Adaptive Safe Motion Planning   from Demonstrations](http://arxiv.org/abs/2011.04141v1)|2020-11-09 01:59:14+00:00|09-11-2020
+Richard Murray|[Reactive motion planning with probabilistic safety guarantees](http://arxiv.org/abs/2011.03590v2)|2020-11-26 00:07:12+00:00|06-11-2020
+Marco Pavone|[Task-relevant Representation Learning for Networked Robotic Perception](http://arxiv.org/abs/2011.03216v1)|2020-11-06 07:39:08+00:00|06-11-2020
+Amir Dib|[Quantized Variational Inference](http://arxiv.org/abs/2011.02271v1)|2020-11-04 13:22:50+00:00|04-11-2020
+Theodoros Damoulas|[Transforming Gaussian Processes With Normalizing Flows](http://arxiv.org/abs/2011.01596v1)|2020-11-03 09:52:37+00:00|03-11-2020
+Graham Neubig|[Reducing Confusion in Active Learning for Part-Of-Speech Tagging](http://arxiv.org/abs/2011.00767v2)|2020-11-21 01:20:52+00:00|02-11-2020
+Anupam Datta|[Abstracting Influence Paths for Explaining (Contextualization of) BERT   Models](http://arxiv.org/abs/2011.00740v1)|2020-11-02 04:28:16+00:00|02-11-2020
+Jakub Marecek|[Screening for an Infectious Disease as a Problem in Stochastic Control](http://arxiv.org/abs/2011.00635v1)|2020-11-01 22:03:26+00:00|01-11-2020
+Tom Rainforth|[On Signal-to-Noise Ratio Issues in Variational Inference for Deep   Gaussian Processes](http://arxiv.org/abs/2011.00515v1)|2020-11-01 14:38:02+00:00|01-11-2020
+Matthew Gombolay|[FireCommander: An Interactive, Probabilistic Multi-agent Environment for   Joint Perception-Action Tasks](http://arxiv.org/abs/2011.00165v1)|2020-10-31 02:06:07+00:00|31-10-2020
+Ngo Anh Vien|[Bayes-Adaptive Deep Model-Based Policy Optimisation](http://arxiv.org/abs/2010.15948v2)|2020-11-17 13:39:55+00:00|29-10-2020
+Ken Goldberg|[Recovery RL: Safe Reinforcement Learning with Learned Recovery Zones](http://arxiv.org/abs/2010.15920v1)|2020-10-29 20:10:02+00:00|29-10-2020
+Michael I. Jordan|[Learning Strategies in Decentralized Matching Markets under Uncertain   Preferences](http://arxiv.org/abs/2011.00159v1)|2020-10-29 03:08:22+00:00|29-10-2020
+
 ## 30-10-2020
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,141 @@
 # bnn
 Click on title for link to paper
+## 16-12-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Osvaldo Simeone|[BiSNN: Training Spiking Neural Networks with Binary Weights via Bayesian   Learning](http://arxiv.org/abs/2012.08300v1)|2020-12-15 14:06:36+00:00|15-12-2020
+Wonho Jhe|[Bayesian neural network with pretrained protein embedding enhances   prediction accuracy of drug-protein interaction](http://arxiv.org/abs/2012.08194v1)|2020-12-15 10:24:34+00:00|15-12-2020
+Stephan Mandt|[Variational Beam Search for Online Learning with Distribution Shifts](http://arxiv.org/abs/2012.08101v1)|2020-12-15 05:28:47+00:00|15-12-2020
+David Higdon|[Active Learning for Deep Gaussian Process Surrogates](http://arxiv.org/abs/2012.08015v1)|2020-12-15 00:09:37+00:00|15-12-2020
+Barbara Engelhardt|[Probabilistic Contrastive Principal Component Analysis](http://arxiv.org/abs/2012.07977v1)|2020-12-14 22:21:50+00:00|14-12-2020
+Richard Zemel|[A PAC-Bayesian Approach to Generalization Bounds for Graph Neural   Networks](http://arxiv.org/abs/2012.07690v1)|2020-12-14 16:41:23+00:00|14-12-2020
+Dongxiao Zhu|[Improving Adversarial Robustness via Probabilistically Compact Loss with   Logit Constraints](http://arxiv.org/abs/2012.07688v1)|2020-12-14 16:40:53+00:00|14-12-2020
+Lan Wang|[Bayesian Learning for Deep Neural Network Adaptation](http://arxiv.org/abs/2012.07460v1)|2020-12-14 12:30:41+00:00|14-12-2020
+Jon Sporring|[Morphology on categorical distributions](http://arxiv.org/abs/2012.07315v1)|2020-12-14 07:54:00+00:00|14-12-2020
+Brett Ninness|[Variational State and Parameter Estimation](http://arxiv.org/abs/2012.07269v1)|2020-12-14 05:35:29+00:00|14-12-2020
+Chris Rackauckas|[Bayesian Neural Ordinary Differential Equations](http://arxiv.org/abs/2012.07244v1)|2020-12-14 04:05:26+00:00|14-12-2020
+Ghassan Hamarneh|[D-LEMA: Deep Learning Ensembles from Multiple Annotations -- Application   to Skin Lesion Segmentation](http://arxiv.org/abs/2012.07206v1)|2020-12-14 01:51:22+00:00|14-12-2020
+Michael Buro|[Bayes DistNet -- A Robust Neural Network for Algorithm Runtime   Distribution Predictions](http://arxiv.org/abs/2012.07197v1)|2020-12-14 01:15:39+00:00|14-12-2020
+György Turán|[Explanation from Specification](http://arxiv.org/abs/2012.07179v1)|2020-12-13 23:27:48+00:00|13-12-2020
+Juergen Pilz|[Uncertainty Estimation in Deep Neural Networks for Point Cloud   Segmentation in Factory Planning](http://arxiv.org/abs/2012.07038v1)|2020-12-13 11:18:52+00:00|13-12-2020
+Metin Sezgin|[AffectON: Incorporating Affect Into Dialog Generation](http://arxiv.org/abs/2012.06847v1)|2020-12-12 16:02:08+00:00|12-12-2020
+Brian Jalaian|[Better call Surrogates: A hybrid Evolutionary Algorithm for   Hyperparameter optimization](http://arxiv.org/abs/2012.06453v1)|2020-12-11 16:19:59+00:00|11-12-2020
+Frank Hutter|[Differential Evolution for Neural Architecture Search](http://arxiv.org/abs/2012.06400v1)|2020-12-11 14:58:43+00:00|11-12-2020
+Aaron Courville|[Convex Potential Flows: Universal Probability Distributions with Optimal   Transport and Convex Optimization](http://arxiv.org/abs/2012.05942v1)|2020-12-10 19:36:34+00:00|10-12-2020
+Erik Krupicka|[Generative Deep Learning Techniques for Password Generation](http://arxiv.org/abs/2012.05685v1)|2020-12-10 14:11:45+00:00|10-12-2020
+Shi-Min Hu|[DI-Fusion: Online Implicit 3D Reconstruction with Deep Priors](http://arxiv.org/abs/2012.05551v1)|2020-12-10 09:46:35+00:00|10-12-2020
+Pascal Fua|[Long Term Motion Prediction Using Keyposes](http://arxiv.org/abs/2012.04731v1)|2020-12-08 20:45:51+00:00|08-12-2020
+Polina Golland|[Bayesian Image Reconstruction using Deep Generative Models](http://arxiv.org/abs/2012.04567v1)|2020-12-08 17:11:26+00:00|08-12-2020
+Omesh Tickoo|[Out-Of-Distribution Detection With Subspace Techniques And Probabilistic   Modeling Of Features](http://arxiv.org/abs/2012.04250v1)|2020-12-08 07:07:11+00:00|08-12-2020
+Greg Mori|[Neural fidelity warping for efficient robot morphology design](http://arxiv.org/abs/2012.04195v2)|2020-12-09 18:44:49+00:00|08-12-2020
+Ard A. Louis|[Generalization bounds for deep learning](http://arxiv.org/abs/2012.04115v2)|2020-12-09 15:00:23+00:00|07-12-2020
+Răzvan V. Florian|[SuperCoder: Program Learning Under Noisy Conditions From Superposition   of States](http://arxiv.org/abs/2012.03925v1)|2020-12-07 18:54:08+00:00|07-12-2020
+Yongjia Song|[Adaptive Sequential SAA for Solving Two-stage Stochastic Linear Programs](http://arxiv.org/abs/2012.03761v1)|2020-12-07 14:58:16+00:00|07-12-2020
+Yunhong Wang|[PSCNet: Pyramidal Scale and Global Context Guided Network for Crowd   Counting](http://arxiv.org/abs/2012.03597v1)|2020-12-07 11:35:56+00:00|07-12-2020
+Insik Shin|[Learning to Separate Clusters of Adversarial Representations for Robust   Adversarial Detection](http://arxiv.org/abs/2012.03483v1)|2020-12-07 07:21:18+00:00|07-12-2020
+Edmondo Trentin|[Multivariate Density Estimation with Deep Neural Mixture Models](http://arxiv.org/abs/2012.03391v1)|2020-12-06 23:03:48+00:00|06-12-2020
+Samuel Cheng|[Probabilistic Federated Learning of Neural Networks Incorporated with   Global Posterior Information](http://arxiv.org/abs/2012.03178v1)|2020-12-06 03:54:58+00:00|06-12-2020
+J. Zico Kolter|[Deep Archimedean Copulas](http://arxiv.org/abs/2012.03137v1)|2020-12-05 22:58:37+00:00|05-12-2020
+Fankun Bu|[Multi-Source Data-Driven Outage Location in Distribution Systems Using   Probabilistic Graph Learning](http://arxiv.org/abs/2012.02877v1)|2020-12-04 22:34:20+00:00|04-12-2020
+Isabelle Bloch|[Encoding the latent posterior of Bayesian Neural Networks for   uncertainty quantification](http://arxiv.org/abs/2012.02818v1)|2020-12-04 19:50:09+00:00|04-12-2020
+Gautham Krishna Gudur|[Bayesian Active Learning for Wearable Stress and Affect Detection](http://arxiv.org/abs/2012.02702v1)|2020-12-04 16:19:37+00:00|04-12-2020
+J. Zico Kolter|[Efficient semidefinite-programming-based inference for binary and   multi-class MRFs](http://arxiv.org/abs/2012.02661v1)|2020-12-04 15:36:29+00:00|04-12-2020
+Allan Haldane|[Generative Capacity of Probabilistic Protein Sequence Models](http://arxiv.org/abs/2012.02296v1)|2020-12-03 21:59:24+00:00|03-12-2020
+Jimmy Olsson|[A similarity-based Bayesian mixture-of-experts model](http://arxiv.org/abs/2012.02130v1)|2020-12-03 18:08:30+00:00|03-12-2020
+Svetha Venkatesh|[Semi-Supervised Learning with Variational Bayesian Inference and Maximum   Uncertainty Regularization](http://arxiv.org/abs/2012.01793v1)|2020-12-03 09:49:35+00:00|03-12-2020
+Kannan Achan|[On Variational Inference for User Modeling in Attribute-Driven   Collaborative Filtering](http://arxiv.org/abs/2012.01577v1)|2020-12-02 22:39:58+00:00|02-12-2020
+Victor Sanchez|[Video Anomaly Detection by Estimating Likelihood of Representations](http://arxiv.org/abs/2012.01468v1)|2020-12-02 19:16:22+00:00|02-12-2020
+Xue Lin|[6.7ms on Mobile with over 78% ImageNet Accuracy: Unified Network Pruning   and Architecture Search for Beyond Real-Time Mobile Acceleration](http://arxiv.org/abs/2012.00596v1)|2020-12-01 16:03:40+00:00|01-12-2020
+Amanda Prorok|[Gaussian Process Based Message Filtering for Robust Multi-Agent   Cooperation in the Presence of Adversarial Communication](http://arxiv.org/abs/2012.00508v1)|2020-12-01 14:21:58+00:00|01-12-2020
+Cheng Zhang|[Improved Variational Bayesian Phylogenetic Inference with Normalizing   Flows](http://arxiv.org/abs/2012.00459v1)|2020-12-01 13:10:00+00:00|01-12-2020
+Haitao Liu|[Statistical patterns of word frequency suggesting the probabilistic   nature of human languages](http://arxiv.org/abs/2012.00187v1)|2020-12-01 00:48:27+00:00|01-12-2020
+Aaron Roodman|[Large-Scale Gravitational Lens Modeling with Bayesian Neural Networks   for Accurate and Precise Inference of the Hubble Constant](http://arxiv.org/abs/2012.00042v1)|2020-11-30 19:00:20+00:00|30-11-2020
+Omar Ghattas|[Derivative-Informed Projected Neural Networks for High-Dimensional   Parametric Maps Governed by PDEs](http://arxiv.org/abs/2011.15110v1)|2020-11-30 18:46:40+00:00|30-11-2020
+Gilles Louppe|[Towards constraining warm dark matter with stellar streams through   neural simulation-based inference](http://arxiv.org/abs/2011.14923v1)|2020-11-30 15:53:43+00:00|30-11-2020
+Bhaskar Chaudhury|[Extracting Electron Scattering Cross Sections from Swarm Data using Deep   Neural Networks](http://arxiv.org/abs/2011.14711v1)|2020-11-30 11:48:15+00:00|30-11-2020
+Luigi Malago|[Accelerating MCMC algorithms through Bayesian Deep Networks](http://arxiv.org/abs/2011.14276v1)|2020-11-29 04:29:00+00:00|29-11-2020
+He Zhang|[Uncertainty Quantification in Deep Learning through Stochastic Maximum   Principle](http://arxiv.org/abs/2011.14145v1)|2020-11-28 15:19:36+00:00|28-11-2020
+Helen Rostill|[Machine learning for risk analysis of Urinary Tract Infection in people   with dementia](http://arxiv.org/abs/2011.13916v1)|2020-11-27 18:58:05+00:00|27-11-2020
+Juan M. Gorriz|[Uncertainty-driven ensembles of deep architectures for multiclass   classification. Application to COVID-19 diagnosis in chest X-ray images](http://arxiv.org/abs/2011.14894v1)|2020-11-27 14:06:25+00:00|27-11-2020
+Chunguang Li|[Distributed Variational Bayesian Algorithms Over Sensor Networks](http://arxiv.org/abs/2011.13600v1)|2020-11-27 08:12:18+00:00|27-11-2020
+Ben Poole|[Score-Based Generative Modeling through Stochastic Differential   Equations](http://arxiv.org/abs/2011.13456v1)|2020-11-26 19:39:10+00:00|26-11-2020
+John Jantos|[Braid: Weaving Symbolic and Neural Knowledge into Coherent Logical   Explanations](http://arxiv.org/abs/2011.13354v3)|2020-12-11 17:40:52+00:00|26-11-2020
+Xue Li|[Learning Causal Bayesian Networks from Text](http://arxiv.org/abs/2011.13115v1)|2020-11-26 03:57:56+00:00|26-11-2020
+Christos Faloutsos|[Autonomous Graph Mining Algorithm Search with Best Speed/Accuracy   Trade-off](http://arxiv.org/abs/2011.14925v1)|2020-11-26 02:37:39+00:00|26-11-2020
+Brooks Paige|[Bayesian Graph Neural Networks for Molecular Property Prediction](http://arxiv.org/abs/2012.02089v1)|2020-11-25 22:32:54+00:00|25-11-2020
+Maurizio Filippone|[All You Need is a Good Functional Prior for Bayesian Deep Learning](http://arxiv.org/abs/2011.12829v1)|2020-11-25 15:36:16+00:00|25-11-2020
+Søren Hauberg|[Bayesian Triplet Loss: Uncertainty Quantification in Image Retrieval](http://arxiv.org/abs/2011.12663v1)|2020-11-25 11:47:33+00:00|25-11-2020
+Osvaldo Simeone|[Free Energy Minimization: A Unified Framework for Modelling, Inference,   Learning,and Optimization](http://arxiv.org/abs/2011.14963v1)|2020-11-25 11:29:03+00:00|25-11-2020
+Richard E. Turner|[Generalized Variational Continual Learning](http://arxiv.org/abs/2011.12328v1)|2020-11-24 19:07:39+00:00|24-11-2020
+Mathias Niepert|[Uncertainty Estimation and Calibration with Finite-State Probabilistic   RNNs](http://arxiv.org/abs/2011.12010v1)|2020-11-24 10:35:28+00:00|24-11-2020
+Yulai Zhang|[Hyper-parameter estimation method with particle swarm optimization](http://arxiv.org/abs/2011.11944v2)|2020-12-14 04:16:34+00:00|24-11-2020
+Zeng Zeng|[Automatic Clustering for Unsupervised Risk Diagnosis of Vehicle Driving   for Smart Road](http://arxiv.org/abs/2011.11933v1)|2020-11-24 07:15:03+00:00|24-11-2020
+Eduardo Nebot|[Attentional-GCNN: Adaptive Pedestrian Trajectory Prediction towards   Generic Autonomous Vehicle Use Cases](http://arxiv.org/abs/2011.11190v1)|2020-11-23 03:13:26+00:00|23-11-2020
+Eli Sennesh|[Learning a Deep Generative Model like a Program: the Free Category Prior](http://arxiv.org/abs/2011.11063v1)|2020-11-22 17:16:17+00:00|22-11-2020
+Eduardo Bezerra|[A Population-based Hybrid Approach to Hyperparameter Optimization for   Neural Networks](http://arxiv.org/abs/2011.11062v2)|2020-11-27 12:58:40+00:00|22-11-2020
+Bradley C. Love|[Enriching ImageNet with Human Similarity Judgments and Psychological   Embeddings](http://arxiv.org/abs/2011.11015v1)|2020-11-22 13:41:54+00:00|22-11-2020
+Matt Feiszli|[FP-NAS: Fast Probabilistic Neural Architecture Search](http://arxiv.org/abs/2011.10949v2)|2020-11-24 06:48:03+00:00|22-11-2020
+S. B. Ko|[A Secure Deep Probabilistic Dynamic Thermal Line Rating Prediction](http://arxiv.org/abs/2011.12713v1)|2020-11-21 23:20:58+00:00|21-11-2020
+Nishant Sinha|[Learn to Bind and Grow Neural Structures](http://arxiv.org/abs/2011.10568v1)|2020-11-21 09:40:26+00:00|21-11-2020
+John W. Fisher III|[Lightweight Data Fusion with Conjugate Mappings](http://arxiv.org/abs/2011.10607v1)|2020-11-20 19:47:13+00:00|20-11-2020
+Laurence Aitchison|[Gradient Regularisation as Approximate Variational Inference](http://arxiv.org/abs/2011.10443v1)|2020-11-20 15:16:18+00:00|20-11-2020
+Chao Chen|[Error-Bounded Correction of Noisy Labels](http://arxiv.org/abs/2011.10077v1)|2020-11-19 19:23:23+00:00|19-11-2020
+José L. Aznarte|[SOCAIRE: Forecasting and Monitoring Urban Air Quality in Madrid](http://arxiv.org/abs/2011.09741v1)|2020-11-19 09:39:10+00:00|19-11-2020
+Tapabrata Maiti|[Variational Bayes Neural Network: Posterior Consistency, Classification   Accuracy and Computational Challenges](http://arxiv.org/abs/2011.09592v1)|2020-11-19 00:11:27+00:00|19-11-2020
+Mark van der Wilk|[Understanding Variational Inference in Function-Space](http://arxiv.org/abs/2011.09421v1)|2020-11-18 17:42:01+00:00|18-11-2020
+Sameer Alam|[Learning Interpretable Flight's 4D Landing Parameters Using Tunnel   Gaussian Process](http://arxiv.org/abs/2011.09335v1)|2020-11-18 15:18:29+00:00|18-11-2020
+Changshui Zhang|[Explicitly Learning Topology for Differentiable Neural Architecture   Search](http://arxiv.org/abs/2011.09300v1)|2020-11-18 14:15:51+00:00|18-11-2020
+Nisar R. Ahmed|[Explaining Conditions for Reinforcement Learning Behaviors from Real and   Imagined Data](http://arxiv.org/abs/2011.09004v1)|2020-11-17 23:40:47+00:00|17-11-2020
+Romaric Audigier|[PaDiM: a Patch Distribution Modeling Framework for Anomaly Detection and   Localization](http://arxiv.org/abs/2011.08785v1)|2020-11-17 17:29:18+00:00|17-11-2020
+Joshua V Dillon|[VIB is Half Bayes](http://arxiv.org/abs/2011.08711v1)|2020-11-17 15:36:35+00:00|17-11-2020
+Jeremias Knoblauch|[Generalized Posteriors in Approximate Bayesian Computation](http://arxiv.org/abs/2011.08644v1)|2020-11-17 14:08:59+00:00|17-11-2020
+Jun Guo|[DS-UI: Dual-Supervised Mixture of Gaussian Mixture Models for   Uncertainty Inference](http://arxiv.org/abs/2011.08595v1)|2020-11-17 12:35:02+00:00|17-11-2020
+Harold Soh|[Efficient Exploration of Reward Functions in Inverse Reinforcement   Learning via Bayesian Optimization](http://arxiv.org/abs/2011.08541v1)|2020-11-17 10:17:45+00:00|17-11-2020
+Bangti Jin|[Quantifying Sources of Uncertainty in Deep Learning-Based Image   Reconstruction](http://arxiv.org/abs/2011.08413v2)|2020-11-30 03:47:56+00:00|17-11-2020
+Hamzeh Khazaei|[Privacy-preserving Data Analysis through Representation Learning and   Transformation](http://arxiv.org/abs/2011.08315v1)|2020-11-16 22:32:30+00:00|16-11-2020
+Chris Holmes|[Foundations of Bayesian Learning from Synthetic Data](http://arxiv.org/abs/2011.08299v2)|2020-11-24 15:01:22+00:00|16-11-2020
+Olga Scrivner|[A Probabilistic Approach in Historical Linguistics Word Order Change in   Infinitival Clauses: from Latin to Old French](http://arxiv.org/abs/2011.08262v1)|2020-11-16 20:30:31+00:00|16-11-2020
+Philippe Ciuciu|[Denoising Score-Matching for Uncertainty Quantification in Inverse   Problems](http://arxiv.org/abs/2011.08698v1)|2020-11-16 18:33:06+00:00|16-11-2020
+MS Easwaran|[Modular Multi Target Tracking Using LSTM Networks](http://arxiv.org/abs/2011.09839v1)|2020-11-16 15:58:49+00:00|16-11-2020
+Tianyu Zhang|[A robust solution of a statistical inverse problem in multiscale   computational mechanics using an artificial neural network](http://arxiv.org/abs/2011.11761v1)|2020-11-16 09:37:27+00:00|16-11-2020
+Guang Cheng|[Efficient Variational Inference for Sparse Deep Learning with   Theoretical Guarantee](http://arxiv.org/abs/2011.07439v1)|2020-11-15 03:27:54+00:00|15-11-2020
+Paul Sajda|[Bayesian recurrent state space model for rs-fMRI](http://arxiv.org/abs/2011.07365v1)|2020-11-14 18:53:24+00:00|14-11-2020
+Koushil Sreenath|[Gaussian Process-based Min-norm Stabilizing Controller for   Control-Affine Systems with Uncertain Input Effects](http://arxiv.org/abs/2011.07183v1)|2020-11-14 01:27:32+00:00|14-11-2020
+Kim Cuc Pham|[On a Variational Approximation based Empirical Likelihood ABC Method](http://arxiv.org/abs/2011.07721v1)|2020-11-12 21:24:26+00:00|12-11-2020
+Jascha Sohl-Dickstein|[Towards NNGP-guided Neural Architecture Search](http://arxiv.org/abs/2011.06006v1)|2020-11-11 19:00:06+00:00|11-11-2020
+Gilles Louppe|[Neural Empirical Bayes: Source Distribution Estimation and its   Applications to Simulation-Based Inference](http://arxiv.org/abs/2011.05836v1)|2020-11-11 14:59:34+00:00|11-11-2020
+Changhe Tu|[Scribble-Supervised Semantic Segmentation by Random Walk on Neural   Representation and Self-Supervision on Neural Eigenspace](http://arxiv.org/abs/2011.05621v2)|2020-11-12 05:53:26+00:00|11-11-2020
+Xuefeng Zhu|[A Quantum-Inspired Probabilistic Model for the Inverse Design of   Meta-Structures](http://arxiv.org/abs/2011.05511v1)|2020-11-11 02:09:10+00:00|11-11-2020
+John P. Cunningham|[Uses and Abuses of the Cross-Entropy Loss: Case Studies in Modern Deep   Learning](http://arxiv.org/abs/2011.05231v1)|2020-11-10 16:44:35+00:00|10-11-2020
+Jan Peters|[A Variational Infinite Mixture for Probabilistic Inverse Dynamics   Learning](http://arxiv.org/abs/2011.05217v1)|2020-11-10 16:15:13+00:00|10-11-2020
+Yves Le Traon|[Efficient and Transferable Adversarial Examples from Bayesian Neural   Networks](http://arxiv.org/abs/2011.05074v1)|2020-11-10 12:46:52+00:00|10-11-2020
+John Paisley|[Deep Bayesian Nonparametric Factor Analysis](http://arxiv.org/abs/2011.04770v1)|2020-11-09 21:14:22+00:00|09-11-2020
+Dmitry Berenson|[Uncertainty-Aware Constraint Learning for Adaptive Safe Motion Planning   from Demonstrations](http://arxiv.org/abs/2011.04141v1)|2020-11-09 01:59:14+00:00|09-11-2020
+Michael Gutmann|[Extending the statistical software package Engine for Likelihood-Free   Inference](http://arxiv.org/abs/2011.03977v1)|2020-11-08 13:22:37+00:00|08-11-2020
+Jason J. Corso|[Integrating Human Gaze into Attention for Egocentric Activity   Recognition](http://arxiv.org/abs/2011.03920v1)|2020-11-08 08:02:30+00:00|08-11-2020
+Benyu Zhang|[ASFGNN: Automated Separated-Federated Graph Neural Network](http://arxiv.org/abs/2011.03248v1)|2020-11-06 09:21:34+00:00|06-11-2020
+Roger Grosse|[Beyond Marginal Uncertainty: How Accurately can Bayesian Regression   Models Estimate Posterior Predictive Correlations?](http://arxiv.org/abs/2011.03178v1)|2020-11-06 03:48:59+00:00|06-11-2020
+Simon Osindero|[Contrastive Topographic Models: Energy-based density models applied to   the understanding of sensory coding and cortical topography](http://arxiv.org/abs/2011.03535v1)|2020-11-05 16:36:43+00:00|05-11-2020
+Sergey Levine|[Amortized Conditional Normalized Maximum Likelihood](http://arxiv.org/abs/2011.02696v1)|2020-11-05 08:04:34+00:00|05-11-2020
+Giuseppe Durisi|[Transfer Meta-Learning: Information-Theoretic Bounds and Information   Meta-Risk Minimization](http://arxiv.org/abs/2011.02872v2)|2020-11-06 23:44:23+00:00|04-11-2020
+Tie-yan Liu|[Latent Causal Invariant Model](http://arxiv.org/abs/2011.02203v2)|2020-11-25 17:04:41+00:00|04-11-2020
+Alán Aspuru-Guzik|[Bayesian Variational Optimization for Combinatorial Spaces](http://arxiv.org/abs/2011.02004v1)|2020-11-03 20:56:13+00:00|03-11-2020
+C. Karen Liu|[Policy Transfer via Kinematic Domain Randomization and Adaptation](http://arxiv.org/abs/2011.01891v2)|2020-11-23 20:14:52+00:00|03-11-2020
+Maximilian Ilse|[Problems using deep generative models for probabilistic audio source   separation](http://arxiv.org/abs/2011.01761v1)|2020-11-03 15:01:47+00:00|03-11-2020
+Tommaso Mansi|[Learning a Generative Motion Model from Image Sequences based on a   Latent Motion Matrix](http://arxiv.org/abs/2011.01741v1)|2020-11-03 14:44:09+00:00|03-11-2020
+Oliver J. Robinson|[Recommendations for Bayesian hierarchical model specifications for   case-control studies in mental health](http://arxiv.org/abs/2011.01725v1)|2020-11-03 14:19:59+00:00|03-11-2020
+Oliver J. Gurney-Champion|[Improved unsupervised physics-informed deep learning for   intravoxel-incoherent motion modeling and evaluation in pancreatic cancer   patients](http://arxiv.org/abs/2011.01689v1)|2020-11-03 13:24:29+00:00|03-11-2020
+Theodoros Damoulas|[Transforming Gaussian Processes With Normalizing Flows](http://arxiv.org/abs/2011.01596v1)|2020-11-03 09:52:37+00:00|03-11-2020
+Mohammed Eunus Ali|[BayesBeat: A Bayesian Deep Learning Approach for Atrial Fibrillation   Detection from Noisy Photoplethysmography Data](http://arxiv.org/abs/2011.00753v1)|2020-11-02 05:20:32+00:00|02-11-2020
+Marco Wiering|[Comparing Machine Learning Algorithms with or without Feature Extraction   for DNA Classification](http://arxiv.org/abs/2011.00485v1)|2020-11-01 12:04:54+00:00|01-11-2020
+Antti Honkela|[Differentially Private Bayesian Inference for Generalized Linear Models](http://arxiv.org/abs/2011.00467v2)|2020-11-09 15:05:08+00:00|01-11-2020
+David Bradley|[Temporally-Continuous Probabilistic Prediction using Polynomial   Trajectory Parameterization](http://arxiv.org/abs/2011.00399v1)|2020-11-01 01:51:44+00:00|01-11-2020
+Henkjan Huisman|[Encoding Clinical Priori in 3D Convolutional Neural Networks for   Prostate Cancer Detection in bpMRI](http://arxiv.org/abs/2011.00263v2)|2020-11-03 02:53:28+00:00|31-10-2020
+Teresa Tung|[Resource-Aware Pareto-Optimal Automated Machine Learning Platform](http://arxiv.org/abs/2011.00073v1)|2020-10-30 19:37:48+00:00|30-10-2020
+Zhengying Liu|[AgEBO-Tabular: Joint Neural Architecture and Hyperparameter Search with   Autotuned Data-Parallel Training for Tabular Data](http://arxiv.org/abs/2010.16358v1)|2020-10-30 16:28:48+00:00|30-10-2020
+Rudolph Triebel|[Bayesian Optimization Meets Laplace Approximation for Robotic   Introspection](http://arxiv.org/abs/2010.16141v1)|2020-10-30 09:28:10+00:00|30-10-2020
+
 ## 30-10-2020
 
 main_author|title|update_date|publish_date

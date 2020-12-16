@@ -1,5 +1,52 @@
 # interpretable
 Click on title for link to paper
+## 16-12-2020
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Yejin Choi|[Learning to Rationalize for Nonmonotonic Reasoning with Distant   Supervision](http://arxiv.org/abs/2012.08012v1)|2020-12-14 23:50:20+00:00|14-12-2020
+Ke Shang|[Evolutionary Multi-Objective Optimization Algorithm Framework with Three   Solution Sets](http://arxiv.org/abs/2012.07319v1)|2020-12-14 08:04:07+00:00|14-12-2020
+György Turán|[Explanation from Specification](http://arxiv.org/abs/2012.07179v1)|2020-12-13 23:27:48+00:00|13-12-2020
+Minwoo Lee|[Demysifying Deep Neural Networks Through Interpretation: A Survey](http://arxiv.org/abs/2012.07119v1)|2020-12-13 17:56:41+00:00|13-12-2020
+Loïc Brunel|[Neural network approaches to point lattice decoding](http://arxiv.org/abs/2012.07032v1)|2020-12-13 10:53:34+00:00|13-12-2020
+Luis C. Lamb|[Neurosymbolic AI: The 3rd Wave](http://arxiv.org/abs/2012.05876v1)|2020-12-10 18:31:38+00:00|10-12-2020
+Fatima Jammoul|[Preprocessing noisy functional data using factor models](http://arxiv.org/abs/2012.05824v1)|2020-12-10 16:54:44+00:00|10-12-2020
+Sameep Mehta|[Explainable Link Prediction for Privacy-Preserving Contact Tracing](http://arxiv.org/abs/2012.05516v1)|2020-12-10 08:58:24+00:00|10-12-2020
+Guanghua Liu|[An Event Correlation Filtering Method for Fake News Detection](http://arxiv.org/abs/2012.05491v2)|2020-12-13 07:52:18+00:00|10-12-2020
+Yiran Chen|[Provable Defense against Privacy Leakage in Federated Learning from   Representation Perspective](http://arxiv.org/abs/2012.06043v1)|2020-12-08 20:42:12+00:00|08-12-2020
+Gitta Kutyniok|[Analyzing Finite Neural Networks: Can We Trust Neural Tangent Kernel   Theory?](http://arxiv.org/abs/2012.04477v1)|2020-12-08 15:19:45+00:00|08-12-2020
+Bin Cui|[Efficient and Scalable Structure Learning for Bayesian Networks:   Algorithms and Applications](http://arxiv.org/abs/2012.03540v1)|2020-12-07 09:11:08+00:00|07-12-2020
+Yao Zhao|[Towards Natural Robustness Against Adversarial Examples](http://arxiv.org/abs/2012.02452v1)|2020-12-04 08:12:38+00:00|04-12-2020
+Jessica Schrouff|[Concept-based model explanations for Electronic Health Records](http://arxiv.org/abs/2012.02308v1)|2020-12-03 22:18:24+00:00|03-12-2020
+Christin Seifert|[Neural Prototype Trees for Interpretable Fine-grained Image Recognition](http://arxiv.org/abs/2012.02046v1)|2020-12-03 16:28:04+00:00|03-12-2020
+William Knauth|[The Self-Simplifying Machine: Exploiting the Structure of Piecewise   Linear Neural Networks to Create Interpretable Models](http://arxiv.org/abs/2012.01293v1)|2020-12-02 16:02:14+00:00|02-12-2020
+Pedro Bizarro|[TimeSHAP: Explaining Recurrent Models through Sequence Perturbations](http://arxiv.org/abs/2012.00073v1)|2020-11-30 19:48:57+00:00|30-11-2020
+Pedro Bizarro|[Teaching the Machine to Explain Itself using Domain Knowledge](http://arxiv.org/abs/2012.01932v1)|2020-11-27 18:46:34+00:00|27-11-2020
+Susan Mckeever|[Explaining Deep Learning Models for Structured Data using Layer-Wise   Relevance Propagation](http://arxiv.org/abs/2011.13429v1)|2020-11-26 18:34:21+00:00|26-11-2020
+Huy Kang Kim|[Understand Watchdogs: Discover How Game Bot Get Discovered](http://arxiv.org/abs/2011.13374v1)|2020-11-26 16:34:31+00:00|26-11-2020
+John Jantos|[Braid: Weaving Symbolic and Neural Knowledge into Coherent Logical   Explanations](http://arxiv.org/abs/2011.13354v3)|2020-12-11 17:40:52+00:00|26-11-2020
+Dima Damen|[Play Fair: Frame Attributions in Video Models](http://arxiv.org/abs/2011.12372v1)|2020-11-24 20:45:29+00:00|24-11-2020
+Vasant Honavar|[Explainable Multivariate Time Series Classification: A Deep Neural   Network Which Learns To Attend To Important Variables As Well As Informative   Time Intervals](http://arxiv.org/abs/2011.11631v1)|2020-11-23 19:16:46+00:00|23-11-2020
+Yu-Lun Hsu|[Deep Learning for Automatic Quality Grading of Mangoes: Methods and   Insights](http://arxiv.org/abs/2011.11378v1)|2020-11-23 13:09:47+00:00|23-11-2020
+Su-In Lee|[Explaining by Removing: A Unified Framework for Model Explanation](http://arxiv.org/abs/2011.14878v1)|2020-11-21 00:47:48+00:00|21-11-2020
+Heung-Il Suk|[Born Identity Network: Multi-way Counterfactual Map Generation to   Explain a Classifier's Decision](http://arxiv.org/abs/2011.10381v2)|2020-11-24 06:09:36+00:00|20-11-2020
+Kuntpong Woraratpanya|[Deep Residual Local Feature Learning for Speech Emotion Recognition](http://arxiv.org/abs/2011.09767v1)|2020-11-19 11:04:31+00:00|19-11-2020
+Aaron Zehm|[Data Representing Ground-Truth Explanations to Evaluate XAI Methods](http://arxiv.org/abs/2011.09892v1)|2020-11-18 16:54:53+00:00|18-11-2020
+Nisar R. Ahmed|[Explaining Conditions for Reinforcement Learning Behaviors from Real and   Imagined Data](http://arxiv.org/abs/2011.09004v1)|2020-11-17 23:40:47+00:00|17-11-2020
+Seungkyu Lee|[Sub-clusters of Normal Data for Anomaly Detection](http://arxiv.org/abs/2011.08408v1)|2020-11-17 03:53:31+00:00|17-11-2020
+Stephen Roberts|[Explaining the Adaptive Generalisation Gap](http://arxiv.org/abs/2011.08181v1)|2020-11-15 18:19:42+00:00|15-11-2020
+Chun-Nan Hsu|[Theoretical Knowledge Graph Reasoning via Ending Anchored Rules](http://arxiv.org/abs/2011.06174v3)|2020-12-15 02:21:35+00:00|12-11-2020
+Federico M. Sukno|[Survey on 3D face reconstruction from uncalibrated images](http://arxiv.org/abs/2011.05740v1)|2020-11-11 12:48:11+00:00|11-11-2020
+Dino Pedreschi|[FairLens: Auditing Black-box Clinical Decision Support Systems](http://arxiv.org/abs/2011.04049v1)|2020-11-08 18:40:50+00:00|08-11-2020
+Francesca Toni|[Explainable Automated Fact-Checking: A Survey](http://arxiv.org/abs/2011.03870v1)|2020-11-07 23:56:02+00:00|07-11-2020
+Su-In Lee|[Feature Removal Is a Unifying Principle for Model Explanation Methods](http://arxiv.org/abs/2011.03623v1)|2020-11-06 22:37:55+00:00|06-11-2020
+Pankesh Patel|[Explainable AI meets Healthcare: A Study on Heart Disease Dataset](http://arxiv.org/abs/2011.03195v1)|2020-11-06 05:18:43+00:00|06-11-2020
+Dinh Phung|[Explain by Evidence: An Explainable Memory-based Neural Network for   Question Answering](http://arxiv.org/abs/2011.03096v1)|2020-11-05 21:18:21+00:00|05-11-2020
+Jeffrey Pennington|[Understanding Double Descent Requires a Fine-Grained Bias-Variance   Decomposition](http://arxiv.org/abs/2011.03321v1)|2020-11-04 21:04:02+00:00|04-11-2020
+Michele Loi|[On the Moral Justification of Statistical Parity](http://arxiv.org/abs/2011.02079v1)|2020-11-04 00:26:15+00:00|04-11-2020
+Narayanan C Krishnan|[MACE: Model Agnostic Concept Extractor for Explaining Image   Classification Networks](http://arxiv.org/abs/2011.01472v1)|2020-11-03 04:40:49+00:00|03-11-2020
+Nalini Ratha|[Trustworthy AI](http://arxiv.org/abs/2011.02272v1)|2020-11-02 20:04:18+00:00|02-11-2020
+
 ## 30-10-2020
 
 main_author|title|update_date|publish_date
