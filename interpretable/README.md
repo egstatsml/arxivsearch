@@ -1,5 +1,39 @@
 # interpretable
 Click on title for link to paper
+## 27-01-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Marco Grangetto|[A two-step explainable approach for COVID-19 computer-aided diagnosis   from chest x-ray images](http://arxiv.org/abs/2101.10223v1)|2021-01-25 16:35:44+00:00|25-01-2021
+Jonathon Hare|[A Primer for Neural Arithmetic Logic Modules](http://arxiv.org/abs/2101.09530v1)|2021-01-23 16:09:16+00:00|23-01-2021
+Manuel López-Ibáñez|[Safe Learning and Optimization Techniques: Towards a Survey of the State   of the Art](http://arxiv.org/abs/2101.09505v1)|2021-01-23 13:58:09+00:00|23-01-2021
+Brian Y. Lim|[Show or Suppress? Managing Input Uncertainty in Machine Learning Model   Explanations](http://arxiv.org/abs/2101.09498v1)|2021-01-23 13:10:48+00:00|23-01-2021
+Rahil Garnavi|[Analyzing Epistemic and Aleatoric Uncertainty for Drusen Segmentation in   Optical Coherence Tomography Images](http://arxiv.org/abs/2101.08888v1)|2021-01-21 23:34:29+00:00|21-01-2021
+Simon Jégou|[Using StyleGAN for Visual Interpretability of Deep Learning Models on   Medical Images](http://arxiv.org/abs/2101.07563v1)|2021-01-19 11:13:20+00:00|19-01-2021
+Alexander Wong|[COVID-Net CT-2: Enhanced Deep Neural Networks for Detection of COVID-19   from Chest CT Images Through Bigger, More Diverse Learning](http://arxiv.org/abs/2101.07433v2)|2021-01-26 13:51:26+00:00|19-01-2021
+Weidong Han|[Learning Efficient, Explainable and Discriminative Representations for   Pulmonary Nodules Classification](http://arxiv.org/abs/2101.07429v1)|2021-01-19 02:53:44+00:00|19-01-2021
+Elisabeth André|[Benchmarking Perturbation-based Saliency Maps for Explaining Deep   Reinforcement Learning Agents](http://arxiv.org/abs/2101.07312v1)|2021-01-18 19:57:52+00:00|18-01-2021
+Xia Hu|[Generative Counterfactuals for Neural Networks via Attribute-Informed   Perturbation](http://arxiv.org/abs/2101.06930v1)|2021-01-18 08:37:13+00:00|18-01-2021
+Joana Gonçalves-Sá|[Learning from pandemics: using extraordinary events can improve disease   now-casting models](http://arxiv.org/abs/2101.06774v1)|2021-01-17 20:36:19+00:00|17-01-2021
+Alessandra Russo|[HySTER: A Hybrid Spatio-Temporal Event Reasoner](http://arxiv.org/abs/2101.06644v1)|2021-01-17 11:07:17+00:00|17-01-2021
+Trevor Cohen|[Quantum Mathematics in Artificial Intelligence](http://arxiv.org/abs/2101.04255v2)|2021-01-20 20:58:51+00:00|12-01-2021
+Rong Jin|[On the Convergence of Deep Networks with Sample Quadratic   Overparameterization](http://arxiv.org/abs/2101.04243v1)|2021-01-12 00:40:45+00:00|12-01-2021
+Brian Mac Namee|[Predicting Illness for a Sustainable Dairy Agriculture: Predicting and   Explaining the Onset of Mastitis in Dairy Cows](http://arxiv.org/abs/2101.02188v2)|2021-01-07 14:16:13+00:00|06-01-2021
+Talia Tron|[Explainable AI and Adoption of Algorithmic Advisors: an Experimental   Study](http://arxiv.org/abs/2101.02555v1)|2021-01-05 09:34:38+00:00|05-01-2021
+Mark Crowley|[Factor Analysis, Probabilistic Principal Component Analysis, Variational   Inference, and Variational Autoencoder: Tutorial and Survey](http://arxiv.org/abs/2101.00734v1)|2021-01-04 01:29:09+00:00|04-01-2021
+Zeming Chen|[Attentive Tree-structured Network for Monotonicity Reasoning](http://arxiv.org/abs/2101.00540v1)|2021-01-03 01:29:48+00:00|03-01-2021
+Yejin Choi|[Moral Stories: Situated Reasoning about Norms, Intents, Actions, and   their Consequences](http://arxiv.org/abs/2012.15738v1)|2020-12-31 17:28:01+00:00|31-12-2020
+Volker Tresp|[xERTE: Explainable Reasoning on Temporal Knowledge Graphs for   Forecasting Future Links](http://arxiv.org/abs/2012.15537v2)|2021-01-18 10:27:22+00:00|31-12-2020
+Srinivasan Iyer|[Human Evaluation of Spoken vs. Visual Explanations for Open-Domain QA](http://arxiv.org/abs/2012.15075v1)|2020-12-30 08:19:02+00:00|30-12-2020
+Narra Pratap|[SkiNet: A Deep Learning Solution for Skin Lesion Diagnosis with   Uncertainty Estimation and Explainability](http://arxiv.org/abs/2012.15049v1)|2020-12-30 05:39:57+00:00|30-12-2020
+Srikrishna Varadarajan|[Commonsense Visual Sensemaking for Autonomous Driving: On Generalised   Neurosymbolic Online Abduction Integrating Vision and Semantics](http://arxiv.org/abs/2012.14359v1)|2020-12-28 16:55:19+00:00|28-12-2020
+Lei Li|[LOREN: Logic Enhanced Neural Reasoning for Fact Verification](http://arxiv.org/abs/2012.13577v1)|2020-12-25 13:57:04+00:00|25-12-2020
+Kathleen C. Fraser|[Confronting Abusive Language Online: A Survey from the Ethical and Human   Rights Perspective](http://arxiv.org/abs/2012.12305v1)|2020-12-22 19:27:11+00:00|22-12-2020
+Elisabeth André|[This is not the Texture you are looking for! Introducing Novel   Counterfactual Explanations for Non-Experts using Generative Adversarial   Learning](http://arxiv.org/abs/2012.11905v1)|2020-12-22 10:08:05+00:00|22-12-2020
+Laura L. Taylor|[A Survey on the Visual Perceptions of Gaussian Noise Filtering on   Photography](http://arxiv.org/abs/2012.10472v1)|2020-12-18 19:18:47+00:00|18-12-2020
+Atılım Güneş Baydin|[Spacecraft Collision Risk Assessment with Probabilistic Programming](http://arxiv.org/abs/2012.10260v1)|2020-12-18 14:26:08+00:00|18-12-2020
+Adrien Coulet|[Investigating ADR mechanisms with knowledge graph mining and explainable   AI](http://arxiv.org/abs/2012.09077v1)|2020-12-16 16:59:25+00:00|16-12-2020
+
 ## 16-12-2020
 
 main_author|title|update_date|publish_date

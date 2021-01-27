@@ -1,5 +1,48 @@
 # variational
 Click on title for link to paper
+## 27-01-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Austin R. Benson|[Hypergraph clustering: from blockmodels to modularity](http://arxiv.org/abs/2101.09611v1)|2021-01-24 00:25:22+00:00|24-01-2021
+Brian Y. Lim|[Show or Suppress? Managing Input Uncertainty in Machine Learning Model   Explanations](http://arxiv.org/abs/2101.09498v1)|2021-01-23 13:10:48+00:00|23-01-2021
+Ji Liu|[Rank the Episodes: A Simple Approach for Exploration in   Procedurally-Generated Environments](http://arxiv.org/abs/2101.08152v1)|2021-01-20 14:22:01+00:00|20-01-2021
+Minming Li|[Maximizing approximately k-submodular functions](http://arxiv.org/abs/2101.07157v1)|2021-01-18 16:48:40+00:00|18-01-2021
+Md Shaad Mahmud|[Classification of fNIRS Data Under Uncertainty: A Bayesian Neural   Network Approach](http://arxiv.org/abs/2101.07128v1)|2021-01-18 15:43:59+00:00|18-01-2021
+Patrick van der Smagt|[Mind the Gap when Conditioning Amortised Inference in Sequential   Latent-Variable Models](http://arxiv.org/abs/2101.07046v1)|2021-01-18 12:53:39+00:00|18-01-2021
+Raquel Urtasun|[Non-parametric Memory for Spatio-Temporal Segmentation of Construction   Zones for Self-Driving](http://arxiv.org/abs/2101.06865v1)|2021-01-18 04:02:16+00:00|18-01-2021
+Jinbo Bi|[Discrete Graph Structure Learning for Forecasting Multiple Time Series](http://arxiv.org/abs/2101.06861v1)|2021-01-18 03:36:33+00:00|18-01-2021
+Nikolai Matni|[Learning Robust Hybrid Control Barrier Functions for Uncertain Systems](http://arxiv.org/abs/2101.06492v1)|2021-01-16 17:53:35+00:00|16-01-2021
+Haitham Ammar|[Efficient Semi-Implicit Variational Inference](http://arxiv.org/abs/2101.06070v1)|2021-01-15 11:39:09+00:00|15-01-2021
+Todd Munson|[Stochastic Learning Approach to Binary Optimization for Optimal Design   of Experiments](http://arxiv.org/abs/2101.05958v1)|2021-01-15 03:54:12+00:00|15-01-2021
+Claire J. Tomlin|[Scalable Learning of Safety Guarantees for Autonomous Systems using   Hamilton-Jacobi Reachability](http://arxiv.org/abs/2101.05916v1)|2021-01-15 00:13:01+00:00|15-01-2021
+Toshimitsu Ushio|[Continuous Deep Q-Learning with Simulator for Stabilization of Uncertain   Discrete-Time Systems](http://arxiv.org/abs/2101.05640v1)|2021-01-13 10:21:12+00:00|13-01-2021
+Grace Xingxin Gao|[Robust GPS-Vision Localization via Integrity-Driven Landmark Attention](http://arxiv.org/abs/2101.04836v1)|2021-01-13 02:16:13+00:00|13-01-2021
+James Pierce|[Machine Learning Uncertainty as a Design Material: A   Post-Phenomenological Inquiry](http://arxiv.org/abs/2101.04035v1)|2021-01-11 17:11:19+00:00|11-01-2021
+Alp Akcay|[Reinforcement Learning under Model Risk for Biomanufacturing   Fermentation Control](http://arxiv.org/abs/2101.03735v1)|2021-01-11 07:47:25+00:00|11-01-2021
+Andreas Kirsch|[PowerEvaluationBALD: Efficient Evaluation-Oriented Deep (Bayesian)   Active Learning with Stochastic Acquisition Functions](http://arxiv.org/abs/2101.03552v1)|2021-01-10 13:46:45+00:00|10-01-2021
+Gustavo Carneiro|[Detecting, Localising and Classifying Polyps from Colonoscopy Videos   using Deep Learning](http://arxiv.org/abs/2101.03285v1)|2021-01-09 04:25:34+00:00|09-01-2021
+Tim Wirtz|[Approaching Neural Network Uncertainty Realism](http://arxiv.org/abs/2101.02974v1)|2021-01-08 11:56:12+00:00|08-01-2021
+Olga Fink|[Decision Support System for an Intelligent Operator of Utility Tunnel   Boring Machines](http://arxiv.org/abs/2101.02463v2)|2021-01-08 08:27:04+00:00|07-01-2021
+Holger R. Roth|[Diminishing Uncertainty within the Training Pool: Active Learning for   Medical Image Segmentation](http://arxiv.org/abs/2101.02323v1)|2021-01-07 01:55:48+00:00|07-01-2021
+Warren Powell|[Stochastic Optimization for Vaccine and Testing Kit Allocation for the   COVID-19 Pandemic](http://arxiv.org/abs/2101.01204v1)|2021-01-04 19:08:32+00:00|04-01-2021
+Sergios Theodoridis|[Local Competition and Stochasticity for Adversarial Robustness in Deep   Learning](http://arxiv.org/abs/2101.01121v1)|2021-01-04 17:40:52+00:00|04-01-2021
+Mark Crowley|[Factor Analysis, Probabilistic Principal Component Analysis, Variational   Inference, and Variational Autoencoder: Tutorial and Survey](http://arxiv.org/abs/2101.00734v1)|2021-01-04 01:29:09+00:00|04-01-2021
+Graham Wright|[Estimating Uncertainty in Neural Networks for Cardiac MRI Segmentation:   A Benchmark Study](http://arxiv.org/abs/2012.15772v1)|2020-12-31 17:46:52+00:00|31-12-2020
+Masashi Sugiyama|[Combinatorial Pure Exploration with Full-bandit Feedback and Beyond:   Solving Combinatorial Optimization under Uncertainty with Limited Observation](http://arxiv.org/abs/2012.15584v1)|2020-12-31 12:40:52+00:00|31-12-2020
+Namyoon Lee|[Bayesian Federated Learning over Wireless Networks](http://arxiv.org/abs/2012.15486v1)|2020-12-31 07:32:44+00:00|31-12-2020
+Liang Lin|[AU-Expression Knowledge Constrained Representation Learning for Facial   Expression Recognition](http://arxiv.org/abs/2012.14587v1)|2020-12-29 03:42:04+00:00|29-12-2020
+Pascal Poupart|[Prediction by Anticipation: An Action-Conditional Prediction Method   based on Interaction Learning](http://arxiv.org/abs/2012.13478v1)|2020-12-25 01:39:26+00:00|25-12-2020
+Yarin Gal|[On Batch Normalisation for Approximate Bayesian Inference](http://arxiv.org/abs/2012.13220v1)|2020-12-24 12:40:11+00:00|24-12-2020
+Roy S. Smith|[Parameter Identification for Digital Fabrication: A Gaussian Process   Learning Approach](http://arxiv.org/abs/2012.11022v1)|2020-12-20 20:59:39+00:00|20-12-2020
+Dacheng Tao|[Recent advances in deep learning theory](http://arxiv.org/abs/2012.10931v1)|2020-12-20 14:16:41+00:00|20-12-2020
+Ritabrata Dutta|[Score Matched Conditional Exponential Families for Likelihood-Free   Inference](http://arxiv.org/abs/2012.10903v2)|2021-01-15 09:18:48+00:00|20-12-2020
+Trevor Darrell|[Minimax Active Learning](http://arxiv.org/abs/2012.10467v1)|2020-12-18 19:03:40+00:00|18-12-2020
+Kei Nakagawa|[Trader-Company Method: A Metaheuristic for Interpretable Stock Price   Prediction](http://arxiv.org/abs/2012.10215v1)|2020-12-18 13:19:27+00:00|18-12-2020
+Jimeng Sun|[EVA: Generating Longitudinal Electronic Health Records Using Conditional   Variational Autoencoders](http://arxiv.org/abs/2012.10020v1)|2020-12-18 02:37:49+00:00|18-12-2020
+Chen Change Loy|[Computation-Efficient Knowledge Distillation via Uncertainty-Aware Mixup](http://arxiv.org/abs/2012.09413v1)|2020-12-17 06:52:16+00:00|17-12-2020
+Katherine Driggs-Campbell|[Multi-Modal Anomaly Detection for Unstructured and Uncertain   Environments](http://arxiv.org/abs/2012.08637v1)|2020-12-15 21:59:58+00:00|15-12-2020
+
 
 ## 16-12-2020
 
