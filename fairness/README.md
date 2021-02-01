@@ -1,5 +1,32 @@
 # fairness
 Click on title for link to paper
+## 01-02-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Douglas Orr|[N-grams Bayesian Differential Privacy](http://arxiv.org/abs/2101.12736v1)|2021-01-29 18:48:49+00:00|29-01-2021
+Matthew Travers|[Predicting Nanorobot Shapes via Generative Models](http://arxiv.org/abs/2101.12719v1)|2021-01-29 18:29:51+00:00|29-01-2021
+Niki Kilbertus|[Beyond traditional assumptions in fair machine learning](http://arxiv.org/abs/2101.12476v1)|2021-01-29 09:02:15+00:00|29-01-2021
+Saptarshi Ghosh|[Fairness for Whom? Understanding the Reader's Perception of Fairness in   Text Summarization](http://arxiv.org/abs/2101.12406v1)|2021-01-29 05:14:34+00:00|29-01-2021
+Jittat Fakcharoenphol|[Fair Resource Allocation for Demands with Sharp Lower Tail Inequalities](http://arxiv.org/abs/2101.12403v1)|2021-01-29 04:53:34+00:00|29-01-2021
+Isabelle Augenstein|[Disembodied Machine Learning: On the Illusion of Objectivity in NLP](http://arxiv.org/abs/2101.11974v1)|2021-01-28 12:58:39+00:00|28-01-2021
+Ekaterina Shutova|[Us vs. Them: A Dataset of Populist Attitudes, News Bias and Emotions](http://arxiv.org/abs/2101.11956v1)|2021-01-28 12:18:19+00:00|28-01-2021
+Sandeep K. Shukla|[Detecting Malicious Accounts showing Adversarial Behavior in   Permissionless Blockchains](http://arxiv.org/abs/2101.11915v1)|2021-01-28 10:33:50+00:00|28-01-2021
+Romann M. Weber|[The Hidden Tasks of Generative Adversarial Networks: An Alternative   Perspective on GAN Training](http://arxiv.org/abs/2101.11863v2)|2021-01-29 12:47:36+00:00|28-01-2021
+Junghyo Jo|[Inference of stochastic time series with missing data](http://arxiv.org/abs/2101.11816v1)|2021-01-28 04:56:59+00:00|28-01-2021
+Rahul Gupta|[ProtoDA: Efficient Transfer Learning for Few-Shot Intent Classification](http://arxiv.org/abs/2101.11753v1)|2021-01-28 00:19:13+00:00|28-01-2021
+Rahul Gupta|[BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language   Generation](http://arxiv.org/abs/2101.11718v1)|2021-01-27 22:07:03+00:00|27-01-2021
+Clint Dawson|[A Hybrid 2-stage Neural Optimization for Pareto Front Extraction](http://arxiv.org/abs/2101.11684v1)|2021-01-27 20:56:19+00:00|27-01-2021
+Tom Rainforth|[On Statistical Bias In Active Learning: How and When To Fix It](http://arxiv.org/abs/2101.11665v1)|2021-01-27 19:52:24+00:00|27-01-2021
+Neil Bruce|[Shape or Texture: Understanding Discriminative Features in CNNs](http://arxiv.org/abs/2101.11604v1)|2021-01-27 18:54:00+00:00|27-01-2021
+Onur Dikmen|[Wisdom of the Contexts: Active Ensemble Learning for Contextual Anomaly   Detection](http://arxiv.org/abs/2101.11560v1)|2021-01-27 17:34:13+00:00|27-01-2021
+Juan Carlos De Martin|[Detecting discriminatory risk through data annotation based on Bayesian   inferences](http://arxiv.org/abs/2101.11358v1)|2021-01-27 12:43:42+00:00|27-01-2021
+Gustavo Carneiro|[Similarity of Classification Tasks](http://arxiv.org/abs/2101.11201v1)|2021-01-27 04:37:34+00:00|27-01-2021
+Maria Schuld|[Quantum machine learning models are kernel methods](http://arxiv.org/abs/2101.11020v1)|2021-01-26 19:00:04+00:00|26-01-2021
+Francesco Silvestri|[Sampling a Near Neighbor in High Dimensions -- Who is the Fairest of   Them All?](http://arxiv.org/abs/2101.10905v1)|2021-01-26 16:13:07+00:00|26-01-2021
+Li Xiong|[Transparent Contribution Evaluation for Secure Federated Learning on   Blockchain](http://arxiv.org/abs/2101.10572v1)|2021-01-26 05:49:59+00:00|26-01-2021
+Fabrício Breve|[Model-agnostic interpretation by visualization of feature perturbations](http://arxiv.org/abs/2101.10502v1)|2021-01-26 00:53:29+00:00|26-01-2021
+
 ## 27-01-2021
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,12 @@
 # interpretable
 Click on title for link to paper
+## 01-02-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Sabrina Conoci|[An Explainable AI System for Automated COVID-19 Assessment and Lesion   Categorization from CT-scans](http://arxiv.org/abs/2101.11943v1)|2021-01-28 11:47:35+00:00|28-01-2021
+Marko Robnik Šikonja|[Better sampling in explanation methods can prevent dieselgate-like   deception](http://arxiv.org/abs/2101.11702v1)|2021-01-26 13:41:37+00:00|26-01-2021
+
 ## 27-01-2021
 
 main_author|title|update_date|publish_date

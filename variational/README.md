@@ -1,5 +1,18 @@
 # variational
 Click on title for link to paper
+## 01-02-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+V. Voracek|[Optimal strategies for reject option classifiers](http://arxiv.org/abs/2101.12523v1)|2021-01-29 11:09:32+00:00|29-01-2021
+Wen-Huang Cheng|[Spatiotemporal Dilated Convolution with Uncertain Matching for   Video-based Crowd Estimation](http://arxiv.org/abs/2101.12439v1)|2021-01-29 07:21:33+00:00|29-01-2021
+Wojciech Szpankowski|[Low Complexity Approximate Bayesian Logistic Regression for Sparse   Online Learning](http://arxiv.org/abs/2101.12113v1)|2021-01-28 16:59:31+00:00|28-01-2021
+N. Bouklas|[Non-intrusive reduced order modeling of poroelasticity of heterogeneous   media based on a discontinuous Galerkin approximation](http://arxiv.org/abs/2101.11810v1)|2021-01-28 04:21:06+00:00|28-01-2021
+Huan Xu|[Adversaries in Online Learning Revisited: with applications in Robust   Optimization and Adversarial training](http://arxiv.org/abs/2101.11443v1)|2021-01-27 14:23:06+00:00|27-01-2021
+Vasudevan Lakshminarayanan|[Uncertainty aware and explainable diagnosis of retinal disease](http://arxiv.org/abs/2101.12041v1)|2021-01-26 23:37:30+00:00|26-01-2021
+Toby St Clere Smithe|[Cyber Kittens, or Some First Steps Towards Categorical Cybernetics](http://arxiv.org/abs/2101.10483v1)|2021-01-26 00:04:00+00:00|26-01-2021
+Keith Worden|[Damage detection in operational wind turbine blades using a new approach   based on machine learning](http://arxiv.org/abs/2101.11711v1)|2021-01-25 21:56:33+00:00|25-01-2021
+
 ## 27-01-2021
 
 main_author|title|update_date|publish_date

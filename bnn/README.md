@@ -4,6 +4,24 @@ Click on title for link to paper
 
 main_author|title|update_date|publish_date
 ---|---|---|---
+Maya Abou-Zeid|[Gaussian Process Latent Class Choice Models](http://arxiv.org/abs/2101.12252v1)|2021-01-28 19:56:42+00:00|28-01-2021
+Diego Romeres|[Model-Based Policy Search Using Monte Carlo Gradient Estimation with   Real Systems Application](http://arxiv.org/abs/2101.12115v1)|2021-01-28 17:01:15+00:00|28-01-2021
+Wojciech Szpankowski|[Low Complexity Approximate Bayesian Logistic Regression for Sparse   Online Learning](http://arxiv.org/abs/2101.12113v1)|2021-01-28 16:59:31+00:00|28-01-2021
+Roland Vollgraf|[Autoregressive Denoising Diffusion Models for Multivariate Probabilistic   Time Series Forecasting](http://arxiv.org/abs/2101.12072v1)|2021-01-28 15:46:10+00:00|28-01-2021
+Cameron Musco|[Faster Kernel Interpolation for Gaussian Processes](http://arxiv.org/abs/2101.11751v1)|2021-01-28 00:09:22+00:00|28-01-2021
+Juan Carlos De Martin|[Detecting discriminatory risk through data annotation based on Bayesian   inferences](http://arxiv.org/abs/2101.11358v1)|2021-01-27 12:43:42+00:00|27-01-2021
+Chun Jason Xue|[Bayesian Nested Neural Networks for Uncertainty Calibration and Adaptive   Compression](http://arxiv.org/abs/2101.11353v1)|2021-01-27 12:34:58+00:00|27-01-2021
+Eric C. Larson|[On the Interpretability of Deep Learning Based Models for Knowledge   Tracing](http://arxiv.org/abs/2101.11335v1)|2021-01-27 11:55:03+00:00|27-01-2021
+Lan V. Truong|[The fundamental limits of sparse linear regression with sublinear   sparsity](http://arxiv.org/abs/2101.11156v1)|2021-01-27 01:27:03+00:00|27-01-2021
+Vasudevan Lakshminarayanan|[Uncertainty aware and explainable diagnosis of retinal disease](http://arxiv.org/abs/2101.12041v1)|2021-01-26 23:37:30+00:00|26-01-2021
+Blanca Gallego|[CDSM -- Casual Inference using Deep Bayesian Dynamic Survival Models](http://arxiv.org/abs/2101.10643v1)|2021-01-26 09:15:49+00:00|26-01-2021
+Jonathan Keith|[Identification of brain states, transitions, and communities using   functional MRI](http://arxiv.org/abs/2101.10617v1)|2021-01-26 08:10:00+00:00|26-01-2021
+Toby St Clere Smithe|[Cyber Kittens, or Some First Steps Towards Categorical Cybernetics](http://arxiv.org/abs/2101.10483v1)|2021-01-26 00:04:00+00:00|26-01-2021
+
+## 01-02-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
 Lijun Zhang|[Probabilistic Robustness Analysis for DNNs based on PAC Learning](http://arxiv.org/abs/2101.10102v1)|2021-01-25 14:10:52+00:00|25-01-2021
 Hanspeter A. Mallot|[Exploitation of Image Statistics with Sparse Coding in the Case of   Stereo Vision](http://arxiv.org/abs/2101.09710v1)|2021-01-24 12:45:25+00:00|24-01-2021
 Austin R. Benson|[Hypergraph clustering: from blockmodels to modularity](http://arxiv.org/abs/2101.09611v1)|2021-01-24 00:25:22+00:00|24-01-2021
