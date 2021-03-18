@@ -1,5 +1,43 @@
 # interpretable
 Click on title for link to paper
+## 18-03-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Kathleen Curran|[Interpretability of a Deep Learning Model in the Application of Cardiac   MRI Segmentation with an ACDC Challenge Dataset](http://arxiv.org/abs/2103.08590v1)|2021-03-15 17:57:40+00:00|15-03-2021
+Marcelo Neves|[A new interpretable unsupervised anomaly detection method based on   residual explanation](http://arxiv.org/abs/2103.07953v1)|2021-03-14 15:35:45+00:00|14-03-2021
+Xifeng Yan|[Inductive Relation Prediction by BERT](http://arxiv.org/abs/2103.07102v1)|2021-03-12 06:27:11+00:00|12-03-2021
+Jamie Andrew Duell|[A Comparative Approach to Explainable Artificial Intelligence Methods in   Application to High-Dimensional Electronic Health Records: Examining the   Usability of XAI](http://arxiv.org/abs/2103.04951v1)|2021-03-08 18:15:52+00:00|08-03-2021
+Joaquim Jorge|[Counterfactuals and Causability in Explainable Artificial Intelligence:   Theory, Algorithms, and Applications](http://arxiv.org/abs/2103.04244v1)|2021-03-07 03:11:39+00:00|07-03-2021
+Cun-Quan Zhang|[The Automatic Quasi-clique Merger algorithm (AQCM)](http://arxiv.org/abs/2103.04186v1)|2021-03-06 20:01:59+00:00|06-03-2021
+Michael Lynch|[Fibrosis-Net: A Tailored Deep Convolutional Neural Network Design for   Prediction of Pulmonary Fibrosis Progression from Chest CT Images](http://arxiv.org/abs/2103.04008v1)|2021-03-06 02:16:41+00:00|06-03-2021
+Ivan Nesic|[CLAIMED, a visual and scalable component library for Trusted AI](http://arxiv.org/abs/2103.03281v1)|2021-03-04 19:31:19+00:00|04-03-2021
+Arjan Kuijper|[A Comprehensive Study on Face Recognition Biases Beyond Demographics](http://arxiv.org/abs/2103.01592v1)|2021-03-02 09:29:09+00:00|02-03-2021
+Tao Mei|[AttriMeter: An Attribute-guided Metric Interpreter for Person   Re-Identification](http://arxiv.org/abs/2103.01451v1)|2021-03-02 03:37:48+00:00|02-03-2021
+Feng Zhou|[Combat COVID-19 Infodemic Using Explainable Natural Language Processing   Models](http://arxiv.org/abs/2103.00747v1)|2021-03-01 04:28:39+00:00|01-03-2021
+Roozbeh Yousefzadeh|[Federated Learning without Revealing the Decision Boundaries](http://arxiv.org/abs/2103.00695v1)|2021-03-01 02:11:41+00:00|01-03-2021
+Bo Liu|[Spurious Local Minima Are Common for Deep Neural Networks with Piecewise   Linear Activations](http://arxiv.org/abs/2102.13233v1)|2021-02-25 23:51:14+00:00|25-02-2021
+Dmitry I. Ignatov|[On Interpretability and Similarity in Concept-Based Machine Learning](http://arxiv.org/abs/2102.12723v1)|2021-02-25 07:57:28+00:00|25-02-2021
+Masayoshi Tomizuka|[Grounded Relational Inference: Domain Knowledge Driven Explainable   Autonomous Driving](http://arxiv.org/abs/2102.11905v1)|2021-02-23 19:34:32+00:00|23-02-2021
+Marcus Antonio Viana Duarte|[An Explainable Artificial Intelligence Approach for Unsupervised Fault   Detection and Diagnosis in Rotating Machinery](http://arxiv.org/abs/2102.11848v1)|2021-02-23 18:28:18+00:00|23-02-2021
+Susan McKeever|[Wider Vision: Enriching Convolutional Neural Networks via Alignment to   External Knowledge Bases](http://arxiv.org/abs/2102.11132v1)|2021-02-22 16:00:03+00:00|22-02-2021
+Siamak Mehrkanoon|[Symbolic regression for scientific discovery: an application to wind   speed forecasting](http://arxiv.org/abs/2102.10570v1)|2021-02-21 09:46:32+00:00|21-02-2021
+Akshay Chaudhari|[Gifsplanation via Latent Shift: A Simple Autoencoder Approach to   Progressive Exaggeration on Chest X-rays](http://arxiv.org/abs/2102.09475v1)|2021-02-18 16:55:03+00:00|18-02-2021
+Tolga Birdal|[Weakly Supervised Learning of Rigid 3D Scene Flow](http://arxiv.org/abs/2102.08945v1)|2021-02-17 18:58:02+00:00|17-02-2021
+Lars Maaløe|[Hierarchical VAEs Know What They Don't Know](http://arxiv.org/abs/2102.08248v2)|2021-03-01 09:35:30+00:00|16-02-2021
+Hyunwoo Kim|[Ada-SISE: Adaptive Semantic Input Sampling for Efficient Explanation of   Convolutional Neural Networks](http://arxiv.org/abs/2102.07799v1)|2021-02-15 19:10:00+00:00|15-02-2021
+Martin Vechev|[Certified Defenses: Why Tighter Relaxations May Hurt Training?](http://arxiv.org/abs/2102.06700v1)|2021-02-12 18:57:24+00:00|12-02-2021
+Michael Chertkov|[Physics-Informed Graphical Neural Network for Parameter & State   Estimations in Power Systems](http://arxiv.org/abs/2102.06349v1)|2021-02-12 04:32:50+00:00|12-02-2021
+Shuiwang Ji|[On Explainability of Graph Neural Networks via Subgraph Explorations](http://arxiv.org/abs/2102.05152v1)|2021-02-09 22:12:26+00:00|09-02-2021
+Luciana Ferrer|[A Study on the Manifestation of Trust in Speech](http://arxiv.org/abs/2102.09370v1)|2021-02-09 13:08:54+00:00|09-02-2021
+Tao Nguyen|[Multisource AI Scorecard Table for System Evaluation](http://arxiv.org/abs/2102.03985v1)|2021-02-08 03:37:40+00:00|08-02-2021
+Massimiliano Di Ventra|[Directed percolation and numerical stability of simulations of digital   memcomputing machines](http://arxiv.org/abs/2102.03547v1)|2021-02-06 09:44:28+00:00|06-02-2021
+Fabrizio Silvestri|[CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks](http://arxiv.org/abs/2102.03322v1)|2021-02-05 17:58:14+00:00|05-02-2021
+Chi Jin|[A Local Convergence Theory for Mildly Over-Parameterized Two-Layer   Neural Network](http://arxiv.org/abs/2102.02410v1)|2021-02-04 04:41:04+00:00|04-02-2021
+Jun Xia|[Unbox the Black-box for the Medical Explainable AI via Multi-modal and   Multi-centre Data Fusion: A Mini-Review, Two Showcases and Beyond](http://arxiv.org/abs/2102.01998v1)|2021-02-03 10:56:58+00:00|03-02-2021
+Joao Marques-Silva|[A Scalable Two Stage Approach to Computing Optimal Decision Sets](http://arxiv.org/abs/2102.01904v1)|2021-02-03 06:51:49+00:00|03-02-2021
+Atefeh Shahroudnejad|[A Survey on Understanding, Visualizations, and Explanation of Deep   Neural Networks](http://arxiv.org/abs/2102.01792v1)|2021-02-02 22:57:22+00:00|02-02-2021
+
 ## 01-02-2021
 
 main_author|title|update_date|publish_date
