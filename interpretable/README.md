@@ -1,5 +1,81 @@
 # interpretable
 Click on title for link to paper
+## 31-05-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Jan Van Haaren|"[""Why Would I Trust Your Numbers?"" On the Explainability of Expected   Values in Soccer](http://arxiv.org/abs/2105.13778v1)"|2021-05-27 10:05:00+00:00|27-05-2021
+Parvez Ahammad|[Intellige: A User-Facing Model Explainer for Narrative Explanations](http://arxiv.org/abs/2105.12941v1)|2021-05-27 05:11:47+00:00|27-05-2021
+Wai Lam|[Dynamic Semantic Graph Construction and Reasoning for Explainable   Multi-hop Science Question Answering](http://arxiv.org/abs/2105.11776v1)|2021-05-25 09:14:55+00:00|25-05-2021
+Tiejun Huang|[Optimal ANN-SNN Conversion for Fast and Accurate Inference in Deep   Spiking Neural Networks](http://arxiv.org/abs/2105.11654v1)|2021-05-25 04:15:06+00:00|25-05-2021
+Fu Chen|[Explainable Enterprise Credit Rating via Deep Feature Crossing Network](http://arxiv.org/abs/2105.13843v1)|2021-05-22 02:41:50+00:00|22-05-2021
+Guy Van den Broeck|[Probabilistic Sufficient Explanations](http://arxiv.org/abs/2105.10118v1)|2021-05-21 04:03:10+00:00|21-05-2021
+Randall C. O'Reilly|[Complementary Structure-Learning Neural Networks for Relational   Reasoning](http://arxiv.org/abs/2105.08944v1)|2021-05-19 06:25:21+00:00|19-05-2021
+Tat-Seng Chua|[NExT-QA:Next Phase of Question-Answering to Explaining Temporal Actions](http://arxiv.org/abs/2105.08276v2)|2021-05-23 09:37:24+00:00|18-05-2021
+Dongmei Zhang|[Understanding and Improvement of Adversarial Training for Network   Embedding from an Optimization Perspective](http://arxiv.org/abs/2105.08007v1)|2021-05-17 16:41:53+00:00|17-05-2021
+Guodong Liu|[How to Explain Neural Networks: A perspective of data space division](http://arxiv.org/abs/2105.07831v1)|2021-05-17 13:43:37+00:00|17-05-2021
+Peyman Najafirad|[Show Why the Answer is Correct! Towards Explainable AI using   Compositional Temporal Attention](http://arxiv.org/abs/2105.07141v1)|2021-05-15 04:51:51+00:00|15-05-2021
+Majid Komeili|[Feature-Based Interpretable Reinforcement Learning based on   State-Transition Models](http://arxiv.org/abs/2105.07099v1)|2021-05-14 23:43:11+00:00|14-05-2021
+Majid Komeili|[Cause and Effect: Concept-based Explanation of Neural Networks](http://arxiv.org/abs/2105.07033v1)|2021-05-14 18:54:17+00:00|14-05-2021
+Davide Bacciu|[A causal learning framework for the analysis and interpretation of   COVID-19 clinical data](http://arxiv.org/abs/2105.06998v1)|2021-05-14 15:58:18+00:00|14-05-2021
+Noura Al Moubayed|[Agree to Disagree: When Deep Learning Models With Identical   Architectures Produce Distinct Explanations](http://arxiv.org/abs/2105.06791v1)|2021-05-14 12:16:47+00:00|14-05-2021
+Bart Verheij|[Discovering the Rationale of Decisions: Experiments on Aligning Learning   and Reasoning](http://arxiv.org/abs/2105.06758v1)|2021-05-14 10:37:03+00:00|14-05-2021
+Alexander Wong|[COVID-Net CXR-2: An Enhanced Deep Convolutional Neural Network Design   for Detection of COVID-19 Cases from Chest X-ray Images](http://arxiv.org/abs/2105.06640v1)|2021-05-14 04:29:21+00:00|14-05-2021
+Joshua J. Engelsma|[Biometrics: Trust, but Verify](http://arxiv.org/abs/2105.06625v1)|2021-05-14 03:07:25+00:00|14-05-2021
+Yun Fu|[Dynamical Isometry: The Missing Ingredient for Neural Network Pruning](http://arxiv.org/abs/2105.05916v1)|2021-05-12 19:20:09+00:00|12-05-2021
+Paolo Bestagini|[What's wrong with this video? Comparing Explainers for Deepfake   Detection](http://arxiv.org/abs/2105.05902v1)|2021-05-12 18:44:39+00:00|12-05-2021
+Michael Franke|[Probabilistic modelling of rational communication with conditionals](http://arxiv.org/abs/2105.05502v1)|2021-05-12 08:21:25+00:00|12-05-2021
+Soumya K. Ghosh|[Machine Assistance for Credit Card Approval? Random Wheel can Recommend   and Explain](http://arxiv.org/abs/2105.06255v1)|2021-05-11 08:41:42+00:00|11-05-2021
+André Freitas|[$\partial$-Explainer: Abductive Natural Language Inference via   Differentiable Convex Optimization](http://arxiv.org/abs/2105.03417v1)|2021-05-07 17:49:19+00:00|07-05-2021
+Kary Främling|[Explainable Artificial Intelligence for Human Decision-Support System in   Medical Domain](http://arxiv.org/abs/2105.02357v1)|2021-05-05 22:29:28+00:00|05-05-2021
+Noura Al Moubayed|[Attack-agnostic Adversarial Detection on Medical Data Using Explainable   Machine Learning](http://arxiv.org/abs/2105.01959v1)|2021-05-05 10:01:53+00:00|05-05-2021
+Nikolaos Kekatos|[Explaining Outcomes of Multi-Party Dialogues using Causal Learning](http://arxiv.org/abs/2105.00944v1)|2021-05-03 15:18:53+00:00|03-05-2021
+Marcin Detyniecki|[Explaining how your AI system is fair](http://arxiv.org/abs/2105.00667v1)|2021-05-03 07:52:56+00:00|03-05-2021
+Ziyan Wu|[A Peek Into the Reasoning of Neural Networks: Interpreting with   Structural Visual Concepts](http://arxiv.org/abs/2105.00290v1)|2021-05-01 15:47:42+00:00|01-05-2021
+Judea Pearl|[Causes of Effects: Learning individual responses from population data](http://arxiv.org/abs/2104.13730v2)|2021-05-02 06:48:55+00:00|28-04-2021
+Meng Wang|[A Survey on Neural Recommendation: From Collaborative Filtering to   Content and Context Enriched Recommendation](http://arxiv.org/abs/2104.13030v1)|2021-04-27 08:03:52+00:00|27-04-2021
+Daniele Zonca|[TrustyAI Explainability Toolkit](http://arxiv.org/abs/2104.12717v1)|2021-04-26 17:00:32+00:00|26-04-2021
+Lei Shi|[Exploring Bayesian Deep Learning for Urgent Instructor Intervention Need   in MOOC Forums](http://arxiv.org/abs/2104.12643v1)|2021-04-26 15:12:13+00:00|26-04-2021
+Chenguang Lu|[Understanding and Accelerating EM Algorithm's Convergence by Fair   Competition Principle and Rate-Verisimilitude Function](http://arxiv.org/abs/2104.12592v1)|2021-04-21 20:27:25+00:00|21-04-2021
+Bernd Markert|[Explainable artificial intelligence for mechanics: physics-informing   neural networks for constitutive models](http://arxiv.org/abs/2104.10683v2)|2021-05-20 10:27:59+00:00|20-04-2021
+Dongyan Zhao|[Everything Has a Cause: Leveraging Causal Inference in Legal Text   Analysis](http://arxiv.org/abs/2104.09420v2)|2021-04-21 07:33:20+00:00|19-04-2021
+Xiang Ren|[SalKG: Learning From Knowledge Graph Explanations for Commonsense   Reasoning](http://arxiv.org/abs/2104.08793v1)|2021-04-18 09:59:46+00:00|18-04-2021
+Ed Hovy|[Improving Neural Model Performance through Natural Language Feedback on   Their Explanations](http://arxiv.org/abs/2104.08765v1)|2021-04-18 08:10:01+00:00|18-04-2021
+Peter Clark|[Explaining Answers with Entailment Trees](http://arxiv.org/abs/2104.08661v1)|2021-04-17 23:13:56+00:00|17-04-2021
+Benjamin C. M. Fung|[The Topic Confusion Task: A Novel Scenario for Authorship Attribution](http://arxiv.org/abs/2104.08530v1)|2021-04-17 12:50:58+00:00|17-04-2021
+Mark Dredze|[Faithful and Plausible Explanations of Medical Code Predictions](http://arxiv.org/abs/2104.07894v1)|2021-04-16 05:13:36+00:00|16-04-2021
+John S. Baras|[On the Importance of Trust in Next-Generation Networked CPS Systems: An   AI Perspective](http://arxiv.org/abs/2104.07853v1)|2021-04-16 02:12:13+00:00|16-04-2021
+Mohit Bansal|[ExplaGraphs: An Explanation Graph Generation Task for Structured   Commonsense Reasoning](http://arxiv.org/abs/2104.07644v2)|2021-04-17 23:34:27+00:00|15-04-2021
+Preslav Nakov|[The Role of Context in Detecting Previously Fact-Checked Claims](http://arxiv.org/abs/2104.07423v1)|2021-04-15 12:39:37+00:00|15-04-2021
+Marius Portmann|[An Explainable Machine Learning-based Network Intrusion Detection System   for Enabling Generalisability in Securing IoT Networks](http://arxiv.org/abs/2104.07183v1)|2021-04-15 00:44:45+00:00|15-04-2021
+Jonathan Berant|[What's in your Head? Emergent Behaviour in Multi-Task Transformer Models](http://arxiv.org/abs/2104.06129v1)|2021-04-13 12:04:30+00:00|13-04-2021
+Grigorios Tsoumakas|[LioNets: A Neural-Specific Local Interpretation Technique Exploiting   Penultimate Layer Information](http://arxiv.org/abs/2104.06057v1)|2021-04-13 09:39:33+00:00|13-04-2021
+Jie Shi|[Thief, Beware of What Get You There: Towards Understanding Model   Extraction Attack](http://arxiv.org/abs/2104.05921v1)|2021-04-13 03:46:59+00:00|13-04-2021
+Neil Urquhart|[A Conceptual Framework for Establishing Trust in Real World Intelligent   Systems](http://arxiv.org/abs/2104.05432v1)|2021-04-12 12:58:47+00:00|12-04-2021
+Greg Durrett|[Evaluating Explanations for Reading Comprehension with Realistic   Counterfactuals](http://arxiv.org/abs/2104.04515v1)|2021-04-09 17:55:21+00:00|09-04-2021
+Stefanos Zafeiriou|[Context-self contrastive pretraining for crop type semantic segmentation](http://arxiv.org/abs/2104.04310v1)|2021-04-09 11:29:44+00:00|09-04-2021
+Akka Zemmari|[White Box Methods for Explanations of Convolutional Neural Networks in   Image Classification Tasks](http://arxiv.org/abs/2104.02548v1)|2021-04-06 14:40:00+00:00|06-04-2021
+Amer Alaref|[TB-Net: A Tailored, Self-Attention Deep Convolutional Neural Network   Design for Detection of Tuberculosis Cases from Chest X-ray Images](http://arxiv.org/abs/2104.03165v2)|2021-04-14 00:09:11+00:00|06-04-2021
+Natalia Díaz-Rodríguez|[Explainable Artificial Intelligence (XAI) on TimeSeries Data: A Survey](http://arxiv.org/abs/2104.00950v1)|2021-04-02 09:14:00+00:00|02-04-2021
+Vineet Gandhi|[No Cost Likelihood Manipulation at Test Time for Making Better Mistakes   in Deep Networks](http://arxiv.org/abs/2104.00795v1)|2021-04-01 22:40:25+00:00|01-04-2021
+Nassir Navab|[Explaining COVID-19 and Thoracic Pathology Model Predictions by   Identifying Informative Input Features](http://arxiv.org/abs/2104.00411v1)|2021-04-01 11:42:39+00:00|01-04-2021
+Flora Salim|[Spatiotemporal Data Mining: A Survey on Challenges and Open Problems](http://arxiv.org/abs/2103.17128v1)|2021-03-31 14:48:39+00:00|31-03-2021
+Yann LeCun|[Transformer visualization via dictionary learning: contextualized   embedding as a linear superposition of transformer factors](http://arxiv.org/abs/2103.15949v1)|2021-03-29 20:51:33+00:00|29-03-2021
+Tieniu Tan|[Learning Domain Invariant Representations for Generalizable Person   Re-Identification](http://arxiv.org/abs/2103.15890v1)|2021-03-29 18:59:48+00:00|29-03-2021
+Lior Wolf|[Generic Attention-model Explainability for Interpreting Bi-Modal and   Encoder-Decoder Transformers](http://arxiv.org/abs/2103.15679v1)|2021-03-29 15:03:11+00:00|29-03-2021
+Mohammad Hossein Rohban|[ZeroGrad : Mitigating and Explaining Catastrophic Overfitting in FGSM   Adversarial Training](http://arxiv.org/abs/2103.15476v1)|2021-03-29 10:19:35+00:00|29-03-2021
+Ping Zhang|[TransICD: Transformer Based Code-wise Attention Model for Explainable   ICD Coding](http://arxiv.org/abs/2104.10652v1)|2021-03-28 05:34:32+00:00|28-03-2021
+Baotian Hu|[You Can Do Better! If You Elaborate the Reason When Making Prediction](http://arxiv.org/abs/2103.14919v1)|2021-03-27 14:55:19+00:00|27-03-2021
+Peter Eisert|[Focused LRP: Explainable AI for Face Morphing Attack Detection](http://arxiv.org/abs/2103.14697v1)|2021-03-26 19:05:01+00:00|26-03-2021
+Feng Lu|[PureGaze: Purifying Gaze Feature for Generalizable Gaze Estimation](http://arxiv.org/abs/2103.13173v1)|2021-03-24 13:22:00+00:00|24-03-2021
+Christian Voigt|[Thinking Aloud: Dynamic Context Generation Improves Zero-Shot Reasoning   Performance of GPT-2](http://arxiv.org/abs/2103.13033v1)|2021-03-24 07:33:25+00:00|24-03-2021
+R. Muhammad Atif Azad|[GA-SVM for Evaluating Heroin Consumption Risk](http://arxiv.org/abs/2103.12633v1)|2021-03-23 15:41:30+00:00|23-03-2021
+Tanmoy Chakraborty|[Discovering Emotion and Reasoning its Flip in Multi-Party Conversations   using Masked Memory Network and Transformer](http://arxiv.org/abs/2103.12360v2)|2021-03-24 09:17:35+00:00|23-03-2021
+Ghassan AlRegib|[Contrastive Reasoning in Neural Networks](http://arxiv.org/abs/2103.12329v1)|2021-03-23 05:54:36+00:00|23-03-2021
+Babak Salimi|[Explaining Black-Box Algorithms Using Probabilistic Contrastive   Counterfactuals](http://arxiv.org/abs/2103.11972v1)|2021-03-22 16:20:21+00:00|22-03-2021
+Fatih Porikli|[Cascade Weight Shedding in Deep Neural Networks: Benefits and Pitfalls   for Network Pruning](http://arxiv.org/abs/2103.10629v1)|2021-03-19 04:41:40+00:00|19-03-2021
+Elizabeth A. Barnes|[Neural Network Attribution Methods for Problems in Geoscience: A Novel   Synthetic Benchmark Dataset](http://arxiv.org/abs/2103.10005v1)|2021-03-18 03:39:17+00:00|18-03-2021
+
 ## 18-03-2021
 
 main_author|title|update_date|publish_date

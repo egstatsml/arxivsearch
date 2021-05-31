@@ -1,5 +1,216 @@
 # bnn
 Click on title for link to paper
+## 31-05-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Richard Klein|[Confident in the Crowd: Bayesian Inference to Improve Data Labelling in   Crowdsourcing](http://arxiv.org/abs/2105.13984v1)|2021-05-28 17:09:45+00:00|28-05-2021
+Pauly Markus|[pRSL: Interpretable Multi-label Stacking by Learning Probabilistic Rules](http://arxiv.org/abs/2105.13850v1)|2021-05-28 14:06:21+00:00|28-05-2021
+Lawrence Tray|[Inferring community characteristics in labelled networks](http://arxiv.org/abs/2105.13762v1)|2021-05-28 12:07:10+00:00|28-05-2021
+Jakob Knollmüller|[Classification and Uncertainty Quantification of Corrupted Data using   Semi-Supervised Autoencoders](http://arxiv.org/abs/2105.13393v1)|2021-05-27 18:47:55+00:00|27-05-2021
+Tie-Yan Liu|[Learning Structures for Deep Neural Networks](http://arxiv.org/abs/2105.13905v1)|2021-05-27 12:27:24+00:00|27-05-2021
+Christopher Nemeth|[Stochastic Gradient MCMC with Multi-Armed Bandit Tuning](http://arxiv.org/abs/2105.13059v2)|2021-05-28 13:49:38+00:00|27-05-2021
+Alexander Mendiburu|[On the Exploitation of Neuroevolutionary Information: Analyzing the Past   for a More Efficient Future](http://arxiv.org/abs/2105.12836v1)|2021-05-26 20:55:29+00:00|26-05-2021
+Ruud J. G. van Sloun|[Dynamic Probabilistic Pruning: A general framework for   hardware-constrained pruning at different granularities](http://arxiv.org/abs/2105.12686v1)|2021-05-26 17:01:52+00:00|26-05-2021
+Songkuk Kim|[Blurs Make Results Clearer: Spatial Smoothings to Improve Accuracy,   Uncertainty, and Robustness](http://arxiv.org/abs/2105.12639v1)|2021-05-26 15:58:11+00:00|26-05-2021
+Vasileios Lampos|[Estimating the Uncertainty of Neural Network Forecasts for Influenza   Prevalence Using Web Search Activity](http://arxiv.org/abs/2105.12433v1)|2021-05-26 09:45:23+00:00|26-05-2021
+Po-Kan Shih|[Bayesian Nonparametric Reinforcement Learning in LTE and Wi-Fi   Coexistence](http://arxiv.org/abs/2105.12249v2)|2021-05-27 02:14:17+00:00|25-05-2021
+Ehsan Zabihi Naeini|[Calibration and Uncertainty Quantification of Bayesian Convolutional   Neural Networks for Geophysical Applications](http://arxiv.org/abs/2105.12115v1)|2021-05-25 17:54:23+00:00|25-05-2021
+José Antonio F. de Macedo|[Trajectory Modeling via Random Utility Inverse Reinforcement Learning](http://arxiv.org/abs/2105.12092v1)|2021-05-25 17:19:09+00:00|25-05-2021
+Rose Yu|[Quantifying Uncertainty in Deep Spatiotemporal Forecasting](http://arxiv.org/abs/2105.11982v1)|2021-05-25 14:35:46+00:00|25-05-2021
+Andreas Krause|[DiBS: Differentiable Bayesian Structure Learning](http://arxiv.org/abs/2105.11839v1)|2021-05-25 11:23:08+00:00|25-05-2021
+Mark Simons|[Deep Learning-based Damage Mapping with InSAR Coherence Time Series](http://arxiv.org/abs/2105.11544v1)|2021-05-24 21:21:03+00:00|24-05-2021
+Xin Jin|[Can we imitate stock price behavior to reinforcement learn option price?](http://arxiv.org/abs/2105.11376v1)|2021-05-24 16:08:58+00:00|24-05-2021
+Deniz Gunduz|[Denoising Noisy Neural Networks: A Bayesian Approach with Compensation](http://arxiv.org/abs/2105.10699v1)|2021-05-22 11:51:20+00:00|22-05-2021
+Kamalika Chaudhuri|[Privacy Amplification Via Bernoulli Sampling](http://arxiv.org/abs/2105.10594v1)|2021-05-21 22:34:32+00:00|21-05-2021
+Torsten A. Enßlin|[Geometric variational inference](http://arxiv.org/abs/2105.10470v1)|2021-05-21 17:18:50+00:00|21-05-2021
+Demba Ba|[Covariance-Free Sparse Bayesian Learning](http://arxiv.org/abs/2105.10439v1)|2021-05-21 16:20:07+00:00|21-05-2021
+Thomas M. Howard|[Language Understanding for Field and Service Robots in a Priori Unknown   Environments](http://arxiv.org/abs/2105.10396v1)|2021-05-21 15:13:05+00:00|21-05-2021
+Gabriel Stoltz|[Removing the mini-batching error in Bayesian inference using Adaptive   Langevin dynamics](http://arxiv.org/abs/2105.10347v1)|2021-05-21 13:39:39+00:00|21-05-2021
+Mathias Unberath|[An Interpretable Approach to Automated Severity Scoring in Pelvic Trauma](http://arxiv.org/abs/2105.10238v1)|2021-05-21 09:52:33+00:00|21-05-2021
+Grigorios Tsoumakas|[Uncertainty-Aware Abstractive Summarization](http://arxiv.org/abs/2105.10155v1)|2021-05-21 06:36:40+00:00|21-05-2021
+Marta Kwiatkowska|[Certification of Iterative Predictions in Bayesian Neural Networks](http://arxiv.org/abs/2105.10134v1)|2021-05-21 05:23:57+00:00|21-05-2021
+Diego Klabjan|[A Probabilistic Approach to Neural Network Pruning](http://arxiv.org/abs/2105.10065v1)|2021-05-20 23:19:43+00:00|20-05-2021
+Yanxun Xu|[Data-driven discovery of interpretable causal relations for deep   learning material laws with uncertainty propagation](http://arxiv.org/abs/2105.09980v1)|2021-05-20 18:25:43+00:00|20-05-2021
+Koujin Takeda|[Improved Neuronal Ensemble Inference with Generative Model and MCMC](http://arxiv.org/abs/2105.09679v1)|2021-05-20 11:37:38+00:00|20-05-2021
+Manfred Opper|[Nonlinear Hawkes Process with Gaussian Process Self Effects](http://arxiv.org/abs/2105.09618v1)|2021-05-20 09:20:35+00:00|20-05-2021
+Chao Li|[Egocentric Activity Recognition and Localization on a 3D Map](http://arxiv.org/abs/2105.09544v2)|2021-05-27 00:39:56+00:00|20-05-2021
+Jesse Berent|[Correlated Input-Dependent Label Noise in Large-Scale Image   Classification](http://arxiv.org/abs/2105.10305v1)|2021-05-19 17:30:59+00:00|19-05-2021
+Clemens Elster|[Errors-in-Variables for deep learning: rethinking aleatoric uncertainty](http://arxiv.org/abs/2105.09095v2)|2021-05-27 08:51:07+00:00|19-05-2021
+Timo Gerkmann|[Disentanglement Learning for Variational Autoencoders Applied to   Audio-Visual Speech Enhancement](http://arxiv.org/abs/2105.08970v1)|2021-05-19 07:42:14+00:00|19-05-2021
+Dominic P. Williams|[Quantifying sources of uncertainty in drug discovery predictions with   probabilistic models](http://arxiv.org/abs/2105.09474v1)|2021-05-18 18:54:54+00:00|18-05-2021
+Lei Wang|[Ab-initio study of interacting fermions at finite temperature with   neural canonical transformation](http://arxiv.org/abs/2105.08644v1)|2021-05-18 16:16:02+00:00|18-05-2021
+Thomas C. M. Lee|[Detecting Adversarial Examples with Bayesian Neural Network](http://arxiv.org/abs/2105.08620v1)|2021-05-18 15:51:24+00:00|18-05-2021
+Jesus Cerquides|[Parametrization invariant interpretation of priors and posteriors](http://arxiv.org/abs/2105.08304v1)|2021-05-18 06:45:05+00:00|18-05-2021
+Jan Peters|[Stochastic Control through Approximate Bayesian Input Inference](http://arxiv.org/abs/2105.07693v1)|2021-05-17 09:27:12+00:00|17-05-2021
+Margret Keuper|[Uncertainty in Minimum Cost Multicuts for Image and Motion Segmentation](http://arxiv.org/abs/2105.07469v1)|2021-05-16 16:22:38+00:00|16-05-2021
+Bob de Ruiter|[Post-processing Multi-Model Medium-Term Precipitation Forecasts Using   Convolutional Neural Networks](http://arxiv.org/abs/2105.07043v1)|2021-05-14 19:30:48+00:00|14-05-2021
+Laurence Aitchison|[BNNpriors: A library for Bayesian neural network inference with   different prior distributions](http://arxiv.org/abs/2105.06964v1)|2021-05-14 17:11:04+00:00|14-05-2021
+Vincent Fortuin|[Priors in Bayesian Deep Learning: A Review](http://arxiv.org/abs/2105.06868v2)|2021-05-26 17:48:55+00:00|14-05-2021
+Liaoying Zhao|[Exploring the Intrinsic Probability Distribution for Hyperspectral   Anomaly Detection](http://arxiv.org/abs/2105.06775v1)|2021-05-14 11:42:09+00:00|14-05-2021
+Ling Shao|[Attentional Prototype Inference for Few-Shot Semantic Segmentation](http://arxiv.org/abs/2105.06668v1)|2021-05-14 06:58:44+00:00|14-05-2021
+Rajat Malik|[An Interpretable Graph-based Mapping of Trustworthy Machine Learning   Research](http://arxiv.org/abs/2105.06591v1)|2021-05-13 23:25:07+00:00|13-05-2021
+Partha Maji|[Stochastic-Shield: A Probabilistic Approach Towards Training-Free   Adversarial Defense in Quantized CNNs](http://arxiv.org/abs/2105.06512v1)|2021-05-13 18:59:15+00:00|13-05-2021
+Ping Luo|[BWCP: Probabilistic Learning-to-Prune Channels for ConvNets via Batch   Whitening](http://arxiv.org/abs/2105.06423v1)|2021-05-13 17:00:05+00:00|13-05-2021
+Mikhail Kudinov|[Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech](http://arxiv.org/abs/2105.06337v1)|2021-05-13 14:47:44+00:00|13-05-2021
+Maarten de Rijke|[Semi-Supervised Variational Reasoning for Medical Dialogue Generation](http://arxiv.org/abs/2105.06071v1)|2021-05-13 04:14:35+00:00|13-05-2021
+Jochen De Weerdt|[Learning Uncertainty with Artificial Neural Networks for Improved   Remaining Time Prediction of Business Processes](http://arxiv.org/abs/2105.05559v1)|2021-05-12 10:18:57+00:00|12-05-2021
+Michael Franke|[Probabilistic modelling of rational communication with conditionals](http://arxiv.org/abs/2105.05502v1)|2021-05-12 08:21:25+00:00|12-05-2021
+Thomas Y. Hou|[Multiscale Invertible Generative Networks for High-Dimensional Bayesian   Inference](http://arxiv.org/abs/2105.05489v1)|2021-05-12 07:51:47+00:00|12-05-2021
+Wayne Luk|[High-Performance FPGA-based Accelerator for Bayesian Neural Networks](http://arxiv.org/abs/2105.09163v1)|2021-05-12 06:20:44+00:00|12-05-2021
+Vahid Partovi Nia|[A Twin Neural Model for Uplift](http://arxiv.org/abs/2105.05146v1)|2021-05-11 16:02:39+00:00|11-05-2021
+Rong Zhu|[Deep Bandits Show-Off: Simple and Efficient Exploration with Deep   Networks](http://arxiv.org/abs/2105.04683v1)|2021-05-10 21:45:01+00:00|10-05-2021
+Nicolas Durrande|[Deep Neural Networks as Point Estimates for Deep Gaussian Processes](http://arxiv.org/abs/2105.04504v1)|2021-05-10 16:55:17+00:00|10-05-2021
+Jesse Thaler|[Scaffolding Simulations with Deep Learning for High-dimensional   Deconvolution](http://arxiv.org/abs/2105.04448v1)|2021-05-10 15:16:18+00:00|10-05-2021
+Michael U. Gutmann|[Gradient-based Bayesian Experimental Design for Implicit Models using   Mutual Information Lower Bounds](http://arxiv.org/abs/2105.04379v1)|2021-05-10 13:59:25+00:00|10-05-2021
+Ngai Wong|[Exploiting Elasticity in Tensor Ranks for Compressing Neural Networks](http://arxiv.org/abs/2105.04218v1)|2021-05-10 09:26:47+00:00|10-05-2021
+Cees G. M. Snoek|[A Bit More Bayesian: Domain-Invariant Learning with Uncertainty](http://arxiv.org/abs/2105.04030v1)|2021-05-09 21:33:27+00:00|09-05-2021
+Monika Sester|[Interaction Detection Between Vehicles and Vulnerable Road Users: A Deep   Generative Approach with Attention](http://arxiv.org/abs/2105.03891v1)|2021-05-09 10:03:55+00:00|09-05-2021
+Heikki Huttunen|[Selective Probabilistic Classifier Based on Hypothesis Testing](http://arxiv.org/abs/2105.03876v2)|2021-05-11 20:41:58+00:00|09-05-2021
+David Tolpin|[How To Train Your Program](http://arxiv.org/abs/2105.03650v1)|2021-05-08 09:26:34+00:00|08-05-2021
+Philipp Hennig|[Laplace Matching for fast Approximate Inference in Generalized Linear   Models](http://arxiv.org/abs/2105.03109v1)|2021-05-07 08:25:17+00:00|07-05-2021
+Tom M. Mitchell|[A Generative Symbolic Model for More General Natural Language   Understanding and Reasoning](http://arxiv.org/abs/2105.02486v1)|2021-05-06 07:38:43+00:00|06-05-2021
+Zhou Zhao|[DiffSinger: Diffusion Acoustic Model for Singing Voice Synthesis](http://arxiv.org/abs/2105.02446v1)|2021-05-06 05:21:42+00:00|06-05-2021
+Delingette Hervé|[Bayesian Logistic Shape Model Inference: application to cochlea image   segmentation](http://arxiv.org/abs/2105.02045v1)|2021-05-05 13:21:42+00:00|05-05-2021
+Jun Zhu|[MiCE: Mixture of Contrastive Experts for Unsupervised Image Clustering](http://arxiv.org/abs/2105.01899v1)|2021-05-05 07:17:57+00:00|05-05-2021
+Zhengwei Qi|[TransHash: Transformer-based Hamming Hashing for Efficient Image   Retrieval](http://arxiv.org/abs/2105.01823v1)|2021-05-05 01:35:53+00:00|05-05-2021
+Guido Montúfar|[Information Complexity and Generalization Bounds](http://arxiv.org/abs/2105.01747v1)|2021-05-04 20:37:57+00:00|04-05-2021
+Ryosuke Saga|[Apparel Recommender System based on Bilateral image shape features](http://arxiv.org/abs/2105.01541v1)|2021-05-04 14:48:38+00:00|04-05-2021
+Yue Li|[Supervised multi-specialist topic model with applications on large-scale   electronic health record data](http://arxiv.org/abs/2105.01238v1)|2021-05-04 01:27:11+00:00|04-05-2021
+Jonathan Fieldsend|[How Bayesian Should Bayesian Optimisation Be?](http://arxiv.org/abs/2105.00894v1)|2021-05-03 14:28:11+00:00|03-05-2021
+Tong Zhang|[Effective Sparsification of Neural Networks with Global Sparsity   Constraint](http://arxiv.org/abs/2105.01571v1)|2021-05-03 14:13:42+00:00|03-05-2021
+Ding Zhao|[Improving Perception via Sensor Placement: Designing Multi-LiDAR Systems   for Autonomous Vehicles](http://arxiv.org/abs/2105.00373v1)|2021-05-02 01:52:18+00:00|02-05-2021
+KangKang Yin|[Discovering Diverse Athletic Jumping Strategies](http://arxiv.org/abs/2105.00371v1)|2021-05-02 01:37:16+00:00|02-05-2021
+Fangfang Xia|[Neko: a Library for Exploring Neuromorphic Learning Rules](http://arxiv.org/abs/2105.00324v1)|2021-05-01 18:50:32+00:00|01-05-2021
+Arnoldo Frigessi|[Dynamic Slate Recommendation with Gated Recurrent Units and Thompson   Sampling](http://arxiv.org/abs/2104.15046v1)|2021-04-30 15:16:35+00:00|30-04-2021
+J. A. du Preez|[Degenerate Gaussian factors for probabilistic inference](http://arxiv.org/abs/2104.15010v1)|2021-04-30 13:58:29+00:00|30-04-2021
+Yueting Chen|[SRDiff: Single Image Super-Resolution with Diffusion Probabilistic   Models](http://arxiv.org/abs/2104.14951v2)|2021-05-18 14:41:12+00:00|30-04-2021
+Juan Eugenio Iglesias|[Robust joint registration of multiple stains and MRI for multimodal 3D   histology reconstruction: Application to the Allen human brain atlas](http://arxiv.org/abs/2104.14873v2)|2021-05-04 13:39:40+00:00|30-04-2021
+Oliver Tomic|[A User-Guided Bayesian Framework for Ensemble Feature Selection in Life   Science Applications (UBayFS)](http://arxiv.org/abs/2104.14787v2)|2021-05-28 16:21:17+00:00|30-04-2021
+Koji Tsuda|[Continuous black-box optimization with quantum annealing and random   subspace coding](http://arxiv.org/abs/2104.14778v1)|2021-04-30 06:19:07+00:00|30-04-2021
+Michael Schneider|[MuyGPs: Scalable Gaussian Process Hyperparameter Estimation Using Local   Cross-Validation](http://arxiv.org/abs/2104.14581v1)|2021-04-29 18:10:21+00:00|29-04-2021
+Andrew Gordon Wilson|[What Are Bayesian Neural Network Posteriors Really Like?](http://arxiv.org/abs/2104.14421v1)|2021-04-29 15:38:46+00:00|29-04-2021
+Helge Langseth|[Correcting Classification: A Bayesian Framework Using Explanation   Feedback to Improve Classification Abilities](http://arxiv.org/abs/2105.02653v2)|2021-05-13 15:37:31+00:00|29-04-2021
+Anirbit Mukherjee|[A Study of the Mathematics of Deep Learning](http://arxiv.org/abs/2104.14033v1)|2021-04-28 22:05:54+00:00|28-04-2021
+Raphaëlle Tihon|[Simplified Kalman filter for online rating: one-fits-all approach](http://arxiv.org/abs/2104.14012v1)|2021-04-28 20:44:10+00:00|28-04-2021
+Kewei Tu|[PCFGs Can Do Better: Inducing Probabilistic Context-Free Grammars with   Many Symbols](http://arxiv.org/abs/2104.13727v1)|2021-04-28 12:25:27+00:00|28-04-2021
+Pascal Frossard|[Predicting traffic signals on transportation networks using   spatio-temporal correlations on graphs](http://arxiv.org/abs/2104.13414v1)|2021-04-27 18:17:42+00:00|27-04-2021
+Michael C. Burkhart|[Discriminative Bayesian Filtering Lends Momentum to the Stochastic   Newton Method for Minimizing Log-Convex Functions](http://arxiv.org/abs/2104.12949v1)|2021-04-27 02:39:21+00:00|27-04-2021
+Bud Mishra|[Efficient Evolutionary Models with Digraphons](http://arxiv.org/abs/2104.12748v1)|2021-04-26 17:40:13+00:00|26-04-2021
+Ward Haddadin|[Invariant polynomials and machine learning](http://arxiv.org/abs/2104.12733v1)|2021-04-26 17:24:29+00:00|26-04-2021
+Matthew P. Juniper|[Online parameter inference for the simulation of a Bunsen flame using   heteroscedastic Bayesian neural network ensembles](http://arxiv.org/abs/2104.13201v1)|2021-04-26 16:47:43+00:00|26-04-2021
+Lei Shi|[Exploring Bayesian Deep Learning for Urgent Instructor Intervention Need   in MOOC Forums](http://arxiv.org/abs/2104.12643v1)|2021-04-26 15:12:13+00:00|26-04-2021
+Tobias Ortmaier|[Recalibration of Aleatoric and Epistemic Regression Uncertainty in   Medical Imaging](http://arxiv.org/abs/2104.12376v1)|2021-04-26 07:18:58+00:00|26-04-2021
+Subhabrata Sen|[Variational Inference in high-dimensional linear regression](http://arxiv.org/abs/2104.12232v1)|2021-04-25 19:09:38+00:00|25-04-2021
+M. Jamal Deen|[FedSup: A Communication-Efficient Federated Learning Fatigue Driving   Behaviors Supervision Framework](http://arxiv.org/abs/2104.12086v1)|2021-04-25 07:16:49+00:00|25-04-2021
+Adji B. Dieng|[Deep Probabilistic Graphical Modeling](http://arxiv.org/abs/2104.12053v1)|2021-04-25 03:48:02+00:00|25-04-2021
+Lars Carlsson|[High-dimensional near-optimal experiment design for drug discovery via   Bayesian sparse sampling](http://arxiv.org/abs/2104.11834v1)|2021-04-23 22:43:16+00:00|23-04-2021
+Howard Bowman|[Realising Active Inference in Variational Message Passing: the   Outcome-blind Certainty Seeker](http://arxiv.org/abs/2104.11798v1)|2021-04-23 19:40:55+00:00|23-04-2021
+Cengiz Pehlevan|[Exact priors of finite neural networks](http://arxiv.org/abs/2104.11734v2)|2021-05-18 17:42:44+00:00|23-04-2021
+Marin Soljačić|[Scalable and Flexible Deep Bayesian Optimization with Auxiliary   Information for Scientific Problems](http://arxiv.org/abs/2104.11667v1)|2021-04-23 15:46:37+00:00|23-04-2021
+Naoki Sakai|[Probabilistic Rainfall Estimation from Automotive Lidar](http://arxiv.org/abs/2104.11467v1)|2021-04-23 08:35:54+00:00|23-04-2021
+Chris. J. Oates|[Bayesian Numerical Methods for Nonlinear Partial Differential Equations](http://arxiv.org/abs/2104.12587v2)|2021-05-03 13:26:26+00:00|22-04-2021
+Sergey Levine|[Outcome-Driven Reinforcement Learning via Variational Inference](http://arxiv.org/abs/2104.10190v1)|2021-04-20 18:16:21+00:00|20-04-2021
+Ziwei Liu|[Variational Relational Point Completion Network](http://arxiv.org/abs/2104.10154v1)|2021-04-20 17:53:40+00:00|20-04-2021
+Daniel R. Kowal|[Bayesian subset selection and variable importance for interpretable   prediction and classification](http://arxiv.org/abs/2104.10150v1)|2021-04-20 17:48:34+00:00|20-04-2021
+Amedeo Napoli|[A Bayesian Convolutional Neural Network for Robust Galaxy Ellipticity   Regression](http://arxiv.org/abs/2104.09970v1)|2021-04-20 14:01:57+00:00|20-04-2021
+Emilio Ferrara|"[""Don't quote me on that"": Finding Mixtures of Sources in News Articles](http://arxiv.org/abs/2104.09656v1)"|2021-04-19 21:57:11+00:00|19-04-2021
+Stefano Ermon|[Bayesian Algorithm Execution: Estimating Computable Properties of   Black-box Functions Using Mutual Information](http://arxiv.org/abs/2104.09460v1)|2021-04-19 17:22:11+00:00|19-04-2021
+Tim Wirtz|[Plants Don't Walk on the Street: Common-Sense Reasoning for Reliable   Semantic Segmentation](http://arxiv.org/abs/2104.09254v1)|2021-04-19 12:51:06+00:00|19-04-2021
+Sarem Seitz|[Mixtures of Gaussian Processes for regression under multiple prior   distributions](http://arxiv.org/abs/2104.09185v1)|2021-04-19 10:19:14+00:00|19-04-2021
+Bernhard Sick|[Cyclist Intention Detection: A Probabilistic Approach](http://arxiv.org/abs/2104.09176v1)|2021-04-19 09:59:04+00:00|19-04-2021
+Brian C. Lovell|[Scalable Bayesian Deep Learning with Kernel Seed Networks](http://arxiv.org/abs/2104.09005v1)|2021-04-19 01:42:34+00:00|19-04-2021
+Miguel A. González Ballester|[An Uncertainty-aware Hierarchical Probabilistic Network for Early   Prediction, Quantification and Segmentation of Pulmonary Tumour Growth](http://arxiv.org/abs/2104.08789v1)|2021-04-18 09:48:58+00:00|18-04-2021
+Pavel N. Krivitsky|[Bayesian graph convolutional neural networks via tempered MCMC](http://arxiv.org/abs/2104.08438v1)|2021-04-17 04:03:25+00:00|17-04-2021
+Anup Basu|[Arithmetic Distribution Neural Network for Background Subtraction](http://arxiv.org/abs/2104.08390v1)|2021-04-16 22:44:58+00:00|16-04-2021
+Manmohan Chandraker|[Fusing the Old with the New: Learning Relative Camera Pose with   Geometry-Guided Uncertainty](http://arxiv.org/abs/2104.08278v1)|2021-04-16 17:59:06+00:00|16-04-2021
+Sophia Ananiadou|[Distantly Supervised Relation Extraction with Sentence Reconstruction   and Knowledge Base Priors](http://arxiv.org/abs/2104.08225v1)|2021-04-16 17:10:19+00:00|16-04-2021
+The Tien Mai|[Bayesian matrix completion with a spectral scaled Student prior:   theoretical guarantee and efficient sampling](http://arxiv.org/abs/2104.08191v1)|2021-04-16 16:03:43+00:00|16-04-2021
+Maurice Smith|[Inverse Bayesian Optimization: Learning Human Search Strategies in a   Sequential Optimization Task](http://arxiv.org/abs/2104.09237v1)|2021-04-16 15:40:34+00:00|16-04-2021
+Niklas Linde|[Fast ABC with joint generative modelling and subset simulation](http://arxiv.org/abs/2104.08156v1)|2021-04-16 15:03:23+00:00|16-04-2021
+Peter A. N. Bosman|[A Novel Surrogate-assisted Evolutionary Algorithm Applied to   Partition-based Ensemble Learning](http://arxiv.org/abs/2104.08048v1)|2021-04-16 11:51:18+00:00|16-04-2021
+Andreas Langousis|[Probabilistic water demand forecasting using quantile regression   algorithms](http://arxiv.org/abs/2104.07985v1)|2021-04-16 09:17:00+00:00|16-04-2021
+Mohammad Norouzi|[Image Super-Resolution via Iterative Refinement](http://arxiv.org/abs/2104.07636v1)|2021-04-15 17:50:42+00:00|15-04-2021
+Fabrice Daniel|[Bayesian and Dempster-Shafer models for combining multiple sources of   evidence in a fraud detection system](http://arxiv.org/abs/2104.07440v1)|2021-04-15 13:19:19+00:00|15-04-2021
+Helena Holmström Olsson|[On the Assessment of Benchmark Suites for Algorithm Comparison](http://arxiv.org/abs/2104.07381v1)|2021-04-15 11:20:11+00:00|15-04-2021
+Niki Trigoni|[Graph-based Thermal-Inertial SLAM with Probabilistic Neural Networks](http://arxiv.org/abs/2104.07196v2)|2021-04-18 08:35:26+00:00|15-04-2021
+Hongning Wang|[When and Whom to Collaborate with in a Changing Environment: A   Collaborative Dynamic Bandit Solution](http://arxiv.org/abs/2104.07150v1)|2021-04-14 22:15:58+00:00|14-04-2021
+Miguel Rodrigues|[ComBiNet: Compact Convolutional Bayesian Neural Network for Image   Segmentation](http://arxiv.org/abs/2104.06957v1)|2021-04-14 16:33:48+00:00|14-04-2021
+Jian Sun|[IQDet: Instance-wise Quality Distribution Sampling for Object Detection](http://arxiv.org/abs/2104.06936v1)|2021-04-14 15:57:22+00:00|14-04-2021
+Xin Yao|[When Non-Elitism Meets Time-Linkage Problems](http://arxiv.org/abs/2104.06831v1)|2021-04-14 13:03:42+00:00|14-04-2021
+Filipe Rodrigues|[Short-term bus travel time prediction for transfer synchronization with   intelligent uncertainty handling](http://arxiv.org/abs/2104.06819v1)|2021-04-14 12:38:27+00:00|14-04-2021
+Geoff Nicholls|[Measuring diachronic sense change: new models and Monte Carlo methods   for Bayesian inference](http://arxiv.org/abs/2105.00819v1)|2021-04-14 11:40:21+00:00|14-04-2021
+Enrique Dunn|[VOLDOR: Visual Odometry from Log-logistic Dense Optical flow Residuals](http://arxiv.org/abs/2104.06789v1)|2021-04-14 11:39:19+00:00|14-04-2021
+Yew-Soon Ong|[Multi-Party Dual Learning](http://arxiv.org/abs/2104.06677v1)|2021-04-14 07:39:23+00:00|14-04-2021
+David Yevick|[Variational Autoencoder Analysis of Ising Model Statistical   Distributions and Phase Transitions](http://arxiv.org/abs/2104.06368v1)|2021-04-13 17:24:19+00:00|13-04-2021
+Felix J. Herrmann|[Learning by example: fast reliability-aware seismic imaging with   normalizing flows](http://arxiv.org/abs/2104.06255v1)|2021-04-13 15:13:45+00:00|13-04-2021
+Basabdatta Sen Bhattacharya|[Bayesian Optimisation for a Biologically Inspired Population Neural   Network](http://arxiv.org/abs/2104.05989v1)|2021-04-13 07:48:42+00:00|13-04-2021
+Pavel N. Krivitsky|[Revisiting Bayesian Autoencoders with MCMC](http://arxiv.org/abs/2104.05915v1)|2021-04-13 03:23:07+00:00|13-04-2021
+Ben Glocker|[Spatially Varying Label Smoothing: Capturing Uncertainty from Expert   Annotations](http://arxiv.org/abs/2104.05788v1)|2021-04-12 19:35:51+00:00|12-04-2021
+ST John|[GPflux: A Library for Deep Gaussian Processes](http://arxiv.org/abs/2104.05674v1)|2021-04-12 17:41:18+00:00|12-04-2021
+Seong Jae Hwang|[PAC Bayesian Performance Guarantees for Deep (Stochastic) Networks in   Medical Imaging](http://arxiv.org/abs/2104.05600v1)|2021-04-12 16:21:07+00:00|12-04-2021
+Toby P. Breckon|[UNIT-DDPM: UNpaired Image Translation with Denoising Diffusion   Probabilistic Models](http://arxiv.org/abs/2104.05358v1)|2021-04-12 11:22:56+00:00|12-04-2021
+Romis Attux|[COVID-19 detection using chest X-rays: is lung segmentation important   for generalization?](http://arxiv.org/abs/2104.06176v1)|2021-04-12 09:06:28+00:00|12-04-2021
+Amit Ranjan Trivedi|[ENOS: Energy-Aware Network Operator Search for Hybrid Digital and   Compute-in-Memory DNN Accelerators](http://arxiv.org/abs/2104.05217v1)|2021-04-12 05:57:06+00:00|12-04-2021
+Alok Sharma|[Memory Capacity of Neural Turing Machines with Matrix Representation](http://arxiv.org/abs/2104.07454v1)|2021-04-11 23:43:28+00:00|11-04-2021
+Svetha Venkatesh|[ALT-MAS: A Data-Efficient Framework for Active Testing of Machine   Learning Algorithms](http://arxiv.org/abs/2104.04999v1)|2021-04-11 12:14:04+00:00|11-04-2021
+Chandra Sekhar Seelamantula|[DuRIN: A Deep-unfolded Sparse Seismic Reflectivity Inversion Network](http://arxiv.org/abs/2104.04704v1)|2021-04-10 07:49:38+00:00|10-04-2021
+Andrew McCallum|[Probabilistic Box Embeddings for Uncertain Knowledge Graph Reasoning](http://arxiv.org/abs/2104.04597v1)|2021-04-09 21:01:52+00:00|09-04-2021
+Alper Yilmaz|[Deep Transformer Networks for Time Series Classification: The NPP Safety   Case](http://arxiv.org/abs/2104.05448v2)|2021-04-18 12:41:36+00:00|09-04-2021
+Jukka Corander|[Approximate Bayesian inference from noisy likelihoods with Gaussian   process emulated MCMC](http://arxiv.org/abs/2104.03942v1)|2021-04-08 17:38:02+00:00|08-04-2021
+Gunar Schirner|[Multimodal Fusion of EMG and Vision for Human Grasp Intent Inference in   Prosthetic Hand Control](http://arxiv.org/abs/2104.03893v1)|2021-04-08 17:01:19+00:00|08-04-2021
+Joonhyuk Kang|[Bayesian Variational Federated Learning and Unlearning in Decentralized   Networks](http://arxiv.org/abs/2104.03834v1)|2021-04-08 15:18:35+00:00|08-04-2021
+Jiajun Wu|[3D Shape Generation and Completion through Point-Voxel Diffusion](http://arxiv.org/abs/2104.03670v2)|2021-04-11 22:11:25+00:00|08-04-2021
+Stephan Günnemann|[Neural Temporal Point Processes: A Review](http://arxiv.org/abs/2104.03528v4)|2021-05-07 18:35:19+00:00|08-04-2021
+Mohit Iyyer|[Revisiting Simple Neural Probabilistic Language Models](http://arxiv.org/abs/2104.03474v1)|2021-04-08 02:18:47+00:00|08-04-2021
+Hisashi Kawai|[Siamese Neural Network with Joint Bayesian Model Structure for Speaker   Verification](http://arxiv.org/abs/2104.03004v1)|2021-04-07 09:17:29+00:00|07-04-2021
+Ahmed Elsheikh|[Deep learning for prediction of complex geology ahead of drilling](http://arxiv.org/abs/2104.02550v1)|2021-04-06 14:42:33+00:00|06-04-2021
+Seungu Han|[NU-Wave: A Diffusion Probabilistic Model for Neural Audio Upsampling](http://arxiv.org/abs/2104.02321v1)|2021-04-06 06:52:53+00:00|06-04-2021
+Tao Xiang|[Domain Generalization with MixStyle](http://arxiv.org/abs/2104.02008v1)|2021-04-05 16:58:09+00:00|05-04-2021
+Joshua Tenenbaum|[Probabilistic Programming Bots in Intuitive Physics Game Play](http://arxiv.org/abs/2104.01980v1)|2021-04-05 16:14:41+00:00|05-04-2021
+Benjamin Peherstorfer|[Multilevel Stein variational gradient descent with applications to   Bayesian inverse problems](http://arxiv.org/abs/2104.01945v1)|2021-04-05 15:07:16+00:00|05-04-2021
+Maksim Jenihhin|[Modeling Gate-Level Abstraction Hierarchy Using Graph Convolutional   Neural Networks to Predict Functional De-Rating Factors](http://arxiv.org/abs/2104.01812v1)|2021-04-05 08:38:16+00:00|05-04-2021
+Karthik Narayan|[Fast Design Space Exploration of Nonlinear Systems: Part I](http://arxiv.org/abs/2104.01747v3)|2021-05-27 20:09:36+00:00|05-04-2021
+Mark Crowley|[Generative Locally Linear Embedding](http://arxiv.org/abs/2104.01525v1)|2021-04-04 02:59:39+00:00|04-04-2021
+Beilei Xu|[Neural Process for Black-Box Model Optimization Under Bayesian Framework](http://arxiv.org/abs/2104.02487v1)|2021-04-03 23:35:26+00:00|03-04-2021
+Sarang Joshi|[Physics Informed Convex Artificial Neural Networks (PICANNs) for Optimal   Transport based Density Estimation](http://arxiv.org/abs/2104.01194v1)|2021-04-02 18:44:11+00:00|02-04-2021
+Nam Ik Cho|[Variational Deep Image Denoising](http://arxiv.org/abs/2104.00965v1)|2021-04-02 10:10:11+00:00|02-04-2021
+Swayambhoo Jain|[Efficacy of Bayesian Neural Networks in Active Learning](http://arxiv.org/abs/2104.00896v2)|2021-04-19 22:19:53+00:00|02-04-2021
+Zhibo Chen|[Bayesian Graph Convolutional Network for Traffic Prediction](http://arxiv.org/abs/2104.00488v1)|2021-04-01 14:19:37+00:00|01-04-2021
+Hongbin Zha|[Online Learning of a Probabilistic and Adaptive Scene Representation](http://arxiv.org/abs/2103.16832v1)|2021-03-31 06:22:05+00:00|31-03-2021
+Gerbrand Ceder|[A probabilistic deep learning approach to automate the interpretation of   multi-phase diffraction spectra](http://arxiv.org/abs/2103.16664v1)|2021-03-30 20:13:01+00:00|30-03-2021
+Andrew J. Davison|[SIMstack: A Generative Shape and Instance Model for Unordered Object   Stacks](http://arxiv.org/abs/2103.16442v1)|2021-03-30 15:42:43+00:00|30-03-2021
+Ian Simon|[Symbolic Music Generation with Diffusion Models](http://arxiv.org/abs/2103.16091v1)|2021-03-30 05:48:05+00:00|30-03-2021
+James Wallbridge|[Geometry of Program Synthesis](http://arxiv.org/abs/2103.16080v1)|2021-03-30 05:14:15+00:00|30-03-2021
+Chunyan Miao|[Noise-resistant Deep Metric Learning with Ranking-based Instance   Selection](http://arxiv.org/abs/2103.16047v2)|2021-04-12 04:16:11+00:00|30-03-2021
+Jonas Chaves-Montero|[Scalable Statistical Inference of Photometric Redshift via Data   Subsampling](http://arxiv.org/abs/2103.16041v2)|2021-04-01 14:52:37+00:00|30-03-2021
+Sebastian Risi|[Rapid Risk Minimization with Bayesian Models Through Deep Learning   Approximation](http://arxiv.org/abs/2103.15682v2)|2021-05-05 19:49:00+00:00|29-03-2021
+Byeong-hee Roh|[A Facial Feature Discovery Framework for Race Classification Using Deep   Learning](http://arxiv.org/abs/2104.02471v1)|2021-03-29 06:33:04+00:00|29-03-2021
+Hongbin Zha|[Generalizing to the Open World: Deep Visual Odometry with Online   Adaptation](http://arxiv.org/abs/2103.15279v1)|2021-03-29 02:13:56+00:00|29-03-2021
+Jun Zhu|[LiBRe: A Practical Bayesian Approach to Adversarial Detection](http://arxiv.org/abs/2103.14835v1)|2021-03-27 07:48:58+00:00|27-03-2021
+Jan Peters|[SKID RAW: Skill Discovery from Raw Trajectories](http://arxiv.org/abs/2103.14610v1)|2021-03-26 17:27:13+00:00|26-03-2021
+Cyril Morcrette|[A computationally efficient neural network for predicting weather   forecast probabilities](http://arxiv.org/abs/2103.14430v1)|2021-03-26 12:28:15+00:00|26-03-2021
+Roger Guimera|[Node metadata can produce predictability transitions in network   inference problems](http://arxiv.org/abs/2103.14424v1)|2021-03-26 12:08:07+00:00|26-03-2021
+Yixin Zhu|[Abstract Spatial-Temporal Reasoning via Probabilistic Abduction and   Execution](http://arxiv.org/abs/2103.14230v2)|2021-05-14 01:47:55+00:00|26-03-2021
+John Michael Galeotti|[Exploiting Class Similarity for Machine Learning with Confidence Labels   and Projective Loss Functions](http://arxiv.org/abs/2103.13607v1)|2021-03-25 04:49:44+00:00|25-03-2021
+Tianyi Lin|[A Variational Inequality Approach to Bayesian Regression Games](http://arxiv.org/abs/2103.13509v1)|2021-03-24 22:33:11+00:00|24-03-2021
+Georgios Tzimiropoulos|[Affective Processes: stochastic modelling of temporal context for   emotion and facial expression recognition](http://arxiv.org/abs/2103.13372v1)|2021-03-24 17:48:19+00:00|24-03-2021
+Bert de Vries|[On Sequential Bayesian Optimization with Pairwise Comparison](http://arxiv.org/abs/2103.13192v1)|2021-03-24 13:46:27+00:00|24-03-2021
+Santa Di Cataldo|[W2WNet: a two-module probabilistic Convolutional Neural Network with   embedded data cleansing functionality](http://arxiv.org/abs/2103.13107v1)|2021-03-24 11:28:59+00:00|24-03-2021
+Stefan Bauer|[Pyfectious: An individual-level simulator to discover optimal   containment polices for epidemic diseases](http://arxiv.org/abs/2103.15561v2)|2021-04-21 00:13:57+00:00|24-03-2021
+Md. Apel Mahmud|[A VAE-Based Bayesian Bidirectional LSTM for Renewable Energy Forecasting](http://arxiv.org/abs/2103.12969v1)|2021-03-24 03:47:20+00:00|24-03-2021
+Mihaly Petreczky|[PAC-Bayesian theory for stochastic LTI systems](http://arxiv.org/abs/2103.12866v2)|2021-03-25 19:08:41+00:00|23-03-2021
+Klaus Witrisal|[Multipath-based SLAM using Belief Propagation with Interacting Multiple   Dynamic Models](http://arxiv.org/abs/2103.12809v1)|2021-03-23 19:34:16+00:00|23-03-2021
+Ghyslain Gagnon|[Energy Disaggregation using Variational Autoencoders](http://arxiv.org/abs/2103.12177v1)|2021-03-22 20:53:36+00:00|22-03-2021
+Ajit Rajwade|[Recovery of Joint Probability Distribution from one-way marginals: Low   rank Tensors and Random Projections](http://arxiv.org/abs/2103.11864v2)|2021-03-24 11:40:42+00:00|22-03-2021
+Antti Honkela|[d3p -- A Python Package for Differentially-Private Probabilistic   Programming](http://arxiv.org/abs/2103.11648v1)|2021-03-22 08:15:58+00:00|22-03-2021
+Ling Shao|[Variational Knowledge Distillation for Disease Classification in Chest   X-Rays](http://arxiv.org/abs/2103.10825v1)|2021-03-19 14:13:56+00:00|19-03-2021
+Vincent Adam|[Sparse Algorithms for Markovian Gaussian Processes](http://arxiv.org/abs/2103.10710v1)|2021-03-19 09:50:53+00:00|19-03-2021
+Hong Zhang|[GNAS: A Generalized Neural Network Architecture Search Framework](http://arxiv.org/abs/2103.11820v5)|2021-04-08 06:42:34+00:00|19-03-2021
+Konstantinos C. Zygalakis|[Bayesian Imaging With Data-Driven Priors Encoded by Neural Networks:   Theory, Methods, and Algorithms](http://arxiv.org/abs/2103.10182v1)|2021-03-18 11:34:08+00:00|18-03-2021
+Philipp Hennig|[A Probabilistic State Space Model for Joint Inference from Differential   Equations and Data](http://arxiv.org/abs/2103.10153v1)|2021-03-18 10:36:09+00:00|18-03-2021
+Nicholas D. Sidiropoulos|[Probabilistic Simplex Component Analysis](http://arxiv.org/abs/2103.10027v1)|2021-03-18 05:39:00+00:00|18-03-2021
+
 ## 18-03-2021
 
 main_author|title|update_date|publish_date
