@@ -1,5 +1,17 @@
 # interpretable
 Click on title for link to paper
+## 04-06-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Baobao Chang|[SIRE: Separate Intra- and Inter-sentential Reasoning for Document-level   Relation Extraction](http://arxiv.org/abs/2106.01709v1)|2021-06-03 09:25:44+00:00|03-06-2021
+Mohit Bansal|[multiPRover: Generating Multiple Proofs for Improved Interpretability in   Rule Reasoning](http://arxiv.org/abs/2106.01354v1)|2021-06-02 17:58:35+00:00|02-06-2021
+Soujanya Poria|[CIDER: Commonsense Inference for Dialogue Explanation and Reasoning](http://arxiv.org/abs/2106.00510v1)|2021-06-01 14:14:46+00:00|01-06-2021
+Paolo Bajardi|[To trust or not to trust an explanation: using LEAF to evaluate local   linear XAI methods](http://arxiv.org/abs/2106.00461v1)|2021-06-01 13:14:12+00:00|01-06-2021
+Rosalind W. Picard|[DISSECT: Disentangled Simultaneous Explanations via Concept Traversals](http://arxiv.org/abs/2105.15164v1)|2021-05-31 17:11:56+00:00|31-05-2021
+Pierre Blanchart|[An exact counterfactual-example-based approach to tree-ensemble models   interpretability](http://arxiv.org/abs/2105.14820v1)|2021-05-31 09:32:46+00:00|31-05-2021
+Lexing Ying|[Combining resampling and reweighting for faithful stochastic   optimization](http://arxiv.org/abs/2105.14694v1)|2021-05-31 04:21:25+00:00|31-05-2021
+
 ## 31-05-2021
 
 main_author|title|update_date|publish_date

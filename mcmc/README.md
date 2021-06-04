@@ -1,5 +1,21 @@
 # mcmc
 Click on title for link to paper
+## 04-06-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Maarten de Rijke|[Probabilistic Gradient Boosting Machines for Large-Scale Probabilistic   Regression](http://arxiv.org/abs/2106.01682v1)|2021-06-03 08:32:13+00:00|03-06-2021
+Irwin King|[Self-Training Sampling with Monolingual Data Uncertainty for Neural   Machine Translation](http://arxiv.org/abs/2106.00941v1)|2021-06-02 05:01:36+00:00|02-06-2021
+Hiroshi Kajino|[A Differentiable Point Process with Its Application to Spiking Neural   Networks](http://arxiv.org/abs/2106.00901v2)|2021-06-03 07:15:32+00:00|02-06-2021
+Axel Wismuller|[Leveraging Pre-Images to Discover Nonlinear Relationships in   Multivariate Environments](http://arxiv.org/abs/2106.00842v1)|2021-06-01 22:42:51+00:00|01-06-2021
+Eric Moulines|[QLSD: Quantised Langevin stochastic dynamics for Bayesian federated   learning](http://arxiv.org/abs/2106.00797v1)|2021-06-01 21:08:54+00:00|01-06-2021
+Kristofer Bouchard|[Collaborative Nonstationary Multivariate Gaussian Process Model](http://arxiv.org/abs/2106.00719v1)|2021-06-01 18:25:22+00:00|01-06-2021
+Jimeng Sun|[Locally Valid and Discriminative Confidence Intervals for Deep Learning   Models](http://arxiv.org/abs/2106.00225v1)|2021-06-01 04:39:56+00:00|01-06-2021
+Daniel T. Chang|[Probabilistic Deep Learning with Probabilistic Neural Networks and Deep   Probabilistic Models](http://arxiv.org/abs/2106.00120v2)|2021-06-02 00:45:23+00:00|31-05-2021
+Jianming Yang|[Meta-HAR: Federated Representation Learning for Human Activity   Recognition](http://arxiv.org/abs/2106.00615v1)|2021-05-31 11:04:39+00:00|31-05-2021
+Jae Oh Woo|[BABA: Beta Approximation for Bayesian Active Learning](http://arxiv.org/abs/2105.14559v1)|2021-05-30 14:49:10+00:00|30-05-2021
+Wei Deng|[Information Directed Sampling for Sparse Linear Bandits](http://arxiv.org/abs/2105.14267v1)|2021-05-29 10:26:23+00:00|29-05-2021
+
 ## 31-05-2021
 
 main_author|title|update_date|publish_date

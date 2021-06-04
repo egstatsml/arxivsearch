@@ -1,5 +1,34 @@
 # bnn
 Click on title for link to paper
+## 04-06-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+David Leslie|[Gaussian Processes on Hypergraphs](http://arxiv.org/abs/2106.01982v1)|2021-06-03 16:58:05+00:00|03-06-2021
+Jianeng Xu|[Bayesian Inference for Gamma Models](http://arxiv.org/abs/2106.01906v1)|2021-06-03 14:58:39+00:00|03-06-2021
+Andrej Risteski|[The Limitations of Limited Context for Constituency Parsing](http://arxiv.org/abs/2106.01580v1)|2021-06-03 03:58:35+00:00|03-06-2021
+Aaron Roodman|[Inferring Black Hole Properties from Astronomical Multivariate Time   Series with Bayesian Attentive Neural Processes](http://arxiv.org/abs/2106.01450v1)|2021-06-02 20:17:31+00:00|02-06-2021
+Gozde Unal|[Evidential Turing Processes](http://arxiv.org/abs/2106.01216v1)|2021-06-02 15:09:20+00:00|02-06-2021
+Aditya Grover|[JUMBO: Scalable Multi-task Bayesian Optimization using Offline Data](http://arxiv.org/abs/2106.00942v1)|2021-06-02 05:03:38+00:00|02-06-2021
+Hiroshi Kajino|[A Differentiable Point Process with Its Application to Spiking Neural   Networks](http://arxiv.org/abs/2106.00901v2)|2021-06-03 07:15:32+00:00|02-06-2021
+Eric Moulines|[QLSD: Quantised Langevin stochastic dynamics for Bayesian federated   learning](http://arxiv.org/abs/2106.00797v1)|2021-06-01 21:08:54+00:00|01-06-2021
+Cengiz Pehlevan|[Asymptotics of representation learning in finite Bayesian neural   networks](http://arxiv.org/abs/2106.00651v1)|2021-06-01 17:30:30+00:00|01-06-2021
+Beate Sick|[Transformation Models for Flexible Posteriors in Variational Bayes](http://arxiv.org/abs/2106.00528v1)|2021-06-01 14:43:47+00:00|01-06-2021
+Antti Honkela|[Gaussian Processes with Differential Privacy](http://arxiv.org/abs/2106.00474v1)|2021-06-01 13:23:16+00:00|01-06-2021
+Gaël Varoquaux|[What's a good imputation to predict with missing values?](http://arxiv.org/abs/2106.00311v1)|2021-06-01 08:40:30+00:00|01-06-2021
+Hitoshi Kiya|[Separated-Spectral-Distribution Estimation Based on Bayesian Inference   with Single RGB Camera](http://arxiv.org/abs/2106.01861v1)|2021-06-01 08:31:47+00:00|01-06-2021
+Osvaldo Simeone|[A unified PAC-Bayesian framework for machine unlearning via information   risk minimization](http://arxiv.org/abs/2106.00265v1)|2021-06-01 06:55:37+00:00|01-06-2021
+Osvaldo Simeone|[Information-Theoretic Analysis of Epistemic Uncertainty in Bayesian   Meta-learning](http://arxiv.org/abs/2106.00252v1)|2021-06-01 06:23:12+00:00|01-06-2021
+Jimeng Sun|[Locally Valid and Discriminative Confidence Intervals for Deep Learning   Models](http://arxiv.org/abs/2106.00225v1)|2021-06-01 04:39:56+00:00|01-06-2021
+Daniel T. Chang|[Probabilistic Deep Learning with Probabilistic Neural Networks and Deep   Probabilistic Models](http://arxiv.org/abs/2106.00120v2)|2021-06-02 00:45:23+00:00|31-05-2021
+Itsik Pe'er|[Variational Combinatorial Sequential Monte Carlo Methods for Bayesian   Phylogenetic Inference](http://arxiv.org/abs/2106.00075v1)|2021-05-31 19:44:24+00:00|31-05-2021
+Yao Xie|[Early Detection of COVID-19 Hotspots Using Spatio-Temporal Data](http://arxiv.org/abs/2106.00072v1)|2021-05-31 19:28:17+00:00|31-05-2021
+Lingpeng Kong|[Cascaded Head-colliding Attention](http://arxiv.org/abs/2105.14850v1)|2021-05-31 10:06:42+00:00|31-05-2021
+Heinz Koeppl|[Active Learning of Continuous-time Bayesian Networks through   Interventions](http://arxiv.org/abs/2105.14742v1)|2021-05-31 07:13:50+00:00|31-05-2021
+Saibal Mukhopadhyay|[Characterization of Generalizability of Spike Time Dependent Plasticity   trained Spiking Neural Networks](http://arxiv.org/abs/2105.14677v1)|2021-05-31 02:19:06+00:00|31-05-2021
+Yingzhen Li|[Sparse Uncertainty Representation in Deep Learning with Inducing Weights](http://arxiv.org/abs/2105.14594v1)|2021-05-30 18:17:47+00:00|30-05-2021
+Matthew B. Blaschko|[Greedy Bayesian Posterior Approximation with Deep Ensembles](http://arxiv.org/abs/2105.14275v2)|2021-06-01 07:29:42+00:00|29-05-2021
+
 ## 31-05-2021
 
 main_author|title|update_date|publish_date
