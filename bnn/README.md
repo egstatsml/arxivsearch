@@ -1,5 +1,52 @@
 # bnn
 Click on title for link to paper
+## 14-06-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Mauricio A. Álvarez|[Compositional Modeling of Nonlinear Dynamical Systems with ODE-based   Random Features](http://arxiv.org/abs/2106.05960v1)|2021-06-10 17:55:13+00:00|10-06-2021
+Taufiq Hasan|[Anatomy X-Net: A Semi-Supervised Anatomy Aware Convolutional Neural   Network for Thoracic Disease Classification](http://arxiv.org/abs/2106.05915v1)|2021-06-10 17:01:23+00:00|10-06-2021
+Minh-Ngoc Tran|[Quantum Natural Gradient for Variational Bayes](http://arxiv.org/abs/2106.05807v1)|2021-06-10 15:15:07+00:00|10-06-2021
+Julia E. Vogt|[A Deep Variational Approach to Clustering Survival Data](http://arxiv.org/abs/2106.05763v1)|2021-06-10 14:10:25+00:00|10-06-2021
+Cedric Archambeau|[A multi-objective perspective on jointly tuning hardware and   hyperparameters](http://arxiv.org/abs/2106.05680v1)|2021-06-10 11:52:55+00:00|10-06-2021
+Laurence Aitchison|[Data augmentation in Bayesian neural networks and the cold posterior   effect](http://arxiv.org/abs/2106.05586v1)|2021-06-10 08:39:10+00:00|10-06-2021
+Mauricio A. Álvarez|[Learning Nonparametric Volterra Kernels with Gaussian Processes](http://arxiv.org/abs/2106.05582v1)|2021-06-10 08:21:00+00:00|10-06-2021
+Johann Pfitzinger|[An Interpretable Neural Network for Parameter Inference](http://arxiv.org/abs/2106.05536v1)|2021-06-10 06:56:01+00:00|10-06-2021
+Stefano Markidis|[StreamBrain: An HPC Framework for Brain-like Neural Networks on CPUs,   GPUs and FPGAs](http://arxiv.org/abs/2106.05373v1)|2021-06-09 20:28:18+00:00|09-06-2021
+Mingyuan Zhou|[Bayesian Attention Belief Networks](http://arxiv.org/abs/2106.05251v1)|2021-06-09 17:46:22+00:00|09-06-2021
+Mihai Cucuringu|[DIGRAC: Digraph Clustering with Flow Imbalance](http://arxiv.org/abs/2106.05194v1)|2021-06-09 16:33:13+00:00|09-06-2021
+Shimon Whiteson|[Bayesian Bellman Operators](http://arxiv.org/abs/2106.05012v2)|2021-06-10 16:29:13+00:00|09-06-2021
+Masashi Sugiyama|[Loss function based second-order Jensen inequality and its application   to particle variational inference](http://arxiv.org/abs/2106.05010v2)|2021-06-10 00:43:30+00:00|09-06-2021
+Tom Rainforth|[Expectation Programming](http://arxiv.org/abs/2106.04953v1)|2021-06-09 09:57:18+00:00|09-06-2021
+Remy Kusters|[Fully differentiable model discovery](http://arxiv.org/abs/2106.04886v1)|2021-06-09 08:11:23+00:00|09-06-2021
+Elisabeth Bergherr|[Bayesian Boosting for Linear Mixed Models](http://arxiv.org/abs/2106.04862v1)|2021-06-09 07:40:00+00:00|09-06-2021
+Jun Zhu|[Nonlinear Hawkes Processes in Time-Varying System](http://arxiv.org/abs/2106.04844v1)|2021-06-09 07:06:05+00:00|09-06-2021
+Gustavo Carneiro|[Probabilistic task modelling for meta-learning](http://arxiv.org/abs/2106.04802v1)|2021-06-09 04:34:12+00:00|09-06-2021
+Haifeng Xu|[Diffusion Source Identification on Networks with Statistical Confidence](http://arxiv.org/abs/2106.04800v1)|2021-06-09 04:21:03+00:00|09-06-2021
+Mathijs de Weerdt|[EXPObench: Benchmarking Surrogate-based Optimisation Algorithms on   Expensive Black-box Functions](http://arxiv.org/abs/2106.04618v1)|2021-06-08 18:17:42+00:00|08-06-2021
+Laurent Besacier|[Unsupervised Word Segmentation from Discrete Speech Units in   Low-Resource Settings](http://arxiv.org/abs/2106.04298v1)|2021-06-08 12:50:37+00:00|08-06-2021
+Kristian Kersting|[RECOWNs: Probabilistic Circuits for Trustworthy Time Series Forecasting](http://arxiv.org/abs/2106.04148v1)|2021-06-08 07:32:12+00:00|08-06-2021
+George Em Karniadakis|[Learning Functional Priors and Posteriors from Data and Physics](http://arxiv.org/abs/2106.05863v1)|2021-06-08 03:03:24+00:00|08-06-2021
+B. Aditya Prakash|[When in Doubt: Neural Non-Parametric Uncertainty Quantification for   Epidemic Forecasting](http://arxiv.org/abs/2106.03904v1)|2021-06-07 18:31:47+00:00|07-06-2021
+Dorothea Kolossa|[PILOT: Introducing Transformers for Probabilistic Sound Event   Localization](http://arxiv.org/abs/2106.03903v1)|2021-06-07 18:29:19+00:00|07-06-2021
+William Chan|[Learning to Efficiently Sample from Diffusion Probabilistic Models](http://arxiv.org/abs/2106.03802v1)|2021-06-07 17:15:07+00:00|07-06-2021
+Haitham Bou-Ammar|[High-Dimensional Bayesian Optimisation with Variational Autoencoders and   Deep Metric Learning](http://arxiv.org/abs/2106.03609v1)|2021-06-07 13:35:47+00:00|07-06-2021
+Torsten Hoefler|[Learning Combinatorial Node Labeling Algorithms](http://arxiv.org/abs/2106.03594v1)|2021-06-07 13:21:09+00:00|07-06-2021
+Dino Sejdinovic|[BayesIMP: Uncertainty Quantification for Causal Data Fusion](http://arxiv.org/abs/2106.03477v1)|2021-06-07 10:14:18+00:00|07-06-2021
+Florian Tramèr|[Antipodes of Label Differential Privacy: PATE and ALIBI](http://arxiv.org/abs/2106.03408v1)|2021-06-07 08:14:32+00:00|07-06-2021
+Lionel Ott|[Stein ICP for Uncertainty Estimation in Point Cloud Matching](http://arxiv.org/abs/2106.03287v1)|2021-06-07 01:07:34+00:00|07-06-2021
+Christopher K. I. Williams|[On Memorization in Probabilistic Deep Generative Models](http://arxiv.org/abs/2106.03216v1)|2021-06-06 19:33:04+00:00|06-06-2021
+Andreas Krause|[Meta-Learning Reliable Priors in the Function Space](http://arxiv.org/abs/2106.03195v1)|2021-06-06 18:07:49+00:00|06-06-2021
+Young D. Kwon|[Knowing when we do not know: Bayesian continual learning for   sensing-based analysis tasks](http://arxiv.org/abs/2106.05872v1)|2021-06-06 13:45:06+00:00|06-06-2021
+Ioannis Kontoyiannis|[Hierarchical Bayesian Mixture Models for Time Series Using Context Trees   as State Space Partitions](http://arxiv.org/abs/2106.03023v1)|2021-06-06 03:46:49+00:00|06-06-2021
+Shohei Ohsawa|[Unbiased Self-Play](http://arxiv.org/abs/2106.03007v1)|2021-06-06 02:16:45+00:00|06-06-2021
+Deyu Meng|[A Deep Variational Bayesian Framework for Blind Image Deblurring](http://arxiv.org/abs/2106.02884v1)|2021-06-05 12:47:36+00:00|05-06-2021
+Rose Yu|[Accelerating Stochastic Simulation with Interactive Neural Processes](http://arxiv.org/abs/2106.02770v1)|2021-06-05 01:31:51+00:00|05-06-2021
+Shucheng Yu|[BO-DBA: Query-Efficient Decision-Based Adversarial Attacks via Bayesian   Optimization](http://arxiv.org/abs/2106.02732v1)|2021-06-04 21:46:37+00:00|04-06-2021
+Mario Rotea|[Probabilistic Neural Network to Quantify Uncertainty of Wind Power   Estimation](http://arxiv.org/abs/2106.04656v1)|2021-06-04 19:15:53+00:00|04-06-2021
+Guy Van den Broeck|[Tractable Regularization of Probabilistic Circuits](http://arxiv.org/abs/2106.02264v1)|2021-06-04 05:11:13+00:00|04-06-2021
+Soumyabrata Pal|[Fuzzy Clustering with Similarity Queries](http://arxiv.org/abs/2106.02212v1)|2021-06-04 02:32:26+00:00|04-06-2021
+
 ## 04-06-2021
 
 main_author|title|update_date|publish_date

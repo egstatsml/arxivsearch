@@ -1,5 +1,17 @@
 # interpretable
 Click on title for link to paper
+## 14-06-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Roberto Prevete|[A general approach for Explanations in terms of Middle Level Features](http://arxiv.org/abs/2106.05037v1)|2021-06-09 12:51:40+00:00|09-06-2021
+Patrick Shafto|[Explainable AI for medical imaging: Explaining pneumothorax diagnoses   with Bayesian Teaching](http://arxiv.org/abs/2106.04684v1)|2021-06-08 20:49:11+00:00|08-06-2021
+Marie-Francine Moens|[Giving Commands to a Self-Driving Car: How to Deal with Uncertain   Situations?](http://arxiv.org/abs/2106.04232v1)|2021-06-08 10:21:11+00:00|08-06-2021
+Mateusz Malinowski|[Measuring and Improving BERT's Mathematical Abilities by Predicting the   Order of Reasoning](http://arxiv.org/abs/2106.03921v1)|2021-06-07 19:08:29+00:00|07-06-2021
+James Tittle|[Explainable Artificial Intelligence (XAI) for Increasing User Trust in   Deep Reinforcement Learning Driven Autonomous Systems](http://arxiv.org/abs/2106.03775v1)|2021-06-07 16:38:43+00:00|07-06-2021
+Hai Jin|[Semantic and Syntactic Enhanced Aspect Sentiment Triplet Extraction](http://arxiv.org/abs/2106.03315v1)|2021-06-07 03:16:51+00:00|07-06-2021
+Tong Wang|[A Holistic Approach to Interpretability in Financial Lending: Models,   Visualizations, and Summary-Explanations](http://arxiv.org/abs/2106.02605v1)|2021-06-04 17:05:25+00:00|04-06-2021
+
 ## 04-06-2021
 
 main_author|title|update_date|publish_date
