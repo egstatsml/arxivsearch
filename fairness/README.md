@@ -1,5 +1,106 @@
 # fairness
 Click on title for link to paper
+## 25-06-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Hima Lakkaraju|[Feature Attributions and Counterfactual Explanations Can Be Manipulated](http://arxiv.org/abs/2106.12563v1)|2021-06-23 17:43:31+00:00|23-06-2021
+David Ouyang|[High-Throughput Precision Phenotyping of Left Ventricular Hypertrophy   with Cardiovascular Deep Learning](http://arxiv.org/abs/2106.12511v1)|2021-06-23 16:28:40+00:00|23-06-2021
+Andrew P. King|[Fairness in Cardiac MR Image Analysis: An Investigation of Bias Due to   Data Imbalance in Deep Learning Based Segmentation](http://arxiv.org/abs/2106.12387v1)|2021-06-23 13:27:35+00:00|23-06-2021
+Hang Zhao|[Co-advise: Cross Inductive Bias Distillation](http://arxiv.org/abs/2106.12378v1)|2021-06-23 13:19:59+00:00|23-06-2021
+Alexander Keller|[Real-time Neural Radiance Caching for Path Tracing](http://arxiv.org/abs/2106.12372v1)|2021-06-23 13:09:58+00:00|23-06-2021
+Gilles Stoltz|[A Unified Approach to Fair Online Learning via Blackwell Approachability](http://arxiv.org/abs/2106.12242v1)|2021-06-23 09:00:12+00:00|23-06-2021
+Lorenzo Rosasco|[ParK: Sound and Efficient Kernel Ridge Regression by Feature Space   Partitions](http://arxiv.org/abs/2106.12231v1)|2021-06-23 08:24:36+00:00|23-06-2021
+Eric Price|[Fairness for Image Generation with Uncertain Sensitive Attributes](http://arxiv.org/abs/2106.12182v1)|2021-06-23 06:17:17+00:00|23-06-2021
+Maryam Negahbani|[Better Algorithms for Individually Fair $k$-Clustering](http://arxiv.org/abs/2106.12150v1)|2021-06-23 04:16:46+00:00|23-06-2021
+Chenhao Tan|[On Positivity Bias in Negative Reviews](http://arxiv.org/abs/2106.12056v1)|2021-06-22 21:04:25+00:00|22-06-2021
+José Luis González-Álvarez|[Machine learning for risk assessment in gender-based crime](http://arxiv.org/abs/2106.11847v1)|2021-06-22 15:05:20+00:00|22-06-2021
+Christoph H. Lampert|[FLEA: Provably Fair Multisource Learning from Unreliable Training Data](http://arxiv.org/abs/2106.11732v1)|2021-06-22 13:09:45+00:00|22-06-2021
+Dennis G. Wilson|[On Constrained Optimization in Differentiable Neural Architecture Search](http://arxiv.org/abs/2106.11655v1)|2021-06-22 10:22:31+00:00|22-06-2021
+Mayank Singh|[On Adversarial Robustness of Synthetic Code Generation](http://arxiv.org/abs/2106.11629v1)|2021-06-22 09:37:48+00:00|22-06-2021
+Bahram Sadeghi Bigham|[Creating A New Color Space utilizing PSO and FCM to Perform Skin   Detection by using Neural Network and ANFIS](http://arxiv.org/abs/2106.11563v1)|2021-06-22 06:41:33+00:00|22-06-2021
+Shaunak Chatterjee|[Feedback Shaping: A Modeling Approach to Nurture Content Creation](http://arxiv.org/abs/2106.11312v1)|2021-06-21 22:53:16+00:00|21-06-2021
+Hang Zhao|[Improving Multi-Modal Learning with Uni-Modal Teachers](http://arxiv.org/abs/2106.11059v1)|2021-06-21 12:46:47+00:00|21-06-2021
+Andrew Chi-Chih Yao|[FedCM: Federated Learning with Client-level Momentum](http://arxiv.org/abs/2106.10874v1)|2021-06-21 06:16:19+00:00|21-06-2021
+Christos Thrampoulidis|[Benign Overfitting in Multiclass Classification: All Roads Lead to   Interpolation](http://arxiv.org/abs/2106.10865v1)|2021-06-21 05:34:36+00:00|21-06-2021
+Shiming Ge|[Interpretable Face Manipulation Detection via Feature Whitening](http://arxiv.org/abs/2106.10834v1)|2021-06-21 03:51:43+00:00|21-06-2021
+Stefanie Roos|[Is Shapley Value fair? Improving Client Selection for Mavericks in   Federated Learning](http://arxiv.org/abs/2106.10734v1)|2021-06-20 18:01:15+00:00|20-06-2021
+Narayanan C. Krishnan|[Task Attended Meta-Learning for Few-Shot Learning](http://arxiv.org/abs/2106.10642v1)|2021-06-20 07:34:37+00:00|20-06-2021
+Eunho Lee|[One-to-many Approach for Improving Super-Resolution](http://arxiv.org/abs/2106.10437v2)|2021-06-22 01:25:11+00:00|19-06-2021
+Peihan Qi|[Parallel frequency function-deep neural network for efficient complex   broadband signal approximation](http://arxiv.org/abs/2106.10401v1)|2021-06-19 01:39:13+00:00|19-06-2021
+Jiapeng Zhang|[Towards a Query-Optimal and Time-Efficient Algorithm for Clustering with   a Faulty Oracle](http://arxiv.org/abs/2106.10374v1)|2021-06-18 22:20:12+00:00|18-06-2021
+Erhan Oztop|[High-level Features for Resource Economy and Fast Learning in Skill   Transfer](http://arxiv.org/abs/2106.10354v1)|2021-06-18 21:05:21+00:00|18-06-2021
+Lucas Beyer|[How to train your ViT? Data, Augmentation, and Regularization in Vision   Transformers](http://arxiv.org/abs/2106.10270v1)|2021-06-18 17:58:20+00:00|18-06-2021
+Yoav Goldberg|[BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based   Masked Language-models](http://arxiv.org/abs/2106.10199v2)|2021-06-22 17:02:36+00:00|18-06-2021
+Boris Hanin|[The Principles of Deep Learning Theory](http://arxiv.org/abs/2106.10165v1)|2021-06-18 15:00:00+00:00|18-06-2021
+Ma Kede|[Debiased Subjective Assessment of Real-World Image Enhancement](http://arxiv.org/abs/2106.10080v2)|2021-06-21 03:42:52+00:00|18-06-2021
+Yi Ma|[Learning and Meshing from Deep Implicit Surface Networks Using an   Efficient Implementation of Analytic Marching](http://arxiv.org/abs/2106.10031v1)|2021-06-18 10:06:28+00:00|18-06-2021
+Hongseok Yang|[$α$-Stable convergence of heavy-tailed infinitely-wide neural   networks](http://arxiv.org/abs/2106.11064v1)|2021-06-18 01:36:41+00:00|18-06-2021
+Alexander Gray|[LNN-EL: A Neuro-Symbolic Approach to Short-text Entity Linking](http://arxiv.org/abs/2106.09795v1)|2021-06-17 20:22:45+00:00|17-06-2021
+Victor Chernozhukov|[Causal Bias Quantification for Continuous Treatment](http://arxiv.org/abs/2106.09762v1)|2021-06-17 18:44:48+00:00|17-06-2021
+Xiaodan Liang|[Prototypical Graph Contrastive Learning](http://arxiv.org/abs/2106.09645v1)|2021-06-17 16:45:31+00:00|17-06-2021
+Jon Kleinberg|[Optimality and Stability in Federated Learning: A Game-theoretic   Approach](http://arxiv.org/abs/2106.09580v1)|2021-06-17 15:03:51+00:00|17-06-2021
+Nicolas Flammarion|[Implicit Bias of SGD for Diagonal Linear Networks: a Provable Benefit of   Stochasticity](http://arxiv.org/abs/2106.09524v1)|2021-06-17 14:16:04+00:00|17-06-2021
+Aaron Sidford|[Stochastic Bias-Reduced Gradient Methods](http://arxiv.org/abs/2106.09481v1)|2021-06-17 13:33:05+00:00|17-06-2021
+Léon Bottou|[Algorithmic Bias and Data Bias: Understanding the Relation between   Distributionally Robust Optimization and Data Curation](http://arxiv.org/abs/2106.09467v1)|2021-06-17 13:18:03+00:00|17-06-2021
+Shuguang Cui|[Towards Heterogeneous Clients with Elastic Federated Learning](http://arxiv.org/abs/2106.09433v1)|2021-06-17 12:30:40+00:00|17-06-2021
+Arnab Bhattacharyya|[Identifiability of AMP chain graph models](http://arxiv.org/abs/2106.09350v1)|2021-06-17 10:09:30+00:00|17-06-2021
+Jianxin Wu|[A Random CNN Sees Objects: One Inductive Bias of CNN and Its   Applications](http://arxiv.org/abs/2106.09259v1)|2021-06-17 06:07:49+00:00|17-06-2021
+Himabindu Lakkaraju|[Towards a Rigorous Theoretical Analysis and Evaluation of GNN   Explanations](http://arxiv.org/abs/2106.09078v1)|2021-06-16 18:38:30+00:00|16-06-2021
+Sebastian Gehrmann|[Automatic Construction of Evaluation Suites for Natural Language   Generation Datasets](http://arxiv.org/abs/2106.09069v1)|2021-06-16 18:20:58+00:00|16-06-2021
+Brian Hartman|[mSHAP: SHAP Values for Two-Part Models](http://arxiv.org/abs/2106.08990v1)|2021-06-16 17:45:07+00:00|16-06-2021
+Xia Hu|[Model-Based Counterfactual Synthesizer for Interpretation](http://arxiv.org/abs/2106.08971v1)|2021-06-16 17:09:57+00:00|16-06-2021
+Yann Ollivier|[Unbiased Methods for Multi-Goal Reinforcement Learning](http://arxiv.org/abs/2106.08863v1)|2021-06-16 15:31:51+00:00|16-06-2021
+Ralph Ewerth|[A Fair and Comprehensive Comparison of Multimodal Tweet Sentiment   Analysis Methods](http://arxiv.org/abs/2106.08829v1)|2021-06-16 14:44:48+00:00|16-06-2021
+Peter J. Rousseeuw|[Silhouettes and quasi residual plots for neural nets and tree-based   classifiers](http://arxiv.org/abs/2106.08814v1)|2021-06-16 14:26:31+00:00|16-06-2021
+Han Zhao|[Costs and Benefits of Wasserstein Fair Regression](http://arxiv.org/abs/2106.08812v1)|2021-06-16 14:24:44+00:00|16-06-2021
+Sanjay Singh|[Evaluating Gender Bias in Hindi-English Machine Translation](http://arxiv.org/abs/2106.08680v1)|2021-06-16 10:35:51+00:00|16-06-2021
+Saee Paliwal|[Directed Graph Embeddings in Pseudo-Riemannian Manifolds](http://arxiv.org/abs/2106.08678v1)|2021-06-16 10:31:37+00:00|16-06-2021
+Francesco Bonchi|[Maxmin-Fair Ranking: Individual Fairness under Group-Fairness   Constraints](http://arxiv.org/abs/2106.08652v2)|2021-06-17 09:10:05+00:00|16-06-2021
+Matthieu Wyart|[Locality defeats the curse of dimensionality in convolutional   teacher-student scenarios](http://arxiv.org/abs/2106.08619v1)|2021-06-16 08:27:31+00:00|16-06-2021
+Olga Russakovsky|[Understanding and Evaluating Racial Biases in Image Captioning](http://arxiv.org/abs/2106.08503v1)|2021-06-16 01:07:24+00:00|16-06-2021
+Juan Lavista Ferres|[An Analysis of the Deployment of Models Trained on Private Tabular   Synthetic Data: Unexpected Surprises](http://arxiv.org/abs/2106.10241v1)|2021-06-15 21:00:57+00:00|15-06-2021
+Yoshua Bengio|[Predicting Unreliable Predictions by Shattering a Neural Network](http://arxiv.org/abs/2106.08365v1)|2021-06-15 18:34:41+00:00|15-06-2021
+Julia Stoyanovich|[Fairness as Equality of Opportunity: Normative Guidance from Political   Philosophy](http://arxiv.org/abs/2106.08259v1)|2021-06-15 16:07:58+00:00|15-06-2021
+Aaron Sim|[Contrastive Mixture of Posteriors for Counterfactual Inference, Data   Integration and Fairness](http://arxiv.org/abs/2106.08161v1)|2021-06-15 14:04:55+00:00|15-06-2021
+Giovanni Apruzzese|[On the Evaluation of Sequential Machine Learning for Network Intrusion   Detection](http://arxiv.org/abs/2106.07961v1)|2021-06-15 08:29:28+00:00|15-06-2021
+Ziliang Zong|[Simon Says: Evaluating and Mitigating Bias in Pruned Neural Networks   with Knowledge Distillation](http://arxiv.org/abs/2106.07849v1)|2021-06-15 02:59:32+00:00|15-06-2021
+Virginia Smith|[On Large-Cohort Training for Federated Learning](http://arxiv.org/abs/2106.07820v1)|2021-06-15 00:40:40+00:00|15-06-2021
+Mark Braverman|[Optimization-friendly generic mechanisms without money](http://arxiv.org/abs/2106.07752v1)|2021-06-14 20:42:23+00:00|14-06-2021
+Geoffrey H. Tison|[CathAI: Fully Automated Interpretation of Coronary Angiograms Using   Neural Networks](http://arxiv.org/abs/2106.07708v1)|2021-06-14 18:58:09+00:00|14-06-2021
+Yaron Lipman|[Phase Transitions, Distance Functions, and Implicit Neural   Representations](http://arxiv.org/abs/2106.07689v1)|2021-06-14 18:13:45+00:00|14-06-2021
+John Dickerson|[Planning to Fairly Allocate: Probabilistic Fairness in the Restless   Bandit Setting](http://arxiv.org/abs/2106.07677v1)|2021-06-14 18:01:08+00:00|14-06-2021
+Xu Xuesong|[MLPerf Tiny Benchmark](http://arxiv.org/abs/2106.07597v1)|2021-06-14 17:05:17+00:00|14-06-2021
+Satoshi Hara|[Characterizing the risk of fairwashing](http://arxiv.org/abs/2106.07504v1)|2021-06-14 15:33:17+00:00|14-06-2021
+Juan E. Gilbert|[Can Explainable AI Explain Unfairness? A Framework for Evaluating   Explainable AI](http://arxiv.org/abs/2106.07483v1)|2021-06-14 15:14:03+00:00|14-06-2021
+Pengxiang Xu|[NG+ : A Multi-Step Matrix-Product Natural Gradient Method for Deep   Learning](http://arxiv.org/abs/2106.07454v1)|2021-06-14 14:31:31+00:00|14-06-2021
+Jonathan D. Cohen|[A Self-Supervised Framework for Function Learning and Extrapolation](http://arxiv.org/abs/2106.07369v1)|2021-06-14 12:41:03+00:00|14-06-2021
+Julian Wargalla|[Coresets for constrained k-median and k-means clustering in low   dimensional Euclidean space](http://arxiv.org/abs/2106.07319v1)|2021-06-14 11:45:12+00:00|14-06-2021
+Yuhui Shi|[Evolutionary Robust Clustering Over Time for Temporal Data](http://arxiv.org/abs/2106.07252v1)|2021-06-14 09:07:42+00:00|14-06-2021
+Katsuhiko Hayashi|[Unified Interpretation of Softmax Cross-Entropy and Negative Sampling:   With Case Study for Knowledge Graph Embedding](http://arxiv.org/abs/2106.07250v1)|2021-06-14 09:07:02+00:00|14-06-2021
+John P. Dickerson|[Fair Clustering Under a Bounded Cost](http://arxiv.org/abs/2106.07239v1)|2021-06-14 08:47:36+00:00|14-06-2021
+Graham Neubig|[Examining and Combating Spurious Features under Distribution Shift](http://arxiv.org/abs/2106.07171v1)|2021-06-14 05:39:09+00:00|14-06-2021
+Joan Bruna|[On the Sample Complexity of Learning with Geometric Stability](http://arxiv.org/abs/2106.07148v1)|2021-06-14 03:51:16+00:00|14-06-2021
+Arnout Van Messem|[Selection of Source Images Heavily Influences the Effectiveness of   Adversarial Attacks](http://arxiv.org/abs/2106.07141v2)|2021-06-16 02:32:16+00:00|14-06-2021
+Shimei Pan|[Bias: Friend or Foe? User Acceptance of Gender Stereotypes in Automated   Career Recommendations](http://arxiv.org/abs/2106.07112v1)|2021-06-13 23:27:45+00:00|13-06-2021
+Andrew B. Nobel|[Graph Optimal Transport with Transition Couplings of Random Walks](http://arxiv.org/abs/2106.07106v1)|2021-06-13 23:02:53+00:00|13-06-2021
+Aalok Shanbhag|[FairCanary: Rapid Continuous Explainable Fairness](http://arxiv.org/abs/2106.07057v1)|2021-06-13 17:47:44+00:00|13-06-2021
+Yuyang Wang|[Correcting Exposure Bias for Link Recommendation](http://arxiv.org/abs/2106.07041v1)|2021-06-13 16:51:41+00:00|13-06-2021
+Alekh Agarwal|[Bellman-consistent Pessimism for Offline Reinforcement Learning](http://arxiv.org/abs/2106.06926v1)|2021-06-13 05:50:36+00:00|13-06-2021
+Qing Ling|[Stochastic Alternating Direction Method of Multipliers for   Byzantine-Robust Distributed Learning](http://arxiv.org/abs/2106.06891v1)|2021-06-13 01:17:31+00:00|13-06-2021
+Sameer Singh|[Evaluating Entity Disambiguation and the Role of Popularity in   Retrieval-Based NLP](http://arxiv.org/abs/2106.06830v1)|2021-06-12 18:27:18+00:00|12-06-2021
+Anthony Rios|[Case Study on Detecting COVID-19 Health-Related Misinformation in Social   Media](http://arxiv.org/abs/2106.06811v1)|2021-06-12 16:26:04+00:00|12-06-2021
+Stanislav Abaimov|[Towards a Privacy-preserving Deep Learning-based Network Intrusion   Detection in Data Distribution Services](http://arxiv.org/abs/2106.06765v1)|2021-06-12 12:53:38+00:00|12-06-2021
+Ragesh Jaiswal|[FPT Approximation for Socially Fair Clustering](http://arxiv.org/abs/2106.06755v1)|2021-06-12 11:53:18+00:00|12-06-2021
+Xin Eric Wang|[Assessing Multilingual Fairness in Pre-trained Multimodal   Representations](http://arxiv.org/abs/2106.06683v1)|2021-06-12 03:57:05+00:00|12-06-2021
+Ion Stoica|[Online Learning of Competitive Equilibria in Exchange Economies](http://arxiv.org/abs/2106.06616v1)|2021-06-11 21:32:17+00:00|11-06-2021
+Sharad Goel|[Probability Paths and the Structure of Predictions over Time](http://arxiv.org/abs/2106.06515v1)|2021-06-11 17:18:05+00:00|11-06-2021
+Susan Athey|[Optimal Model Selection in Contextual Bandits with Many Classes via   Offline Oracles](http://arxiv.org/abs/2106.06483v1)|2021-06-11 16:08:03+00:00|11-06-2021
+Ping Hu|[Conterfactual Generative Zero-Shot Semantic Segmentation](http://arxiv.org/abs/2106.06360v1)|2021-06-11 13:01:03+00:00|11-06-2021
+Josif Grabocka|[HPO-B: A Large-Scale Reproducible Benchmark for Black-Box HPO based on   OpenML](http://arxiv.org/abs/2106.06257v1)|2021-06-11 09:18:39+00:00|11-06-2021
+Masashi Sugiyama|[On the Robustness of Average Losses for Partial-Label Learning](http://arxiv.org/abs/2106.06152v1)|2021-06-11 03:41:59+00:00|11-06-2021
+Oncel Tuzel|[Instance-Level Task Parameters: A Robust Multi-task Weighting Framework](http://arxiv.org/abs/2106.06129v1)|2021-06-11 02:35:42+00:00|11-06-2021
+
 ## 14-06-2021
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,29 @@
 # interpretable
 Click on title for link to paper
+## 25-06-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Hima Lakkaraju|[Feature Attributions and Counterfactual Explanations Can Be Manipulated](http://arxiv.org/abs/2106.12563v1)|2021-06-23 17:43:31+00:00|23-06-2021
+Ulrike Meyer|[First Step Towards EXPLAINable DGA Multiclass Classification](http://arxiv.org/abs/2106.12336v1)|2021-06-23 12:05:13+00:00|23-06-2021
+Andrew Gordon Wilson|[Dangers of Bayesian Model Averaging under Covariate Shift](http://arxiv.org/abs/2106.11905v1)|2021-06-22 16:19:52+00:00|22-06-2021
+Roberto Ardon|[Leveraging Conditional Generative Models in a General Explanation   Framework of Classifier Decisions](http://arxiv.org/abs/2106.10947v1)|2021-06-21 09:41:54+00:00|21-06-2021
+Sudhakar Sivapalan|[STEP-EZ: Syntax Tree guided semantic ExPlanation for Explainable   Zero-shot modeling of clinical depression symptoms from text](http://arxiv.org/abs/2106.10928v2)|2021-06-23 07:06:06+00:00|21-06-2021
+Jacek Mańdziuk|[Prediction of the facial growth direction with Machine Learning methods](http://arxiv.org/abs/2106.10464v1)|2021-06-19 10:12:12+00:00|19-06-2021
+Tolga Bolukbasi|[Guided Integrated Gradients: An Adaptive Path Method for Removing Noise](http://arxiv.org/abs/2106.09788v1)|2021-06-17 20:00:55+00:00|17-06-2021
+Le Sun|[De-biasing Distantly Supervised Named Entity Recognition via Causal   Intervention](http://arxiv.org/abs/2106.09233v1)|2021-06-17 04:01:02+00:00|17-06-2021
+Hayden Gunraj|[Insights into Data through Model Behaviour: An Explainability-driven   Strategy for Data Auditing for Responsible Computer Vision Applications](http://arxiv.org/abs/2106.09177v1)|2021-06-16 23:46:39+00:00|16-06-2021
+Roberto Cipolla|[X-MAN: Explaining multiple sources of anomalies in video](http://arxiv.org/abs/2106.08856v1)|2021-06-16 15:25:50+00:00|16-06-2021
+Fei Wang|[S-LIME: Stabilized-LIME for Model Explanation](http://arxiv.org/abs/2106.07875v1)|2021-06-15 04:24:59+00:00|15-06-2021
+Ziliang Zong|[Simon Says: Evaluating and Mitigating Bias in Pruned Neural Networks   with Knowledge Distillation](http://arxiv.org/abs/2106.07849v1)|2021-06-15 02:59:32+00:00|15-06-2021
+Keegan Hines|[Counterfactual Explanations for Machine Learning: Challenges Revisited](http://arxiv.org/abs/2106.07756v1)|2021-06-14 20:56:37+00:00|14-06-2021
+Juan E. Gilbert|[Can Explainable AI Explain Unfairness? A Framework for Evaluating   Explainable AI](http://arxiv.org/abs/2106.07483v1)|2021-06-14 15:14:03+00:00|14-06-2021
+Bryan Hooi|[Graph Neural Network-Based Anomaly Detection in Multivariate Time Series](http://arxiv.org/abs/2106.06947v1)|2021-06-13 09:07:30+00:00|13-06-2021
+Tania Cerquitelli|[Explaining the Deep Natural Language Processing by Mining Textual   Interpretable Features](http://arxiv.org/abs/2106.06697v1)|2021-06-12 06:25:09+00:00|12-06-2021
+Thomas Hofmann|[Disentangling the Roles of Curation, Data-Augmentation and the Prior in   the Cold Posterior Effect](http://arxiv.org/abs/2106.06596v1)|2021-06-11 20:04:20+00:00|11-06-2021
+Max Welling|[Coordinate Independent Convolutional Networks -- Isometry and Gauge   Equivariant Convolutions on Riemannian Manifolds](http://arxiv.org/abs/2106.06020v1)|2021-06-10 19:54:19+00:00|10-06-2021
+Ann Nowé|[Synthesising Reinforcement Learning Policies through Set-Valued   Inductive Rule Learning](http://arxiv.org/abs/2106.06009v1)|2021-06-10 19:06:28+00:00|10-06-2021
+
 ## 14-06-2021
 
 main_author|title|update_date|publish_date

@@ -1,25 +1,30 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
-Mauricio A. Álvarez|[Compositional Modeling of Nonlinear Dynamical Systems with ODE-based   Random Features](http://arxiv.org/abs/2106.05960v1)|2021-06-10 17:55:13+00:00|10-06-2021
-Chun Wang|[Distributionally Robust Prescriptive Analytics with Wasserstein Distance](http://arxiv.org/abs/2106.05724v1)|2021-06-10 13:08:17+00:00|10-06-2021
-Craig Boutilier|[Thompson Sampling with a Mixture Prior](http://arxiv.org/abs/2106.05608v1)|2021-06-10 09:21:07+00:00|10-06-2021
-Mauricio A. Álvarez|[Learning Nonparametric Volterra Kernels with Gaussian Processes](http://arxiv.org/abs/2106.05582v1)|2021-06-10 08:21:00+00:00|10-06-2021
-Gerhard Neumann|[Differentiable Robust LQR Layers](http://arxiv.org/abs/2106.05535v1)|2021-06-10 06:52:31+00:00|10-06-2021
-Chaokui Li|[An adaptive Origin-Destination flows cluster-detecting method to   identify urban mobility trends](http://arxiv.org/abs/2106.05436v1)|2021-06-10 00:14:54+00:00|10-06-2021
-Haipeng Luo|[Online Learning for Stochastic Shortest Path Model via Posterior   Sampling](http://arxiv.org/abs/2106.05335v1)|2021-06-09 18:46:39+00:00|09-06-2021
-Mingyuan Zhou|[Bayesian Attention Belief Networks](http://arxiv.org/abs/2106.05251v1)|2021-06-09 17:46:22+00:00|09-06-2021
-Mihai Cucuringu|[DIGRAC: Digraph Clustering with Flow Imbalance](http://arxiv.org/abs/2106.05194v1)|2021-06-09 16:33:13+00:00|09-06-2021
-Yang Liu|[Embedding Physics to Learn Spatiotemporal Dynamics from Sparse Data](http://arxiv.org/abs/2106.04781v1)|2021-06-09 03:02:20+00:00|09-06-2021
-Yuxin Deng|[SDGMNet: Statistic-based Dynamic Gradient Modulation for Local   Descriptor Learning](http://arxiv.org/abs/2106.04434v2)|2021-06-09 12:45:28+00:00|08-06-2021
-Alexandros Iosifidis|[Progressive Spatio-Temporal Bilinear Network with Monte Carlo Dropout   for Landmark-based Facial Expression Recognition with Uncertainty Estimation](http://arxiv.org/abs/2106.04332v1)|2021-06-08 13:40:30+00:00|08-06-2021
-Marie-Francine Moens|[Giving Commands to a Self-Driving Car: How to Deal with Uncertain   Situations?](http://arxiv.org/abs/2106.04232v1)|2021-06-08 10:21:11+00:00|08-06-2021
-Elena Cervelli|[Defining definition: a Text mining Approach to Define Innovative   Technological Fields](http://arxiv.org/abs/2106.04210v1)|2021-06-08 09:42:05+00:00|08-06-2021
-George Em Karniadakis|[Learning Functional Priors and Posteriors from Data and Physics](http://arxiv.org/abs/2106.05863v1)|2021-06-08 03:03:24+00:00|08-06-2021
-B. Aditya Prakash|[When in Doubt: Neural Non-Parametric Uncertainty Quantification for   Epidemic Forecasting](http://arxiv.org/abs/2106.03904v1)|2021-06-07 18:31:47+00:00|07-06-2021
-William Chan|[Learning to Efficiently Sample from Diffusion Probabilistic Models](http://arxiv.org/abs/2106.03802v1)|2021-06-07 17:15:07+00:00|07-06-2021
-Andreas Krause|[Meta-Learning Reliable Priors in the Function Space](http://arxiv.org/abs/2106.03195v1)|2021-06-06 18:07:49+00:00|06-06-2021
-Junzhou Huang|[Energy-Based Learning for Cooperative Games, with Applications to   Feature/Data/Model Valuations](http://arxiv.org/abs/2106.02938v1)|2021-06-05 17:39:04+00:00|05-06-2021
-Rose Yu|[Accelerating Stochastic Simulation with Interactive Neural Processes](http://arxiv.org/abs/2106.02770v1)|2021-06-05 01:31:51+00:00|05-06-2021
-Beren Millidge|[Online reinforcement learning with sparse rewards through an active   inference capsule](http://arxiv.org/abs/2106.02390v1)|2021-06-04 10:03:36+00:00|04-06-2021
-Ying Chen|[Deep Switching State Space Model (DS$^3$M) for Nonlinear Time Series   Forecasting with Regime Switching](http://arxiv.org/abs/2106.02329v1)|2021-06-04 08:25:47+00:00|04-06-2021
-Soumyabrata Pal|[Fuzzy Clustering with Similarity Queries](http://arxiv.org/abs/2106.02212v1)|2021-06-04 02:32:26+00:00|04-06-2021
+Jia-Jie Zhu|[Shallow Representation is Deep: Learning Uncertainty-aware and   Worst-case Random Feature Dynamics](http://arxiv.org/abs/2106.13066v1)|2021-06-24 14:48:12+00:00|24-06-2021
+Eric Price|[Fairness for Image Generation with Uncertain Sensitive Attributes](http://arxiv.org/abs/2106.12182v1)|2021-06-23 06:17:17+00:00|23-06-2021
+Luc De Raedt|[Lifted Model Checking for Relational MDPs](http://arxiv.org/abs/2106.11735v1)|2021-06-22 13:12:36+00:00|22-06-2021
+Wenji Mao|[A Deep Latent Space Model for Graph Representation Learning](http://arxiv.org/abs/2106.11721v1)|2021-06-22 12:41:19+00:00|22-06-2021
+Andreas Krause|[Distributional Gradient Matching for Learning Uncertain Neural Dynamics   Models](http://arxiv.org/abs/2106.11609v1)|2021-06-22 08:40:51+00:00|22-06-2021
+Phil Mohr|[Smooth Sequential Optimisation with Delayed Feedback](http://arxiv.org/abs/2106.11294v2)|2021-06-22 06:35:19+00:00|21-06-2021
+Florian Wenzel|[On Stein Variational Neural Network Ensembles](http://arxiv.org/abs/2106.10760v2)|2021-06-22 07:53:17+00:00|20-06-2021
+Amedeo Buonanno|[A Unified View of Algorithms for Path Planning Using Probabilistic   Inference on Factor Graphs](http://arxiv.org/abs/2106.10442v1)|2021-06-19 07:13:15+00:00|19-06-2021
+Stuart Russell|[Learning the Preferences of Uncertain Humans with Inverse Decision   Theory](http://arxiv.org/abs/2106.10394v1)|2021-06-19 00:11:13+00:00|19-06-2021
+Luke Ong|[Nonparametric Hamiltonian Monte Carlo](http://arxiv.org/abs/2106.10238v1)|2021-06-18 17:03:05+00:00|18-06-2021
+Marina M. -C. Höhne|[NoiseGrad: enhancing explanations by introducing stochasticity to model   weights](http://arxiv.org/abs/2106.10185v1)|2021-06-18 15:22:33+00:00|18-06-2021
+Yuanqing Xia|[ScoreGrad: Multivariate Probabilistic Time Series Forecasting with   Continuous Energy-based Generative Models](http://arxiv.org/abs/2106.10121v1)|2021-06-18 13:22:12+00:00|18-06-2021
+Wulfram Gerstner|[Fitting summary statistics of neural data with a differentiable spiking   network simulator](http://arxiv.org/abs/2106.10064v1)|2021-06-18 11:21:30+00:00|18-06-2021
+Sang Wan Lee|[Meta-control of social learning strategies](http://arxiv.org/abs/2106.10015v1)|2021-06-18 09:17:21+00:00|18-06-2021
+Jun Tani|[Goal-Directed Planning by Reinforcement Learning and Active Inference](http://arxiv.org/abs/2106.09938v2)|2021-06-22 10:14:01+00:00|18-06-2021
+Zongyuan Ge|[Medical Matting: A New Perspective on Medical Segmentation with   Uncertainty](http://arxiv.org/abs/2106.09887v1)|2021-06-18 03:13:52+00:00|18-06-2021
+Arnaud Doucet|[Wide stochastic networks: Gaussian limit and PAC-Bayesian training](http://arxiv.org/abs/2106.09798v1)|2021-06-17 20:25:38+00:00|17-06-2021
+Shakti Mishra|[Modelling resource allocation in uncertain system environment through   deep reinforcement learning](http://arxiv.org/abs/2106.09461v1)|2021-06-17 13:13:34+00:00|17-06-2021
+Yongming Liu|[Evaluating the Robustness of Bayesian Neural Networks Against Different   Types of Attacks](http://arxiv.org/abs/2106.09223v1)|2021-06-17 03:18:59+00:00|17-06-2021
+Erik Meijer|[Localized Uncertainty Attacks](http://arxiv.org/abs/2106.09222v1)|2021-06-17 03:07:22+00:00|17-06-2021
+Yanning Shen|[Online Learning with Uncertain Feedback Graphs](http://arxiv.org/abs/2106.08441v1)|2021-06-15 21:21:30+00:00|15-06-2021
+Carl Boettiger|[Deep Reinforcement Learning for Conservation Decisions](http://arxiv.org/abs/2106.08272v1)|2021-06-15 16:32:48+00:00|15-06-2021
+Stefan Bauer|[Variational Causal Networks: Approximate Bayesian Inference over Causal   Structures](http://arxiv.org/abs/2106.07635v1)|2021-06-14 17:52:49+00:00|14-06-2021
+Milind Tambe|[Contingency-Aware Influence Maximization: A Reinforcement Learning   Approach](http://arxiv.org/abs/2106.07039v1)|2021-06-13 16:42:22+00:00|13-06-2021
+Daniel Kuhn|[Distributionally Robust Optimization with Markovian Data](http://arxiv.org/abs/2106.06741v1)|2021-06-12 10:59:02+00:00|12-06-2021
+Julia E. Vogt|[Deep Conditional Gaussian Mixture Model for Constrained Clustering](http://arxiv.org/abs/2106.06385v2)|2021-06-22 13:48:54+00:00|11-06-2021
+Alexander Schlaefer|[Posterior Temperature Optimization in Variational Inference](http://arxiv.org/abs/2106.07533v1)|2021-06-11 13:01:28+00:00|11-06-2021
+Maurizio Filippone|[Model Selection for Bayesian Autoencoders](http://arxiv.org/abs/2106.06245v1)|2021-06-11 08:55:00+00:00|11-06-2021
