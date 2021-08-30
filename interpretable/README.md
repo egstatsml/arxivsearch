@@ -1,5 +1,15 @@
 # interpretable
 Click on title for link to paper
+## 30-08-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Andreas Holzinger|[Network Module Detection from Multi-Modal Node Features with a Greedy   Decision Forest for Actionable Explainable AI](http://arxiv.org/abs/2108.11674v1)|2021-08-26 09:42:44+00:00|26-08-2021
+Bartosz Zieliński|[ProtoMIL: Multiple Instance Learning with Prototypical Parts for   Fine-Grained Interpretability](http://arxiv.org/abs/2108.10612v1)|2021-08-24 10:02:31+00:00|24-08-2021
+Yongfeng Zhang|[Counterfactual Explainable Recommendation](http://arxiv.org/abs/2108.10539v1)|2021-08-24 06:37:57+00:00|24-08-2021
+Heung-Il Suk|[Learn-Explain-Reinforce: Counterfactual Reasoning and Its Guidance to   Reinforce an Alzheimer's Disease Diagnosis Model](http://arxiv.org/abs/2108.09451v1)|2021-08-21 07:29:13+00:00|21-08-2021
+Pedro A. Moreno-Sanchez|[Improvement of a Prediction Model for Heart Failure Survival through   Explainable Artificial Intelligence](http://arxiv.org/abs/2108.10717v1)|2021-08-20 09:03:26+00:00|20-08-2021
+
 ## 24-08-2021
 
 main_author|title|update_date|publish_date

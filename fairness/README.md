@@ -1,5 +1,35 @@
 # fairness
 Click on title for link to paper
+## 30-08-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Laurent Schmalen|[Deep Reinforcement Learning for Wireless Resource Allocation Using   Buffer State Information](http://arxiv.org/abs/2108.12198v1)|2021-08-27 09:37:04+00:00|27-08-2021
+Jinjie Gu|[A framework for massive scale personalized promotion](http://arxiv.org/abs/2108.12100v1)|2021-08-27 03:03:18+00:00|27-08-2021
+Gregg A. Wildenberg|[Ultrafast Focus Detection for Automated Microscopy](http://arxiv.org/abs/2108.12050v1)|2021-08-26 22:24:41+00:00|26-08-2021
+Zhangyang Wang|[Understanding and Accelerating Neural Architecture Search with   Training-Free and Theory-Grounded Metrics](http://arxiv.org/abs/2108.11939v1)|2021-08-26 17:52:07+00:00|26-08-2021
+Patrick Rebeschini|[Comparing Classes of Estimators: When does Gradient Descent Beat Ridge   Regression in Linear Models?](http://arxiv.org/abs/2108.11872v1)|2021-08-26 16:01:37+00:00|26-08-2021
+Shiyou Lian|[A New Interpolation Approach and Corresponding Instance-Based Learning](http://arxiv.org/abs/2108.11530v1)|2021-08-26 00:41:17+00:00|26-08-2021
+Peter L. Bartlett|[The Interplay Between Implicit Bias and Benign Overfitting in Two-Layer   Linear Networks](http://arxiv.org/abs/2108.11489v1)|2021-08-25 22:01:01+00:00|25-08-2021
+Gaël Chevallier|[Clustering acoustic emission data streams with sequentially appearing   clusters using mixture models](http://arxiv.org/abs/2108.11211v1)|2021-08-25 13:01:06+00:00|25-08-2021
+Stark Draper|[Decentralized optimization with non-identical sampling in presence of   stragglers](http://arxiv.org/abs/2108.11071v1)|2021-08-25 06:33:38+00:00|25-08-2021
+Adam Tauman Kalai|[Social Norm Bias: Residual Harms of Fairness-Aware Algorithms](http://arxiv.org/abs/2108.11056v1)|2021-08-25 05:54:56+00:00|25-08-2021
+Tapabrata Maiti|[Layer Adaptive Node Selection in Bayesian Neural Networks: Statistical   Guarantees and Implementation Details](http://arxiv.org/abs/2108.11000v1)|2021-08-25 00:48:07+00:00|25-08-2021
+Chris Holmes|[Bias Mitigated Learning from Differentially Private Synthetic Data: A   Cautionary Tale](http://arxiv.org/abs/2108.10934v1)|2021-08-24 19:56:44+00:00|24-08-2021
+Zoltan Tuske|[Reducing Exposure Bias in Training Recurrent Neural Network Transducers](http://arxiv.org/abs/2108.10803v1)|2021-08-24 15:43:42+00:00|24-08-2021
+Jing Jiang|[Federated Learning for Privacy-Preserving Open Innovation Future on   Digital Health](http://arxiv.org/abs/2108.10761v1)|2021-08-24 14:08:55+00:00|24-08-2021
+Beril Sirmacek|[Interpretable deep-learning models to help achieve the Sustainable   Development Goals](http://arxiv.org/abs/2108.10744v1)|2021-08-24 13:56:15+00:00|24-08-2021
+Benjamin Kap|[The Effect of Noise Level on Causal Identification with Additive Noise   Models](http://arxiv.org/abs/2108.11320v1)|2021-08-24 11:18:41+00:00|24-08-2021
+Kazutoshi Sasahara|[Morality-based Assertion and Homophily on Social Media: A Cultural   Comparison between English and Japanese Languages](http://arxiv.org/abs/2108.10643v1)|2021-08-24 11:07:46+00:00|24-08-2021
+Zhangyang Wang|[Bag of Tricks for Training Deeper Graph Neural Networks: A Comprehensive   Benchmark Study](http://arxiv.org/abs/2108.10521v1)|2021-08-24 05:00:37+00:00|24-08-2021
+Xingqun Jiang|[edge-SR: Super-Resolution For The Masses](http://arxiv.org/abs/2108.10335v1)|2021-08-23 18:00:19+00:00|23-08-2021
+Tom Gedeon|[Exploring Biases and Prejudice of Facial Synthesis via Semantic Latent   Space](http://arxiv.org/abs/2108.10265v1)|2021-08-23 16:09:18+00:00|23-08-2021
+Richard Vidal|[Federated Multi-Task Learning under a Mixture of Distributions](http://arxiv.org/abs/2108.10252v1)|2021-08-23 15:47:53+00:00|23-08-2021
+Soumen Chakrabarti|[Integrating Transductive And Inductive Embeddings Improves Link   Prediction Accuracy](http://arxiv.org/abs/2108.10108v1)|2021-08-23 12:24:20+00:00|23-08-2021
+Jaegul Choo|[BiaSwap: Removing dataset bias with bias-tailored swapping augmentation](http://arxiv.org/abs/2108.10008v1)|2021-08-23 08:35:26+00:00|23-08-2021
+Sujit Gujar|[Federated Learning Meets Fairness and Differential Privacy](http://arxiv.org/abs/2108.09932v1)|2021-08-23 04:59:16+00:00|23-08-2021
+Bhavani Thuraisingham|[Fairness-Aware Online Meta-learning](http://arxiv.org/abs/2108.09435v1)|2021-08-21 04:36:40+00:00|21-08-2021
+
 ## 24-08-2021
 
 main_author|title|update_date|publish_date

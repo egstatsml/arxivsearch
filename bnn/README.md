@@ -1,5 +1,27 @@
 # bnn
 Click on title for link to paper
+## 30-08-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Adeel Razi|[Active Inference for Stochastic Control](http://arxiv.org/abs/2108.12245v1)|2021-08-27 12:51:42+00:00|27-08-2021
+Pisit Nakjai|[Recognition Awareness: An Application of Latent Cognizance to Open-Set   Recognition](http://arxiv.org/abs/2108.12115v1)|2021-08-27 04:41:41+00:00|27-08-2021
+David Robert Wong|[Identification of Vehicle Dynamics Parameters Using Simulation-based   Inference](http://arxiv.org/abs/2108.12114v1)|2021-08-27 04:28:14+00:00|27-08-2021
+Dong Yu|[Bilateral Denoising Diffusion Models](http://arxiv.org/abs/2108.11514v1)|2021-08-26 13:23:41+00:00|26-08-2021
+Kazufumi Kaneda|[Improving the Reliability of Semantic Segmentation of Medical Images by   Uncertainty Modeling with Bayesian Deep Networks and Curriculum Learning](http://arxiv.org/abs/2108.11693v1)|2021-08-26 10:24:02+00:00|26-08-2021
+Enxin Sun|[Model-based Chance-Constrained Reinforcement Learning via Separated   Proportional-Integral Lagrangian](http://arxiv.org/abs/2108.11623v1)|2021-08-26 07:34:14+00:00|26-08-2021
+Noah Goodman|[Modeling Item Response Theory with Stochastic Variational Inference](http://arxiv.org/abs/2108.11579v1)|2021-08-26 05:00:27+00:00|26-08-2021
+Adrian G. Bors|[Lifelong Infinite Mixture Model Based on Knowledge-Driven Dirichlet   Process](http://arxiv.org/abs/2108.12278v1)|2021-08-25 21:06:20+00:00|25-08-2021
+Pavlos Protopapas|[Unsupervised Reservoir Computing for Solving Ordinary Differential   Equations](http://arxiv.org/abs/2108.11417v1)|2021-08-25 18:16:42+00:00|25-08-2021
+Tapabrata Maiti|[Layer Adaptive Node Selection in Bayesian Neural Networks: Statistical   Guarantees and Implementation Details](http://arxiv.org/abs/2108.11000v1)|2021-08-25 00:48:07+00:00|25-08-2021
+Jianfei Cai|[Auto-Parsing Network for Image Captioning and Visual Question Answering](http://arxiv.org/abs/2108.10568v1)|2021-08-24 08:14:35+00:00|24-08-2021
+Peyman Tavallali|[Uncertainty Quantification of the 4th kind; optimal posterior   accuracy-uncertainty tradeoff with the minimum enclosing ball](http://arxiv.org/abs/2108.10517v1)|2021-08-24 04:02:45+00:00|24-08-2021
+Sarah Ostadabbas|[Interpreting Face Inference Models using Hierarchical Network Dissection](http://arxiv.org/abs/2108.10360v1)|2021-08-23 18:52:47+00:00|23-08-2021
+Marius Kloft|[Explaining Bayesian Neural Networks](http://arxiv.org/abs/2108.10346v1)|2021-08-23 18:09:41+00:00|23-08-2021
+Mohammed Bennamoun|[Deep Bayesian Image Set Classification: A Defence Approach against   Adversarial Attacks](http://arxiv.org/abs/2108.10217v1)|2021-08-23 14:52:44+00:00|23-08-2021
+Fernando Pérez-Cruz|[Regularizing Transformers With Deep Probabilistic Layers](http://arxiv.org/abs/2108.10764v1)|2021-08-23 10:17:02+00:00|23-08-2021
+Longbing Cao|[Modeling COVID-19 uncertainties evolving over time and density-dependent   social reinforcement and asymptomatic infections](http://arxiv.org/abs/2108.10029v1)|2021-08-23 09:38:54+00:00|23-08-2021
+
 ## 24-08-2021
 
 main_author|title|update_date|publish_date
