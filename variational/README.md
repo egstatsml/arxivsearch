@@ -1,5 +1,11 @@
 # variational
 Click on title for link to paper
+## 31-08-2021
+
+title|publish_date|main_author
+---|---|---
+No papers found this week|31-08-2021|  
+
 ## 30-08-2021
 
 main_author|title|update_date|publish_date
