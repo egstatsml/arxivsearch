@@ -1,5 +1,18 @@
 # bnn
 Click on title for link to paper
+## 07-09-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Ricardo Vinuesa|[Towards extraction of orthogonal and parsimonious non-linear modes from   turbulent flows](http://arxiv.org/abs/2109.01514v1)|2021-09-03 13:38:51+00:00|03-09-2021
+Patrick J. Coles|[Can Error Mitigation Improve Trainability of Noisy Variational Quantum   Algorithms?](http://arxiv.org/abs/2109.01051v1)|2021-09-02 16:07:02+00:00|02-09-2021
+Naoto Ohsaka|[Some Inapproximability Results of MAP Inference and Exponentiated   Determinantal Point Processes](http://arxiv.org/abs/2109.00727v1)|2021-09-02 05:45:11+00:00|02-09-2021
+Yang Xu|[An unsupervised framework for tracing textual sources of moral change](http://arxiv.org/abs/2109.00608v1)|2021-09-01 20:35:33+00:00|01-09-2021
+Lijun Sun|[Scalable Spatiotemporally Varying Coefficient Modeling with Bayesian   Kernelized Tensor Regression](http://arxiv.org/abs/2109.00046v1)|2021-08-31 19:22:23+00:00|31-08-2021
+Gustav Eje Henter|[Neural HMMs are all you need (for high-quality attention-free TTS)](http://arxiv.org/abs/2108.13320v2)|2021-09-03 16:56:00+00:00|30-08-2021
+Laurence Aitchison|[A fast point solver for deep nonlinear function approximators](http://arxiv.org/abs/2108.13097v1)|2021-08-30 10:07:37+00:00|30-08-2021
+Daniele E. Schiavazzi|[Variational Inference with NoFAS: Normalizing Flow with Adaptive   Surrogate for Computationally Expensive Models](http://arxiv.org/abs/2108.12657v1)|2021-08-28 14:31:45+00:00|28-08-2021
+
 ## 31-08-2021
 
 title|publish_date|main_author

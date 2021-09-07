@@ -1,5 +1,36 @@
 # fairness
 Click on title for link to paper
+## 07-09-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Jungong Han|[Information Symmetry Matters: A Modal-Alternating Propagation Network   for Few-Shot Learning](http://arxiv.org/abs/2109.01295v1)|2021-09-03 03:43:53+00:00|03-09-2021
+Iryna Gurevych|[Ranking Scientific Papers Using Preference Learning](http://arxiv.org/abs/2109.01190v1)|2021-09-02 19:41:47+00:00|02-09-2021
+Mette Langaas|[Inferring feature importance with uncertainties in high-dimensional data](http://arxiv.org/abs/2109.00855v2)|2021-09-06 07:24:58+00:00|02-09-2021
+Michael K. Ng|[Co-Separable Nonnegative Matrix Factorization](http://arxiv.org/abs/2109.00749v1)|2021-09-02 07:05:04+00:00|02-09-2021
+Diyi Yang|[Causal Inference in Natural Language Processing: Estimation, Prediction,   Interpretation and Beyond](http://arxiv.org/abs/2109.00725v1)|2021-09-02 05:40:08+00:00|02-09-2021
+Shweta Jain|[Efficient Algorithms For Fair Clustering with a New Fairness Notion](http://arxiv.org/abs/2109.00708v2)|2021-09-03 08:44:39+00:00|02-09-2021
+Sen Wang|[Global Convolutional Neural Processes](http://arxiv.org/abs/2109.00691v1)|2021-09-02 03:32:50+00:00|02-09-2021
+Kun He|[Regional Adversarial Training for Better Robust Generalization](http://arxiv.org/abs/2109.00678v2)|2021-09-04 01:36:12+00:00|02-09-2021
+Ozlem Ozmen Garibay|[TabFairGAN: Fair Tabular Data Generation with Generative Adversarial   Networks](http://arxiv.org/abs/2109.00666v1)|2021-09-02 01:48:01+00:00|02-09-2021
+Grace Ngapo|[Scalable Data Annotation Pipeline for High-Quality Large Speech Datasets   Development](http://arxiv.org/abs/2109.01164v1)|2021-09-01 17:54:17+00:00|01-09-2021
+Mohan Kankanhalli|[Fair Representation: Guaranteeing Approximate Multiple Group Fairness   for Unknown Tasks](http://arxiv.org/abs/2109.00545v1)|2021-09-01 17:29:11+00:00|01-09-2021
+Mohammad Taher Pilehvar|[Don't Discard All the Biased Instances: Investigating a Core Assumption   in Dataset Bias Mitigation Techniques](http://arxiv.org/abs/2109.00521v1)|2021-09-01 10:25:46+00:00|01-09-2021
+John Phillip McCrae|[Dataset for Identification of Homophobia and Transophobia in   Multilingual YouTube Comments](http://arxiv.org/abs/2109.00227v1)|2021-09-01 08:05:57+00:00|01-09-2021
+Takayuki Ito|[Fairness based Multi-Preference Resource Allocation in Decentralised   Open Markets](http://arxiv.org/abs/2109.00207v1)|2021-09-01 06:29:06+00:00|01-09-2021
+Yongfeng Zhang|[Problem Learning: Towards the Free Will of Machines](http://arxiv.org/abs/2109.00177v1)|2021-09-01 04:08:09+00:00|01-09-2021
+Edward Kennedy|[FADE: FAir Double Ensemble Learning for Observable and Counterfactual   Outcomes](http://arxiv.org/abs/2109.00173v1)|2021-09-01 03:56:43+00:00|01-09-2021
+Max Tegmark|[Machine-Learning media bias](http://arxiv.org/abs/2109.00024v1)|2021-08-31 18:06:32+00:00|31-08-2021
+Yonatan Belinkov|[A Generative Approach for Mitigating Structural Biases in Natural   Language Inference](http://arxiv.org/abs/2108.14006v1)|2021-08-31 17:59:45+00:00|31-08-2021
+Kwanghoon Sohn|[Self-balanced Learning For Domain Generalization](http://arxiv.org/abs/2108.13597v1)|2021-08-31 03:17:54+00:00|31-08-2021
+Zhen Wei|[AIP: Adversarial Iterative Pruning Based on Knowledge Transfer for   Convolutional Neural Networks](http://arxiv.org/abs/2108.13591v1)|2021-08-31 02:38:36+00:00|31-08-2021
+Xia Hu|[Adaptive Label Smoothing To Regularize Large-Scale Graph Training](http://arxiv.org/abs/2108.13555v1)|2021-08-30 23:51:31+00:00|30-08-2021
+Joachim Denzler|[Tune It or Don't Use It: Benchmarking Data-Efficient Image   Classification](http://arxiv.org/abs/2108.13122v1)|2021-08-30 11:24:51+00:00|30-08-2021
+Robert Bassett|[DeepFake Detection with Inconsistent Head Poses: Reproducibility and   Analysis](http://arxiv.org/abs/2108.12715v1)|2021-08-28 22:56:09+00:00|28-08-2021
+Daniele E. Schiavazzi|[Variational Inference with NoFAS: Normalizing Flow with Adaptive   Surrogate for Computationally Expensive Models](http://arxiv.org/abs/2108.12657v1)|2021-08-28 14:31:45+00:00|28-08-2021
+Eiji Aramaki|[Mitigation of Diachronic Bias in Fake News Detection Dataset](http://arxiv.org/abs/2108.12601v1)|2021-08-28 08:25:29+00:00|28-08-2021
+Xiaowei Zhang|[Self-fulfilling Bandits: Endogeneity Spillover and Dynamic Selection in   Algorithmic Decision-making](http://arxiv.org/abs/2108.12547v1)|2021-08-28 01:41:37+00:00|28-08-2021
+
 ## 31-08-2021
 
 title|publish_date|main_author

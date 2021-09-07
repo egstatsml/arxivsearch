@@ -1,5 +1,15 @@
 # interpretable
 Click on title for link to paper
+## 07-09-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Marshall Burke|[Wildfire smoke plume segmentation using geostationary satellite imagery](http://arxiv.org/abs/2109.01637v1)|2021-09-03 17:29:58+00:00|03-09-2021
+Song-Chun Zhu|[CX-ToM: Counterfactual Explanations with Theory-of-Mind for Enhancing   Human Trust in Image Recognition Models](http://arxiv.org/abs/2109.01401v2)|2021-09-06 07:00:34+00:00|03-09-2021
+Ibrahim Habli|[The Role of Explainability in Assuring Safety of Machine Learning in   Healthcare](http://arxiv.org/abs/2109.00520v1)|2021-09-01 09:32:14+00:00|01-09-2021
+William Yang Wang|[FinQA: A Dataset of Numerical Reasoning over Financial Data](http://arxiv.org/abs/2109.00122v1)|2021-09-01 00:08:14+00:00|01-09-2021
+Meiqing Wang|[Chi-square Loss for Softmax: an Echo of Neural Network Structure](http://arxiv.org/abs/2108.13822v1)|2021-08-31 13:28:25+00:00|31-08-2021
+
 ## 31-08-2021
 
 title|publish_date|main_author

@@ -1,5 +1,14 @@
 # mcmc
 Click on title for link to paper
+## 07-09-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Eiji Watanabe|[Impact of GPU uncertainty on the training of predictive deep neural   networks](http://arxiv.org/abs/2109.01451v1)|2021-09-03 11:21:40+00:00|03-09-2021
+Jun Xiao|[Instance-wise or Class-wise? A Tale of Neighbor Shapley for   Concept-based Explanation](http://arxiv.org/abs/2109.01369v1)|2021-09-03 08:34:37+00:00|03-09-2021
+Yasser Shoukry|[Provably Safe Model-Based Meta Reinforcement Learning: An   Abstraction-Based Approach](http://arxiv.org/abs/2109.01255v1)|2021-09-03 00:38:05+00:00|03-09-2021
+Edmund Jones|[Bayesian learning of forest and tree graphical models](http://arxiv.org/abs/2108.13992v1)|2021-08-31 17:30:08+00:00|31-08-2021
+
 ## 31-08-2021
 
 title|publish_date|main_author
