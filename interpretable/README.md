@@ -1,5 +1,15 @@
 # interpretable
 Click on title for link to paper
+## 14-09-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Kun He|[TimeTraveler: Reinforcement Learning for Temporal Knowledge Graph   Forecasting](http://arxiv.org/abs/2109.04101v1)|2021-09-09 08:41:01+00:00|09-09-2021
+Sarem Seitz|[Self-explaining variational posterior distributions for Gaussian Process   models](http://arxiv.org/abs/2109.03708v1)|2021-09-08 15:14:22+00:00|08-09-2021
+Wai Lam|[Exploiting Reasoning Chains for Multi-hop Science Question Answering](http://arxiv.org/abs/2109.02905v1)|2021-09-07 07:22:07+00:00|07-09-2021
+Bin Yang|[Estimation of Bivariate Structural Causal Models by Variational Gaussian   Process Regression Under Likelihoods Parametrised by Normalising Flows](http://arxiv.org/abs/2109.02521v1)|2021-09-06 14:52:58+00:00|06-09-2021
+Yongfeng Zhang|[Counterfactual Evaluation for Explainable AI](http://arxiv.org/abs/2109.01962v1)|2021-09-05 01:38:49+00:00|05-09-2021
+
 ## 07-09-2021
 
 main_author|title|update_date|publish_date

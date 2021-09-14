@@ -1,5 +1,20 @@
 # mcmc
 Click on title for link to paper
+## 14-09-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Mark Girolami|[Low-rank statistical finite elements for scalable model-data synthesis](http://arxiv.org/abs/2109.04757v1)|2021-09-10 09:51:43+00:00|10-09-2021
+Kenneth Bogert|[Notes on Generalizing the Maximum Entropy Principle to Uncertain Data](http://arxiv.org/abs/2109.04530v1)|2021-09-09 19:43:28+00:00|09-09-2021
+M. Vidyasagar|[Convergence of Batch Asynchronous Stochastic Approximation With   Applications to Reinforcement Learning](http://arxiv.org/abs/2109.03445v1)|2021-09-08 06:06:28+00:00|08-09-2021
+Ashutosh Nayyar|[Learning Zero-sum Stochastic Games with Posterior Sampling](http://arxiv.org/abs/2109.03396v1)|2021-09-08 02:05:40+00:00|08-09-2021
+Junghyo Jo|[Scale-invariant representation of machine learning](http://arxiv.org/abs/2109.02914v1)|2021-09-07 07:56:15+00:00|07-09-2021
+Cristian-Ioan Vasile|[Safe-Critical Modular Deep Reinforcement Learning with Temporal Logic   through Gaussian Processes and Control Barrier Functions](http://arxiv.org/abs/2109.02791v1)|2021-09-07 00:51:12+00:00|07-09-2021
+Alexandre X Falcão|[Iterative Pseudo-Labeling with Deep Feature Annotation and   Confidence-Based Sampling](http://arxiv.org/abs/2109.02717v1)|2021-09-06 20:02:13+00:00|06-09-2021
+Z. Jane Wang|[Rethinking Crowdsourcing Annotation: Partial Annotation with Salient   Labels for Multi-Label Image Classification](http://arxiv.org/abs/2109.02688v1)|2021-09-06 18:28:53+00:00|06-09-2021
+Reza Hardiansyah|[Backpropagation and fuzzy algorithm Modelling to Resolve Blood Supply   Chain Issues in the Covid-19 Pandemic](http://arxiv.org/abs/2109.02645v1)|2021-09-06 15:00:12+00:00|06-09-2021
+Francesc Moreno|[Stochastic Neural Radiance Fields:Quantifying Uncertainty in Implicit 3D   Representations](http://arxiv.org/abs/2109.02123v1)|2021-09-05 16:56:43+00:00|05-09-2021
+
 ## 07-09-2021
 
 main_author|title|update_date|publish_date

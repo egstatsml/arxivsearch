@@ -1,5 +1,21 @@
 # bnn
 Click on title for link to paper
+## 14-09-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+David Carlson|[Supervising the Decoder of Variational Autoencoders to Improve   Scientific Utility](http://arxiv.org/abs/2109.04561v1)|2021-09-09 20:55:38+00:00|09-09-2021
+Sudipto Banerjee|[Modeling Massive Spatial Datasets Using a Conjugate Bayesian Linear   Regression Framework](http://arxiv.org/abs/2109.04447v1)|2021-09-09 17:46:00+00:00|09-09-2021
+Milica Gašić|[Uncertainty Measures in Neural Belief Tracking and the Effects on   Dialogue Policy Performance](http://arxiv.org/abs/2109.04349v1)|2021-09-09 15:41:50+00:00|09-09-2021
+Emily Mower Provost|[Accounting for Variations in Speech Emotion Recognition with   Nonparametric Hierarchical Neural Network](http://arxiv.org/abs/2109.04316v1)|2021-09-09 14:46:46+00:00|09-09-2021
+Sarem Seitz|[Self-explaining variational posterior distributions for Gaussian Process   models](http://arxiv.org/abs/2109.03708v1)|2021-09-08 15:14:22+00:00|08-09-2021
+Tijana Janjic|[Combining data assimilation and machine learning to estimate parameters   of a convective-scale model](http://arxiv.org/abs/2109.02953v1)|2021-09-07 09:17:29+00:00|07-09-2021
+Giacomo Valerio Iungo|[Data-Driven Wind Turbine Wake Modeling via Probabilistic Machine   Learning](http://arxiv.org/abs/2109.02411v1)|2021-09-06 14:46:20+00:00|06-09-2021
+George Drettakis|[Point-Based Neural Rendering with Per-View Optimization](http://arxiv.org/abs/2109.02369v2)|2021-09-08 08:46:43+00:00|06-09-2021
+Francesc Moreno|[Stochastic Neural Radiance Fields:Quantifying Uncertainty in Implicit 3D   Representations](http://arxiv.org/abs/2109.02123v1)|2021-09-05 16:56:43+00:00|05-09-2021
+Eunho Yang|[Cluster-Promoting Quantization with Bit-Drop for Minimizing Network   Quantization Loss](http://arxiv.org/abs/2109.02100v1)|2021-09-05 15:15:07+00:00|05-09-2021
+Steven McDonagh|[On the Out-of-distribution Generalization of Probabilistic Image   Modelling](http://arxiv.org/abs/2109.02639v1)|2021-09-04 17:00:37+00:00|04-09-2021
+
 ## 07-09-2021
 
 main_author|title|update_date|publish_date
