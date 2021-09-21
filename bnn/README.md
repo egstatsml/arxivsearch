@@ -1,5 +1,26 @@
 # bnn
 Click on title for link to paper
+## 21-09-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Zoubin Ghahramani|[Automatic prior selection for meta Bayesian optimization with a case   study on tuning deep neural network optimizers](http://arxiv.org/abs/2109.08215v1)|2021-09-16 20:46:26+00:00|16-09-2021
+Kamal Youcef-Toumi|[Improving Regression Uncertainty Estimation Under Statistical Change](http://arxiv.org/abs/2109.08213v1)|2021-09-16 20:32:58+00:00|16-09-2021
+Prashant Doshi|[Marginal MAP Estimation for Inverse RL under Occlusion with Observer   Noise](http://arxiv.org/abs/2109.07788v1)|2021-09-16 08:20:52+00:00|16-09-2021
+Biagio Lucini|[Machine learning with quantum field theories](http://arxiv.org/abs/2109.07730v1)|2021-09-16 05:42:01+00:00|16-09-2021
+Roger Wattenhofer|[BERT is Robust! A Case Against Synonym-Based Adversarial Examples in   Text Classification](http://arxiv.org/abs/2109.07403v1)|2021-09-15 16:15:16+00:00|15-09-2021
+Karthik Duraisamy|[Disentangling Generative Factors of Physical Fields Using Variational   Autoencoders](http://arxiv.org/abs/2109.07399v1)|2021-09-15 16:02:43+00:00|15-09-2021
+Tadahiro Taniguchi|[Multiagent Multimodal Categorization for Symbol Emergence: Emergent   Communication via Interpersonal Cross-modal Inference](http://arxiv.org/abs/2109.07194v1)|2021-09-15 10:20:54+00:00|15-09-2021
+Kristian Kersting|[Sum-Product-Attention Networks: Leveraging Self-Attention in   Probabilistic Circuits](http://arxiv.org/abs/2109.06587v1)|2021-09-14 11:20:54+00:00|14-09-2021
+Xiaodan Zhu|[Identifying Untrustworthy Samples: Data Filtering for Open-domain   Dialogues with Bayesian Optimization](http://arxiv.org/abs/2109.06471v1)|2021-09-14 06:42:54+00:00|14-09-2021
+Shamima Najnin|[Automatic Tuning of Tensorflow's CPU Backend using Gradient-Free   Optimization Algorithms](http://arxiv.org/abs/2109.06266v1)|2021-09-13 19:10:23+00:00|13-09-2021
+Andrew J. Davison|[Incremental Abstraction in Distributed Probabilistic SLAM Graphs](http://arxiv.org/abs/2109.06241v1)|2021-09-13 18:16:36+00:00|13-09-2021
+Nick Hawes|[On Solving a Stochastic Shortest-Path Markov Decision Process as   Probabilistic Inference](http://arxiv.org/abs/2109.05866v1)|2021-09-13 11:07:52+00:00|13-09-2021
+Xuyun Zhang|[Source Inference Attacks in Federated Learning](http://arxiv.org/abs/2109.05659v1)|2021-09-13 01:09:48+00:00|13-09-2021
+Li Ma|[Microbiome subcommunity learning with logistic-tree normal latent   Dirichlet allocation](http://arxiv.org/abs/2109.05386v1)|2021-09-11 22:52:12+00:00|11-09-2021
+Abdollah Shafieezadeh|[Adaptive network reliability analysis: Methodology and applications to   power grid](http://arxiv.org/abs/2109.05360v1)|2021-09-11 19:58:08+00:00|11-09-2021
+Vu Nguyen|[Bayesian Topic Regression for Causal Inference](http://arxiv.org/abs/2109.05317v1)|2021-09-11 16:40:43+00:00|11-09-2021
+
 ## 14-09-2021
 
 main_author|title|update_date|publish_date

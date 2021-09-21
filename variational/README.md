@@ -1,5 +1,18 @@
 # variational
 Click on title for link to paper
+## 21-09-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Morteza Haghir Chehreghani|[Online Learning of Network Bottlenecks via Minimax Paths](http://arxiv.org/abs/2109.08467v1)|2021-09-17 11:11:50+00:00|17-09-2021
+Karthik Duraisamy|[Disentangling Generative Factors of Physical Fields Using Variational   Autoencoders](http://arxiv.org/abs/2109.07399v1)|2021-09-15 16:02:43+00:00|15-09-2021
+Richard P. Mann|[Evolutionary Reinforcement Learning Dynamics with Irreducible   Environmental Uncertainty](http://arxiv.org/abs/2109.07259v1)|2021-09-15 12:50:58+00:00|15-09-2021
+Jiebo Luo|[Federated Learning of Molecular Properties in a Heterogeneous Setting](http://arxiv.org/abs/2109.07258v1)|2021-09-15 12:49:13+00:00|15-09-2021
+Namyoon Lee|[Bayesian AirComp with Sign-Alignment Precoding for Wireless Federated   Learning](http://arxiv.org/abs/2109.06579v1)|2021-09-14 11:01:20+00:00|14-09-2021
+Nick Hawes|[On Solving a Stochastic Shortest-Path Markov Decision Process as   Probabilistic Inference](http://arxiv.org/abs/2109.05866v1)|2021-09-13 11:07:52+00:00|13-09-2021
+Abbas Khosravi|[Accurate Prediction Using Triangular Type-2 Fuzzy Linear Regression](http://arxiv.org/abs/2109.05461v1)|2021-09-12 08:34:14+00:00|12-09-2021
+Udi Wieder|[Omnipredictors](http://arxiv.org/abs/2109.05389v1)|2021-09-11 23:28:49+00:00|11-09-2021
+
 ## 14-09-2021
 
 main_author|title|update_date|publish_date

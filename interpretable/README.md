@@ -1,5 +1,17 @@
 # interpretable
 Click on title for link to paper
+## 21-09-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Ngoc Thang Vu|[Does External Knowledge Help Explainable Natural Language Inference?   Automatic Evaluation vs. Human Ratings](http://arxiv.org/abs/2109.07833v1)|2021-09-16 09:56:20+00:00|16-09-2021
+Mohsen Guizani|[Internet of Behavior (IoB) and Explainable AI Systems for Influencing   IoT Behavior](http://arxiv.org/abs/2109.07239v1)|2021-09-15 12:16:11+00:00|15-09-2021
+Dimitris Askounis|[Explainable Identification of Dementia from Transcripts using   Transformer Networks](http://arxiv.org/abs/2109.06980v1)|2021-09-14 21:49:05+00:00|14-09-2021
+Ulises Cortés|[A trainable monogenic ConvNet layer robust in front of large contrast   changes in image classification](http://arxiv.org/abs/2109.06926v1)|2021-09-14 18:50:07+00:00|14-09-2021
+Alexander Wong|[COVID-Net Clinical ICU: Enhanced Prediction of ICU Admission for   COVID-19 Patients via Explainability and Trust Quantification](http://arxiv.org/abs/2109.06711v1)|2021-09-14 14:16:32+00:00|14-09-2021
+Joachim Denzler|[Anomaly Attribution of Multivariate Time Series using Counterfactual   Reasoning](http://arxiv.org/abs/2109.06562v1)|2021-09-14 10:15:52+00:00|14-09-2021
+Diyi Yang|[Latent Hatred: A Benchmark for Understanding Implicit Hate Speech](http://arxiv.org/abs/2109.05322v1)|2021-09-11 16:52:56+00:00|11-09-2021
+
 ## 14-09-2021
 
 main_author|title|update_date|publish_date
