@@ -1,5 +1,70 @@
 # fairness
 Click on title for link to paper
+## 23-09-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Antonio Ortega|[Learning Sparse Graph with Minimax Concave Penalty under Gaussian Markov   Random Fields](http://arxiv.org/abs/2109.08666v1)|2021-09-17 17:46:12+00:00|17-09-2021
+Ferdinando Fioretto|[A Fairness Analysis on Private Aggregation of Teacher Ensembles](http://arxiv.org/abs/2109.08630v1)|2021-09-17 16:19:24+00:00|17-09-2021
+Matt Seigel|[Enforcing fairness in private federated learning via the modified method   of differential multipliers](http://arxiv.org/abs/2109.08604v1)|2021-09-17 15:28:47+00:00|17-09-2021
+Fabrizio Sebastiani|[Measuring Fairness under Unawareness via Quantification](http://arxiv.org/abs/2109.08549v1)|2021-09-17 13:45:46+00:00|17-09-2021
+Yong Zhang|[Achieving Model Fairness in Vertical Federated Learning](http://arxiv.org/abs/2109.08344v1)|2021-09-17 04:40:11+00:00|17-09-2021
+Francesca A. Lisi|[A Logic-based Multi-agent System for Ethical Monitoring and Evaluation   of Dialogues](http://arxiv.org/abs/2109.08294v1)|2021-09-17 01:48:50+00:00|17-09-2021
+Saif M. Mohammad|[Ethics Sheet for Automatic Emotion Recognition and Sentiment Analysis](http://arxiv.org/abs/2109.08256v1)|2021-09-17 00:18:28+00:00|17-09-2021
+Trevor Cohn|[Balancing out Bias: Achieving Fairness Through Training Reweighting](http://arxiv.org/abs/2109.08253v1)|2021-09-16 23:40:28+00:00|16-09-2021
+Krister Blanch|[Are we ready for beyond-application high-volume data? The Reeds robot   perception benchmark dataset](http://arxiv.org/abs/2109.08250v1)|2021-09-16 23:21:42+00:00|16-09-2021
+Michael Lustig|[Subtle Inverse Crimes: Naïvely training machine learning algorithms   could lead to overly-optimistic results](http://arxiv.org/abs/2109.08237v1)|2021-09-16 22:00:15+00:00|16-09-2021
+Tianling Yang|[Studying Up Machine Learning Data: Why Talk About Bias When We Mean   Power?](http://arxiv.org/abs/2109.08131v1)|2021-09-16 17:38:26+00:00|16-09-2021
+Hakan Gokcesu|[A Quadratic Time Locally Optimal Algorithm for NP-hard Equal Cardinality   Partition Optimization](http://arxiv.org/abs/2109.07882v1)|2021-09-16 11:25:18+00:00|16-09-2021
+Chen Dengsheng|[OpenFed: An Open-Source Security and Privacy Guaranteed Federated   Learning Framework](http://arxiv.org/abs/2109.07852v1)|2021-09-16 10:31:59+00:00|16-09-2021
+Colin Cherry|[Scaling Laws for Neural Machine Translation](http://arxiv.org/abs/2109.07740v1)|2021-09-16 06:15:20+00:00|16-09-2021
+Guihai Chen|[Federated Submodel Averaging](http://arxiv.org/abs/2109.07704v1)|2021-09-16 03:54:54+00:00|16-09-2021
+Po-Sen Huang|[Challenges in Detoxifying Language Models](http://arxiv.org/abs/2109.07445v1)|2021-09-15 17:27:06+00:00|15-09-2021
+Sihong Xie|[Self-learn to Explain Siamese Networks Robustly](http://arxiv.org/abs/2109.07371v1)|2021-09-15 15:28:39+00:00|15-09-2021
+Yaqian Zhou|[A Relation-Oriented Clustering Method for Open Relation Extraction](http://arxiv.org/abs/2109.07205v1)|2021-09-15 10:46:39+00:00|15-09-2021
+Dimitris Askounis|[Explainable Identification of Dementia from Transcripts using   Transformer Networks](http://arxiv.org/abs/2109.06980v1)|2021-09-14 21:49:05+00:00|14-09-2021
+Jayashree Kalpathy-Cramer|[Deploying clinical machine learning? Consider the following...](http://arxiv.org/abs/2109.06919v1)|2021-09-14 18:41:36+00:00|14-09-2021
+Deniz Gündüz|[Fast Federated Edge Learning with Overlapped Communication and   Computation and Channel-Aware Fair Client Scheduling](http://arxiv.org/abs/2109.06710v1)|2021-09-14 14:16:01+00:00|14-09-2021
+Pengyang Wang|[Expert Knowledge-Guided Length-Variant Hierarchical Label Generation for   Proposal Classification](http://arxiv.org/abs/2109.06661v2)|2021-09-15 06:35:08+00:00|14-09-2021
+Kobi Leins|[Just What do You Think You're Doing, Dave?' A Checklist for Responsible   Data Use in NLP](http://arxiv.org/abs/2109.06598v1)|2021-09-14 11:36:42+00:00|14-09-2021
+Kieran Zucker|[The pitfalls of using open data to develop deep learning solutions for   COVID-19 detection in chest X-rays](http://arxiv.org/abs/2109.08020v1)|2021-09-14 10:59:11+00:00|14-09-2021
+Weiwei Lin|[Variation-Incentive Loss Re-weighting for Regression Analysis on Biased   Data](http://arxiv.org/abs/2109.06565v1)|2021-09-14 10:22:21+00:00|14-09-2021
+Insoo Oh|[Netmarble AI Center's WMT21 Automatic Post-Editing Shared Task   Submission](http://arxiv.org/abs/2109.06515v1)|2021-09-14 08:21:18+00:00|14-09-2021
+Chun Chen|[Exploring the Connection between Knowledge Distillation and Logits   Matching](http://arxiv.org/abs/2109.06458v1)|2021-09-14 05:54:29+00:00|14-09-2021
+Snigdha Chaturvedi|[Uncovering Implicit Gender Bias in Narratives through Commonsense   Inference](http://arxiv.org/abs/2109.06437v1)|2021-09-14 04:57:45+00:00|14-09-2021
+Philip S. Yu|[Gradient Imitation Reinforcement Learning for Low Resource Relation   Extraction](http://arxiv.org/abs/2109.06415v1)|2021-09-14 03:51:15+00:00|14-09-2021
+Ufuk Topcu|[Neural Networks with Physics-Informed Architectures and Constraints for   Dynamical Systems Modeling](http://arxiv.org/abs/2109.06407v1)|2021-09-14 02:47:51+00:00|14-09-2021
+Junzi Zhang|[Theoretical Guarantees of Fictitious Discount Algorithms for Episodic   Reinforcement Learning and Global Convergence of Policy Gradient Methods](http://arxiv.org/abs/2109.06362v1)|2021-09-13 23:36:38+00:00|13-09-2021
+Ravi Iyer|[Improving Robustness and Efficiency in Active Learning with Contrastive   Loss](http://arxiv.org/abs/2109.06873v1)|2021-09-13 21:09:21+00:00|13-09-2021
+Ravi Iyer|[Mitigating Sampling Bias and Improving Robustness in Active Learning](http://arxiv.org/abs/2109.06321v1)|2021-09-13 20:58:40+00:00|13-09-2021
+Andreas Vlachos|[Mitigating Catastrophic Forgetting in Scheduled Sampling with Elastic   Weight Consolidation in Neural Machine Translation](http://arxiv.org/abs/2109.06308v1)|2021-09-13 20:37:58+00:00|13-09-2021
+Andrey Malinin|[Multi-Sentence Resampling: A Simple Approach to Alleviate Dataset Length   Bias and Beam-Search Degradation](http://arxiv.org/abs/2109.06253v1)|2021-09-13 18:40:53+00:00|13-09-2021
+Virginia Smith|[On Tilted Losses in Machine Learning: Theory and Applications](http://arxiv.org/abs/2109.06141v1)|2021-09-13 17:33:42+00:00|13-09-2021
+Homayoun Valafar|[Application of Machine Learning in Early Recommendation of Cardiac   Resynchronization Therapy](http://arxiv.org/abs/2109.06139v1)|2021-09-13 17:30:28+00:00|13-09-2021
+Fei Wang|[Correcting the User Feedback-Loop Bias for Recommendation Systems](http://arxiv.org/abs/2109.06037v1)|2021-09-13 15:02:55+00:00|13-09-2021
+George Karypis|[FaiREO: User Group Fairness for Equality of Opportunity in Course   Recommendation](http://arxiv.org/abs/2109.05931v1)|2021-09-13 13:00:13+00:00|13-09-2021
+Thibaud Rahier|[Zeroth-order non-convex learning via hierarchical dual averaging](http://arxiv.org/abs/2109.05829v1)|2021-09-13 09:59:06+00:00|13-09-2021
+Enhong Chen|[Fast Variational AutoEncoder with Inverted Multi-Index for Collaborative   Filtering](http://arxiv.org/abs/2109.05773v1)|2021-09-13 08:31:59+00:00|13-09-2021
+Denisa G`andara|[Auditing Fairness and Imputation Impact in Predictive Analytics for   Higher Education](http://arxiv.org/abs/2109.07908v1)|2021-09-13 05:08:40+00:00|13-09-2021
+Alice Oh|[Mitigating Language-Dependent Ethnic Bias in BERT](http://arxiv.org/abs/2109.05704v2)|2021-09-14 06:27:36+00:00|13-09-2021
+Abolfazl Asudeh|[On the Choice of Fairness: Finding Representative Fairness Metrics for a   Given Context](http://arxiv.org/abs/2109.05697v1)|2021-09-13 04:17:38+00:00|13-09-2021
+Shweta Jain|[An Adaptive Boosting Technique to Mitigate Popularity Bias in   Recommender System](http://arxiv.org/abs/2109.05677v1)|2021-09-13 03:04:55+00:00|13-09-2021
+Benjamin Kimia|[Shape-Biased Domain Generalization via Shock Graph Embeddings](http://arxiv.org/abs/2109.05671v1)|2021-09-13 02:10:40+00:00|13-09-2021
+Yong Zhang|[FedFair: Training Fair Models In Cross-Silo Federated Learning](http://arxiv.org/abs/2109.05662v1)|2021-09-13 01:30:04+00:00|13-09-2021
+Doina Precup|[Is Heterophily A Real Nightmare For Graph Neural Networks To Do Node   Classification?](http://arxiv.org/abs/2109.05641v1)|2021-09-12 23:57:05+00:00|12-09-2021
+Enrico Bertini|[AdViCE: Aggregated Visual Counterfactual Explanations for Machine   Learning Model Validation](http://arxiv.org/abs/2109.05629v1)|2021-09-12 22:52:12+00:00|12-09-2021
+Vishnu Naresh Boddeti|[Adversarial Representation Learning With Closed-Form Solvers](http://arxiv.org/abs/2109.05535v1)|2021-09-12 15:12:23+00:00|12-09-2021
+Amichai Painsky|[Feature Importance in Gradient Boosting Trees with Cross-Validation   Feature Selection](http://arxiv.org/abs/2109.05468v1)|2021-09-12 09:32:43+00:00|12-09-2021
+Xin Eric Wang|[Are Gender-Neutral Queries Really Gender-Neutral? Mitigating Gender Bias   in Image Search](http://arxiv.org/abs/2109.05433v1)|2021-09-12 04:47:33+00:00|12-09-2021
+Desmond C. Ong|[Not All Negatives are Equal: Label-Aware Contrastive Loss for   Fine-grained Text Classification](http://arxiv.org/abs/2109.05427v1)|2021-09-12 04:19:17+00:00|12-09-2021
+Udi Wieder|[Omnipredictors](http://arxiv.org/abs/2109.05389v1)|2021-09-11 23:28:49+00:00|11-09-2021
+Andreas Kunz|[BGT-Net: Bidirectional GRU Transformer Network for Scene Graph   Generation](http://arxiv.org/abs/2109.05346v1)|2021-09-11 19:14:40+00:00|11-09-2021
+Vu Nguyen|[Bayesian Topic Regression for Causal Inference](http://arxiv.org/abs/2109.05317v1)|2021-09-11 16:40:43+00:00|11-09-2021
+Salman Durrani|[Utility Fairness for the Differentially Private Federated Learning](http://arxiv.org/abs/2109.05267v1)|2021-09-11 12:09:04+00:00|11-09-2021
+Kam-Fai Wong|[Prior Omission of Dissimilar Source Domain(s) for Cost-Effective   Few-Shot Learning](http://arxiv.org/abs/2109.05234v1)|2021-09-11 09:30:59+00:00|11-09-2021
+Yongping Zheng|[Follow the Curve: Robotic-Ultrasound Navigation with Learning Based   Localization of Spinous Processes for Scoliosis Assessment](http://arxiv.org/abs/2109.05196v1)|2021-09-11 06:25:30+00:00|11-09-2021
+Mohammad Arif Ul Alam|[College Student Retention Risk Analysis From Educational Database using   Multi-Task Multi-Modal Neural Fusion](http://arxiv.org/abs/2109.05178v1)|2021-09-11 04:06:03+00:00|11-09-2021
+
 ## 21-09-2021
 
 main_author|title|update_date|publish_date
