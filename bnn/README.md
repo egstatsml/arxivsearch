@@ -4,6 +4,27 @@ Click on title for link to paper
 
 main_author|title|update_date|publish_date
 ---|---|---|---
+Jose C. Principe|[Quantifying Model Predictive Uncertainty with Perturbation Theory](http://arxiv.org/abs/2109.10888v1)|2021-09-22 17:55:09+00:00|22-09-2021
+Joachim Denzler|[Causal Inference in Non-linear Time-series usingDeep Networks and   Knockoff Counterfactuals](http://arxiv.org/abs/2109.10817v1)|2021-09-22 16:07:27+00:00|22-09-2021
+Mina Rezaei|[Deep Variational Clustering Framework for Self-labeling of Large-scale   Medical Images](http://arxiv.org/abs/2109.10777v1)|2021-09-22 15:01:52+00:00|22-09-2021
+Ivan Oseledets|[CC-Cert: A Probabilistic Approach to Certify General Robustness of   Neural Networks](http://arxiv.org/abs/2109.10696v1)|2021-09-22 12:46:04+00:00|22-09-2021
+Tobias Friis|[A Latent Restoring Force Approach to Nonlinear System Identification](http://arxiv.org/abs/2109.10681v1)|2021-09-22 12:21:16+00:00|22-09-2021
+Xun Cao|[Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation](http://arxiv.org/abs/2109.10595v1)|2021-09-22 08:47:43+00:00|22-09-2021
+Wei Zhang|[High-dimensional Bayesian Optimization for CNN Auto Pruning with   Clustering and Rollback](http://arxiv.org/abs/2109.10591v1)|2021-09-22 08:39:15+00:00|22-09-2021
+Josef Kittler|[Learning PAC-Bayes Priors for Probabilistic Neural Networks](http://arxiv.org/abs/2109.10304v1)|2021-09-21 16:27:42+00:00|21-09-2021
+Anselm Haselhoff|[Bayesian Confidence Calibration for Epistemic Uncertainty Modelling](http://arxiv.org/abs/2109.10092v1)|2021-09-21 10:53:16+00:00|21-09-2021
+Brian C. William|[Fast nonlinear risk assessment for autonomous vehicles using learned   conditional probabilistic models of agent futures](http://arxiv.org/abs/2109.09975v1)|2021-09-21 05:55:39+00:00|21-09-2021
+Federico Benvenuto|[Prediction of severe thunderstorm events with ensemble deep learning and   radar data](http://arxiv.org/abs/2109.09791v1)|2021-09-20 18:43:13+00:00|20-09-2021
+Rudolph Triebel|[Trust Your Robots! Predictive Uncertainty Estimation of Neural Networks   with Sparse Gaussian Processes](http://arxiv.org/abs/2109.09690v2)|2021-09-21 15:27:37+00:00|20-09-2021
+Hyun Soo Park|[Semi-supervised Dense Keypointsusing Unlabeled Multiview Images](http://arxiv.org/abs/2109.09299v1)|2021-09-20 04:57:57+00:00|20-09-2021
+Xiaofang Wang|[Scalable Multi-Task Gaussian Processes with Neural Embedding of   Coregionalization](http://arxiv.org/abs/2109.09261v1)|2021-09-20 01:28:14+00:00|20-09-2021
+Sanvesh Srivastava|[Asynchronous and Distributed Data Augmentation for Massive Data Settings](http://arxiv.org/abs/2109.08969v1)|2021-09-18 17:07:24+00:00|18-09-2021
+Gaurav S. Sukhatme|[Probabilistic Inference of Simulation Parameters via Parallel   Differentiable Simulation](http://arxiv.org/abs/2109.08815v1)|2021-09-18 03:05:44+00:00|18-09-2021
+
+## 23-09-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
 Zoubin Ghahramani|[Automatic prior selection for meta Bayesian optimization with a case   study on tuning deep neural network optimizers](http://arxiv.org/abs/2109.08215v1)|2021-09-16 20:46:26+00:00|16-09-2021
 Kamal Youcef-Toumi|[Improving Regression Uncertainty Estimation Under Statistical Change](http://arxiv.org/abs/2109.08213v1)|2021-09-16 20:32:58+00:00|16-09-2021
 Prashant Doshi|[Marginal MAP Estimation for Inverse RL under Occlusion with Observer   Noise](http://arxiv.org/abs/2109.07788v1)|2021-09-16 08:20:52+00:00|16-09-2021

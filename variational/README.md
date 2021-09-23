@@ -1,5 +1,17 @@
 # variational
 Click on title for link to paper
+## 23-09-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Ashish Ghosh|[Improved Multi-label Classification with Frequent Label-set Mining and   Association](http://arxiv.org/abs/2109.10797v1)|2021-09-22 15:36:46+00:00|22-09-2021
+Anselm Haselhoff|[Bayesian Confidence Calibration for Epistemic Uncertainty Modelling](http://arxiv.org/abs/2109.10092v1)|2021-09-21 10:53:16+00:00|21-09-2021
+Brian C. William|[Fast nonlinear risk assessment for autonomous vehicles using learned   conditional probabilistic models of agent futures](http://arxiv.org/abs/2109.09975v1)|2021-09-21 05:55:39+00:00|21-09-2021
+Jianfei Cai|[Enforcing Mutual Consistency of Hard Regions for Semi-supervised Medical   Image Segmentation](http://arxiv.org/abs/2109.09960v1)|2021-09-21 04:47:42+00:00|21-09-2021
+Darko Stern|[Modeling Annotation Uncertainty with Gaussian Heatmaps in Landmark   Localization](http://arxiv.org/abs/2109.09533v2)|2021-09-21 12:03:09+00:00|20-09-2021
+Kuldeep S. Meel|[Algorithmic Fairness Verification with Graphical Models](http://arxiv.org/abs/2109.09447v1)|2021-09-20 12:05:14+00:00|20-09-2021
+Xiaofang Wang|[Scalable Multi-Task Gaussian Processes with Neural Embedding of   Coregionalization](http://arxiv.org/abs/2109.09261v1)|2021-09-20 01:28:14+00:00|20-09-2021
+
 ## 21-09-2021
 
 main_author|title|update_date|publish_date

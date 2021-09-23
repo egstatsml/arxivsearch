@@ -4,6 +4,41 @@ Click on title for link to paper
 
 main_author|title|update_date|publish_date
 ---|---|---|---
+Suleyman S. Kozat|[Estimation Error Correction in Deep Reinforcement Learning for   Deterministic Actor-Critic Methods](http://arxiv.org/abs/2109.10736v1)|2021-09-22 13:49:35+00:00|22-09-2021
+Lea Frermann|[Contrastive Learning for Fair Representations](http://arxiv.org/abs/2109.10645v1)|2021-09-22 10:47:51+00:00|22-09-2021
+Jakob Assländer|[Cramér-Rao bound-informed training of neural networks for quantitative   MRI](http://arxiv.org/abs/2109.10535v1)|2021-09-22 06:38:03+00:00|22-09-2021
+Pan Zhou|[Backdoor Attacks on Federated Learning with Lottery Ticket Hypothesis](http://arxiv.org/abs/2109.10512v1)|2021-09-22 04:19:59+00:00|22-09-2021
+Xintao Wu|[Achieving Counterfactual Fairness for Causal Bandit](http://arxiv.org/abs/2109.10458v1)|2021-09-21 23:44:48+00:00|21-09-2021
+Flavio P. Calmon|[Fairness without Imputation: A Decision Tree Approach for Fair   Prediction with Missing Values](http://arxiv.org/abs/2109.10431v1)|2021-09-21 20:46:22+00:00|21-09-2021
+Navneet Gupta|[Comparison of Neural Network based Soft Computing Techniques for   Electromagnetic Modeling of a Microstrip Patch Antenna](http://arxiv.org/abs/2109.10065v1)|2021-09-21 10:08:22+00:00|21-09-2021
+Mei Li|[Towards a Fairness-Aware Scoring System for Algorithmic Decision-Making](http://arxiv.org/abs/2109.10053v1)|2021-09-21 09:46:35+00:00|21-09-2021
+Ludmil Zikatanov|[Neural networks with trainable matrix activation functions](http://arxiv.org/abs/2109.09948v2)|2021-09-22 01:47:47+00:00|21-09-2021
+Melanie Weber|[Identifying biases in legal data: An algorithmic fairness perspective](http://arxiv.org/abs/2109.09946v1)|2021-09-21 04:05:12+00:00|21-09-2021
+Martin D. Burke|[Chemical-Reaction-Aware Molecule Representation Learning](http://arxiv.org/abs/2109.09888v2)|2021-09-22 05:10:04+00:00|21-09-2021
+Aygul Zagidullina|[Model Bias in NLP - Application to Hate Speech Classification](http://arxiv.org/abs/2109.09725v1)|2021-09-20 17:56:08+00:00|20-09-2021
+Luis Martí-Bonmatí|[FUTURE-AI: Guiding Principles and Consensus Recommendations for   Trustworthy Artificial Intelligence in Future Medical Imaging](http://arxiv.org/abs/2109.09658v2)|2021-09-21 07:42:01+00:00|20-09-2021
+Tristan Glatard|[Data Augmentation Through Monte Carlo Arithmetic Leads to More   Generalizable Classification in Connectomics](http://arxiv.org/abs/2109.09649v1)|2021-09-20 16:06:05+00:00|20-09-2021
+Kuldeep S. Meel|[Algorithmic Fairness Verification with Graphical Models](http://arxiv.org/abs/2109.09447v1)|2021-09-20 12:05:14+00:00|20-09-2021
+Mark van der Wilk|[Barely Biased Learning for Gaussian Process Regression](http://arxiv.org/abs/2109.09417v1)|2021-09-20 10:35:59+00:00|20-09-2021
+Arjan Kuijper|[ElasticFace: Elastic Margin Loss for Deep Face Recognition](http://arxiv.org/abs/2109.09416v2)|2021-09-22 13:18:06+00:00|20-09-2021
+Bénédicte Cuenot|[Performance and accuracy assessments of an incompressible fluid solver   coupled with a deep Convolutional Neural Network](http://arxiv.org/abs/2109.09363v1)|2021-09-20 08:30:29+00:00|20-09-2021
+Yew-Soon Ong|[Learning in Sinusoidal Spaces with Physics-Informed Neural Networks](http://arxiv.org/abs/2109.09338v1)|2021-09-20 07:42:41+00:00|20-09-2021
+Shirui Pan|[Robust Physical-World Attacks on Face Recognition](http://arxiv.org/abs/2109.09320v1)|2021-09-20 06:49:52+00:00|20-09-2021
+Mahardhika Pratama|[Unsupervised Continual Learning in Streaming Environments](http://arxiv.org/abs/2109.09282v1)|2021-09-20 03:13:35+00:00|20-09-2021
+Paolo Rosso|[UPV at CheckThat! 2021: Mitigating Cultural Differences for Identifying   Multilingual Check-worthy Claims](http://arxiv.org/abs/2109.09232v1)|2021-09-19 21:46:16+00:00|19-09-2021
+Fuchun Peng|[Model-Based Approach for Measuring the Fairness in ASR](http://arxiv.org/abs/2109.09061v1)|2021-09-19 05:24:01+00:00|19-09-2021
+Bibek Paudel|[Towards Automatic Bias Detection in Knowledge Graphs](http://arxiv.org/abs/2109.10697v1)|2021-09-19 03:58:25+00:00|19-09-2021
+Yong Zhang|[Improving Fairness for Data Valuation in Federated Learning](http://arxiv.org/abs/2109.09046v1)|2021-09-19 02:39:59+00:00|19-09-2021
+Richard Yi Da Xu|[Regularize! Don't Mix: Multi-Agent Reinforcement Learning without   Explicit Centralized Structures](http://arxiv.org/abs/2109.09038v1)|2021-09-19 00:58:38+00:00|19-09-2021
+Arunkumar Bagavathi|[A Machine Learning Pipeline to Examine Political Bias with Congressional   Speeches](http://arxiv.org/abs/2109.09014v1)|2021-09-18 21:15:21+00:00|18-09-2021
+Ghanapriya Singh|[Underwater Image Enhancement Using Convolutional Neural Network](http://arxiv.org/abs/2109.08916v1)|2021-09-18 12:01:14+00:00|18-09-2021
+Ji Liu|[SpeechNAS: Towards Better Trade-off between Latency and Accuracy for   Large-Scale Speaker Verification](http://arxiv.org/abs/2109.08839v1)|2021-09-18 05:31:27+00:00|18-09-2021
+Sharad Goel|[Learning to be Fair: A Consequentialist Approach to Equitable   Decision-Making](http://arxiv.org/abs/2109.08792v1)|2021-09-18 00:30:43+00:00|18-09-2021
+
+## 23-09-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
 Antonio Ortega|[Learning Sparse Graph with Minimax Concave Penalty under Gaussian Markov   Random Fields](http://arxiv.org/abs/2109.08666v1)|2021-09-17 17:46:12+00:00|17-09-2021
 Ferdinando Fioretto|[A Fairness Analysis on Private Aggregation of Teacher Ensembles](http://arxiv.org/abs/2109.08630v1)|2021-09-17 16:19:24+00:00|17-09-2021
 Matt Seigel|[Enforcing fairness in private federated learning via the modified method   of differential multipliers](http://arxiv.org/abs/2109.08604v1)|2021-09-17 15:28:47+00:00|17-09-2021

@@ -1,5 +1,18 @@
 # interpretable
 Click on title for link to paper
+## 23-09-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Gabriel Loaiza-Ganem|[Entropic Issues in Likelihood-Based OOD Detection](http://arxiv.org/abs/2109.10794v1)|2021-09-22 15:32:57+00:00|22-09-2021
+Alex Pentland|[Investigating and Modeling the Dynamics of Long Ties](http://arxiv.org/abs/2109.10523v1)|2021-09-22 05:40:45+00:00|22-09-2021
+Wenyuan Xu|[FakeWake: Understanding and Mitigating Fake Wake-up Words of Voice   Assistants](http://arxiv.org/abs/2109.09958v1)|2021-09-21 04:46:08+00:00|21-09-2021
+Luis Martí-Bonmatí|[FUTURE-AI: Guiding Principles and Consensus Recommendations for   Trustworthy Artificial Intelligence in Future Medical Imaging](http://arxiv.org/abs/2109.09658v2)|2021-09-21 07:42:01+00:00|20-09-2021
+Michael Färber|[Explaining Convolutional Neural Networks by Tagging Filters](http://arxiv.org/abs/2109.09389v1)|2021-09-20 09:27:27+00:00|20-09-2021
+Mohammad Rashedul Hasan|[A Study of the Generalizability of Self-Supervised Representations](http://arxiv.org/abs/2109.09150v1)|2021-09-19 15:57:37+00:00|19-09-2021
+Lili Mou|[Weakly Supervised Explainable Phrasal Reasoning with Neural Fuzzy Logic](http://arxiv.org/abs/2109.08927v1)|2021-09-18 13:04:23+00:00|18-09-2021
+Yun-Nung Chen|[Relating Neural Text Degeneration to Exposure Bias](http://arxiv.org/abs/2109.08705v1)|2021-09-17 18:11:03+00:00|17-09-2021
+
 ## 21-09-2021
 
 main_author|title|update_date|publish_date
