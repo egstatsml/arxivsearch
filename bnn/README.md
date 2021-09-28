@@ -1,5 +1,13 @@
 # bnn
 Click on title for link to paper
+## 28-09-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Michiaki Tatsubori|[Online Adaptation of Parameters using GRU-based Neural Network with BO   for Accurate Driving Model](http://arxiv.org/abs/2109.11720v1)|2021-09-24 03:07:12+00:00|24-09-2021
+Rudolph Triebel|[Bridging the Last Mile in Sim-to-Real Robot Perception via Bayesian   Active Learning](http://arxiv.org/abs/2109.11547v1)|2021-09-23 14:45:40+00:00|23-09-2021
+Nikolai Smolyanskiy|[PredictionNet: Real-Time Joint Probabilistic Traffic Prediction for   Planning, Control, and Simulation](http://arxiv.org/abs/2109.11094v1)|2021-09-23 01:23:47+00:00|23-09-2021
+
 ## 23-09-2021
 
 main_author|title|update_date|publish_date

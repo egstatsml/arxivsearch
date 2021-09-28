@@ -1,5 +1,25 @@
 # fairness
 Click on title for link to paper
+## 28-09-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Sven Kreiss|[Deep Social Force](http://arxiv.org/abs/2109.12081v1)|2021-09-24 17:12:34+00:00|24-09-2021
+Andre Wibisono|[The Mirror Langevin Algorithm Converges with Vanishing Bias](http://arxiv.org/abs/2109.12077v1)|2021-09-24 17:00:57+00:00|24-09-2021
+Antonios Anastasopoulos|[SD-QA: Spoken Dialectal Question Answering for the Real World](http://arxiv.org/abs/2109.12072v1)|2021-09-24 16:54:27+00:00|24-09-2021
+Remy Kusters|[Discovering PDEs from Multiple Experiments](http://arxiv.org/abs/2109.11939v1)|2021-09-24 12:56:37+00:00|24-09-2021
+Ulrike Meyer|[The More, the Better? A Study on Collaborative Machine Learning for DGA   Detection](http://arxiv.org/abs/2109.11830v1)|2021-09-24 09:19:30+00:00|24-09-2021
+Christian Wolf|[SIM2REALVIZ: Visualizing the Sim2Real Gap in Robot Ego-Pose Estimation](http://arxiv.org/abs/2109.11801v1)|2021-09-24 08:17:33+00:00|24-09-2021
+Suleyman S. Kozat|[Parameter-Free Deterministic Reduction of the Estimation Bias in   Continuous Control](http://arxiv.org/abs/2109.11788v1)|2021-09-24 07:41:07+00:00|24-09-2021
+Jing-Hao Xue|[Dimension Reduction for Data with Heterogeneous Missingness](http://arxiv.org/abs/2109.11765v2)|2021-09-27 08:02:49+00:00|24-09-2021
+Jeffrey G. Andrews|[Distributed Deep Reinforcement Learning for Adaptive Medium Access and   Modulation in Shared Spectrum](http://arxiv.org/abs/2109.11723v1)|2021-09-24 03:33:45+00:00|24-09-2021
+Brandon C. Wood|[Efficient, Interpretable Atomistic Graph Neural Network Representation   for Angle-dependent Properties and its Application to Optical Spectroscopy   Prediction](http://arxiv.org/abs/2109.11576v1)|2021-09-23 18:10:39+00:00|23-09-2021
+Mladen Kolar|[Inequality Constrained Stochastic Nonlinear Optimization via Active-Set   Sequential Quadratic Programming](http://arxiv.org/abs/2109.11502v1)|2021-09-23 17:12:17+00:00|23-09-2021
+Rohit Babbar|[Unbiased Loss Functions for Multilabel Classification with Missing   Labels](http://arxiv.org/abs/2109.11282v1)|2021-09-23 10:39:02+00:00|23-09-2021
+Akiko Aizawa|[Can Question Generation Debias Question Answering Models? A Case Study   on Question-Context Lexical Overlap](http://arxiv.org/abs/2109.11256v1)|2021-09-23 09:53:54+00:00|23-09-2021
+Chang D. Yoo|[Fast and Efficient MMD-based Fair PCA via Optimization over Stiefel   Manifold](http://arxiv.org/abs/2109.11196v1)|2021-09-23 08:06:02+00:00|23-09-2021
+George Karypis|[Distiller: A Systematic Study of Model Distillation Methods in Natural   Language Processing](http://arxiv.org/abs/2109.11105v1)|2021-09-23 02:12:28+00:00|23-09-2021
+
 ## 23-09-2021
 
 main_author|title|update_date|publish_date

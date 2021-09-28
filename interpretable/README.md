@@ -1,5 +1,12 @@
 # interpretable
 Click on title for link to paper
+## 28-09-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Benjamin I. P. Rubinstein|[Local Intrinsic Dimensionality Signals Adversarial Perturbations](http://arxiv.org/abs/2109.11803v1)|2021-09-24 08:29:50+00:00|24-09-2021
+Changyou Chen|[AES Are Both Overstable And Oversensitive: Explaining Why And Proposing   Defenses](http://arxiv.org/abs/2109.11728v1)|2021-09-24 03:49:38+00:00|24-09-2021
+
 ## 23-09-2021
 
 main_author|title|update_date|publish_date
