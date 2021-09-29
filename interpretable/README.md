@@ -1,5 +1,12 @@
 # interpretable
 Click on title for link to paper
+## 29-09-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Sunil Reddy Tiyyagura|[DeepPSL: End-to-end perception and reasoning with applications to zero   shot learning](http://arxiv.org/abs/2109.13662v1)|2021-09-28 12:30:33+00:00|28-09-2021
+Daniel A. Keim|[Time Series Model Attribution Visualizations as Explanations](http://arxiv.org/abs/2109.12935v1)|2021-09-27 10:44:07+00:00|27-09-2021
+
 ## 28-09-2021
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,29 @@
 # fairness
 Click on title for link to paper
+## 29-09-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Desmond Elliott|[Visually Grounded Reasoning across Languages and Cultures](http://arxiv.org/abs/2109.13238v1)|2021-09-28 16:51:38+00:00|28-09-2021
+J. Peter Campbell|[Not Color Blind: AI Predicts Racial Identity from Black and White   Retinal Vessel Segmentations](http://arxiv.org/abs/2109.13845v1)|2021-09-28 16:21:37+00:00|28-09-2021
+Tanmoy Chakraborty|[Identifying and Mitigating Gender Bias in Hyperbolic Word Embeddings](http://arxiv.org/abs/2109.13767v1)|2021-09-28 14:43:37+00:00|28-09-2021
+Bartosz Grabowski|[Stable training of autoencoders for hyperspectral unmixing](http://arxiv.org/abs/2109.13748v1)|2021-09-28 14:07:24+00:00|28-09-2021
+Francesco Bonchi|[Learning Ideological Embeddings from Information Cascades](http://arxiv.org/abs/2109.13589v1)|2021-09-28 09:58:02+00:00|28-09-2021
+Zhiming Ding|[Delve into the Performance Degradation of Differentiable Architecture   Search](http://arxiv.org/abs/2109.13466v1)|2021-09-28 03:37:56+00:00|28-09-2021
+Stefan Adams|[Lithium-ion Battery State of Health Estimation based on Cycle   Synchronization using Dynamic Time Warping](http://arxiv.org/abs/2109.13448v1)|2021-09-28 02:53:54+00:00|28-09-2021
+Jan Funke|[Discriminative Attribution from Counterfactuals](http://arxiv.org/abs/2109.13412v1)|2021-09-28 00:53:34+00:00|28-09-2021
+Sherri Rose|[Conditional Cross-Design Synthesis Estimators for Generalizability in   Medicaid](http://arxiv.org/abs/2109.13288v1)|2021-09-27 18:20:32+00:00|27-09-2021
+Vladimir Pavlovic|[DAReN: A Collaborative Approach Towards Reasoning And Disentangling](http://arxiv.org/abs/2109.13156v1)|2021-09-27 16:10:30+00:00|27-09-2021
+Ayanna Howard|[Mitigating Racial Biases in Toxic Language Detection with an   Equity-Based Ensemble Framework](http://arxiv.org/abs/2109.13137v1)|2021-09-27 15:54:05+00:00|27-09-2021
+Bac Le|[Semi-Supervised Adversarial Discriminative Domain Adaptation](http://arxiv.org/abs/2109.13016v1)|2021-09-27 12:52:50+00:00|27-09-2021
+Boris Hanin|[Ridgeless Interpolation with Shallow ReLU Networks in $1D$ is Nearest   Neighbor Curvature Extrapolation and Provably Generalizes on Lipschitz   Functions](http://arxiv.org/abs/2109.12960v1)|2021-09-27 11:32:24+00:00|27-09-2021
+Zhilin Yang|[FewNLU: Benchmarking State-of-the-Art Methods for Few-Shot Natural   Language Understanding](http://arxiv.org/abs/2109.12742v1)|2021-09-27 00:57:30+00:00|27-09-2021
+John E. Mitchell|[Provable Low Rank Plus Sparse Matrix Separation Via Nonconvex   Regularizers](http://arxiv.org/abs/2109.12713v1)|2021-09-26 22:09:42+00:00|26-09-2021
+Marek Grzes|[Be More Active! Understanding the Differences between Mean and Sampled   Representations of Variational Autoencoders](http://arxiv.org/abs/2109.12679v1)|2021-09-26 19:04:57+00:00|26-09-2021
+Xiaoqian Chen|[Physics-informed Convolutional Neural Networks for Temperature Field   Prediction of Heat Source Layout without Labeled Data](http://arxiv.org/abs/2109.12482v1)|2021-09-26 03:24:23+00:00|26-09-2021
+Anirvan Basu|[Classification of COVID-19 from CXR Images in a 15-class Scenario: an   Attempt to Avoid Bias in the System](http://arxiv.org/abs/2109.12453v1)|2021-09-25 22:42:29+00:00|25-09-2021
+Jinhua Zhao|[Equality of opportunity in travel behavior prediction with deep neural   networks and discrete choice models](http://arxiv.org/abs/2109.12422v1)|2021-09-25 19:02:23+00:00|25-09-2021
+
 ## 28-09-2021
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,14 @@
 # variational
 Click on title for link to paper
+## 29-09-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Jiansheng Wei|[Diffusion-Based Voice Conversion with Fast Maximum Likelihood Sampling   Scheme](http://arxiv.org/abs/2109.13821v1)|2021-09-28 15:48:22+00:00|28-09-2021
+George Em Karniadakis|[DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal   Graphs](http://arxiv.org/abs/2109.13441v1)|2021-09-28 02:36:56+00:00|28-09-2021
+Arlindo L. Oliveira|[Using Soft Labels to Model Uncertainty in Medical Image Segmentation](http://arxiv.org/abs/2109.12622v1)|2021-09-26 14:47:18+00:00|26-09-2021
+Víctor Gallego|[Contributions to Large Scale Bayesian Inference and Adversarial Machine   Learning](http://arxiv.org/abs/2109.13232v1)|2021-09-25 23:02:47+00:00|25-09-2021
+
 ## 28-09-2021
 
 main_author|title|update_date|publish_date

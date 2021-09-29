@@ -1,5 +1,21 @@
 # bnn
 Click on title for link to paper
+## 29-09-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Arthur White|[Gaussian Processes to speed up MCMC with automatic   exploratory-exploitation effect](http://arxiv.org/abs/2109.13891v1)|2021-09-28 17:43:25+00:00|28-09-2021
+Sunil Reddy Tiyyagura|[DeepPSL: End-to-end perception and reasoning with applications to zero   shot learning](http://arxiv.org/abs/2109.13662v1)|2021-09-28 12:30:33+00:00|28-09-2021
+Peter Claes|[Unsupervised Diffeomorphic Surface Registration and Non-Linear Modelling](http://arxiv.org/abs/2109.13630v1)|2021-09-28 11:47:12+00:00|28-09-2021
+Pascal Fua|[DEBOSH: Deep Bayesian Shape Optimization](http://arxiv.org/abs/2109.13337v1)|2021-09-28 11:01:42+00:00|28-09-2021
+Alex D. Bird|[Confusion-based rank similarity filters for computationally-efficient   machine learning on high dimensional data](http://arxiv.org/abs/2109.13610v1)|2021-09-28 10:53:38+00:00|28-09-2021
+George Em Karniadakis|[DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal   Graphs](http://arxiv.org/abs/2109.13441v1)|2021-09-28 02:36:56+00:00|28-09-2021
+Qiang Yang|[Federated Deep Learning with Bayesian Privacy](http://arxiv.org/abs/2109.13012v1)|2021-09-27 12:48:40+00:00|27-09-2021
+Djamé Seddah|[Challenging the Semi-Supervised VAE Framework for Text Classification](http://arxiv.org/abs/2109.12969v1)|2021-09-27 11:46:32+00:00|27-09-2021
+Fernando Perez-Cruz|[Probabilistic modeling of lake surface water temperature using a   Bayesian spatio-temporal graph convolutional neural network](http://arxiv.org/abs/2109.13235v1)|2021-09-27 09:19:53+00:00|27-09-2021
+Sergey Levine|[Training on Test Data with Bayesian Adaptation for Covariate Shift](http://arxiv.org/abs/2109.12746v1)|2021-09-27 01:09:08+00:00|27-09-2021
+Víctor Gallego|[Contributions to Large Scale Bayesian Inference and Adversarial Machine   Learning](http://arxiv.org/abs/2109.13232v1)|2021-09-25 23:02:47+00:00|25-09-2021
+
 ## 28-09-2021
 
 main_author|title|update_date|publish_date
