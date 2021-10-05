@@ -1,5 +1,31 @@
 # fairness
 Click on title for link to paper
+## 05-10-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Bruno Ribeiro|[Reconstruction for Powerful Graph Representations](http://arxiv.org/abs/2110.00577v1)|2021-10-01 17:59:24+00:00|01-10-2021
+Russ Webb|[Evaluating the fairness of fine-tuning strategies in self-supervised   learning](http://arxiv.org/abs/2110.00538v1)|2021-10-01 17:04:53+00:00|01-10-2021
+Eirini Ntoutsi|[A survey on datasets for fairness-aware machine learning](http://arxiv.org/abs/2110.00530v1)|2021-10-01 16:54:04+00:00|01-10-2021
+Cecilia Ovesdotter Alm|[Unpacking the Interdependent Systems of Discrimination: Ableist Bias in   NLP Systems through an Intersectional Lens](http://arxiv.org/abs/2110.00521v1)|2021-10-01 16:40:58+00:00|01-10-2021
+Qi Zhang|[SAM: A Self-adaptive Attention Module for Context-Aware Recommendation   System](http://arxiv.org/abs/2110.00452v1)|2021-10-01 14:37:14+00:00|01-10-2021
+Yixuan Yuan|[Personalized Retrogress-Resilient Framework for Real-World Medical   Federated Learning](http://arxiv.org/abs/2110.00394v1)|2021-10-01 13:24:29+00:00|01-10-2021
+Chongjie Zhang|[Offline Reinforcement Learning with Reverse Model-based Imagination](http://arxiv.org/abs/2110.00188v1)|2021-10-01 03:13:22+00:00|01-10-2021
+Kasey Machin|[#ContextMatters: Advantages and Limitations of Using Machine Learning to   Support Women in Politics](http://arxiv.org/abs/2110.00116v1)|2021-09-30 22:55:49+00:00|30-09-2021
+Masataro Asai|[Width-Based Planning and Active Learning for Atari](http://arxiv.org/abs/2109.15310v1)|2021-09-30 17:52:00+00:00|30-09-2021
+Dennis Shen|[Causal Matrix Completion](http://arxiv.org/abs/2109.15154v1)|2021-09-30 14:17:56+00:00|30-09-2021
+Jue Wang|[Motion-aware Self-supervised Video Representation Learning via   Foreground-background Merging](http://arxiv.org/abs/2109.15130v1)|2021-09-30 13:45:26+00:00|30-09-2021
+Haytham Assem|[Deep Neural Compression Via Concurrent Pruning and Self-Distillation](http://arxiv.org/abs/2109.15014v1)|2021-09-30 11:08:30+00:00|30-09-2021
+Inanc Senocak|[Physics and Equality Constrained Artificial Neural Networks: Application   to Partial Differential Equations](http://arxiv.org/abs/2109.14860v1)|2021-09-30 05:55:35+00:00|30-09-2021
+Reginald E. Bryant|[An Empirical Study of Accuracy, Fairness, Explainability, Distributional   Robustness, and Adversarial Robustness](http://arxiv.org/abs/2109.14653v1)|2021-09-29 18:21:19+00:00|29-09-2021
+Sameer Antani|[Multi-loss ensemble deep learning for chest X-ray classification](http://arxiv.org/abs/2109.14433v1)|2021-09-29 14:14:04+00:00|29-09-2021
+Chongjie Zhang|[On the Estimation Bias in Double Q-Learning](http://arxiv.org/abs/2109.14419v1)|2021-09-29 13:41:24+00:00|29-09-2021
+Erez Shmueli|[Fairness-Driven Private Collaborative Machine Learning](http://arxiv.org/abs/2109.14376v1)|2021-09-29 12:22:00+00:00|29-09-2021
+Stefano Ermon|[Equivariant Neural Network for Factor Graphs](http://arxiv.org/abs/2109.14218v1)|2021-09-29 06:54:04+00:00|29-09-2021
+Chen Zhang|[Flow Based Models For Manifold Data](http://arxiv.org/abs/2109.14216v1)|2021-09-29 06:48:01+00:00|29-09-2021
+Lifeng Lai|[On the Convergence of Projected Alternating Maximization for Equitable   and Optimal Transport](http://arxiv.org/abs/2109.15030v2)|2021-10-01 01:00:36+00:00|29-09-2021
+Murat Dundar|[Fine-Grained Zero-Shot Learning with DNA as Side Information](http://arxiv.org/abs/2109.14133v1)|2021-09-29 01:45:22+00:00|29-09-2021
+
 ## 29-09-2021
 
 main_author|title|update_date|publish_date

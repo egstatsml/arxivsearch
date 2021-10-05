@@ -1,5 +1,14 @@
 # interpretable
 Click on title for link to paper
+## 05-10-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Hamed Pirsiavash|[Consistent Explanations by Contrastive Learning](http://arxiv.org/abs/2110.00527v1)|2021-10-01 16:49:16+00:00|01-10-2021
+Reginald E. Bryant|[An Empirical Study of Accuracy, Fairness, Explainability, Distributional   Robustness, and Adversarial Robustness](http://arxiv.org/abs/2109.14653v1)|2021-09-29 18:21:19+00:00|29-09-2021
+Joshua Tenenbaum|[Identity-Expression Ambiguity in 3D Morphable Face Models](http://arxiv.org/abs/2109.14203v1)|2021-09-29 06:11:43+00:00|29-09-2021
+L Azizi|[Non-stationary Gaussian process discriminant analysis with variable   selection for high-dimensional functional data](http://arxiv.org/abs/2109.14171v1)|2021-09-29 03:35:49+00:00|29-09-2021
+
 ## 29-09-2021
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,18 @@
 # bnn
 Click on title for link to paper
+## 05-10-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Patrick Shafto|[Conditional Deep Gaussian Processes: empirical Bayes hyperdata learning](http://arxiv.org/abs/2110.00568v1)|2021-10-01 17:50:48+00:00|01-10-2021
+Gilles Louppe|[Arbitrary Marginal Neural Ratio Estimation for Simulation-based   Inference](http://arxiv.org/abs/2110.00449v1)|2021-10-01 14:35:46+00:00|01-10-2021
+Theofanis Karaletsos|[TyXe: Pyro-based Bayesian neural nets for Pytorch](http://arxiv.org/abs/2110.00276v1)|2021-10-01 09:04:26+00:00|01-10-2021
+Johan du Preez|[Strengthening Probabilistic Graphical Models: The Purge-and-merge   Algorithm](http://arxiv.org/abs/2110.00091v1)|2021-09-30 21:20:52+00:00|30-09-2021
+Feng Wu|[End-to-End Image Compression with Probabilistic Decoding](http://arxiv.org/abs/2109.14837v1)|2021-09-30 04:07:09+00:00|30-09-2021
+Heinz Koeppl|[Variational Inference for Continuous-Time Switching Dynamical Systems](http://arxiv.org/abs/2109.14492v1)|2021-09-29 15:19:51+00:00|29-09-2021
+Christoph Lippert|[Self-Supervised Learning for 3D Medical Image Analysis using 3D SimCLR   and Monte Carlo Dropout](http://arxiv.org/abs/2109.14288v2)|2021-10-01 08:33:36+00:00|29-09-2021
+Gilles Louppe|[Simulation-based Bayesian inference for multi-fingered robotic grasping](http://arxiv.org/abs/2109.14275v1)|2021-09-29 08:44:36+00:00|29-09-2021
+
 ## 29-09-2021
 
 main_author|title|update_date|publish_date

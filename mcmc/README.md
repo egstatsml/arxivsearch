@@ -1,5 +1,17 @@
 # mcmc
 Click on title for link to paper
+## 05-10-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Gilles Louppe|[Arbitrary Marginal Neural Ratio Estimation for Simulation-based   Inference](http://arxiv.org/abs/2110.00449v1)|2021-10-01 14:35:46+00:00|01-10-2021
+Theofanis Karaletsos|[TyXe: Pyro-based Bayesian neural nets for Pytorch](http://arxiv.org/abs/2110.00276v1)|2021-10-01 09:04:26+00:00|01-10-2021
+Mohsen Ali|[Synergizing between Self-Training and Adversarial Learning for Domain   Adaptive Object Detection](http://arxiv.org/abs/2110.00249v1)|2021-10-01 08:10:00+00:00|01-10-2021
+Linda Petzold|[Empirical Quantitative Analysis of COVID-19 Forecasting Models](http://arxiv.org/abs/2110.00174v1)|2021-10-01 02:31:56+00:00|01-10-2021
+Justin Domke|[Variational Marginal Particle Filters](http://arxiv.org/abs/2109.15134v1)|2021-09-30 13:55:16+00:00|30-09-2021
+Vishal Patel|[Uncertainty-aware Mean Teacher for Source-free Unsupervised Domain   Adaptive 3D Object Detection](http://arxiv.org/abs/2109.14651v1)|2021-09-29 18:17:09+00:00|29-09-2021
+Gilles Louppe|[Simulation-based Bayesian inference for multi-fingered robotic grasping](http://arxiv.org/abs/2109.14275v1)|2021-09-29 08:44:36+00:00|29-09-2021
+
 ## 29-09-2021
 
 main_author|title|update_date|publish_date
