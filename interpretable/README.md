@@ -2,6 +2,12 @@
 Click on title for link to paper
 ## 12-10-2021
 
+title|publish_date|main_author
+---|---|---
+No papers found this week|12-10-2021|  
+
+## 12-10-2021
+
 main_author|title|update_date|publish_date
 ---|---|---|---
 Sangdoo Yun|[Which Shortcut Cues Will DNNs Choose? A Study from the Parameter-Space   Perspective](http://arxiv.org/abs/2110.03095v1)|2021-10-06 22:51:26+00:00|06-10-2021

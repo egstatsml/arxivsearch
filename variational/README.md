@@ -2,6 +2,12 @@
 Click on title for link to paper
 ## 12-10-2021
 
+title|publish_date|main_author
+---|---|---
+No papers found this week|12-10-2021|  
+
+## 12-10-2021
+
 main_author|title|update_date|publish_date
 ---|---|---|---
 Vincent Fortuin|[Pathologies in priors and inference for Bayesian transformers](http://arxiv.org/abs/2110.04020v1)|2021-10-08 10:35:27+00:00|08-10-2021
