@@ -1,5 +1,21 @@
 # variational
 Click on title for link to paper
+## 12-10-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Vincent Fortuin|[Pathologies in priors and inference for Bayesian transformers](http://arxiv.org/abs/2110.04020v1)|2021-10-08 10:35:27+00:00|08-10-2021
+Tan Lee|[A study on the efficacy of model pre-training in developing neural   text-to-speech system](http://arxiv.org/abs/2110.03857v1)|2021-10-08 02:09:28+00:00|08-10-2021
+Mauricio Sadinle|[Multifile Partitioning for Record Linkage and Duplicate Detection](http://arxiv.org/abs/2110.03839v1)|2021-10-08 00:47:30+00:00|08-10-2021
+Samuel Kaski|[De-randomizing MCMC dynamics with the diffusion Stein operator](http://arxiv.org/abs/2110.03768v1)|2021-10-07 19:59:46+00:00|07-10-2021
+Xiaohong Guan|[Uncertainty Set Prediction of Aggregated Wind Power Generation based on   Bayesian LSTM and Spatio-Temporal Analysis](http://arxiv.org/abs/2110.03358v1)|2021-10-07 11:57:16+00:00|07-10-2021
+Guillaume Crevecoeur|[Adaptive control of a mechatronic system using constrained residual   reinforcement learning](http://arxiv.org/abs/2110.02566v1)|2021-10-06 08:13:05+00:00|06-10-2021
+Anoop Cherian|[A Hierarchical Variational Neural Uncertainty Model for Stochastic Video   Prediction](http://arxiv.org/abs/2110.03446v1)|2021-10-06 00:25:22+00:00|06-10-2021
+Stavros Tripakis|[Adversarial Robustness Verification and Attack Synthesis in Stochastic   Systems](http://arxiv.org/abs/2110.02125v1)|2021-10-05 15:52:47+00:00|05-10-2021
+Pascal Frossard|[Top-N: Equivariant set and graph generation without exchangeability](http://arxiv.org/abs/2110.02096v1)|2021-10-05 14:51:19+00:00|05-10-2021
+Luciano da Fontoura Costa|[Unraveling the graph structure of tabular datasets through Bayesian and   spectral analysis](http://arxiv.org/abs/2110.01421v1)|2021-10-04 12:51:55+00:00|04-10-2021
+Jaime F. Fisac|[SHARP: Shielding-Aware Robust Planning for Safe and Efficient   Human-Robot Interaction](http://arxiv.org/abs/2110.00843v1)|2021-10-02 17:01:59+00:00|02-10-2021
+
 ## 05-10-2021
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,15 @@
 # interpretable
 Click on title for link to paper
+## 12-10-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Sangdoo Yun|[Which Shortcut Cues Will DNNs Choose? A Study from the Parameter-Space   Perspective](http://arxiv.org/abs/2110.03095v1)|2021-10-06 22:51:26+00:00|06-10-2021
+Anh Nguyen|[Coarse-to-Fine Reasoning for Visual Question Answering](http://arxiv.org/abs/2110.02526v1)|2021-10-06 06:29:52+00:00|06-10-2021
+Bowen Zhou|[Trustworthy AI: From Principles to Practices](http://arxiv.org/abs/2110.01167v1)|2021-10-04 03:20:39+00:00|04-10-2021
+Tim Menzies|[xFAIR: Better Fairness via Model-based Rebalancing of Protected   Attributes](http://arxiv.org/abs/2110.01109v1)|2021-10-03 22:10:14+00:00|03-10-2021
+Ala-Al-Fuqaha|[Explainable Event Recognition](http://arxiv.org/abs/2110.00755v1)|2021-10-02 08:40:33+00:00|02-10-2021
+
 ## 05-10-2021
 
 main_author|title|update_date|publish_date
