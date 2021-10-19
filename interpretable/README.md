@@ -1,5 +1,11 @@
 # interpretable
 Click on title for link to paper
+## 19-10-2021
+
+title|publish_date|main_author
+---|---|---
+No papers found this week|12-10-2021|  
+
 ## 12-10-2021
 
 title|publish_date|main_author

@@ -1,5 +1,41 @@
 # bnn
 Click on title for link to paper
+## 19-10-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Ben Glocker|[Is MC Dropout Bayesian?](http://arxiv.org/abs/2110.04286v1)|2021-10-08 17:53:46+00:00|08-10-2021
+Yisong Yue|[On the Implicit Biases of Architecture & Gradient Descent](http://arxiv.org/abs/2110.04274v1)|2021-10-08 17:36:37+00:00|08-10-2021
+Maarten de Hoop|[Universal Joint Approximation of Manifolds and Densities by Simple   Injective Flows](http://arxiv.org/abs/2110.04227v1)|2021-10-08 16:29:24+00:00|08-10-2021
+Stephen J. Roberts|[Revisiting Design Choices in Model-Based Offline Reinforcement Learning](http://arxiv.org/abs/2110.04135v1)|2021-10-08 13:51:34+00:00|08-10-2021
+Vincent Fortuin|[Pathologies in priors and inference for Bayesian transformers](http://arxiv.org/abs/2110.04020v1)|2021-10-08 10:35:27+00:00|08-10-2021
+Mauricio Sadinle|[Multifile Partitioning for Record Linkage and Duplicate Detection](http://arxiv.org/abs/2110.03839v1)|2021-10-08 00:47:30+00:00|08-10-2021
+R. L. Smith|[Scaling Bayesian Optimization With Game Theory](http://arxiv.org/abs/2110.03790v1)|2021-10-07 20:55:26+00:00|07-10-2021
+Samuel Kaski|[De-randomizing MCMC dynamics with the diffusion Stein operator](http://arxiv.org/abs/2110.03768v1)|2021-10-07 19:59:46+00:00|07-10-2021
+Manuele Leonelli|[Global sensitivity analysis in probabilistic graphical models](http://arxiv.org/abs/2110.03749v1)|2021-10-07 19:06:23+00:00|07-10-2021
+Xin Fu|[Shift-BNN: Highly-Efficient Probabilistic Bayesian Neural Network   Training via Memory-Friendly Pattern Retrieving](http://arxiv.org/abs/2110.03553v1)|2021-10-07 15:20:53+00:00|07-10-2021
+Ivan Dokmanić|[Universal Approximation Under Constraints is Possible with Transformers](http://arxiv.org/abs/2110.03303v1)|2021-10-07 09:43:01+00:00|07-10-2021
+Timo Gerkmann|[End-to-end label uncertainty modeling for speech emotion recognition   using Bayesian neural networks](http://arxiv.org/abs/2110.03299v1)|2021-10-07 09:34:28+00:00|07-10-2021
+Gaël Grosch|[Darts: User-Friendly Modern Machine Learning for Time Series](http://arxiv.org/abs/2110.03224v2)|2021-10-08 12:01:03+00:00|07-10-2021
+Steffen Müller|[Probabilistic Metamodels for an Efficient Characterization of Complex   Driving Scenarios](http://arxiv.org/abs/2110.02892v2)|2021-10-07 13:01:34+00:00|06-10-2021
+Stéphane Girard|[Bayesian neural network unit priors and generalized Weibull-tail   property](http://arxiv.org/abs/2110.02885v1)|2021-10-06 16:12:37+00:00|06-10-2021
+Xu Liu|[Relative Entropy Gradient Sampler for Unnormalized Distributions](http://arxiv.org/abs/2110.02787v1)|2021-10-06 14:10:38+00:00|06-10-2021
+Atılım Güneş Baydin|[Detecting and Quantifying Malicious Activity with Simulation-based   Inference](http://arxiv.org/abs/2110.02483v2)|2021-10-07 10:56:01+00:00|06-10-2021
+Aaron Courville|[Unifying Likelihood-free Inference with Black-box Sequence Design and   Beyond](http://arxiv.org/abs/2110.03372v1)|2021-10-06 02:41:50+00:00|06-10-2021
+Anoop Cherian|[A Hierarchical Variational Neural Uncertainty Model for Stochastic Video   Prediction](http://arxiv.org/abs/2110.03446v1)|2021-10-06 00:25:22+00:00|06-10-2021
+Brian C. Williams|[HYPER: Learned Hybrid Trajectory Prediction via Factored Inference and   Adaptive Sampling](http://arxiv.org/abs/2110.02344v1)|2021-10-05 20:20:10+00:00|05-10-2021
+Pascal Frossard|[Top-N: Equivariant set and graph generation without exchangeability](http://arxiv.org/abs/2110.02096v1)|2021-10-05 14:51:19+00:00|05-10-2021
+Chenliang Xu|[Procedure Planning in Instructional Videos via Contextual Modeling and   Model-based Policy Learning](http://arxiv.org/abs/2110.01770v2)|2021-10-08 18:27:02+00:00|05-10-2021
+David Carlson|[Estimating Potential Outcome Distributions with Collaborating Causal   Networks](http://arxiv.org/abs/2110.01664v1)|2021-10-04 19:02:24+00:00|04-10-2021
+Yoann Altmann|[Fast Scalable Image Restoration using Total Variation Priors and   Expectation Propagation](http://arxiv.org/abs/2110.01585v1)|2021-10-04 17:28:41+00:00|04-10-2021
+Luciano da Fontoura Costa|[Unraveling the graph structure of tabular datasets through Bayesian and   spectral analysis](http://arxiv.org/abs/2110.01421v1)|2021-10-04 12:51:55+00:00|04-10-2021
+Degui Zhi|[Simple Recurrent Neural Networks is all we need for clinical events   predictions using EHR data](http://arxiv.org/abs/2110.00998v1)|2021-10-03 13:07:23+00:00|03-10-2021
+Marco F. Huber|[Kalman Bayesian Neural Networks for Closed-form Online Learning](http://arxiv.org/abs/2110.00944v1)|2021-10-03 07:29:57+00:00|03-10-2021
+Ximing Wu|[Hierarchical Gaussian Process Models for Regression Discontinuity/Kink   under Sharp and Fuzzy Designs](http://arxiv.org/abs/2110.00921v1)|2021-10-03 04:23:56+00:00|03-10-2021
+Jaime F. Fisac|[SHARP: Shielding-Aware Robust Planning for Safe and Efficient   Human-Robot Interaction](http://arxiv.org/abs/2110.00843v1)|2021-10-02 17:01:59+00:00|02-10-2021
+Daniel C. Elton|[Induction, Popper, and machine learning](http://arxiv.org/abs/2110.00840v1)|2021-10-02 16:52:28+00:00|02-10-2021
+Kazi Mujibur Rahman|[Implementation of MPPT Technique of Solar Module with Supervised Machine   Learning](http://arxiv.org/abs/2110.00728v1)|2021-10-02 05:19:37+00:00|02-10-2021
+
 ## 12-10-2021
 
 main_author|title|update_date|publish_date
