@@ -1,5 +1,27 @@
 # interpretable
 Click on title for link to paper
+## 26-10-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Gregory Ditzler|[ProtoShotXAI: Using Prototypical Few-Shot Architecture for Explainable   AI](http://arxiv.org/abs/2110.11597v1)|2021-10-22 05:24:52+00:00|22-10-2021
+Refael Vivanti|[Can Q-learning solve Multi Armed Bantids?](http://arxiv.org/abs/2110.10934v1)|2021-10-21 07:08:30+00:00|21-10-2021
+Shane Legg|[Shaking the foundations: delusions in sequence models for interaction   and control](http://arxiv.org/abs/2110.10819v1)|2021-10-20 23:31:05+00:00|20-10-2021
+Boaz Lernerand Aharon Bar-Hillel|[Inference Graphs for CNN Interpretation](http://arxiv.org/abs/2110.10568v1)|2021-10-20 13:56:09+00:00|20-10-2021
+Fabio Roli|[Fingerprint recognition with embedded presentation attacks detection:   are we ready?](http://arxiv.org/abs/2110.10567v1)|2021-10-20 13:53:16+00:00|20-10-2021
+Vassilis Christophides|[On Predictive Explanation of Data Anomalies](http://arxiv.org/abs/2110.09467v1)|2021-10-18 16:59:28+00:00|18-10-2021
+Justin Carpentier|[Differentiable Rendering with Perturbed Optimizers](http://arxiv.org/abs/2110.09107v1)|2021-10-18 08:56:23+00:00|18-10-2021
+Soeren Auer|[Ranking Facts for Explaining Answers to Elementary Science Questions](http://arxiv.org/abs/2110.09036v1)|2021-10-18 06:15:11+00:00|18-10-2021
+Andreas Nürnberger|[TorchEsegeta: Framework for Interpretability and Explainability of   Image-based Deep Learning Models](http://arxiv.org/abs/2110.08429v1)|2021-10-16 01:00:15+00:00|16-10-2021
+Shuyi Lin|[COVID-19 Detection in Chest X-ray Images Using Swin-Transformer and   Transformer in Transformer](http://arxiv.org/abs/2110.08427v1)|2021-10-16 00:53:21+00:00|16-10-2021
+Michael White|[Towards Transparent Interactive Semantic Parsing via Step-by-Step   Correction](http://arxiv.org/abs/2110.08345v1)|2021-10-15 20:11:22+00:00|15-10-2021
+Yicong Yu|[Explainable Student Performance Prediction With Personalized Attention   for Explaining Why A Student Fails](http://arxiv.org/abs/2110.08268v1)|2021-10-15 08:45:43+00:00|15-10-2021
+Yejin Choi|[Delphi: Towards Machine Ethics and Norms](http://arxiv.org/abs/2110.07574v1)|2021-10-14 17:38:12+00:00|14-10-2021
+Samuel Labi|[Development and testing of an image transformer for explainable   autonomous driving systems](http://arxiv.org/abs/2110.05559v1)|2021-10-11 19:01:41+00:00|11-10-2021
+Samuel Labi|[Reason induced visual attention for explainable autonomous driving](http://arxiv.org/abs/2110.07380v1)|2021-10-11 18:50:41+00:00|11-10-2021
+Anderson Rocha|[Explainable Fact-checking through Question Answering](http://arxiv.org/abs/2110.05369v1)|2021-10-11 15:55:11+00:00|11-10-2021
+Tobias Friedrich|[Towards Explainable Real Estate Valuation via Evolutionary Algorithms](http://arxiv.org/abs/2110.05116v1)|2021-10-11 09:51:18+00:00|11-10-2021
+
 ## 19-10-2021
 
 title|publish_date|main_author

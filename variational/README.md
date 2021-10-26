@@ -1,5 +1,33 @@
 # variational
 Click on title for link to paper
+## 26-10-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Arnaud Doucet|[Conditional Gaussian PAC-Bayes](http://arxiv.org/abs/2110.11886v1)|2021-10-22 16:12:03+00:00|22-10-2021
+Gintare Karolina Dziugaite|[Probabilistic fine-tuning of pruning masks and PAC-Bayes self-bounded   learning](http://arxiv.org/abs/2110.11804v1)|2021-10-22 14:25:22+00:00|22-10-2021
+Jianeng Xu|[Merging Two Cultures: Deep and Statistical Learning](http://arxiv.org/abs/2110.11561v1)|2021-10-22 02:57:21+00:00|22-10-2021
+Georgios Fainekos|[Part-X: A Family of Stochastic Algorithms for Search-Based Test   Generation with Probabilistic Guarantees](http://arxiv.org/abs/2110.10729v1)|2021-10-20 19:05:00+00:00|20-10-2021
+Georgios B. Giannakis|[Distributionally Robust Semi-Supervised Learning Over Graphs](http://arxiv.org/abs/2110.10582v1)|2021-10-20 14:23:54+00:00|20-10-2021
+Petre Stoica|[Learning Pareto-Efficient Decisions with Confidence](http://arxiv.org/abs/2110.09864v1)|2021-10-19 11:32:17+00:00|19-10-2021
+Stan. Z. Li|[An Empirical Study: Extensive Deep Temporal Point Process](http://arxiv.org/abs/2110.09823v3)|2021-10-25 04:41:55+00:00|19-10-2021
+Xaq Pitkow|[Interpolating between sampling and variational inference with infinite   stochastic mixtures](http://arxiv.org/abs/2110.09618v1)|2021-10-18 20:50:06+00:00|18-10-2021
+Murray Patterson|[Efficient Analysis of COVID-19 Clinical Data using Machine Learning   Models](http://arxiv.org/abs/2110.09606v1)|2021-10-18 20:06:01+00:00|18-10-2021
+Matthew Chalk|[Efficient Exploration in Binary and Preferential Bayesian Optimization](http://arxiv.org/abs/2110.09361v1)|2021-10-18 14:44:34+00:00|18-10-2021
+Saeed Bibak|[ViraPart: A Text Refinement Framework for ASR and NLP Tasks in Persian](http://arxiv.org/abs/2110.09086v2)|2021-10-19 11:24:30+00:00|18-10-2021
+Yang Gao|[Inconsistency-aware Uncertainty Estimation for Semi-supervised Medical   Image Segmentation](http://arxiv.org/abs/2110.08762v1)|2021-10-17 08:49:33+00:00|17-10-2021
+Christopher Hoyle|[A Nested Weighted Tchebycheff Multi-Objective Bayesian Optimization   Approach for Flexibility of Unknown Utopia Estimation in Expensive Black-box   Design Problems](http://arxiv.org/abs/2110.11070v1)|2021-10-16 00:44:06+00:00|16-10-2021
+Lantao Liu|[An Artificial Neural Network-Based Model Predictive Control for   Three-phase Flying Capacitor Multi-Level Inverter](http://arxiv.org/abs/2110.08101v1)|2021-10-15 13:54:08+00:00|15-10-2021
+Marco Gori|[Knowledge-driven Active Learning](http://arxiv.org/abs/2110.08265v1)|2021-10-15 06:11:53+00:00|15-10-2021
+Yongxin Chen|[Diffusion Normalizing Flow](http://arxiv.org/abs/2110.07579v1)|2021-10-14 17:41:12+00:00|14-10-2021
+Linwei Wang|[Fast Posterior Estimation of Cardiac Electrophysiological Model   Parameters via Bayesian Active Learning](http://arxiv.org/abs/2110.06851v1)|2021-10-13 16:43:34+00:00|13-10-2021
+Mihai Cucuringu|[SSSNET: Semi-Supervised Signed Network Clustering](http://arxiv.org/abs/2110.06623v1)|2021-10-13 10:36:37+00:00|13-10-2021
+Jinsong Su|[Improving Graph-based Sentence Ordering with Iteratively Predicted   Pairwise Orderings](http://arxiv.org/abs/2110.06446v1)|2021-10-13 02:18:16+00:00|13-10-2021
+Nick Barnes|[Dense Uncertainty Estimation](http://arxiv.org/abs/2110.06427v1)|2021-10-13 01:23:48+00:00|13-10-2021
+Shie Mannor|[Twice regularized MDPs and the equivalence between robustness and   regularization](http://arxiv.org/abs/2110.06267v1)|2021-10-12 18:33:45+00:00|12-10-2021
+Ethan Fetaya|[Can Stochastic Gradient Langevin Dynamics Provide Differential Privacy   for Deep Learning?](http://arxiv.org/abs/2110.05057v2)|2021-10-12 05:37:11+00:00|11-10-2021
+Felix J. Herrmann|[Deep Bayesian inference for seismic imaging with tasks](http://arxiv.org/abs/2110.04825v1)|2021-10-10 15:25:44+00:00|10-10-2021
+
 ## 19-10-2021
 
 title|publish_date|main_author

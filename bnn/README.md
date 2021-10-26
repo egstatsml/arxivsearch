@@ -1,5 +1,54 @@
 # bnn
 Click on title for link to paper
+## 26-10-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Philipp Hennig|[Probabilistic Numerical Method of Lines for Time-Dependent Partial   Differential Equations](http://arxiv.org/abs/2110.11847v1)|2021-10-22 15:26:05+00:00|22-10-2021
+Philipp Hennig|[Probabilistic ODE Solutions in Millions of Dimensions](http://arxiv.org/abs/2110.11812v1)|2021-10-22 14:35:45+00:00|22-10-2021
+Gintare Karolina Dziugaite|[Probabilistic fine-tuning of pruning masks and PAC-Bayes self-bounded   learning](http://arxiv.org/abs/2110.11804v1)|2021-10-22 14:25:22+00:00|22-10-2021
+Pierre Alquier|[User-friendly introduction to PAC-Bayes bounds](http://arxiv.org/abs/2110.11216v1)|2021-10-21 15:50:05+00:00|21-10-2021
+Constantin A. Rothkopf|[Inverse Optimal Control Adapted to the Noise Characteristics of the   Human Sensorimotor System](http://arxiv.org/abs/2110.11130v1)|2021-10-21 13:30:14+00:00|21-10-2021
+Nikhil Sardana|[Bayesian Meta-Learning Through Variational Gaussian Processes](http://arxiv.org/abs/2110.11044v1)|2021-10-21 10:44:23+00:00|21-10-2021
+Roi Naveiro|[Adversarial attacks against Bayesian forecasting dynamic models](http://arxiv.org/abs/2110.10783v1)|2021-10-20 21:23:45+00:00|20-10-2021
+Philipp Hennig|[Pick-and-Mix Information Operators for Probabilistic ODE Solvers](http://arxiv.org/abs/2110.10770v1)|2021-10-20 20:27:50+00:00|20-10-2021
+Boaz Lernerand Aharon Bar-Hillel|[Inference Graphs for CNN Interpretation](http://arxiv.org/abs/2110.10568v1)|2021-10-20 13:56:09+00:00|20-10-2021
+Cui Bin|[ProxyBO: Accelerating Neural Architecture Search via Bayesian   Optimization with Zero-cost Proxies](http://arxiv.org/abs/2110.10423v1)|2021-10-20 08:18:16+00:00|20-10-2021
+Seth Flaxman|[Encoding spatiotemporal priors with VAEs for small-area estimation](http://arxiv.org/abs/2110.10422v1)|2021-10-20 08:14:15+00:00|20-10-2021
+Osvaldo Simeone|[BAMLD: Bayesian Active Meta-Learning by Disagreement](http://arxiv.org/abs/2110.09943v1)|2021-10-19 13:06:51+00:00|19-10-2021
+Chelsea Finn|[MEMO: Test Time Robustness via Adaptation and Augmentation](http://arxiv.org/abs/2110.09506v1)|2021-10-18 17:55:11+00:00|18-10-2021
+Kristian Kersting|[Neuro-Symbolic Forward Reasoning](http://arxiv.org/abs/2110.09383v1)|2021-10-18 15:14:58+00:00|18-10-2021
+Matthew Chalk|[Efficient Exploration in Binary and Preferential Bayesian Optimization](http://arxiv.org/abs/2110.09361v1)|2021-10-18 14:44:34+00:00|18-10-2021
+Xi Jiang|[Prediction of liquid fuel properties using machine learning models with   Gaussian processes and probabilistic conditional generative learning](http://arxiv.org/abs/2110.09360v1)|2021-10-18 14:43:50+00:00|18-10-2021
+Naoufel Werghi|[Incremental Cross-Domain Adaptation for Robust Retinopathy Screening via   Bayesian Deep Learning](http://arxiv.org/abs/2110.09319v1)|2021-10-18 13:45:21+00:00|18-10-2021
+Eleni Chatzi|[Physics-guided Deep Markov Models for Learning Nonlinear Dynamical   Systems with Uncertainty](http://arxiv.org/abs/2110.08607v1)|2021-10-16 16:35:12+00:00|16-10-2021
+Chin-Hui Lee|[A Variational Bayesian Approach to Learning Latent Variables for   Acoustic Knowledge Transfer](http://arxiv.org/abs/2110.08598v1)|2021-10-16 15:54:01+00:00|16-10-2021
+Christopher Hoyle|[A Nested Weighted Tchebycheff Multi-Objective Bayesian Optimization   Approach for Flexibility of Unknown Utopia Estimation in Expensive Black-box   Design Problems](http://arxiv.org/abs/2110.11070v1)|2021-10-16 00:44:06+00:00|16-10-2021
+Chitta Baral|[A Bayesian Approach for Medical Inquiry and Disease Inference in   Automated Differential Diagnosis](http://arxiv.org/abs/2110.08393v2)|2021-10-23 03:39:16+00:00|15-10-2021
+Ryan Cotterell|[Probing as Quantifying the Inductive Bias of Pre-trained Representations](http://arxiv.org/abs/2110.08388v1)|2021-10-15 22:01:16+00:00|15-10-2021
+Daniel Hernández-Lobato|[Sparse Implicit Processes for Approximate Inference](http://arxiv.org/abs/2110.07618v1)|2021-10-14 18:00:04+00:00|14-10-2021
+Nan Wu|[Inferring Manifolds From Noisy Data Using Gaussian Processes](http://arxiv.org/abs/2110.07478v1)|2021-10-14 15:50:38+00:00|14-10-2021
+Stephen J. Roberts|[HumBugDB: A Large-scale Acoustic Mosquito Dataset](http://arxiv.org/abs/2110.07607v1)|2021-10-14 14:18:17+00:00|14-10-2021
+Jean-Christophe Pesquet|[Unrolled Variational Bayesian Algorithm for Image Blind Deconvolution](http://arxiv.org/abs/2110.07202v1)|2021-10-14 07:55:26+00:00|14-10-2021
+Linwei Wang|[Fast Posterior Estimation of Cardiac Electrophysiological Model   Parameters via Bayesian Active Learning](http://arxiv.org/abs/2110.06851v1)|2021-10-13 16:43:34+00:00|13-10-2021
+Mihai Cucuringu|[SSSNET: Semi-Supervised Signed Network Clustering](http://arxiv.org/abs/2110.06623v1)|2021-10-13 10:36:37+00:00|13-10-2021
+Gilles Louppe|[Averting A Crisis In Simulation-Based Inference](http://arxiv.org/abs/2110.06581v2)|2021-10-14 20:03:10+00:00|13-10-2021
+Nick Barnes|[Dense Uncertainty Estimation](http://arxiv.org/abs/2110.06427v1)|2021-10-13 01:23:48+00:00|13-10-2021
+Hedvig Kjellstrom|[Causal discovery from conditionally stationary time-series](http://arxiv.org/abs/2110.06257v1)|2021-10-12 18:12:57+00:00|12-10-2021
+Yanjie Fu|[Deep Human-guided Conditional Variational Generative Modeling for   Automated Urban Planning](http://arxiv.org/abs/2110.07717v1)|2021-10-12 15:45:38+00:00|12-10-2021
+Deniz Erdogmus|[Cubature Kalman Filter Based Training of Hybrid Differential Equation   Recurrent Neural Network Physiological Dynamic Models](http://arxiv.org/abs/2110.06089v1)|2021-10-12 15:38:13+00:00|12-10-2021
+Luca Ambrogioni|[Embedded-model flows: Combining the inductive biases of model-free deep   learning and explicit probabilistic modeling](http://arxiv.org/abs/2110.06021v2)|2021-10-17 14:58:25+00:00|12-10-2021
+Christian Henning|[Uncertainty-based out-of-distribution detection requires suitable   function space priors](http://arxiv.org/abs/2110.06020v1)|2021-10-12 14:11:37+00:00|12-10-2021
+Jose C. Principe|[Information Theoretic Structured Generative Modeling](http://arxiv.org/abs/2110.05794v1)|2021-10-12 07:44:18+00:00|12-10-2021
+Emanuele Rodolà|[Unsupervised Source Separation via Bayesian Inference in the Latent   Domain](http://arxiv.org/abs/2110.05313v1)|2021-10-11 14:32:55+00:00|11-10-2021
+Heiner Stuckenschmidt|[Exchangeability-Aware Sum-Product Networks](http://arxiv.org/abs/2110.05165v1)|2021-10-11 11:25:31+00:00|11-10-2021
+Ethan Fetaya|[Can Stochastic Gradient Langevin Dynamics Provide Differential Privacy   for Deep Learning?](http://arxiv.org/abs/2110.05057v2)|2021-10-12 05:37:11+00:00|11-10-2021
+Osvaldo Simeone|[An Information-Theoretic Analysis of The Cost of Decentralization for   Learning and Inference Under Privacy Constraints](http://arxiv.org/abs/2110.05014v1)|2021-10-11 05:55:30+00:00|11-10-2021
+Felix J. Herrmann|[Deep Bayesian inference for seismic imaging with tasks](http://arxiv.org/abs/2110.04825v1)|2021-10-10 15:25:44+00:00|10-10-2021
+Nobuo Namura|[Surrogate-Assisted Reference Vector Adaptation to Various Pareto Front   Shapes for Many-Objective Bayesian Optimization](http://arxiv.org/abs/2110.04689v1)|2021-10-10 03:05:12+00:00|10-10-2021
+Christoph Guger|[Topological Data Analysis (TDA) Techniques Enhance Hand Pose   Classification from ECoG Neural Recordings](http://arxiv.org/abs/2110.04653v1)|2021-10-09 22:04:43+00:00|09-10-2021
+Benjamin Van Roy|[Evaluating Predictive Distributions: Does Bayesian Deep Learning Work?](http://arxiv.org/abs/2110.04629v1)|2021-10-09 18:54:02+00:00|09-10-2021
+
 ## 19-10-2021
 
 main_author|title|update_date|publish_date
