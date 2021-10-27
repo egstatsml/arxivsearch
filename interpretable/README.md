@@ -1,5 +1,12 @@
 # interpretable
 Click on title for link to paper
+## 27-10-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Ewa Kijak|[Generating artificial texts as substitution or complement of training   data](http://arxiv.org/abs/2110.13016v1)|2021-10-25 14:53:42+00:00|25-10-2021
+Ila Fiete|[Map Induction: Compositional spatial submap learning for efficient   exploration in novel environments](http://arxiv.org/abs/2110.12301v1)|2021-10-23 21:23:04+00:00|23-10-2021
+
 ## 26-10-2021
 
 main_author|title|update_date|publish_date

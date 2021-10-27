@@ -1,5 +1,28 @@
 # fairness
 Click on title for link to paper
+## 27-10-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Yanfang Ye|[Gophormer: Ego-Graph Transformer for Node Classification](http://arxiv.org/abs/2110.13094v1)|2021-10-25 16:43:32+00:00|25-10-2021
+Parinaz Naghizadeh|[Adaptive Data Debiasing through Bounded Exploration and Fairness](http://arxiv.org/abs/2110.13054v1)|2021-10-25 15:50:10+00:00|25-10-2021
+Tim Menzies|[Fair Enough: Searching for Sufficient Measures of Fairness](http://arxiv.org/abs/2110.13029v1)|2021-10-25 15:08:07+00:00|25-10-2021
+Martin Jaggi|[Optimal Model Averaging: Towards Personalized Collaborative Learning](http://arxiv.org/abs/2110.12946v1)|2021-10-25 13:33:20+00:00|25-10-2021
+Mihaela van der Schaar|[DECAF: Generating Fair Synthetic Data Using Causally-Aware Generative   Networks](http://arxiv.org/abs/2110.12884v1)|2021-10-25 12:39:56+00:00|25-10-2021
+Nigel Kingsman|[Debiasing Credit Scoring using Evolutionary Algorithms](http://arxiv.org/abs/2110.12838v1)|2021-10-25 12:09:10+00:00|25-10-2021
+Sagnik Chatterjee|[Quantum Boosting using Domain-Partitioning Hypotheses](http://arxiv.org/abs/2110.12793v1)|2021-10-25 10:46:13+00:00|25-10-2021
+Jingkuan Song|[Fast Gradient Non-sign Methods](http://arxiv.org/abs/2110.12734v1)|2021-10-25 08:46:00+00:00|25-10-2021
+Alexander Brenning|[Mlr3spatiotempcv: Spatiotemporal resampling methods for machine learning   in R](http://arxiv.org/abs/2110.12674v1)|2021-10-25 06:48:29+00:00|25-10-2021
+Ashraf Elnagar|[Kernel density estimation-based sampling for neural network   classification](http://arxiv.org/abs/2110.12644v1)|2021-10-25 04:59:42+00:00|25-10-2021
+Bjoern H. Menze|[A Deep Learning Approach to Predicting Collateral Flow in Stroke   Patients Using Radiomic Features from Perfusion Images](http://arxiv.org/abs/2110.12508v1)|2021-10-24 18:58:40+00:00|24-10-2021
+Ami Wiesel|[Learning to Estimate Without Bias](http://arxiv.org/abs/2110.12403v1)|2021-10-24 10:23:51+00:00|24-10-2021
+Ulisses Braga-Neto|[Generalized Resubstitution for Classification Error Estimation](http://arxiv.org/abs/2110.12285v1)|2021-10-23 19:42:11+00:00|23-10-2021
+Soumya Rani Samineni|[Policy Search using Dynamic Mirror Descent MPC for Model Free Off Policy   RL](http://arxiv.org/abs/2110.12239v1)|2021-10-23 15:16:49+00:00|23-10-2021
+Saeid Asgari|[Group-disentangled Representation Learning with Weakly-Supervised   Regularization](http://arxiv.org/abs/2110.12185v1)|2021-10-23 10:01:05+00:00|23-10-2021
+Zhihong Deng|[Domain Adaptation via Maximizing Surrogate Mutual Information](http://arxiv.org/abs/2110.12184v1)|2021-10-23 09:45:15+00:00|23-10-2021
+Kannan Achan|[Rethinking Neural vs. Matrix-Factorization Collaborative Filtering: the   Theoretical Perspectives](http://arxiv.org/abs/2110.12141v1)|2021-10-23 04:55:21+00:00|23-10-2021
+Kannan Achan|[Towards the D-Optimal Online Experiment Design for Recommender Selection](http://arxiv.org/abs/2110.12132v1)|2021-10-23 04:30:27+00:00|23-10-2021
+
 ## 26-10-2021
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,19 @@
 # bnn
 Click on title for link to paper
+## 27-10-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Eleni Chatzi|[Which Model To Trust: Assessing the Influence of Models on the   Performance of Reinforcement Learning Algorithms for Continuous Control Tasks](http://arxiv.org/abs/2110.13079v1)|2021-10-25 16:17:26+00:00|25-10-2021
+Henkjan Huisman|[Anatomical and Diagnostic Bayesian Segmentation in Prostate MRI   $-$Should Different Clinical Objectives Mandate Different Loss Functions?](http://arxiv.org/abs/2110.12889v1)|2021-10-25 12:44:52+00:00|25-10-2021
+Akarsh Potta|[Scaling Neural Program Synthesis with Distribution-based Search](http://arxiv.org/abs/2110.12485v1)|2021-10-24 16:46:01+00:00|24-10-2021
+Deniz Erdogmus|[Variation is the Norm: Brain State Dynamics Evoked By Emotional Video   Clips](http://arxiv.org/abs/2110.12392v1)|2021-10-24 08:53:05+00:00|24-10-2021
+Daniel M. Tartakovsky|[Deep Learning for Simultaneous Inference of Hydraulic and Transport   Properties](http://arxiv.org/abs/2110.12367v1)|2021-10-24 07:02:20+00:00|24-10-2021
+Shen|[Integrated Conditional Estimation-Optimization](http://arxiv.org/abs/2110.12351v1)|2021-10-24 04:49:35+00:00|24-10-2021
+Ila Fiete|[Map Induction: Compositional spatial submap learning for efficient   exploration in novel environments](http://arxiv.org/abs/2110.12301v1)|2021-10-23 21:23:04+00:00|23-10-2021
+Ulisses Braga-Neto|[Generalized Resubstitution for Classification Error Estimation](http://arxiv.org/abs/2110.12285v1)|2021-10-23 19:42:11+00:00|23-10-2021
+Yi Zhong|[AFEC: Active Forgetting of Negative Transfer in Continual Learning](http://arxiv.org/abs/2110.12187v1)|2021-10-23 10:03:19+00:00|23-10-2021
+
 ## 26-10-2021
 
 main_author|title|update_date|publish_date

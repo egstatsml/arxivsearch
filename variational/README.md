@@ -1,5 +1,12 @@
 # variational
 Click on title for link to paper
+## 27-10-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Hui Xiong|[Regularizing Variational Autoencoder with Diversity and Uncertainty   Awareness](http://arxiv.org/abs/2110.12381v1)|2021-10-24 07:58:13+00:00|24-10-2021
+Shen|[Integrated Conditional Estimation-Optimization](http://arxiv.org/abs/2110.12351v1)|2021-10-24 04:49:35+00:00|24-10-2021
+
 ## 26-10-2021
 
 main_author|title|update_date|publish_date
