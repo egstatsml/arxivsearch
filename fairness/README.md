@@ -1,5 +1,53 @@
 # fairness
 Click on title for link to paper
+## 02-11-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Georg Martius|[Sparsely Changing Latent States for Prediction and Planning in Partially   Observable Domains](http://arxiv.org/abs/2110.15949v1)|2021-10-29 17:50:44+00:00|29-10-2021
+João M. Pereira|[Landscape analysis of an improved power method for tensor decomposition](http://arxiv.org/abs/2110.15821v1)|2021-10-29 14:32:54+00:00|29-10-2021
+Bracha Shapira|[Boosting Anomaly Detection Using Unsupervised Diverse Test-Time   Augmentation](http://arxiv.org/abs/2110.15700v1)|2021-10-29 11:55:41+00:00|29-10-2021
+François Portier|[Adaptive Importance Sampling meets Mirror Descent: a Bias-variance   tradeoff](http://arxiv.org/abs/2110.15590v1)|2021-10-29 07:45:24+00:00|29-10-2021
+Amarjit Budhiraja|[Does Momentum Help? A Sample Complexity Analysis](http://arxiv.org/abs/2110.15547v1)|2021-10-29 05:26:05+00:00|29-10-2021
+Kangwook Lee|[Improving Fairness via Federated Learning](http://arxiv.org/abs/2110.15545v1)|2021-10-29 05:25:44+00:00|29-10-2021
+Tie-Yan Liu|[Pre-training Co-evolutionary Protein Representation via A Pairwise   Masked Language Model](http://arxiv.org/abs/2110.15527v1)|2021-10-29 04:01:32+00:00|29-10-2021
+Ryosuke Sonoda|[A Pre-processing Method for Fairness in Ranking](http://arxiv.org/abs/2110.15503v1)|2021-10-29 02:55:32+00:00|29-10-2021
+Judy Hoffman|[UDIS: Unsupervised Discovery of Bias in Deep Visual Recognition Models](http://arxiv.org/abs/2110.15499v1)|2021-10-29 02:36:37+00:00|29-10-2021
+Song-Chun Zhu|[Unsupervised Foreground Extraction via Deep Region Competition](http://arxiv.org/abs/2110.15497v1)|2021-10-29 02:32:44+00:00|29-10-2021
+Gregory W. Wornell|[Selective Regression Under Fairness Criteria](http://arxiv.org/abs/2110.15403v1)|2021-10-28 19:05:12+00:00|28-10-2021
+Cristina Alenda|[XDEEP-MSI: Explainable Bias-Rejecting Microsatellite Instability Deep   Learning System In Colorectal Cancer](http://arxiv.org/abs/2110.15350v1)|2021-10-28 17:58:01+00:00|28-10-2021
+Nicolas Usunier|[Two-sided fairness in rankings via Lorenz dominance](http://arxiv.org/abs/2110.15781v1)|2021-10-28 17:56:32+00:00|28-10-2021
+Jann Spiess|[On the Fairness of Machine-Assisted Human Decisions](http://arxiv.org/abs/2110.15310v1)|2021-10-28 17:24:45+00:00|28-10-2021
+Caio Corro|[Preventing posterior collapse in variational autoencoders for text   generation via decoder regularization](http://arxiv.org/abs/2110.14945v1)|2021-10-28 08:32:27+00:00|28-10-2021
+Aleksandrs Slivkins|[Sayer: Using Implicit Feedback to Optimize System Policies](http://arxiv.org/abs/2110.14874v1)|2021-10-28 04:16:56+00:00|28-10-2021
+Morteza Dehghani|[Hate Speech Classifiers Learn Human-Like Social Stereotypes](http://arxiv.org/abs/2110.14839v1)|2021-10-28 01:35:41+00:00|28-10-2021
+Roy Fox|[Temporal-Difference Value Estimation via Uncertainty-Guided Soft Updates](http://arxiv.org/abs/2110.14818v1)|2021-10-28 00:07:19+00:00|28-10-2021
+Stefan Winzeck|[Algorithmic encoding of protected characteristics and its implications   on disparities across subgroups](http://arxiv.org/abs/2110.14755v1)|2021-10-27 20:30:57+00:00|27-10-2021
+Craig J. Galban|[Lung Cancer Lesion Detection in Histopathology Images Using Graph-Based   Sparse PCA Network](http://arxiv.org/abs/2110.14728v1)|2021-10-27 19:28:36+00:00|27-10-2021
+Ravinder R. Regatte|[Alternating Learning Approach for Variational Networks and Undersampling   Pattern in Parallel MRI Applications](http://arxiv.org/abs/2110.14703v1)|2021-10-27 18:42:03+00:00|27-10-2021
+Isabel Valera|[VACA: Design of Variational Graph Autoencoders for Interventional and   Counterfactual Queries](http://arxiv.org/abs/2110.14690v1)|2021-10-27 18:16:39+00:00|27-10-2021
+Yinyu Ye|[Fairer LP-based Online Allocation](http://arxiv.org/abs/2110.14621v2)|2021-10-31 05:42:15+00:00|27-10-2021
+Fernando Huenupan|[End-to-end LSTM based estimation of volcano event epicenter localization](http://arxiv.org/abs/2110.14594v1)|2021-10-27 17:11:33+00:00|27-10-2021
+João Sacramento|[Learning where to learn: Gradient sparsity in meta and continual   learning](http://arxiv.org/abs/2110.14402v1)|2021-10-27 12:54:36+00:00|27-10-2021
+Mingyuan Zhou|[TopicNet: Semantic Graph-Guided Topic Discovery](http://arxiv.org/abs/2110.14286v1)|2021-10-27 09:07:14+00:00|27-10-2021
+Ragesh Jaiswal|[Tight FPT Approximation for Constrained k-Center and k-Supplier](http://arxiv.org/abs/2110.14242v1)|2021-10-27 07:52:59+00:00|27-10-2021
+Changho Suh|[Sample Selection for Fair and Robust Training](http://arxiv.org/abs/2110.14222v1)|2021-10-27 07:17:29+00:00|27-10-2021
+Ihsan Ayyub Qazi|[FedPrune: Towards Inclusive Federated Learning](http://arxiv.org/abs/2110.14205v1)|2021-10-27 06:33:38+00:00|27-10-2021
+David Jacobs|[Robust Contrastive Learning Using Negative Samples with Diminished   Semantics](http://arxiv.org/abs/2110.14189v1)|2021-10-27 05:38:00+00:00|27-10-2021
+Jesse Hoey|[Dream to Explore: Adaptive Simulations for Autonomous Systems](http://arxiv.org/abs/2110.14157v1)|2021-10-27 04:27:28+00:00|27-10-2021
+Chelsea Finn|[Meta-learning with an Adaptive Task Scheduler](http://arxiv.org/abs/2110.14057v1)|2021-10-26 22:16:35+00:00|26-10-2021
+Mahed Abroshan|[Fair Sequential Selection Using Supervised Learning Models](http://arxiv.org/abs/2110.13986v1)|2021-10-26 19:45:26+00:00|26-10-2021
+Benjamin Van Roy|[The Value of Information When Deciding What to Learn](http://arxiv.org/abs/2110.13973v1)|2021-10-26 19:23:12+00:00|26-10-2021
+Adam Prügel-Bennett|[On the Effects of Data Distortion on Model Analysis and Training](http://arxiv.org/abs/2110.13968v1)|2021-10-26 19:10:25+00:00|26-10-2021
+Hongning Wang|[Unbiased Graph Embedding with Biased Graph Observations](http://arxiv.org/abs/2110.13957v2)|2021-10-29 15:05:04+00:00|26-10-2021
+Pradeep Ravikumar|[Boosted CVaR Classification](http://arxiv.org/abs/2110.13948v1)|2021-10-26 18:27:25+00:00|26-10-2021
+Sanjeev Arora|[Gradient Descent on Two-layer Nets: Margin Maximization and Simplicity   Bias](http://arxiv.org/abs/2110.13905v1)|2021-10-26 17:57:57+00:00|26-10-2021
+Furu Wei|[WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech   Processing](http://arxiv.org/abs/2110.13900v2)|2021-10-29 07:43:03+00:00|26-10-2021
+Denis Fernando Wolf|[Driving Style Recognition Using Interval Type-2 Fuzzy Inference System   and Multiple Experts Decision Making](http://arxiv.org/abs/2110.13805v1)|2021-10-26 16:03:22+00:00|26-10-2021
+Mikhail Yurochkin|[Post-processing for Individual Fairness](http://arxiv.org/abs/2110.13796v1)|2021-10-26 15:51:48+00:00|26-10-2021
+Mohsen Ali|[Cross-Region Building Counting in Satellite Imagery using Counting   Consistency](http://arxiv.org/abs/2110.13558v1)|2021-10-26 10:36:56+00:00|26-10-2021
+Dmitry Vetrov|[Automating Control of Overestimation Bias for Continuous Reinforcement   Learning](http://arxiv.org/abs/2110.13523v1)|2021-10-26 09:27:12+00:00|26-10-2021
+
 ## 27-10-2021
 
 main_author|title|update_date|publish_date

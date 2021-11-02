@@ -1,5 +1,33 @@
 # bnn
 Click on title for link to paper
+## 02-11-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Neill D. F. Campbell|[Aligned Multi-Task Gaussian Process](http://arxiv.org/abs/2110.15761v1)|2021-10-29 13:18:13+00:00|29-10-2021
+Tor Lattimore|[Variational Bayesian Optimistic Sampling](http://arxiv.org/abs/2110.15688v1)|2021-10-29 11:28:29+00:00|29-10-2021
+Christopher G. Lucas|[Bayesian Optimal Experimental Design for Simulator Models of Cognition](http://arxiv.org/abs/2110.15632v1)|2021-10-29 09:04:01+00:00|29-10-2021
+Tatpong Katanyukul|[Latent Cognizance: What Machine Really Learns](http://arxiv.org/abs/2110.15548v1)|2021-10-29 05:26:38+00:00|29-10-2021
+Bernhard Schölkopf|[GalilAI: Out-of-Task Distribution Detection using Causal Active   Experimentation for Safe Transfer RL](http://arxiv.org/abs/2110.15489v1)|2021-10-29 01:45:56+00:00|29-10-2021
+Xun Huan|[Bayesian Sequential Optimal Experimental Design for Nonlinear Models   Using Policy Gradient Reinforcement Learning](http://arxiv.org/abs/2110.15335v1)|2021-10-28 17:47:31+00:00|28-10-2021
+Pascal Germain|[Learning Aggregations of Binary Activated Neural Networks with   Probabilities over Representations](http://arxiv.org/abs/2110.15137v2)|2021-10-29 15:45:17+00:00|28-10-2021
+Torsten A. Enßlin|[Probabilistic Autoencoder using Fisher Information](http://arxiv.org/abs/2110.14947v1)|2021-10-28 08:33:24+00:00|28-10-2021
+Daniel R. Kowal|[Warped Dynamic Linear Models for Time Series of Counts](http://arxiv.org/abs/2110.14790v1)|2021-10-27 21:44:00+00:00|27-10-2021
+Riccardo Zecchina|[Deep learning via message passing algorithms based on belief propagation](http://arxiv.org/abs/2110.14583v1)|2021-10-27 16:52:26+00:00|27-10-2021
+Antti Honkela|[Locally Differentially Private Bayesian Inference](http://arxiv.org/abs/2110.14426v1)|2021-10-27 13:36:43+00:00|27-10-2021
+Yi-Ke Guo|[A Scalable Inference Method For Large Dynamic Economic Systems](http://arxiv.org/abs/2110.14346v1)|2021-10-27 10:52:17+00:00|27-10-2021
+Mykel J. Kochenderfer|[Evidential Softmax for Sparse Multimodal Distributions in Deep   Generative Models](http://arxiv.org/abs/2110.14182v1)|2021-10-27 05:32:25+00:00|27-10-2021
+Jesse Hoey|[Dream to Explore: Adaptive Simulations for Autonomous Systems](http://arxiv.org/abs/2110.14157v1)|2021-10-27 04:27:28+00:00|27-10-2021
+Patrick Jaillet|[Differentially Private Federated Bayesian Optimization with Distributed   Exploration](http://arxiv.org/abs/2110.14153v1)|2021-10-27 04:11:06+00:00|27-10-2021
+Stephan Günnemann|[Graph Posterior Network: Bayesian Predictive Uncertainty for Node   Classification](http://arxiv.org/abs/2110.14012v1)|2021-10-26 20:41:20+00:00|26-10-2021
+Theodoros Damoulas|[Dynamic Causal Bayesian Optimization](http://arxiv.org/abs/2110.13891v1)|2021-10-26 17:46:44+00:00|26-10-2021
+Shuigeng Zhou|[DP-SSL: Towards Robust Semi-supervised Learning with A Few Labeled   Samples](http://arxiv.org/abs/2110.13740v1)|2021-10-26 14:43:12+00:00|26-10-2021
+David Ryckelynck|[Uncertainty quantification in a mechanical submodel driven by a   Wasserstein-GAN](http://arxiv.org/abs/2110.13680v1)|2021-10-26 13:18:06+00:00|26-10-2021
+Zhenya Wang|[Arbitrary Distribution Modeling with Censorship in Real-Time Bidding   Advertising](http://arxiv.org/abs/2110.13587v1)|2021-10-26 11:40:00+00:00|26-10-2021
+Arno Solin|[Periodic Activation Functions Induce Stationarity](http://arxiv.org/abs/2110.13572v1)|2021-10-26 11:10:37+00:00|26-10-2021
+Chandan K. Reddy|[Probabilistic Entity Representation Model for Reasoning over Knowledge   Graphs](http://arxiv.org/abs/2110.13522v2)|2021-10-30 16:41:39+00:00|26-10-2021
+Bethany Lusch|[AutoDEUQ: Automated Deep Ensemble with Uncertainty Quantification](http://arxiv.org/abs/2110.13511v1)|2021-10-26 09:12:23+00:00|26-10-2021
+
 ## 27-10-2021
 
 main_author|title|update_date|publish_date

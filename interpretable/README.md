@@ -1,5 +1,16 @@
 # interpretable
 Click on title for link to paper
+## 02-11-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Jian Sun|[Path-Enhanced Multi-Relational Question Answering with Knowledge Graph   Embeddings](http://arxiv.org/abs/2110.15622v1)|2021-10-29 08:37:46+00:00|29-10-2021
+Chuang Gan|[Dynamic Visual Reasoning by Learning Differentiable Physics Models from   Video and Language](http://arxiv.org/abs/2110.15358v1)|2021-10-28 17:59:13+00:00|28-10-2021
+Anna Goldenberg|[Extracting Clinician's Goals by What-if Interpretable Modeling](http://arxiv.org/abs/2110.15165v1)|2021-10-28 14:41:06+00:00|28-10-2021
+Mark Richardson|[A recursive robust filtering approach for 3D registration](http://arxiv.org/abs/2110.14932v1)|2021-10-28 07:50:02+00:00|28-10-2021
+Tommi S. Jaakkola|[Understanding Interlocking Dynamics of Cooperative Rationalization](http://arxiv.org/abs/2110.13880v1)|2021-10-26 17:39:18+00:00|26-10-2021
+Alexandre Mathieu|[Partial order: Finding Consensus among Uncertain Feature Attributions](http://arxiv.org/abs/2110.13369v1)|2021-10-26 02:53:14+00:00|26-10-2021
+
 ## 27-10-2021
 
 main_author|title|update_date|publish_date
