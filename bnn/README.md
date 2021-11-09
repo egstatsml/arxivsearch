@@ -2,6 +2,12 @@
 Click on title for link to paper
 ## 09-11-2021
 
+title|publish_date|main_author
+---|---|---
+No papers found this week|09-11-2021|  
+
+## 09-11-2021
+
 main_author|title|update_date|publish_date
 ---|---|---|---
 Agustinus Kristiadi|[Mixtures of Laplace Approximations for Improved Post-Hoc Uncertainty in   Deep Learning](http://arxiv.org/abs/2111.03577v1)|2021-11-05 15:52:48+00:00|05-11-2021

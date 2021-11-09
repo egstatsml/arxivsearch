@@ -2,6 +2,12 @@
 Click on title for link to paper
 ## 09-11-2021
 
+title|publish_date|main_author
+---|---|---
+No papers found this week|09-11-2021|  
+
+## 09-11-2021
+
 main_author|title|update_date|publish_date
 ---|---|---|---
 Rafael Chaves|[Causal inference with imperfect instrumental variables](http://arxiv.org/abs/2111.03029v1)|2021-11-04 17:34:27+00:00|04-11-2021
