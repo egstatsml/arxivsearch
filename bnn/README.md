@@ -1,5 +1,40 @@
 # bnn
 Click on title for link to paper
+## 09-11-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Agustinus Kristiadi|[Mixtures of Laplace Approximations for Improved Post-Hoc Uncertainty in   Deep Learning](http://arxiv.org/abs/2111.03577v1)|2021-11-05 15:52:48+00:00|05-11-2021
+Phillip Torr|[AUTOKD: Automatic Knowledge Distillation Into A Student Architecture   Family](http://arxiv.org/abs/2111.03555v1)|2021-11-05 15:20:37+00:00|05-11-2021
+Graham W. Taylor|[An Empirical Study of Neural Kernel Bandits](http://arxiv.org/abs/2111.03543v1)|2021-11-05 15:06:05+00:00|05-11-2021
+Qi Qi|[A Variational U-Net for Weather Forecasting](http://arxiv.org/abs/2111.03476v1)|2021-11-05 12:52:15+00:00|05-11-2021
+Sunita Sarawagi|[Long Range Probabilistic Forecasting in Time-Series using High Order   Statistics](http://arxiv.org/abs/2111.03394v1)|2021-11-05 11:10:35+00:00|05-11-2021
+Thomas A. Henzinger|[Infinite Time Horizon Safety of Bayesian Neural Networks](http://arxiv.org/abs/2111.03165v1)|2021-11-04 21:22:47+00:00|04-11-2021
+Wesley M. Gifford|[Generative Adversarial Network for Probabilistic Forecast of Random   Dynamical System](http://arxiv.org/abs/2111.03126v1)|2021-11-04 19:50:56+00:00|04-11-2021
+Xiaowen Dong|[Adversarial Attacks on Graph Classification via Bayesian Optimisation](http://arxiv.org/abs/2111.02842v1)|2021-11-04 13:01:20+00:00|04-11-2021
+Zecheng Zhang|[Accelerated replica exchange stochastic gradient Langevin diffusion   enhanced Bayesian DeepONet for solving noisy parametric PDEs](http://arxiv.org/abs/2111.02484v1)|2021-11-03 19:23:59+00:00|03-11-2021
+Aram Galstyan|[Hamiltonian Dynamics with Non-Newtonian Momentum for Rapid Sampling](http://arxiv.org/abs/2111.02434v1)|2021-11-03 18:00:07+00:00|03-11-2021
+Yarin Gal|[Causal-BALD: Deep Bayesian Active Learning of Outcomes to Infer   Treatment-Effects from Observational Data](http://arxiv.org/abs/2111.02275v1)|2021-11-03 15:11:39+00:00|03-11-2021
+Ding Zhao|[Certifiable Deep Importance Sampling for Rare-Event Simulation of   Black-Box Systems](http://arxiv.org/abs/2111.02204v1)|2021-11-03 13:19:05+00:00|03-11-2021
+Tengyu Ma|[An Explanation of In-context Learning as Implicit Bayesian Inference](http://arxiv.org/abs/2111.02080v1)|2021-11-03 09:12:33+00:00|03-11-2021
+Harri Lähdesmäki|[Scalable mixed-domain Gaussian processes](http://arxiv.org/abs/2111.02019v1)|2021-11-03 04:47:37+00:00|03-11-2021
+Stéphane P. A. Bordas|[FEM-based Real-Time Simulations of Large Deformations with Probabilistic   Deep Learning](http://arxiv.org/abs/2111.01867v1)|2021-11-02 20:05:22+00:00|02-11-2021
+Martin Rohrmeier|[Recursive Bayesian Networks: Generalising and Unifying Probabilistic   Context-Free Grammars and Dynamic Bayesian Networks](http://arxiv.org/abs/2111.01853v1)|2021-11-02 19:21:15+00:00|02-11-2021
+Bipin Rajendran|[Spiking Generative Adversarial Networks With a Neural Network   Discriminator: Local Training, Bayesian Models, and Continual Meta-Learning](http://arxiv.org/abs/2111.01750v1)|2021-11-02 17:20:54+00:00|02-11-2021
+Arno Solin|[Bayes-Newton Methods for Approximate Bayesian Inference with PSD   Guarantees](http://arxiv.org/abs/2111.01721v2)|2021-11-03 09:34:02+00:00|02-11-2021
+Stefan Haufe|[Efficient hierarchical Bayesian inference for spatio-temporal regression   models in neuroimaging](http://arxiv.org/abs/2111.01692v1)|2021-11-02 15:50:01+00:00|02-11-2021
+Xiao Xiang Zhu|[Fitness Landscape Footprint: A Framework to Compare Neural Architecture   Search Problems](http://arxiv.org/abs/2111.01584v1)|2021-11-02 13:20:01+00:00|02-11-2021
+Samuel Kaski|[Likelihood-Free Inference in State-Space Models with Unknown Dynamics](http://arxiv.org/abs/2111.01555v1)|2021-11-02 12:33:42+00:00|02-11-2021
+Shaked Dovrat|[Zero-Shot Translation using Diffusion Models](http://arxiv.org/abs/2111.01471v1)|2021-11-02 10:14:17+00:00|02-11-2021
+Manolis Kellis|[NOTMAD: Estimating Bayesian Networks with Sample-Specific Structures and   Parameters](http://arxiv.org/abs/2111.01104v1)|2021-11-01 17:17:34+00:00|01-11-2021
+Lin Gao|[OctField: Hierarchical Implicit Functions for 3D Modeling](http://arxiv.org/abs/2111.01067v1)|2021-11-01 16:29:39+00:00|01-11-2021
+Tom Heskes|[Swift sky localization of gravitational waves using deep learning seeded   importance sampling](http://arxiv.org/abs/2111.00833v1)|2021-11-01 11:05:08+00:00|01-11-2021
+Tomoharu Iwata|[End-to-End Learning of Deep Kernel Acquisition Functions for Bayesian   Optimization](http://arxiv.org/abs/2111.00639v1)|2021-11-01 00:42:31+00:00|01-11-2021
+Joseph D. Monaco|[Bayesian optimization of distributed neurodynamical controller models   for spatial navigation](http://arxiv.org/abs/2111.00599v1)|2021-10-31 21:43:06+00:00|31-10-2021
+Alexander Reiterer|[Smart(Sampling)Augment: Optimal and Efficient Data Augmentation for   Semantic Segmentation](http://arxiv.org/abs/2111.00487v1)|2021-10-31 13:04:45+00:00|31-10-2021
+Vikash K. Mansinghka|[3DP3: 3D Scene Perception via Probabilistic Programming](http://arxiv.org/abs/2111.00312v1)|2021-10-30 19:10:34+00:00|30-10-2021
+Yalin Wang|[Geometry-Aware Hierarchical Bayesian Learning on Manifolds](http://arxiv.org/abs/2111.00184v1)|2021-10-30 05:47:05+00:00|30-10-2021
+
 ## 02-11-2021
 
 main_author|title|update_date|publish_date

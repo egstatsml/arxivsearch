@@ -1,17 +1,12 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
-Neill D. F. Campbell|[Aligned Multi-Task Gaussian Process](http://arxiv.org/abs/2110.15761v1)|2021-10-29 13:18:13+00:00|29-10-2021
-Tor Lattimore|[Variational Bayesian Optimistic Sampling](http://arxiv.org/abs/2110.15688v1)|2021-10-29 11:28:29+00:00|29-10-2021
-Ying Ding|[RadBERT-CL: Factually-Aware Contrastive Learning For Radiology Report   Classification](http://arxiv.org/abs/2110.15426v1)|2021-10-28 20:31:04+00:00|28-10-2021
-Pascal Germain|[Learning Aggregations of Binary Activated Neural Networks with   Probabilities over Representations](http://arxiv.org/abs/2110.15137v2)|2021-10-29 15:45:17+00:00|28-10-2021
-Riccardo Zecchina|[Deep learning via message passing algorithms based on belief propagation](http://arxiv.org/abs/2110.14583v1)|2021-10-27 16:52:26+00:00|27-10-2021
-Yang Gao|[Discovering Non-monotonic Autoregressive Orderings with Variational   Inference](http://arxiv.org/abs/2110.15797v1)|2021-10-27 16:08:09+00:00|27-10-2021
-Manuel Dahmen|[Validation Methods for Energy Time Series Scenarios from Deep Generative   Models](http://arxiv.org/abs/2110.14451v1)|2021-10-27 14:14:25+00:00|27-10-2021
-Mingyuan Zhou|[TopicNet: Semantic Graph-Guided Topic Discovery](http://arxiv.org/abs/2110.14286v1)|2021-10-27 09:07:14+00:00|27-10-2021
-David Ryckelynck|[Uncertainty quantification in a mechanical submodel driven by a   Wasserstein-GAN](http://arxiv.org/abs/2110.13680v1)|2021-10-26 13:18:06+00:00|26-10-2021
-Bing Chen|[Applications of Multi-Agent Reinforcement Learning in Future Internet: A   Comprehensive Survey](http://arxiv.org/abs/2110.13484v1)|2021-10-26 08:26:55+00:00|26-10-2021
-Rolf Mahnken|[A deep learning driven pseudospectral PCE based FFT homogenization   algorithm for complex microstructures](http://arxiv.org/abs/2110.13440v1)|2021-10-26 07:02:14+00:00|26-10-2021
-Louis-Philippe Morency|[Relay Variational Inference: A Method for Accelerated Encoderless VI](http://arxiv.org/abs/2110.13422v1)|2021-10-26 05:48:00+00:00|26-10-2021
-Alexandre Mathieu|[Partial order: Finding Consensus among Uncertain Feature Attributions](http://arxiv.org/abs/2110.13369v1)|2021-10-26 02:53:14+00:00|26-10-2021
-Javier Gonzalez|[Emulation of physical processes with Emukit](http://arxiv.org/abs/2110.13293v1)|2021-10-25 22:09:03+00:00|25-10-2021
-Loïc Le Folgoc|[Uncertainty quantification in non-rigid image registration via   stochastic gradient Markov chain Monte Carlo](http://arxiv.org/abs/2110.13289v1)|2021-10-25 22:05:20+00:00|25-10-2021
+Jiequn Han|[Perturbational Complexity by Distribution Mismatch: A Systematic   Analysis of Reinforcement Learning in Reproducing Kernel Hilbert Space](http://arxiv.org/abs/2111.03469v1)|2021-11-05 12:46:04+00:00|05-11-2021
+Matthew Chalk|[Contextual Bayesian optimization with binary outputs](http://arxiv.org/abs/2111.03447v1)|2021-11-05 12:09:46+00:00|05-11-2021
+Wesley M. Gifford|[Generative Adversarial Network for Probabilistic Forecast of Random   Dynamical System](http://arxiv.org/abs/2111.03126v1)|2021-11-04 19:50:56+00:00|04-11-2021
+Zecheng Zhang|[Accelerated replica exchange stochastic gradient Langevin diffusion   enhanced Bayesian DeepONet for solving noisy parametric PDEs](http://arxiv.org/abs/2111.02484v1)|2021-11-03 19:23:59+00:00|03-11-2021
+Aram Galstyan|[Hamiltonian Dynamics with Non-Newtonian Momentum for Rapid Sampling](http://arxiv.org/abs/2111.02434v1)|2021-11-03 18:00:07+00:00|03-11-2021
+Shaojie Shen|[Trajectory Prediction with Graph-based Dual-scale Context Fusion](http://arxiv.org/abs/2111.01592v1)|2021-11-02 13:42:16+00:00|02-11-2021
+Leonel Rozo|[Geometry-aware Bayesian Optimization in Robotics using Riemannian   Matérn Kernels](http://arxiv.org/abs/2111.01460v1)|2021-11-02 09:47:22+00:00|02-11-2021
+Nanpeng Yu|[Learning to Operate an Electric Vehicle Charging Station Considering   Vehicle-grid Integration](http://arxiv.org/abs/2111.01294v1)|2021-11-01 23:10:28+00:00|01-11-2021
+Mohit Bansal|[Low-Cost Algorithmic Recourse for Users With Uncertain Cost Functions](http://arxiv.org/abs/2111.01235v1)|2021-11-01 19:49:35+00:00|01-11-2021
+Heike Hofmann|[Hierarchical Decision Ensembles- An inferential framework for uncertain   Human-AI collaboration in forensic examinations](http://arxiv.org/abs/2111.01131v1)|2021-10-31 08:07:43+00:00|31-10-2021

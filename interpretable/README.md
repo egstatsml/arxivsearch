@@ -1,5 +1,15 @@
 # interpretable
 Click on title for link to paper
+## 09-11-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Rafael Chaves|[Causal inference with imperfect instrumental variables](http://arxiv.org/abs/2111.03029v1)|2021-11-04 17:34:27+00:00|04-11-2021
+Nico Pfeifer|[Convolutional Motif Kernel Networks](http://arxiv.org/abs/2111.02272v1)|2021-11-03 15:06:09+00:00|03-11-2021
+Timothy Hosgood|[Deep neural networks as nested dynamical systems](http://arxiv.org/abs/2111.01297v1)|2021-11-01 23:37:54+00:00|01-11-2021
+Keith Butler|[Interpretable and Explainable Machine Learning for Materials Science and   Chemistry](http://arxiv.org/abs/2111.01037v2)|2021-11-03 17:04:13+00:00|01-11-2021
+Keyvan Ansari|[Explainable Artificial Intelligence for Smart City Application: A Secure   and Trusted Platform](http://arxiv.org/abs/2111.00601v1)|2021-10-31 21:47:12+00:00|31-10-2021
+
 ## 02-11-2021
 
 main_author|title|update_date|publish_date

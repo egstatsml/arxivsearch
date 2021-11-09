@@ -1,5 +1,20 @@
 # variational
 Click on title for link to paper
+## 09-11-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Jiequn Han|[Perturbational Complexity by Distribution Mismatch: A Systematic   Analysis of Reinforcement Learning in Reproducing Kernel Hilbert Space](http://arxiv.org/abs/2111.03469v1)|2021-11-05 12:46:04+00:00|05-11-2021
+Matthew Chalk|[Contextual Bayesian optimization with binary outputs](http://arxiv.org/abs/2111.03447v1)|2021-11-05 12:09:46+00:00|05-11-2021
+Wesley M. Gifford|[Generative Adversarial Network for Probabilistic Forecast of Random   Dynamical System](http://arxiv.org/abs/2111.03126v1)|2021-11-04 19:50:56+00:00|04-11-2021
+Zecheng Zhang|[Accelerated replica exchange stochastic gradient Langevin diffusion   enhanced Bayesian DeepONet for solving noisy parametric PDEs](http://arxiv.org/abs/2111.02484v1)|2021-11-03 19:23:59+00:00|03-11-2021
+Aram Galstyan|[Hamiltonian Dynamics with Non-Newtonian Momentum for Rapid Sampling](http://arxiv.org/abs/2111.02434v1)|2021-11-03 18:00:07+00:00|03-11-2021
+Shaojie Shen|[Trajectory Prediction with Graph-based Dual-scale Context Fusion](http://arxiv.org/abs/2111.01592v1)|2021-11-02 13:42:16+00:00|02-11-2021
+Leonel Rozo|[Geometry-aware Bayesian Optimization in Robotics using Riemannian   Matérn Kernels](http://arxiv.org/abs/2111.01460v1)|2021-11-02 09:47:22+00:00|02-11-2021
+Nanpeng Yu|[Learning to Operate an Electric Vehicle Charging Station Considering   Vehicle-grid Integration](http://arxiv.org/abs/2111.01294v1)|2021-11-01 23:10:28+00:00|01-11-2021
+Mohit Bansal|[Low-Cost Algorithmic Recourse for Users With Uncertain Cost Functions](http://arxiv.org/abs/2111.01235v1)|2021-11-01 19:49:35+00:00|01-11-2021
+Heike Hofmann|[Hierarchical Decision Ensembles- An inferential framework for uncertain   Human-AI collaboration in forensic examinations](http://arxiv.org/abs/2111.01131v1)|2021-10-31 08:07:43+00:00|31-10-2021
+
 ## 02-11-2021
 
 main_author|title|update_date|publish_date
