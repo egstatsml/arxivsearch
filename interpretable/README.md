@@ -1,5 +1,20 @@
 # interpretable
 Click on title for link to paper
+## 18-11-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Milo M. Lin|[Deep Distilling: automated code generation using explainable deep   learning](http://arxiv.org/abs/2111.08275v1)|2021-11-16 07:45:41+00:00|16-11-2021
+Przemysław Biecek|[LIMEcraft: Handcrafted superpixel selection and inspection for Visual   eXplanations](http://arxiv.org/abs/2111.08094v1)|2021-11-15 21:40:34+00:00|15-11-2021
+Rob J Hyndman|[LoMEF: A Framework to Produce Local Explanations for Global Model Time   Series Forecasts](http://arxiv.org/abs/2111.07001v1)|2021-11-13 00:17:52+00:00|13-11-2021
+Quanshi Zhang|[Discovering and Explaining the Representation Bottleneck of DNNs](http://arxiv.org/abs/2111.06236v1)|2021-11-11 14:35:20+00:00|11-11-2021
+JianYu Shi|[STNN-DDI: A Substructure-aware Tensor Neural Network to Predict   Drug-Drug Interactions](http://arxiv.org/abs/2111.05708v1)|2021-11-10 14:32:42+00:00|10-11-2021
+Axel-Cyrille Ngonga Ngomo|[EvoLearner: Learning Description Logics with Evolutionary Algorithms](http://arxiv.org/abs/2111.04879v1)|2021-11-08 23:47:39+00:00|08-11-2021
+Wael Abd-Almageed|[Explaining Face Presentation Attack Detection Using Natural Language](http://arxiv.org/abs/2111.04862v1)|2021-11-08 22:55:55+00:00|08-11-2021
+Bernd Bischl|[Explaining Hyperparameter Optimization via Partial Dependence Plots](http://arxiv.org/abs/2111.04820v1)|2021-11-08 20:51:54+00:00|08-11-2021
+Xia Hu|[Defense Against Explanation Manipulation](http://arxiv.org/abs/2111.04303v1)|2021-11-08 07:18:34+00:00|08-11-2021
+MD. Golam Rabiul Alam|[Demystifying Deep Learning Models for Retinal OCT Disease Classification   using Explainable AI](http://arxiv.org/abs/2111.03890v1)|2021-11-06 13:54:07+00:00|06-11-2021
+
 ## 16-11-2021
 
 title|publish_date|main_author

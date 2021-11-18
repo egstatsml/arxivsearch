@@ -1,5 +1,25 @@
 # mcmc
 Click on title for link to paper
+## 18-11-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Sebastian Stober|[PredProp: Bidirectional Stochastic Optimization with Precision Weighted   Predictive Coding](http://arxiv.org/abs/2111.08792v1)|2021-11-16 21:43:15+00:00|16-11-2021
+Raul Santos-Rodriguez|[Reinforcement Learning with Feedback from Multiple Humans with Diverse   Skills](http://arxiv.org/abs/2111.08596v1)|2021-11-16 16:19:19+00:00|16-11-2021
+Youlong Wu|[Wyner-Ziv Gradient Compression for Federated Learning](http://arxiv.org/abs/2111.08277v1)|2021-11-16 07:55:43+00:00|16-11-2021
+Hayata Yamasaki|[Stochastic Gradient Line Bayesian Optimization: Reducing Measurement   Shots in Optimizing Parameterized Quantum Circuits](http://arxiv.org/abs/2111.07952v1)|2021-11-15 18:00:14+00:00|15-11-2021
+Alfons G. Hoekstra|[Uncertainty quantification of a 3D In-Stent Restenosis model with   surrogate modelling](http://arxiv.org/abs/2111.06173v1)|2021-11-11 12:28:31+00:00|11-11-2021
+Manuela Veloso|[Synthetic Document Generator for Annotation-free Layout Recognition](http://arxiv.org/abs/2111.06016v1)|2021-11-11 01:58:44+00:00|11-11-2021
+Lyudmila Mihaylova|[Robust Learning via Ensemble Density Propagation in Deep Neural Networks](http://arxiv.org/abs/2111.05953v1)|2021-11-10 21:26:08+00:00|10-11-2021
+Ling Shao|[Multi-Task Neural Processes](http://arxiv.org/abs/2111.05820v1)|2021-11-10 17:27:46+00:00|10-11-2021
+Ehecatl Antonio del Rio-Chanona|[Safe Real-Time Optimization using Multi-Fidelity Gaussian Processes](http://arxiv.org/abs/2111.05589v1)|2021-11-10 09:31:10+00:00|10-11-2021
+Qiang Ni|[Sparse Adversarial Video Attacks with Spatial Transformations](http://arxiv.org/abs/2111.05468v1)|2021-11-10 00:37:35+00:00|10-11-2021
+Peter Flach|[Risk Sensitive Model-Based Reinforcement Learning using Uncertainty   Guided Planning](http://arxiv.org/abs/2111.04972v1)|2021-11-09 07:28:00+00:00|09-11-2021
+Fabio M. Carlucci|[Approximate Neural Architecture Search via Operation Distribution   Learning](http://arxiv.org/abs/2111.04670v1)|2021-11-08 17:38:29+00:00|08-11-2021
+Mahantesh Halappanavar|[On the Stochastic Stability of Deep Markov Models](http://arxiv.org/abs/2111.04601v1)|2021-11-08 16:14:37+00:00|08-11-2021
+Karim Pichara|[Uncertainty Quantification in Neural Differential Equations](http://arxiv.org/abs/2111.04207v1)|2021-11-08 00:09:39+00:00|08-11-2021
+Tor Arne Johansen|[Data-Efficient Deep Reinforcement Learning for Attitude Control of   Fixed-Wing UAVs: Field Experiments](http://arxiv.org/abs/2111.04153v1)|2021-11-07 19:07:46+00:00|07-11-2021
+
 ## 16-11-2021
 
 title|publish_date|main_author

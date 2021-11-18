@@ -1,5 +1,43 @@
 # bnn
 Click on title for link to paper
+## 18-11-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Zhengguo Li|[Probabilistic Spatial Distribution Prior Based Attentional Keypoints   Matching Network](http://arxiv.org/abs/2111.09006v1)|2021-11-17 09:52:03+00:00|17-11-2021
+John H. L. Hansen|[Single-channel speech separation using Soft-minimum Permutation   Invariant Training](http://arxiv.org/abs/2111.08635v1)|2021-11-16 17:25:05+00:00|16-11-2021
+Raul Santos-Rodriguez|[Reinforcement Learning with Feedback from Multiple Humans with Diverse   Skills](http://arxiv.org/abs/2111.08596v1)|2021-11-16 16:19:19+00:00|16-11-2021
+Alexandra Hildenbrandt|[Robustness of Bayesian Neural Networks to White-Box Adversarial Attacks](http://arxiv.org/abs/2111.08591v1)|2021-11-16 16:14:44+00:00|16-11-2021
+Hongfeng Yu|[Assessing Deep Neural Networks as Probability Estimators](http://arxiv.org/abs/2111.08239v1)|2021-11-16 05:49:56+00:00|16-11-2021
+Alex Popinga|[Bayesian inference of the climbing grade scale](http://arxiv.org/abs/2111.08140v1)|2021-11-15 23:15:03+00:00|15-11-2021
+Farzaneh Mahdisoltani|[Natural Gradient Variational Inference with Gaussian Mixture Models](http://arxiv.org/abs/2111.08002v1)|2021-11-15 20:04:32+00:00|15-11-2021
+Hayata Yamasaki|[Stochastic Gradient Line Bayesian Optimization: Reducing Measurement   Shots in Optimizing Parameterized Quantum Circuits](http://arxiv.org/abs/2111.07952v1)|2021-11-15 18:00:14+00:00|15-11-2021
+Jitendra K. Tugnait|[On Sparse High-Dimensional Graphical Model Learning For Dependent Time   Series](http://arxiv.org/abs/2111.07897v1)|2021-11-15 16:52:02+00:00|15-11-2021
+John Shawe-Taylor|[Progress in Self-Certified Neural Networks](http://arxiv.org/abs/2111.07737v1)|2021-11-15 13:39:44+00:00|15-11-2021
+Demian Wassermann|[Inverting brain grey matter models with likelihood-free inference: a   tool for trustable cytoarchitecture measurements](http://arxiv.org/abs/2111.08693v1)|2021-11-15 09:08:27+00:00|15-11-2021
+James J. Clark|[A Probabilistic Hard Attention Model For Sequentially Observed Scenes](http://arxiv.org/abs/2111.07534v1)|2021-11-15 04:47:47+00:00|15-11-2021
+Wojciech Pieczynski|[Improving usual Naive Bayes classifier performances with Neural Naive   Bayes based models](http://arxiv.org/abs/2111.07307v1)|2021-11-14 10:42:26+00:00|14-11-2021
+Amit Ranjan Trivedi|[MC-CIM: Compute-in-Memory with Monte-Carlo Dropouts for Bayesian Edge   Intelligence](http://arxiv.org/abs/2111.07125v1)|2021-11-13 14:50:48+00:00|13-11-2021
+Rafael F. Schaefer|[A Reverse Jensen Inequality Result with Application to Mutual   Information Estimation](http://arxiv.org/abs/2111.06676v1)|2021-11-12 11:54:17+00:00|12-11-2021
+Yuyang Wang|[Learning Quantile Functions without Quantile Crossing for   Distribution-free Time Series Forecasting](http://arxiv.org/abs/2111.06581v1)|2021-11-12 06:54:48+00:00|12-11-2021
+Peter I. Frazier|[Multi-Step Budgeted Bayesian Optimization with Unknown Evaluation Costs](http://arxiv.org/abs/2111.06537v1)|2021-11-12 02:18:26+00:00|12-11-2021
+Hassan M. Fathallah-Shaykh|[Trustworthy Medical Segmentation with Uncertainty Estimation](http://arxiv.org/abs/2111.05978v1)|2021-11-10 22:46:05+00:00|10-11-2021
+Lyudmila Mihaylova|[Robust Learning via Ensemble Density Propagation in Deep Neural Networks](http://arxiv.org/abs/2111.05953v1)|2021-11-10 21:26:08+00:00|10-11-2021
+Nidhal C. Bouaynaya|[Self-Compression in Bayesian Neural Networks](http://arxiv.org/abs/2111.05950v1)|2021-11-10 21:19:40+00:00|10-11-2021
+Ling Shao|[Multi-Task Neural Processes](http://arxiv.org/abs/2111.05820v1)|2021-11-10 17:27:46+00:00|10-11-2021
+Ehecatl Antonio del Rio-Chanona|[Safe Real-Time Optimization using Multi-Fidelity Gaussian Processes](http://arxiv.org/abs/2111.05589v1)|2021-11-10 09:31:10+00:00|10-11-2021
+Qiang Ni|[Sparse Adversarial Video Attacks with Spatial Transformations](http://arxiv.org/abs/2111.05468v1)|2021-11-10 00:37:35+00:00|10-11-2021
+Lei Li|[Learning Logic Rules for Document-level Relation Extraction](http://arxiv.org/abs/2111.05407v1)|2021-11-09 20:32:30+00:00|09-11-2021
+Timothy Hospedales|[Gaussian Process Meta Few-shot Classifier Learning via Linear   Discriminant Laplace Approximation](http://arxiv.org/abs/2111.05392v1)|2021-11-09 20:00:16+00:00|09-11-2021
+Ling Shao|[Variational Multi-Task Learning with Gumbel-Softmax Priors](http://arxiv.org/abs/2111.05323v1)|2021-11-09 18:49:45+00:00|09-11-2021
+Guy Van den Broeck|[Solving Marginal MAP Exactly by Probabilistic Circuit Transformations](http://arxiv.org/abs/2111.04833v1)|2021-11-08 21:10:10+00:00|08-11-2021
+Fabio M. Carlucci|[Approximate Neural Architecture Search via Operation Distribution   Learning](http://arxiv.org/abs/2111.04670v1)|2021-11-08 17:38:29+00:00|08-11-2021
+Mahantesh Halappanavar|[On the Stochastic Stability of Deep Markov Models](http://arxiv.org/abs/2111.04601v1)|2021-11-08 16:14:37+00:00|08-11-2021
+Brooks Paige|[Fast and Scalable Spike and Slab Variable Selection in High-Dimensional   Gaussian Processes](http://arxiv.org/abs/2111.04558v1)|2021-11-08 15:13:24+00:00|08-11-2021
+Yilong Yin|[Learning to Rectify for Robust Learning with Noisy Labels](http://arxiv.org/abs/2111.04239v1)|2021-11-08 02:25:50+00:00|08-11-2021
+Thomas Bäck|[IOHexperimenter: Benchmarking Platform for Iterative Optimization   Heuristics](http://arxiv.org/abs/2111.04077v1)|2021-11-07 13:11:37+00:00|07-11-2021
+Eduardo Lleida|[Class Token and Knowledge Distillation for Multi-head Self-Attention   Speaker Verification Systems](http://arxiv.org/abs/2111.03842v1)|2021-11-06 09:47:05+00:00|06-11-2021
+
 ## 16-11-2021
 
 title|publish_date|main_author
