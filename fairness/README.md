@@ -1,5 +1,15 @@
 # fairness
 Click on title for link to paper
+## 23-11-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Changsheng Xu|[GRecX: An Efficient and Unified Benchmark for GNN-based Recommendation](http://arxiv.org/abs/2111.10342v1)|2021-11-19 17:45:46+00:00|19-11-2021
+Phaedon-Stelios Koutsourelakis|[Physics-enhanced Neural Networks in the Small Data Regime](http://arxiv.org/abs/2111.10329v1)|2021-11-19 17:21:14+00:00|19-11-2021
+Sihong Xie|[Explaining GNN over Evolving Graphs using Information Flow](http://arxiv.org/abs/2111.10037v1)|2021-11-19 04:29:38+00:00|19-11-2021
+Konstantinos Perakis|[A Secure Experimentation Sandbox for the design and execution of trusted   and secure analytics in the aviation domain](http://arxiv.org/abs/2111.09863v1)|2021-11-18 18:44:29+00:00|18-11-2021
+Yuan Luo|[Assessing Social Determinants-Related Performance Bias of Machine   Learning Models: A case of Hyperchloremia Prediction in ICU Population](http://arxiv.org/abs/2111.09507v1)|2021-11-18 03:58:50+00:00|18-11-2021
+
 ## 18-11-2021
 
 main_author|title|update_date|publish_date

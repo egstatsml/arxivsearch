@@ -1,5 +1,13 @@
 # bnn
 Click on title for link to paper
+## 23-11-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Josephine Sullivan|[Probabilistic Regression with Huber Distributions](http://arxiv.org/abs/2111.10296v1)|2021-11-19 16:12:15+00:00|19-11-2021
+François-Xavier Briol|[Composite Goodness-of-fit Tests with Kernels](http://arxiv.org/abs/2111.10275v1)|2021-11-19 15:25:06+00:00|19-11-2021
+Randall C. O'Reilly|[Locally Learned Synaptic Dropout for Complete Bayesian Inference](http://arxiv.org/abs/2111.09780v1)|2021-11-18 16:23:00+00:00|18-11-2021
+
 ## 18-11-2021
 
 main_author|title|update_date|publish_date
