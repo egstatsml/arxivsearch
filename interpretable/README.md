@@ -1,5 +1,14 @@
 # interpretable
 Click on title for link to paper
+## 30-11-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Pablo Márquez-Neila|[Data Invariants to Understand Unsupervised Out-of-Distribution Detection](http://arxiv.org/abs/2111.13362v1)|2021-11-26 08:42:56+00:00|26-11-2021
+Ruibin Bai|[One-shot Visual Reasoning on RPMs with an Application to Video Frame   Prediction](http://arxiv.org/abs/2111.12301v1)|2021-11-24 06:51:38+00:00|24-11-2021
+Fosca Giannotti|[Explainable Deep Image Classifiers for Skin Lesion Diagnosis](http://arxiv.org/abs/2111.11863v1)|2021-11-22 10:42:20+00:00|22-11-2021
+Eliseo Papa|[Explainable Biomedical Recommendations via Reinforcement Learning   Reasoning on Knowledge Graphs](http://arxiv.org/abs/2111.10625v1)|2021-11-20 16:41:34+00:00|20-11-2021
+
 ## 23-11-2021
 
 title|publish_date|main_author

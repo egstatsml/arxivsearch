@@ -1,5 +1,34 @@
 # fairness
 Click on title for link to paper
+## 30-11-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Or Litany|[Neural Fields as Learnable Kernels for 3D Reconstruction](http://arxiv.org/abs/2111.13674v1)|2021-11-26 18:59:04+00:00|26-11-2021
+Krishnaram Kenthapadi|[Amazon SageMaker Model Monitor: A System for Real-Time Insights into   Deployed Machine Learning Models](http://arxiv.org/abs/2111.13657v1)|2021-11-26 18:35:38+00:00|26-11-2021
+Martin Vechev|[Latent Space Smoothing for Individually Fair Representations](http://arxiv.org/abs/2111.13650v1)|2021-11-26 18:22:42+00:00|26-11-2021
+Shomir Wilson|[Identification of Bias Against People with Disabilities in Sentiment   Analysis and Toxicity Detection Models](http://arxiv.org/abs/2111.13259v1)|2021-11-25 21:44:18+00:00|25-11-2021
+Peter Vadja|[Cross-Domain Object Detection via Adaptive Self-Training](http://arxiv.org/abs/2111.13216v1)|2021-11-25 18:50:15+00:00|25-11-2021
+Shutao Xia|[Learning Debiased Models with Dynamic Gradient Alignment and   Bias-conflicting Sample Mining](http://arxiv.org/abs/2111.13108v1)|2021-11-25 14:50:10+00:00|25-11-2021
+Woo Youn Kim|[Fragment-based molecular generative model with high generalization   ability and synthetic accessibility](http://arxiv.org/abs/2111.12907v1)|2021-11-25 04:44:37+00:00|25-11-2021
+Nisheeth K. Vishnoi|[Fairness for AUC via Feature Augmentation](http://arxiv.org/abs/2111.12823v1)|2021-11-24 22:32:19+00:00|24-11-2021
+Wolfram Burgard|[Adaptively Calibrated Critic Estimates for Deep Reinforcement Learning](http://arxiv.org/abs/2111.12673v1)|2021-11-24 18:07:33+00:00|24-11-2021
+Amit Sharma|[Causal Regularization Using Domain Priors](http://arxiv.org/abs/2111.12490v1)|2021-11-24 13:38:24+00:00|24-11-2021
+Eric Deutsch|[MICS : Multi-steps, Inverse Consistency and Symmetric deep learning   registration network](http://arxiv.org/abs/2111.12123v1)|2021-11-23 19:46:22+00:00|23-11-2021
+Christoph Busch|[Algorithmic Fairness in Face Morphing Attack Detection](http://arxiv.org/abs/2111.12115v1)|2021-11-23 19:16:04+00:00|23-11-2021
+Joonhyuk Kang|[Forget-SVGD: Particle-Based Bayesian Federated Unlearning](http://arxiv.org/abs/2111.12056v1)|2021-11-23 18:15:50+00:00|23-11-2021
+Bohan Zhuang|[Pruning Self-attentions into Convolutional Layers in Single Path](http://arxiv.org/abs/2111.11802v1)|2021-11-23 11:35:54+00:00|23-11-2021
+Matthew P. Lungren|[RadFusion: Benchmarking Performance and Fairness for Multimodal   Pulmonary Embolism Detection from CT and EHR](http://arxiv.org/abs/2111.11665v2)|2021-11-27 02:03:31+00:00|23-11-2021
+Ferenc Huszár|[Depth Without the Magic: Inductive Bias of Natural Gradient Descent](http://arxiv.org/abs/2111.11542v1)|2021-11-22 21:20:10+00:00|22-11-2021
+Alessandro Rudi|[Learning PSD-valued functions using kernel sums-of-squares](http://arxiv.org/abs/2111.11306v1)|2021-11-22 16:07:50+00:00|22-11-2021
+Ioannis Patras|[S3: Supervised Self-supervised Learning under Label Noise](http://arxiv.org/abs/2111.11288v1)|2021-11-22 15:49:20+00:00|22-11-2021
+Jaime S. Cardoso|[Myope Models -- Are face presentation attack detection models   short-sighted?](http://arxiv.org/abs/2111.11127v1)|2021-11-22 11:28:44+00:00|22-11-2021
+Fredrik D. Johansson|[Case-based off-policy policy evaluation using prototype learning](http://arxiv.org/abs/2111.11113v1)|2021-11-22 11:03:45+00:00|22-11-2021
+Ziwei Zhu|[End-to-end Learning for Fair Ranking Systems](http://arxiv.org/abs/2111.10723v1)|2021-11-21 03:25:04+00:00|21-11-2021
+Eliseo Papa|[Explainable Biomedical Recommendations via Reinforcement Learning   Reasoning on Knowledge Graphs](http://arxiv.org/abs/2111.10625v1)|2021-11-20 16:41:34+00:00|20-11-2021
+Pavlos Protopapas|[Adversarial Sampling for Solving Differential Equations with Neural   Networks](http://arxiv.org/abs/2111.12024v1)|2021-11-20 06:39:08+00:00|20-11-2021
+Ian Micir|[Exploring Language Patterns in a Medical Licensure Exam Item Bank](http://arxiv.org/abs/2111.10501v1)|2021-11-20 02:45:35+00:00|20-11-2021
+
 ## 23-11-2021
 
 main_author|title|update_date|publish_date

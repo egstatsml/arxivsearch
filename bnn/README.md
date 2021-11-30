@@ -1,5 +1,28 @@
 # bnn
 Click on title for link to paper
+## 30-11-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Alexander Strang|[A Variational Inference Approach to Inverse Problems with Gamma   Hyperpriors](http://arxiv.org/abs/2111.13329v2)|2021-11-29 02:44:07+00:00|26-11-2021
+Snigdhansu Chatterjee|[Approximate Bayesian Computation for Physical Inverse Modeling](http://arxiv.org/abs/2111.13296v1)|2021-11-26 02:23:05+00:00|26-11-2021
+Mark Crowley|[Generative Adversarial Networks and Adversarial Autoencoders: Tutorial   and Survey](http://arxiv.org/abs/2111.13282v1)|2021-11-26 00:45:08+00:00|26-11-2021
+Gholamreza Haffari|[BaLeNAS: Differentiable Architecture Search via the Bayesian Learning   Rule](http://arxiv.org/abs/2111.13204v1)|2021-11-25 18:13:42+00:00|25-11-2021
+Oscar Camara|[Generalizing electrocardiogram delineation: training convolutional   neural networks with synthetic data augmentation](http://arxiv.org/abs/2111.12996v1)|2021-11-25 10:11:41+00:00|25-11-2021
+Joaquin Borrego-Diaz|[A stacked deep convolutional neural network to predict the remaining   useful life of a turbofan engine](http://arxiv.org/abs/2111.12689v1)|2021-11-24 18:36:28+00:00|24-11-2021
+Joonhyuk Kang|[Forget-SVGD: Particle-Based Bayesian Federated Unlearning](http://arxiv.org/abs/2111.12056v1)|2021-11-23 18:15:50+00:00|23-11-2021
+Christopher K. I. Williams|[ptype-cat: Inferring the Type and Values of Categorical Variables](http://arxiv.org/abs/2111.11956v1)|2021-11-23 15:49:08+00:00|23-11-2021
+Cengiz Pehlevan|[Depth induces scale-averaging in overparameterized linear Bayesian   neural networks](http://arxiv.org/abs/2111.11954v1)|2021-11-23 15:48:47+00:00|23-11-2021
+Christian Henning|[Uncertainty estimation under model misspecification in neural network   regression](http://arxiv.org/abs/2111.11763v1)|2021-11-23 10:18:41+00:00|23-11-2021
+Eric F. Darve|[Variational encoder geostatistical analysis (VEGAS) with an application   to large scale riverine bathymetry](http://arxiv.org/abs/2111.11719v1)|2021-11-23 08:27:48+00:00|23-11-2021
+Anna Scaife|[Weight Pruning and Uncertainty in Radio Galaxy Classification](http://arxiv.org/abs/2111.11654v2)|2021-11-29 06:42:06+00:00|23-11-2021
+Guy Van den Broeck|[Lossless Compression with Probabilistic Circuits](http://arxiv.org/abs/2111.11632v1)|2021-11-23 03:30:22+00:00|23-11-2021
+Veronika Ročková|[Approximate Bayesian Computation via Classification](http://arxiv.org/abs/2111.11507v1)|2021-11-22 20:07:55+00:00|22-11-2021
+Haoming Zhan|[FFNB: Forgetting-Free Neural Blocks for Deep Continual Visual Learning](http://arxiv.org/abs/2111.11366v1)|2021-11-22 17:23:34+00:00|22-11-2021
+N. Ares|[Bridging the reality gap in quantum devices with physics-aware machine   learning](http://arxiv.org/abs/2111.11285v1)|2021-11-22 15:45:01+00:00|22-11-2021
+Wangxiangming Zheng|[Semi-supervised Impedance Inversion by Bayesian Neural Network Based on   2-d CNN Pre-training](http://arxiv.org/abs/2111.10596v1)|2021-11-20 14:12:05+00:00|20-11-2021
+Nikolas Nüsken|[Bayesian Learning via Neural Schrödinger-Föllmer Flows](http://arxiv.org/abs/2111.10510v3)|2021-11-26 14:51:34+00:00|20-11-2021
+
 ## 23-11-2021
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,19 @@
 # variational
 Click on title for link to paper
+## 30-11-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Manuel Graña|[On the combination of graph data for assessing thin-file borrowers'   creditworthiness](http://arxiv.org/abs/2111.13666v1)|2021-11-26 18:45:23+00:00|26-11-2021
+Mijung Park|[DP-SEP! Differentially Private Stochastic Expectation Propagation](http://arxiv.org/abs/2111.13219v1)|2021-11-25 18:59:35+00:00|25-11-2021
+Zheng Zhao|[State-space deep Gaussian processes with applications](http://arxiv.org/abs/2111.12604v1)|2021-11-24 16:25:43+00:00|24-11-2021
+Yuze Tian|[Auto robust relative radiometric normalization via latent change noise   modelling](http://arxiv.org/abs/2111.12406v1)|2021-11-24 10:43:55+00:00|24-11-2021
+Meghna Chakraborty|[Causal Analysis and Prediction of Human Mobility in the U.S. during the   COVID-19 Pandemic](http://arxiv.org/abs/2111.12272v1)|2021-11-24 05:15:12+00:00|24-11-2021
+Fredrik D. Johansson|[Case-based off-policy policy evaluation using prototype learning](http://arxiv.org/abs/2111.11113v1)|2021-11-22 11:03:45+00:00|22-11-2021
+Ali Gholipour|[Calibrated Diffusion Tensor Estimation](http://arxiv.org/abs/2111.10847v1)|2021-11-21 15:58:01+00:00|21-11-2021
+Wangxiangming Zheng|[Semi-supervised Impedance Inversion by Bayesian Neural Network Based on   2-d CNN Pre-training](http://arxiv.org/abs/2111.10596v1)|2021-11-20 14:12:05+00:00|20-11-2021
+Nikolas Nüsken|[Bayesian Learning via Neural Schrödinger-Föllmer Flows](http://arxiv.org/abs/2111.10510v3)|2021-11-26 14:51:34+00:00|20-11-2021
+
 ## 23-11-2021
 
 main_author|title|update_date|publish_date
