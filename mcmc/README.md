@@ -1,5 +1,12 @@
 # mcmc
 Click on title for link to paper
+## 14-12-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Supasorn Suwajanakorn|[Diffusion Autoencoders: Toward a Meaningful and Decodable Representation](http://arxiv.org/abs/2111.15640v1)|2021-11-30 18:24:04+00:00|30-11-2021
+Baining Guo|[Vector Quantized Diffusion Model for Text-to-Image Synthesis](http://arxiv.org/abs/2111.14822v1)|2021-11-29 18:59:46+00:00|29-11-2021
+
 ## 07-12-2021
 
 main_author|title|update_date|publish_date

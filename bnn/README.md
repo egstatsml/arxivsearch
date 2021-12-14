@@ -1,5 +1,25 @@
 # bnn
 Click on title for link to paper
+## 14-12-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Mihai Nica|[Exponentially Tilted Gaussian Prior for Variational Autoencoder](http://arxiv.org/abs/2111.15646v1)|2021-11-30 18:28:19+00:00|30-11-2021
+Supasorn Suwajanakorn|[Diffusion Autoencoders: Toward a Meaningful and Decodable Representation](http://arxiv.org/abs/2111.15640v1)|2021-11-30 18:24:04+00:00|30-11-2021
+K. Worden|[Bayesian Modelling of Multivalued Power Curves from an Operational Wind   Farm](http://arxiv.org/abs/2111.15496v1)|2021-11-30 15:31:03+00:00|30-11-2021
+Marianne Clausel|[Bilingual Topic Models for Comparable Corpora](http://arxiv.org/abs/2111.15278v1)|2021-11-30 10:53:41+00:00|30-11-2021
+Benjamin Sapp|[MultiPath++: Efficient Information Fusion and Trajectory Aggregation for   Behavior Prediction](http://arxiv.org/abs/2111.14973v1)|2021-11-29 21:36:53+00:00|29-11-2021
+Baining Guo|[Vector Quantized Diffusion Model for Text-to-Image Synthesis](http://arxiv.org/abs/2111.14822v1)|2021-11-29 18:59:46+00:00|29-11-2021
+Nina Miolane|[Riemannian Functional Map Synchronization for Probabilistic Partial   Correspondence in Shape Networks](http://arxiv.org/abs/2111.14762v1)|2021-11-29 18:14:23+00:00|29-11-2021
+Aolin Xu|[Dynamic Inference](http://arxiv.org/abs/2111.14746v2)|2021-11-30 18:33:53+00:00|29-11-2021
+Zhengxiang Wang|[Linguistic Knowledge in Data Augmentation for Natural Language   Processing: An Example on Chinese Question Matching](http://arxiv.org/abs/2111.14709v1)|2021-11-29 17:07:49+00:00|29-11-2021
+Stéphane Girard|[Dependence between Bayesian neural network units](http://arxiv.org/abs/2111.14397v1)|2021-11-29 09:32:09+00:00|29-11-2021
+John Welliaveetil|[A category theory framework for Bayesian learning](http://arxiv.org/abs/2111.14293v1)|2021-11-29 01:51:48+00:00|29-11-2021
+Qianqian Song|[Approximate Inference via Clustering](http://arxiv.org/abs/2111.14219v1)|2021-11-28 19:24:29+00:00|28-11-2021
+Tatsuya Matsuoka|[Computational Complexity of Normalizing Constants for the Product of   Determinantal Point Processes](http://arxiv.org/abs/2111.14148v1)|2021-11-28 14:08:25+00:00|28-11-2021
+Ming Lei|[Speaker Embedding-aware Neural Diarization for Flexible Number of   Speakers with Textual Information](http://arxiv.org/abs/2111.13694v1)|2021-11-28 12:51:04+00:00|28-11-2021
+Konstantinos N. Plataniotis|[Towards Robust and Automatic Hyper-Parameter Tunning](http://arxiv.org/abs/2111.14056v1)|2021-11-28 05:27:34+00:00|28-11-2021
+
 ## 07-12-2021
 
 main_author|title|update_date|publish_date

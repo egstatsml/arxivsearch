@@ -1,5 +1,27 @@
 # fairness
 Click on title for link to paper
+## 14-12-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Viet Nguyen|[Human Imperceptible Attacks and Applications to Improve Fairness](http://arxiv.org/abs/2111.15603v1)|2021-11-30 17:54:13+00:00|30-11-2021
+Veronika Eyring|[On the Generalization of Agricultural Drought Classification from   Climate Data](http://arxiv.org/abs/2111.15452v1)|2021-11-30 14:49:46+00:00|30-11-2021
+Jose Dolz|[The Devil is in the Margin: Margin-based Label Smoothing for Network   Calibration](http://arxiv.org/abs/2111.15430v1)|2021-11-30 14:21:47+00:00|30-11-2021
+Dongmei Zhang|[Neuron with Steady Response Leads to Better Generalization](http://arxiv.org/abs/2111.15414v1)|2021-11-30 14:08:29+00:00|30-11-2021
+Yongxin Chen|[Path Integral Sampler: a stochastic control approach for sampling](http://arxiv.org/abs/2111.15141v1)|2021-11-30 05:50:12+00:00|30-11-2021
+Chaofan Chen|[Deformable ProtoPNet: An Interpretable Image Classifier Using Deformable   Prototypes](http://arxiv.org/abs/2111.15000v1)|2021-11-29 22:38:13+00:00|29-11-2021
+Baining Guo|[Vector Quantized Diffusion Model for Text-to-Image Synthesis](http://arxiv.org/abs/2111.14822v1)|2021-11-29 18:59:46+00:00|29-11-2021
+Chaim Baskin|[End-to-End Referring Video Object Segmentation with Multimodal   Transformers](http://arxiv.org/abs/2111.14821v1)|2021-11-29 18:59:32+00:00|29-11-2021
+Ping Luo|[DanceTrack: Multi-Object Tracking in Uniform Appearance and Diverse   Motion](http://arxiv.org/abs/2111.14690v1)|2021-11-29 16:49:06+00:00|29-11-2021
+Zeki Bilgin|[Anomaly Localization in Model Gradients Under Backdoor Attacks Against   Federated Learning](http://arxiv.org/abs/2111.14683v1)|2021-11-29 16:46:01+00:00|29-11-2021
+Sihong Xie|[Multi-objective Explanations of GNN Predictions](http://arxiv.org/abs/2111.14651v1)|2021-11-29 16:08:03+00:00|29-11-2021
+Taesup Moon|[Learning Fair Classifiers with Partially Annotated Group Labels](http://arxiv.org/abs/2111.14581v1)|2021-11-29 15:11:18+00:00|29-11-2021
+Amirmahdi Mirfakhar|[Online Fair Revenue Maximizing Cake Division with Non-Contiguous Pieces   in Adversarial Bandits](http://arxiv.org/abs/2111.14387v1)|2021-11-29 09:01:29+00:00|29-11-2021
+Balaraman Ravindran|[A Causal Approach for Unfair Edge Prioritization and Discrimination   Removal](http://arxiv.org/abs/2111.14348v1)|2021-11-29 06:47:16+00:00|29-11-2021
+Pin-Yu Chen|[Pessimistic Model Selection for Offline Deep Reinforcement Learning](http://arxiv.org/abs/2111.14346v1)|2021-11-29 06:29:49+00:00|29-11-2021
+Damian Podareanu|[Neural Symplectic Integrator with Hamiltonian Inductive Bias for the   Gravitational $N$-body Problem](http://arxiv.org/abs/2111.15631v1)|2021-11-28 16:15:07+00:00|28-11-2021
+Konstantinos N. Plataniotis|[P4AI: Approaching AI Ethics through Principlism](http://arxiv.org/abs/2111.14062v1)|2021-11-28 06:25:49+00:00|28-11-2021
+
 ## 07-12-2021
 
 main_author|title|update_date|publish_date

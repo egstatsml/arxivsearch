@@ -1,5 +1,13 @@
 # interpretable
 Click on title for link to paper
+## 14-12-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Neeraj Kumar|[Decoding the Protein-ligand Interactions Using Parallel Graph Neural   Networks](http://arxiv.org/abs/2111.15144v1)|2021-11-30 06:02:04+00:00|30-11-2021
+Alexander Wong|[TinyDefectNet: Highly Compact Deep Neural Network Architecture for   High-Throughput Manufacturing Visual Quality Inspection](http://arxiv.org/abs/2111.14319v1)|2021-11-29 04:19:28+00:00|29-11-2021
+Oliver Niggemann|[Learning Physical Concepts in Cyber-Physical Systems: A Case Study](http://arxiv.org/abs/2111.14151v1)|2021-11-28 14:24:52+00:00|28-11-2021
+
 ## 07-12-2021
 
 main_author|title|update_date|publish_date
