@@ -1,5 +1,27 @@
 # interpretable
 Click on title for link to paper
+## 21-12-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Graham Neubig|[Explain, Edit, and Understand: Rethinking User Study Design for   Evaluating Model Explanations](http://arxiv.org/abs/2112.09669v1)|2021-12-17 18:29:56+00:00|17-12-2021
+Volker Tresp|[TLogic: Temporal Logical Rules for Explainable Link Forecasting on   Temporal Knowledge Graphs](http://arxiv.org/abs/2112.08025v1)|2021-12-15 10:46:35+00:00|15-12-2021
+Aasim Zafar|[Utilizing XAI technique to improve autoencoder based model for computer   network anomaly detection with shapley additive explanation(SHAP)](http://arxiv.org/abs/2112.08442v1)|2021-12-14 09:42:04+00:00|14-12-2021
+Ambreen Hanif|[Towards Explainable Artificial Intelligence in Banking and Financial   Services](http://arxiv.org/abs/2112.08441v1)|2021-12-14 08:02:13+00:00|14-12-2021
+Seong-Whan Lee|[Interpretable Convolutional Neural Networks for Subject-Independent   Motor Imagery Classification](http://arxiv.org/abs/2112.07208v1)|2021-12-14 07:35:52+00:00|14-12-2021
+Roberto Cipolla|[Discrete neural representations for explainable anomaly detection](http://arxiv.org/abs/2112.05585v1)|2021-12-10 14:56:58+00:00|10-12-2021
+Julian McAuley|[Self-Supervised Bot Play for Conversational Recommendation with   Justifications](http://arxiv.org/abs/2112.05197v1)|2021-12-09 20:07:41+00:00|09-12-2021
+Naser Damer|[Explainability of the Implications of Supervised and Unsupervised Face   Image Quality Estimations Through Activation Map Variation Analyses in Face   Recognition Models](http://arxiv.org/abs/2112.04827v1)|2021-12-09 10:52:36+00:00|09-12-2021
+Sergey Levine|[DR3: Value-Based Deep Reinforcement Learning Requires Explicit   Regularization](http://arxiv.org/abs/2112.04716v1)|2021-12-09 06:01:01+00:00|09-12-2021
+Felix Hill|[Tell me why! -- Explanations support learning of relational and causal   structure](http://arxiv.org/abs/2112.03753v2)|2021-12-08 12:48:22+00:00|07-12-2021
+Jacob Andreas|[Quantifying Adaptability in Pre-trained Language Models with 500 Tasks](http://arxiv.org/abs/2112.03204v1)|2021-12-06 18:00:25+00:00|06-12-2021
+Nithin Nagaraj|[Learning Generalized Causal Structure in Time-series](http://arxiv.org/abs/2112.03085v1)|2021-12-06 14:48:13+00:00|06-12-2021
+Nicolas Papernot|[When the Curious Abandon Honesty: Federated Learning Is Not Private](http://arxiv.org/abs/2112.02918v1)|2021-12-06 10:37:03+00:00|06-12-2021
+Zhengming Ding|[PSI: A Pedestrian Behavior Dataset for Socially Intelligent Autonomous   Car](http://arxiv.org/abs/2112.02604v1)|2021-12-05 15:54:57+00:00|05-12-2021
+Cheekong Lee|[ProtGNN: Towards Self-Explaining Graph Neural Networks](http://arxiv.org/abs/2112.00911v1)|2021-12-02 01:16:29+00:00|02-12-2021
+Qinghua Hu|[Interactive Model with Structural Loss for Language-based Abductive   Reasoning](http://arxiv.org/abs/2112.00284v1)|2021-12-01 05:21:07+00:00|01-12-2021
+Hari Prasad Timmapathini|[Wiki to Automotive: Understanding the Distribution Shift and its impact   on Named Entity Recognition](http://arxiv.org/abs/2112.00283v1)|2021-12-01 05:13:47+00:00|01-12-2021
+
 ## 14-12-2021
 
 main_author|title|update_date|publish_date
