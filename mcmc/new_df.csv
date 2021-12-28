@@ -1,31 +1,11 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
-Zhongyu Wei|[Reasoning Chain Based Adversarial Attack for Multi-hop Question   Answering](http://arxiv.org/abs/2112.09658v1)|2021-12-17 18:03:14+00:00|17-12-2021
-Rubén Martínez-Cantín|[On the Uncertain Single-View Depths in Endoscopies](http://arxiv.org/abs/2112.08906v1)|2021-12-16 14:24:17+00:00|16-12-2021
-Naira Hovakimyan|[Guaranteed Contraction Control in the Presence of Imperfectly Learned   Dynamics](http://arxiv.org/abs/2112.08222v1)|2021-12-15 15:57:33+00:00|15-12-2021
-Guangming Shi|[Robust Depth Completion with Uncertainty-Driven Loss Functions](http://arxiv.org/abs/2112.07895v1)|2021-12-15 05:22:34+00:00|15-12-2021
-Krishna Narayanan|[Bayesian Graph Contrastive Learning](http://arxiv.org/abs/2112.07823v1)|2021-12-15 01:45:32+00:00|15-12-2021
-Xiaomeng Li|[Uncertainty Estimation via Response Scaling for Pseudo-mask Noise   Mitigation in Weakly-supervised Semantic Segmentation](http://arxiv.org/abs/2112.07431v1)|2021-12-14 14:37:19+00:00|14-12-2021
-Claudia Linnhoff-Popien|[Quantifying Multimodality in World Models](http://arxiv.org/abs/2112.07263v1)|2021-12-14 09:52:18+00:00|14-12-2021
-David Bergman|[Acceleration techniques for optimization over trained neural network   ensembles](http://arxiv.org/abs/2112.07007v1)|2021-12-13 20:50:54+00:00|13-12-2021
-Eldert J. van Henten|[Active learning with MaskAL reduces annotation effort for training Mask   R-CNN](http://arxiv.org/abs/2112.06586v1)|2021-12-13 12:08:27+00:00|13-12-2021
-Dacheng Tao|[Spatial-Temporal-Fusion BNN: Variational Bayesian Feature Layer](http://arxiv.org/abs/2112.06281v1)|2021-12-12 17:13:14+00:00|12-12-2021
-Konstantinos Gatsis|[Federated Reinforcement Learning at the Edge](http://arxiv.org/abs/2112.05908v1)|2021-12-11 03:28:59+00:00|11-12-2021
-Min Xu|[Boosting Active Learning via Improving Test Performance](http://arxiv.org/abs/2112.05683v1)|2021-12-10 17:25:14+00:00|10-12-2021
-Sebastian U. Stich|[The Peril of Popular Deep Learning Uncertainty Estimation Methods](http://arxiv.org/abs/2112.05000v1)|2021-12-09 15:47:21+00:00|09-12-2021
-Ernest Davis|[Deep Learning and Mathematical Intuition: A Review of (Davies et al.   2021)](http://arxiv.org/abs/2112.04324v2)|2021-12-09 03:42:04+00:00|08-12-2021
-Xiaokang Yang|[Fully Context-Aware Image Inpainting with a Learned Semantic Pyramid](http://arxiv.org/abs/2112.04107v1)|2021-12-08 04:33:33+00:00|08-12-2021
-Allan B. Wollaber|[On the Effectiveness of Mode Exploration in Bayesian Model Averaging for   Neural Networks](http://arxiv.org/abs/2112.03773v1)|2021-12-07 15:39:37+00:00|07-12-2021
-Carola-Bibiane Schönlieb|[A Continuous-time Stochastic Gradient Descent Method for Continuous Data](http://arxiv.org/abs/2112.03754v1)|2021-12-07 15:09:24+00:00|07-12-2021
-Lester Mackey|[Bounding Wasserstein distance with couplings](http://arxiv.org/abs/2112.03152v1)|2021-12-06 16:38:21+00:00|06-12-2021
-Yan Lu|[Reliable Propagation-Correction Modulation for Video Object Segmentation](http://arxiv.org/abs/2112.02853v1)|2021-12-06 08:22:58+00:00|06-12-2021
-Peter I. Frazier|[Two-step Lookahead Bayesian Optimization with Inequality Constraints](http://arxiv.org/abs/2112.02833v1)|2021-12-06 07:40:54+00:00|06-12-2021
-Stefano Ermon|[BCD Nets: Scalable Variational Approaches for Bayesian Causal Discovery](http://arxiv.org/abs/2112.02761v1)|2021-12-06 03:35:21+00:00|06-12-2021
-Sergios Theodoridis|[Stochastic Local Winner-Takes-All Networks Enable Profound Adversarial   Robustness](http://arxiv.org/abs/2112.02671v1)|2021-12-05 20:00:10+00:00|05-12-2021
-Adrian Weller|[Diverse, Global and Amortised Counterfactual Explanations for   Uncertainty Estimates](http://arxiv.org/abs/2112.02646v3)|2021-12-09 01:48:15+00:00|05-12-2021
-Gavin Taylor|[Probabilistic Deep Learning to Quantify Uncertainty in Air Quality   Forecasting](http://arxiv.org/abs/2112.02622v1)|2021-12-05 17:01:18+00:00|05-12-2021
-Divya Singhvi|[Math Programming based Reinforcement Learning for Multi-Echelon   Inventory Management](http://arxiv.org/abs/2112.02215v1)|2021-12-04 01:40:34+00:00|04-12-2021
-Philipp Hennig|[ProbNum: Probabilistic Numerics in Python](http://arxiv.org/abs/2112.02100v1)|2021-12-03 07:20:50+00:00|03-12-2021
-Ian R. Manchester|[Youla-REN: Learning Nonlinear Feedback Policies with Robust Stability   Guarantees](http://arxiv.org/abs/2112.01253v1)|2021-12-02 13:52:37+00:00|02-12-2021
-Dacheng Tao|[Video Frame Interpolation without Temporal Priors](http://arxiv.org/abs/2112.01161v1)|2021-12-02 12:13:56+00:00|02-12-2021
-Mohan M. Trivedi|[On Salience-Sensitive Sign Classification in Autonomous Vehicle Path   Planning: Experimental Explorations with a Novel Dataset](http://arxiv.org/abs/2112.00942v1)|2021-12-02 02:45:30+00:00|02-12-2021
+Andreas Zell|[FourierMask: Instance Segmentation using Fourier Mapping in Implicit   Neural Networks](http://arxiv.org/abs/2112.12535v1)|2021-12-23 13:42:32+00:00|23-12-2021
+Peter J. Ramadge|[ProBF: Learning Probabilistic Safety Certificates with Barrier Functions](http://arxiv.org/abs/2112.12210v2)|2021-12-24 02:58:18+00:00|22-12-2021
+John C. S. Lui|[Decentralized Task Offloading in Edge Computing: A Multi-User   Multi-Armed Bandit Approach](http://arxiv.org/abs/2112.11818v1)|2021-12-22 11:51:37+00:00|22-12-2021
+Giovanni Russo|[Discrete fully probabilistic design: a tool to design control policies   from examples](http://arxiv.org/abs/2112.11210v1)|2021-12-21 13:44:48+00:00|21-12-2021
+Claus Aranha|[Faster Convergence in Multi-Objective Optimization Algorithms Based on   Decomposition](http://arxiv.org/abs/2112.11939v1)|2021-12-21 07:33:06+00:00|21-12-2021
+Rainer Spang|[Differentiated uniformization: A new method for inferring Markov chains   on combinatorial state spaces including stochastic epidemic models](http://arxiv.org/abs/2112.10971v1)|2021-12-21 03:59:06+00:00|21-12-2021
+Shaolei Ren|[Learning for Robust Combinatorial Optimization: Algorithm and   Application](http://arxiv.org/abs/2112.10377v1)|2021-12-20 07:58:50+00:00|20-12-2021
+Yufei Zhang|[Exploration-exploitation trade-off for continuous-time episodic   reinforcement learning with linear-convex models](http://arxiv.org/abs/2112.10264v1)|2021-12-19 21:47:04+00:00|19-12-2021
+Tal Arbel|[QU-BraTS: MICCAI BraTS 2020 Challenge on Quantifying Uncertainty in   Brain Tumor Segmentation -- Analysis of Ranking Metrics and Benchmarking   Results](http://arxiv.org/abs/2112.10074v1)|2021-12-19 06:45:55+00:00|19-12-2021

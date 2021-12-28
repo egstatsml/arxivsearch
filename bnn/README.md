@@ -1,5 +1,31 @@
 # bnn
 Click on title for link to paper
+## 28-12-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+P. K. Srijith|[Latent Time Neural Ordinary Differential Equations](http://arxiv.org/abs/2112.12728v1)|2021-12-23 17:31:47+00:00|23-12-2021
+P. K. Srijith|[Improving Robustness and Uncertainty Modelling in Neural Ordinary   Differential Equations](http://arxiv.org/abs/2112.12707v1)|2021-12-23 16:56:10+00:00|23-12-2021
+Peter J. Ramadge|[ProBF: Learning Probabilistic Safety Certificates with Barrier Functions](http://arxiv.org/abs/2112.12210v2)|2021-12-24 02:58:18+00:00|22-12-2021
+Du Phan|[Surrogate Likelihoods for Variational Annealed Importance Sampling](http://arxiv.org/abs/2112.12194v1)|2021-12-22 19:49:45+00:00|22-12-2021
+Hector J. Hortua|[Constraining cosmological parameters from N-body simulations with   Bayesian Neural Networks](http://arxiv.org/abs/2112.11865v1)|2021-12-22 13:22:30+00:00|22-12-2021
+Kazuyuki Aihara|[Entropic Herding](http://arxiv.org/abs/2112.11616v1)|2021-12-22 01:47:21+00:00|22-12-2021
+Leonard J. Schulman|[Identifying Mixtures of Bayesian Network Distributions](http://arxiv.org/abs/2112.11602v1)|2021-12-22 01:04:50+00:00|22-12-2021
+Aura Conci|[A novel approach for the automated segmentation and volume   quantification of cardiac fats on computed tomography](http://arxiv.org/abs/2112.11381v1)|2021-12-21 17:38:06+00:00|21-12-2021
+Aaditya Ramdas|[Data blurring: sample splitting a single sample](http://arxiv.org/abs/2112.11079v1)|2021-12-21 10:27:04+00:00|21-12-2021
+Benoit Hamelin|[ANUBIS: A Provenance Graph-Based Framework for Advanced Persistent   Threat Detection](http://arxiv.org/abs/2112.11032v1)|2021-12-21 08:10:53+00:00|21-12-2021
+Rainer Spang|[Differentiated uniformization: A new method for inferring Markov chains   on combinatorial state spaces including stochastic epidemic models](http://arxiv.org/abs/2112.10971v1)|2021-12-21 03:59:06+00:00|21-12-2021
+Gerardo Aragon-Camarasa|[Learning Physics Properties of Fabrics and Garments with a Physics   Similarity Neural Network](http://arxiv.org/abs/2112.10727v1)|2021-12-20 18:19:12+00:00|20-12-2021
+Georg Stadler|[Bayesian neural network priors for edge-preserving inversion](http://arxiv.org/abs/2112.10663v1)|2021-12-20 16:39:05+00:00|20-12-2021
+Neville K. Kitson|[Hybrid Bayesian network discovery with latent variables by scoring   multiple interventions](http://arxiv.org/abs/2112.10574v1)|2021-12-20 14:54:41+00:00|20-12-2021
+Yuanqing Xia|[TFDPM: Attack detection for cyber-physical systems with diffusion   probabilistic models](http://arxiv.org/abs/2112.10774v1)|2021-12-20 13:13:29+00:00|20-12-2021
+Frank Hutter|[Transformers Can Do Bayesian Inference](http://arxiv.org/abs/2112.10510v1)|2021-12-20 13:07:39+00:00|20-12-2021
+Kolyan Ray|[Variational Bayes for high-dimensional proportional hazards models with   applications to gene expression variable selection](http://arxiv.org/abs/2112.10270v1)|2021-12-19 22:10:41+00:00|19-12-2021
+Mashud Rana|[SSDNet: State Space Decomposition Neural Network for Time Series   Forecasting](http://arxiv.org/abs/2112.10251v1)|2021-12-19 20:35:16+00:00|19-12-2021
+Mahmoud S. Fayed|[Modelling of Received Signals in Molecular Communication Systems based   machine learning: Comparison of azure machine learning and Python tools](http://arxiv.org/abs/2112.10214v1)|2021-12-19 18:15:17+00:00|19-12-2021
+Torsten Enßlin|[Information Field Theory as Artificial Intelligence](http://arxiv.org/abs/2112.10133v1)|2021-12-19 12:29:01+00:00|19-12-2021
+Yuyang Wang|[GOPHER: Categorical probabilistic forecasting with graph structure via   local continuous-time dynamics](http://arxiv.org/abs/2112.09964v1)|2021-12-18 16:51:53+00:00|18-12-2021
+
 ## 21-12-2021
 
 main_author|title|update_date|publish_date

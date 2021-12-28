@@ -1,5 +1,42 @@
 # fairness
 Click on title for link to paper
+## 28-12-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Yamisleydi Salgueiro|[Forward Composition Propagation for Explainable Neural Reasoning](http://arxiv.org/abs/2112.12717v1)|2021-12-23 17:10:11+00:00|23-12-2021
+João Paulo Papa|[Modeling Implicit Bias with Fuzzy Cognitive Maps](http://arxiv.org/abs/2112.12713v1)|2021-12-23 17:04:12+00:00|23-12-2021
+Alessandro Farinelli|[Curriculum Learning for Safe Mapless Navigation](http://arxiv.org/abs/2112.12490v1)|2021-12-23 12:30:36+00:00|23-12-2021
+Wenwu Zhu|[Revisiting Transformation Invariant Geometric Deep Learning: Are Initial   Representations All You Need?](http://arxiv.org/abs/2112.12345v1)|2021-12-23 03:52:33+00:00|23-12-2021
+Fenglin Li|[Physics Constrained Flow Neural Network for Short-Timescale Predictions   in Data Communications Networks](http://arxiv.org/abs/2112.12321v1)|2021-12-23 02:41:00+00:00|23-12-2021
+Christopher Amato|[Improving the Efficiency of Off-Policy Reinforcement Learning by   Accounting for Past Decisions](http://arxiv.org/abs/2112.12281v1)|2021-12-23 00:07:28+00:00|23-12-2021
+Klaus Wehmuth|[Algorithmic Probability of Large Datasets and the Simplicity Bubble   Problem in Machine Learning](http://arxiv.org/abs/2112.12275v1)|2021-12-22 23:44:47+00:00|22-12-2021
+Ali H. Sayed|[Combinations of Adaptive Filters](http://arxiv.org/abs/2112.12245v1)|2021-12-22 22:21:43+00:00|22-12-2021
+Alexey Leontovich|[MC-DGCNN: A Novel DNN Architecture for Multi-Category Point Set   Classification](http://arxiv.org/abs/2112.12219v1)|2021-12-22 20:45:24+00:00|22-12-2021
+Daniel Hsu|[Simple and near-optimal algorithms for hidden stratification and   multi-group learning](http://arxiv.org/abs/2112.12181v1)|2021-12-22 19:16:24+00:00|22-12-2021
+Isabelle Augenstein|[Quantifying Gender Biases Towards Politicians on Reddit](http://arxiv.org/abs/2112.12014v1)|2021-12-22 16:39:14+00:00|22-12-2021
+John C. S. Lui|[Decentralized Task Offloading in Edge Computing: A Multi-User   Multi-Armed Bandit Approach](http://arxiv.org/abs/2112.11818v1)|2021-12-22 11:51:37+00:00|22-12-2021
+Hao Yang|[Self-Distillation Mixup Training for Non-autoregressive Neural Machine   Translation](http://arxiv.org/abs/2112.11640v1)|2021-12-22 03:06:27+00:00|22-12-2021
+A. Rupam Mahmood|[An Alternate Policy Gradient Estimator for Softmax Policies](http://arxiv.org/abs/2112.11622v1)|2021-12-22 02:01:19+00:00|22-12-2021
+Yingyan Lin|[MIA-Former: Efficient and Robust Vision Transformers via Multi-grained   Input-Adaptation](http://arxiv.org/abs/2112.11542v1)|2021-12-21 22:06:24+00:00|21-12-2021
+Guy Van der Sande|[Noise-injected analog Ising machines enable ultrafast statistical   sampling and machine learning](http://arxiv.org/abs/2112.11534v1)|2021-12-21 21:33:45+00:00|21-12-2021
+Chenhao Tan|[Towards a Science of Human-AI Decision Making: A Survey of Empirical   Studies](http://arxiv.org/abs/2112.11471v1)|2021-12-21 19:00:02+00:00|21-12-2021
+Aura Conci|[A novel approach for the automated segmentation and volume   quantification of cardiac fats on computed tomography](http://arxiv.org/abs/2112.11381v1)|2021-12-21 17:38:06+00:00|21-12-2021
+Xiaoyin Xi|[A Pilot Study on Detecting Unfairness in Human Decisions With Machine   Learning Algorithmic Bias Detection](http://arxiv.org/abs/2112.11279v1)|2021-12-21 15:05:42+00:00|21-12-2021
+Xiu Li|[Value Activation for Bias Alleviation: Generalized-activated Deep Double   Deterministic Policy Gradients](http://arxiv.org/abs/2112.11216v1)|2021-12-21 13:45:40+00:00|21-12-2021
+Naoki Nakashima|[Explanation of Machine Learning Models Using Shapley Additive   Explanation and Application for Real Data in Hospital](http://arxiv.org/abs/2112.11071v1)|2021-12-21 10:08:31+00:00|21-12-2021
+Georgios Kaissis|[Distributed Machine Learning and the Semblance of Trust](http://arxiv.org/abs/2112.11040v1)|2021-12-21 08:44:05+00:00|21-12-2021
+Holger Rauhut|[More is Less: Inducing Sparsity via Overparameterization](http://arxiv.org/abs/2112.11027v1)|2021-12-21 07:55:55+00:00|21-12-2021
+Qi Tian|[General Greedy De-bias Learning](http://arxiv.org/abs/2112.10572v2)|2021-12-21 04:32:07+00:00|20-12-2021
+Charles Chimedza|[Predicting treatment effects from observational studies using machine   learning methods: A simulation study](http://arxiv.org/abs/2112.12083v1)|2021-12-20 08:40:47+00:00|20-12-2021
+Ambuj Tewari|[Balancing Adaptability and Non-exploitability in Repeated Games](http://arxiv.org/abs/2112.10314v1)|2021-12-20 03:09:30+00:00|20-12-2021
+Guillermo Sapiro|[Distributionally Robust Group Backwards Compatibility](http://arxiv.org/abs/2112.10290v1)|2021-12-20 00:30:26+00:00|20-12-2021
+Masashi Sugiyama|[Rethinking Importance Weighting for Transfer Learning](http://arxiv.org/abs/2112.10157v1)|2021-12-19 14:35:25+00:00|19-12-2021
+Chandni Saxena|[Data Augmentation for Mental Health Classification on Social Media](http://arxiv.org/abs/2112.10064v1)|2021-12-19 05:09:01+00:00|19-12-2021
+Jinnan Gao|[A-ESRGAN: Training Real-World Blind Super-Resolution with Attention   U-Net Discriminators](http://arxiv.org/abs/2112.10046v1)|2021-12-19 02:50:23+00:00|19-12-2021
+Yuyang Wang|[GOPHER: Categorical probabilistic forecasting with graph structure via   local continuous-time dynamics](http://arxiv.org/abs/2112.09964v1)|2021-12-18 16:51:53+00:00|18-12-2021
+Bani Mallick|[Off-Policy Evaluation Using Information Borrowing and Context-Based   Switching](http://arxiv.org/abs/2112.09865v1)|2021-12-18 07:38:24+00:00|18-12-2021
+
 ## 21-12-2021
 
 main_author|title|update_date|publish_date

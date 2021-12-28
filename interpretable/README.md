@@ -1,5 +1,17 @@
 # interpretable
 Click on title for link to paper
+## 28-12-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Yamisleydi Salgueiro|[Forward Composition Propagation for Explainable Neural Reasoning](http://arxiv.org/abs/2112.12717v1)|2021-12-23 17:10:11+00:00|23-12-2021
+May D. Wang|[Explainable Artificial Intelligence Methods in Combating Pandemics: A   Systematic Review](http://arxiv.org/abs/2112.12705v2)|2021-12-25 05:06:58+00:00|23-12-2021
+Krishnaram Kenthapadi|[More Than Words: Towards Better Quality Interpretations of Text   Classifiers](http://arxiv.org/abs/2112.12444v1)|2021-12-23 10:18:50+00:00|23-12-2021
+Georgios Kaissis|[Distributed Machine Learning and the Semblance of Trust](http://arxiv.org/abs/2112.11040v1)|2021-12-21 08:44:05+00:00|21-12-2021
+K. Weber|[Scope and Sense of Explainability for AI-Systems](http://arxiv.org/abs/2112.10551v2)|2021-12-22 14:18:33+00:00|20-12-2021
+Miroslaw Staron|[Towards Trustworthy Cross-patient Model Development](http://arxiv.org/abs/2112.10441v1)|2021-12-20 10:51:04+00:00|20-12-2021
+Yunan Zhang|[Unifying Model Explainability and Robustness for Joint Text   Classification and Rationale Extraction](http://arxiv.org/abs/2112.10424v1)|2021-12-20 09:48:32+00:00|20-12-2021
+
 ## 21-12-2021
 
 main_author|title|update_date|publish_date

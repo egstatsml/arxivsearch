@@ -1,5 +1,19 @@
 # variational
 Click on title for link to paper
+## 28-12-2021
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Andreas Zell|[FourierMask: Instance Segmentation using Fourier Mapping in Implicit   Neural Networks](http://arxiv.org/abs/2112.12535v1)|2021-12-23 13:42:32+00:00|23-12-2021
+Peter J. Ramadge|[ProBF: Learning Probabilistic Safety Certificates with Barrier Functions](http://arxiv.org/abs/2112.12210v2)|2021-12-24 02:58:18+00:00|22-12-2021
+John C. S. Lui|[Decentralized Task Offloading in Edge Computing: A Multi-User   Multi-Armed Bandit Approach](http://arxiv.org/abs/2112.11818v1)|2021-12-22 11:51:37+00:00|22-12-2021
+Giovanni Russo|[Discrete fully probabilistic design: a tool to design control policies   from examples](http://arxiv.org/abs/2112.11210v1)|2021-12-21 13:44:48+00:00|21-12-2021
+Claus Aranha|[Faster Convergence in Multi-Objective Optimization Algorithms Based on   Decomposition](http://arxiv.org/abs/2112.11939v1)|2021-12-21 07:33:06+00:00|21-12-2021
+Rainer Spang|[Differentiated uniformization: A new method for inferring Markov chains   on combinatorial state spaces including stochastic epidemic models](http://arxiv.org/abs/2112.10971v1)|2021-12-21 03:59:06+00:00|21-12-2021
+Shaolei Ren|[Learning for Robust Combinatorial Optimization: Algorithm and   Application](http://arxiv.org/abs/2112.10377v1)|2021-12-20 07:58:50+00:00|20-12-2021
+Yufei Zhang|[Exploration-exploitation trade-off for continuous-time episodic   reinforcement learning with linear-convex models](http://arxiv.org/abs/2112.10264v1)|2021-12-19 21:47:04+00:00|19-12-2021
+Tal Arbel|[QU-BraTS: MICCAI BraTS 2020 Challenge on Quantifying Uncertainty in   Brain Tumor Segmentation -- Analysis of Ranking Metrics and Benchmarking   Results](http://arxiv.org/abs/2112.10074v1)|2021-12-19 06:45:55+00:00|19-12-2021
+
 ## 21-12-2021
 
 main_author|title|update_date|publish_date
