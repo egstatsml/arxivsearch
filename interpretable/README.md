@@ -1,5 +1,16 @@
 # interpretable
 Click on title for link to paper
+## 04-01-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Bo Liu|[A Critical Review of Inductive Logic Programming Techniques for   Explainable AI](http://arxiv.org/abs/2112.15319v1)|2021-12-31 06:34:32+00:00|31-12-2021
+Kevin W. Bowyer|[Gendered Differences in Face Recognition Accuracy Explained by   Hairstyles, Makeup, and Facial Morphology](http://arxiv.org/abs/2112.14656v1)|2021-12-29 17:07:33+00:00|29-12-2021
+Peter Flach|[Explainability Is in the Mind of the Beholder: Establishing the   Foundations of Explainable Artificial Intelligence](http://arxiv.org/abs/2112.14466v1)|2021-12-29 09:21:33+00:00|29-12-2021
+Hanwang Zhang|[Cross-Domain Empirical Risk Minimization for Unbiased Long-tailed   Classification](http://arxiv.org/abs/2112.14380v1)|2021-12-29 03:18:47+00:00|29-12-2021
+Irfan Khan|[Explainable Signature-based Machine Learning Approach for Identification   of Faults in Grid-Connected Photovoltaic Systems](http://arxiv.org/abs/2112.14842v1)|2021-12-25 15:11:18+00:00|25-12-2021
+Wulong Liu|[A Survey on Interpretable Reinforcement Learning](http://arxiv.org/abs/2112.13112v1)|2021-12-24 17:26:57+00:00|24-12-2021
+
 ## 28-12-2021
 
 main_author|title|update_date|publish_date

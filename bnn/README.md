@@ -1,5 +1,21 @@
 # bnn
 Click on title for link to paper
+## 04-01-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Constantin A. Rothkopf|[Inferring perceptual decision making parameters from behavior in   production and reproduction tasks](http://arxiv.org/abs/2112.15521v1)|2021-12-31 15:40:57+00:00|31-12-2021
+Zhiqiang Tao|[Calibrated Hyperspectral Image Reconstruction via Graph-based   Self-Tuning Network](http://arxiv.org/abs/2112.15362v1)|2021-12-31 09:39:13+00:00|31-12-2021
+Peter I. Frazier|[Bayesian Optimization of Function Networks](http://arxiv.org/abs/2112.15311v1)|2021-12-31 05:35:21+00:00|31-12-2021
+Mohamad Sadegh Shirani Faradonbeh|[Bayesian Algorithms Learn to Stabilize Unknown Continuous-Time Systems](http://arxiv.org/abs/2112.15094v1)|2021-12-30 15:31:35+00:00|30-12-2021
+Arto Hellas|[Deep Learning Models for Knowledge Tracing: Review and Empirical   Evaluation](http://arxiv.org/abs/2112.15072v1)|2021-12-30 14:19:27+00:00|30-12-2021
+Meng Wang|[TextRGNN: Residual Graph Neural Networks for Text Classification](http://arxiv.org/abs/2112.15060v1)|2021-12-30 13:48:58+00:00|30-12-2021
+P. K. Srijith|[Bayesian Neural Hawkes Process for Event Uncertainty Prediction](http://arxiv.org/abs/2112.14474v1)|2021-12-29 09:47:22+00:00|29-12-2021
+Bert de Vries|[AIDA: An Active Inference-based Design Agent for Audio Processing   Algorithms](http://arxiv.org/abs/2112.13366v1)|2021-12-26 11:56:16+00:00|26-12-2021
+Yotaro Watanabe|[Itô-Taylor Sampling Scheme for Denoising Diffusion Probabilistic   Models using Ideal Derivatives](http://arxiv.org/abs/2112.13339v1)|2021-12-26 09:38:11+00:00|26-12-2021
+Bert de Vries|[Reactive Message Passing for Scalable Bayesian Inference](http://arxiv.org/abs/2112.13251v1)|2021-12-25 15:38:06+00:00|25-12-2021
+Yarin Gal|[DARTS without a Validation Set: Optimizing the Marginal Likelihood](http://arxiv.org/abs/2112.13023v1)|2021-12-24 10:16:38+00:00|24-12-2021
+
 ## 28-12-2021
 
 main_author|title|update_date|publish_date

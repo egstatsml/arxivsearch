@@ -1,5 +1,13 @@
 # mcmc
 Click on title for link to paper
+## 04-01-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Mohamad Sadegh Shirani Faradonbeh|[Bayesian Algorithms Learn to Stabilize Unknown Continuous-Time Systems](http://arxiv.org/abs/2112.15094v1)|2021-12-30 15:31:35+00:00|30-12-2021
+Bo Cao|[SAME: Scenario Adaptive Mixture-of-Experts for Promotion-Aware   Click-Through Rate Prediction](http://arxiv.org/abs/2112.13747v1)|2021-12-27 15:49:25+00:00|27-12-2021
+Yotaro Watanabe|[Itô-Taylor Sampling Scheme for Denoising Diffusion Probabilistic   Models using Ideal Derivatives](http://arxiv.org/abs/2112.13339v1)|2021-12-26 09:38:11+00:00|26-12-2021
+
 ## 28-12-2021
 
 main_author|title|update_date|publish_date

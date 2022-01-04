@@ -1,5 +1,37 @@
 # fairness
 Click on title for link to paper
+## 04-01-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Bharathi Raja Chakravarthi6|[Hypers at ComMA@ICON: Modelling Aggressiveness, Gender Bias and Communal   Bias Identification](http://arxiv.org/abs/2112.15417v2)|2022-01-03 03:53:20+00:00|31-12-2021
+Gaoang Wang|[Disjoint Contrastive Regression Learning for Multi-Sourced Annotations](http://arxiv.org/abs/2112.15411v1)|2021-12-31 12:39:04+00:00|31-12-2021
+Deyu Meng|[Revisiting Experience Replay: Continual Learning by Adaptively Tuning   Task-wise Relationship](http://arxiv.org/abs/2112.15402v1)|2021-12-31 12:05:22+00:00|31-12-2021
+Yaodong Yang|[Settling the Bias and Variance of Meta-Gradient Estimation for   Meta-Reinforcement Learning](http://arxiv.org/abs/2112.15400v1)|2021-12-31 11:56:40+00:00|31-12-2021
+Guan Cuntai|[Self Reward Design with Fine-grained Interpretability](http://arxiv.org/abs/2112.15034v1)|2021-12-30 12:41:53+00:00|30-12-2021
+Paul F. M. J. Verschure|[Sequential Episodic Control](http://arxiv.org/abs/2112.14734v1)|2021-12-29 18:42:15+00:00|29-12-2021
+Kevin W. Bowyer|[Gendered Differences in Face Recognition Accuracy Explained by   Hairstyles, Makeup, and Facial Morphology](http://arxiv.org/abs/2112.14656v1)|2021-12-29 17:07:33+00:00|29-12-2021
+Peter Flach|[Explainability Is in the Mind of the Beholder: Establishing the   Foundations of Explainable Artificial Intelligence](http://arxiv.org/abs/2112.14466v1)|2021-12-29 09:21:33+00:00|29-12-2021
+Salvatore Orlando|[EiFFFeL: Enforcing Fairness in Forests by Flipping Leaves](http://arxiv.org/abs/2112.14435v1)|2021-12-29 07:48:38+00:00|29-12-2021
+Haitao Mi|[DP-FP: Differentially Private Forward Propagation for Large Models](http://arxiv.org/abs/2112.14430v1)|2021-12-29 07:32:29+00:00|29-12-2021
+Hanwang Zhang|[Cross-Domain Empirical Risk Minimization for Unbiased Long-tailed   Classification](http://arxiv.org/abs/2112.14380v1)|2021-12-29 03:18:47+00:00|29-12-2021
+Isabelle Augenstein|[A Survey on Gender Bias in Natural Language Processing](http://arxiv.org/abs/2112.14168v1)|2021-12-28 14:54:18+00:00|28-12-2021
+Jinjie Gu|[Adversarial Learning for Incentive Optimization in Mobile Payment   Marketing](http://arxiv.org/abs/2112.15434v1)|2021-12-28 07:54:39+00:00|28-12-2021
+Hidetoshi Shimodaira|[Improving Nonparametric Classification via Local Radial Regression with   an Application to Stock Prediction](http://arxiv.org/abs/2112.13951v1)|2021-12-28 00:32:02+00:00|28-12-2021
+Samory Kpotufe|[Tracking Most Severe Arm Changes in Bandits](http://arxiv.org/abs/2112.13838v1)|2021-12-27 18:59:05+00:00|27-12-2021
+Jascha Sohl-Dickstein|[Unbiased Gradient Estimation in Unrolled Computation Graphs with   Persistent Evolution Strategies](http://arxiv.org/abs/2112.13835v1)|2021-12-27 18:54:36+00:00|27-12-2021
+Cynthia Matuszek|[Bridging the Gap: Using Deep Acoustic Representations to Learn Grounded   Language from Percepts and Raw Speech](http://arxiv.org/abs/2112.13758v1)|2021-12-27 16:12:30+00:00|27-12-2021
+Guanglei Zhang|[MSHT: Multi-stage Hybrid Transformer for the ROSE Image Analysis of   Pancreatic Cancer](http://arxiv.org/abs/2112.13513v1)|2021-12-27 05:04:11+00:00|27-12-2021
+Guandong Xu|[Deep Treatment-Adaptive Network for Causal Inference](http://arxiv.org/abs/2112.13502v1)|2021-12-27 04:11:23+00:00|27-12-2021
+Vasilis Syrgkanis|[Omitted Variable Bias in Machine Learned Causal Models](http://arxiv.org/abs/2112.13398v2)|2021-12-29 14:56:08+00:00|26-12-2021
+Kemal Polat|[Novel Hybrid DNN Approaches for Speaker Verification in Emotional and   Stressful Talking Environments](http://arxiv.org/abs/2112.13353v1)|2021-12-26 10:47:14+00:00|26-12-2021
+Jinyin Chen|[NeuronFair: Interpretable White-Box Fairness Testing through Biased   Neuron Identification](http://arxiv.org/abs/2112.13214v1)|2021-12-25 09:19:39+00:00|25-12-2021
+Sayan Ranu|[A Neural Framework for Learning Subgraph and Graph Similarity Measures](http://arxiv.org/abs/2112.13143v2)|2021-12-28 16:52:26+00:00|24-12-2021
+Benjamin I. P. Rubinstein|[State Selection Algorithms and Their Impact on The Performance of   Stateful Network Protocol Fuzzing](http://arxiv.org/abs/2112.15498v1)|2021-12-24 21:33:06+00:00|24-12-2021
+Sanmi Koyejo|[The Curse of Zero Task Diversity: On the Failure of Transfer Learning to   Outperform MAML and their Empirical Equivalence](http://arxiv.org/abs/2112.13121v1)|2021-12-24 18:42:58+00:00|24-12-2021
+Ya-nan Han|[Tri-Transformer Hawkes Process: Three Heads are better than one](http://arxiv.org/abs/2112.13058v1)|2021-12-24 13:27:05+00:00|24-12-2021
+Emmanuel Rachelson|[Disentanglement by Cyclic Reconstruction](http://arxiv.org/abs/2112.12980v1)|2021-12-24 07:47:59+00:00|24-12-2021
+
 ## 28-12-2021
 
 main_author|title|update_date|publish_date
