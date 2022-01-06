@@ -1,5 +1,11 @@
 # interpretable
 Click on title for link to paper
+## 06-01-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Sheraz Ahmed|[ExAID: A Multimodal Explanation Framework for Computer-Aided Diagnosis   of Skin Lesions](http://arxiv.org/abs/2201.01249v1)|2022-01-04 17:11:28+00:00|04-01-2022
+
 ## 04-01-2022
 
 main_author|title|update_date|publish_date
