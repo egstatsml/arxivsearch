@@ -1,5 +1,16 @@
 # bnn
 Click on title for link to paper
+## 11-01-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Maani Ghaffari|[Fusing Convolutional Neural Network and Geometric Constraint for   Image-based Indoor Localization](http://arxiv.org/abs/2201.01408v1)|2022-01-05 02:04:41+00:00|05-01-2022
+Micah Bowles|[Quantifying Uncertainty in Deep Learning Approaches to Radio Galaxy   Classification](http://arxiv.org/abs/2201.01203v1)|2022-01-04 15:31:18+00:00|04-01-2022
+Zhaohua Peng|[Rice Diseases Detection and Classification Using Attention Based Neural   Network and Bayesian Optimization](http://arxiv.org/abs/2201.00893v1)|2022-01-03 22:26:00+00:00|03-01-2022
+Xiaokang Yang|[DFA-NeRF: Personalized Talking Head Generation via Disentangled Face   Attributes Neural Rendering](http://arxiv.org/abs/2201.00791v1)|2022-01-03 18:23:38+00:00|03-01-2022
+Abhishek Kumar|[DiffuseVAE: Efficient, Controllable and High-Fidelity Generation from   Low-Dimensional Latents](http://arxiv.org/abs/2201.00308v1)|2022-01-02 06:44:23+00:00|02-01-2022
+Ashesh Sinha|[High-dimensional Bayesian Optimization Algorithm with Recurrent Neural   Network for Disease Control Models in Time Series](http://arxiv.org/abs/2201.00147v1)|2022-01-01 08:40:17+00:00|01-01-2022
+
 ## 06-01-2022
 
 main_author|title|update_date|publish_date

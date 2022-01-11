@@ -1,5 +1,24 @@
 # fairness
 Click on title for link to paper
+## 11-01-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Hatice Gunes|[The Effect of Model Compression on Fairness in Facial Expression   Recognition](http://arxiv.org/abs/2201.01709v1)|2022-01-05 16:59:15+00:00|05-01-2022
+Sung-Ju Lee|[Sample Selection with Deadline Control for Efficient Federated Learning   on Heterogeneous Clients](http://arxiv.org/abs/2201.01601v1)|2022-01-05 13:35:35+00:00|05-01-2022
+Stella X. Yu|[Debiased Learning from Naturally Imbalanced Pseudo-Labels for Zero-Shot   and Semi-Supervised Learning](http://arxiv.org/abs/2201.01490v1)|2022-01-05 07:40:24+00:00|05-01-2022
+Chao Liu|[Efficient-Dyn: Dynamic Graph Representation Learning via Event-based   Temporal Sparse Attention Network](http://arxiv.org/abs/2201.01384v1)|2022-01-04 23:52:24+00:00|04-01-2022
+Samet Oymak|[AutoBalance: Optimized Loss Functions for Imbalanced Data](http://arxiv.org/abs/2201.01212v1)|2022-01-04 15:53:23+00:00|04-01-2022
+Eirini Ntoutsi|[Parity-based Cumulative Fairness-aware Boosting](http://arxiv.org/abs/2201.01148v1)|2022-01-04 14:16:36+00:00|04-01-2022
+Donald J. Jacobs|[Biased Hypothesis Formation From Projection Pursuit](http://arxiv.org/abs/2201.00889v1)|2022-01-03 22:02:26+00:00|03-01-2022
+Christopher Amato|[A Deeper Understanding of State-Based Critics in Multi-Agent   Reinforcement Learning](http://arxiv.org/abs/2201.01221v1)|2022-01-03 14:51:30+00:00|03-01-2022
+Liu Ren|[Novelty-based Generalization Evaluation for Traffic Light Detection](http://arxiv.org/abs/2201.00531v1)|2022-01-03 09:23:56+00:00|03-01-2022
+Leandros Tassiulas|[KerGNNs: Interpretable Graph Neural Networks with Graph Kernels](http://arxiv.org/abs/2201.00491v1)|2022-01-03 06:16:30+00:00|03-01-2022
+Ömer Deniz Akyildiz|[Global convergence of optimized adaptive importance samplers](http://arxiv.org/abs/2201.00409v1)|2022-01-02 19:56:36+00:00|02-01-2022
+Hao Sun|[Toward Causal-Aware RL: State-Wise Action-Refined Temporal Difference](http://arxiv.org/abs/2201.00354v1)|2022-01-02 13:09:40+00:00|02-01-2022
+Thomas Strohmer|[Fair Data Representation for Machine Learning at the Pareto Frontier](http://arxiv.org/abs/2201.00292v1)|2022-01-02 05:05:26+00:00|02-01-2022
+Heinrich Matzinger|[Recover the spectrum of covariance matrix: a non-asymptotic iterative   method](http://arxiv.org/abs/2201.00230v1)|2022-01-01 18:44:31+00:00|01-01-2022
+
 ## 06-01-2022
 
 main_author|title|update_date|publish_date
