@@ -1,5 +1,13 @@
 # variational
 Click on title for link to paper
+## 10-05-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Liam Paull|[Sample Efficient Deep Reinforcement Learning via Uncertainty Estimation](http://arxiv.org/abs/2201.01666v1)|2022-01-05 15:46:06+00:00|05-01-2022
+Pramod K. Varshney|[Monitoring and Anomaly Detection Actor-Critic Based Controlled Sensing](http://arxiv.org/abs/2201.00879v1)|2022-01-03 20:59:40+00:00|03-01-2022
+Ashesh Sinha|[High-dimensional Bayesian Optimization Algorithm with Recurrent Neural   Network for Disease Control Models in Time Series](http://arxiv.org/abs/2201.00147v1)|2022-01-01 08:40:17+00:00|01-01-2022
+
 ## 11-01-2022
 
 main_author|title|update_date|publish_date
