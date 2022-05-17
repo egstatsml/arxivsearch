@@ -1,5 +1,119 @@
 # interpretable
 Click on title for link to paper
+## 17-05-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Christoph M. Friedrich|[Machine Learning Workflow to Explain Black-box Models for Early   Alzheimer's Disease Classification Evaluated for Multiple Datasets](http://arxiv.org/abs/2205.05907v1)|2022-05-12 06:58:11+00:00|12-05-2022
+Bing Qin|[e-CARE: a New Dataset for Exploring Explainable Causal Reasoning](http://arxiv.org/abs/2205.05849v1)|2022-05-12 02:41:48+00:00|12-05-2022
+Jingge Zhu|[On Causality in Domain Adaptation and Semi-Supervised Learning: an   Information-Theoretic Analysis](http://arxiv.org/abs/2205.04641v1)|2022-05-10 03:18:48+00:00|10-05-2022
+Marzyeh Ghassemi|[The Road to Explainability is Paved with Bias: Measuring the Fairness of   Explanations](http://arxiv.org/abs/2205.03295v1)|2022-05-06 15:23:32+00:00|06-05-2022
+Changshui Zhang|[METGEN: A Module-Based Entailment Tree Generation Framework for Answer   Explanation](http://arxiv.org/abs/2205.02593v1)|2022-05-05 12:06:02+00:00|05-05-2022
+Yongxin Guo|[InvNorm: Domain Generalization for Object Detection in Gastrointestinal   Endoscopy](http://arxiv.org/abs/2205.02842v1)|2022-05-05 03:47:23+00:00|05-05-2022
+Ji-Rong Wen|[Great Truths are Always Simple: A Rather Simple Knowledge Encoder for   Enhancing the Commonsense Reasoning Capacity of Pre-Trained Models](http://arxiv.org/abs/2205.01841v1)|2022-05-04 01:27:36+00:00|04-05-2022
+André Freitas|[Scientific Explanation and Natural Language: A Unified   Epistemological-Linguistic Perspective for Explainable AI](http://arxiv.org/abs/2205.01809v2)|2022-05-05 05:37:58+00:00|03-05-2022
+Laurent Charlin|[Foundational Models for Continual Learning: An Empirical Study of Latent   Replay](http://arxiv.org/abs/2205.00329v1)|2022-04-30 19:11:37+00:00|30-04-2022
+Nasir Ahmad|[An Explainable Regression Framework for Predicting Remaining Useful Life   of Machines](http://arxiv.org/abs/2204.13574v2)|2022-04-30 08:58:04+00:00|28-04-2022
+Angela Yao|[A Closer Look at Branch Classifiers of Multi-exit Architectures](http://arxiv.org/abs/2204.13347v1)|2022-04-28 08:37:25+00:00|28-04-2022
+Tim Landgraf|[Do Users Benefit From Interpretable Vision? A User Study, Baseline, And   Dataset](http://arxiv.org/abs/2204.11642v1)|2022-04-25 13:20:06+00:00|25-04-2022
+Aparna Bhonde|[Farmer's Assistant: A Machine Learning Based Application for   Agricultural Solutions](http://arxiv.org/abs/2204.11340v1)|2022-04-24 19:31:10+00:00|24-04-2022
+Lexing Ying|[The Multiscale Structure of Neural Network Loss Functions: The Effect on   Optimization and Origin](http://arxiv.org/abs/2204.11326v2)|2022-05-11 03:53:29+00:00|24-04-2022
+Alexander Wong|[COVID-Net Biochem: An Explainability-driven Framework to Building   Machine Learning Models for Predicting Survival and Kidney Injury of COVID-19   Patients from Clinical and Biochemistry Data](http://arxiv.org/abs/2204.11210v1)|2022-04-24 07:38:37+00:00|24-04-2022
+Risto Miikkulainen|[Evolution of Transparent Explainable Rule-sets](http://arxiv.org/abs/2204.10438v1)|2022-04-21 23:59:17+00:00|21-04-2022
+Giacomo Boracchi|[Perception Visualization: Seeing Through the Eyes of a DNN](http://arxiv.org/abs/2204.09920v1)|2022-04-21 07:18:55+00:00|21-04-2022
+Suhang Wang|[A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy,   Robustness, Fairness, and Explainability](http://arxiv.org/abs/2204.08570v1)|2022-04-18 21:41:07+00:00|18-04-2022
+Mark Riedl|[Calibrating Trust of Multi-Hop Question Answering Systems with   Decompositional Probes](http://arxiv.org/abs/2204.07693v1)|2022-04-16 01:03:36+00:00|16-04-2022
+Helge Gillmeister|[EEG-ITNet: An Explainable Inception Temporal Convolutional Network for   Motor Imagery Classification](http://arxiv.org/abs/2204.06947v1)|2022-04-14 13:18:43+00:00|14-04-2022
+André Freitas|[Assessing the communication gap between AI models and healthcare   professionals: explainability, utility and trust in AI-driven clinical   decision-making](http://arxiv.org/abs/2204.05030v2)|2022-04-13 19:49:46+00:00|11-04-2022
+Manoj Himmatrao Devare|[Optimization of IoT-Enabled Physical Location Monitoring Using DT and   VAR](http://arxiv.org/abs/2204.04664v1)|2022-04-10 11:39:46+00:00|10-04-2022
+Stefan Wermter|[Explain yourself! Effects of Explanations in Human-Robot Interaction](http://arxiv.org/abs/2204.04501v1)|2022-04-09 15:54:27+00:00|09-04-2022
+Reza Safabakhsh|[Using Decision Tree as Local Interpretable Model in Autoencoder-based   LIME](http://arxiv.org/abs/2204.03321v1)|2022-04-07 09:39:02+00:00|07-04-2022
+Diyi Yang|[The Moral Integrity Corpus: A Benchmark for Ethical Dialogue Systems](http://arxiv.org/abs/2204.03021v1)|2022-04-06 18:10:53+00:00|06-04-2022
+Ute Schmid|[CAIPI in Practice: Towards Explainable Interactive Medical Image   Classification](http://arxiv.org/abs/2204.02661v1)|2022-04-06 08:21:34+00:00|06-04-2022
+David Lo|[An Exploratory Study on Code Attention in BERT](http://arxiv.org/abs/2204.10200v1)|2022-04-05 21:23:10+00:00|05-04-2022
+Lucy Youngmin Eun|[Explainable Deep Learning Algorithm for Distinguishing Incomplete   Kawasaki Disease by Coronary Artery Lesions on Echocardiographic Imaging](http://arxiv.org/abs/2204.02403v1)|2022-04-05 11:39:02+00:00|05-04-2022
+Claudio Angione|[A pipeline and comparative study of 12 machine learning models for text   classification](http://arxiv.org/abs/2204.06518v1)|2022-04-04 23:51:22+00:00|04-04-2022
+Tao Mei|[A-ACT: Action Anticipation through Cycle Transformations](http://arxiv.org/abs/2204.00942v1)|2022-04-02 21:50:45+00:00|02-04-2022
+Subir Kumar Saha|[Interpretation of Black Box NLP Models: A Survey](http://arxiv.org/abs/2203.17081v1)|2022-03-31 14:54:35+00:00|31-03-2022
+Nassir Navab|[Interpretable Vertebral Fracture Diagnosis](http://arxiv.org/abs/2203.16273v1)|2022-03-30 13:07:41+00:00|30-03-2022
+Shih-Fu Chang|[Fine-Grained Visual Entailment](http://arxiv.org/abs/2203.15704v1)|2022-03-29 16:09:38+00:00|29-03-2022
+Baochun Li|[OrphicX: A Causality-Inspired Latent Variable Model for Interpreting   Graph Neural Networks](http://arxiv.org/abs/2203.15209v1)|2022-03-29 03:08:33+00:00|29-03-2022
+Yi Yang|[Visual Abductive Reasoning](http://arxiv.org/abs/2203.14040v1)|2022-03-26 10:17:03+00:00|26-03-2022
+Gesina Schwalbe|[Concept Embedding Analysis: A Review](http://arxiv.org/abs/2203.13909v1)|2022-03-25 20:57:16+00:00|25-03-2022
+Dawn Sepehr|[Gender and Racial Stereotype Detection in Legal Opinion Word Embeddings](http://arxiv.org/abs/2203.13369v2)|2022-04-12 00:58:47+00:00|24-03-2022
+P. A. N. Bosman|[Multi-modal multi-objective model-based genetic programming to find   multiple diverse high-quality models](http://arxiv.org/abs/2203.13347v1)|2022-03-24 21:35:07+00:00|24-03-2022
+David Blei|[Estimating Social Influence from Observational Data](http://arxiv.org/abs/2204.01633v1)|2022-03-24 20:21:24+00:00|24-03-2022
+Kerstin Ritter|[Feature visualization for convolutional neural network models trained on   neuroimaging data](http://arxiv.org/abs/2203.13120v1)|2022-03-24 15:24:38+00:00|24-03-2022
+Alberto Del Bimbo|[SMEMO: Social Memory for Trajectory Forecasting](http://arxiv.org/abs/2203.12446v1)|2022-03-23 14:40:20+00:00|23-03-2022
+Michael Witbrock|[AbductionRules: Training Transformers to Explain Unexpected Inputs](http://arxiv.org/abs/2203.12186v1)|2022-03-23 04:18:30+00:00|23-03-2022
+Steffen Eger|[Towards Explainable Evaluation Metrics for Natural Language Generation](http://arxiv.org/abs/2203.11131v1)|2022-03-21 17:05:54+00:00|21-03-2022
+Honghan Wu|[Automated Clinical Coding: What, Why, and Where We Are?](http://arxiv.org/abs/2203.11092v1)|2022-03-21 16:17:38+00:00|21-03-2022
+Ivana Dusparic|[ReCCoVER: Detecting Causal Confusion for Explainable Reinforcement   Learning](http://arxiv.org/abs/2203.11211v1)|2022-03-21 13:17:30+00:00|21-03-2022
+Johan W. Verjans|[CNN Attention Guidance for Improved Orthopedics Radiographic Fracture   Classification](http://arxiv.org/abs/2203.10690v1)|2022-03-21 01:07:42+00:00|21-03-2022
+Miguel Angel Gonzalez Ballester|[Attri-VAE: attribute-based, disentangled and interpretable   representations of medical images with variational autoencoders](http://arxiv.org/abs/2203.10417v2)|2022-03-27 06:16:56+00:00|20-03-2022
+Wei Lu|[Learning to Reason Deductively: Math Word Problem Solving as Complex   Relation Extraction](http://arxiv.org/abs/2203.10316v3)|2022-04-25 06:54:02+00:00|19-03-2022
+Hao Zhou|[E-KAR: A Benchmark for Rationalizing Natural Language Analogical   Reasoning](http://arxiv.org/abs/2203.08480v1)|2022-03-16 09:16:38+00:00|16-03-2022
+Oladimeji Farri|[Differentiable Multi-Agent Actor-Critic for Multi-Step Radiology Report   Summarization](http://arxiv.org/abs/2203.08257v2)|2022-04-29 21:08:05+00:00|15-03-2022
+Wojciech Samek|[Beyond Explaining: Opportunities and Challenges of XAI-Based Model   Improvement](http://arxiv.org/abs/2203.08008v1)|2022-03-15 15:44:28+00:00|15-03-2022
+Prithviraj Ammanabrolu|[ScienceWorld: Is your Agent Smarter than a 5th Grader?](http://arxiv.org/abs/2203.07540v1)|2022-03-14 22:52:34+00:00|14-03-2022
+Christopher Mutschler|[Don't Get Me Wrong: How to apply Deep Visual Interpretations to Time   Series](http://arxiv.org/abs/2203.07861v1)|2022-03-14 15:22:20+00:00|14-03-2022
+Shafiq Joty|[Chart-to-Text: A Large-Scale Benchmark for Chart Summarization](http://arxiv.org/abs/2203.06486v3)|2022-04-14 15:41:15+00:00|12-03-2022
+Qi Zhao|[REX: Reasoning-aware and Grounded Explanation](http://arxiv.org/abs/2203.06107v1)|2022-03-11 17:28:42+00:00|11-03-2022
+Pok Wah Chan|[DeepTrust: A Reliable Financial Knowledge Retrieval Framework For   Explaining Extreme Pricing Anomalies](http://arxiv.org/abs/2203.08144v1)|2022-03-11 06:29:22+00:00|11-03-2022
+Nikos Deligiannis|[NLX-GPT: A Model for Natural Language Explanations in Vision and   Vision-Language Tasks](http://arxiv.org/abs/2203.05081v1)|2022-03-09 22:57:15+00:00|09-03-2022
+Nassir Navab|[Do Explanations Explain? Model Knows Best](http://arxiv.org/abs/2203.02269v1)|2022-03-04 12:39:29+00:00|04-03-2022
+Tomas Pfister|[Data-Efficient and Interpretable Tabular Anomaly Detection](http://arxiv.org/abs/2203.02034v1)|2022-03-03 22:02:56+00:00|03-03-2022
+Louis-Philippe Morency|[DIME: Fine-grained Interpretations of Multimodal Models via Disentangled   Local Explanations](http://arxiv.org/abs/2203.02013v1)|2022-03-03 20:52:47+00:00|03-03-2022
+Yukie Nagai|[The world seems different in a social context: a neural network analysis   of human experimental data](http://arxiv.org/abs/2203.01862v1)|2022-03-03 17:19:12+00:00|03-03-2022
+Ali Sunyaev|[Why Do Machine Learning Practitioners Still Use Manual Tuning? A   Qualitative Study](http://arxiv.org/abs/2203.01717v1)|2022-03-03 13:55:38+00:00|03-03-2022
+David Masip|[ADVISE: ADaptive Feature Relevance and VISual Explanations for   Convolutional Neural Networks](http://arxiv.org/abs/2203.01289v1)|2022-03-02 18:16:57+00:00|02-03-2022
+Timothée Lesort|[Continual Feature Selection: Spurious Features in Continual Learning](http://arxiv.org/abs/2203.01012v1)|2022-03-02 10:43:54+00:00|02-03-2022
+Marc G. Bellemare|[On the Generalization of Representations in Reinforcement Learning](http://arxiv.org/abs/2203.00543v1)|2022-03-01 15:22:09+00:00|01-03-2022
+Anastasios M. Lekkas|[Approximating a deep reinforcement learning docking agent using linear   model trees](http://arxiv.org/abs/2203.00369v1)|2022-03-01 11:32:07+00:00|01-03-2022
+Bryan Kian Hsiang Low|[Markov Chain Monte Carlo-Based Machine Unlearning: Unlearning What Needs   to be Forgotten](http://arxiv.org/abs/2202.13585v1)|2022-02-28 07:14:34+00:00|28-02-2022
+Dongsoo Har|[Sensing accident-prone features in urban scenes for proactive driving   and accident prevention](http://arxiv.org/abs/2202.12788v1)|2022-02-25 16:05:53+00:00|25-02-2022
+Zhe Hou|[MUC-driven Feature Importance Measurement and Adversarial Analysis for   Random Forest](http://arxiv.org/abs/2202.12512v1)|2022-02-25 06:15:47+00:00|25-02-2022
+Tianbao Yang|[Provable Stochastic Optimization for Global Contrastive Learning: Small   Batch Does Not Harm Performance](http://arxiv.org/abs/2202.12387v1)|2022-02-24 22:16:53+00:00|24-02-2022
+Marco F. Huber|[XAutoML: A Visual Analytics Tool for Establishing Trust in Automated   Machine Learning](http://arxiv.org/abs/2202.11954v1)|2022-02-24 08:18:25+00:00|24-02-2022
+Mohit Prabhushankar|[Explanatory Paradigms in Neural Networks](http://arxiv.org/abs/2202.11838v1)|2022-02-24 00:22:11+00:00|24-02-2022
+T. Östreich|[Deep Learning Reproducibility and Explainable AI (XAI)](http://arxiv.org/abs/2202.11452v3)|2022-03-02 09:52:11+00:00|23-02-2022
+Shiliang Pu|[Learning Multiple Explainable and Generalizable Cues for Face   Anti-spoofing](http://arxiv.org/abs/2202.10187v1)|2022-02-21 12:55:59+00:00|21-02-2022
+N. Asokan|[Do Transformers use variable binding?](http://arxiv.org/abs/2203.00162v2)|2022-03-15 15:54:04+00:00|19-02-2022
+Yongfeng Zhang|[Learning and Evaluating Graph Neural Network Explanations based on   Counterfactual and Factual Reasoning](http://arxiv.org/abs/2202.08816v3)|2022-05-10 21:26:14+00:00|17-02-2022
+A. Aldo Faisal|[The Response Shift Paradigm to Quantify Human Trust in AI   Recommendations](http://arxiv.org/abs/2202.08979v1)|2022-02-16 22:02:09+00:00|16-02-2022
+Manfred Reichert|[XAI in the context of Predictive Process Monitoring: Too much to Reveal](http://arxiv.org/abs/2202.08265v1)|2022-02-16 15:31:59+00:00|16-02-2022
+Manfred Reichert|[Explainability of Predictive Process Monitoring Results: Can You See My   Data Issues?](http://arxiv.org/abs/2202.08041v1)|2022-02-16 13:14:02+00:00|16-02-2022
+Shangsong Liang|[Revisiting Parameter-Efficient Tuning: Are We Really There Yet?](http://arxiv.org/abs/2202.07962v1)|2022-02-16 10:11:19+00:00|16-02-2022
+Li Chen|[Personalized Prompt Learning for Explainable Recommendation](http://arxiv.org/abs/2202.07371v1)|2022-02-15 12:53:52+00:00|15-02-2022
+Marina M. -C. Höhne|[Quantus: An Explainable AI Toolkit for Responsible Evaluation of Neural   Network Explanations](http://arxiv.org/abs/2202.06861v1)|2022-02-14 16:45:36+00:00|14-02-2022
+Md Rafiqul Islam Rabin|[Extracting Label-specific Key Input Features for Neural Code   Intelligence Models](http://arxiv.org/abs/2202.06474v1)|2022-02-14 03:36:35+00:00|14-02-2022
+Marcus Liwicki|[HaT5: Hate Language Identification using Text-to-Text Transfer   Transformer](http://arxiv.org/abs/2202.05690v1)|2022-02-11 15:21:27+00:00|11-02-2022
+Bo Xu|[Motif-topology and Reward-learning improved Spiking Neural Network for   Efficient Multi-sensory Integration](http://arxiv.org/abs/2202.06821v1)|2022-02-11 02:07:44+00:00|11-02-2022
+Giovanni Iacca|[Interpretable pipelines with evolutionarily optimized modules for RL   tasks with visual inputs](http://arxiv.org/abs/2202.04943v1)|2022-02-10 10:33:44+00:00|10-02-2022
+Graeme Burt|[Explainable Machine Learning for Breakdown Prediction in High Gradient   RF Cavities](http://arxiv.org/abs/2202.05610v1)|2022-02-10 07:32:18+00:00|10-02-2022
+David A. Clifton|[How to Understand Masked Autoencoders](http://arxiv.org/abs/2202.03670v2)|2022-02-09 18:33:57+00:00|08-02-2022
+Sanjay Shakkottai|[MAML and ANIL Provably Learn Representations](http://arxiv.org/abs/2202.03483v1)|2022-02-07 19:43:02+00:00|07-02-2022
+Stan Z. Li|[SimGRACE: A Simple Framework for Graph Contrastive Learning without Data   Augmentation](http://arxiv.org/abs/2202.03104v2)|2022-02-11 15:26:05+00:00|07-02-2022
+Yang Liu|[Identifiability of Label Noise Transition Matrix](http://arxiv.org/abs/2202.02016v2)|2022-04-08 08:03:05+00:00|04-02-2022
+Jörg Hähner|[Separating Rule Discovery and Global Solution Composition in a Learning   Classifier System](http://arxiv.org/abs/2202.01677v2)|2022-04-18 20:07:32+00:00|03-02-2022
+Samuel Yen-Chi Chen|[Financial Vision Based Reinforcement Learning Trading Strategy](http://arxiv.org/abs/2202.04115v1)|2022-02-03 02:14:38+00:00|03-02-2022
+Amal Zouaq|[Toward a traceable, explainable, and fairJD/Resume recommendation system](http://arxiv.org/abs/2202.08960v1)|2022-02-02 18:17:05+00:00|02-02-2022
+Marco Huber|[Feature Visualization within an Automated Design Assessment leveraging   Explainable Artificial Intelligence Methods](http://arxiv.org/abs/2201.12107v1)|2022-01-28 13:31:42+00:00|28-01-2022
+Xiaoyong Wei|[Indicative Image Retrieval: Turning Blackbox Learning into Grey](http://arxiv.org/abs/2201.11898v2)|2022-03-16 09:29:23+00:00|28-01-2022
+Hamid R. Rabiee|[LAP: An Attention-Based Module for Faithful Interpretation and Knowledge   Injection in Convolutional Neural Networks](http://arxiv.org/abs/2201.11808v2)|2022-03-14 10:30:27+00:00|27-01-2022
+Ivan Vulić|[IGLUE: A Benchmark for Transfer Learning across Modalities, Tasks, and   Languages](http://arxiv.org/abs/2201.11732v1)|2022-01-27 18:53:22+00:00|27-01-2022
+Friedrich T. Sommer|[A probabilistic latent variable model for detecting structure in binary   data](http://arxiv.org/abs/2201.11108v1)|2022-01-26 18:37:35+00:00|26-01-2022
+Manuel Moussallam|[Explainability in Music Recommender Systems](http://arxiv.org/abs/2201.10528v1)|2022-01-25 18:32:11+00:00|25-01-2022
+Ali Emami|[An Application of Pseudo-Log-Likelihoods to Natural Language Scoring](http://arxiv.org/abs/2201.09377v1)|2022-01-23 22:00:54+00:00|23-01-2022
+Praveen Ranjan Srivastava|[Causal effect of racial bias in data and machine learning algorithms on   user persuasiveness & discriminatory decision making: An Empirical Study](http://arxiv.org/abs/2202.00471v2)|2022-02-02 03:20:41+00:00|22-01-2022
+Tat-Seng Chua|[Deconfounding to Explanation Evaluation in Graph Neural Networks](http://arxiv.org/abs/2201.08802v3)|2022-02-01 05:41:39+00:00|21-01-2022
+Enrico Bertini|[Visual Exploration of Machine Learning Model Behavior with Hierarchical   Surrogate Rule Sets](http://arxiv.org/abs/2201.07724v1)|2022-01-19 17:03:35+00:00|19-01-2022
+Sergey Ivanov|[Reinforcement Learning Textbook](http://arxiv.org/abs/2201.09746v1)|2022-01-19 15:54:39+00:00|19-01-2022
+Jianmin Wang|[Inferring Commonsense Explanations as Prompts for Future Event   Generation](http://arxiv.org/abs/2201.07099v1)|2022-01-18 16:21:23+00:00|18-01-2022
+Johannes Schmidt-Hieber|[On generalization bounds for deep networks based on loss surface   implicit regularization](http://arxiv.org/abs/2201.04545v1)|2022-01-12 16:41:34+00:00|12-01-2022
+Yangfeng Ji|[Explaining Prediction Uncertainty of Pre-trained Language Models by   Detecting Uncertain Words in Inputs](http://arxiv.org/abs/2201.03742v1)|2022-01-11 02:04:50+00:00|11-01-2022
+Lester Beltran|[A Planck Radiation and Quantization Scheme for Human Cognition and   Language](http://arxiv.org/abs/2201.03306v2)|2022-03-04 10:31:22+00:00|10-01-2022
+
 ## 10-05-2022
 
 main_author|title|update_date|publish_date

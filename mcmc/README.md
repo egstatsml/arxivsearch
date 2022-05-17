@@ -1,5 +1,175 @@
 # mcmc
 Click on title for link to paper
+## 17-05-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Thomas B. Schön|[Probabilistic Estimation of Chirp Instantaneous Frequency Using Gaussian   Processes](http://arxiv.org/abs/2205.06306v1)|2022-05-12 18:47:13+00:00|12-05-2022
+Allan Wollaber|[Extensible Machine Learning for Encrypted Network Traffic Application   Labeling via Uncertainty Quantification](http://arxiv.org/abs/2205.05628v1)|2022-05-11 16:54:37+00:00|11-05-2022
+Paolo Pulcini|[Stochastic Variational Smoothed Model Checking](http://arxiv.org/abs/2205.05398v1)|2022-05-11 10:43:23+00:00|11-05-2022
+Chang Shu|[Pre-trained Language Models as Re-Annotators](http://arxiv.org/abs/2205.05368v1)|2022-05-11 09:28:23+00:00|11-05-2022
+Francesco Bonchi|[On learning agent-based models from data](http://arxiv.org/abs/2205.05052v1)|2022-05-10 17:08:26+00:00|10-05-2022
+Matthew Dixon|[A Unified Bayesian Framework for Pricing Catastrophe Bond Derivatives](http://arxiv.org/abs/2205.04520v1)|2022-05-09 18:45:49+00:00|09-05-2022
+Tom Lefebvre|[Optimal Control as Variational Inference](http://arxiv.org/abs/2205.03279v1)|2022-05-06 15:04:12+00:00|06-05-2022
+Dae Sin Kim|[Generative Evolutionary Strategy For Black-Box Optimizations](http://arxiv.org/abs/2205.03056v1)|2022-05-06 07:34:21+00:00|06-05-2022
+Ben Feng|[Dynamic Bayesian Network Auxiliary ABC-SMC for Hybrid Model Bayesian   Inference to Accelerate Biomanufacturing Process Mechanism Learning and   Robust Control](http://arxiv.org/abs/2205.02410v2)|2022-05-09 15:55:35+00:00|05-05-2022
+Håkan Hjalmarsson|[DeepBayes -- an estimator for parameter estimation in stochastic   nonlinear dynamical models](http://arxiv.org/abs/2205.02264v1)|2022-05-04 18:12:17+00:00|04-05-2022
+Zachary Doerzaph|[Uncertainty estimation of pedestrian future trajectory using Bayesian   approximation](http://arxiv.org/abs/2205.01887v1)|2022-05-04 04:23:38+00:00|04-05-2022
+Jürgen Beyerer|[Bézier Curve Gaussian Processes](http://arxiv.org/abs/2205.01754v1)|2022-05-03 19:49:57+00:00|03-05-2022
+Taylor T. Johnson|[An Empirical Analysis of the Use of Real-Time Reachability for the   Safety Assurance of Autonomous Vehicles](http://arxiv.org/abs/2205.01419v1)|2022-05-03 11:12:29+00:00|03-05-2022
+Nils Thuerey|[Leveraging Stochastic Predictions of Bayesian Neural Networks for Fluid   Simulations](http://arxiv.org/abs/2205.01222v1)|2022-05-02 21:34:52+00:00|02-05-2022
+Ila Rani Fiete|[Streaming Inference for Infinite Non-Stationary Clustering](http://arxiv.org/abs/2205.01212v1)|2022-05-02 21:05:18+00:00|02-05-2022
+Chris Browne|[A Change Dynamic Model for the Online Detection of Gradual Change](http://arxiv.org/abs/2205.01054v3)|2022-05-04 03:43:21+00:00|02-05-2022
+Shankar Kumar|[Jam or Cream First? Modeling Ambiguity in Neural Machine Translation   with SCONES](http://arxiv.org/abs/2205.00704v1)|2022-05-02 07:51:37+00:00|02-05-2022
+Anna Korhonen|[Exposing Cross-Lingual Lexical Knowledge from Multilingual Sentence   Encoders](http://arxiv.org/abs/2205.00267v1)|2022-04-30 13:23:16+00:00|30-04-2022
+Dongxiao Zhang|[Identification of Physical Processes and Unknown Parameters of 3D   Groundwater Contaminant Problems via Theory-guided U-net](http://arxiv.org/abs/2205.00134v1)|2022-04-30 02:37:27+00:00|30-04-2022
+Maarten de Rijke|[Probabilistic Permutation Graph Search: Black-Box Optimization for   Fairness in Ranking](http://arxiv.org/abs/2204.13765v1)|2022-04-28 20:38:34+00:00|28-04-2022
+Marcus Rohrbach|[Reliable Visual Question Answering: Abstain Rather Than Answer   Incorrectly](http://arxiv.org/abs/2204.13631v1)|2022-04-28 16:51:27+00:00|28-04-2022
+Jiantao Zhou|[Tag-assisted Multimodal Sentiment Analysis under Uncertain Missing   Modalities](http://arxiv.org/abs/2204.13707v1)|2022-04-28 15:37:51+00:00|28-04-2022
+Paul J. Goulart|[Neural network controllers for uncertain linear systems](http://arxiv.org/abs/2204.13209v1)|2022-04-27 21:58:07+00:00|27-04-2022
+Cristina Olaverri-Monreal|[Uncertainty-Aware Prediction of Battery Energy Consumption for Hybrid   Electric Vehicles](http://arxiv.org/abs/2204.12825v1)|2022-04-27 10:29:38+00:00|27-04-2022
+Christian Heumann|[Forecasting foreign exchange rates with regression networks tuned by   Bayesian optimization](http://arxiv.org/abs/2204.12914v3)|2022-05-11 13:36:36+00:00|26-04-2022
+Kevin Brown|[Masked Image Modeling Advances 3D Medical Image Analysis](http://arxiv.org/abs/2204.11716v1)|2022-04-25 15:16:08+00:00|25-04-2022
+Lamberto Ballan|[Goal-driven Self-Attentive Recurrent Networks for Trajectory Prediction](http://arxiv.org/abs/2204.11561v1)|2022-04-25 11:12:37+00:00|25-04-2022
+Aparna Bhonde|[Farmer's Assistant: A Machine Learning Based Application for   Agricultural Solutions](http://arxiv.org/abs/2204.11340v1)|2022-04-24 19:31:10+00:00|24-04-2022
+Xiangyang Ji|[PUERT: Probabilistic Under-sampling and Explicable Reconstruction   Network for CS-MRI](http://arxiv.org/abs/2204.11189v1)|2022-04-24 04:23:57+00:00|24-04-2022
+Bruno A. Olshausen|[Learning and Inference in Sparse Coding Models with Langevin Dynamics](http://arxiv.org/abs/2204.11150v1)|2022-04-23 23:16:47+00:00|23-04-2022
+Guoying Zhao|[Uncertain Label Correction via Auxiliary Action Unit Graphs for Facial   Expression Recognition](http://arxiv.org/abs/2204.11053v1)|2022-04-23 11:09:43+00:00|23-04-2022
+Gilles Pesant|[Improving tracking with a tracklet associator](http://arxiv.org/abs/2204.10677v1)|2022-04-22 12:47:46+00:00|22-04-2022
+Chenglong Bao|[Learn from Unpaired Data for Image Restoration: A Variational Bayes   Approach](http://arxiv.org/abs/2204.10090v1)|2022-04-21 13:27:17+00:00|21-04-2022
+Ufuk Topcu|[Joint Learning of Reward Machines and Policies in Environments with   Partially Known Semantics](http://arxiv.org/abs/2204.11833v1)|2022-04-20 19:59:08+00:00|20-04-2022
+Aaron Zimmerman|[A stochastic Stein Variational Newton method](http://arxiv.org/abs/2204.09039v1)|2022-04-19 17:57:36+00:00|19-04-2022
+Steven A. Frank|[Optimizing differential equations to fit data and predict outcomes](http://arxiv.org/abs/2204.07833v1)|2022-04-16 16:08:08+00:00|16-04-2022
+Frederick A. Matsen IV|[A Variational Approach to Bayesian Phylogenetic Inference](http://arxiv.org/abs/2204.07747v1)|2022-04-16 08:23:48+00:00|16-04-2022
+Karl H. Johansson|[Safe Reinforcement Learning Using Black-Box Reachability Analysis](http://arxiv.org/abs/2204.07417v1)|2022-04-15 10:51:09+00:00|15-04-2022
+Matthew E. Taylor|[Methodical Advice Collection and Reuse in Deep Reinforcement Learning](http://arxiv.org/abs/2204.07254v1)|2022-04-14 22:24:55+00:00|14-04-2022
+Kaisheng Ma|[Unsupervised Deep Learning Meets Chan-Vese Model](http://arxiv.org/abs/2204.06951v1)|2022-04-14 13:23:57+00:00|14-04-2022
+Marco Pavone|[Control-oriented meta-learning](http://arxiv.org/abs/2204.06716v1)|2022-04-14 03:02:27+00:00|14-04-2022
+Jeroen Van Der Donckt|[Deep Learning for Effective and Efficient Reduction of Large Adaptation   Spaces in Self-Adaptive Systems](http://arxiv.org/abs/2204.06254v1)|2022-04-13 08:51:06+00:00|13-04-2022
+Hervé Glotin|[A DNN Framework for Learning Lagrangian Drift With Uncertainty](http://arxiv.org/abs/2204.05891v1)|2022-04-12 15:36:21+00:00|12-04-2022
+Frank Neumann|[Evolutionary Algorithms for Limiting the Effect of Uncertainty for the   Knapsack Problem with Stochastic Profits](http://arxiv.org/abs/2204.05597v1)|2022-04-12 07:56:50+00:00|12-04-2022
+Guang Lin|[RMFGP: Rotated Multi-fidelity Gaussian process with Dimension Reduction   for High-dimensional Uncertainty Quantification](http://arxiv.org/abs/2204.04819v1)|2022-04-11 01:20:35+00:00|11-04-2022
+Michalis Titsias|[Information-theoretic Online Memory Selection for Continual Learning](http://arxiv.org/abs/2204.04763v1)|2022-04-10 20:07:23+00:00|10-04-2022
+Isabel Benavente-Fernández|[Gaussian Processes for Missing Value Imputation](http://arxiv.org/abs/2204.04648v2)|2022-05-06 09:26:22+00:00|10-04-2022
+De-Chuan Zhan|[Identifying Ambiguous Similarity Conditions via Semantic Matching](http://arxiv.org/abs/2204.04053v1)|2022-04-08 13:15:55+00:00|08-04-2022
+Kwanghoon Sohn|[Probabilistic Representations for Video Contrastive Learning](http://arxiv.org/abs/2204.03946v1)|2022-04-08 09:09:30+00:00|08-04-2022
+Katherine L. Bouman|[Gravitationally Lensed Black Hole Emission Tomography](http://arxiv.org/abs/2204.03715v1)|2022-04-07 20:09:51+00:00|07-04-2022
+Yebin Liu|[ProbNVS: Fast Novel View Synthesis with Learned Probability-Guided   Sampling](http://arxiv.org/abs/2204.03476v1)|2022-04-07 14:45:42+00:00|07-04-2022
+Lifang Wei|[MC-UNet Multi-module Concatenation based on U-shape Network for Retinal   Blood Vessels Segmentation](http://arxiv.org/abs/2204.03213v1)|2022-04-07 04:57:16+00:00|07-04-2022
+Fabian Zaiser|[Guaranteed Bounds for Posterior Inference in Universal Probabilistic   Programming](http://arxiv.org/abs/2204.02948v1)|2022-04-06 17:28:28+00:00|06-04-2022
+Richard Bowden|"[""The Pedestrian next to the Lamppost"" Adaptive Object Graphs for Better   Instantaneous Mapping](http://arxiv.org/abs/2204.02944v1)"|2022-04-06 17:23:13+00:00|06-04-2022
+Evangelos A. Theodorou|[Deep Graphic FBSDEs for Opinion Dynamics Stochastic Control](http://arxiv.org/abs/2204.02506v3)|2022-04-18 03:03:54+00:00|05-04-2022
+Daniel Cremers|[The Probabilistic Normal Epipolar Constraint for Frame-To-Frame Rotation   Optimization under Uncertain Feature Positions](http://arxiv.org/abs/2204.02256v1)|2022-04-05 14:47:11+00:00|05-04-2022
+Thomas Dautremer|[Discretely Indexed Flows](http://arxiv.org/abs/2204.01361v1)|2022-04-04 10:13:43+00:00|04-04-2022
+Yangfeng Ji|[Diverse Text Generation via Variational Encoder-Decoder Models with   Gaussian Process Priors](http://arxiv.org/abs/2204.01227v1)|2022-04-04 04:09:15+00:00|04-04-2022
+Katherine Driggs-Campbell|[Proactive Anomaly Detection for Robot Navigation with Multi-Sensor   Fusion](http://arxiv.org/abs/2204.01146v1)|2022-04-03 19:48:40+00:00|03-04-2022
+Alireza Doostan|[Bi-fidelity Modeling of Uncertain and Partially Unknown Systems using   DeepONets](http://arxiv.org/abs/2204.00997v1)|2022-04-03 05:30:57+00:00|03-04-2022
+David Bruns-Smith|[Model-Free and Model-Based Policy Evaluation when Causality is Uncertain](http://arxiv.org/abs/2204.00956v1)|2022-04-02 23:40:15+00:00|02-04-2022
+Shankar Kumar|[Uncertainty Determines the Adequacy of the Mode and the Tractability of   Decoding in Sequence-to-Sequence Models](http://arxiv.org/abs/2204.00471v1)|2022-04-01 14:30:19+00:00|01-04-2022
+Ryan Cotterell|[On the probability-quality paradox in language generation](http://arxiv.org/abs/2203.17217v1)|2022-03-31 17:43:53+00:00|31-03-2022
+Mark Gerstein|[Higher-Order Generalization Bounds: Learning Deep Probabilistic Programs   via PAC-Bayes Objectives](http://arxiv.org/abs/2203.15972v1)|2022-03-30 01:14:56+00:00|30-03-2022
+Jonathan H. Huggins|[Robust, Automated, and Accurate Black-box Variational Inference](http://arxiv.org/abs/2203.15945v1)|2022-03-29 23:05:40+00:00|29-03-2022
+Marcelo A. Colominas|[Instantaneous Frequency Estimation In Multi-Component Signals Using   Stochastic EM Algorithm](http://arxiv.org/abs/2203.16334v1)|2022-03-28 17:06:11+00:00|28-03-2022
+Damon J. Wischik|[Stochastic Parameterizations: Better Modelling of Temporal Correlations   using Probabilistic Machine Learning](http://arxiv.org/abs/2203.14814v1)|2022-03-28 14:51:42+00:00|28-03-2022
+Mark Crowley|[Theoretical Connection between Locally Linear Embedding, Factor   Analysis, and Probabilistic PCA](http://arxiv.org/abs/2203.13911v1)|2022-03-25 21:07:20+00:00|25-03-2022
+Chun Che Fung|[Improving Question Answering over Knowledge Graphs Using Graph   Summarization](http://arxiv.org/abs/2203.13570v1)|2022-03-25 10:57:10+00:00|25-03-2022
+Hae-Gon Jeon|[Non-Probability Sampling Network for Stochastic Human Trajectory   Prediction](http://arxiv.org/abs/2203.13471v2)|2022-05-14 16:40:30+00:00|25-03-2022
+Claus Aranha|[Component-wise Analysis of Automatically Designed Multiobjective   Algorithms on Constrained Problems](http://arxiv.org/abs/2203.13447v2)|2022-04-10 12:21:21+00:00|25-03-2022
+Louis J. Durlofsky|[Deep reinforcement learning for optimal well control in subsurface   systems with uncertain geology](http://arxiv.org/abs/2203.13375v1)|2022-03-24 22:50:47+00:00|24-03-2022
+Noura Al Moubayed|[Using Orientation to Distinguish Overlapping Chromosomes](http://arxiv.org/abs/2203.13004v1)|2022-03-24 11:52:43+00:00|24-03-2022
+Christos Dimitrakakis|[Risk-Sensitive Bayesian Games for Multi-Agent Reinforcement Learning   under Policy Uncertainty](http://arxiv.org/abs/2203.10045v1)|2022-03-18 16:40:30+00:00|18-03-2022
+Thilo Hagendorff|[Why we need biased AI -- How including cognitive and ethical machine   biases can enhance AI systems](http://arxiv.org/abs/2203.09911v1)|2022-03-18 12:39:35+00:00|18-03-2022
+Juha Röning|[Hyperbolic Uncertainty Aware Semantic Segmentation](http://arxiv.org/abs/2203.08881v1)|2022-03-16 18:55:05+00:00|16-03-2022
+Stephan Mandt|[Diffusion Probabilistic Modeling for Video Generation](http://arxiv.org/abs/2203.09481v3)|2022-03-31 23:30:11+00:00|16-03-2022
+Anwar Walid|[Regenerative Particle Thompson Sampling](http://arxiv.org/abs/2203.08082v1)|2022-03-15 17:10:16+00:00|15-03-2022
+Hang Xu|[CODA: A Real-World Road Corner Case Dataset for Object Detection in   Autonomous Driving](http://arxiv.org/abs/2203.07724v1)|2022-03-15 08:32:56+00:00|15-03-2022
+Suliang Bu|[Accelerating Stochastic Probabilistic Inference](http://arxiv.org/abs/2203.07585v1)|2022-03-15 01:19:12+00:00|15-03-2022
+Byung-Jun Yoon|[Neural Message Passing for Objective-Based Uncertainty Quantification   and Optimal Experimental Design](http://arxiv.org/abs/2203.07120v1)|2022-03-14 14:08:46+00:00|14-03-2022
+Fabio Ramos|[Adaptive Model Predictive Control by Learning Classifiers](http://arxiv.org/abs/2203.06783v2)|2022-04-05 22:26:18+00:00|13-03-2022
+Willem Waegeman|[Set-valued prediction in hierarchical classification with constrained   representation complexity](http://arxiv.org/abs/2203.06676v1)|2022-03-13 15:13:19+00:00|13-03-2022
+Jakob H. Macke|[GATSBI: Generative Adversarial Training for Simulation-Based Inference](http://arxiv.org/abs/2203.06481v1)|2022-03-12 16:33:27+00:00|12-03-2022
+Mitesh M. Khapra|[Active Evaluation: Efficient NLG Evaluation with Few Pairwise   Comparisons](http://arxiv.org/abs/2203.06063v2)|2022-04-17 15:17:00+00:00|11-03-2022
+Jitao Sang|[Non-generative Generalized Zero-shot Learning via Task-correlated   Disentanglement and Controllable Samples Synthesis](http://arxiv.org/abs/2203.05335v2)|2022-03-13 08:19:22+00:00|10-03-2022
+Zhe Zhang|[Optimal Methods for Risk Averse Distributed Optimization](http://arxiv.org/abs/2203.05117v2)|2022-03-17 01:43:28+00:00|10-03-2022
+Aissatou Diallo|[Unsupervised Alignment of Distributional Word Embeddings](http://arxiv.org/abs/2203.04863v1)|2022-03-09 16:39:06+00:00|09-03-2022
+Tieniu Tan|[Learning the Degradation Distribution for Blind Image Super-Resolution](http://arxiv.org/abs/2203.04962v1)|2022-03-09 11:30:38+00:00|09-03-2022
+Weisi Guo|[Revealing the Excitation Causality between Climate and Political   Violence via a Neural Forward-Intensity Poisson Process](http://arxiv.org/abs/2203.04511v1)|2022-03-09 03:54:23+00:00|09-03-2022
+Lina Yao|[Contrastive Conditional Neural Processes](http://arxiv.org/abs/2203.03978v2)|2022-03-25 04:28:04+00:00|08-03-2022
+Vikash K. Mansinghka|[Recursive Monte Carlo and Variational Inference with Auxiliary Variables](http://arxiv.org/abs/2203.02836v1)|2022-03-05 23:52:40+00:00|05-03-2022
+Antonios Tsourdos|[Bayesian Learning Approach to Model Predictive Control](http://arxiv.org/abs/2203.02720v2)|2022-03-11 12:41:27+00:00|05-03-2022
+Lizhen Lin|[Bayesian community detection for networks with covariates](http://arxiv.org/abs/2203.02090v1)|2022-03-04 01:58:35+00:00|04-03-2022
+Julia E. Vogt|[Continuous Relaxation For The Multivariate Non-Central Hypergeometric   Distribution](http://arxiv.org/abs/2203.01629v1)|2022-03-03 10:44:50+00:00|03-03-2022
+Draguna Vrabie|[Learning Stochastic Parametric Differentiable Predictive Control   Policies](http://arxiv.org/abs/2203.01447v1)|2022-03-02 22:46:32+00:00|02-03-2022
+Harshad Khadilkar|[A Learning Based Framework for Handling Uncertain Lead Times in   Multi-Product Inventory Management](http://arxiv.org/abs/2203.00885v2)|2022-03-09 03:29:04+00:00|02-03-2022
+Fabio Ramos|[Bayesian Optimisation for Robust Model Predictive Control under Model   Parameter Uncertainty](http://arxiv.org/abs/2203.00551v2)|2022-03-02 21:29:41+00:00|01-03-2022
+Samiul Hasan|[Investigating the Spatiotemporal Charging Demand and Travel Behavior of   Electric Vehicles Using GPS Data: A Machine Learning Approach](http://arxiv.org/abs/2203.00135v1)|2022-02-28 23:11:30+00:00|28-02-2022
+Patrick Jaillet|[Rectified Max-Value Entropy Search for Bayesian Optimization](http://arxiv.org/abs/2202.13597v1)|2022-02-28 08:11:02+00:00|28-02-2022
+Duc Thien Nguyen|[Neural-Progressive Hedging: Enforcing Constraints in Reinforcement   Learning with Stochastic Programming](http://arxiv.org/abs/2202.13436v1)|2022-02-27 19:39:19+00:00|27-02-2022
+Shenda Hong|[A Deep Bayesian Neural Network for Cardiac Arrhythmia Classification   with Rejection from ECG Recordings](http://arxiv.org/abs/2203.00512v1)|2022-02-26 01:13:32+00:00|26-02-2022
+Neil D. Lawrence|[Generalised Gaussian Process Latent Variable Models (GPLVM) with   Stochastic Variational Inference](http://arxiv.org/abs/2202.12979v2)|2022-04-09 16:41:13+00:00|25-02-2022
+Xiaofang Wang|[Learning Multi-Task Gaussian Process Over Heterogeneous Input Domains](http://arxiv.org/abs/2202.12636v1)|2022-02-25 11:55:09+00:00|25-02-2022
+Federico Errica|[Bayesian Deep Learning for Graphs](http://arxiv.org/abs/2202.12348v1)|2022-02-24 20:18:41+00:00|24-02-2022
+Oliver E Richardson|[Loss as the Inconsistency of a Probabilistic Dependency Graph: Choose   Your Model, Not Your Loss Function](http://arxiv.org/abs/2202.11862v1)|2022-02-24 01:51:21+00:00|24-02-2022
+Chicheng Zhang|[Margin-distancing for safe model explanation](http://arxiv.org/abs/2202.11266v1)|2022-02-23 01:53:01+00:00|23-02-2022
+Jens Lagergren|[Multiple Importance Sampling ELBO and Deep Ensembles of Variational   Approximations](http://arxiv.org/abs/2202.10951v1)|2022-02-22 14:44:22+00:00|22-02-2022
+Alexander Terenin|[Gaussian Processes and Statistical Decision-making in Non-Euclidean   Spaces](http://arxiv.org/abs/2202.10613v3)|2022-04-28 11:10:48+00:00|22-02-2022
+Arkady Zaslavsky|[Adversarial Attacks on Speech Recognition Systems for Mission-Critical   Applications: A Survey](http://arxiv.org/abs/2202.10594v1)|2022-02-22 00:29:40+00:00|22-02-2022
+Gerhard A. Holzapfel|[Stochastic Modeling of Inhomogeneities in the Aortic Wall and   Uncertainty Quantification using a Bayesian Encoder-Decoder Surrogate](http://arxiv.org/abs/2202.10244v1)|2022-02-21 13:53:37+00:00|21-02-2022
+Huijing Zhao|[Multi-Task Conditional Imitation Learning for Autonomous Navigation at   Crowded Intersections](http://arxiv.org/abs/2202.10124v1)|2022-02-21 11:13:59+00:00|21-02-2022
+Vikas Singh|[Graph Reparameterizations for Enabling 1000+ Monte Carlo Iterations in   Bayesian Deep Neural Networks](http://arxiv.org/abs/2202.09478v1)|2022-02-19 00:04:56+00:00|19-02-2022
+Xuezhe Ma|[Learning Representations Robust to Group Shifts and Adversarial Examples](http://arxiv.org/abs/2202.09446v1)|2022-02-18 22:06:25+00:00|18-02-2022
+Xipeng Qiu|[TURNER: The Uncertainty-based Retrieval Framework for Chinese NER](http://arxiv.org/abs/2202.09022v1)|2022-02-18 05:05:22+00:00|18-02-2022
+Jianxin Wu|[R2-D2: Repetitive Reprediction Deep Decipher for Semi-Supervised Deep   Learning](http://arxiv.org/abs/2202.08955v1)|2022-02-18 01:46:23+00:00|18-02-2022
+Andrej Risteski|[Sampling Approximately Low-Rank Ising Models: MCMC meets Variational   Methods](http://arxiv.org/abs/2202.08907v1)|2022-02-17 21:43:50+00:00|17-02-2022
+William Fedus|[ST-MoE: Designing Stable and Transferable Sparse Expert Models](http://arxiv.org/abs/2202.08906v2)|2022-04-29 23:24:20+00:00|17-02-2022
+Etienne Mémin|[Level set based particle filter driven by optical flow: an application   to track the salt boundary from X-ray CT time-series](http://arxiv.org/abs/2202.08717v1)|2022-02-17 15:46:26+00:00|17-02-2022
+Xiaomeng Li|[Less is More: Surgical Phase Recognition from Timestamp Supervision](http://arxiv.org/abs/2202.08199v1)|2022-02-16 17:18:38+00:00|16-02-2022
+helin sun|[Unified smoke and fire detection in an evolutionary framework with   self-supervised progressive data augment](http://arxiv.org/abs/2202.07954v1)|2022-02-16 09:48:03+00:00|16-02-2022
+Assad A. Oberai|[The efficacy and generalizability of conditional GANs for posterior   inference in physics-based inverse problems](http://arxiv.org/abs/2202.07773v1)|2022-02-15 22:57:05+00:00|15-02-2022
+Sanjiv Kumar|[Predicting on the Edge: Identifying Where a Larger Model Does Better](http://arxiv.org/abs/2202.07652v1)|2022-02-15 18:53:14+00:00|15-02-2022
+Eytan Bakshy|[Robust Multi-Objective Bayesian Optimization Under Input Noise](http://arxiv.org/abs/2202.07549v2)|2022-02-16 12:17:21+00:00|15-02-2022
+Guang Lin|[DeepONet-Grid-UQ: A Trustworthy Deep Operator Framework for Predicting   the Power Grid's Post-Fault Trajectories](http://arxiv.org/abs/2202.07176v1)|2022-02-15 04:01:57+00:00|15-02-2022
+Ichiro Takeuchi|[Exact Statistical Inference for Time Series Similarity using Dynamic   Time Warping by Selective Inference](http://arxiv.org/abs/2202.06593v1)|2022-02-14 10:28:51+00:00|14-02-2022
+Christian Soize|[Probabilistic learning inference of boundary value problem with   uncertainties based on Kullback-Leibler divergence under implicit constraints](http://arxiv.org/abs/2202.05112v1)|2022-02-10 16:00:10+00:00|10-02-2022
+Krishnaram Kenthapadi|[Designing Closed Human-in-the-loop Deferral Pipelines](http://arxiv.org/abs/2202.04718v1)|2022-02-09 20:52:14+00:00|09-02-2022
+Wouter Verbeke|[A new perspective on classification: optimally allocating limited   resources to uncertain tasks](http://arxiv.org/abs/2202.04369v1)|2022-02-09 10:14:45+00:00|09-02-2022
+Ling-Yu Duan|[Uncertainty Modeling for Out-of-Distribution Generalization](http://arxiv.org/abs/2202.03958v2)|2022-04-22 03:10:41+00:00|08-02-2022
+Benjamin M. Marlin|[Impact of Parameter Sparsity on Stochastic Gradient MCMC Methods for   Bayesian Deep Learning](http://arxiv.org/abs/2202.03770v1)|2022-02-08 10:34:05+00:00|08-02-2022
+Daphna Weinshall|[Active Learning on a Budget: Opposite Strategies Suit High and Low   Budgets](http://arxiv.org/abs/2202.02794v3)|2022-02-19 23:56:33+00:00|06-02-2022
+Yuki Shiraito|[Improving Probabilistic Models in Text Classification via Active   Learning](http://arxiv.org/abs/2202.02629v1)|2022-02-05 20:09:26+00:00|05-02-2022
+Bryan A. Plummer|[Interactive Mobile App Navigation with Uncertain or Under-specified   Natural Language Commands](http://arxiv.org/abs/2202.02312v1)|2022-02-04 18:51:50+00:00|04-02-2022
+Benjamin Guedj|[Non-Vacuous Generalisation Bounds for Shallow Neural Networks](http://arxiv.org/abs/2202.01627v2)|2022-02-04 15:41:51+00:00|03-02-2022
+Yoshua Bengio|[Generative Flow Networks for Discrete Probabilistic Modeling](http://arxiv.org/abs/2202.01361v1)|2022-02-03 01:27:11+00:00|03-02-2022
+Michalis Vazirgiannis|[Modularity-Aware Graph Autoencoders for Joint Community Detection and   Link Prediction](http://arxiv.org/abs/2202.00961v1)|2022-02-02 11:07:11+00:00|02-02-2022
+Kira M. Leavitt|[A Longitudinal Dataset of Twitter ISIS Users](http://arxiv.org/abs/2202.00878v1)|2022-02-02 05:03:05+00:00|02-02-2022
+Angela Meyer|[Vibration Fault Diagnosis in Wind Turbines based on Automated Feature   Learning](http://arxiv.org/abs/2201.13403v2)|2022-02-16 12:39:20+00:00|31-01-2022
+Arnaud Doucet|[Continual Repeated Annealed Flow Transport Monte Carlo](http://arxiv.org/abs/2201.13117v1)|2022-01-31 10:58:31+00:00|31-01-2022
+Ichiro Takeuchi|[Bayesian Optimization for Distributionally Robust Chance-constrained   Problem](http://arxiv.org/abs/2201.13112v2)|2022-02-02 10:02:52+00:00|31-01-2022
+Iurii S. Nagornov|[Approximate Bayesian Computation Based on Maxima Weighted Isolation   Kernel Mapping](http://arxiv.org/abs/2201.12745v3)|2022-03-03 12:49:25+00:00|30-01-2022
+Antonietta Mira|[Learning Summary Statistics for Bayesian Inference with Autoencoders](http://arxiv.org/abs/2201.12059v1)|2022-01-28 12:00:31+00:00|28-01-2022
+Jiaming Song|[Denoising Diffusion Restoration Models](http://arxiv.org/abs/2201.11793v2)|2022-02-04 22:38:05+00:00|27-01-2022
+Jes Frellsen|[Uphill Roads to Variational Tightness: Monotonicity and Monte Carlo   Objectives](http://arxiv.org/abs/2201.10989v1)|2022-01-26 15:04:03+00:00|26-01-2022
+Feng Bao|[A Kernel Learning Method for Backward SDE Filter](http://arxiv.org/abs/2201.10600v1)|2022-01-25 19:49:19+00:00|25-01-2022
+Huei Peng|[CVAE-H: Conditionalizing Variational Autoencoders via Hypernetworks and   Trajectory Forecasting for Autonomous Driving](http://arxiv.org/abs/2201.09874v1)|2022-01-24 18:50:39+00:00|24-01-2022
+Morteza Haghir Chehreghani|[Deep Q-learning: a robust control approach](http://arxiv.org/abs/2201.08610v1)|2022-01-21 09:47:34+00:00|21-01-2022
+Guanding Yu|[DDPG-Driven Deep-Unfolding with Adaptive Depth for Channel Estimation   with Sparse Bayesian Learning](http://arxiv.org/abs/2201.08477v1)|2022-01-20 22:35:42+00:00|20-01-2022
+Dong-Geol Choi|[Using Self-Supervised Pretext Tasks for Active Learning](http://arxiv.org/abs/2201.07459v1)|2022-01-19 07:58:06+00:00|19-01-2022
+Weiwei Yang|[Prospective Learning: Back to the Future](http://arxiv.org/abs/2201.07372v1)|2022-01-19 01:19:57+00:00|19-01-2022
+Vladimir Pavlovic|[MUSE-VAE: Multi-Scale VAE for Environment-Aware Long Term Trajectory   Prediction](http://arxiv.org/abs/2201.07189v1)|2022-01-18 18:40:03+00:00|18-01-2022
+Nicola Gatti|[Safe Online Bid Optimization with Return-On-Investment and Budget   Constraints subject to Uncertainty](http://arxiv.org/abs/2201.07139v1)|2022-01-18 17:24:20+00:00|18-01-2022
+Jonghye Woo|[Variational Inference for Quantifying Inter-observer Variability in   Segmentation of Anatomical Structures](http://arxiv.org/abs/2201.07106v1)|2022-01-18 16:33:33+00:00|18-01-2022
+Hayato Saigo|[On the Equivalence of Causal Models: A Category-Theoretic Approach](http://arxiv.org/abs/2201.06981v1)|2022-01-18 13:43:06+00:00|18-01-2022
+Hongning Wang|[Learning Neural Ranking Models Online from Implicit User Feedback](http://arxiv.org/abs/2201.06658v1)|2022-01-17 23:11:39+00:00|17-01-2022
+Marcelo Pereyra|[On Maximum-a-Posteriori estimation with Plug & Play priors and   stochastic gradient descent](http://arxiv.org/abs/2201.06133v1)|2022-01-16 20:50:08+00:00|16-01-2022
+Silviu Maniu|[Contextual Bandits for Advertising Campaigns: A Diffusion-Model   Independent Approach (Extended Version)](http://arxiv.org/abs/2201.05231v1)|2022-01-13 22:06:10+00:00|13-01-2022
+Scott W. Linderman|[Spatiotemporal Clustering with Neyman-Scott Processes via Connections to   Bayesian Nonparametric Mixture Models](http://arxiv.org/abs/2201.05044v2)|2022-01-14 16:40:26+00:00|13-01-2022
+Paraschos Koutris|[Certifiable Robustness for Nearest Neighbor Classifiers](http://arxiv.org/abs/2201.04770v2)|2022-01-17 18:40:16+00:00|13-01-2022
+Geraldo Robson Mateus|[Multi-echelon Supply Chains with Uncertain Seasonal Demands and Lead   Times Using Deep Reinforcement Learning](http://arxiv.org/abs/2201.04651v1)|2022-01-12 19:03:07+00:00|12-01-2022
+Yangfeng Ji|[Explaining Prediction Uncertainty of Pre-trained Language Models by   Detecting Uncertain Words in Inputs](http://arxiv.org/abs/2201.03742v1)|2022-01-11 02:04:50+00:00|11-01-2022
+Justin Fletcher|[SpectraNet: Learned Recognition of Artificial Satellites From High   Contrast Spectroscopic Imagery](http://arxiv.org/abs/2201.03614v1)|2022-01-10 19:51:00+00:00|10-01-2022
+Zheng Li|[Opportunities of Hybrid Model-based Reinforcement Learning for Cell   Therapy Manufacturing Process Control](http://arxiv.org/abs/2201.03116v2)|2022-01-26 04:36:23+00:00|10-01-2022
+Ching-Chun Chang|[Bayesian Neural Networks for Reversible Steganography](http://arxiv.org/abs/2201.02478v1)|2022-01-07 14:56:33+00:00|07-01-2022
+
 ## 10-05-2022
 
 main_author|title|update_date|publish_date
