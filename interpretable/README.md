@@ -1,5 +1,15 @@
 # interpretable
 Click on title for link to paper
+## 24-05-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Marcus Kalander|[RiskLoc: Localization of Multi-dimensional Root Causes by Weighted Risk](http://arxiv.org/abs/2205.10004v1)|2022-05-20 07:43:18+00:00|20-05-2022
+Narayanan C Krishnan|[Explainable Supervised Domain Adaptation](http://arxiv.org/abs/2205.09943v1)|2022-05-20 03:33:04+00:00|20-05-2022
+Dan Roth|[Entailment Tree Explanations via Iterative Retrieval-Generation Reasoner](http://arxiv.org/abs/2205.09224v1)|2022-05-18 21:52:11+00:00|18-05-2022
+Fariza Sabrina|[Explainable and Optimally Configured Artificial Neural Networks for   Attack Detection in Smart Homes](http://arxiv.org/abs/2205.08043v1)|2022-05-17 01:25:32+00:00|17-05-2022
+Yingjun Deng|[Exploring the Learning Difficulty of Data Theory and Measure](http://arxiv.org/abs/2205.07427v1)|2022-05-16 02:28:12+00:00|16-05-2022
+
 ## 17-05-2022
 
 main_author|title|update_date|publish_date

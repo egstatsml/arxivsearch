@@ -1,5 +1,63 @@
 # fairness
 Click on title for link to paper
+## 24-05-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Nathan Kallus|[What's the Harm? Sharp Bounds on the Fraction Negatively Affected by   Treatment](http://arxiv.org/abs/2205.10327v1)|2022-05-20 17:36:33+00:00|20-05-2022
+Andreas Holzinger|[Exploring the Trade-off between Plausibility, Change Intensity and   Adversarial Power in Counterfactual Explanations using Multi-objective   Optimization](http://arxiv.org/abs/2205.10232v1)|2022-05-20 15:02:53+00:00|20-05-2022
+Sébastien Saurin|[The Fairness of Credit Scoring Models](http://arxiv.org/abs/2205.10200v1)|2022-05-20 14:20:40+00:00|20-05-2022
+Francisco Camara Pereira|[Bayesian Active Learning with Fully Bayesian Gaussian Processes](http://arxiv.org/abs/2205.10186v1)|2022-05-20 13:52:04+00:00|20-05-2022
+Mikel Galar|[Assessing Demographic Bias Transfer from Dataset to Model: A Case Study   in Facial Expression Recognition](http://arxiv.org/abs/2205.10049v1)|2022-05-20 09:40:42+00:00|20-05-2022
+Mykola Pechenizkiy|[Survey on Fair Reinforcement Learning: Theory and Practice](http://arxiv.org/abs/2205.10032v1)|2022-05-20 09:07:28+00:00|20-05-2022
+Calton Pu|[Constructive Interpretability with CoLabel: Corroborative Integration,   Complementary Features, and Collaborative Learning](http://arxiv.org/abs/2205.10011v1)|2022-05-20 08:01:55+00:00|20-05-2022
+Yanning Shen|[FairNorm: Fair and Fast Graph Neural Network Training](http://arxiv.org/abs/2205.09977v1)|2022-05-20 06:10:27+00:00|20-05-2022
+Shenda Hong|[Cross Reconstruction Transformer for Self-Supervised Time Series   Representation Learning](http://arxiv.org/abs/2205.09928v1)|2022-05-20 02:15:14+00:00|20-05-2022
+Yasser Shoukry|[CertiFair: A Framework for Certified Global Fairness of Neural Networks](http://arxiv.org/abs/2205.09927v1)|2022-05-20 02:08:47+00:00|20-05-2022
+Naoaki Okazaki|[Gender Bias in Meta-Embeddings](http://arxiv.org/abs/2205.09867v1)|2022-05-19 21:20:47+00:00|19-05-2022
+Workneh Yilma Ayele|[A toolbox for idea generation and evaluation: Machine learning,   data-driven, and contest-driven approaches to support idea generation](http://arxiv.org/abs/2205.09840v1)|2022-05-19 20:28:49+00:00|19-05-2022
+Kun Zhang|[Calibration Matters: Tackling Maximization Bias in Large-scale   Advertising Recommendation Systems](http://arxiv.org/abs/2205.09809v1)|2022-05-19 19:05:15+00:00|19-05-2022
+Abhishek Panigrahi|[Understanding Gradient Descent on Edge of Stability in Deep Learning](http://arxiv.org/abs/2205.09745v1)|2022-05-19 17:57:01+00:00|19-05-2022
+Matthieu Cord|[Diverse Weight Averaging for Out-of-Distribution Generalization](http://arxiv.org/abs/2205.09739v1)|2022-05-19 17:44:22+00:00|19-05-2022
+Bernd Bischl|[What Is Fairness? Implications For FairML](http://arxiv.org/abs/2205.09622v1)|2022-05-19 15:37:26+00:00|19-05-2022
+Tim Blackmore|[Hybrid Intelligent Testing in Simulation-Based Verification](http://arxiv.org/abs/2205.09552v1)|2022-05-19 13:22:08+00:00|19-05-2022
+Yanli Chen|[Identifying outliers in astronomical images with unsupervised machine   learning](http://arxiv.org/abs/2205.09760v1)|2022-05-19 09:58:48+00:00|19-05-2022
+Zhi-Hong Deng|[Bypassing Logits Bias in Online Class-Incremental Learning with a   Generative Framework](http://arxiv.org/abs/2205.09347v1)|2022-05-19 06:54:20+00:00|19-05-2022
+Anil K. Jain|[On Demographic Bias in Fingerprint Recognition](http://arxiv.org/abs/2205.09318v1)|2022-05-19 04:10:59+00:00|19-05-2022
+Kaiming He|[Masked Autoencoders As Spatiotemporal Learners](http://arxiv.org/abs/2205.09113v1)|2022-05-18 17:59:59+00:00|18-05-2022
+Jason D. Lee|[On the Effective Number of Linear Regions in Shallow Univariate ReLU   Networks: Convergence Guarantees and Implicit Bias](http://arxiv.org/abs/2205.09072v1)|2022-05-18 16:57:10+00:00|18-05-2022
+Ioannis N. Athanasiadis|[Learning latent representations for operational nitrogen response rate   prediction](http://arxiv.org/abs/2205.09025v1)|2022-05-18 16:02:01+00:00|18-05-2022
+Ankit Shah|[Financial Time Series Data Augmentation with Generative Adversarial   Networks and Extended Intertemporal Return Plots](http://arxiv.org/abs/2205.08924v2)|2022-05-19 07:26:12+00:00|18-05-2022
+Niki Kilbertus|[Multi-disciplinary fairness considerations in machine learning for   clinical trials](http://arxiv.org/abs/2205.08875v1)|2022-05-18 11:59:22+00:00|18-05-2022
+Francesco Archetti|[Fair and Green Hyperparameter Optimization via Multi-objective and   Multiple Information Source Bayesian Optimization](http://arxiv.org/abs/2205.08835v1)|2022-05-18 10:07:21+00:00|18-05-2022
+Jing Su|[Accurate Fairness: Improving Individual Fairness without Trading   Accuracy](http://arxiv.org/abs/2205.08704v1)|2022-05-18 03:24:16+00:00|18-05-2022
+Caiming Xiong|[OneAligner: Zero-shot Cross-lingual Transfer with One Rich-Resource   Language Pair for Low-Resource Sentence Retrieval](http://arxiv.org/abs/2205.08605v1)|2022-05-17 19:52:42+00:00|17-05-2022
+Colin M. Beier|[High-resolution landscape-scale biomass mapping using a spatiotemporal   patchwork of LiDAR coverages](http://arxiv.org/abs/2205.08530v1)|2022-05-17 17:53:50+00:00|17-05-2022
+Tim Blackmore|[Supervised Learning for Coverage-Directed Test Selection in   Simulation-Based Verification](http://arxiv.org/abs/2205.08524v1)|2022-05-17 17:49:30+00:00|17-05-2022
+Utz Roedig|[Dynamic Recognition of Speakers for Consent Management by Contrastive   Embedding Replay](http://arxiv.org/abs/2205.08459v1)|2022-05-17 16:00:17+00:00|17-05-2022
+Ariadna Quattoni|[Measuring Alignment Bias in Neural Seq2Seq Semantic Parsers](http://arxiv.org/abs/2205.08288v1)|2022-05-17 12:35:52+00:00|17-05-2022
+Tue Herlau|[Moral reinforcement learning using actual causation](http://arxiv.org/abs/2205.08192v1)|2022-05-17 09:25:51+00:00|17-05-2022
+Noa Garcia|[Gender and Racial Bias in Visual Question Answering Datasets](http://arxiv.org/abs/2205.08148v2)|2022-05-18 08:47:20+00:00|17-05-2022
+Xiaodan Liang|[Unbiased Math Word Problems Benchmark for Mitigating Solving Bias](http://arxiv.org/abs/2205.08108v1)|2022-05-17 06:07:04+00:00|17-05-2022
+Mert Pilanci|[Unraveling Attention via Convex Duality: Analysis and Interpretations of   Vision Transformers](http://arxiv.org/abs/2205.08078v2)|2022-05-20 17:26:35+00:00|17-05-2022
+Valmir C. Barbosa|[Shape complexity in cluster analysis](http://arxiv.org/abs/2205.08046v2)|2022-05-18 10:59:59+00:00|17-05-2022
+Jehoshua Bruck|[On Algebraic Constructions of Neural Networks with Small Weights](http://arxiv.org/abs/2205.08032v1)|2022-05-17 00:09:23+00:00|17-05-2022
+Josef van Genabith|[Towards Debiasing Translation Artifacts](http://arxiv.org/abs/2205.08001v1)|2022-05-16 21:46:51+00:00|16-05-2022
+João Gama|[Federated Anomaly Detection over Distributed Data Streams](http://arxiv.org/abs/2205.07829v2)|2022-05-17 07:23:01+00:00|16-05-2022
+Aaron Courville|[The Primacy Bias in Deep Reinforcement Learning](http://arxiv.org/abs/2205.07802v1)|2022-05-16 16:48:36+00:00|16-05-2022
+Takashi Takahashi|[Sharp Asymptotics of Self-training with Linear Classifier](http://arxiv.org/abs/2205.07739v1)|2022-05-16 15:02:44+00:00|16-05-2022
+Ting Liu|[Explanation-Guided Fairness Testing through Genetic Algorithm](http://arxiv.org/abs/2205.08335v1)|2022-05-16 02:40:48+00:00|16-05-2022
+Bryan Kian Hsiang Low|[On the Convergence of the Shapley Value in Parametric Bayesian Learning   Games](http://arxiv.org/abs/2205.07428v1)|2022-05-16 02:29:14+00:00|16-05-2022
+Yingjun Deng|[Exploring the Learning Difficulty of Data Theory and Measure](http://arxiv.org/abs/2205.07427v1)|2022-05-16 02:28:12+00:00|16-05-2022
+Jian Pei|[Trustworthy Graph Neural Networks: Aspects, Methods and Trends](http://arxiv.org/abs/2205.07424v1)|2022-05-16 02:21:09+00:00|16-05-2022
+Emma Pierson|[Trucks Don't Mean Trump: Diagnosing Human Error in Image Analysis](http://arxiv.org/abs/2205.07333v1)|2022-05-15 17:06:51+00:00|15-05-2022
+Himabindu Lakkaraju|[Fairness via Explanation Quality: Evaluating Disparities in the Quality   of Post hoc Explanations](http://arxiv.org/abs/2205.07277v1)|2022-05-15 13:01:20+00:00|15-05-2022
+Stan Z. Li|[Discovering the Representation Bottleneck of Graph Neural Networks from   Multi-order Interactions](http://arxiv.org/abs/2205.07266v3)|2022-05-21 06:10:24+00:00|15-05-2022
+Jindong Wang|[FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning](http://arxiv.org/abs/2205.07246v1)|2022-05-15 10:07:52+00:00|15-05-2022
+Siqi Gu|[Real-centric Consistency Learning for Deepfake Detection](http://arxiv.org/abs/2205.07201v1)|2022-05-15 07:01:28+00:00|15-05-2022
+Guang Cheng|[Fair Bayes-Optimal Classifiers Under Predictive Parity](http://arxiv.org/abs/2205.07182v1)|2022-05-15 04:58:10+00:00|15-05-2022
+Marta R. Costa-Jussà|[Multiformer: A Head-Configurable Transformer-Based Model for Direct   Speech Translation](http://arxiv.org/abs/2205.07100v1)|2022-05-14 17:37:47+00:00|14-05-2022
+
 ## 17-05-2022
 
 main_author|title|update_date|publish_date

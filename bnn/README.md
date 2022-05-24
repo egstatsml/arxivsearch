@@ -1,5 +1,37 @@
 # bnn
 Click on title for link to paper
+## 24-05-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Willem Waegeman|[On Calibration of Ensemble-Based Credal Predictors](http://arxiv.org/abs/2205.10082v1)|2022-05-20 10:57:46+00:00|20-05-2022
+Alexander Lavin|[The Unreasonable Effectiveness of Deep Evidential Regression](http://arxiv.org/abs/2205.10060v1)|2022-05-20 10:10:32+00:00|20-05-2022
+Philipp Hennig|[Posterior Refinement Improves Sample Efficiency in Bayesian Neural   Networks](http://arxiv.org/abs/2205.10041v1)|2022-05-20 09:24:39+00:00|20-05-2022
+Balasubramaniam Natarajan|[A General Framework for quantifying Aleatoric and Epistemic uncertainty   in Graph Neural Networks](http://arxiv.org/abs/2205.09968v1)|2022-05-20 05:25:40+00:00|20-05-2022
+Tobin Isaac|[Robust Expected Information Gain for Optimal Bayesian Experimental   Design Using Ambiguity Sets](http://arxiv.org/abs/2205.09914v1)|2022-05-20 01:07:41+00:00|20-05-2022
+Michael Minyi Zhang|[Sparse Infinite Random Feature Latent Variable Modeling](http://arxiv.org/abs/2205.09909v1)|2022-05-20 00:29:28+00:00|20-05-2022
+Noah Goodman|[Foundation Posteriors for Approximate Probabilistic Inference](http://arxiv.org/abs/2205.09735v1)|2022-05-19 17:42:37+00:00|19-05-2022
+Cherie Xu|[Metrics of calibration for probabilistic predictions](http://arxiv.org/abs/2205.09680v1)|2022-05-19 16:38:24+00:00|19-05-2022
+Ronaldo Dias|[Variational Inference for Bayesian Bridge Regression](http://arxiv.org/abs/2205.09515v1)|2022-05-19 12:29:09+00:00|19-05-2022
+Christian Riess|[Bayesian Convolutional Neural Networks for Limited Data Hyperspectral   Remote Sensing Image Classification](http://arxiv.org/abs/2205.09250v1)|2022-05-19 00:02:16+00:00|19-05-2022
+Johannes Jäschke|[Hybrid Machine Learning Modeling of Engineering Systems -- A   Probabilistic Perspective Tested on a Multiphase Flow Modeling Case Study](http://arxiv.org/abs/2205.09196v1)|2022-05-18 20:15:25+00:00|18-05-2022
+Elisa Kreiss|[Color Overmodification Emerges from Data-Driven Learning and Pragmatic   Reasoning](http://arxiv.org/abs/2205.09172v1)|2022-05-18 18:42:43+00:00|18-05-2022
+Heinz Koeppl|[Markov Chain Monte Carlo for Continuous-Time Switching Dynamical Systems](http://arxiv.org/abs/2205.08803v1)|2022-05-18 09:03:00+00:00|18-05-2022
+Tue Herlau|[Probability trees and the value of a single intervention](http://arxiv.org/abs/2205.08779v1)|2022-05-18 08:01:33+00:00|18-05-2022
+Yarin Gal|[Marginal and Joint Cross-Entropies & Predictives for Online Bayesian   Inference, Active Learning, and Active Sampling](http://arxiv.org/abs/2205.08766v1)|2022-05-18 07:24:49+00:00|18-05-2022
+Junho Yim|[Hyperparameter Optimization with Neural Network Pruning](http://arxiv.org/abs/2205.08695v1)|2022-05-18 02:51:47+00:00|18-05-2022
+Thomas Kneib|[Bayesian Discrete Conditional Transformation Models](http://arxiv.org/abs/2205.08594v1)|2022-05-17 19:26:43+00:00|17-05-2022
+Sang Chin|[Referring Expressions with Rational Speech Act Framework: A   Probabilistic Approach](http://arxiv.org/abs/2205.07795v1)|2022-05-16 16:37:50+00:00|16-05-2022
+Haoliang Li|[Generalizing to Evolving Domains with Latent Structure-Aware Sequential   Autoencoder](http://arxiv.org/abs/2205.07649v1)|2022-05-16 13:11:29+00:00|16-05-2022
+Chris Piech|[The AI Teacher Test: Measuring the Pedagogical Ability of Blender and   GPT-3 in Educational Dialogues](http://arxiv.org/abs/2205.07540v1)|2022-05-16 09:36:30+00:00|16-05-2022
+Bryan Kian Hsiang Low|[On the Convergence of the Shapley Value in Parametric Bayesian Learning   Games](http://arxiv.org/abs/2205.07428v1)|2022-05-16 02:29:14+00:00|16-05-2022
+Kerem Y. Camsari|[Physics-inspired Ising Computing with Ring Oscillator Activated p-bits](http://arxiv.org/abs/2205.07402v1)|2022-05-15 23:46:58+00:00|15-05-2022
+Issei Sato|[Analyzing Lottery Ticket Hypothesis from PAC-Bayesian Theory Perspective](http://arxiv.org/abs/2205.07320v1)|2022-05-15 15:58:27+00:00|15-05-2022
+Bo Zheng|[Posterior Probability Matters: Doubly-Adaptive Calibration for Neural   Predictions in Online Advertising](http://arxiv.org/abs/2205.07295v1)|2022-05-15 14:27:19+00:00|15-05-2022
+Graham W. Pulford|[Learning Shared Kernel Models: the Shared Kernel EM algorithm](http://arxiv.org/abs/2205.09041v1)|2022-05-15 10:10:08+00:00|15-05-2022
+Josef Kittler|[Importance Weighted Structure Learning for Scene Graph Generation](http://arxiv.org/abs/2205.07017v1)|2022-05-14 09:25:14+00:00|14-05-2022
+Weien Zhou|[Bayesian Physics-Informed Extreme Learning Machine for Forward and   Inverse PDE Problems with Noisy Data](http://arxiv.org/abs/2205.06948v1)|2022-05-14 02:32:48+00:00|14-05-2022
+
 ## 17-05-2022
 
 main_author|title|update_date|publish_date

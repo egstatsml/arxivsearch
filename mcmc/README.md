@@ -1,5 +1,16 @@
 # mcmc
 Click on title for link to paper
+## 24-05-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Yangfeng Ji|[Self-augmented Data Selection for Few-shot Dialogue Generation](http://arxiv.org/abs/2205.09661v1)|2022-05-19 16:25:50+00:00|19-05-2022
+Ronaldo Dias|[Variational Inference for Bayesian Bridge Regression](http://arxiv.org/abs/2205.09515v1)|2022-05-19 12:29:09+00:00|19-05-2022
+Heinz Koeppl|[Markov Chain Monte Carlo for Continuous-Time Switching Dynamical Systems](http://arxiv.org/abs/2205.08803v1)|2022-05-18 09:03:00+00:00|18-05-2022
+Barbara Hammer|[Model Agnostic Local Explanations of Reject](http://arxiv.org/abs/2205.07623v1)|2022-05-16 12:42:34+00:00|16-05-2022
+Kerem Y. Camsari|[Physics-inspired Ising Computing with Ring Oscillator Activated p-bits](http://arxiv.org/abs/2205.07402v1)|2022-05-15 23:46:58+00:00|15-05-2022
+Aykut C. Satici|[Robustness of Control Design via Bayesian Learning](http://arxiv.org/abs/2205.06896v1)|2022-05-13 21:10:19+00:00|13-05-2022
+
 ## 17-05-2022
 
 main_author|title|update_date|publish_date
