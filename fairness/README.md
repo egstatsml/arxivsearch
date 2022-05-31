@@ -1,5 +1,83 @@
 # fairness
 Click on title for link to paper
+## 31-05-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Dietrich Klakow|[StereoKG: Data-Driven Knowledge Graph Construction for Cultural   Knowledge and Stereotypes](http://arxiv.org/abs/2205.14036v1)|2022-05-27 15:09:56+00:00|27-05-2022
+Julie Shah|[Prototype Based Classification from Hierarchy to Fairness](http://arxiv.org/abs/2205.13997v1)|2022-05-27 14:21:41+00:00|27-05-2022
+Mingming Gong|[Counterfactual Fairness with Partially Known Causal Graph](http://arxiv.org/abs/2205.13972v1)|2022-05-27 13:40:50+00:00|27-05-2022
+Ayush Sawarni|[Fairness and Welfare Quantification for Regret in Multi-Armed Bandits](http://arxiv.org/abs/2205.13930v1)|2022-05-27 12:12:56+00:00|27-05-2022
+Sergi Abadal|[Bias Reduction via Cooperative Bargaining in Synthetic Graph Dataset   Generation](http://arxiv.org/abs/2205.13901v1)|2022-05-27 11:12:50+00:00|27-05-2022
+Torben Weis|[Probabilistic Systems with Hidden State and Unobservable Transitions](http://arxiv.org/abs/2205.13871v1)|2022-05-27 10:06:04+00:00|27-05-2022
+Howard Bondell|[MissDAG: Causal Discovery in the Presence of Missing Data with   Continuous Additive Noise Models](http://arxiv.org/abs/2205.13869v1)|2022-05-27 09:59:46+00:00|27-05-2022
+Daniele Jahier Pagliari|[Adaptive Random Forests for Energy-Efficient Inference on   Microcontrollers](http://arxiv.org/abs/2205.13838v1)|2022-05-27 09:03:55+00:00|27-05-2022
+Karan Verma|[Classification of COVID-19 Patients with their Severity Level from Chest   CT Scans using Transfer Learning](http://arxiv.org/abs/2205.13774v1)|2022-05-27 06:22:09+00:00|27-05-2022
+Grigory Yaroslavtsev|[HOUDINI: Escaping from Moderately Constrained Saddles](http://arxiv.org/abs/2205.13753v1)|2022-05-27 03:36:27+00:00|27-05-2022
+Kevin R. McKee|[Subverting machines, fluctuating identities: Re-learning human   categorization](http://arxiv.org/abs/2205.13740v1)|2022-05-27 03:09:25+00:00|27-05-2022
+Suhang Wang|[On Consistency in Graph Neural Network Interpretation](http://arxiv.org/abs/2205.13733v1)|2022-05-27 02:58:07+00:00|27-05-2022
+Rui Zhang|[ES-GNN: Generalizing Graph Neural Networks Beyond Homophily with Edge   Splitting](http://arxiv.org/abs/2205.13700v1)|2022-05-27 01:29:03+00:00|27-05-2022
+Cosma Rohilla Shalizi|[Characterizing the robustness of Bayesian adaptive experimental designs   to active learning bias](http://arxiv.org/abs/2205.13698v1)|2022-05-27 01:23:11+00:00|27-05-2022
+Cyril Allauzen|[Global Normalization for Streaming Speech Recognition in a Modular   Framework](http://arxiv.org/abs/2205.13674v1)|2022-05-26 23:34:21+00:00|26-05-2022
+Siegfried Kunzmann|[Contextual Adapters for Personalized Speech Recognition in Neural   Transducers](http://arxiv.org/abs/2205.13660v1)|2022-05-26 22:46:28+00:00|26-05-2022
+Chiyuan Zhang|[Learning to Reason with Neural Networks: Generalization, Unseen Data and   Boolean Measures](http://arxiv.org/abs/2205.13647v1)|2022-05-26 21:53:47+00:00|26-05-2022
+Loris D'Antoni|[BagFlip: A Certified Defense against Data Poisoning](http://arxiv.org/abs/2205.13634v1)|2022-05-26 21:09:24+00:00|26-05-2022
+Yongfeng Zhang|[Fairness in Recommendation: A Survey](http://arxiv.org/abs/2205.13619v2)|2022-05-30 03:41:45+00:00|26-05-2022
+Zhuoran Yang|[Pessimism in the Face of Confounders: Provably Efficient Offline   Reinforcement Learning in Partially Observable Markov Decision Processes](http://arxiv.org/abs/2205.13589v1)|2022-05-26 19:13:55+00:00|26-05-2022
+Mayowa Ayodele|[Comparing the Digital Annealer with Classical Evolutionary Algorithm](http://arxiv.org/abs/2205.13586v1)|2022-05-26 19:04:20+00:00|26-05-2022
+Binh T. Nguyen|[Unequal Covariance Awareness for Fisher Discriminant Analysis and Its   Variants in Classification](http://arxiv.org/abs/2205.13565v1)|2022-05-26 18:08:18+00:00|26-05-2022
+Yue Cao|[Revealing the Dark Secrets of Masked Image Modeling](http://arxiv.org/abs/2205.13543v2)|2022-05-27 15:12:37+00:00|26-05-2022
+Toshihiko Yamasaki|[Green Hierarchical Vision Transformer for Masked Image Modeling](http://arxiv.org/abs/2205.13515v1)|2022-05-26 17:34:42+00:00|26-05-2022
+Cesare Alippi|[Sparse Graph Learning for Spatiotemporal Time Series](http://arxiv.org/abs/2205.13492v1)|2022-05-26 17:02:43+00:00|26-05-2022
+Xiaoying Tang|[FedAug: Reducing the Local Learning Bias Improves Federated Learning on   Heterogeneous Data](http://arxiv.org/abs/2205.13462v2)|2022-05-27 09:57:25+00:00|26-05-2022
+Jing Xiao|[A Fair Federated Learning Framework With Reinforcement Learning](http://arxiv.org/abs/2205.13415v1)|2022-05-26 15:10:16+00:00|26-05-2022
+Rui Yan|[Keywords and Instances: A Hierarchical Contrastive Learning Framework   Unifying Hybrid Granularities for Text Generation](http://arxiv.org/abs/2205.13346v1)|2022-05-26 13:26:03+00:00|26-05-2022
+Christian Gagné|[Fair Representation Learning through Implicit Path Alignment](http://arxiv.org/abs/2205.13316v1)|2022-05-26 12:46:11+00:00|26-05-2022
+Neeraj Vashistha|[SARS-CoV-2 Result Interpretation based on Image Analysis of Lateral Flow   Devices](http://arxiv.org/abs/2205.13311v1)|2022-05-26 12:40:36+00:00|26-05-2022
+Alexander Mühlberg|[DeepTechnome: Mitigating Unknown Bias in Deep Learning Based Assessment   of CT Images](http://arxiv.org/abs/2205.13297v1)|2022-05-26 12:18:48+00:00|26-05-2022
+Rajat Sen|[On Learning Mixture of Linear Regressions in the Non-Realizable Setting](http://arxiv.org/abs/2205.13166v1)|2022-05-26 05:34:57+00:00|26-05-2022
+Bingbing Ni|[HIRL: A General Framework for Hierarchical Image Representation Learning](http://arxiv.org/abs/2205.13159v1)|2022-05-26 05:13:26+00:00|26-05-2022
+Jing Xiao|[Cali3F: Calibrated Fast Fair Federated Recommendation System](http://arxiv.org/abs/2205.13121v1)|2022-05-26 03:05:26+00:00|26-05-2022
+Bernhard Schölkopf|[Amortized Inference for Causal Structure Learning](http://arxiv.org/abs/2205.12934v1)|2022-05-25 17:37:08+00:00|25-05-2022
+Ruslan Salakhutdinov|[Reasoning over Logically Interacted Conditions for Question Answering](http://arxiv.org/abs/2205.12898v1)|2022-05-25 16:41:39+00:00|25-05-2022
+Navid Azizan|[Mirror Descent Maximizes Generalized Margin and Can Be Implemented   Efficiently](http://arxiv.org/abs/2205.12808v1)|2022-05-25 14:33:13+00:00|25-05-2022
+Esma Balkir|[Does Moral Code Have a Moral Code? Probing Delphi's Moral Philosophy](http://arxiv.org/abs/2205.12771v1)|2022-05-25 13:37:56+00:00|25-05-2022
+Karan Verma|[COVID-19 Severity Classification on Chest X-ray Images](http://arxiv.org/abs/2205.12705v1)|2022-05-25 12:01:03+00:00|25-05-2022
+Ahmed H Elsheikh|[Probabilistic model-error assessment of deep learning proxies: an   application to real-time inversion of borehole electromagnetic measurements](http://arxiv.org/abs/2205.12684v1)|2022-05-25 11:44:48+00:00|25-05-2022
+Adina Williams|[Perturbation Augmentation for Fairer NLP](http://arxiv.org/abs/2205.12586v1)|2022-05-25 09:00:29+00:00|25-05-2022
+Jose Miguel-Alonso|[Towards a Fair Comparison and Realistic Design and Evaluation Framework   of Android Malware Detectors](http://arxiv.org/abs/2205.12569v1)|2022-05-25 08:28:08+00:00|25-05-2022
+Nanyun Peng|[Helpfulness and Fairness of Task-Oriented Dialogue Systems](http://arxiv.org/abs/2205.12554v1)|2022-05-25 07:58:38+00:00|25-05-2022
+Maharshi Gor|[Investigating Information Inconsistency in Multilingual Open-Domain   Question Answering](http://arxiv.org/abs/2205.12456v1)|2022-05-25 02:58:54+00:00|25-05-2022
+Huan Liu|[Toward Understanding Bias Correlations for Mitigation in NLP](http://arxiv.org/abs/2205.12391v1)|2022-05-24 22:48:47+00:00|24-05-2022
+Yingshan Chang|[Toxicity Detection with Generative Prompt-based Inference](http://arxiv.org/abs/2205.12390v1)|2022-05-24 22:44:43+00:00|24-05-2022
+Frederik Mallmann-Trenn|[Beyond Impossibility: Balancing Sufficiency, Separation and Accuracy](http://arxiv.org/abs/2205.12327v1)|2022-05-24 19:14:21+00:00|24-05-2022
+Minjoon Seo|[Beyond Fact Verification: Comparing and Contrasting Claims on   Contentious Topics](http://arxiv.org/abs/2205.12221v1)|2022-05-24 17:29:13+00:00|24-05-2022
+Ronald X. Xu|[Phased Progressive Learning with Coupling-Regulation-Imbalance Loss for   Imbalanced Classification](http://arxiv.org/abs/2205.12117v1)|2022-05-24 14:46:39+00:00|24-05-2022
+Zhi-Qin John Xu|[Empirical Phase Diagram for Three-layer Neural Networks with Infinite   Width](http://arxiv.org/abs/2205.12101v1)|2022-05-24 14:27:31+00:00|24-05-2022
+Marco Spruit|[Bias Discovery in Machine Learning Models for Mental Health](http://arxiv.org/abs/2205.12093v1)|2022-05-24 14:17:26+00:00|24-05-2022
+David A. Clifton|[Deep Reinforcement Learning for Multi-class Imbalanced Training](http://arxiv.org/abs/2205.12070v1)|2022-05-24 13:39:59+00:00|24-05-2022
+Paolo Medagliani|[Graph Convolutional Reinforcement Learning for Collaborative Queuing   Agents](http://arxiv.org/abs/2205.12009v1)|2022-05-24 11:53:20+00:00|24-05-2022
+David Lopez-Paz|[Throwing Away Data Improves Worst-Class Error in Imbalanced   Classification](http://arxiv.org/abs/2205.11672v1)|2022-05-23 23:43:18+00:00|23-05-2022
+Derry Wijaya|[On Measuring Social Biases in Prompt-Based Multi-Task Learning](http://arxiv.org/abs/2205.11605v1)|2022-05-23 20:01:20+00:00|23-05-2022
+Derry Wijaya|[Challenges in Measuring Bias via Open-Ended Language Generation](http://arxiv.org/abs/2205.11601v1)|2022-05-23 19:57:15+00:00|23-05-2022
+Golnoosh Farnadi|[PrivFairFL: Privacy-Preserving Group Fairness in Federated Learning](http://arxiv.org/abs/2205.11584v1)|2022-05-23 19:26:12+00:00|23-05-2022
+Yuan Tian|[Conditional Supervised Contrastive Learning for Fair Text Classification](http://arxiv.org/abs/2205.11485v1)|2022-05-23 17:38:30+00:00|23-05-2022
+Mansoor Yousefi|[Learned Digital Back-Propagation for Dual-Polarization Dispersion   Managed Systems](http://arxiv.org/abs/2205.11376v1)|2022-05-23 15:10:21+00:00|23-05-2022
+Hannah Rose Kirk|[Looking for a Handsome Carpenter! Debiasing GPT-3 Job Advertisements](http://arxiv.org/abs/2205.11374v1)|2022-05-23 15:05:27+00:00|23-05-2022
+Marius Lindauer|[POLTER: Policy Trajectory Ensemble Regularization for Unsupervised   Reinforcement Learning](http://arxiv.org/abs/2205.11357v1)|2022-05-23 14:42:38+00:00|23-05-2022
+Christopher L Buckley|[RL with KL penalties is better viewed as Bayesian inference](http://arxiv.org/abs/2205.11275v1)|2022-05-23 12:47:13+00:00|23-05-2022
+Shaogang Gong|[Feature-Distribution Perturbation and Calibration for Generalized Person   ReID](http://arxiv.org/abs/2205.11197v1)|2022-05-23 11:06:12+00:00|23-05-2022
+Javier Del Ser|[An Evaluation Study of Intrinsic Motivation Techniques applied to   Reinforcement Learning over Hard Exploration Environments](http://arxiv.org/abs/2205.11184v1)|2022-05-23 10:36:05+00:00|23-05-2022
+Sunghoon Im|[MonoFormer: Towards Generalization of self-supervised monocular depth   estimation with Transformers](http://arxiv.org/abs/2205.11083v1)|2022-05-23 06:56:25+00:00|23-05-2022
+Nikolaus Correll|[Toward smart composites: small-scale, untethered prediction and control   for soft sensor/actuator systems](http://arxiv.org/abs/2205.10940v1)|2022-05-22 22:19:09+00:00|22-05-2022
+L. Elisa Celis|[Addressing Strategic Manipulation Disparities in Fair Classification](http://arxiv.org/abs/2205.10842v1)|2022-05-22 14:59:40+00:00|22-05-2022
+Bela Gipp|[A Domain-adaptive Pre-training Approach for Language Bias Detection in   News](http://arxiv.org/abs/2205.10773v1)|2022-05-22 08:18:19+00:00|22-05-2022
+Joseph Teran|[A Deep Gradient Correction Method for Iteratively Solving Linear Systems](http://arxiv.org/abs/2205.10763v1)|2022-05-22 06:40:38+00:00|22-05-2022
+Koustuv Sinha|[How sensitive are translation systems to extra contexts? Mitigating   gender bias in Neural Machine Translation models through relevant contexts](http://arxiv.org/abs/2205.10762v1)|2022-05-22 06:31:54+00:00|22-05-2022
+Kai Li|[Multi-Agent Feedback Enabled Neural Networks for Intelligent   Communications](http://arxiv.org/abs/2205.10750v1)|2022-05-22 05:28:43+00:00|22-05-2022
+Taco Cohen|[Equivariant Mesh Attention Networks](http://arxiv.org/abs/2205.10662v1)|2022-05-21 19:53:14+00:00|21-05-2022
+Hao Wang|[Theoretically Accurate Regularization Technique for Matrix Factorization   based Recommender Systems](http://arxiv.org/abs/2205.10492v1)|2022-05-21 02:54:50+00:00|21-05-2022
+
 ## 24-05-2022
 
 main_author|title|update_date|publish_date

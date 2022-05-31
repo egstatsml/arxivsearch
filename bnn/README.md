@@ -1,5 +1,45 @@
 # bnn
 Click on title for link to paper
+## 31-05-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Michael Milford|[Improving Road Segmentation in Challenging Domains Using Similar Place   Priors](http://arxiv.org/abs/2205.14112v1)|2022-05-27 17:22:52+00:00|27-05-2022
+Yingzhen Yang|[Bayesian Robust Graph Contrastive Learning](http://arxiv.org/abs/2205.14109v1)|2022-05-27 17:21:17+00:00|27-05-2022
+Peter Wonka|[3DILG: Irregular Latent Grids for 3D Generative Modeling](http://arxiv.org/abs/2205.13914v1)|2022-05-27 11:29:52+00:00|27-05-2022
+Thomas Hofmann|[How Tempering Fixes Data Augmentation in Bayesian Neural Networks](http://arxiv.org/abs/2205.13900v1)|2022-05-27 11:06:56+00:00|27-05-2022
+Andrea Pilzer|[A Look at Improving Robustness in Visual-inertial SLAM by Moment   Matching](http://arxiv.org/abs/2205.13821v1)|2022-05-27 08:22:03+00:00|27-05-2022
+Cosma Rohilla Shalizi|[Characterizing the robustness of Bayesian adaptive experimental designs   to active learning bias](http://arxiv.org/abs/2205.13698v1)|2022-05-27 01:23:11+00:00|27-05-2022
+Ali Baheri|[Fast variable selection makes scalable Gaussian process BSS-ANOVA a   speedy and accurate choice for tabular and time series regression](http://arxiv.org/abs/2205.13676v1)|2022-05-26 23:41:43+00:00|26-05-2022
+Lorenzo Rimella|[Consistent and fast inference in compartmental models of epidemics using   Poisson Approximate Likelihoods](http://arxiv.org/abs/2205.13602v1)|2022-05-26 20:19:28+00:00|26-05-2022
+Stefano Ermon|[Training and Inference on Any-Order Autoregressive Models the Right Way](http://arxiv.org/abs/2205.13554v1)|2022-05-26 18:00:02+00:00|26-05-2022
+J. L. Peterson|[Transfer learning driven design optimization for inertial confinement   fusion](http://arxiv.org/abs/2205.13519v1)|2022-05-26 17:38:57+00:00|26-05-2022
+Cesare Alippi|[Sparse Graph Learning for Spatiotemporal Time Series](http://arxiv.org/abs/2205.13492v1)|2022-05-26 17:02:43+00:00|26-05-2022
+Wuchen Li|[Optimal Neural Network Approximation of Wasserstein Gradient Direction   via Convex Optimization](http://arxiv.org/abs/2205.13098v1)|2022-05-26 00:51:12+00:00|26-05-2022
+Shireen Elhabian|[RENs: Relevance Encoding Networks](http://arxiv.org/abs/2205.13061v1)|2022-05-25 21:53:48+00:00|25-05-2022
+Abdoulaye Baniré Diallo|[EvoVGM: A Deep Variational Generative Model for Evolutionary Parameter   Estimation](http://arxiv.org/abs/2205.13034v1)|2022-05-25 20:08:10+00:00|25-05-2022
+Bohdan M. Pavlyshenko|[Analytics of Business Time Series Using Machine Learning and Bayesian   Inference](http://arxiv.org/abs/2205.12905v1)|2022-05-25 16:51:09+00:00|25-05-2022
+Sarem Seitz|[Gradient-based explanations for Gaussian Process regression and   classification models](http://arxiv.org/abs/2205.12797v1)|2022-05-25 14:11:00+00:00|25-05-2022
+Beate Sick|[Deep interpretable ensembles](http://arxiv.org/abs/2205.12729v1)|2022-05-25 12:39:39+00:00|25-05-2022
+Ahmed H Elsheikh|[Probabilistic model-error assessment of deep learning proxies: an   application to real-time inversion of borehole electromagnetic measurements](http://arxiv.org/abs/2205.12684v1)|2022-05-25 11:44:48+00:00|25-05-2022
+Bo Dai|[Accelerating Diffusion Models via Early Stop of the Diffusion Process](http://arxiv.org/abs/2205.12524v2)|2022-05-30 03:13:08+00:00|25-05-2022
+Masahito Ueda|[Exact Phase Transitions in Deep Learning](http://arxiv.org/abs/2205.12510v1)|2022-05-25 06:00:34+00:00|25-05-2022
+Jason Eisner|[Active Programming by Example with a Natural Language Prior](http://arxiv.org/abs/2205.12422v1)|2022-05-25 00:35:12+00:00|25-05-2022
+Yoshinobu Hagiwara|[Emergent Communication through Metropolis-Hastings Naming Game with Deep   Generative Models](http://arxiv.org/abs/2205.12392v1)|2022-05-24 22:49:53+00:00|24-05-2022
+Aigerim Zhuman|[A Quadrature Rule combining Control Variates and Adaptive Importance   Sampling](http://arxiv.org/abs/2205.11890v1)|2022-05-24 08:21:45+00:00|24-05-2022
+Niraj K. Jha|[FlexiBERT: Are Current Transformer Architectures too Homogeneous and   Rigid?](http://arxiv.org/abs/2205.11656v1)|2022-05-23 22:44:34+00:00|23-05-2022
+David Barber|[Generalization Gap in Amortized Inference](http://arxiv.org/abs/2205.11640v1)|2022-05-23 21:28:47+00:00|23-05-2022
+Alexandros Iosifidis|[Quasi Black-Box Variational Inference with Natural Gradients for   Bayesian Learning](http://arxiv.org/abs/2205.11568v1)|2022-05-23 18:54:27+00:00|23-05-2022
+Michał Narajewski|[Probabilistic forecasting of German electricity imbalance prices](http://arxiv.org/abs/2205.11439v1)|2022-05-23 16:32:20+00:00|23-05-2022
+Masahiro Kanazaki|[Robust Constrained Multi-objective Evolutionary Algorithm based on   Polynomial Chaos Expansion for Trajectory Optimization](http://arxiv.org/abs/2205.11387v1)|2022-05-23 15:33:05+00:00|23-05-2022
+Christopher L Buckley|[RL with KL penalties is better viewed as Bayesian inference](http://arxiv.org/abs/2205.11275v1)|2022-05-23 12:47:13+00:00|23-05-2022
+Pablo Lemos|[Split personalities in Bayesian Neural Networks: the case for full   marginalisation](http://arxiv.org/abs/2205.11151v1)|2022-05-23 09:24:37+00:00|23-05-2022
+Xuanyu Ye|[Flexible and Hierarchical Prior for Bayesian Nonnegative Matrix   Factorization](http://arxiv.org/abs/2205.11025v1)|2022-05-23 03:51:55+00:00|23-05-2022
+Amanda Muyskens|[Fast Gaussian Process Posterior Mean Prediction via Local Cross   Validation and Precomputation](http://arxiv.org/abs/2205.10879v1)|2022-05-22 17:38:36+00:00|22-05-2022
+Draguna Vrabie|[Neural Lyapunov Differentiable Predictive Control](http://arxiv.org/abs/2205.10728v1)|2022-05-22 03:52:27+00:00|22-05-2022
+Penousal Machado|[Probabilistic Structured Grammatical Evolution](http://arxiv.org/abs/2205.10685v1)|2022-05-21 22:29:10+00:00|21-05-2022
+Liang Zhao|[Temporal Domain Generalization with Drift-Aware Dynamic Neural Network](http://arxiv.org/abs/2205.10664v1)|2022-05-21 20:01:31+00:00|21-05-2022
+
 ## 24-05-2022
 
 main_author|title|update_date|publish_date

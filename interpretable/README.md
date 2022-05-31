@@ -1,5 +1,22 @@
 # interpretable
 Click on title for link to paper
+## 31-05-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Suhang Wang|[On Consistency in Graph Neural Network Interpretation](http://arxiv.org/abs/2205.13733v1)|2022-05-27 02:58:07+00:00|27-05-2022
+Gugan Thoppe|[Approximate Q-learning and SARSA(0) under the $ε$-greedy Policy:   a Differential Inclusion Analysis](http://arxiv.org/abs/2205.13617v1)|2022-05-26 20:46:01+00:00|26-05-2022
+Xiaoying Tang|[FedAug: Reducing the Local Learning Bias Improves Federated Learning on   Heterogeneous Data](http://arxiv.org/abs/2205.13462v2)|2022-05-27 09:57:25+00:00|26-05-2022
+Jing Xiao|[Leveraging Causal Inference for Explainable Automatic Program Repair](http://arxiv.org/abs/2205.13342v1)|2022-05-26 13:25:33+00:00|26-05-2022
+Roger Wattenhofer|[DT+GNN: A Fully Explainable Graph Neural Network using Decision Trees](http://arxiv.org/abs/2205.13234v1)|2022-05-26 09:01:50+00:00|26-05-2022
+Sarem Seitz|[Gradient-based explanations for Gaussian Process regression and   classification models](http://arxiv.org/abs/2205.12797v1)|2022-05-25 14:11:00+00:00|25-05-2022
+Xiang Ren|[ER-TEST: Evaluating Explanation Regularization Methods for NLP Models](http://arxiv.org/abs/2205.12542v1)|2022-05-25 07:31:43+00:00|25-05-2022
+Lifu Huang|[End-to-End Multimodal Fact-Checking and Explanation Generation: A   Challenging Dataset and Models](http://arxiv.org/abs/2205.12487v1)|2022-05-25 04:36:46+00:00|25-05-2022
+Art B. Owen|[Deletion and Insertion Tests in Regression Models](http://arxiv.org/abs/2205.12423v1)|2022-05-25 00:55:47+00:00|25-05-2022
+Marzieh Saeidi|[Policy Compliance Detection via Expression Tree Inference](http://arxiv.org/abs/2205.12259v1)|2022-05-24 17:59:31+00:00|24-05-2022
+Pablo Lemos|[Split personalities in Bayesian Neural Networks: the case for full   marginalisation](http://arxiv.org/abs/2205.11151v1)|2022-05-23 09:24:37+00:00|23-05-2022
+Walid Saad|[Neuro-Symbolic Artificial Intelligence (AI) for Intent based Semantic   Communication](http://arxiv.org/abs/2205.10768v1)|2022-05-22 07:11:57+00:00|22-05-2022
+
 ## 24-05-2022
 
 main_author|title|update_date|publish_date
