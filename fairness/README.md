@@ -1,5 +1,76 @@
 # fairness
 Click on title for link to paper
+## 07-06-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Jianling Sun|[Scalar is Not Enough: Vectorization-based Unbiased Learning to Rank](http://arxiv.org/abs/2206.01702v1)|2022-06-03 17:23:25+00:00|03-06-2022
+Aylin Caliskan|[Measuring Gender Bias in Word Embeddings of Gendered Languages Requires   Disentangling Grammatical Gender Signals](http://arxiv.org/abs/2206.01691v1)|2022-06-03 17:11:00+00:00|03-06-2022
+Sonali Agarwal|[Impact of the composition of feature extraction and class sampling in   medicare fraud detection](http://arxiv.org/abs/2206.01413v1)|2022-06-03 06:57:08+00:00|03-06-2022
+Kallol Roy|[Fair Classification via Transformer Neural Networks: Case Study of an   Educational Domain](http://arxiv.org/abs/2206.01410v1)|2022-06-03 06:34:16+00:00|03-06-2022
+Reinhard Heckel|[Regularization-wise double descent: Why it occurs and how to eliminate   it](http://arxiv.org/abs/2206.01378v1)|2022-06-03 03:23:58+00:00|03-06-2022
+Adam Wierman|[Equipping Black-Box Policies with Model-Based Advice for Stable   Nonlinear Control](http://arxiv.org/abs/2206.01341v1)|2022-06-02 23:51:30+00:00|02-06-2022
+Tobias Weyand|[Improving Fairness in Large-Scale Object Recognition by CrowdSourced   Demographic Information](http://arxiv.org/abs/2206.01326v1)|2022-06-02 22:55:10+00:00|02-06-2022
+Fei Yang|[Learning Unbiased Transferability for Domain Adaptation by Uncertainty   Modeling](http://arxiv.org/abs/2206.01319v1)|2022-06-02 21:58:54+00:00|02-06-2022
+Gintare Karolina Dziugaite|[Lottery Tickets on a Data Diet: Finding Initializations with Sparse   Trainable Networks](http://arxiv.org/abs/2206.01278v1)|2022-06-02 20:04:06+00:00|02-06-2022
+Sepp Hochreiter|[Entangled Residual Mappings](http://arxiv.org/abs/2206.01261v1)|2022-06-02 19:36:03+00:00|02-06-2022
+Yuhai Tu|[Stochastic gradient descent introduces an effective landscape-dependent   regularization favoring flat solutions](http://arxiv.org/abs/2206.01246v1)|2022-06-02 18:49:36+00:00|02-06-2022
+Berk Ustun|[Predictive Multiplicity in Probabilistic Classification](http://arxiv.org/abs/2206.01131v1)|2022-06-02 16:25:29+00:00|02-06-2022
+the RADAR-CNS Consortium|[Detecting the Severity of Major Depressive Disorder from Speech: A Novel   HARD-Training Methodology](http://arxiv.org/abs/2206.01542v1)|2022-06-02 13:26:03+00:00|02-06-2022
+Nicolas Flammarion|[Gradient flow dynamics of shallow ReLU networks for square loss and   orthogonal inputs](http://arxiv.org/abs/2206.00939v1)|2022-06-02 09:01:25+00:00|02-06-2022
+Ravishankar K. Iyer|[Watch Out for the Safety-Threatening Actors: Proactively Mitigating   Safety Hazards](http://arxiv.org/abs/2206.00886v1)|2022-06-02 05:56:25+00:00|02-06-2022
+Yaniv Romano|[Coordinated Double Machine Learning](http://arxiv.org/abs/2206.00885v1)|2022-06-02 05:56:21+00:00|02-06-2022
+Stan Z. Li|[Hyperspherical Consistency Regularization](http://arxiv.org/abs/2206.00845v1)|2022-06-02 02:41:13+00:00|02-06-2022
+R. Srikant|[Finite-Time Analysis of Entropy-Regularized Neural Natural Actor-Critic   Algorithm](http://arxiv.org/abs/2206.00833v1)|2022-06-02 02:13:29+00:00|02-06-2022
+Salim El Rouayheb|[Walk for Learning: A Random Walk Approach for Federated Learning from   Heterogeneous Data](http://arxiv.org/abs/2206.00737v1)|2022-06-01 19:53:24+00:00|01-06-2022
+Jana Diesner|[What Changed? Investigating Debiasing Methods using Causal Mediation   Analysis](http://arxiv.org/abs/2206.00701v1)|2022-06-01 18:26:24+00:00|01-06-2022
+Ruoqing Zhu|[Calibrate and Debias Layer-wise Sampling for Graph Convolutional   Networks](http://arxiv.org/abs/2206.00583v1)|2022-06-01 15:52:06+00:00|01-06-2022
+Liang Wang|[RMT-Net: Reject-aware Multi-Task Network for Modeling   Missing-not-at-random Data in Financial Credit Scoring](http://arxiv.org/abs/2206.00568v1)|2022-06-01 15:29:31+00:00|01-06-2022
+Golnoosh Farnadi|[FETA: Fairness Enforced Verifying, Training, and Predicting Algorithms   for Neural Networks](http://arxiv.org/abs/2206.00553v1)|2022-06-01 15:06:11+00:00|01-06-2022
+Jingzhao Zhang|[Realistic Deep Learning May Not Fit Benignly](http://arxiv.org/abs/2206.00501v1)|2022-06-01 14:00:37+00:00|01-06-2022
+Lamberto Ballan|[Where are my Neighbors? Exploiting Patches Relations in Self-Supervised   Vision Transformer](http://arxiv.org/abs/2206.00481v1)|2022-06-01 13:25:32+00:00|01-06-2022
+Fabien Gaire|[A comparative study between vision transformers and CNNs in digital   pathology](http://arxiv.org/abs/2206.00389v1)|2022-06-01 10:41:11+00:00|01-06-2022
+Heechul Jung|[Fair Comparison between Efficient Attentions](http://arxiv.org/abs/2206.00244v1)|2022-06-01 06:00:13+00:00|01-06-2022
+Kuldeep S. Meel|[How Biased is Your Feature?: Computing Fairness Influence Functions with   Global Sensitivity Analysis](http://arxiv.org/abs/2206.00667v1)|2022-06-01 04:02:16+00:00|01-06-2022
+Emre Neftci|[A Theoretical Framework for Inference Learning](http://arxiv.org/abs/2206.00164v1)|2022-06-01 00:38:55+00:00|01-06-2022
+Parinaz Naghizadeh|[Social Bias Meets Data Bias: The Impacts of Labeling and Measurement   Errors on Fairness Criteria](http://arxiv.org/abs/2206.00137v1)|2022-05-31 22:43:09+00:00|31-05-2022
+Yang Liu|[Fairness Transferability Subject to Bounded Distribution Shift](http://arxiv.org/abs/2206.00129v1)|2022-05-31 22:16:44+00:00|31-05-2022
+Genevera I Allen|[To the Fairness Frontier and Beyond: Identifying, Quantifying, and   Optimizing the Fairness-Accuracy Pareto Frontier](http://arxiv.org/abs/2206.00074v1)|2022-05-31 19:35:53+00:00|31-05-2022
+Mohsen Amini Salehi|[FELARE: Fair Scheduling of Machine Learning Applications on   Heterogeneous Edge Systems](http://arxiv.org/abs/2206.00065v1)|2022-05-31 19:19:40+00:00|31-05-2022
+Diego Dujovne|[A deep learning approach to halo merger tree construction](http://arxiv.org/abs/2205.15988v1)|2022-05-31 17:45:42+00:00|31-05-2022
+Ana IL Namburete|[FedHarmony: Unlearning Scanner Bias with Distributed Data](http://arxiv.org/abs/2205.15970v1)|2022-05-31 17:19:47+00:00|31-05-2022
+Shubhashis Sengupta|[Hollywood Identity Bias Dataset: A Context Oriented Bias Analysis of   Movie Dialogues](http://arxiv.org/abs/2205.15951v2)|2022-06-01 05:43:53+00:00|31-05-2022
+Luca Saglietti|[Inducing bias is simpler than you think](http://arxiv.org/abs/2205.15935v1)|2022-05-31 16:27:57+00:00|31-05-2022
+Kyung-Min Kim|[VQ-AR: Vector Quantized Autoregressive Probabilistic Time Series   Forecasting](http://arxiv.org/abs/2205.15894v1)|2022-05-31 15:43:46+00:00|31-05-2022
+Oluwasanmi Koyejo|[A Reduction to Binary Approach for Debiasing Multiclass Datasets](http://arxiv.org/abs/2205.15860v1)|2022-05-31 15:11:41+00:00|31-05-2022
+Benjamin B. Seiler|[Variable importance without impossible data](http://arxiv.org/abs/2205.15750v1)|2022-05-31 12:36:18+00:00|31-05-2022
+Se-young Yun|[Mitigating Dataset Bias by Using Per-sample Gradient](http://arxiv.org/abs/2205.15704v1)|2022-05-31 11:41:02+00:00|31-05-2022
+Mehmet Bilal Er|[Sub-Image Histogram Equalization using Coot Optimization Algorithm for   Segmentation and Parameter Selection](http://arxiv.org/abs/2205.15565v1)|2022-05-31 06:51:45+00:00|31-05-2022
+Vladimir Cherkassky|[VC Theoretical Explanation of Double Descent](http://arxiv.org/abs/2205.15549v1)|2022-05-31 05:50:02+00:00|31-05-2022
+Bo Li|[Certifying Some Distributional Fairness with Subpopulation Decomposition](http://arxiv.org/abs/2205.15494v1)|2022-05-31 01:17:50+00:00|31-05-2022
+Thorsten Joachims|[Fairness in the First Stage of Two-Stage Recommender Systems](http://arxiv.org/abs/2205.15436v2)|2022-06-02 12:50:37+00:00|30-05-2022
+Satoshi Hara|[Fooling SHAP with Stealthily Biased Sampling](http://arxiv.org/abs/2205.15419v1)|2022-05-30 20:33:46+00:00|30-05-2022
+Frederick Tung|[RankSim: Ranking Similarity Regularization for Deep Imbalanced   Regression](http://arxiv.org/abs/2205.15236v1)|2022-05-30 16:51:25+00:00|30-05-2022
+Qinggang Meng|[Do Deep Neural Networks Always Perform Better When Eating More Data?](http://arxiv.org/abs/2205.15187v1)|2022-05-30 15:40:33+00:00|30-05-2022
+Navid Rekabsaz|[Parameter Efficient Diff Pruning for Bias Mitigation](http://arxiv.org/abs/2205.15171v1)|2022-05-30 15:21:25+00:00|30-05-2022
+Daniel Kuhn|[Metrizing Fairness](http://arxiv.org/abs/2205.15049v2)|2022-06-02 07:52:03+00:00|30-05-2022
+Wojciech Samek|[FedAUXfdp: Differentially Private One-Shot Federated Distillation](http://arxiv.org/abs/2205.14960v1)|2022-05-30 09:57:33+00:00|30-05-2022
+Zhiping Lin|[ACIL: Analytic Class-Incremental Learning with Absolute Memorization and   Privacy Protection](http://arxiv.org/abs/2205.14922v1)|2022-05-30 08:41:56+00:00|30-05-2022
+Jeffrey Pennington|[Precise Learning Curves and Higher-Order Scaling Limits for Dot Product   Kernel Regression](http://arxiv.org/abs/2205.14846v1)|2022-05-30 04:21:31+00:00|30-05-2022
+Weiran Huang|[Your Contrastive Learning Is Secretly Doing Stochastic Neighbor   Embedding](http://arxiv.org/abs/2205.14814v1)|2022-05-30 02:39:29+00:00|30-05-2022
+Yoshua Bengio|[Temporal Latent Bottleneck: Synthesis of Fast and Slow Processing   Mechanisms in Sequence Learning](http://arxiv.org/abs/2205.14794v1)|2022-05-30 00:12:33+00:00|30-05-2022
+Chenang Liu|[A Generative Adversarial Network-based Selective Ensemble   Characteristic-to-Expression Synthesis (SE-CTES) Approach and Its   Applications in Healthcare](http://arxiv.org/abs/2205.14751v1)|2022-05-29 19:52:39+00:00|29-05-2022
+Tianyu Wang|[Stochastic Zeroth Order Gradient and Hessian Estimators: Variance   Reduction and Refined Bias Bounds](http://arxiv.org/abs/2205.14737v1)|2022-05-29 18:53:24+00:00|29-05-2022
+Luyao Zhang|[What are People Talking about in #BackLivesMatter and #StopAsianHate?   Exploring and Categorizing Twitter Topics Emerging in Online Social Movements   through the Latent Dirichlet Allocation Model](http://arxiv.org/abs/2205.14725v1)|2022-05-29 17:29:40+00:00|29-05-2022
+Giulia Prando|[Generalization bounds and algorithms for estimating conditional average   treatment effect of dosage](http://arxiv.org/abs/2205.14692v1)|2022-05-29 15:26:59+00:00|29-05-2022
+Chang Xu|[Masked Distillation with Receptive Tokens](http://arxiv.org/abs/2205.14589v1)|2022-05-29 07:32:00+00:00|29-05-2022
+Thibaut Vidal|[Optimal Decision Diagrams for Classification](http://arxiv.org/abs/2205.14500v1)|2022-05-28 18:31:23+00:00|28-05-2022
+Jun Zhou|[BadDet: Backdoor Attacks on Object Detection](http://arxiv.org/abs/2205.14497v1)|2022-05-28 18:02:11+00:00|28-05-2022
+Eric J. Hunter|[SuperVoice: Text-Independent Speaker Verification Using Ultrasound   Energy in Human Speech](http://arxiv.org/abs/2205.14496v1)|2022-05-28 18:00:50+00:00|28-05-2022
+Yang You|[Divide to Adapt: Mitigating Confirmation Bias for Domain Adaptation of   Black-Box Predictors](http://arxiv.org/abs/2205.14467v1)|2022-05-28 16:00:44+00:00|28-05-2022
+Brian Brubach|[Fair Labeled Clustering](http://arxiv.org/abs/2205.14358v1)|2022-05-28 07:07:12+00:00|28-05-2022
+Alex Townsend|[A Quadrature Perspective on Frequency Bias in Neural Network Training   with Nonuniform Data](http://arxiv.org/abs/2205.14300v1)|2022-05-28 02:31:19+00:00|28-05-2022
+
 ## 31-05-2022
 
 main_author|title|update_date|publish_date

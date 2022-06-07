@@ -1,5 +1,17 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
+Andreas Krause|[BaCaDI: Bayesian Causal Discovery with Unknown Interventions](http://arxiv.org/abs/2206.01665v1)|2022-06-03 16:25:48+00:00|03-06-2022
+Jorge Goncalves|[Bayesian Inference of Stochastic Dynamical Networks](http://arxiv.org/abs/2206.00858v1)|2022-06-02 03:22:34+00:00|02-06-2022
+Scott Niekum|[Know Your Boundaries: The Necessity of Explicit Behavioral Cloning in   Offline RL](http://arxiv.org/abs/2206.00695v1)|2022-06-01 18:04:43+00:00|01-06-2022
+Leonardo Amaral Mozelli|[Robust Longitudinal Control for Vehicular Autonomous Platoons Using Deep   Reinforcement Learning](http://arxiv.org/abs/2206.01175v1)|2022-05-31 20:38:12+00:00|31-05-2022
+Jimmy Ba|[You Can't Count on Luck: Why Decision Transformers Fail in Stochastic   Environments](http://arxiv.org/abs/2205.15967v1)|2022-05-31 17:15:44+00:00|31-05-2022
+David Parker|[Robust Anytime Learning of Markov Decision Processes](http://arxiv.org/abs/2205.15827v1)|2022-05-31 14:29:55+00:00|31-05-2022
+James Zhang|[A Meta Reinforcement Learning Approach for Predictive Autoscaling in the   Cloud](http://arxiv.org/abs/2205.15795v1)|2022-05-31 13:54:04+00:00|31-05-2022
+Jinpu Zhou|[Infinite-dimensional optimization and Bayesian nonparametric learning of   stochastic differential equations](http://arxiv.org/abs/2205.15368v1)|2022-05-30 18:22:47+00:00|30-05-2022
+Zixiao Xiang|[GAN-based Medical Image Small Region Forgery Detection via a Two-Stage   Cascade Framework](http://arxiv.org/abs/2205.15170v1)|2022-05-30 15:21:09+00:00|30-05-2022
+Daniel Hernández-Lobato|[Efficient Transformed Gaussian Processes for Non-Stationary Dependent   Multi-class Classification](http://arxiv.org/abs/2205.15008v1)|2022-05-30 11:46:23+00:00|30-05-2022
+Marius Schubert|[Uncertainty Quantification and Resource-Demanding Computer Vision   Applications of Deep Learning](http://arxiv.org/abs/2205.14917v1)|2022-05-30 08:31:03+00:00|30-05-2022
+---|---|---|---
 Cosma Rohilla Shalizi|[Characterizing the robustness of Bayesian adaptive experimental designs   to active learning bias](http://arxiv.org/abs/2205.13698v1)|2022-05-27 01:23:11+00:00|27-05-2022
 Julian Carvajal Rico|[A Model Predictive Control Functional Continuous Time Bayesian Network   for Self-Management of Multiple Chronic Conditions](http://arxiv.org/abs/2205.13639v1)|2022-05-26 21:28:25+00:00|26-05-2022
 Tianqi Chen|[Tensor Program Optimization with Probabilistic Programs](http://arxiv.org/abs/2205.13603v1)|2022-05-26 20:20:02+00:00|26-05-2022

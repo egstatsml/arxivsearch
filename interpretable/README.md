@@ -1,5 +1,20 @@
 # interpretable
 Click on title for link to paper
+## 07-06-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Stefan Wagner|[Can Requirements Engineering Support Explainable Artificial   Intelligence? Towards a User-Centric Approach for Explainability Requirements](http://arxiv.org/abs/2206.01507v1)|2022-06-03 11:17:41+00:00|03-06-2022
+Reinhard Heckel|[Regularization-wise double descent: Why it occurs and how to eliminate   it](http://arxiv.org/abs/2206.01378v1)|2022-06-03 03:23:58+00:00|03-06-2022
+Michael T. Lash|[HEX: Human-in-the-loop Explainability via Deep Reinforcement Learning](http://arxiv.org/abs/2206.01343v1)|2022-06-02 23:53:40+00:00|02-06-2022
+Guillaume Lajoie|[Beyond accuracy: generalization properties of bio-plausible temporal   credit assignment rules](http://arxiv.org/abs/2206.00823v1)|2022-06-02 01:39:08+00:00|02-06-2022
+Amulya Yadav|[RoCourseNet: Distributionally Robust Training of a Prediction Aware   Recourse Model](http://arxiv.org/abs/2206.00700v1)|2022-06-01 18:18:18+00:00|01-06-2022
+Christian Daul|[Interpretable Deep Learning Classifier by Detection of Prototypical   Parts on Kidney Stones Images](http://arxiv.org/abs/2206.00252v2)|2022-06-02 03:06:35+00:00|01-06-2022
+Tim van Erven|[Attribution-based Explanations that Provide Recourse Cannot be Robust](http://arxiv.org/abs/2205.15834v1)|2022-05-31 14:37:39+00:00|31-05-2022
+Vladimir Cherkassky|[VC Theoretical Explanation of Double Descent](http://arxiv.org/abs/2205.15549v1)|2022-05-31 05:50:02+00:00|31-05-2022
+Hung-yi Lee|[Searching for the Essence of Adversarial Perturbations](http://arxiv.org/abs/2205.15357v1)|2022-05-30 18:04:57+00:00|30-05-2022
+Taiji Suzuki|[Excess Risk of Two-Layer ReLU Neural Networks in Teacher-Student   Settings and its Superiority to Kernel Methods](http://arxiv.org/abs/2205.14818v2)|2022-06-06 14:29:46+00:00|30-05-2022
+
 ## 31-05-2022
 
 main_author|title|update_date|publish_date
