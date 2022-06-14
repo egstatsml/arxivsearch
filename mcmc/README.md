@@ -1,5 +1,16 @@
 # mcmc
 Click on title for link to paper
+## 14-06-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Roman Klinger|[Dimensional Modeling of Emotions in Text with Appraisal Theories: Corpus   Creation, Annotation Reliability, and Prediction](http://arxiv.org/abs/2206.05238v2)|2022-06-13 15:46:03+00:00|10-06-2022
+Fergus Simpson|[Neural Diffusion Processes](http://arxiv.org/abs/2206.03992v1)|2022-06-08 16:13:04+00:00|08-06-2022
+Alain Durmus|[FedPop: A Bayesian Approach for Personalised Federated Learning](http://arxiv.org/abs/2206.03611v1)|2022-06-07 22:52:59+00:00|07-06-2022
+Xiaoming Xue|[Data-driven evolutionary algorithm for oil reservoir well-placement and   control optimization](http://arxiv.org/abs/2206.03127v1)|2022-06-07 09:07:49+00:00|07-06-2022
+Michel Besserve|[Embrace the Gap: VAEs Perform Independent Mechanism Analysis](http://arxiv.org/abs/2206.02416v1)|2022-06-06 08:19:19+00:00|06-06-2022
+Dinh Phung|[Stochastic Multiple Target Sampling Gradient Descent](http://arxiv.org/abs/2206.01934v2)|2022-06-12 17:19:29+00:00|04-06-2022
+
 ## 07-06-2022
 
 main_author|title|update_date|publish_date

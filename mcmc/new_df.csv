@@ -1,13 +1,8 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
-Andreas Krause|[BaCaDI: Bayesian Causal Discovery with Unknown Interventions](http://arxiv.org/abs/2206.01665v1)|2022-06-03 16:25:48+00:00|03-06-2022
-Jorge Goncalves|[Bayesian Inference of Stochastic Dynamical Networks](http://arxiv.org/abs/2206.00858v1)|2022-06-02 03:22:34+00:00|02-06-2022
-Scott Niekum|[Know Your Boundaries: The Necessity of Explicit Behavioral Cloning in   Offline RL](http://arxiv.org/abs/2206.00695v1)|2022-06-01 18:04:43+00:00|01-06-2022
-Leonardo Amaral Mozelli|[Robust Longitudinal Control for Vehicular Autonomous Platoons Using Deep   Reinforcement Learning](http://arxiv.org/abs/2206.01175v1)|2022-05-31 20:38:12+00:00|31-05-2022
-Jimmy Ba|[You Can't Count on Luck: Why Decision Transformers Fail in Stochastic   Environments](http://arxiv.org/abs/2205.15967v1)|2022-05-31 17:15:44+00:00|31-05-2022
-David Parker|[Robust Anytime Learning of Markov Decision Processes](http://arxiv.org/abs/2205.15827v1)|2022-05-31 14:29:55+00:00|31-05-2022
-James Zhang|[A Meta Reinforcement Learning Approach for Predictive Autoscaling in the   Cloud](http://arxiv.org/abs/2205.15795v1)|2022-05-31 13:54:04+00:00|31-05-2022
-Jinpu Zhou|[Infinite-dimensional optimization and Bayesian nonparametric learning of   stochastic differential equations](http://arxiv.org/abs/2205.15368v1)|2022-05-30 18:22:47+00:00|30-05-2022
-Zixiao Xiang|[GAN-based Medical Image Small Region Forgery Detection via a Two-Stage   Cascade Framework](http://arxiv.org/abs/2205.15170v1)|2022-05-30 15:21:09+00:00|30-05-2022
-Daniel Hernández-Lobato|[Efficient Transformed Gaussian Processes for Non-Stationary Dependent   Multi-class Classification](http://arxiv.org/abs/2205.15008v1)|2022-05-30 11:46:23+00:00|30-05-2022
-Marius Schubert|[Uncertainty Quantification and Resource-Demanding Computer Vision   Applications of Deep Learning](http://arxiv.org/abs/2205.14917v1)|2022-05-30 08:31:03+00:00|30-05-2022
+Roman Klinger|[Dimensional Modeling of Emotions in Text with Appraisal Theories: Corpus   Creation, Annotation Reliability, and Prediction](http://arxiv.org/abs/2206.05238v2)|2022-06-13 15:46:03+00:00|10-06-2022
+Fergus Simpson|[Neural Diffusion Processes](http://arxiv.org/abs/2206.03992v1)|2022-06-08 16:13:04+00:00|08-06-2022
+Alain Durmus|[FedPop: A Bayesian Approach for Personalised Federated Learning](http://arxiv.org/abs/2206.03611v1)|2022-06-07 22:52:59+00:00|07-06-2022
+Xiaoming Xue|[Data-driven evolutionary algorithm for oil reservoir well-placement and   control optimization](http://arxiv.org/abs/2206.03127v1)|2022-06-07 09:07:49+00:00|07-06-2022
+Michel Besserve|[Embrace the Gap: VAEs Perform Independent Mechanism Analysis](http://arxiv.org/abs/2206.02416v1)|2022-06-06 08:19:19+00:00|06-06-2022
+Dinh Phung|[Stochastic Multiple Target Sampling Gradient Descent](http://arxiv.org/abs/2206.01934v2)|2022-06-12 17:19:29+00:00|04-06-2022

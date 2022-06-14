@@ -1,5 +1,42 @@
 # bnn
 Click on title for link to paper
+## 14-06-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+D. Delgado|[On the safe use of prior densities for Bayesian model selection](http://arxiv.org/abs/2206.05210v1)|2022-06-10 16:17:48+00:00|10-06-2022
+George Stamatescu|[Dynamic mean field programming](http://arxiv.org/abs/2206.05200v1)|2022-06-10 15:57:23+00:00|10-06-2022
+Boris Köpf|[Bayesian Estimation of Differential Privacy](http://arxiv.org/abs/2206.05199v1)|2022-06-10 15:57:18+00:00|10-06-2022
+Demian Wassermann|[PAVI: Plate-Amortized Variational Inference](http://arxiv.org/abs/2206.05111v1)|2022-06-10 13:55:19+00:00|10-06-2022
+Vishal M Patel|[Image Generation with Multimodal Priors using Denoising Diffusion   Probabilistic Models](http://arxiv.org/abs/2206.05039v1)|2022-06-10 12:23:05+00:00|10-06-2022
+Fredrik Lindsten|[Scalable Deep Gaussian Markov Random Fields for General Graphs](http://arxiv.org/abs/2206.05032v1)|2022-06-10 12:12:41+00:00|10-06-2022
+Michael A. Osborne|[Fast Bayesian Inference with Batch Bayesian Quadrature via Kernel   Recombination](http://arxiv.org/abs/2206.04734v1)|2022-06-09 19:14:52+00:00|09-06-2022
+Mohamed Chetouani|[Pragmatically Learning from Pedagogical Demonstrations in Multi-Goal   Environments](http://arxiv.org/abs/2206.04546v1)|2022-06-09 14:51:25+00:00|09-06-2022
+U Kang|[Accurate Node Feature Estimation with Structured Variational Graph   Autoencoder](http://arxiv.org/abs/2206.04516v1)|2022-06-09 14:07:45+00:00|09-06-2022
+Vishal M. Patel|[SAR Despeckling using a Denoising Diffusion Probabilistic Model](http://arxiv.org/abs/2206.04514v1)|2022-06-09 14:00:26+00:00|09-06-2022
+Tirza Routtenberg|[Discriminative and Generative Learning for Linear Estimation of Random   Signals [Lecture Notes]](http://arxiv.org/abs/2206.04432v1)|2022-06-09 11:39:41+00:00|09-06-2022
+Xiahai Zhuang|[Joint Modeling of Image and Label Statistics for Enhancing Model   Generalizability of Medical Image Segmentation](http://arxiv.org/abs/2206.04336v1)|2022-06-09 08:31:14+00:00|09-06-2022
+Tommi Jaakkola|[Diffusion probabilistic modeling of protein backbones in 3D for the   motif-scaffolding problem](http://arxiv.org/abs/2206.04119v1)|2022-06-08 18:35:08+00:00|08-06-2022
+Fergus Simpson|[Neural Diffusion Processes](http://arxiv.org/abs/2206.03992v1)|2022-06-08 16:13:04+00:00|08-06-2022
+Benjamin Sapp|[Narrowing the Coordinate-frame Gap in Behavior Prediction Models:   Distillation for Efficient and Accurate Scene-centric Motion Forecasting](http://arxiv.org/abs/2206.03970v2)|2022-06-10 17:44:21+00:00|08-06-2022
+Alain Durmus|[FedPop: A Bayesian Approach for Personalised Federated Learning](http://arxiv.org/abs/2206.03611v1)|2022-06-07 22:52:59+00:00|07-06-2022
+M. Jorge Cardoso|[Fast Unsupervised Brain Anomaly Detection and Segmentation with   Diffusion Models](http://arxiv.org/abs/2206.03461v1)|2022-06-07 17:30:43+00:00|07-06-2022
+Markus Olhofer|[Recent Advances in Bayesian Optimization](http://arxiv.org/abs/2206.03301v1)|2022-06-07 13:47:00+00:00|07-06-2022
+Xiaoming Xue|[Data-driven evolutionary algorithm for oil reservoir well-placement and   control optimization](http://arxiv.org/abs/2206.03127v1)|2022-06-07 09:07:49+00:00|07-06-2022
+Dacheng Tao|[Recent Advances for Quantum Neural Networks in Generative Learning](http://arxiv.org/abs/2206.03066v1)|2022-06-07 07:32:57+00:00|07-06-2022
+Laks VS Lakshmanan|[On Efficient Approximate Queries over Machine Learning Models](http://arxiv.org/abs/2206.02845v2)|2022-06-13 16:57:24+00:00|06-06-2022
+Hongyang R. Zhang|[Robust Fine-Tuning of Deep Neural Networks with Hessian-based   Generalization Guarantees](http://arxiv.org/abs/2206.02659v1)|2022-06-06 14:52:46+00:00|06-06-2022
+Bin Cui|[Transfer Learning based Search Space Design for Hyperparameter Tuning](http://arxiv.org/abs/2206.02511v1)|2022-06-06 11:48:58+00:00|06-06-2022
+Samuel Kaski|[Tackling covariate shift with node-based Bayesian neural networks](http://arxiv.org/abs/2206.02435v2)|2022-06-09 18:20:38+00:00|06-06-2022
+Zhijian Jin|[Continuous and Distribution-free Probabilistic Wind Power Forecasting: A   Conditional Normalizing Flow Approach](http://arxiv.org/abs/2206.02433v1)|2022-06-06 08:48:58+00:00|06-06-2022
+Horia Cucu|[Automated Circuit Sizing with Multi-objective Optimization based on   Differential Evolution and Bayesian Inference](http://arxiv.org/abs/2206.02391v1)|2022-06-06 06:48:45+00:00|06-06-2022
+Xiahai Zhuang|[Bayesian intrinsic groupwise registration via explicit hierarchical   disentanglement](http://arxiv.org/abs/2206.02377v1)|2022-06-06 06:13:24+00:00|06-06-2022
+Jacques Balayla|[Information Threshold, Bayesian Inference and Decision-Making](http://arxiv.org/abs/2206.02266v1)|2022-06-05 20:58:42+00:00|05-06-2022
+Andrew Zammit-Mangion|[Statistical Deep Learning for Spatial and Spatio-Temporal Data](http://arxiv.org/abs/2206.02218v1)|2022-06-05 16:49:10+00:00|05-06-2022
+Ethan Fetaya|[Functional Ensemble Distillation](http://arxiv.org/abs/2206.02183v1)|2022-06-05 14:07:17+00:00|05-06-2022
+Julius von Kügelgen|[Active Bayesian Causal Inference](http://arxiv.org/abs/2206.02063v1)|2022-06-04 22:38:57+00:00|04-06-2022
+Dinh Phung|[Stochastic Multiple Target Sampling Gradient Descent](http://arxiv.org/abs/2206.01934v2)|2022-06-12 17:19:29+00:00|04-06-2022
+
 ## 07-06-2022
 
 main_author|title|update_date|publish_date

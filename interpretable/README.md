@@ -1,5 +1,22 @@
 # interpretable
 Click on title for link to paper
+## 14-06-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Michael Pazzani|[Explaining Image Classifiers Using Contrastive Counterfactuals in   Generative Latent Spaces](http://arxiv.org/abs/2206.05257v1)|2022-06-10 17:54:46+00:00|10-06-2022
+Oliver Speck|[Weakly-supervised segmentation using inherently-explainable   classification models and their application to brain tumour classification](http://arxiv.org/abs/2206.05148v1)|2022-06-10 14:44:05+00:00|10-06-2022
+Shixia Liu|[Diagnosing Ensemble Few-Shot Classifiers](http://arxiv.org/abs/2206.04372v1)|2022-06-09 09:29:18+00:00|09-06-2022
+Md Esharuzzaman Emu|[Predictions of Electromotive Force of Magnetic Shape Memory Alloy (MSMA)   Using Constitutive Model and Generalized Regression Neural Network](http://arxiv.org/abs/2206.03701v1)|2022-06-08 06:38:33+00:00|08-06-2022
+Sebastian Lapuschkin|"[From ""Where"" to ""What"": Towards Human-Understandable Explanations   through Concept Relevance Propagation](http://arxiv.org/abs/2206.03208v1)"|2022-06-07 12:05:58+00:00|07-06-2022
+Suat Ozdemir|[Explainable Artificial Intelligence (XAI) for Internet of Things: A   Survey](http://arxiv.org/abs/2206.04800v1)|2022-06-07 08:22:30+00:00|07-06-2022
+Tamir Hazan|[Dual Decomposition of Convex Optimization Layers for Consistent   Attention in Medical Images](http://arxiv.org/abs/2206.02761v2)|2022-06-07 14:07:51+00:00|06-06-2022
+Phillippa Spencer|[Robust Adversarial Attacks Detection based on Explainable Deep   Reinforcement Learning For UAV Guidance and Planning](http://arxiv.org/abs/2206.02670v2)|2022-06-07 10:18:03+00:00|06-06-2022
+Christian W. Omlin|[Towards Responsible AI for Financial Transactions](http://arxiv.org/abs/2206.02419v1)|2022-06-06 08:29:47+00:00|06-06-2022
+Tat-Seng Chua|[Invariant Grounding for Video Question Answering](http://arxiv.org/abs/2206.02349v1)|2022-06-06 04:37:52+00:00|06-06-2022
+Liz Sonenberg|[Improving Model Understanding and Trust with Counterfactual Explanations   of Model Confidence](http://arxiv.org/abs/2206.02790v1)|2022-06-06 04:04:28+00:00|06-06-2022
+Shahana Akter Luna|[Image Data collection and implementation of deep learning-based model in   detecting Monkeypox disease using modified VGG16](http://arxiv.org/abs/2206.01862v1)|2022-06-04 00:34:15+00:00|04-06-2022
+
 ## 07-06-2022
 
 main_author|title|update_date|publish_date
