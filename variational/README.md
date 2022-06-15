@@ -1,5 +1,14 @@
 # variational
 Click on title for link to paper
+## 15-06-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Jean-Philippe Vert|[Scaling ResNets in the Large-depth Regime](http://arxiv.org/abs/2206.06929v1)|2022-06-14 15:49:10+00:00|14-06-2022
+Dmitry Berenson|[Safe Output Feedback Motion Planning from Images via Learned Perception   Modules and Contraction Theory](http://arxiv.org/abs/2206.06553v1)|2022-06-14 02:03:27+00:00|14-06-2022
+Hongseok Kim|[Markov Chain Score Ascent: A Unifying Framework of Variational Inference   with Markovian Gradients](http://arxiv.org/abs/2206.06295v1)|2022-06-13 16:25:08+00:00|13-06-2022
+Anuradha M. Annaswamy|[PhML-DyR: A Physics-Informed ML framework for Dynamic Reconfiguration in   Power Systems](http://arxiv.org/abs/2206.06789v1)|2022-06-11 16:06:36+00:00|11-06-2022
+
 ## 14-06-2022
 
 main_author|title|update_date|publish_date

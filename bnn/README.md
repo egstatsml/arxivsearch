@@ -1,5 +1,26 @@
 # bnn
 Click on title for link to paper
+## 15-06-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Jean-Philippe Vert|[Scaling ResNets in the Large-depth Regime](http://arxiv.org/abs/2206.06929v1)|2022-06-14 15:49:10+00:00|14-06-2022
+Daniel Hernández-Lobato|[Deep Variational Implicit Processes](http://arxiv.org/abs/2206.06720v1)|2022-06-14 10:04:41+00:00|14-06-2022
+Volodymyr Kuleshov|[Energy Flows: Towards Determinant-Free Training of Normalizing Flows](http://arxiv.org/abs/2206.06672v1)|2022-06-14 08:01:08+00:00|14-06-2022
+David M. Blei|[Probabilistic Conformal Prediction Using Conditional Random Samples](http://arxiv.org/abs/2206.06584v1)|2022-06-14 03:58:03+00:00|14-06-2022
+Woo-Young Ahn|[Mapping fNIRS to fMRI with Neural Data Augmentation and Machine Learning   Models](http://arxiv.org/abs/2206.06486v1)|2022-06-13 21:32:30+00:00|13-06-2022
+Brieuc Lehmann|[Density Estimation with Autoregressive Bayesian Predictives](http://arxiv.org/abs/2206.06462v1)|2022-06-13 20:43:39+00:00|13-06-2022
+Adel Daoud|[Image-based Treatment Effect Heterogeneity](http://arxiv.org/abs/2206.06417v1)|2022-06-13 18:52:53+00:00|13-06-2022
+Pascal Poupart|[Federated Bayesian Neural Regression: A Scalable Global Federated   Gaussian Process](http://arxiv.org/abs/2206.06357v1)|2022-06-13 17:52:58+00:00|13-06-2022
+Jochen De Weerdt|[Learning Uncertainty with Artificial Neural Networks for Improved   Predictive Process Monitoring](http://arxiv.org/abs/2206.06317v1)|2022-06-13 17:05:27+00:00|13-06-2022
+Souvik Chakraborty|[Variational Bayes Deep Operator Network: A data-driven Bayesian solver   for parametric differential equations](http://arxiv.org/abs/2206.05655v1)|2022-06-12 04:20:11+00:00|12-06-2022
+Jian Kang|[Density Regression and Uncertainty Quantification with Bayesian Deep   Noise Neural Networks](http://arxiv.org/abs/2206.05643v1)|2022-06-12 02:47:29+00:00|12-06-2022
+Sumio Watanabe|[Mathematical Theory of Bayesian Statistics for Unknown Information   Source](http://arxiv.org/abs/2206.05630v1)|2022-06-11 23:35:06+00:00|11-06-2022
+Xiaolin Hu|[Bridging the Gap Between Training and Inference of Bayesian Controllable   Language Models](http://arxiv.org/abs/2206.05519v1)|2022-06-11 12:52:32+00:00|11-06-2022
+Anthony C. Constantinou|[Discovery and density estimation of latent confounders in Bayesian   networks with evidence lower bound](http://arxiv.org/abs/2206.05490v1)|2022-06-11 10:24:38+00:00|11-06-2022
+Bernd Bischl|[Enhancing Explainability of Hyperparameter Optimization via Bayesian   Algorithm Execution](http://arxiv.org/abs/2206.05447v1)|2022-06-11 07:12:04+00:00|11-06-2022
+Jesse Engel|[Multi-instrument Music Synthesis with Spectrogram Diffusion](http://arxiv.org/abs/2206.05408v1)|2022-06-11 03:26:15+00:00|11-06-2022
+
 ## 14-06-2022
 
 main_author|title|update_date|publish_date

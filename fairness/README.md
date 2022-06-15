@@ -1,5 +1,40 @@
 # fairness
 Click on title for link to paper
+## 15-06-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Vivek K. Singh|[ABCinML: Anticipatory Bias Correction in Machine Learning Applications](http://arxiv.org/abs/2206.06960v1)|2022-06-14 16:26:10+00:00|14-06-2022
+Tat Seng Chua|[RDU: A Region-based Approach to Form-style Document Understanding](http://arxiv.org/abs/2206.06890v1)|2022-06-14 14:47:48+00:00|14-06-2022
+Juha Karvanen|[Generalizing experimental findings: identification beyond adjustments](http://arxiv.org/abs/2206.06699v1)|2022-06-14 09:00:17+00:00|14-06-2022
+Ruslan Shaydulin|[Bandwidth Enables Generalization in Quantum Kernel Models](http://arxiv.org/abs/2206.06686v1)|2022-06-14 08:41:08+00:00|14-06-2022
+Catuscia Palamidessi|[Causal Discovery for Fairness](http://arxiv.org/abs/2206.06685v1)|2022-06-14 08:40:40+00:00|14-06-2022
+Yongjun Wang|[Deep Isolation Forest for Anomaly Detection](http://arxiv.org/abs/2206.06602v1)|2022-06-14 05:47:07+00:00|14-06-2022
+Kangwook Lee|[LIFT: Language-Interfaced Fine-Tuning for Non-Language Machine Learning   Tasks](http://arxiv.org/abs/2206.06565v1)|2022-06-14 02:41:41+00:00|14-06-2022
+John J. Borkowski|[Fast Computation of Highly G-optimal Exact Designs via Particle Swarm   Optimization](http://arxiv.org/abs/2206.06498v1)|2022-06-13 22:04:10+00:00|13-06-2022
+Fredrik Löfman|[On Image Segmentation With Noisy Labels: Characterization and Volume   Properties of the Optimal Solutions to Accuracy and Dice](http://arxiv.org/abs/2206.06484v1)|2022-06-13 21:30:29+00:00|13-06-2022
+Sheraz Ahmed|[Revisiting the Shape-Bias of Deep Learning for Dermoscopic Skin Lesion   Classification](http://arxiv.org/abs/2206.06466v1)|2022-06-13 20:59:06+00:00|13-06-2022
+Yingbin Liang|[Provably Efficient Offline Reinforcement Learning with Trajectory-Wise   Reward](http://arxiv.org/abs/2206.06426v1)|2022-06-13 19:11:22+00:00|13-06-2022
+Adel Daoud|[Estimating Causal Effects Under Image Confounding Bias with an   Application to Poverty in Africa](http://arxiv.org/abs/2206.06410v1)|2022-06-13 18:33:05+00:00|13-06-2022
+Christian Heumann|[Sparse-group boosting -- Unbiased group and variable selection](http://arxiv.org/abs/2206.06344v1)|2022-06-13 17:44:16+00:00|13-06-2022
+Nicolas Flammarion|[Towards Understanding Sharpness-Aware Minimization](http://arxiv.org/abs/2206.06232v1)|2022-06-13 15:07:32+00:00|13-06-2022
+Mathias Unberath|[SyntheX: Scaling Up Learning-based X-ray Image Analysis Through In   Silico Experiments](http://arxiv.org/abs/2206.06127v1)|2022-06-13 13:08:41+00:00|13-06-2022
+Hong Jin|[Learning Feature Disentanglement and Dynamic Fusion for Recaptured Image   Forensic](http://arxiv.org/abs/2206.06103v1)|2022-06-13 12:47:13+00:00|13-06-2022
+Valentin Wüstholz|[Specifying and Testing $k$-Safety Properties for Machine-Learning Models](http://arxiv.org/abs/2206.06054v1)|2022-06-13 11:35:55+00:00|13-06-2022
+Isamu Ogawa|[High-Dimensional Bayesian Optimization with Constraints: Application to   Powder Weighing](http://arxiv.org/abs/2206.05988v1)|2022-06-13 09:14:06+00:00|13-06-2022
+Takeo Igarashi|[Efficient Human-in-the-loop System for Guiding DNNs Attention](http://arxiv.org/abs/2206.05981v2)|2022-06-14 07:53:49+00:00|13-06-2022
+Chenliang Li|[Safe-FinRL: A Low Bias and Variance Deep Reinforcement Learning   Implementation for High-Freq Stock Trading](http://arxiv.org/abs/2206.05910v1)|2022-06-13 05:40:03+00:00|13-06-2022
+Elahe Arani|[InBiaseD: Inductive Bias Distillation to Improve Generalization and   Robustness through Shape-awareness](http://arxiv.org/abs/2206.05846v1)|2022-06-12 21:56:29+00:00|12-06-2022
+Patrick Loiseau|[Bounding and Approximating Intersectional Fairness through Marginal   Fairness](http://arxiv.org/abs/2206.05828v1)|2022-06-12 19:53:34+00:00|12-06-2022
+Tomaso Poggio|[SGD Noise and Implicit Low-Rank Bias in Deep Neural Networks](http://arxiv.org/abs/2206.05794v1)|2022-06-12 17:06:35+00:00|12-06-2022
+Chao Deng|[A Semantic Consistency Feature Alignment Object Detection Model Based on   Mixed-Class Distribution Metrics](http://arxiv.org/abs/2206.05765v1)|2022-06-12 15:14:45+00:00|12-06-2022
+David Leslie|"[Don't ""research fast and break things"": On the ethics of Computational   Social Science](http://arxiv.org/abs/2206.06370v1)"|2022-06-12 09:51:19+00:00|12-06-2022
+Qi Yu|[Balancing Bias and Variance for Active Weakly Supervised Learning](http://arxiv.org/abs/2206.05682v1)|2022-06-12 07:15:35+00:00|12-06-2022
+Souvik Chakraborty|[Variational Bayes Deep Operator Network: A data-driven Bayesian solver   for parametric differential equations](http://arxiv.org/abs/2206.05655v1)|2022-06-12 04:20:11+00:00|12-06-2022
+Arezou Rezazadeh|[A General framework for PAC-Bayes Bounds for Meta-Learning](http://arxiv.org/abs/2206.05454v1)|2022-06-11 07:45:25+00:00|11-06-2022
+Bernd Bischl|[Enhancing Explainability of Hyperparameter Optimization via Bayesian   Algorithm Execution](http://arxiv.org/abs/2206.05447v1)|2022-06-11 07:12:04+00:00|11-06-2022
+Chang D. Yoo|[Learning Imbalanced Datasets with Maximum Margin Loss](http://arxiv.org/abs/2206.05380v1)|2022-06-11 00:21:41+00:00|11-06-2022
+
 ## 14-06-2022
 
 main_author|title|update_date|publish_date
