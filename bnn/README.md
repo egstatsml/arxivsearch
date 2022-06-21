@@ -1,5 +1,30 @@
 # bnn
 Click on title for link to paper
+## 21-06-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Nick Golding|[Scaling multi-species occupancy models to large citizen science datasets](http://arxiv.org/abs/2206.08894v1)|2022-06-17 16:54:56+00:00|17-06-2022
+Bo An|[Open-Sampling: Exploring Out-of-Distribution data for Re-balancing   Long-tailed datasets](http://arxiv.org/abs/2206.08802v1)|2022-06-17 14:29:52+00:00|17-06-2022
+Felix Ott|[Uncertainty-aware Evaluation of Time-Series Classification for Online   Handwriting Recognition with Domain Shift](http://arxiv.org/abs/2206.08640v1)|2022-06-17 09:05:01+00:00|17-06-2022
+Rajesh P. N. Rao|[Recursive Neural Programs: Variational Learning of Image Grammars and   Part-Whole Hierarchies](http://arxiv.org/abs/2206.08462v1)|2022-06-16 22:02:06+00:00|16-06-2022
+Chris. J. Oates|[Generalised Bayesian Inference for Discrete Intractable Likelihood](http://arxiv.org/abs/2206.08420v1)|2022-06-16 19:36:17+00:00|16-06-2022
+Carla Gomes|[Scalable First-Order Bayesian Optimization via Structured Automatic   Differentiation](http://arxiv.org/abs/2206.08366v1)|2022-06-16 17:59:48+00:00|16-06-2022
+Ingelin Steinsland|[Learning Physics between Digital Twins with Low-Fidelity Models and   Physics-Informed Gaussian Processes](http://arxiv.org/abs/2206.08201v1)|2022-06-16 14:18:45+00:00|16-06-2022
+Yunfeng Shao|[Personalized Federated Learning via Variational Bayesian Inference](http://arxiv.org/abs/2206.07977v1)|2022-06-16 07:37:02+00:00|16-06-2022
+Muhao Chen|[PInKS: Preconditioned Commonsense Inference with Minimal Supervision](http://arxiv.org/abs/2206.07920v1)|2022-06-16 04:50:00+00:00|16-06-2022
+Roger P. Levy|[How Adults Understand What Young Children Say](http://arxiv.org/abs/2206.07807v1)|2022-06-15 20:37:32+00:00|15-06-2022
+Allan Tucker|[On Calibrated Model Uncertainty in Deep Learning](http://arxiv.org/abs/2206.07795v1)|2022-06-15 20:16:32+00:00|15-06-2022
+Allan Tucker|[Leveraging Uncertainty in Deep Learning for Pancreatic Adenocarcinoma   Grading](http://arxiv.org/abs/2206.08787v1)|2022-06-15 19:53:06+00:00|15-06-2022
+Yan Yan|[Discrete Contrastive Diffusion for Cross-Modal and Conditional   Generation](http://arxiv.org/abs/2206.07771v1)|2022-06-15 19:13:49+00:00|15-06-2022
+Jascha Sohl-Dickstein|[Wide Bayesian neural networks have a simple weight posterior: theory and   accelerated sampling](http://arxiv.org/abs/2206.07673v1)|2022-06-15 17:11:08+00:00|15-06-2022
+Pierre-Marc Jodoin|[CRISP - Reliable Uncertainty Estimation for Medical Image Segmentation](http://arxiv.org/abs/2206.07664v1)|2022-06-15 16:56:58+00:00|15-06-2022
+Sebastian M. Schmon|[Calibrating Agent-based Models to Microdata with Graph Neural Networks](http://arxiv.org/abs/2206.07570v1)|2022-06-15 14:41:43+00:00|15-06-2022
+Piyush Rai|[Bayesian Federated Learning via Predictive Distribution Distillation](http://arxiv.org/abs/2206.07562v1)|2022-06-15 14:24:59+00:00|15-06-2022
+Matthias Rosenkranz|[Bayesian Learning of Parameterised Quantum Circuits](http://arxiv.org/abs/2206.07559v1)|2022-06-15 14:20:14+00:00|15-06-2022
+Dmitry Ivlev|[Subsurface Depths Structure Maps Reconstruction with Generative   Adversarial Networks](http://arxiv.org/abs/2206.07388v1)|2022-06-15 08:51:10+00:00|15-06-2022
+Mingyuan Zhou|[CARD: Classification and Regression Diffusion Models](http://arxiv.org/abs/2206.07275v1)|2022-06-15 03:30:38+00:00|15-06-2022
+
 ## 15-06-2022
 
 main_author|title|update_date|publish_date

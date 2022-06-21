@@ -1,5 +1,13 @@
 # interpretable
 Click on title for link to paper
+## 21-06-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Allan Tucker|[Leveraging Uncertainty in Deep Learning for Pancreatic Adenocarcinoma   Grading](http://arxiv.org/abs/2206.08787v1)|2022-06-15 19:53:06+00:00|15-06-2022
+Przemysław Biecek|[Explainable expected goal models for performance analysis in football   analytics](http://arxiv.org/abs/2206.07212v1)|2022-06-14 23:56:03+00:00|14-06-2022
+Kristian Kersting|[Machines Explaining Linear Programs](http://arxiv.org/abs/2206.07194v1)|2022-06-14 22:52:25+00:00|14-06-2022
+
 ## 15-06-2022
 
 main_author|title|update_date|publish_date

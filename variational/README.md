@@ -1,5 +1,14 @@
 # variational
 Click on title for link to paper
+## 21-06-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+José Miguel Hernández-Lobato|[Adapting the Linearised Laplace Model Evidence for Modern Deep Learning](http://arxiv.org/abs/2206.08900v1)|2022-06-17 17:18:31+00:00|17-06-2022
+Felix Ott|[Uncertainty-aware Evaluation of Time-Series Classification for Online   Handwriting Recognition with Domain Shift](http://arxiv.org/abs/2206.08640v1)|2022-06-17 09:05:01+00:00|17-06-2022
+Seong-Whan Lee|[Multi-Contextual Predictions with Vision Transformer for Video Anomaly   Detection](http://arxiv.org/abs/2206.08568v1)|2022-06-17 05:54:31+00:00|17-06-2022
+Matthias Rosenkranz|[Bayesian Learning of Parameterised Quantum Circuits](http://arxiv.org/abs/2206.07559v1)|2022-06-15 14:20:14+00:00|15-06-2022
+
 ## 15-06-2022
 
 main_author|title|update_date|publish_date

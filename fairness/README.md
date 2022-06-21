@@ -1,5 +1,43 @@
 # fairness
 Click on title for link to paper
+## 21-06-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Nick Golding|[Scaling multi-species occupancy models to large citizen science datasets](http://arxiv.org/abs/2206.08894v1)|2022-06-17 16:54:56+00:00|17-06-2022
+Amartya Sanyal|[How robust are pre-trained models to distribution shift?](http://arxiv.org/abs/2206.08871v1)|2022-06-17 16:18:28+00:00|17-06-2022
+Matthew J. Rosseinsky|[Random projections and Kernelised Leave One Cluster Out   Cross-Validation: Universal baselines and evaluation tools for supervised   machine learning for materials properties](http://arxiv.org/abs/2206.08841v1)|2022-06-17 15:39:39+00:00|17-06-2022
+Kyungwoo Song|[Learning Fair Representation via Distributional Contrastive   Disentanglement](http://arxiv.org/abs/2206.08743v1)|2022-06-17 12:58:58+00:00|17-06-2022
+Leid Zejnilović|[Explainability's Gain is Optimality's Loss? -- How Explanations Bias   Decision-making](http://arxiv.org/abs/2206.08705v1)|2022-06-17 11:43:42+00:00|17-06-2022
+Pascal Mettes|[Maximum Class Separation as Inductive Bias in One Matrix](http://arxiv.org/abs/2206.08704v1)|2022-06-17 11:43:02+00:00|17-06-2022
+Narayan G Hegde|[All Mistakes Are Not Equal: Comprehensive Hierarchy Aware Multi-label   Predictions (CHAMP)](http://arxiv.org/abs/2206.08653v1)|2022-06-17 09:32:48+00:00|17-06-2022
+Simon Lucey|[How You Start Matters for Generalization](http://arxiv.org/abs/2206.08558v1)|2022-06-17 05:30:56+00:00|17-06-2022
+Pulkit Grover|[Quantifying Feature Contributions to Overall Disparity Using Information   Theory](http://arxiv.org/abs/2206.08454v1)|2022-06-16 21:27:22+00:00|16-06-2022
+Chicheng Zhang|[Active Fairness Auditing](http://arxiv.org/abs/2206.08450v1)|2022-06-16 21:12:00+00:00|16-06-2022
+Eirini Ntoutsi|[Learning to Teach Fairness-aware Deep Multi-task Learning](http://arxiv.org/abs/2206.08403v1)|2022-06-16 18:43:16+00:00|16-06-2022
+Mohamad Ali-Dib|[A machine-generated catalogue of Charon's craters and implications for   the Kuiper belt](http://arxiv.org/abs/2206.08277v1)|2022-06-16 16:16:49+00:00|16-06-2022
+Uri Obolski|[Inherent Inconsistencies of Feature Importance](http://arxiv.org/abs/2206.08204v1)|2022-06-16 14:21:51+00:00|16-06-2022
+Somya Suhans Mahapatra|[Not All Lotteries Are Made Equal](http://arxiv.org/abs/2206.08175v1)|2022-06-16 13:41:36+00:00|16-06-2022
+Zenglin Xu|[Channel Importance Matters in Few-Shot Image Classification](http://arxiv.org/abs/2206.08126v1)|2022-06-16 12:38:45+00:00|16-06-2022
+Ping Luo|[AMOS: A Large-Scale Abdominal Multi-Organ Benchmark for Versatile   Medical Image Segmentation](http://arxiv.org/abs/2206.08023v1)|2022-06-16 09:27:56+00:00|16-06-2022
+Nicolas Papernot|[Architectural Backdoors in Neural Networks](http://arxiv.org/abs/2206.07840v1)|2022-06-15 22:44:03+00:00|15-06-2022
+Yang Liu|[Metric-Fair Classifier Derandomization](http://arxiv.org/abs/2206.07826v2)|2022-06-17 04:08:13+00:00|15-06-2022
+Gabriel Kreiman|[What makes domain generalization hard?](http://arxiv.org/abs/2206.07802v1)|2022-06-15 20:32:24+00:00|15-06-2022
+Flavio P. Calmon|[Beyond Adult and COMPAS: Fairness in Multi-Class Prediction](http://arxiv.org/abs/2206.07801v1)|2022-06-15 20:29:33+00:00|15-06-2022
+Heather A. Harrington|[Multiscale methods for signal selection in single-cell data](http://arxiv.org/abs/2206.07760v1)|2022-06-15 18:42:26+00:00|15-06-2022
+Michal Irani|[Reconstructing Training Data from Trained Neural Networks](http://arxiv.org/abs/2206.07758v1)|2022-06-15 18:35:16+00:00|15-06-2022
+Kun Zhang|[On the Identifiability of Nonlinear ICA: Sparsity and Beyond](http://arxiv.org/abs/2206.07751v1)|2022-06-15 18:24:22+00:00|15-06-2022
+Jesse C. Cresswell|[Disparate Impact in Differential Privacy from Gradient Misalignment](http://arxiv.org/abs/2206.07737v1)|2022-06-15 18:06:45+00:00|15-06-2022
+Yann LeCun|[Masked Siamese ConvNets](http://arxiv.org/abs/2206.07700v1)|2022-06-15 17:52:23+00:00|15-06-2022
+Marco Cuturi|[Rethinking Initialization of the Sinkhorn Algorithm](http://arxiv.org/abs/2206.07630v1)|2022-06-15 16:23:03+00:00|15-06-2022
+Bernd Bischl|[Multi-Objective Hyperparameter Optimization -- An Overview](http://arxiv.org/abs/2206.07438v1)|2022-06-15 10:23:19+00:00|15-06-2022
+Dmitry Ivlev|[Subsurface Depths Structure Maps Reconstruction with Generative   Adversarial Networks](http://arxiv.org/abs/2206.07388v1)|2022-06-15 08:51:10+00:00|15-06-2022
+Eric Monteux|[Robust SAR ATR on MSTAR with Deep Learning Models trained on Full   Synthetic MOCEM data](http://arxiv.org/abs/2206.07352v1)|2022-06-15 08:04:36+00:00|15-06-2022
+Mor Naaman|[Human Heuristics for AI-Generated Language Are Flawed](http://arxiv.org/abs/2206.07271v1)|2022-06-15 03:18:56+00:00|15-06-2022
+Wenbin Hu|[CLNode: Curriculum Learning for Node Classification](http://arxiv.org/abs/2206.07258v1)|2022-06-15 02:43:36+00:00|15-06-2022
+Pierre C Bellec|[Noise Covariance Estimation in Multi-Task High-dimensional Linear Models](http://arxiv.org/abs/2206.07256v1)|2022-06-15 02:37:37+00:00|15-06-2022
+Thorsten Joachims|[Fair Ranking as Fair Division: Impact-Based Individual Fairness in   Ranking](http://arxiv.org/abs/2206.07247v1)|2022-06-15 02:20:30+00:00|15-06-2022
+
 ## 15-06-2022
 
 main_author|title|update_date|publish_date
