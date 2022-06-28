@@ -1,5 +1,16 @@
 # interpretable
 Click on title for link to paper
+## 28-06-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Jin Song Dong|[Adversarial Robustness of Deep Neural Networks: A Survey from a Formal   Verification Perspective](http://arxiv.org/abs/2206.12227v1)|2022-06-24 11:53:12+00:00|24-06-2022
+Ioannis Mitliagkas|[Optimal transport meets noisy label robust loss and MixUp regularization   for domain adaptation](http://arxiv.org/abs/2206.11180v1)|2022-06-22 15:40:52+00:00|22-06-2022
+Heng Tao Shen|[KE-RCNN: Unifying Knowledge based Reasoning into Part-level Attribute   Parsing](http://arxiv.org/abs/2206.10146v1)|2022-06-21 07:05:14+00:00|21-06-2022
+Joao Marques-Silva|[Eliminating The Impossible, Whatever Remains Must Be True](http://arxiv.org/abs/2206.09551v1)|2022-06-20 03:18:14+00:00|20-06-2022
+Shixia Liu|[A Unified Understanding of Deep NLP Models for Text Classification](http://arxiv.org/abs/2206.09355v1)|2022-06-19 08:55:07+00:00|19-06-2022
+Ajitesh Srivastava|[Random Forest of Epidemiological Models for Influenza Forecasting](http://arxiv.org/abs/2206.08967v1)|2022-06-17 18:47:40+00:00|17-06-2022
+
 ## 21-06-2022
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,28 @@
 # bnn
 Click on title for link to paper
+## 28-06-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Laurence Aitchison|[Out of distribution robustness with pre-trained Bayesian neural networks](http://arxiv.org/abs/2206.12361v1)|2022-06-24 16:08:46+00:00|24-06-2022
+Liang Zhao|[Source Localization of Graph Diffusion via Variational Autoencoders for   Graph Inverse Problems](http://arxiv.org/abs/2206.12327v1)|2022-06-24 14:56:45+00:00|24-06-2022
+Sandra Hirche|[Physically Consistent Learning of Conservative Lagrangian Systems with   Gaussian Processes](http://arxiv.org/abs/2206.12272v1)|2022-06-24 13:15:43+00:00|24-06-2022
+Josef Kittler|[Doubly Reparameterized Importance Weighted Structure Learning for Scene   Graph Generation](http://arxiv.org/abs/2206.11352v1)|2022-06-22 20:00:25+00:00|22-06-2022
+J. Tinsley Oden|[Bayesian model calibration for block copolymer self-assembly:   Likelihood-free inference and expected information gain computation via   measure transport](http://arxiv.org/abs/2206.11343v1)|2022-06-22 19:38:52+00:00|22-06-2022
+Sayan Mukherjee|[Concentration inequalities and optimal number of layers for stochastic   deep neural networks](http://arxiv.org/abs/2206.11241v1)|2022-06-22 17:42:24+00:00|22-06-2022
+Djamé Seddah|[Towards Unsupervised Content Disentanglement in Sentence Representations   via Syntactic Roles](http://arxiv.org/abs/2206.11184v1)|2022-06-22 15:50:01+00:00|22-06-2022
+Julyan Arbel|[Cold Posteriors through PAC-Bayes](http://arxiv.org/abs/2206.11173v1)|2022-06-22 15:30:21+00:00|22-06-2022
+Zhenkun Wang|[Dynamic Multi-objective Ensemble of Acquisition Functions in Batch   Bayesian Optimization](http://arxiv.org/abs/2206.11118v1)|2022-06-22 14:09:18+00:00|22-06-2022
+Gozde Unal|[How to Combine Variational Bayesian Networks in Federated Learning](http://arxiv.org/abs/2206.10897v1)|2022-06-22 07:53:12+00:00|22-06-2022
+Gagandeep Singh|[Robust Universal Adversarial Perturbations](http://arxiv.org/abs/2206.10858v1)|2022-06-22 06:05:30+00:00|22-06-2022
+Shinya Maruyama|[Federated Latent Class Regression for Hierarchical Data](http://arxiv.org/abs/2206.10783v1)|2022-06-22 00:33:04+00:00|22-06-2022
+Omar Ghattas|[Derivative-Informed Neural Operator: An Efficient Framework for   High-Dimensional Parametric Derivative Learning](http://arxiv.org/abs/2206.10745v2)|2022-06-23 15:21:53+00:00|21-06-2022
+Torsten A. Enßlin|[Sparse Kernel Gaussian Processes through Iterative Charted Refinement   (ICR)](http://arxiv.org/abs/2206.10634v1)|2022-06-21 18:00:01+00:00|21-06-2022
+Sandra Zilles|[Actively Learning Deep Neural Networks with Uncertainty Sampling Based   on Sum-Product Networks](http://arxiv.org/abs/2206.09798v1)|2022-06-20 14:28:19+00:00|20-06-2022
+Pascal Poupart|[Robust One Round Federated Learning with Predictive Space Bayesian   Inference](http://arxiv.org/abs/2206.09526v1)|2022-06-20 01:06:59+00:00|20-06-2022
+Evangelos E. Papalexakis|[FRAPPE: $\underline{\text{F}}$ast $\underline{\text{Ra}}$nk   $\underline{\text{App}}$roximation with $\underline{\text{E}}$xplainable   Features for Tensors](http://arxiv.org/abs/2206.09316v1)|2022-06-19 03:19:59+00:00|19-06-2022
+Benjamin Doerr|[From Understanding Genetic Drift to a Smart-Restart Mechanism for   Estimation-of-Distribution Algorithms](http://arxiv.org/abs/2206.09090v2)|2022-06-22 09:11:54+00:00|18-06-2022
+
 ## 21-06-2022
 
 main_author|title|update_date|publish_date

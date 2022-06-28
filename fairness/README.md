@@ -1,5 +1,69 @@
 # fairness
 Click on title for link to paper
+## 28-06-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Zhaochun Ren|[Debiasing Learning for Membership Inference Attacks Against Recommender   Systems](http://arxiv.org/abs/2206.12401v1)|2022-06-24 17:57:34+00:00|24-06-2022
+Ivano Notarnicola|[Achievement and Fragility of Long-term Equitability](http://arxiv.org/abs/2206.12333v1)|2022-06-24 15:04:49+00:00|24-06-2022
+Jia Pan|[ModLaNets: Learning Generalisable Dynamics via Modularity and Physical   Inductive Bias](http://arxiv.org/abs/2206.12325v1)|2022-06-24 14:54:25+00:00|24-06-2022
+Jiang|[Bugs in Machine Learning-based Systems: A Faultload Benchmark](http://arxiv.org/abs/2206.12311v1)|2022-06-24 14:20:34+00:00|24-06-2022
+Aleksandra Korolova|"[""You Can't Fix What You Can't Measure"": Privately Measuring Demographic   Performance Disparities in Federated Learning](http://arxiv.org/abs/2206.12183v1)"|2022-06-24 09:46:43+00:00|24-06-2022
+Sergei K. Turitsyn|[Towards FPGA Implementation of Neural Network-Based Nonlinearity   Mitigation Equalizers in Coherent Optical Transmission Systems](http://arxiv.org/abs/2206.12180v1)|2022-06-24 09:41:26+00:00|24-06-2022
+Jundong Li|[On Structural Explanation of Bias in Graph Neural Networks](http://arxiv.org/abs/2206.12104v1)|2022-06-24 06:49:21+00:00|24-06-2022
+Jayashree Kalpathy-Cramer|[Three Applications of Conformal Prediction for Rating Breast Density in   Mammography](http://arxiv.org/abs/2206.12008v1)|2022-06-23 23:03:24+00:00|23-06-2022
+Kazi Sinthia Kabir|[A Disability Lens towards Biases in GPT-3 Generated Open-Ended Languages](http://arxiv.org/abs/2206.11993v1)|2022-06-23 21:57:08+00:00|23-06-2022
+Xiao Liu|[Physics-Informed Statistical Modeling for Wildfire Aerosols Process   Using Multi-Source Geostationary Satellite Remote-Sensing Data Streams](http://arxiv.org/abs/2206.11766v1)|2022-06-23 15:05:52+00:00|23-06-2022
+Richard Demsyn-Jones|[Measurement and applications of position bias in a marketplace search   engine](http://arxiv.org/abs/2206.11720v1)|2022-06-23 14:09:58+00:00|23-06-2022
+Weiwen Shi|[Adversarial Zoom Lens: A Novel Physical-World Attack to DNNs](http://arxiv.org/abs/2206.12251v1)|2022-06-23 13:03:08+00:00|23-06-2022
+Dev Niyogi|[Short-range forecasts of global precipitation using deep   learning-augmented numerical weather prediction](http://arxiv.org/abs/2206.11669v2)|2022-06-24 10:14:23+00:00|23-06-2022
+Keith Worden|[Improving decision-making via risk-based active learning: Probabilistic   discriminative classifiers](http://arxiv.org/abs/2206.11616v1)|2022-06-23 10:51:42+00:00|23-06-2022
+Qingming Huang|[Rethinking Collaborative Metric Learning: Toward an Efficient   Alternative without Negative Sampling](http://arxiv.org/abs/2206.11549v1)|2022-06-23 08:50:22+00:00|23-06-2022
+Jun Sakuma|[Minimax Optimal Fair Regression under Linear Model](http://arxiv.org/abs/2206.11546v1)|2022-06-23 08:44:32+00:00|23-06-2022
+Ping Li|[CGAR: Critic Guided Action Redistribution in Reinforcement Leaning](http://arxiv.org/abs/2206.11494v1)|2022-06-23 06:33:14+00:00|23-06-2022
+Daoqiang Zhang|[InfoAT: Improving Adversarial Training Using the Information Bottleneck   Principle](http://arxiv.org/abs/2206.12292v1)|2022-06-23 03:20:41+00:00|23-06-2022
+Eirini Ntoutsi|[Context matters for fairness -- a case study on the effect of spatial   distribution shifts](http://arxiv.org/abs/2206.11436v2)|2022-06-24 21:09:45+00:00|23-06-2022
+Lingfei Wu|[Input-agnostic Certified Group Fairness via Gaussian Parameter Smoothing](http://arxiv.org/abs/2206.11423v1)|2022-06-22 23:39:26+00:00|22-06-2022
+Kurt Keutzer|[The ArtBench Dataset: Benchmarking Generative Models with Artworks](http://arxiv.org/abs/2206.11404v1)|2022-06-22 22:10:18+00:00|22-06-2022
+Yufang Hou|[GEMv2: Multilingual NLG Benchmarking in a Single Line of Code](http://arxiv.org/abs/2206.11249v3)|2022-06-24 12:48:24+00:00|22-06-2022
+Santosh S. Vempala|[Constant-Factor Approximation Algorithms for Socially Fair   $k$-Clustering](http://arxiv.org/abs/2206.11210v1)|2022-06-22 16:57:17+00:00|22-06-2022
+Mark Dredze|[Then and Now: Quantifying the Longitudinal Validity of Self-Disclosed   Depression Diagnoses](http://arxiv.org/abs/2206.11155v1)|2022-06-22 15:02:03+00:00|22-06-2022
+Himabindu Lakkaraju|[OpenXAI: Towards a Transparent Evaluation of Model Explanations](http://arxiv.org/abs/2206.11104v1)|2022-06-22 14:01:34+00:00|22-06-2022
+Michaël Perrot|[FairGrad: Fairness Aware Gradient Descent](http://arxiv.org/abs/2206.10923v1)|2022-06-22 09:02:42+00:00|22-06-2022
+Suha Kwak|[Learning Debiased Classifier with Biased Committee](http://arxiv.org/abs/2206.10843v1)|2022-06-22 04:50:28+00:00|22-06-2022
+David Mareček|[Don't Forget About Pronouns: Removing Gender Bias in Language Models   Without Losing Factual Gender Information](http://arxiv.org/abs/2206.10744v1)|2022-06-21 21:38:25+00:00|21-06-2022
+Sebastian Stober|[Learning Continuous Rotation Canonicalization with Radial Beam Sampling](http://arxiv.org/abs/2206.10690v1)|2022-06-21 19:12:06+00:00|21-06-2022
+Christian Klaes|[ConTraNet: A single end-to-end hybrid network for EEG-based and   EMG-based human machine interfaces](http://arxiv.org/abs/2206.10677v1)|2022-06-21 18:55:50+00:00|21-06-2022
+Zelda Mariet|[Ensembling over Classifiers: a Bias-Variance Perspective](http://arxiv.org/abs/2206.10566v1)|2022-06-21 17:46:35+00:00|21-06-2022
+Peter Wonka|[EpiGRAF: Rethinking training of 3D GANs](http://arxiv.org/abs/2206.10535v1)|2022-06-21 17:08:23+00:00|21-06-2022
+Philippe Burlina|[Achieving Utility, Fairness, and Compactness via Tunable Information   Bottleneck Measures](http://arxiv.org/abs/2206.10043v1)|2022-06-20 23:18:59+00:00|20-06-2022
+Nuno Moniz|[Model Optimization in Imbalanced Regression](http://arxiv.org/abs/2206.09991v1)|2022-06-20 20:23:56+00:00|20-06-2022
+Yaoliang Yu|[Mitigating Data Heterogeneity in Federated Learning with Data   Augmentation](http://arxiv.org/abs/2206.09979v1)|2022-06-20 19:47:43+00:00|20-06-2022
+Pavlo Molchanov|[Global Context Vision Transformers](http://arxiv.org/abs/2206.09959v1)|2022-06-20 18:42:44+00:00|20-06-2022
+Qiang Liu|[A Langevin-like Sampler for Discrete Distributions](http://arxiv.org/abs/2206.09914v1)|2022-06-20 17:36:03+00:00|20-06-2022
+Eirini Ntoutsi|[Multiple Fairness and Cardinality constraints for Students-Topics   Grouping Problem](http://arxiv.org/abs/2206.09895v1)|2022-06-20 17:06:10+00:00|20-06-2022
+Daniel E. Ho|[Algorithmic Fairness and Vertical Equity: Income Fairness with IRS Tax   Audit Models](http://arxiv.org/abs/2206.09875v1)|2022-06-20 16:27:06+00:00|20-06-2022
+Björn W. Schuller|[COVYT: Introducing the Coronavirus YouTube and TikTok speech dataset   featuring the same speakers with and without infection](http://arxiv.org/abs/2206.11045v1)|2022-06-20 16:26:51+00:00|20-06-2022
+Roy Schwartz|[Fewer Errors, but More Stereotypes? The Effect of Model Size on Gender   Bias](http://arxiv.org/abs/2206.09860v1)|2022-06-20 15:52:40+00:00|20-06-2022
+Ken Hong|[Practical Deepfake Detection: Vulnerabilities in Global Contexts](http://arxiv.org/abs/2206.09842v1)|2022-06-20 15:24:55+00:00|20-06-2022
+Nicolas Flammarion|[Label noise (stochastic) gradient descent implicitly solves the Lasso   for quadratic parametrisation](http://arxiv.org/abs/2206.09841v1)|2022-06-20 15:24:42+00:00|20-06-2022
+Cherie M Poland|[The Right Tool for the Job: Open-Source Auditing Tools in Machine   Learning](http://arxiv.org/abs/2206.10613v1)|2022-06-20 15:20:26+00:00|20-06-2022
+Anders Søgaard|[Square One Bias in NLP: Towards a Multi-Dimensional Exploration of the   Research Manifold](http://arxiv.org/abs/2206.09755v1)|2022-06-20 13:04:23+00:00|20-06-2022
+Chen Lv|[Sampling Efficient Deep Reinforcement Learning through Preference-Guided   Stochastic Exploration](http://arxiv.org/abs/2206.09627v1)|2022-06-20 08:23:49+00:00|20-06-2022
+Florian Bernard|[Efficient and Flexible Sublabel-Accurate Energy Minimization](http://arxiv.org/abs/2206.09596v1)|2022-06-20 06:58:55+00:00|20-06-2022
+Andrew D. Selbst|[The Fallacy of AI Functionality](http://arxiv.org/abs/2206.09511v1)|2022-06-20 00:11:48+00:00|20-06-2022
+Charalambos Poullis|[Predicting Human Performance in Vertical Hierarchical Menu Selection in   Immersive AR Using Hand-gesture and Head-gaze](http://arxiv.org/abs/2206.09480v1)|2022-06-19 20:13:08+00:00|19-06-2022
+Yue Zhao|[ADBench: Anomaly Detection Benchmark](http://arxiv.org/abs/2206.09426v1)|2022-06-19 15:02:17+00:00|19-06-2022
+Sandy Engelhardt|[mvHOTA: A multi-view higher order tracking accuracy metric to measure   spatial and temporal associations in multi-point detection](http://arxiv.org/abs/2206.09372v1)|2022-06-19 10:31:53+00:00|19-06-2022
+Jingrui He|[Fairness-aware Model-agnostic Positive and Unlabeled Learning](http://arxiv.org/abs/2206.09346v1)|2022-06-19 08:04:23+00:00|19-06-2022
+Inanc Senocak|[Mitigating Learning Complexity in Physics and Equality Constrained   Artificial Neural Networks](http://arxiv.org/abs/2206.09321v1)|2022-06-19 04:12:01+00:00|19-06-2022
+Rebecca Wexler|[Adversarial Scrutiny of Evidentiary Statistical Software](http://arxiv.org/abs/2206.09305v1)|2022-06-19 02:08:42+00:00|19-06-2022
+Georgiana Ifrim|[Scalable Classifier-Agnostic Channel Selection for MTSC](http://arxiv.org/abs/2206.09274v1)|2022-06-18 19:57:46+00:00|18-06-2022
+Virginia Smith|[Motley: Benchmarking Heterogeneity and Personalization in Federated   Learning](http://arxiv.org/abs/2206.09262v1)|2022-06-18 18:18:49+00:00|18-06-2022
+Ismail Ben Ayed|[Model-Agnostic Few-Shot Open-Set Recognition](http://arxiv.org/abs/2206.09236v1)|2022-06-18 16:27:59+00:00|18-06-2022
+Wenwu Zhu|[NAS-Bench-Graph: Benchmarking Graph Neural Architecture Search](http://arxiv.org/abs/2206.09166v1)|2022-06-18 10:17:15+00:00|18-06-2022
+Judy Zhong|[Fair Generalized Linear Models with a Convex Penalty](http://arxiv.org/abs/2206.09076v1)|2022-06-18 00:53:25+00:00|18-06-2022
+
 ## 21-06-2022
 
 main_author|title|update_date|publish_date
