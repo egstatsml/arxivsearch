@@ -1,5 +1,17 @@
 # interpretable
 Click on title for link to paper
+## 05-07-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Farzad Khalvati|[Improving Disease Classification Performance and Explainability of Deep   Learning Models in Radiology with Heatmap Generators](http://arxiv.org/abs/2207.00157v1)|2022-06-28 13:03:50+00:00|28-06-2022
+Reinhard Heil|[Explaining Any ML Model? -- On Goals and Capabilities of XAI](http://arxiv.org/abs/2206.13888v1)|2022-06-28 11:09:33+00:00|28-06-2022
+Pratyush Tiwary|[Thermodynamics of Interpretation](http://arxiv.org/abs/2206.13475v1)|2022-06-27 17:36:50+00:00|27-06-2022
+Dominik Janzing|[Explaining the root causes of unit-level changes](http://arxiv.org/abs/2206.12986v1)|2022-06-26 22:32:11+00:00|26-06-2022
+Navin Kumar|[Explainable and High-Performance Hate and Offensive Speech Detection](http://arxiv.org/abs/2206.12983v1)|2022-06-26 22:02:53+00:00|26-06-2022
+Zheng Zhang|[Self-Healing Robust Neural Networks via Closed-Loop Control](http://arxiv.org/abs/2206.12963v1)|2022-06-26 20:25:35+00:00|26-06-2022
+Zihao Zhu|[From Shallow to Deep: Compositional Reasoning over Graphs for Visual   Question Answering](http://arxiv.org/abs/2206.12533v1)|2022-06-25 02:20:02+00:00|25-06-2022
+
 ## 28-06-2022
 
 main_author|title|update_date|publish_date

@@ -1,17 +1,5 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
-Sandra Hirche|[Physically Consistent Learning of Conservative Lagrangian Systems with   Gaussian Processes](http://arxiv.org/abs/2206.12272v1)|2022-06-24 13:15:43+00:00|24-06-2022
-Takashi Fuse|[Dynamic network congestion pricing based on deep reinforcement learning](http://arxiv.org/abs/2206.12188v1)|2022-06-24 10:00:20+00:00|24-06-2022
-Jakub Marecek|[Stochastic Langevin Differential Inclusions with Applications to Machine   Learning](http://arxiv.org/abs/2206.11533v1)|2022-06-23 08:29:17+00:00|23-06-2022
-Xiaohu You|[Content Popularity Prediction Based on Quantized Federated Bayesian   Learning in Fog Radio Access Networks](http://arxiv.org/abs/2206.12258v1)|2022-06-23 03:05:12+00:00|23-06-2022
-Josef Kittler|[Doubly Reparameterized Importance Weighted Structure Learning for Scene   Graph Generation](http://arxiv.org/abs/2206.11352v1)|2022-06-22 20:00:25+00:00|22-06-2022
-Sayan Mukherjee|[Concentration inequalities and optimal number of layers for stochastic   deep neural networks](http://arxiv.org/abs/2206.11241v1)|2022-06-22 17:42:24+00:00|22-06-2022
-Ming Sheng|[Learning Optimal Treatment Strategies for Sepsis Using Offline   Reinforcement Learning in Continuous Space](http://arxiv.org/abs/2206.11190v1)|2022-06-22 16:17:21+00:00|22-06-2022
-Julyan Arbel|[Cold Posteriors through PAC-Bayes](http://arxiv.org/abs/2206.11173v1)|2022-06-22 15:30:21+00:00|22-06-2022
-Hui Wang|[Motion Gait: Gait Recognition via Motion Excitation](http://arxiv.org/abs/2206.11080v1)|2022-06-22 13:47:14+00:00|22-06-2022
-Torsten A. Enßlin|[Sparse Kernel Gaussian Processes through Iterative Charted Refinement   (ICR)](http://arxiv.org/abs/2206.10634v1)|2022-06-21 18:00:01+00:00|21-06-2022
-Ferdinando Fioretto|[Gradient-Enhanced Physics-Informed Neural Networks for Power Systems   Operational Support](http://arxiv.org/abs/2206.10579v1)|2022-06-21 17:56:55+00:00|21-06-2022
-Mohsen Bayati|[Thompson Sampling Efficiently Learns to Control Diffusion Processes](http://arxiv.org/abs/2206.09977v1)|2022-06-20 19:42:49+00:00|20-06-2022
-Chang-Dong Wang|[Gray Learning from Non-IID Data with Out-of-distribution Samples](http://arxiv.org/abs/2206.09375v1)|2022-06-19 10:46:38+00:00|19-06-2022
-Xuan Di|[Quantifying Uncertainty In Traffic State Estimation Using Generative   Adversarial Networks](http://arxiv.org/abs/2206.09349v1)|2022-06-19 08:10:15+00:00|19-06-2022
-Bryan Kian Hsiang Low|[Bayesian Optimization under Stochastic Delayed Feedback](http://arxiv.org/abs/2206.09341v1)|2022-06-19 07:34:08+00:00|19-06-2022
+Søren Hauberg|[Laplacian Autoencoders for Learning Stochastic Representations](http://arxiv.org/abs/2206.15078v2)|2022-07-03 09:26:19+00:00|30-06-2022
+Konstantinos C. Zygalakis|[The split Gibbs sampler revisited: improvements to its algorithmic   structure and augmented target distribution](http://arxiv.org/abs/2206.13894v1)|2022-06-28 11:21:41+00:00|28-06-2022
+Avigdor Gal|[Trace Recovery from Stochastically Known Logs](http://arxiv.org/abs/2206.12672v1)|2022-06-25 15:29:20+00:00|25-06-2022

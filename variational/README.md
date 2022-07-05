@@ -1,5 +1,13 @@
 # variational
 Click on title for link to paper
+## 05-07-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Søren Hauberg|[Laplacian Autoencoders for Learning Stochastic Representations](http://arxiv.org/abs/2206.15078v2)|2022-07-03 09:26:19+00:00|30-06-2022
+Konstantinos C. Zygalakis|[The split Gibbs sampler revisited: improvements to its algorithmic   structure and augmented target distribution](http://arxiv.org/abs/2206.13894v1)|2022-06-28 11:21:41+00:00|28-06-2022
+Avigdor Gal|[Trace Recovery from Stochastically Known Logs](http://arxiv.org/abs/2206.12672v1)|2022-06-25 15:29:20+00:00|25-06-2022
+
 ## 28-06-2022
 
 main_author|title|update_date|publish_date

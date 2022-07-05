@@ -1,5 +1,26 @@
 # bnn
 Click on title for link to paper
+## 05-07-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Prasanna Balaprakash|[Asynchronous Distributed Bayesian Optimization at HPC Scale](http://arxiv.org/abs/2207.00479v2)|2022-07-04 07:34:20+00:00|01-07-2022
+Sergei V. Kalinin|[Optimizing Training Trajectories in Variational Autoencoders via Latent   Bayesian Optimization Approach](http://arxiv.org/abs/2207.00128v1)|2022-06-30 23:41:47+00:00|30-06-2022
+Søren Hauberg|[Laplacian Autoencoders for Learning Stochastic Representations](http://arxiv.org/abs/2206.15078v2)|2022-07-03 09:26:19+00:00|30-06-2022
+Pawel Herman|[Brain-like combination of feedforward and recurrent network components   achieves prototype extraction and robust pattern recognition](http://arxiv.org/abs/2206.15036v1)|2022-06-30 06:03:11+00:00|30-06-2022
+Jun Lu|[Comparative Study of Inference Methods for Interpolative Decomposition](http://arxiv.org/abs/2206.14542v1)|2022-06-29 11:37:05+00:00|29-06-2022
+June-Koo Kevin Rhee|[Quantum Neural Architecture Search with Quantum Circuits Metric and   Bayesian Optimization](http://arxiv.org/abs/2206.14115v1)|2022-06-28 16:23:24+00:00|28-06-2022
+Zhan Chen|[Boosting R-CNN: Reweighting R-CNN Samples by RPN's Error for Underwater   Object Detection](http://arxiv.org/abs/2206.13728v1)|2022-06-28 03:29:20+00:00|28-06-2022
+Xu Wu|[Quantification of Deep Neural Network Prediction Uncertainties for VVUQ   of Machine Learning Models](http://arxiv.org/abs/2206.14615v1)|2022-06-27 20:49:57+00:00|27-06-2022
+Ben Glocker|[Distributional Gaussian Processes Layers for Out-of-Distribution   Detection](http://arxiv.org/abs/2206.13346v1)|2022-06-27 14:49:48+00:00|27-06-2022
+Mikhail Hushchyn|[Supernova Light Curves Approximation based on Neural Network Models](http://arxiv.org/abs/2206.13306v1)|2022-06-27 13:46:51+00:00|27-06-2022
+Francis Bach|[Sum-of-Squares Relaxations for Information Theory and Variational   Inference](http://arxiv.org/abs/2206.13285v1)|2022-06-27 13:22:40+00:00|27-06-2022
+Se-Young Yun|[Revisiting Architecture-aware Knowledge Distillation: Smaller Models and   Faster Search](http://arxiv.org/abs/2206.13130v1)|2022-06-27 09:22:23+00:00|27-06-2022
+Stefano Ermon|[A General Recipe for Likelihood-free Bayesian Optimization](http://arxiv.org/abs/2206.13035v1)|2022-06-27 03:55:27+00:00|27-06-2022
+Chandrajit L. Bajaj|[Probabilistic PolarGMM: Unsupervised Cluster Learning of Very Noisy   Projection Images of Unknown Pose](http://arxiv.org/abs/2206.12959v1)|2022-06-26 20:20:10+00:00|26-06-2022
+Jan Glaubitz|[Sequential image recovery using joint hierarchical Bayesian learning](http://arxiv.org/abs/2206.12745v1)|2022-06-25 22:31:32+00:00|25-06-2022
+Nicolo Fusi|[Bayesian Optimization Over Iterative Learners with Structured Responses:   A Budget-aware Planning Approach](http://arxiv.org/abs/2206.12708v1)|2022-06-25 18:44:06+00:00|25-06-2022
+
 ## 28-06-2022
 
 main_author|title|update_date|publish_date
