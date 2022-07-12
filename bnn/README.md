@@ -1,5 +1,33 @@
 # bnn
 Click on title for link to paper
+## 12-07-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Seong-Lyun Kim|[Towards Semantic Communication Protocols: A Probabilistic Logic   Perspective](http://arxiv.org/abs/2207.03920v1)|2022-07-08 14:19:36+00:00|08-07-2022
+Anna Korba|[Variational Inference of overparameterized Bayesian Neural Networks: a   theoretical and empirical study](http://arxiv.org/abs/2207.03859v1)|2022-07-08 12:31:08+00:00|08-07-2022
+Alex Drlica-Wagner|[Inferring Structural Parameters of Low-Surface-Brightness-Galaxies with   Uncertainty Quantification using Bayesian Neural Networks](http://arxiv.org/abs/2207.03471v1)|2022-07-07 17:55:26+00:00|07-07-2022
+Conor Houghton|[Bayesian Modeling of Language-Evoked Event-Related Potentials](http://arxiv.org/abs/2207.03392v1)|2022-07-07 15:58:17+00:00|07-07-2022
+Richard Turner|[Challenges and Pitfalls of Bayesian Unlearning](http://arxiv.org/abs/2207.03227v1)|2022-07-07 11:24:50+00:00|07-07-2022
+Weitian Chen|[Uncertainty-Aware Self-supervised Neural Network for Liver $T_{1ρ}$   Mapping with Relaxation Constraint](http://arxiv.org/abs/2207.03105v1)|2022-07-07 06:10:34+00:00|07-07-2022
+Florian Ziel|[Distributional neural networks for electricity price forecasting](http://arxiv.org/abs/2207.02832v1)|2022-07-06 17:42:52+00:00|06-07-2022
+Ping Li|[Variational Flow Graphical Model](http://arxiv.org/abs/2207.02722v1)|2022-07-06 14:51:03+00:00|06-07-2022
+Yi Zeng|[Spike Calibration: Fast and Accurate Conversion of Spiking Neural   Network for Object Detection and Segmentation](http://arxiv.org/abs/2207.02702v1)|2022-07-06 14:18:44+00:00|06-07-2022
+Yixuan Yuan|[GLENet: Boosting 3D Object Detectors with Generative Label Uncertainty   Estimation](http://arxiv.org/abs/2207.02466v1)|2022-07-06 06:26:17+00:00|06-07-2022
+Khadijeh Najafi|[Many-body localized hidden Born machine](http://arxiv.org/abs/2207.02346v2)|2022-07-07 21:25:05+00:00|05-07-2022
+Jonathan E. Fieldsend|[PRoA: A Probabilistic Robustness Assessment against Functional   Perturbations](http://arxiv.org/abs/2207.02036v1)|2022-07-05 13:27:38+00:00|05-07-2022
+Sekeun Kim|[Bayesian approaches for Quantifying Clinicians' Variability in Medical   Image Quantification](http://arxiv.org/abs/2207.01868v2)|2022-07-06 06:14:40+00:00|05-07-2022
+Frank Hutter|[Meta-Learning a Real-Time Tabular AutoML Method For Small Data](http://arxiv.org/abs/2207.01848v1)|2022-07-05 07:17:43+00:00|05-07-2022
+Christian Nolde|[Fidelity of Ensemble Aggregation for Saliency Map Explanations using   Bayesian Optimization Techniques](http://arxiv.org/abs/2207.01565v2)|2022-07-05 06:42:09+00:00|04-07-2022
+Alexandros Iosifidis|[Variational Neural Networks](http://arxiv.org/abs/2207.01524v1)|2022-07-04 15:41:02+00:00|04-07-2022
+Matthew P. Juniper|[Physics-informed compressed sensing for PC-MRI: an inverse Navier-Stokes   problem](http://arxiv.org/abs/2207.01466v1)|2022-07-04 14:51:59+00:00|04-07-2022
+Ahmed H. Elsheikh|[Probabilistic forecasting for geosteering in fluvial successions using a   generative adversarial network](http://arxiv.org/abs/2207.01374v1)|2022-07-04 12:52:38+00:00|04-07-2022
+Pekka Marttinen|[Look beyond labels: Incorporating functional summary information in   Bayesian neural networks](http://arxiv.org/abs/2207.01234v1)|2022-07-04 07:06:45+00:00|04-07-2022
+Youzhou Zhou|[Modeling Randomly Walking Volatility with Chained Gamma Distributions](http://arxiv.org/abs/2207.01151v1)|2022-07-04 00:44:30+00:00|04-07-2022
+Nam Ik Cho|[Variational Deep Image Restoration](http://arxiv.org/abs/2207.01074v1)|2022-07-03 16:32:15+00:00|03-07-2022
+Ruth Misener|[Tree ensemble kernels for Bayesian optimization with known constraints   over mixed-feature spaces](http://arxiv.org/abs/2207.00879v1)|2022-07-02 16:59:37+00:00|02-07-2022
+Mujdat Cetin|[Uncertainty Quantification for Deep Unrolling-Based Computational   Imaging](http://arxiv.org/abs/2207.00698v1)|2022-07-02 00:22:49+00:00|02-07-2022
+
 ## 05-07-2022
 
 main_author|title|update_date|publish_date

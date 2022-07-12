@@ -1,5 +1,17 @@
 # interpretable
 Click on title for link to paper
+## 12-07-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Thomas Wolf|[Training Transformers Together](http://arxiv.org/abs/2207.03481v1)|2022-07-07 17:59:16+00:00|07-07-2022
+Dinh Phung|[An Additive Instance-Wise Approach to Multi-class Model Interpretation](http://arxiv.org/abs/2207.03113v1)|2022-07-07 06:50:27+00:00|07-07-2022
+Ge Zhang|[Correlation between entropy and generalizability in a neural network](http://arxiv.org/abs/2207.01996v1)|2022-07-05 12:28:13+00:00|05-07-2022
+Ben Glocker|[Hierarchical Symbolic Reasoning in Hyperbolic Space for Deep   Discriminative Models](http://arxiv.org/abs/2207.01916v1)|2022-07-05 09:51:39+00:00|05-07-2022
+Phillippa Spencer|[Explainability in Deep Reinforcement Learning, a Review into Current   Methods and Applications](http://arxiv.org/abs/2207.01911v1)|2022-07-05 09:43:17+00:00|05-07-2022
+Zhen Li|[Toward Explainable and Fine-Grained 3D Grounding through Referring   Textual Phrases](http://arxiv.org/abs/2207.01821v1)|2022-07-05 05:50:12+00:00|05-07-2022
+Christian Nolde|[Fidelity of Ensemble Aggregation for Saliency Map Explanations using   Bayesian Optimization Techniques](http://arxiv.org/abs/2207.01565v2)|2022-07-05 06:42:09+00:00|04-07-2022
+
 ## 05-07-2022
 
 main_author|title|update_date|publish_date

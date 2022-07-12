@@ -1,5 +1,22 @@
 # mcmc
 Click on title for link to paper
+## 12-07-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Anna Korba|[Variational Inference of overparameterized Bayesian Neural Networks: a   theoretical and empirical study](http://arxiv.org/abs/2207.03859v1)|2022-07-08 12:31:08+00:00|08-07-2022
+Emmanuel Vazquez|[Bayesian multi-objective optimization for stochastic simulators: an   extension of the Pareto Active Learning method](http://arxiv.org/abs/2207.03842v1)|2022-07-08 11:51:48+00:00|08-07-2022
+Frank Youhua Chen|[Product Segmentation Newsvendor Problems: A Robust Learning Approach](http://arxiv.org/abs/2207.03801v1)|2022-07-08 10:13:10+00:00|08-07-2022
+Ahmed H. ElSheikh|[Stochastic optimal well control in subsurface reservoirs using   reinforcement learning](http://arxiv.org/abs/2207.03456v2)|2022-07-08 20:54:09+00:00|07-07-2022
+Abhinav Valada|[Fairness and Bias in Robot Learning](http://arxiv.org/abs/2207.03444v1)|2022-07-07 17:20:15+00:00|07-07-2022
+Ahmed H. ElSheikh|[Robust optimal well control using an adaptive multi-grid reinforcement   learning framework](http://arxiv.org/abs/2207.03253v1)|2022-07-07 12:08:57+00:00|07-07-2022
+Ping Li|[Variational Flow Graphical Model](http://arxiv.org/abs/2207.02722v1)|2022-07-06 14:51:03+00:00|06-07-2022
+Verena Rieser|[Adversarial Robustness of Visual Dialog](http://arxiv.org/abs/2207.02639v1)|2022-07-06 13:01:44+00:00|06-07-2022
+Joschka Boedecker|[Robust Reinforcement Learning in Continuous Control Tasks with   Uncertainty Set Regularization](http://arxiv.org/abs/2207.02016v1)|2022-07-05 12:56:08+00:00|05-07-2022
+Mingli Song|[Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework](http://arxiv.org/abs/2207.01955v1)|2022-07-05 10:58:11+00:00|05-07-2022
+Barbara Hammer|"[""Even if ..."" -- Diverse Semifactual Explanations of Reject](http://arxiv.org/abs/2207.01898v1)"|2022-07-05 08:53:08+00:00|05-07-2022
+Xiaolin Huang|[WPPG Net: A Non-contact Video Based Heart Rate Extraction Network   Framework with Compatible Training Capability](http://arxiv.org/abs/2207.01697v1)|2022-07-04 19:52:30+00:00|04-07-2022
+
 ## 05-07-2022
 
 main_author|title|update_date|publish_date

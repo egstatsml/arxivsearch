@@ -1,5 +1,51 @@
 # fairness
 Click on title for link to paper
+## 12-07-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Sanjeev Arora|[Implicit Bias of Gradient Descent on Reparametrized Models: On   Equivalence to Mirror Descent](http://arxiv.org/abs/2207.04036v1)|2022-07-08 17:47:11+00:00|08-07-2022
+Usman Naseem|[An Approach to Ensure Fairness in News Articles](http://arxiv.org/abs/2207.03938v1)|2022-07-08 14:43:56+00:00|08-07-2022
+Amartya Sanyal|[A law of adversarial risk, interpolation, and label noise](http://arxiv.org/abs/2207.03933v1)|2022-07-08 14:34:43+00:00|08-07-2022
+Pan Gao|[Video-based Smoky Vehicle Detection with A Coarse-to-Fine Framework](http://arxiv.org/abs/2207.03708v1)|2022-07-08 06:42:45+00:00|08-07-2022
+Lei Zou|[Crake: Causal-Enhanced Table-Filler for Question Answering over Large   Scale Knowledge Base](http://arxiv.org/abs/2207.03680v1)|2022-07-08 04:21:26+00:00|08-07-2022
+Robert Nowak|[One for All: Simultaneous Metric and Preference Learning over Multiple   Users](http://arxiv.org/abs/2207.03609v1)|2022-07-07 22:47:13+00:00|07-07-2022
+Ali Vakilian|[Individual Preference Stability for Clustering](http://arxiv.org/abs/2207.03600v1)|2022-07-07 22:01:01+00:00|07-07-2022
+Bart Lubberts|[The use of deep learning enables high diagnostic accuracy in detecting   syndesmotic instability on weight-bearing CT scanning](http://arxiv.org/abs/2207.03568v1)|2022-07-07 20:49:37+00:00|07-07-2022
+Abhinav Valada|[Fairness and Bias in Robot Learning](http://arxiv.org/abs/2207.03444v1)|2022-07-07 17:20:15+00:00|07-07-2022
+Yao Xie|[Neural Stein critics with staged $L^2$-regularization](http://arxiv.org/abs/2207.03406v1)|2022-07-07 16:25:02+00:00|07-07-2022
+Christophe Pallier|[Neural Language Models are not Born Equal to Fit Brain Data, but   Training Helps](http://arxiv.org/abs/2207.03380v1)|2022-07-07 15:37:17+00:00|07-07-2022
+Jing Yuan|[Group Fairness in Adaptive Submodular Maximization](http://arxiv.org/abs/2207.03364v1)|2022-07-07 15:12:02+00:00|07-07-2022
+Antoine Bonnefoy|[Calibrate to Interpret](http://arxiv.org/abs/2207.03324v1)|2022-07-07 14:30:52+00:00|07-07-2022
+Chao-Wei Tsai|[An Exploration of How Training Set Composition Bias in Machine Learning   Affects Identifying Rare Objects](http://arxiv.org/abs/2207.03207v1)|2022-07-07 10:26:55+00:00|07-07-2022
+Ping Luo|[Not All Models Are Equal: Predicting Model Transferability in a   Self-challenging Fisher Space](http://arxiv.org/abs/2207.03036v1)|2022-07-07 01:33:25+00:00|07-07-2022
+Julia Stoyanovich|[Towards Substantive Conceptions of Algorithmic Fairness: Normative   Guidance from Equal Opportunity Doctrines](http://arxiv.org/abs/2207.02912v2)|2022-07-11 00:40:57+00:00|06-07-2022
+Aleksander Madry|[When does Bias Transfer in Transfer Learning?](http://arxiv.org/abs/2207.02842v1)|2022-07-06 17:58:07+00:00|06-07-2022
+Jie Chen|[Difference in Euclidean Norm Can Cause Semantic Divergence in Batch   Normalization](http://arxiv.org/abs/2207.02625v1)|2022-07-06 12:34:33+00:00|06-07-2022
+Yongyi Lu|[Unsupervised Domain Adaptation through Shape Modeling for Medical Image   Segmentation](http://arxiv.org/abs/2207.02529v1)|2022-07-06 09:16:42+00:00|06-07-2022
+Seunghoon Hong|[Pure Transformers are Powerful Graph Learners](http://arxiv.org/abs/2207.02505v1)|2022-07-06 08:13:06+00:00|06-07-2022
+Gal Dalal|[Implementing Reinforcement Learning Datacenter Congestion Control in   NVIDIA NICs](http://arxiv.org/abs/2207.02295v1)|2022-07-05 20:42:24+00:00|05-07-2022
+Jan Skoglund|[Ultra-Low-Bitrate Speech Coding with Pretrained Transformers](http://arxiv.org/abs/2207.02262v1)|2022-07-05 18:52:11+00:00|05-07-2022
+Mohit Bansal|[CLEAR: Improving Vision-Language Navigation with Cross-Lingual,   Environment-Agnostic Representations](http://arxiv.org/abs/2207.02185v1)|2022-07-05 17:38:59+00:00|05-07-2022
+Jun Won Choi|[DBN-Mix: Training Dual Branch Network Using Bilateral Mixup Augmentation   for Long-Tailed Visual Recognition](http://arxiv.org/abs/2207.02173v1)|2022-07-05 17:01:27+00:00|05-07-2022
+Frank Hutter|[Meta-Learning a Real-Time Tabular AutoML Method For Small Data](http://arxiv.org/abs/2207.01848v1)|2022-07-05 07:17:43+00:00|05-07-2022
+Keqin Li|[Local Sample-weighted Multiple Kernel Clustering with Consensus   Discriminative Graph](http://arxiv.org/abs/2207.02846v1)|2022-07-05 05:00:38+00:00|05-07-2022
+Jinchi Lv|[FACT: High-Dimensional Random Forests Inference](http://arxiv.org/abs/2207.01678v1)|2022-07-04 19:05:08+00:00|04-07-2022
+Michael I. Jordan|[Breaking Feedback Loops in Recommender Systems with Causal Inference](http://arxiv.org/abs/2207.01616v1)|2022-07-04 17:58:39+00:00|04-07-2022
+Gregory Pottie|[De-Biasing Generative Models using Counterfactual Methods](http://arxiv.org/abs/2207.01575v2)|2022-07-05 16:18:29+00:00|04-07-2022
+Ruoqi Li|[Explicit Boundary Guided Semi-Push-Pull Contrastive Learning for Better   Anomaly Detection](http://arxiv.org/abs/2207.01463v1)|2022-07-04 14:50:23+00:00|04-07-2022
+Dejing Dou|[Distilling Ensemble of Explanations for Weakly-Supervised Pre-Training   of Image Segmentation Models](http://arxiv.org/abs/2207.03335v1)|2022-07-04 13:02:32+00:00|04-07-2022
+Jae-Pil Heo|[Task Discrepancy Maximization for Fine-grained Few-Shot Classification](http://arxiv.org/abs/2207.01376v1)|2022-07-04 12:54:58+00:00|04-07-2022
+Pierre Chainais|[Learning Optimal Transport Between two Empirical Distributions with   Normalizing Flows](http://arxiv.org/abs/2207.01246v2)|2022-07-05 07:29:23+00:00|04-07-2022
+Zhangyang Wang|[How Robust is Your Fairness? Evaluating and Sustaining Fairness under   Unseen Distribution Shifts](http://arxiv.org/abs/2207.01168v1)|2022-07-04 02:37:50+00:00|04-07-2022
+Dimitris Samaras|[Target-absent Human Attention](http://arxiv.org/abs/2207.01166v1)|2022-07-04 02:32:04+00:00|04-07-2022
+Guofeng Zhang|[VIP-SLAM: An Efficient Tightly-Coupled RGB-D Visual Inertial Planar SLAM](http://arxiv.org/abs/2207.01158v1)|2022-07-04 01:45:24+00:00|04-07-2022
+Matthew Groh|[Identifying the Context Shift between Test Benchmarks and Production   Data](http://arxiv.org/abs/2207.01059v1)|2022-07-03 14:54:54+00:00|03-07-2022
+Jitao Sang|[Counterfactually Measuring and Eliminating Social Bias in   Vision-Language Pre-training Models](http://arxiv.org/abs/2207.01056v1)|2022-07-03 14:39:32+00:00|03-07-2022
+Travis LaCroix|[The Linguistic Blind Spot of Value-Aligned Agency, Natural and   Artificial](http://arxiv.org/abs/2207.00868v1)|2022-07-02 15:47:33+00:00|02-07-2022
+Sergey Levine|[Object Representations as Fixed Points: Training Iterative Refinement   Algorithms with Implicit Differentiation](http://arxiv.org/abs/2207.00787v1)|2022-07-02 10:00:35+00:00|02-07-2022
+Jean-Pierre Fouque|[Deep Learning for Systemic Risk Measures](http://arxiv.org/abs/2207.00739v1)|2022-07-02 05:01:19+00:00|02-07-2022
+
 ## 05-07-2022
 
 main_author|title|update_date|publish_date
