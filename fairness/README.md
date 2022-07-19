@@ -1,5 +1,59 @@
 # fairness
 Click on title for link to paper
+## 19-07-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Aythami Morales|[Mobile Keystroke Biometrics Using Transformers](http://arxiv.org/abs/2207.07596v1)|2022-07-15 16:50:11+00:00|15-07-2022
+Sándor Baran|[A two-step machine learning approach to statistical post-processing of   weather forecasts for power generation](http://arxiv.org/abs/2207.07589v1)|2022-07-15 16:38:14+00:00|15-07-2022
+Giovanni Stilo|[Modeling Quality and Machine Learning Pipelines through Extended Feature   Models](http://arxiv.org/abs/2207.07528v1)|2022-07-15 15:20:28+00:00|15-07-2022
+Peer-Timo Bremer|[Single Model Uncertainty Estimation via Stochastic Data Centering](http://arxiv.org/abs/2207.07235v1)|2022-07-14 23:54:54+00:00|14-07-2022
+Phong Alain Chau|[Supervising Embedding Algorithms Using the Stress](http://arxiv.org/abs/2207.07218v1)|2022-07-14 22:04:00+00:00|14-07-2022
+Matthias Hein|[Sound Randomized Smoothing in Floating-Point Arithmetics](http://arxiv.org/abs/2207.07209v1)|2022-07-14 21:28:04+00:00|14-07-2022
+Mark Harman|[Bias Mitigation for Machine Learning Classifiers: A Comprehensive Survey](http://arxiv.org/abs/2207.07068v2)|2022-07-15 14:05:36+00:00|14-07-2022
+Jeremias Sulam|[From Shapley back to Pearson: Hypothesis Testing via the Shapley Value](http://arxiv.org/abs/2207.07038v1)|2022-07-14 16:28:54+00:00|14-07-2022
+Martin Fränzle|[Verification of Sigmoidal Artificial Neural Networks using iSAT](http://arxiv.org/abs/2207.06755v1)|2022-07-14 09:08:38+00:00|14-07-2022
+Jishen Zhao|[Every Preference Changes Differently: Neural Multi-Interest Preference   Model with Temporal Dynamics for Recommendation](http://arxiv.org/abs/2207.06652v1)|2022-07-14 04:29:54+00:00|14-07-2022
+Matías Bordone|[A tool to overcome technical barriers for bias assessment in human   language technologies](http://arxiv.org/abs/2207.06591v1)|2022-07-14 01:07:55+00:00|14-07-2022
+Yaodong Yang|[Fully Decentralized Model-based Policy Optimization for Networked   Systems](http://arxiv.org/abs/2207.06559v1)|2022-07-13 23:52:14+00:00|13-07-2022
+Shiv Vitaladevuni|[Sub 8-Bit Quantization of Streaming Keyword Spotting Models for Embedded   Chipsets](http://arxiv.org/abs/2207.06920v1)|2022-07-13 17:46:08+00:00|13-07-2022
+Joseph Wang|[Wakeword Detection under Distribution Shifts](http://arxiv.org/abs/2207.06423v1)|2022-07-13 17:35:08+00:00|13-07-2022
+Jimmy Olsson|[BR-SNIS: Bias Reduced Self-Normalized Importance Sampling](http://arxiv.org/abs/2207.06364v1)|2022-07-13 17:14:10+00:00|13-07-2022
+David Ouyang|[Deep Learning Discovery of Demographic Biomarkers in Echocardiography](http://arxiv.org/abs/2207.06421v1)|2022-07-13 16:48:49+00:00|13-07-2022
+Pedro Bizarro|[Understanding Unfairness in Fraud Detection through Model and Data Bias   Interactions](http://arxiv.org/abs/2207.06273v1)|2022-07-13 15:18:30+00:00|13-07-2022
+Nitesh Chawla|[Towards A Holistic View of Bias in Machine Learning: Bridging   Algorithmic Fairness and Imbalanced Learning](http://arxiv.org/abs/2207.06084v1)|2022-07-13 09:48:52+00:00|13-07-2022
+Moshe Sipper|[High Per Parameter: A Large-Scale Study of Hyperparameter Tuning for   Machine Learning Algorithms](http://arxiv.org/abs/2207.06028v1)|2022-07-13 08:17:48+00:00|13-07-2022
+Zhi-Qin John Xu|[Implicit regularization of dropout](http://arxiv.org/abs/2207.05952v1)|2022-07-13 04:09:14+00:00|13-07-2022
+Ritu Bhusal Chhatkuli|[Prediction of the motion of chest internal points using a recurrent   neural network trained with real-time recurrent learning for latency   compensation in lung cancer radiotherapy](http://arxiv.org/abs/2207.05951v1)|2022-07-13 04:08:21+00:00|13-07-2022
+Farhad Pourkamali-Anaraki|[D-CBRS: Accounting For Intra-Class Diversity in Continual Learning](http://arxiv.org/abs/2207.05897v1)|2022-07-13 00:08:27+00:00|13-07-2022
+Matthew M. Peet|[Employing Feature Selection Algorithms to Determine the Immune State of   Mice with Rheumatoid Arthritis](http://arxiv.org/abs/2207.05882v1)|2022-07-12 23:08:47+00:00|12-07-2022
+Rayid Ghani|[A Conceptual Framework for Using Machine Learning to Support Child   Welfare Decisions](http://arxiv.org/abs/2207.05855v1)|2022-07-12 21:42:22+00:00|12-07-2022
+Yong Zhang|[Revealing Unfair Models by Mining Interpretable Evidence](http://arxiv.org/abs/2207.05811v1)|2022-07-12 20:03:08+00:00|12-07-2022
+Alona Fyshe|[Long Term Fairness for Minority Groups via Performative Distributionally   Robust Optimization](http://arxiv.org/abs/2207.05777v1)|2022-07-12 18:11:23+00:00|12-07-2022
+Daniel Wexler|[Using Machine Learning to Reduce Observational Biases When Detecting New   Impacts on Mars](http://arxiv.org/abs/2207.05679v1)|2022-07-12 17:02:28+00:00|12-07-2022
+Chang Xu|[LightViT: Towards Light-Weight Convolution-Free Vision Transformers](http://arxiv.org/abs/2207.05557v1)|2022-07-12 14:27:57+00:00|12-07-2022
+Hongkai Xiong|[Dual Contrastive Learning for Spatio-temporal Representation](http://arxiv.org/abs/2207.05340v1)|2022-07-12 06:33:22+00:00|12-07-2022
+Sharad Goel|[Causal Conceptions of Fairness and their Consequences](http://arxiv.org/abs/2207.05302v1)|2022-07-12 04:26:26+00:00|12-07-2022
+Ishan G Thakkar|[Photonic Reconfigurable Accelerators for Efficient Inference of CNNs   with Mixed-Sized Tensors](http://arxiv.org/abs/2207.05278v1)|2022-07-12 03:18:00+00:00|12-07-2022
+Daniel Reichman|[Size and depth of monotone neural networks: interpolation and   approximation](http://arxiv.org/abs/2207.05275v1)|2022-07-12 03:02:33+00:00|12-07-2022
+Gil Ettinger|[Fine-grained Activities of People Worldwide](http://arxiv.org/abs/2207.05182v1)|2022-07-11 20:38:10+00:00|11-07-2022
+Katharina Krombholz|"[""Why do so?"" -- A Practical Perspective on Machine Learning Security](http://arxiv.org/abs/2207.05164v1)"|2022-07-11 19:58:56+00:00|11-07-2022
+Semen A. Budennyy|[Boosting Heterogeneous Catalyst Discovery by Structurally Constrained   Deep Learning Models](http://arxiv.org/abs/2207.05013v1)|2022-07-11 17:01:28+00:00|11-07-2022
+Lovekesh Vig|[On NeuroSymbolic Solutions for PDEs](http://arxiv.org/abs/2207.06240v1)|2022-07-11 16:04:20+00:00|11-07-2022
+Slava Voloshynovskiy|[Bottlenecks CLUB: Unifying Information-Theoretic Trade-offs Among   Complexity, Leakage, and Utility](http://arxiv.org/abs/2207.04895v1)|2022-07-11 14:07:48+00:00|11-07-2022
+Kashif Ahmad|[A Late Fusion Framework with Multiple Optimization Methods for Media   Interestingness](http://arxiv.org/abs/2207.04762v1)|2022-07-11 10:48:34+00:00|11-07-2022
+Line K. H. Clemmensen|[Interpretability by design using computer vision for behavioral sensing   in child and adolescent psychiatry](http://arxiv.org/abs/2207.04724v1)|2022-07-11 09:07:08+00:00|11-07-2022
+Jeff Wang|[No Language Left Behind: Scaling Human-Centered Machine Translation](http://arxiv.org/abs/2207.04672v1)|2022-07-11 07:33:36+00:00|11-07-2022
+Ehsan Adeli|[A Penalty Approach for Normalizing Feature Distributions to Build   Confounder-Free Models](http://arxiv.org/abs/2207.04607v1)|2022-07-11 04:02:12+00:00|11-07-2022
+Prasad Patil|[Multi-Study Boosting: Theoretical Considerations for Merging vs.   Ensembling](http://arxiv.org/abs/2207.04588v2)|2022-07-13 02:29:10+00:00|11-07-2022
+Flora Salim|[How Robust is your Fair Model? Exploring the Robustness of Diverse   Fairness Strategies](http://arxiv.org/abs/2207.04581v2)|2022-07-12 05:39:28+00:00|11-07-2022
+Prashanti Nilayam|[FedSS: Federated Learning with Smart Selection of clients](http://arxiv.org/abs/2207.04569v1)|2022-07-10 23:55:47+00:00|10-07-2022
+Hamed Haddadi|[FIB: A Method for Evaluation of Feature Impact Balance in   Multi-Dimensional Data](http://arxiv.org/abs/2207.04500v1)|2022-07-10 16:33:44+00:00|10-07-2022
+Danai Koutra|[On Graph Neural Network Fairness in the Presence of Heterophilous   Neighborhoods](http://arxiv.org/abs/2207.04376v1)|2022-07-10 04:02:20+00:00|10-07-2022
+Vinay Kumar|[Variational Approach for Intensity Domain Multi-exposure Image Fusion](http://arxiv.org/abs/2207.04204v1)|2022-07-09 06:31:34+00:00|09-07-2022
+Meng-Jiun Chiou|[Learning Structured Representations of Visual Scenes](http://arxiv.org/abs/2207.04200v1)|2022-07-09 05:40:08+00:00|09-07-2022
+Hau Hwang|[Direct Handheld Burst Imaging to Simulated Defocus](http://arxiv.org/abs/2207.04175v2)|2022-07-13 23:44:04+00:00|09-07-2022
+
 ## 12-07-2022
 
 main_author|title|update_date|publish_date

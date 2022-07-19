@@ -1,5 +1,15 @@
 # mcmc
 Click on title for link to paper
+## 19-07-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Eunhye Song|[Selection of the Most Probable Best](http://arxiv.org/abs/2207.07533v1)|2022-07-15 15:27:27+00:00|15-07-2022
+Behçet Açıkmeşe|[Set-based value operators for non-stationary Markovian environments](http://arxiv.org/abs/2207.07271v1)|2022-07-15 03:37:59+00:00|15-07-2022
+Patrick Hemmer|[Instance Selection Mechanisms for Human-in-the-Loop Systems in Few-Shot   Learning](http://arxiv.org/abs/2207.06835v1)|2022-07-14 11:45:43+00:00|14-07-2022
+Huaimin Wang|[Trusted Multi-Scale Classification Framework for Whole Slide Image](http://arxiv.org/abs/2207.05290v1)|2022-07-12 03:57:08+00:00|12-07-2022
+Zhengyuan Zhou|[Learning to Order for Inventory Systems with Lost Sales and Uncertain   Supplies](http://arxiv.org/abs/2207.04550v1)|2022-07-10 22:11:32+00:00|10-07-2022
+
 ## 12-07-2022
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,28 @@
 # bnn
 Click on title for link to paper
+## 19-07-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Sándor Baran|[A two-step machine learning approach to statistical post-processing of   weather forecasts for power generation](http://arxiv.org/abs/2207.07589v1)|2022-07-15 16:38:14+00:00|15-07-2022
+Chris R. Johnson|[Accelerated Probabilistic Marching Cubes by Deep Learning for   Time-Varying Scalar Ensembles](http://arxiv.org/abs/2207.07260v1)|2022-07-15 02:35:41+00:00|15-07-2022
+Lise Getoor|[Emotion Recognition in Conversation using Probabilistic Soft Logic](http://arxiv.org/abs/2207.07238v1)|2022-07-14 23:59:06+00:00|14-07-2022
+Zeynep Akata|[BayesCap: Bayesian Identity Cap for Calibrated Uncertainty in Frozen   Neural Networks](http://arxiv.org/abs/2207.06873v1)|2022-07-14 12:50:09+00:00|14-07-2022
+Ali Mohades Khorasani|[Semi-supervised Vector-Quantization in Visual SLAM using HGCN](http://arxiv.org/abs/2207.06738v1)|2022-07-14 08:44:01+00:00|14-07-2022
+Matthew Wicker|[On the Robustness of Bayesian Neural Networks to Adversarial Attacks](http://arxiv.org/abs/2207.06154v1)|2022-07-13 12:27:38+00:00|13-07-2022
+Pan Li|[Unsupervised Learning for Combinatorial Optimization with Principled   Objective Relaxation](http://arxiv.org/abs/2207.05984v2)|2022-07-14 03:51:35+00:00|13-07-2022
+Nan Sun|[RobustAnalog: Fast Variation-Aware Analog Circuit Design Via Multi-task   RL](http://arxiv.org/abs/2207.06412v1)|2022-07-13 04:06:32+00:00|13-07-2022
+Samira Ebrahimi Kahou|[Latent Variable Models for Bayesian Causal Discovery](http://arxiv.org/abs/2207.05723v1)|2022-07-12 17:42:04+00:00|12-07-2022
+Seong Jae Hwang|[PAC-Bayesian Domain Adaptation Bounds for Multiclass Learners](http://arxiv.org/abs/2207.05685v1)|2022-07-12 17:07:59+00:00|12-07-2022
+Jeffrey Regier|[Scalable Bayesian Inference for Detection and Deblending in Astronomical   Images](http://arxiv.org/abs/2207.05642v1)|2022-07-12 16:17:21+00:00|12-07-2022
+Eric Aubourg|[Neural Posterior Estimation with Differentiable Simulators](http://arxiv.org/abs/2207.05636v1)|2022-07-12 16:08:04+00:00|12-07-2022
+Jun Zhu|[DGPO: Discovering Multiple Strategies with Diversity-Guided Policy   Optimization](http://arxiv.org/abs/2207.05631v1)|2022-07-12 15:57:55+00:00|12-07-2022
+Pratik Narang|[TabSynDex: A Universal Metric for Robust Evaluation of Synthetic Tabular   Data](http://arxiv.org/abs/2207.05295v1)|2022-07-12 04:08:11+00:00|12-07-2022
+Benjamin D. Wandelt|[The Cosmic Graph: Optimal Information Extraction from Large-Scale   Structure using Catalogues](http://arxiv.org/abs/2207.05202v1)|2022-07-11 21:34:40+00:00|11-07-2022
+Yingzhen Li|[Repairing Neural Networks by Leaving the Right Past Behind](http://arxiv.org/abs/2207.04806v1)|2022-07-11 12:07:39+00:00|11-07-2022
+Kevin Burke|[A Statistically-Based Approach to Feedforward Neural Network Model   Selection](http://arxiv.org/abs/2207.04248v1)|2022-07-09 11:07:04+00:00|09-07-2022
+Aditya Grover|[Transformer Neural Processes: Uncertainty-Aware Meta Learning Via   Sequence Modeling](http://arxiv.org/abs/2207.04179v1)|2022-07-09 02:28:58+00:00|09-07-2022
+
 ## 12-07-2022
 
 main_author|title|update_date|publish_date

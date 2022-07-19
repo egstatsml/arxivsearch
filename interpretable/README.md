@@ -1,5 +1,15 @@
 # interpretable
 Click on title for link to paper
+## 19-07-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Hong Liu|[Spatiotemporal Propagation Learning for Network-Wide Flight Delay   Prediction](http://arxiv.org/abs/2207.06959v1)|2022-07-14 14:30:59+00:00|14-07-2022
+Mennatallah El-Assady|[Beware the Rationalization Trap! When Language Model Explainability   Diverges from our Mental Models of Language](http://arxiv.org/abs/2207.06897v1)|2022-07-14 13:26:03+00:00|14-07-2022
+Yongdong Zhang|[Explainable Sparse Knowledge Graph Completion via High-order Graph   Reasoning Network](http://arxiv.org/abs/2207.07503v1)|2022-07-14 10:16:56+00:00|14-07-2022
+Preetum Nakkiran|[Benign, Tempered, or Catastrophic: A Taxonomy of Overfitting](http://arxiv.org/abs/2207.06569v1)|2022-07-14 00:23:01+00:00|14-07-2022
+Lianhua Chi|[eX-ViT: A Novel eXplainable Vision Transformer for Weakly Supervised   Semantic Segmentation](http://arxiv.org/abs/2207.05358v1)|2022-07-12 07:43:29+00:00|12-07-2022
+
 ## 12-07-2022
 
 main_author|title|update_date|publish_date
