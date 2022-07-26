@@ -1,5 +1,25 @@
 # bnn
 Click on title for link to paper
+## 26-07-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Yixin Wang|[Statistical and Computational Trade-offs in Variational Inference: A   Case Study in Inferential Model Selection](http://arxiv.org/abs/2207.11208v1)|2022-07-22 17:16:05+00:00|22-07-2022
+Yang Liu|[Visible and Near Infrared Image Fusion Based on Texture Information](http://arxiv.org/abs/2207.10953v1)|2022-07-22 09:02:17+00:00|22-07-2022
+Bryan Zaldívar|[Correcting Model Bias with Sparse Implicit Processes](http://arxiv.org/abs/2207.10673v1)|2022-07-21 18:00:01+00:00|21-07-2022
+Dhruv Madeka|[MQRetNN: Multi-Horizon Time Series Forecasting with Retrieval   Augmentation](http://arxiv.org/abs/2207.10517v1)|2022-07-21 14:51:58+00:00|21-07-2022
+Bill Basener|[Classifying Crop Types using Gaussian Bayesian Models and Neural   Networks on GHISACONUS USGS data from NASA Hyperspectral Satellite Imagery](http://arxiv.org/abs/2207.11228v1)|2022-07-21 14:22:05+00:00|21-07-2022
+Philip N. Garner|[Bayesian Recurrent Units and the Forward-Backward Algorithm](http://arxiv.org/abs/2207.10486v1)|2022-07-21 14:00:52+00:00|21-07-2022
+Charles Sutton|[Language Model Cascades](http://arxiv.org/abs/2207.10342v1)|2022-07-21 07:35:18+00:00|21-07-2022
+Kai-Kuang Ma|[Uncertainty Inspired Underwater Image Enhancement](http://arxiv.org/abs/2207.09689v1)|2022-07-20 06:42:28+00:00|20-07-2022
+Carl Vondrick|[Forget-me-not! Contrastive Critics for Mitigating Posterior Collapse](http://arxiv.org/abs/2207.09535v1)|2022-07-19 20:07:17+00:00|19-07-2022
+Shirley Ho|[Robust Simulation-Based Inference in Cosmology with Bayesian Neural   Networks](http://arxiv.org/abs/2207.08435v2)|2022-07-20 13:02:19+00:00|18-07-2022
+Heiner Stuckenschmidt|[Outlier Explanation via Sum-Product Networks](http://arxiv.org/abs/2207.08414v1)|2022-07-18 07:47:36+00:00|18-07-2022
+Matthew M. Botvinick|[Minimum Description Length Control](http://arxiv.org/abs/2207.08258v3)|2022-07-24 15:12:42+00:00|17-07-2022
+Cedric Archambeau|[Uncertainty Calibration in Bayesian Neural Networks via Distance-Aware   Priors](http://arxiv.org/abs/2207.08200v1)|2022-07-17 15:10:25+00:00|17-07-2022
+Yun Yang|[Mean field Variational Inference via Wasserstein Gradient Flow](http://arxiv.org/abs/2207.08074v1)|2022-07-17 04:05:32+00:00|17-07-2022
+Junmo Kim|[Stochastic Attribute Modeling for Face Super-Resolution](http://arxiv.org/abs/2207.07945v1)|2022-07-16 13:38:05+00:00|16-07-2022
+
 ## 19-07-2022
 
 main_author|title|update_date|publish_date

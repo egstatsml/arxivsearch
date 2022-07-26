@@ -1,5 +1,48 @@
 # fairness
 Click on title for link to paper
+## 26-07-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Mingsheng Ying|[Verifying Fairness in Quantum Machine Learning](http://arxiv.org/abs/2207.11173v1)|2022-07-22 16:18:04+00:00|22-07-2022
+Yuan Zhou|[Fairness-aware Network Revenue Management with Demand Learning](http://arxiv.org/abs/2207.11159v1)|2022-07-22 15:55:49+00:00|22-07-2022
+Dajie Zhang|[Open video data sharing in developmental and behavioural science](http://arxiv.org/abs/2207.11020v1)|2022-07-22 11:47:47+00:00|22-07-2022
+Jiannong Cao|[Revisiting Parameter Reuse to Overcome Catastrophic Forgetting in Neural   Networks](http://arxiv.org/abs/2207.11005v1)|2022-07-22 10:48:06+00:00|22-07-2022
+Jungseock Joo|[FairGRAPE: Fairness-aware GRAdient Pruning mEthod for Face Attribute   Classification](http://arxiv.org/abs/2207.10888v1)|2022-07-22 05:44:03+00:00|22-07-2022
+Gustavo Carneiro|[Uncertainty-aware Multi-modal Learning via Cross-modal Random Network   Prediction](http://arxiv.org/abs/2207.10851v1)|2022-07-22 03:00:10+00:00|22-07-2022
+Bryan Zaldívar|[Correcting Model Bias with Sparse Implicit Processes](http://arxiv.org/abs/2207.10673v1)|2022-07-21 18:00:01+00:00|21-07-2022
+Ransen Niu|[A Dense Material Segmentation Dataset for Indoor and Outdoor Scene   Parsing](http://arxiv.org/abs/2207.10614v1)|2022-07-21 17:15:41+00:00|21-07-2022
+Donald Metzler|[Scaling Laws vs Model Architectures: How does Inductive Bias Influence   Scaling?](http://arxiv.org/abs/2207.10551v1)|2022-07-21 15:50:22+00:00|21-07-2022
+He Wang|[Human Trajectory Prediction via Neural Social Physics](http://arxiv.org/abs/2207.10435v1)|2022-07-21 12:11:18+00:00|21-07-2022
+Sam Lewallen|[The Neural Race Reduction: Dynamics of Abstraction in Gated Networks](http://arxiv.org/abs/2207.10430v1)|2022-07-21 12:01:03+00:00|21-07-2022
+Jessica Schrouff|[Detecting and Preventing Shortcut Learning for Fair Medical AI using   Shortcut Testing (ShorT)](http://arxiv.org/abs/2207.10384v1)|2022-07-21 09:35:38+00:00|21-07-2022
+Lei Zhang|[Auto Machine Learning for Medical Image Analysis by Unifying the Search   on Data Augmentation and Neural Architecture](http://arxiv.org/abs/2207.10351v1)|2022-07-21 08:12:22+00:00|21-07-2022
+Bumsub Ham|[OIMNet++: Prototypical Normalization and Localization-aware Learning for   Person Search](http://arxiv.org/abs/2207.10320v1)|2022-07-21 06:34:03+00:00|21-07-2022
+Jeff Schneider|[Addressing Optimism Bias in Sequence Modeling for Reinforcement Learning](http://arxiv.org/abs/2207.10295v1)|2022-07-21 04:12:48+00:00|21-07-2022
+Bo Li|[FOCUS: Fairness via Agent-Awareness for Federated Learning on   Heterogeneous Data](http://arxiv.org/abs/2207.10265v1)|2022-07-21 02:21:03+00:00|21-07-2022
+Ajita Rattani|[GBDF: Gender Balanced DeepFake Dataset Towards Fair DeepFake Detection](http://arxiv.org/abs/2207.10246v1)|2022-07-21 01:00:40+00:00|21-07-2022
+Willem Zuidema|[The Birth of Bias: A case study on the evolution of gender bias in an   English language model](http://arxiv.org/abs/2207.10245v1)|2022-07-21 00:59:04+00:00|21-07-2022
+Bernhard Schölkopf|[Structural Causal 3D Reconstruction](http://arxiv.org/abs/2207.10156v1)|2022-07-20 19:22:06+00:00|20-07-2022
+Chenliang Xu|[Discover and Mitigate Unknown Biases with Debiasing Alternate Networks](http://arxiv.org/abs/2207.10077v1)|2022-07-20 17:59:51+00:00|20-07-2022
+Lane Harrison|[MANI-Rank: Multiple Attribute and Intersectional Group Fairness for   Consensus Ranking](http://arxiv.org/abs/2207.10020v1)|2022-07-20 16:36:20+00:00|20-07-2022
+Xia Hu|[Mitigating Algorithmic Bias with Limited Annotations](http://arxiv.org/abs/2207.10018v1)|2022-07-20 16:31:19+00:00|20-07-2022
+Nicolas Usunier|[Measuring and signing fairness as performance under multiple stakeholder   distributions](http://arxiv.org/abs/2207.09960v1)|2022-07-20 15:10:02+00:00|20-07-2022
+Ben Glocker|[Estimating Model Performance under Domain Shifts with Class-Specific   Confidence Scores](http://arxiv.org/abs/2207.09957v1)|2022-07-20 15:04:32+00:00|20-07-2022
+Ray Eitel-Porter|[AI Fairness: from Principles to Practice](http://arxiv.org/abs/2207.09833v1)|2022-07-20 11:37:46+00:00|20-07-2022
+Gregor Verbic|[Operating Envelopes under Probabilistic Electricity Demand and Solar   Generation Forecasts](http://arxiv.org/abs/2207.09818v1)|2022-07-20 11:07:46+00:00|20-07-2022
+Dawei Song|[Doge Tickets: Uncovering Domain-general Language Models by Playing   Lottery Tickets](http://arxiv.org/abs/2207.09638v1)|2022-07-20 03:37:37+00:00|20-07-2022
+Xinmei Tian|[Self-Supervision Can Be a Good Few-Shot Learner](http://arxiv.org/abs/2207.09176v1)|2022-07-19 10:23:40+00:00|19-07-2022
+Hyun Myung|[eCDT: Event Clustering for Simultaneous Feature Detection and Tracking-](http://arxiv.org/abs/2207.09108v2)|2022-07-20 05:40:43+00:00|19-07-2022
+Fumito Masui|[Can You Fool AI by Doing a 180? $\unicode{x2013}$ A Case Study on   Authorship Analysis of Texts by Arata Osada](http://arxiv.org/abs/2207.09085v1)|2022-07-19 05:43:49+00:00|19-07-2022
+Jinwoo Shin|[Time Is MattEr: Temporal Self-supervision for Video Transformers](http://arxiv.org/abs/2207.09067v1)|2022-07-19 04:44:08+00:00|19-07-2022
+Emily McMilin|[Selection Bias Induced Spurious Correlations in Large Language Models](http://arxiv.org/abs/2207.08982v1)|2022-07-18 23:43:52+00:00|18-07-2022
+Gergely Neu|[Online Learning with Off-Policy Feedback](http://arxiv.org/abs/2207.08956v1)|2022-07-18 21:57:16+00:00|18-07-2022
+Eric P. Xing|[MRCLens: an MRC Dataset Bias Detection Toolkit](http://arxiv.org/abs/2207.08943v1)|2022-07-18 21:05:39+00:00|18-07-2022
+Kai Shu|[On Fair Classification with Mostly Private Sensitive Attributes](http://arxiv.org/abs/2207.08336v1)|2022-07-18 01:10:25+00:00|18-07-2022
+Timothy Hospedales|[HyperInvariances: Amortizing Invariance Learning](http://arxiv.org/abs/2207.08304v1)|2022-07-17 21:40:37+00:00|17-07-2022
+Dawei Song|[A Multibias-mitigated and Sentiment Knowledge Enriched Transformer for   Debiasing in Multimodal Conversational Emotion Recognition](http://arxiv.org/abs/2207.08104v1)|2022-07-17 08:16:49+00:00|17-07-2022
+Jong Chul Ye|[Progressive Deblurring of Diffusion Models for Coarse-to-Fine Image   Synthesis](http://arxiv.org/abs/2207.11192v1)|2022-07-16 15:00:21+00:00|16-07-2022
+
 ## 19-07-2022
 
 main_author|title|update_date|publish_date

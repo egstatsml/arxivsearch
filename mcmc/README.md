@@ -1,5 +1,17 @@
 # mcmc
 Click on title for link to paper
+## 26-07-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Jin Tang|[Few-Shot Class-Incremental Learning via Entropy-Regularized Data-Free   Replay](http://arxiv.org/abs/2207.11213v1)|2022-07-22 17:30:51+00:00|22-07-2022
+Yixin Wang|[Statistical and Computational Trade-offs in Variational Inference: A   Case Study in Inferential Model Selection](http://arxiv.org/abs/2207.11208v1)|2022-07-22 17:16:05+00:00|22-07-2022
+Bryan Zaldívar|[Correcting Model Bias with Sparse Implicit Processes](http://arxiv.org/abs/2207.10673v1)|2022-07-21 18:00:01+00:00|21-07-2022
+Xiaoming Liu|[2D GANs Meet Unsupervised Single-view 3D Reconstruction](http://arxiv.org/abs/2207.10183v1)|2022-07-20 20:24:07+00:00|20-07-2022
+Ramesh Raskar|[Differentiable Agent-based Epidemiology](http://arxiv.org/abs/2207.09714v1)|2022-07-20 07:32:02+00:00|20-07-2022
+Shirley Ho|[Robust Simulation-Based Inference in Cosmology with Bayesian Neural   Networks](http://arxiv.org/abs/2207.08435v2)|2022-07-20 13:02:19+00:00|18-07-2022
+Junmo Kim|[Stochastic Attribute Modeling for Face Super-Resolution](http://arxiv.org/abs/2207.07945v1)|2022-07-16 13:38:05+00:00|16-07-2022
+
 ## 19-07-2022
 
 main_author|title|update_date|publish_date

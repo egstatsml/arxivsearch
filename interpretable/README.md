@@ -1,5 +1,18 @@
 # interpretable
 Click on title for link to paper
+## 26-07-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Yanning Shen|[Explaining Dynamic Graph Neural Networks via Relevance Back-propagation](http://arxiv.org/abs/2207.11175v1)|2022-07-22 16:20:34+00:00|22-07-2022
+Deniz Neufeld|[Explainable AI Algorithms for Vibration Data-based Fault Detection: Use   Case-adadpted Methods and Critical Evaluation](http://arxiv.org/abs/2207.10732v1)|2022-07-21 19:57:36+00:00|21-07-2022
+Jinkyu Kim|[Grounding Visual Representations with Texts for Domain Generalization](http://arxiv.org/abs/2207.10285v1)|2022-07-21 03:43:38+00:00|21-07-2022
+Angela Yao|[Discrete-Constrained Regression for Local Counting Models](http://arxiv.org/abs/2207.09865v1)|2022-07-20 12:54:23+00:00|20-07-2022
+Navid Asadizanjani|[EVHA: Explainable Vision System for Hardware Testing and Assurance -- An   Overview](http://arxiv.org/abs/2207.09627v1)|2022-07-20 02:58:46+00:00|20-07-2022
+Alexander Wong|[Towards Trustworthy Healthcare AI: Attention-Based Feature Learning for   COVID-19 Screening With Chest Radiography](http://arxiv.org/abs/2207.09312v1)|2022-07-19 14:55:42+00:00|19-07-2022
+Nitesh Saxena|[Human Brains Can't Detect Fake News: A Neuro-Cognitive Study of Textual   Disinformation Susceptibility](http://arxiv.org/abs/2207.08376v1)|2022-07-18 04:31:07+00:00|18-07-2022
+Aparajita Ojha|[Explainable vision transformer enabled convolutional neural network for   plant disease identification: PlantXViT](http://arxiv.org/abs/2207.07919v1)|2022-07-16 12:05:06+00:00|16-07-2022
+
 ## 19-07-2022
 
 main_author|title|update_date|publish_date
