@@ -1,5 +1,16 @@
 # interpretable
 Click on title for link to paper
+## 02-08-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Pietro Lio|[Encoding Concepts in Graph Neural Networks](http://arxiv.org/abs/2207.13586v2)|2022-07-31 20:34:53+00:00|27-07-2022
+Nicolas Schönborn|[Explaining Deep Neural Networks for Point Clouds using Gradient-based   Visualisations](http://arxiv.org/abs/2207.12984v1)|2022-07-26 15:42:08+00:00|26-07-2022
+Stéphanie Maldera|[An Explainable Decision Support System for Predictive Process Analytics](http://arxiv.org/abs/2207.12782v1)|2022-07-26 09:55:49+00:00|26-07-2022
+the N3C consortium|[MedML: Fusing Medical Knowledge and Machine Learning Models for Early   Pediatric COVID-19 Hospitalization and Severity Prediction](http://arxiv.org/abs/2207.12283v1)|2022-07-25 15:56:14+00:00|25-07-2022
+Kejun Wang|[Source Separation of Unknown Numbers of Single-Channel Underwater   Acoustic Signals Based on Autoencoders](http://arxiv.org/abs/2207.11749v1)|2022-07-24 14:04:34+00:00|24-07-2022
+Min Zhang|[Chunk-aware Alignment and Lexical Constraint for Visual Entailment with   Natural Language Explanations](http://arxiv.org/abs/2207.11401v1)|2022-07-23 03:19:50+00:00|23-07-2022
+
 ## 26-07-2022
 
 main_author|title|update_date|publish_date

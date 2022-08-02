@@ -1,5 +1,52 @@
 # fairness
 Click on title for link to paper
+## 02-08-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Jiaya Jia|[End-to-end View Synthesis via NeRF Attention](http://arxiv.org/abs/2207.14741v2)|2022-08-01 03:53:27+00:00|29-07-2022
+Deqiang Qiu|[Robust Quantitative Susceptibility Mapping via Approximate Message   Passing](http://arxiv.org/abs/2207.14709v1)|2022-07-29 14:38:03+00:00|29-07-2022
+Jianxin Liao|[Can Shuffling Video Benefit Temporal Bias Problem: A Novel Training   Framework for Temporal Grounding](http://arxiv.org/abs/2207.14698v1)|2022-07-29 14:11:48+00:00|29-07-2022
+Dirk Tasche|[Factorizable Joint Shift in Multinomial Classification](http://arxiv.org/abs/2207.14514v1)|2022-07-29 07:21:44+00:00|29-07-2022
+Katsuyuki Nakamura|[Class-Difficulty Based Methods for Long-Tailed Visual Recognition](http://arxiv.org/abs/2207.14499v1)|2022-07-29 06:33:22+00:00|29-07-2022
+Michael Mayer|[SHAP for additively modeled features in a boosted trees model](http://arxiv.org/abs/2207.14490v1)|2022-07-29 05:56:00+00:00|29-07-2022
+Dina Deitsch|[A Recommender System for Equitable Public Art Curation and Installation](http://arxiv.org/abs/2207.14367v1)|2022-07-28 19:59:41+00:00|28-07-2022
+Vijay Srivastava|[Multiple Attribute Fairness: Application to Fraud Detection](http://arxiv.org/abs/2207.14355v1)|2022-07-28 19:19:45+00:00|28-07-2022
+Juan Carrasquilla|[Supplementing Recurrent Neural Network Wave Functions with Symmetry and   Annealing to Improve Accuracy](http://arxiv.org/abs/2207.14314v1)|2022-07-28 18:00:03+00:00|28-07-2022
+Michael K. Ng|[Separable Quaternion Matrix Factorization for Polarization Images](http://arxiv.org/abs/2207.14039v1)|2022-07-28 12:27:50+00:00|28-07-2022
+Guangqi Xie|[MKANet: A Lightweight Network with Sobel Boundary Loss for Efficient   Land-cover Classification of Satellite Remote Sensing Imagery](http://arxiv.org/abs/2207.13866v1)|2022-07-28 03:29:08+00:00|28-07-2022
+Deyu Meng|[Learning to Adapt Classifier for Imbalanced Semi-supervised Learning](http://arxiv.org/abs/2207.13856v1)|2022-07-28 02:15:47+00:00|28-07-2022
+Alejandro Perdomo-Ortiz|[Do Quantum Circuit Born Machines Generalize?](http://arxiv.org/abs/2207.13645v1)|2022-07-27 17:06:34+00:00|27-07-2022
+Sara Shashaani|[Robust Prediction Error Estimation with Monte-Carlo Methodology](http://arxiv.org/abs/2207.13612v1)|2022-07-27 16:21:59+00:00|27-07-2022
+Robert C. Williamson|[Fairness and Randomness in Machine Learning: Statistical Independence   and Relativization](http://arxiv.org/abs/2207.13596v1)|2022-07-27 15:55:05+00:00|27-07-2022
+Pradeep Varakantham|[Towards Soft Fairness in Restless Multi-Armed Bandits](http://arxiv.org/abs/2207.13343v1)|2022-07-27 07:56:32+00:00|27-07-2022
+Kwanghoon Sohn|[PointFix: Learning to Fix Domain Bias for Robust Online Stereo   Adaptation](http://arxiv.org/abs/2207.13340v1)|2022-07-27 07:48:29+00:00|27-07-2022
+Mike Li|[Should Bank Stress Tests Be Fair?](http://arxiv.org/abs/2207.13319v1)|2022-07-27 06:46:51+00:00|27-07-2022
+Haifeng Liu|[Convolutional Embedding Makes Hierarchical Vision Transformer Stronger](http://arxiv.org/abs/2207.13317v2)|2022-08-01 06:13:52+00:00|27-07-2022
+Bing Qin|[Hansel: A Chinese Few-Shot and Zero-Shot Entity Linking Benchmark](http://arxiv.org/abs/2207.13005v1)|2022-07-26 16:09:07+00:00|26-07-2022
+Eunbyung Park|[PIXEL: Physics-Informed Cell Representations for Fast and Accurate PDE   Solvers](http://arxiv.org/abs/2207.12800v1)|2022-07-26 10:46:56+00:00|26-07-2022
+Francisco Chinesta|[Thermodynamics of learning physical phenomena](http://arxiv.org/abs/2207.12749v1)|2022-07-26 08:56:18+00:00|26-07-2022
+Natarajan S|[An Automated News Bias Classifier Using Caenorhabditis Elegans Inspired   Recursive Feedback Network Architecture](http://arxiv.org/abs/2207.12724v1)|2022-07-26 08:26:26+00:00|26-07-2022
+Jongwuk Lee|[Bilateral Self-unbiased Learning from Biased Implicit Feedback](http://arxiv.org/abs/2207.12660v1)|2022-07-26 05:17:42+00:00|26-07-2022
+Naren Ramakrishnan|[Innovations in Neural Data-to-text Generation](http://arxiv.org/abs/2207.12571v1)|2022-07-25 23:21:48+00:00|25-07-2022
+Jaume Bacardit|[Benchmark time series data sets for PyTorch -- the torchtime package](http://arxiv.org/abs/2207.12503v1)|2022-07-25 20:06:36+00:00|25-07-2022
+Jeremias Sulam|[Estimating and Controlling for Fairness via Sensitive Attribute   Predictors](http://arxiv.org/abs/2207.12497v1)|2022-07-25 19:56:02+00:00|25-07-2022
+Hanwang Zhang|[Equivariance and Invariance Inductive Bias for Learning from   Insufficient Data](http://arxiv.org/abs/2207.12258v1)|2022-07-25 15:26:19+00:00|25-07-2022
+Parashkev Nachev|[Representational Ethical Model Calibration](http://arxiv.org/abs/2207.12043v1)|2022-07-25 10:33:39+00:00|25-07-2022
+Markus Zopf|[Effective and Interpretable Information Aggregation with Capacity   Networks](http://arxiv.org/abs/2207.12013v1)|2022-07-25 09:45:16+00:00|25-07-2022
+Zac Cranko|[Information Processing Equalities and the Information-Risk Bridge](http://arxiv.org/abs/2207.11987v1)|2022-07-25 08:54:36+00:00|25-07-2022
+Yan Yan|[Visual Perturbation-aware Collaborative Learning for Overcoming the   Language Prior Problem](http://arxiv.org/abs/2207.11850v1)|2022-07-24 23:50:52+00:00|24-07-2022
+Marie-Francine Moens|[Anti-Overestimation Dialogue Policy Learning for Task-Completion   Dialogue System](http://arxiv.org/abs/2207.11762v1)|2022-07-24 15:38:08+00:00|24-07-2022
+R. J. Cintra|[Prediction Intervals in the Beta Autoregressive Moving Average Model](http://arxiv.org/abs/2207.11628v1)|2022-07-24 01:22:27+00:00|24-07-2022
+Tim Rocktäschel|[Hierarchical Kickstarting for Skill Transfer in Reinforcement Learning](http://arxiv.org/abs/2207.11584v1)|2022-07-23 19:23:29+00:00|23-07-2022
+Szabolcs Márka|[Boosting the Efficiency of Parametric Detection with Hierarchical Neural   Networks](http://arxiv.org/abs/2207.11583v1)|2022-07-23 19:23:00+00:00|23-07-2022
+Matthew Gombolay|[Robots Enact Malignant Stereotypes](http://arxiv.org/abs/2207.11569v1)|2022-07-23 18:08:12+00:00|23-07-2022
+Jiang Bian|[Variational Temporal Deconfounder for Individualized Treatment Effect   Estimation from Longitudinal Observational Data](http://arxiv.org/abs/2207.11251v1)|2022-07-23 16:43:12+00:00|23-07-2022
+Philip S. Marcus|[Optimization of the Shape of a Hydrokinetic Turbine's Draft Tube and Hub   Assembly Using Design-by-Morphing with Bayesian Optimization](http://arxiv.org/abs/2207.11451v2)|2022-08-01 06:19:11+00:00|23-07-2022
+Jingwen Shi|[Handling Data Heterogeneity in Federated Learning via Knowledge Fusion](http://arxiv.org/abs/2207.11447v1)|2022-07-23 07:20:22+00:00|23-07-2022
+Elias Bareinboim|[Causal Fairness Analysis](http://arxiv.org/abs/2207.11385v1)|2022-07-23 01:06:34+00:00|23-07-2022
+Bobak J. Mortazavi|[Density-Aware Personalized Training for Risk Prediction in Imbalanced   Medical Data](http://arxiv.org/abs/2207.11382v2)|2022-07-29 18:13:59+00:00|23-07-2022
+
 ## 26-07-2022
 
 main_author|title|update_date|publish_date

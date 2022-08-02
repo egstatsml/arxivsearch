@@ -1,5 +1,18 @@
 # mcmc
 Click on title for link to paper
+## 02-08-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Yaping Huang|[Uncertainty-Driven Action Quality Assessment](http://arxiv.org/abs/2207.14513v1)|2022-07-29 07:21:15+00:00|29-07-2022
+Ashish Kapoor|[Sample-efficient Safe Learning for Online Nonlinear Control with Control   Barrier Functions](http://arxiv.org/abs/2207.14419v1)|2022-07-29 00:54:35+00:00|29-07-2022
+Sebastian Trimpe|[Improving the Performance of Robust Control through Event-Triggered   Learning](http://arxiv.org/abs/2207.14252v1)|2022-07-28 17:36:37+00:00|28-07-2022
+Guang-Zhong Yang|[Re-thinking and Re-labeling LIDC-IDRI for Robust Pulmonary Cancer   Prediction](http://arxiv.org/abs/2207.14238v1)|2022-07-28 17:18:01+00:00|28-07-2022
+Mikhail Burtsev|[Explain My Surprise: Learning Efficient Long-Term Memory by Predicting   Uncertain Outcomes](http://arxiv.org/abs/2207.13649v1)|2022-07-27 17:12:47+00:00|27-07-2022
+James R. Luedtke|[Data-Driven Sample Average Approximation with Covariate Information](http://arxiv.org/abs/2207.13554v1)|2022-07-27 14:45:04+00:00|27-07-2022
+Axel Parmentier|[Learning with Combinatorial Optimization Layers: a Probabilistic   Approach](http://arxiv.org/abs/2207.13513v1)|2022-07-27 13:37:22+00:00|27-07-2022
+Guansong Pang|[Calibrated One-class Classification for Unsupervised Time Series Anomaly   Detection](http://arxiv.org/abs/2207.12201v1)|2022-07-25 13:43:13+00:00|25-07-2022
+
 ## 26-07-2022
 
 main_author|title|update_date|publish_date

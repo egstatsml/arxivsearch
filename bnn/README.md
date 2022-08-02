@@ -1,5 +1,22 @@
 # bnn
 Click on title for link to paper
+## 02-08-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Gim Hee Lee|[Minimal Neural Atlas: Parameterizing Complex Surfaces with Minimal   Charts and Distortion](http://arxiv.org/abs/2207.14782v1)|2022-07-29 16:55:06+00:00|29-07-2022
+Robert Legenstein|[Restoring Vision in Adverse Weather Conditions with Patch-Based   Denoising Diffusion Models](http://arxiv.org/abs/2207.14626v1)|2022-07-29 11:52:41+00:00|29-07-2022
+Kalyan Veeramachaneni|[Sequential Models in the Synthetic Data Vault](http://arxiv.org/abs/2207.14406v1)|2022-07-28 23:17:51+00:00|28-07-2022
+Sebastian Trimpe|[Improving the Performance of Robust Control through Event-Triggered   Learning](http://arxiv.org/abs/2207.14252v1)|2022-07-28 17:36:37+00:00|28-07-2022
+Fabio Fehr|[A Variational AutoEncoder for Transformers with Nonparametric   Variational Information Bottleneck](http://arxiv.org/abs/2207.13529v1)|2022-07-27 13:59:23+00:00|27-07-2022
+Stefan Leutenegger|[Towards the Probabilistic Fusion of Learned Priors into Standard   Pipelines for 3D Reconstruction](http://arxiv.org/abs/2207.13464v1)|2022-07-27 11:28:49+00:00|27-07-2022
+Marek Cygan|[One Simple Trick to Fix Your Bayesian Neural Network](http://arxiv.org/abs/2207.13167v1)|2022-07-26 19:45:36+00:00|26-07-2022
+Sotirios A. Tsaftaris|[What is Healthy? Generative Counterfactual Diffusion for Lesion   Localization](http://arxiv.org/abs/2207.12268v1)|2022-07-25 15:41:12+00:00|25-07-2022
+Stefan Leutenegger|[DeepFusion: Real-Time Dense 3D Reconstruction for Monocular SLAM using   Single-View Depth and Gradient Predictions](http://arxiv.org/abs/2207.12244v1)|2022-07-25 14:55:26+00:00|25-07-2022
+Qianru Sun|[On Mitigating Hard Clusters for Face Clustering](http://arxiv.org/abs/2207.11895v1)|2022-07-25 03:55:15+00:00|25-07-2022
+Felix J. Herrmann|[Reliable amortized variational inference with physics-based latent   distribution correction](http://arxiv.org/abs/2207.11640v1)|2022-07-24 02:38:54+00:00|24-07-2022
+Devesh Tiwari|[RIBBON: Cost-Effective and QoS-Aware Deep Learning Model Inference using   a Diverse Pool of Cloud Computing Instances](http://arxiv.org/abs/2207.11434v2)|2022-07-28 06:01:29+00:00|23-07-2022
+
 ## 26-07-2022
 
 main_author|title|update_date|publish_date
