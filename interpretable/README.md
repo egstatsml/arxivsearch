@@ -1,5 +1,15 @@
 # interpretable
 Click on title for link to paper
+## 09-08-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Sabah Jassim|[Artificial Image Tampering Distorts Spatial Distribution of Texture   Landmarks and Quality Characteristics](http://arxiv.org/abs/2208.02710v1)|2022-08-04 15:13:00+00:00|04-08-2022
+Ali Hakan Işık|[Diagnosis of Paratuberculosis in Histopathological Images Based on   Explainable Artificial Intelligence and Deep Learning](http://arxiv.org/abs/2208.01674v1)|2022-08-02 18:05:26+00:00|02-08-2022
+Ana I. L. Namburete|[INSightR-Net: Interpretable Neural Network for Regression using   Similarity-based Comparisons to Prototypical Examples](http://arxiv.org/abs/2208.00457v1)|2022-07-31 15:56:15+00:00|31-07-2022
+Dongmei Yu|[Neuro-Symbolic Learning: Principles and Applications in Ophthalmology](http://arxiv.org/abs/2208.00374v1)|2022-07-31 06:48:19+00:00|31-07-2022
+Niranjan Balasubramanian|[PASTA: A Dataset for Modeling Participant States in Narratives](http://arxiv.org/abs/2208.00329v1)|2022-07-31 01:21:48+00:00|31-07-2022
+
 ## 02-08-2022
 
 main_author|title|update_date|publish_date

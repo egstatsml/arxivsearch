@@ -1,5 +1,13 @@
 # variational
 Click on title for link to paper
+## 09-08-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Yunfeng Liu|[ZLPR: A Novel Loss for Multi-label Classification](http://arxiv.org/abs/2208.02955v1)|2022-08-05 02:36:16+00:00|05-08-2022
+Yi He|[An Online Sparse Streaming Feature Selection Algorithm](http://arxiv.org/abs/2208.01562v2)|2022-08-03 14:34:11+00:00|02-08-2022
+Ketan Savla|[An Experimental Study on Learning Correlated Equilibrium in Routing   Games](http://arxiv.org/abs/2208.00391v1)|2022-07-31 08:17:01+00:00|31-07-2022
+
 ## 02-08-2022
 
 main_author|title|update_date|publish_date

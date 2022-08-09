@@ -1,5 +1,48 @@
 # fairness
 Click on title for link to paper
+## 09-08-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Martin Kampel|[Bias and Fairness in Computer Vision Applications of the Criminal   Justice System](http://arxiv.org/abs/2208.03209v1)|2022-08-05 14:48:52+00:00|05-08-2022
+Yanwu Xu|[Calibrate the inter-observer segmentation uncertainty via   diagnosis-first principle](http://arxiv.org/abs/2208.03016v1)|2022-08-05 07:12:24+00:00|05-08-2022
+Yunfeng Liu|[ZLPR: A Novel Loss for Multi-label Classification](http://arxiv.org/abs/2208.02955v1)|2022-08-05 02:36:16+00:00|05-08-2022
+Rui Zhuang|[ACE: Adaptive Constraint-aware Early Stopping in Hyperparameter   Optimization](http://arxiv.org/abs/2208.02922v1)|2022-08-04 22:56:16+00:00|04-08-2022
+Christopher G. Brinton|[Embedding Alignment for Unsupervised Federated Learning via Smart Data   Exchange](http://arxiv.org/abs/2208.02856v1)|2022-08-04 19:26:59+00:00|04-08-2022
+Ramesh Srinivasan|[Decision SincNet: Neurocognitive models of decision making that predict   cognitive processes from neural signals](http://arxiv.org/abs/2208.02845v1)|2022-08-04 18:51:29+00:00|04-08-2022
+Timothy Eadie|[Unsupervised Graph Spectral Feature Denoising for Crop Yield Prediction](http://arxiv.org/abs/2208.02714v1)|2022-08-04 15:18:06+00:00|04-08-2022
+Aravindan Vijayaraghavan|[Agnostic Learning of General ReLU Activation Using Gradient Descent](http://arxiv.org/abs/2208.02711v1)|2022-08-04 15:14:05+00:00|04-08-2022
+Stefan Kramer|[Invariant Representations with Stochastically Quantized Neural Networks](http://arxiv.org/abs/2208.02656v1)|2022-08-04 13:36:06+00:00|04-08-2022
+Cewu Lu|[Constructing Balance from Imbalance for Long-tailed Image Recognition](http://arxiv.org/abs/2208.02567v1)|2022-08-04 10:22:24+00:00|04-08-2022
+Xiaoqi Qin|[Communication Beyond Transmitting Bits: Semantics-Guided Source and   Channel Coding](http://arxiv.org/abs/2208.02481v1)|2022-08-04 06:12:55+00:00|04-08-2022
+Truong Thao Nguyen|[FedDRL: Deep Reinforcement Learning-based Adaptive Aggregation for   Non-IID Data in Federated Learning](http://arxiv.org/abs/2208.02442v1)|2022-08-04 04:24:16+00:00|04-08-2022
+Rohitash Chandra|[Evolutionary bagged ensemble learning](http://arxiv.org/abs/2208.02400v1)|2022-08-04 01:52:57+00:00|04-08-2022
+Jing Huang|[SpanDrop: Simple and Effective Counterfactual Learning for Long   Sequences](http://arxiv.org/abs/2208.02169v1)|2022-08-03 15:58:37+00:00|03-08-2022
+Muhammad Firmansyah Kasim|[Unifying physical systems' inductive biases in neural ODE using dynamics   constraints](http://arxiv.org/abs/2208.02632v1)|2022-08-03 14:33:35+00:00|03-08-2022
+Andrea Mazzoleni|[DeepProphet2 -- A Deep Learning Gene Recommendation Engine](http://arxiv.org/abs/2208.01918v1)|2022-08-03 08:54:13+00:00|03-08-2022
+Mikio Hasegawa|[A Lightweight Transmission Parameter Selection Scheme Using   Reinforcement Learning for LoRaWAN](http://arxiv.org/abs/2208.01824v1)|2022-08-03 03:10:58+00:00|03-08-2022
+Vivek Subramanian|[Exploring Gender Bias in Retrieval Models](http://arxiv.org/abs/2208.01755v2)|2022-08-06 05:31:53+00:00|02-08-2022
+Andrew Gilbert|[Two-Stream Transformer Architecture for Long Video Understanding](http://arxiv.org/abs/2208.01753v1)|2022-08-02 21:03:48+00:00|02-08-2022
+Mark Coates|[Adapting Triplet Importance of Implicit Feedback for Personalized   Recommendation](http://arxiv.org/abs/2208.01709v2)|2022-08-05 03:00:50+00:00|02-08-2022
+Robert Dürichen|[Enabling scalable clinical interpretation of ML-based phenotypes using   real world data](http://arxiv.org/abs/2208.01607v1)|2022-08-02 17:31:03+00:00|02-08-2022
+Sanmi Koyejo|[The Curse of Low Task Diversity: On the Failure of Transfer Learning to   Outperform MAML and Their Empirical Equivalence](http://arxiv.org/abs/2208.01545v1)|2022-08-02 15:49:11+00:00|02-08-2022
+Paolo Fiorini|[CIPCaD-Bench: Continuous Industrial Process datasets for benchmarking   Causal Discovery methods](http://arxiv.org/abs/2208.01529v1)|2022-08-02 15:30:10+00:00|02-08-2022
+Hema Yoganarasimhan|[A Recursive Partitioning Approach for Dynamic Discrete Choice Modeling   in High Dimensional Settings](http://arxiv.org/abs/2208.01476v1)|2022-08-02 14:13:25+00:00|02-08-2022
+Ashton Anderson|[Detecting Individual Decision-Making Style: Exploring Behavioral   Stylometry in Chess](http://arxiv.org/abs/2208.01366v1)|2022-08-02 11:18:16+00:00|02-08-2022
+Jelle Peperzak|[Gender bias in (non)-contextual clinical word embeddings for   stereotypical medical categories](http://arxiv.org/abs/2208.01341v2)|2022-08-08 14:18:42+00:00|02-08-2022
+Soroush Sheikh Gargar|[Explicit Use of Fourier Spectrum in Generative Adversarial Networks](http://arxiv.org/abs/2208.01265v1)|2022-08-02 06:26:44+00:00|02-08-2022
+Tara J. Hamilton|[Making a Spiking Net Work: Robust brain-like unsupervised machine   learning](http://arxiv.org/abs/2208.01204v1)|2022-08-02 02:10:00+00:00|02-08-2022
+Jenna Wiens|[Disparate Censorship & Undertesting: A Source of Label Bias in Clinical   Machine Learning](http://arxiv.org/abs/2208.01127v1)|2022-08-01 20:15:31+00:00|01-08-2022
+Roghayeh Barmaki|[Dyadic Movement Synchrony Estimation Under Privacy-preserving Conditions](http://arxiv.org/abs/2208.01100v1)|2022-08-01 18:59:05+00:00|01-08-2022
+Peter Palensky|[Performance Comparison of Deep RL Algorithms for Energy Systems Optimal   Scheduling](http://arxiv.org/abs/2208.00728v1)|2022-08-01 10:25:52+00:00|01-08-2022
+In So Kweon|[Generative Bias for Visual Question Answering](http://arxiv.org/abs/2208.00690v2)|2022-08-02 02:53:59+00:00|01-08-2022
+Fang Chen|[De-biased Representation Learning for Fairness with Unreliable Labels](http://arxiv.org/abs/2208.00651v1)|2022-08-01 07:16:40+00:00|01-08-2022
+Daniel Ramos|[Adaptive Temperature Scaling for Robust Calibration of Deep Neural   Networks](http://arxiv.org/abs/2208.00461v1)|2022-07-31 16:20:06+00:00|31-07-2022
+Shalabh Bhatnagar|[A Gradient Smoothed Functional Algorithm with Truncated Cauchy Random   Perturbations for Stochastic Optimization](http://arxiv.org/abs/2208.00290v1)|2022-07-30 18:50:36+00:00|30-07-2022
+Ismail Ben Ayed|[Simplex Clustering via sBeta with Applications to Online Adjustment of   Black-Box Predictions](http://arxiv.org/abs/2208.00287v2)|2022-08-02 16:52:45+00:00|30-07-2022
+Xiangyu Zhang|[Revisiting the Critical Factors of Augmentation-Invariant Representation   Learning](http://arxiv.org/abs/2208.00275v1)|2022-07-30 17:07:13+00:00|30-07-2022
+Michael Mathioudakis|[Streaming Algorithms for Diversity Maximization with Fairness   Constraints](http://arxiv.org/abs/2208.00194v1)|2022-07-30 11:47:31+00:00|30-07-2022
+
 ## 02-08-2022
 
 main_author|title|update_date|publish_date

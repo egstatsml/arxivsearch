@@ -1,5 +1,21 @@
 # bnn
 Click on title for link to paper
+## 09-08-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Nesar Ramachandra|[Interpretable Uncertainty Quantification in AI for HEP](http://arxiv.org/abs/2208.03284v1)|2022-08-05 17:20:27+00:00|05-08-2022
+Marc Modat|[Driving Points Prediction For Abdominal Probabilistic Registration](http://arxiv.org/abs/2208.03232v1)|2022-08-05 15:28:01+00:00|05-08-2022
+Seiichi Uchida|[Deep Bayesian Active-Learning-to-Rank for Endoscopic Image Data](http://arxiv.org/abs/2208.03020v1)|2022-08-05 07:22:08+00:00|05-08-2022
+Sai-Kit Yeung|[360Roam: Real-Time Indoor Roaming Using Geometry-Aware ${360^\circ}$   Radiance Fields](http://arxiv.org/abs/2208.02705v1)|2022-08-04 15:06:29+00:00|04-08-2022
+Stan Z. Li|[Exploring Generative Neural Temporal Point Process](http://arxiv.org/abs/2208.01874v2)|2022-08-04 08:21:20+00:00|03-08-2022
+Arthur Gretton|[Optimal Rates for Regularized Conditional Mean Embedding Learning](http://arxiv.org/abs/2208.01711v1)|2022-08-02 19:47:43+00:00|02-08-2022
+Philipp Hennig|[Approximate Bayesian Neural Operators: Uncertainty Quantification for   Parametric PDEs](http://arxiv.org/abs/2208.01565v1)|2022-08-02 16:10:27+00:00|02-08-2022
+Le Lu|[A New Probabilistic V-Net Model with Hierarchical Spatial Feature   Transform for Efficient Abdominal Multi-Organ Segmentation](http://arxiv.org/abs/2208.01382v1)|2022-08-02 11:51:46+00:00|02-08-2022
+Freddy Bouchet|[Probabilistic forecasts of extreme heatwaves using convolutional neural   networks in a regime of lack of data](http://arxiv.org/abs/2208.00971v1)|2022-08-01 16:19:38+00:00|01-08-2022
+Yonghui Li|[Unitary Approximate Message Passing for Matrix Factorization](http://arxiv.org/abs/2208.00422v1)|2022-07-31 12:09:32+00:00|31-07-2022
+Ismail Ben Ayed|[Simplex Clustering via sBeta with Applications to Online Adjustment of   Black-Box Predictions](http://arxiv.org/abs/2208.00287v2)|2022-08-02 16:52:45+00:00|30-07-2022
+
 ## 02-08-2022
 
 main_author|title|update_date|publish_date
