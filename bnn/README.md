@@ -1,5 +1,26 @@
 # bnn
 Click on title for link to paper
+## 16-08-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Jessica Lam|[EEGNN: Edge Enhanced Graph Neural Networks](http://arxiv.org/abs/2208.06322v1)|2022-08-12 15:24:55+00:00|12-08-2022
+Michael D. Shields|[Bayesian Inference with Latent Hamiltonian Neural Networks](http://arxiv.org/abs/2208.06120v1)|2022-08-12 05:10:18+00:00|12-08-2022
+Guang Yang|[Region-Based Evidential Deep Learning to Quantify Uncertainty and   Improve Robustness of Brain Tumor Segmentation](http://arxiv.org/abs/2208.06038v1)|2022-08-11 21:04:15+00:00|11-08-2022
+Giuliano Antoniol|[A Probabilistic Framework for Mutation Testing in Deep Neural Networks](http://arxiv.org/abs/2208.06018v1)|2022-08-11 19:45:14+00:00|11-08-2022
+Shubham Tulsiani|[RelPose: Predicting Probabilistic Relative Rotation for Single Objects   in the Wild](http://arxiv.org/abs/2208.05963v1)|2022-08-11 17:59:59+00:00|11-08-2022
+Jinhua Zhao|[Uncertainty Quantification of Sparse Travel Demand Prediction with   Spatial-Temporal Graph Neural Networks](http://arxiv.org/abs/2208.05908v1)|2022-08-11 16:21:10+00:00|11-08-2022
+Carlo Regazzoni|[A Novel Resource Allocation for Anti-jamming in Cognitive-UAVs: an   Active Inference Approach](http://arxiv.org/abs/2208.05269v1)|2022-08-10 11:03:52+00:00|10-08-2022
+Fehmi Cirak|[Deep Probabilistic Models for Forward and Inverse Problems in Parametric   PDEs](http://arxiv.org/abs/2208.04856v1)|2022-08-09 15:40:53+00:00|09-08-2022
+Manfred Huber|[Generalized Reinforcement Learning: Experience Particles, Action   Operator, Reinforcement Field, Memory Association, and Decision Concepts](http://arxiv.org/abs/2208.04822v1)|2022-08-09 15:05:15+00:00|09-08-2022
+Negar Kiyavash|[Causal Discovery in Probabilistic Networks with an Identifiable Causal   Effect](http://arxiv.org/abs/2208.04627v2)|2022-08-13 11:06:09+00:00|09-08-2022
+Ge Cheng|[Deep Maxout Network Gaussian Process](http://arxiv.org/abs/2208.04468v1)|2022-08-08 23:52:26+00:00|08-08-2022
+Joseph Jacob|[Bayesian Pseudo Labels: Expectation Maximization for Robust and   Efficient Semi-Supervised Segmentation](http://arxiv.org/abs/2208.04435v1)|2022-08-08 21:33:43+00:00|08-08-2022
+Alfred O. Hero III|[Uncertain Bayesian Networks: Learning from Incomplete Data](http://arxiv.org/abs/2208.04221v1)|2022-08-08 15:46:44+00:00|08-08-2022
+Chris Sherlock|[SwISS: A Scalable Markov chain Monte Carlo Divide-and-Conquer Strategy](http://arxiv.org/abs/2208.04080v1)|2022-08-08 12:02:18+00:00|08-08-2022
+Emil Björnson|[Channel Estimation under Hardware Impairments: Bayesian Methods versus   Deep Learning](http://arxiv.org/abs/2208.04033v1)|2022-08-08 10:32:32+00:00|08-08-2022
+Moti Freiman|[NPB-REC: Non-parametric Assessment of Uncertainty in Deep-learning-based   MRI Reconstruction from Undersampled Data](http://arxiv.org/abs/2208.03966v1)|2022-08-08 08:22:25+00:00|08-08-2022
+
 ## 09-08-2022
 
 main_author|title|update_date|publish_date

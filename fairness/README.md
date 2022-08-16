@@ -1,5 +1,35 @@
 # fairness
 Click on title for link to paper
+## 16-08-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Timothy M Rawson|[Developing moral AI to support antimicrobial decision making](http://arxiv.org/abs/2208.06327v1)|2022-08-12 15:33:42+00:00|12-08-2022
+Marvin N. Wright|[Unifying local and global model explanations by functional decomposition   of low dimensional structures](http://arxiv.org/abs/2208.06151v1)|2022-08-12 07:38:53+00:00|12-08-2022
+Xiangyang Xue|[Style Spectroscope: Improve Interpretability and Controllability through   Fourier Analysis](http://arxiv.org/abs/2208.06140v1)|2022-08-12 07:15:33+00:00|12-08-2022
+Marius Pedersen|[A Comprehensive Analysis of AI Biases in DeepFake Detection With   Massively Annotated Databases](http://arxiv.org/abs/2208.05845v1)|2022-08-11 14:28:21+00:00|11-08-2022
+Stefano Soatto|[Semi-supervised Vision Transformers at Scale](http://arxiv.org/abs/2208.05688v1)|2022-08-11 08:11:54+00:00|11-08-2022
+Xipeng Shen|[Finding Reusable Machine Learning Components to Build Programming   Language Processing Pipelines](http://arxiv.org/abs/2208.05596v1)|2022-08-11 00:24:10+00:00|11-08-2022
+Morteza Dehghani|[The Moral Foundations Reddit Corpus](http://arxiv.org/abs/2208.05545v1)|2022-08-10 20:08:10+00:00|10-08-2022
+Alex C. Kot|[Benchmarking Joint Face Spoofing and Forgery Detection with Visual and   Physiological Cues](http://arxiv.org/abs/2208.05401v1)|2022-08-10 15:41:48+00:00|10-08-2022
+Constantinos B. Papadias|[Fairness Based Energy-Efficient 3D Path Planning of a Portable Access   Point: A Deep Reinforcement Learning Approach](http://arxiv.org/abs/2208.05265v1)|2022-08-10 10:48:16+00:00|10-08-2022
+Francesco Ricci|[Trustworthy Recommender Systems](http://arxiv.org/abs/2208.06265v1)|2022-08-10 08:28:46+00:00|10-08-2022
+Klaus Mueller|[D-BIAS: A Causality-Based Human-in-the-Loop System for Tackling   Algorithmic Bias](http://arxiv.org/abs/2208.05126v1)|2022-08-10 03:41:48+00:00|10-08-2022
+Joseph Jay Williams|[Increasing Students' Engagement to Reminder Emails Through Multi-Armed   Bandits](http://arxiv.org/abs/2208.05090v1)|2022-08-10 00:30:52+00:00|10-08-2022
+Alvitta Ottley|[A Unified Comparison of User Modeling Techniques for Predicting Data   Interaction and Detecting Exploration Bias](http://arxiv.org/abs/2208.05021v1)|2022-08-09 19:51:10+00:00|09-08-2022
+Jinchao Xu|[On the Activation Function Dependence of the Spectral Bias of Neural   Networks](http://arxiv.org/abs/2208.04924v2)|2022-08-10 18:38:28+00:00|09-08-2022
+Byoung-Tak Zhang|[On the Importance of Critical Period in Multi-stage Reinforcement   Learning](http://arxiv.org/abs/2208.04832v1)|2022-08-09 15:17:22+00:00|09-08-2022
+A. K. Md. Ehsanes Saleh|[Statistical Properties of the log-cosh Loss Function Used in Machine   Learning](http://arxiv.org/abs/2208.04564v2)|2022-08-12 03:20:58+00:00|09-08-2022
+Ahmed M. Abdelmoniem|[EAFL: Towards Energy-Aware Federated Learning on Battery-Powered Edge   Devices](http://arxiv.org/abs/2208.04505v1)|2022-08-09 02:15:45+00:00|09-08-2022
+Yufei Zhang|[Optimal scheduling of entropy regulariser for continuous-time   linear-quadratic reinforcement learning](http://arxiv.org/abs/2208.04466v2)|2022-08-11 15:09:50+00:00|08-08-2022
+Lav R. Varshney|[Debiased Large Language Models Still Associate Muslims with Uniquely   Violent Acts](http://arxiv.org/abs/2208.04417v2)|2022-08-10 13:49:54+00:00|08-08-2022
+Guido Van Wingen|[fMRI-S4: learning short- and long-range dynamic fMRI dependencies using   1D Convolutions and State Space Models](http://arxiv.org/abs/2208.04166v1)|2022-08-08 14:07:25+00:00|08-08-2022
+Alexandre Gilotte|[Fast Offline Policy Optimization for Large Scale Recommendation](http://arxiv.org/abs/2208.05327v2)|2022-08-11 09:39:39+00:00|08-08-2022
+Amos Storkey|[Adversarial robustness of $β-$VAE through the lens of local geometry](http://arxiv.org/abs/2208.03923v1)|2022-08-08 05:53:57+00:00|08-08-2022
+R. Teal Witter|[Counterfactual Fairness Is Basically Demographic Parity](http://arxiv.org/abs/2208.03843v1)|2022-08-07 23:38:59+00:00|07-08-2022
+Akane Sano|[Bias Reducing Multitask Learning on Mental Health Prediction](http://arxiv.org/abs/2208.03621v1)|2022-08-07 02:28:32+00:00|07-08-2022
+R. J. Cintra|[Improved Point Estimation for the Rayleigh Regression Model](http://arxiv.org/abs/2208.03611v1)|2022-08-07 01:28:39+00:00|07-08-2022
+
 ## 09-08-2022
 
 main_author|title|update_date|publish_date

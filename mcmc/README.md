@@ -1,5 +1,21 @@
 # mcmc
 Click on title for link to paper
+## 16-08-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Giuliano Antoniol|[A Probabilistic Framework for Mutation Testing in Deep Neural Networks](http://arxiv.org/abs/2208.06018v1)|2022-08-11 19:45:14+00:00|11-08-2022
+Chi Ho Yeung|[Understanding the stochastic dynamics of sequential decision-making   processes: A path-integral analysis of Multi-armed Bandits](http://arxiv.org/abs/2208.06245v1)|2022-08-11 09:32:03+00:00|11-08-2022
+Olga Fink|[Multi-Agent Reinforcement Learning with Graph Convolutional Neural   Networks for optimal Bidding Strategies of Generation Units in Electricity   Markets](http://arxiv.org/abs/2208.06242v1)|2022-08-11 09:29:31+00:00|11-08-2022
+Souvik Chakraborty|[Learning governing physics from output only measurements](http://arxiv.org/abs/2208.05609v1)|2022-08-11 02:24:03+00:00|11-08-2022
+Yanjie Zhu|[High-Frequency Space Diffusion Models for Accelerated MRI](http://arxiv.org/abs/2208.05481v2)|2022-08-15 09:48:18+00:00|10-08-2022
+Stephane Mallat|[Wavelet Score-Based Generative Modeling](http://arxiv.org/abs/2208.05003v1)|2022-08-09 19:13:34+00:00|09-08-2022
+JoEllyn Prouty McLaren|[Kill Chaos with Kindness: Agreeableness Improves Team Performance Under   Uncertainty](http://arxiv.org/abs/2208.04873v1)|2022-08-09 16:04:32+00:00|09-08-2022
+Giuseppe Manco|[Cascade-based Echo Chamber Detection](http://arxiv.org/abs/2208.04620v1)|2022-08-09 09:30:38+00:00|09-08-2022
+Yixuan Wang|[Second Order Ensemble Langevin Method for Sampling and Inverse Problems](http://arxiv.org/abs/2208.04506v1)|2022-08-09 02:17:22+00:00|09-08-2022
+Alfred O. Hero III|[Uncertain Bayesian Networks: Learning from Incomplete Data](http://arxiv.org/abs/2208.04221v1)|2022-08-08 15:46:44+00:00|08-08-2022
+Moti Freiman|[NPB-REC: Non-parametric Assessment of Uncertainty in Deep-learning-based   MRI Reconstruction from Undersampled Data](http://arxiv.org/abs/2208.03966v1)|2022-08-08 08:22:25+00:00|08-08-2022
+
 ## 09-08-2022
 
 main_author|title|update_date|publish_date

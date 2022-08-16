@@ -1,5 +1,13 @@
 # interpretable
 Click on title for link to paper
+## 16-08-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Shalom Lappin|[Assessing the Unitary RNN as an End-to-End Compositional Model of Syntax](http://arxiv.org/abs/2208.05719v1)|2022-08-11 09:30:49+00:00|11-08-2022
+Mykel J. Kochenderfer|[EvolveHypergraph: Group-Aware Dynamic Relational Reasoning for   Trajectory Prediction](http://arxiv.org/abs/2208.05470v1)|2022-08-10 17:57:10+00:00|10-08-2022
+Battista Biggio|[Explaining Machine Learning DGA Detectors from DNS Traffic Data](http://arxiv.org/abs/2208.05285v1)|2022-08-10 11:34:26+00:00|10-08-2022
+
 ## 09-08-2022
 
 main_author|title|update_date|publish_date
