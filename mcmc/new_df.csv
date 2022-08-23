@@ -1,13 +1,11 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
-Giuliano Antoniol|[A Probabilistic Framework for Mutation Testing in Deep Neural Networks](http://arxiv.org/abs/2208.06018v1)|2022-08-11 19:45:14+00:00|11-08-2022
-Chi Ho Yeung|[Understanding the stochastic dynamics of sequential decision-making   processes: A path-integral analysis of Multi-armed Bandits](http://arxiv.org/abs/2208.06245v1)|2022-08-11 09:32:03+00:00|11-08-2022
-Olga Fink|[Multi-Agent Reinforcement Learning with Graph Convolutional Neural   Networks for optimal Bidding Strategies of Generation Units in Electricity   Markets](http://arxiv.org/abs/2208.06242v1)|2022-08-11 09:29:31+00:00|11-08-2022
-Souvik Chakraborty|[Learning governing physics from output only measurements](http://arxiv.org/abs/2208.05609v1)|2022-08-11 02:24:03+00:00|11-08-2022
-Yanjie Zhu|[High-Frequency Space Diffusion Models for Accelerated MRI](http://arxiv.org/abs/2208.05481v2)|2022-08-15 09:48:18+00:00|10-08-2022
-Stephane Mallat|[Wavelet Score-Based Generative Modeling](http://arxiv.org/abs/2208.05003v1)|2022-08-09 19:13:34+00:00|09-08-2022
-JoEllyn Prouty McLaren|[Kill Chaos with Kindness: Agreeableness Improves Team Performance Under   Uncertainty](http://arxiv.org/abs/2208.04873v1)|2022-08-09 16:04:32+00:00|09-08-2022
-Giuseppe Manco|[Cascade-based Echo Chamber Detection](http://arxiv.org/abs/2208.04620v1)|2022-08-09 09:30:38+00:00|09-08-2022
-Yixuan Wang|[Second Order Ensemble Langevin Method for Sampling and Inverse Problems](http://arxiv.org/abs/2208.04506v1)|2022-08-09 02:17:22+00:00|09-08-2022
-Alfred O. Hero III|[Uncertain Bayesian Networks: Learning from Incomplete Data](http://arxiv.org/abs/2208.04221v1)|2022-08-08 15:46:44+00:00|08-08-2022
-Moti Freiman|[NPB-REC: Non-parametric Assessment of Uncertainty in Deep-learning-based   MRI Reconstruction from Undersampled Data](http://arxiv.org/abs/2208.03966v1)|2022-08-08 08:22:25+00:00|08-08-2022
+K. Worden|[On an Application of Generative Adversarial Networks on Remaining   Lifetime Estimation](http://arxiv.org/abs/2208.08666v1)|2022-08-18 06:54:41+00:00|18-08-2022
+Achille Salaün|[Expressivity of Hidden Markov Chains vs. Recurrent Neural Networks from   a system theoretic viewpoint](http://arxiv.org/abs/2208.08175v1)|2022-08-17 09:23:41+00:00|17-08-2022
+Yang Zhi-Han|[Training Latent Variable Models with Auto-encoding Variational Bayes: A   Tutorial](http://arxiv.org/abs/2208.07818v1)|2022-08-16 16:07:05+00:00|16-08-2022
+Alfred O. Hero III|[SOLBP: Second-Order Loopy Belief Propagation for Inference in Uncertain   Bayesian Networks](http://arxiv.org/abs/2208.07368v1)|2022-08-16 07:44:15+00:00|16-08-2022
+Prashant Doshi|[IRL with Partial Observations using the Principle of Uncertain Maximum   Entropy](http://arxiv.org/abs/2208.06988v1)|2022-08-15 03:22:46+00:00|15-08-2022
+Klaus Dolag|[Virgo: Scalable Unsupervised Classification of Cosmological Shock Waves](http://arxiv.org/abs/2208.06859v2)|2022-08-17 16:03:16+00:00|14-08-2022
+Kumar Vijay Mishra|[Inverse Extended Kalman Filter -- Part II: Highly Non-Linear and   Uncertain Systems](http://arxiv.org/abs/2208.06683v1)|2022-08-13 16:55:39+00:00|13-08-2022
+Suha Kwak|[Combating Label Distribution Shift for Active Domain Adaptation](http://arxiv.org/abs/2208.06604v1)|2022-08-13 09:06:45+00:00|13-08-2022
+Sudipto Banerjee|[Dynamic Bayesian Learning and Calibration of Spatiotemporal Mechanistic   System](http://arxiv.org/abs/2208.06528v1)|2022-08-12 23:17:46+00:00|12-08-2022

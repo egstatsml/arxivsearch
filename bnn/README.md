@@ -1,5 +1,22 @@
 # bnn
 Click on title for link to paper
+## 23-08-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Yizhou Yu|[Diagnose Like a Radiologist: Hybrid Neuro-Probabilistic Reasoning for   Attribute-Based Medical Image Diagnosis](http://arxiv.org/abs/2208.09282v1)|2022-08-19 12:06:46+00:00|19-08-2022
+Cheng Yang|[KDD CUP 2022 Wind Power Forecasting Team 88VIP Solution](http://arxiv.org/abs/2208.08952v1)|2022-08-18 16:46:50+00:00|18-08-2022
+Samuel Kaski|[Bayesian Optimization Augmented with Actively Elicited Expert Knowledge](http://arxiv.org/abs/2208.08742v1)|2022-08-18 09:49:21+00:00|18-08-2022
+Bart Dhoedt|[Learning Generative Models for Active Inference using Tensor Networks](http://arxiv.org/abs/2208.08713v1)|2022-08-18 08:55:06+00:00|18-08-2022
+Achille Salaün|[Expressivity of Hidden Markov Chains vs. Recurrent Neural Networks from   a system theoretic viewpoint](http://arxiv.org/abs/2208.08175v1)|2022-08-17 09:23:41+00:00|17-08-2022
+Jianeng Xu|[Quantum Bayes AI](http://arxiv.org/abs/2208.08068v1)|2022-08-17 04:51:10+00:00|17-08-2022
+H. Kübra Küçükkartal|[Accelerating nanomaterials discovery with artificial intelligence at the   HPC centers](http://arxiv.org/abs/2208.07612v1)|2022-08-16 09:02:16+00:00|16-08-2022
+Alfred O. Hero III|[SOLBP: Second-Order Loopy Belief Propagation for Inference in Uncertain   Bayesian Networks](http://arxiv.org/abs/2208.07368v1)|2022-08-16 07:44:15+00:00|16-08-2022
+Akash Kumar|[Combining Gradients and Probabilities for Heterogeneous Approximation of   Neural Networks](http://arxiv.org/abs/2208.07265v1)|2022-08-15 15:17:34+00:00|15-08-2022
+Klaus Dolag|[Virgo: Scalable Unsupervised Classification of Cosmological Shock Waves](http://arxiv.org/abs/2208.06859v2)|2022-08-17 16:03:16+00:00|14-08-2022
+Yao Ma|[Enhancing Graph Contrastive Learning with Node Similarity](http://arxiv.org/abs/2208.06743v1)|2022-08-13 22:49:20+00:00|13-08-2022
+Kumar Vijay Mishra|[Inverse Extended Kalman Filter -- Part II: Highly Non-Linear and   Uncertain Systems](http://arxiv.org/abs/2208.06683v1)|2022-08-13 16:55:39+00:00|13-08-2022
+
 ## 16-08-2022
 
 main_author|title|update_date|publish_date

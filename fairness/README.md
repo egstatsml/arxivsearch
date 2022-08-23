@@ -1,5 +1,46 @@
 # fairness
 Click on title for link to paper
+## 23-08-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Mark Gales|[Gender Bias and Universal Substitution Adversarial Attacks on   Grammatical Error Correction Systems for Automated Assessment](http://arxiv.org/abs/2208.09466v1)|2022-08-19 17:44:13+00:00|19-08-2022
+Yang Yu|[Unified Policy Optimization for Continuous-action Reinforcement Learning   in Non-stationary Tasks and Games](http://arxiv.org/abs/2208.09452v1)|2022-08-19 17:12:31+00:00|19-08-2022
+Bahram Zonooz|[Curbing Task Interference using Representation Similarity-Guided   Multi-Task Feature Sharing](http://arxiv.org/abs/2208.09427v1)|2022-08-19 16:19:20+00:00|19-08-2022
+Thomas Gebhart|[Graph Convolutional Networks from the Perspective of Sheaves and the   Neural Tangent Kernel](http://arxiv.org/abs/2208.09309v1)|2022-08-19 12:46:49+00:00|19-08-2022
+Ke Wang|[Disentangled Representation with Causal Constraints for Counterfactual   Fairness](http://arxiv.org/abs/2208.09147v1)|2022-08-19 04:47:58+00:00|19-08-2022
+Chang-Yeol Jung|[Semi-analytic PINN methods for singularly perturbed boundary value   problems](http://arxiv.org/abs/2208.09145v1)|2022-08-19 04:26:40+00:00|19-08-2022
+Gaurush Hiranandani|[Classification Performance Metric Elicitation and its Applications](http://arxiv.org/abs/2208.09142v1)|2022-08-19 03:57:17+00:00|19-08-2022
+I-Jeng Wang|[A Risk-Sensitive Approach to Policy Optimization](http://arxiv.org/abs/2208.09106v1)|2022-08-19 00:55:05+00:00|19-08-2022
+David F. Fouhey|[The 8-Point Algorithm as an Inductive Bias for Relative Pose Prediction   by ViTs](http://arxiv.org/abs/2208.08988v1)|2022-08-18 17:59:41+00:00|18-08-2022
+Tal Kachman|[Neural Payoff Machines: Predicting Fair and Stable Payoff Allocations   Among Team Members](http://arxiv.org/abs/2208.08798v1)|2022-08-18 12:33:09+00:00|18-08-2022
+Martin Benning|[Lifted Bregman Training of Neural Networks](http://arxiv.org/abs/2208.08772v1)|2022-08-18 11:12:52+00:00|18-08-2022
+Bryan Hooi Kuen-Yew|[Truth-Table Net: A New Convolutional Architecture Encodable By Design   Into SAT Formulas](http://arxiv.org/abs/2208.08609v1)|2022-08-18 03:06:25+00:00|18-08-2022
+Melinda Gervasio|[A Framework for Understanding and Visualizing Strategies of RL Agents](http://arxiv.org/abs/2208.08552v1)|2022-08-17 21:58:19+00:00|17-08-2022
+Stefan Feuerriegel|[Estimating individual treatment effects under unobserved confounding   using binary instruments](http://arxiv.org/abs/2208.08544v1)|2022-08-17 21:25:09+00:00|17-08-2022
+Ajita Rattani|[Deep Generative Views to Mitigate Gender Classification Bias Across   Gender-Race Groups](http://arxiv.org/abs/2208.08382v1)|2022-08-17 16:23:35+00:00|17-08-2022
+Stella X. Yu|[Open Long-Tailed Recognition in a Dynamic World](http://arxiv.org/abs/2208.08349v1)|2022-08-17 15:22:20+00:00|17-08-2022
+Philip S. Yu|[Position-aware Structure Learning for Graph Topology-imbalance by   Relieving Under-reaching and Over-squashing](http://arxiv.org/abs/2208.08302v1)|2022-08-17 14:04:21+00:00|17-08-2022
+Dominik Kowald|[Long-term dynamics of fairness: understanding the impact of data-driven   targeted help on job seekers](http://arxiv.org/abs/2208.08881v1)|2022-08-17 12:03:23+00:00|17-08-2022
+Dakuo Wang|[NECE: Narrative Event Chain Extraction Toolkit](http://arxiv.org/abs/2208.08063v3)|2022-08-19 10:00:33+00:00|17-08-2022
+Baharan Mirzasoleiman|[Superior generalization of smaller models in the presence of significant   label noise](http://arxiv.org/abs/2208.08003v1)|2022-08-17 00:51:27+00:00|17-08-2022
+Samuel R. Bowman|[What Artificial Neural Networks Can Tell Us About Human Language   Acquisition](http://arxiv.org/abs/2208.07998v1)|2022-08-17 00:12:37+00:00|17-08-2022
+Ioannis A. Kakadiaris|[Error Parity Fairness: Testing for Group Fairness in Regression Tasks](http://arxiv.org/abs/2208.08279v1)|2022-08-16 17:47:20+00:00|16-08-2022
+Günter Schmidt|[Novel Deep Learning Approach to Derive Cytokeratin Expression and   Epithelium Segmentation from DAPI](http://arxiv.org/abs/2208.08284v1)|2022-08-16 12:11:32+00:00|16-08-2022
+Toby P. Breckon|[Does lossy image compression affect racial bias within face recognition?](http://arxiv.org/abs/2208.07613v1)|2022-08-16 09:02:35+00:00|16-08-2022
+Angelica Lim|[Towards Inclusive HRI: Using Sim2Real to Address Underrepresentation in   Emotion Expression Recognition](http://arxiv.org/abs/2208.07472v1)|2022-08-15 23:37:13+00:00|15-08-2022
+Vitomir Štruc|[SYN-MAD 2022: Competition on Face Morphing Attack Detection Based on   Privacy-aware Synthetic Training Data](http://arxiv.org/abs/2208.07337v1)|2022-08-15 17:06:55+00:00|15-08-2022
+Thomas L. Griffiths|[Bias amplification in experimental social networks is reduced by   resampling](http://arxiv.org/abs/2208.07261v1)|2022-08-15 15:14:00+00:00|15-08-2022
+Bingchao Zheng|[QuickSkill: Novice Skill Estimation in Online Multiplayer Games](http://arxiv.org/abs/2208.07704v1)|2022-08-15 11:59:05+00:00|15-08-2022
+Matteo Manica|[Z-BERT-A: a zero-shot Pipeline for Unknown Intent detection](http://arxiv.org/abs/2208.07084v2)|2022-08-18 14:41:30+00:00|15-08-2022
+Stephan Zheng|[AI for Global Climate Cooperation: Modeling Global Climate Negotiations,   Agreements, and Long-Term Cooperation in RICE-N](http://arxiv.org/abs/2208.07004v1)|2022-08-15 04:38:06+00:00|15-08-2022
+Nima Sadri|[Evaluating Dense Passage Retrieval using Transformers](http://arxiv.org/abs/2208.06959v1)|2022-08-15 01:27:50+00:00|15-08-2022
+Yongchang Ma|[Reduced Implication-bias Logic Loss for Neuro-Symbolic Learning](http://arxiv.org/abs/2208.06838v1)|2022-08-14 11:57:46+00:00|14-08-2022
+Stefan Feuerriegel|[Locating disparities in machine learning](http://arxiv.org/abs/2208.06680v1)|2022-08-13 16:39:51+00:00|13-08-2022
+Scott C. Schmidler|[Finite Sample Complexity of Sequential Monte Carlo Estimators on   Multimodal Target Distributions](http://arxiv.org/abs/2208.06672v1)|2022-08-13 15:06:03+00:00|13-08-2022
+Brian Tom|[Imputation Strategies Under Clinical Presence: Impact on Algorithmic   Fairness](http://arxiv.org/abs/2208.06648v1)|2022-08-13 13:34:05+00:00|13-08-2022
+Wenxi Zhang|[A Novel Regularization Approach to Fair ML](http://arxiv.org/abs/2208.06557v1)|2022-08-13 03:16:34+00:00|13-08-2022
+
 ## 16-08-2022
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,18 @@
 # interpretable
 Click on title for link to paper
+## 23-08-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Iryna Gurevych|[UKP-SQuARE v2 Explainability and Adversarial Attacks for Trustworthy QA](http://arxiv.org/abs/2208.09316v1)|2022-08-19 13:01:01+00:00|19-08-2022
+Guoping Qiu|[Restoration of User Videos Shared on Social Media](http://arxiv.org/abs/2208.08597v1)|2022-08-18 02:28:43+00:00|18-08-2022
+Melinda Gervasio|[A Framework for Understanding and Visualizing Strategies of RL Agents](http://arxiv.org/abs/2208.08552v1)|2022-08-17 21:58:19+00:00|17-08-2022
+Jian Jiao|[The Counterfactual-Shapley Value: Attributing Change in System Metrics](http://arxiv.org/abs/2208.08399v1)|2022-08-17 16:48:20+00:00|17-08-2022
+Chirag Shah|[EGCR: Explanation Generation for Conversational Recommendation](http://arxiv.org/abs/2208.08035v2)|2022-08-18 17:56:44+00:00|17-08-2022
+Jie Tang|[Mask and Reason: Pre-Training Knowledge Graph Transformers for Complex   Logical Queries](http://arxiv.org/abs/2208.07638v1)|2022-08-16 09:51:26+00:00|16-08-2022
+Bei Wang|[The SVD of Convolutional Weights: A CNN Interpretability Framework](http://arxiv.org/abs/2208.06894v1)|2022-08-14 18:23:02+00:00|14-08-2022
+Vignesh Subbian|[An Empirical Comparison of Explainable Artificial Intelligence Methods   for Clinical Data: A Case Study on Traumatic Brain Injury](http://arxiv.org/abs/2208.06717v1)|2022-08-13 19:44:00+00:00|13-08-2022
+
 ## 16-08-2022
 
 main_author|title|update_date|publish_date
