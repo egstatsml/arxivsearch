@@ -1,11 +1,11 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
-K. Worden|[On an Application of Generative Adversarial Networks on Remaining   Lifetime Estimation](http://arxiv.org/abs/2208.08666v1)|2022-08-18 06:54:41+00:00|18-08-2022
-Achille Salaün|[Expressivity of Hidden Markov Chains vs. Recurrent Neural Networks from   a system theoretic viewpoint](http://arxiv.org/abs/2208.08175v1)|2022-08-17 09:23:41+00:00|17-08-2022
-Yang Zhi-Han|[Training Latent Variable Models with Auto-encoding Variational Bayes: A   Tutorial](http://arxiv.org/abs/2208.07818v1)|2022-08-16 16:07:05+00:00|16-08-2022
-Alfred O. Hero III|[SOLBP: Second-Order Loopy Belief Propagation for Inference in Uncertain   Bayesian Networks](http://arxiv.org/abs/2208.07368v1)|2022-08-16 07:44:15+00:00|16-08-2022
-Prashant Doshi|[IRL with Partial Observations using the Principle of Uncertain Maximum   Entropy](http://arxiv.org/abs/2208.06988v1)|2022-08-15 03:22:46+00:00|15-08-2022
-Klaus Dolag|[Virgo: Scalable Unsupervised Classification of Cosmological Shock Waves](http://arxiv.org/abs/2208.06859v2)|2022-08-17 16:03:16+00:00|14-08-2022
-Kumar Vijay Mishra|[Inverse Extended Kalman Filter -- Part II: Highly Non-Linear and   Uncertain Systems](http://arxiv.org/abs/2208.06683v1)|2022-08-13 16:55:39+00:00|13-08-2022
-Suha Kwak|[Combating Label Distribution Shift for Active Domain Adaptation](http://arxiv.org/abs/2208.06604v1)|2022-08-13 09:06:45+00:00|13-08-2022
-Sudipto Banerjee|[Dynamic Bayesian Learning and Calibration of Spatiotemporal Mechanistic   System](http://arxiv.org/abs/2208.06528v1)|2022-08-12 23:17:46+00:00|12-08-2022
+Regina Barzilay|[Calibrated Selective Classification](http://arxiv.org/abs/2208.12084v1)|2022-08-25 13:31:09+00:00|25-08-2022
+John S. Hyatt|[Maximum Likelihood on the Joint (Data, Condition) Distribution for   Solving Ill-Posed Problems with Conditional Flow Models](http://arxiv.org/abs/2208.11782v1)|2022-08-24 21:50:25+00:00|24-08-2022
+Earl Lawrence|[Fast emulation of density functional theory simulations using   approximate Gaussian processes](http://arxiv.org/abs/2208.11302v1)|2022-08-24 05:09:36+00:00|24-08-2022
+Richard Y. Zhang|[Accelerating SGD for Highly Ill-Conditioned Huge-Scale Online Matrix   Completion](http://arxiv.org/abs/2208.11246v1)|2022-08-24 00:56:52+00:00|24-08-2022
+Sung Ju Hwang|[Object Detection in Aerial Images with Uncertainty-Aware Graph Network](http://arxiv.org/abs/2208.10781v2)|2022-08-24 05:45:37+00:00|23-08-2022
+Nadjim Horri|[Some Supervision Required: Incorporating Oracle Policies in   Reinforcement Learning via Epistemic Uncertainty Metrics](http://arxiv.org/abs/2208.10533v1)|2022-08-22 18:26:43+00:00|22-08-2022
+Emily McMilin|[Selection Collider Bias in Large Language Models](http://arxiv.org/abs/2208.10063v1)|2022-08-22 05:38:15+00:00|22-08-2022
+Mohammad Al Hasan|[Robust Node Classification on Graphs: Jointly from Bayesian Label   Transition and Topology-based Label Propagation](http://arxiv.org/abs/2208.09779v1)|2022-08-21 01:56:25+00:00|21-08-2022
+Jong-Seok Lee|[Modeling, Quantifying, and Predicting Subjectivity of Image Aesthetics](http://arxiv.org/abs/2208.09666v1)|2022-08-20 12:16:45+00:00|20-08-2022
