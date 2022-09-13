@@ -1,5 +1,49 @@
 # fairness
 Click on title for link to paper
+## 13-09-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Vincent Ginis|[LUCID: Exposing Algorithmic Bias through Inverse Design](http://arxiv.org/abs/2208.12786v1)|2022-08-26 17:06:35+00:00|26-08-2022
+Ivan Brugere|[Comparing Apples to Oranges: Learning Similarity Functions for Data   Produced by Different Distributions](http://arxiv.org/abs/2208.12731v1)|2022-08-26 15:38:05+00:00|26-08-2022
+Georgios N. Yannakakis|[Play with Emotion: Affect-Driven Reinforcement Learning](http://arxiv.org/abs/2208.12622v1)|2022-08-26 12:28:24+00:00|26-08-2022
+Gal Vardi|[On the Implicit Bias in Deep-Learning Algorithms](http://arxiv.org/abs/2208.12591v1)|2022-08-26 11:39:38+00:00|26-08-2022
+Jiarui Gan|[Socially Fair Reinforcement Learning](http://arxiv.org/abs/2208.12584v1)|2022-08-26 11:01:55+00:00|26-08-2022
+Markus Lange-Hegermann|[Constraining Gaussian Processes to Systems of Linear Ordinary   Differential Equations](http://arxiv.org/abs/2208.12515v1)|2022-08-26 09:16:53+00:00|26-08-2022
+M. Ben Feng|[Variance Reduction based Experience Replay for Policy Optimization](http://arxiv.org/abs/2208.12341v1)|2022-08-25 20:51:00+00:00|25-08-2022
+Markus Olhofer|[Alleviating Search Bias in Bayesian Evolutionary Optimization with Many   Heterogeneous Objectives](http://arxiv.org/abs/2208.12217v1)|2022-08-25 17:07:40+00:00|25-08-2022
+Snigdha Chaturvedi|[Sustaining Fairness via Incremental Learning](http://arxiv.org/abs/2208.12212v1)|2022-08-25 17:02:37+00:00|25-08-2022
+Fengqing Zhu|[Image Based Food Energy Estimation With Depth Domain Adaptation](http://arxiv.org/abs/2208.12153v1)|2022-08-25 15:18:48+00:00|25-08-2022
+Minyi Guo|[Efficient Activation Quantization via Adaptive Rounding Border for   Post-Training Quantization](http://arxiv.org/abs/2208.11945v1)|2022-08-25 09:02:32+00:00|25-08-2022
+Xia Hu|[Shortcut Learning of Large Language Models in Natural Language   Understanding: A Survey](http://arxiv.org/abs/2208.11857v1)|2022-08-25 03:51:39+00:00|25-08-2022
+Kinjal Basu|[Pushing the limits of fairness impossibility: Who's the fairest of them   all?](http://arxiv.org/abs/2208.12606v1)|2022-08-24 22:04:51+00:00|24-08-2022
+Sushant More|[Identifying and Overcoming Transformation Bias in Forecasting Models](http://arxiv.org/abs/2208.12264v1)|2022-08-24 19:47:00+00:00|24-08-2022
+Bruno Castro da Silva|[Enforcing Delayed-Impact Fairness Guarantees](http://arxiv.org/abs/2208.11744v1)|2022-08-24 19:14:56+00:00|24-08-2022
+Amir Mosavi|[Prediction of the energy and exergy performance of F135 PW100 turbofan   engine via deep learning](http://arxiv.org/abs/2208.12028v1)|2022-08-24 17:28:58+00:00|24-08-2022
+Jing Xiao|[Debias the Black-box: A Fair Ranking Framework via Knowledge   Distillation](http://arxiv.org/abs/2208.11628v1)|2022-08-24 15:59:58+00:00|24-08-2022
+Leonardo Tomazeli Duarte|[A novel approach for Fair Principal Component Analysis based on   eigendecomposition](http://arxiv.org/abs/2208.11362v1)|2022-08-24 08:20:16+00:00|24-08-2022
+Keisuke Fujii|[Automatic detection of faults in race walking from a smartphone camera:   a comparison of an Olympic medalist and university athletes](http://arxiv.org/abs/2208.12646v1)|2022-08-24 07:04:36+00:00|24-08-2022
+Bing Sun|[TESTSGD: Interpretable Testing of Neural Networks Against Subtle Group   Discrimination](http://arxiv.org/abs/2208.11321v1)|2022-08-24 06:26:06+00:00|24-08-2022
+Jia-Chen Zhao|[Enhancement Encoding: A New Imbalanced Classification Approach via   Encoding the Labels](http://arxiv.org/abs/2208.11056v1)|2022-08-23 16:03:06+00:00|23-08-2022
+Yiran Chen|[Self-Trained Proposal Networks for the Open World](http://arxiv.org/abs/2208.11050v1)|2022-08-23 15:57:19+00:00|23-08-2022
+Pingjian Zhang|[Flat Multi-modal Interaction Transformer for Named Entity Recognition](http://arxiv.org/abs/2208.11039v1)|2022-08-23 15:25:44+00:00|23-08-2022
+Bohan Zhuang|[FocusFormer: Focusing on What We Need via Architecture Sampler](http://arxiv.org/abs/2208.10861v1)|2022-08-23 10:42:56+00:00|23-08-2022
+Bryan Hooi|[Neural PCA for Flow-Based Representation Learning](http://arxiv.org/abs/2208.10753v1)|2022-08-23 06:18:44+00:00|23-08-2022
+Jinwoo Shin|[String-based Molecule Generation via Multi-decoder VAE](http://arxiv.org/abs/2208.10718v1)|2022-08-23 03:56:30+00:00|23-08-2022
+Eirini Ntoutsi|[Evaluation of group fairness measures in student performance prediction   problems](http://arxiv.org/abs/2208.10625v1)|2022-08-22 22:06:08+00:00|22-08-2022
+Pietro Lió|[Global Concept-Based Interpretability for Graph Neural Networks via   Neuron Analysis](http://arxiv.org/abs/2208.10609v1)|2022-08-22 21:30:55+00:00|22-08-2022
+Samira Ebrahimi Kahou|[Prioritizing Samples in Reinforcement Learning with Reducible Loss](http://arxiv.org/abs/2208.10483v1)|2022-08-22 17:55:43+00:00|22-08-2022
+Shah Muhammad Hamdi|[Shapelet-Based Counterfactual Explanations for Multivariate Time Series](http://arxiv.org/abs/2208.10462v1)|2022-08-22 17:33:31+00:00|22-08-2022
+Matthias Wieler|[Scale invariant process regression](http://arxiv.org/abs/2208.10461v1)|2022-08-22 17:32:33+00:00|22-08-2022
+Yiming Ying|[Minimax AUC Fairness: Efficient Algorithm with Provable Convergence](http://arxiv.org/abs/2208.10451v1)|2022-08-22 17:11:45+00:00|22-08-2022
+Anand Louis|[Socially Fair Center-based and Linear Subspace Clustering](http://arxiv.org/abs/2208.10095v1)|2022-08-22 07:10:17+00:00|22-08-2022
+Emily McMilin|[Selection Collider Bias in Large Language Models](http://arxiv.org/abs/2208.10063v1)|2022-08-22 05:38:15+00:00|22-08-2022
+Przemyslaw Biecek|[Performance, Opaqueness, Consequences, and Assumptions: Simple questions   for responsible planning of machine learning solutions](http://arxiv.org/abs/2208.09966v1)|2022-08-21 21:24:42+00:00|21-08-2022
+Diego Frias|[Equalization and Brightness Mapping Modes of Color-to-Gray Projection   Operators](http://arxiv.org/abs/2208.09950v1)|2022-08-21 19:23:06+00:00|21-08-2022
+Sharib Ali|[A semi-supervised Teacher-Student framework for surgical tool detection   and localization](http://arxiv.org/abs/2208.09926v1)|2022-08-21 17:21:31+00:00|21-08-2022
+Jingrui He|[MentorGNN: Deriving Curriculum for Pre-Training GNNs](http://arxiv.org/abs/2208.09905v1)|2022-08-21 15:12:08+00:00|21-08-2022
+Sandra Avila|[Artifact-Based Domain Generalization of Skin Lesion Models](http://arxiv.org/abs/2208.09756v1)|2022-08-20 22:25:09+00:00|20-08-2022
+
 ## 06-09-2022
 
 main_author|title|update_date|publish_date

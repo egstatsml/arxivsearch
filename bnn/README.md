@@ -1,5 +1,26 @@
 # bnn
 Click on title for link to paper
+## 13-09-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Tian-shuo Ge|[Multi-Scale Architectures Matter: On the Adversarial Robustness of   Flow-based Lossless Compression](http://arxiv.org/abs/2208.12716v1)|2022-08-26 15:17:43+00:00|26-08-2022
+Sung Ju Hwang|[Universal Mini-Batch Consistency for Set Encoding Functions](http://arxiv.org/abs/2208.12401v1)|2022-08-26 02:13:38+00:00|26-08-2022
+Markus Olhofer|[Alleviating Search Bias in Bayesian Evolutionary Optimization with Many   Heterogeneous Objectives](http://arxiv.org/abs/2208.12217v1)|2022-08-25 17:07:40+00:00|25-08-2022
+Jianfeng Lu|[A deep learning framework for geodesics under spherical   Wasserstein-Fisher-Rao metric and its application for weighted sample   generation](http://arxiv.org/abs/2208.12145v1)|2022-08-25 15:05:00+00:00|25-08-2022
+Veronika Ročková|[Adversarial Bayesian Simulation](http://arxiv.org/abs/2208.12113v1)|2022-08-25 14:18:39+00:00|25-08-2022
+Theodore Papamarkou|[The premise of approximate MCMC in Bayesian deep learning](http://arxiv.org/abs/2208.11389v1)|2022-08-24 09:26:12+00:00|24-08-2022
+François Blayo|[A Bayesian Variational principle for dynamic Self Organizing Maps](http://arxiv.org/abs/2208.11337v1)|2022-08-24 07:36:05+00:00|24-08-2022
+Earl Lawrence|[Fast emulation of density functional theory simulations using   approximate Gaussian processes](http://arxiv.org/abs/2208.11302v1)|2022-08-24 05:09:36+00:00|24-08-2022
+Vishal M Patel|[AT-DDPM: Restoring Faces degraded by Atmospheric Turbulence using   Denoising Diffusion Probabilistic Models](http://arxiv.org/abs/2208.11284v1)|2022-08-24 03:13:04+00:00|24-08-2022
+Hadi Jamali-Rad|[Transductive Decoupled Variational Inference for Few-Shot Classification](http://arxiv.org/abs/2208.10559v1)|2022-08-22 19:27:09+00:00|22-08-2022
+Hongseok Yang|[Smoothness Analysis for Probabilistic Programs with Application to   Optimised Variational Inference](http://arxiv.org/abs/2208.10530v1)|2022-08-22 18:18:32+00:00|22-08-2022
+Christine P. Chai|[Robust Bayesian Nonnegative Matrix Factorization with Implicit   Regularizers](http://arxiv.org/abs/2208.10053v1)|2022-08-22 04:34:17+00:00|22-08-2022
+Lijun Sun|[Bayesian Complementary Kernelized Learning for Multidimensional   Spatiotemporal Data](http://arxiv.org/abs/2208.09978v1)|2022-08-21 22:38:54+00:00|21-08-2022
+Alfred Hero|[A Graphical Model for Fusing Diverse Microbiome Data](http://arxiv.org/abs/2208.09934v1)|2022-08-21 17:54:39+00:00|21-08-2022
+Mohammad Al Hasan|[Robust Node Classification on Graphs: Jointly from Bayesian Label   Transition and Topology-based Label Propagation](http://arxiv.org/abs/2208.09779v1)|2022-08-21 01:56:25+00:00|21-08-2022
+Jong-Seok Lee|[Modeling, Quantifying, and Predicting Subjectivity of Image Aesthetics](http://arxiv.org/abs/2208.09666v1)|2022-08-20 12:16:45+00:00|20-08-2022
+
 ## 06-09-2022
 
 main_author|title|update_date|publish_date

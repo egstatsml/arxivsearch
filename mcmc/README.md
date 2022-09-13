@@ -1,5 +1,19 @@
 # mcmc
 Click on title for link to paper
+## 13-09-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Regina Barzilay|[Calibrated Selective Classification](http://arxiv.org/abs/2208.12084v1)|2022-08-25 13:31:09+00:00|25-08-2022
+John S. Hyatt|[Maximum Likelihood on the Joint (Data, Condition) Distribution for   Solving Ill-Posed Problems with Conditional Flow Models](http://arxiv.org/abs/2208.11782v1)|2022-08-24 21:50:25+00:00|24-08-2022
+Earl Lawrence|[Fast emulation of density functional theory simulations using   approximate Gaussian processes](http://arxiv.org/abs/2208.11302v1)|2022-08-24 05:09:36+00:00|24-08-2022
+Richard Y. Zhang|[Accelerating SGD for Highly Ill-Conditioned Huge-Scale Online Matrix   Completion](http://arxiv.org/abs/2208.11246v1)|2022-08-24 00:56:52+00:00|24-08-2022
+Sung Ju Hwang|[Object Detection in Aerial Images with Uncertainty-Aware Graph Network](http://arxiv.org/abs/2208.10781v2)|2022-08-24 05:45:37+00:00|23-08-2022
+Nadjim Horri|[Some Supervision Required: Incorporating Oracle Policies in   Reinforcement Learning via Epistemic Uncertainty Metrics](http://arxiv.org/abs/2208.10533v1)|2022-08-22 18:26:43+00:00|22-08-2022
+Emily McMilin|[Selection Collider Bias in Large Language Models](http://arxiv.org/abs/2208.10063v1)|2022-08-22 05:38:15+00:00|22-08-2022
+Mohammad Al Hasan|[Robust Node Classification on Graphs: Jointly from Bayesian Label   Transition and Topology-based Label Propagation](http://arxiv.org/abs/2208.09779v1)|2022-08-21 01:56:25+00:00|21-08-2022
+Jong-Seok Lee|[Modeling, Quantifying, and Predicting Subjectivity of Image Aesthetics](http://arxiv.org/abs/2208.09666v1)|2022-08-20 12:16:45+00:00|20-08-2022
+
 ## 06-09-2022
 
 main_author|title|update_date|publish_date

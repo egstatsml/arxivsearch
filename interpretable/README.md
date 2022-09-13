@@ -1,5 +1,18 @@
 # interpretable
 Click on title for link to paper
+## 13-09-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Christian W. Omlin|[Symbolic Explanation of Affinity-Based Reinforcement Learning Agents   with Markov Models](http://arxiv.org/abs/2208.12627v2)|2022-08-29 06:13:56+00:00|26-08-2022
+Lars Holmberg|[Towards Benchmarking Explainable Artificial Intelligence Methods](http://arxiv.org/abs/2208.12120v1)|2022-08-25 14:28:30+00:00|25-08-2022
+Luciano Serafini|[Deep Symbolic Learning: Discovering Symbols and Rules from Perceptions](http://arxiv.org/abs/2208.11561v1)|2022-08-24 14:06:55+00:00|24-08-2022
+Thorsten Staake|[Augmented cross-selling through explainable AI -- a case from energy   retailing](http://arxiv.org/abs/2208.11404v1)|2022-08-24 09:51:52+00:00|24-08-2022
+Pietro Lió|[Global Concept-Based Interpretability for Graph Neural Networks via   Neuron Analysis](http://arxiv.org/abs/2208.10609v1)|2022-08-22 21:30:55+00:00|22-08-2022
+Shah Muhammad Hamdi|[Shapelet-Based Counterfactual Explanations for Multivariate Time Series](http://arxiv.org/abs/2208.10462v1)|2022-08-22 17:33:31+00:00|22-08-2022
+Mingli Song|[ProtoPFormer: Concentrating on Prototypical Parts in Vision Transformers   for Interpretable Image Recognition](http://arxiv.org/abs/2208.10431v1)|2022-08-22 16:36:32+00:00|22-08-2022
+Xuanjing Huang|[Locate Then Ask: Interpretable Stepwise Reasoning for Multi-hop Question   Answering](http://arxiv.org/abs/2208.10297v1)|2022-08-22 13:24:25+00:00|22-08-2022
+
 ## 06-09-2022
 
 main_author|title|update_date|publish_date
