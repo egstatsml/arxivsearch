@@ -1,5 +1,27 @@
 # interpretable
 Click on title for link to paper
+## 20-09-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Nicolas Szczepanski|[Computing Abductive Explanations for Boosted Trees](http://arxiv.org/abs/2209.07740v1)|2022-09-16 06:53:42+00:00|16-09-2022
+Steffen Herbold|[Studying the explanations for the automated prediction of bug and   non-bug issues using LIME and SHAP](http://arxiv.org/abs/2209.07623v1)|2022-09-15 21:45:46+00:00|15-09-2022
+Dongfang Liu|[Visual Recognition with Deep Nearest Centroids](http://arxiv.org/abs/2209.07383v1)|2022-09-15 15:47:31+00:00|15-09-2022
+Han-Wei Shen|[GNNInterpreter: A Probabilistic Generative Model-Level Explanation for   Graph Neural Networks](http://arxiv.org/abs/2209.07924v1)|2022-09-15 07:45:35+00:00|15-09-2022
+Franca Delmastro|[Explainable AI for clinical and remote health applications: a survey on   tabular and time series data](http://arxiv.org/abs/2209.06528v1)|2022-09-14 10:01:29+00:00|14-09-2022
+Vito Latora|[Deep Neural Networks as Complex Networks](http://arxiv.org/abs/2209.05488v1)|2022-09-12 16:26:04+00:00|12-09-2022
+Weisong Shi|[Understanding Time Variations of DNN Inference in Autonomous Driving](http://arxiv.org/abs/2209.05487v1)|2022-09-12 15:20:45+00:00|12-09-2022
+Khaza Anuarul Hoque|[TruVR: Trustworthy Cybersickness Detection using Explainable Machine   Learning](http://arxiv.org/abs/2209.05257v1)|2022-09-12 13:55:13+00:00|12-09-2022
+Yiran Chen|[Fine-grain Inference on Out-of-Distribution Data with Hierarchical   Classification](http://arxiv.org/abs/2209.04493v1)|2022-09-09 18:52:36+00:00|09-09-2022
+Chengzhi Zhang|[Does Attention Mechanism Possess the Feature of Human Reading? A   Perspective of Sentiment Classification Task](http://arxiv.org/abs/2209.03557v1)|2022-09-08 04:19:48+00:00|08-09-2022
+Christin Seifert|[Explaining Machine Learning Models in Natural Conversations: Towards a   Conversational XAI Agent](http://arxiv.org/abs/2209.02552v1)|2022-09-06 15:01:06+00:00|06-09-2022
+Dmitry Koroteev|[Making the black-box brighter: interpreting machine learning algorithm   for forecasting drilling accidents](http://arxiv.org/abs/2209.02256v1)|2022-09-06 07:06:16+00:00|06-09-2022
+Jörn Kohlhammer|[Visualization Of Class Activation Maps To Explain AI Classification Of   Network Packet Captures](http://arxiv.org/abs/2209.02045v1)|2022-09-05 16:34:43+00:00|05-09-2022
+W. J. A. van Heeswijk|[Natural Policy Gradients In Reinforcement Learning Explained](http://arxiv.org/abs/2209.01820v1)|2022-09-05 08:06:29+00:00|05-09-2022
+Naser Damer|[Towards Explaining Demographic Bias through the Eyes of Face Recognition   Models](http://arxiv.org/abs/2208.13400v1)|2022-08-29 07:23:06+00:00|29-08-2022
+Xin Eric Wang|[JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for   Conversational Embodied Agents](http://arxiv.org/abs/2208.13266v3)|2022-09-07 14:43:22+00:00|28-08-2022
+Hongjing Xia|[Interpretable (not just posthoc-explainable) medical claims modeling for   discharge placement to prevent avoidable all-cause readmissions or death](http://arxiv.org/abs/2208.12814v1)|2022-08-28 06:19:32+00:00|28-08-2022
+
 ## 13-09-2022
 
 main_author|title|update_date|publish_date

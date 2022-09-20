@@ -1,5 +1,73 @@
 # bnn
 Click on title for link to paper
+## 20-09-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Marc-André Carbonneau|[ZeroEGGS: Zero-shot Example-based Gesture Generation from Speech](http://arxiv.org/abs/2209.07556v1)|2022-09-15 18:34:30+00:00|15-09-2022
+Mikhail Hushchyn|[Toward an understanding of the properties of neural network approaches   for supernovae light curve approximation](http://arxiv.org/abs/2209.07542v1)|2022-09-15 18:00:08+00:00|15-09-2022
+M. Jorge Cardoso|[Brain Imaging Generation with Latent Diffusion Models](http://arxiv.org/abs/2209.07162v1)|2022-09-15 09:16:21+00:00|15-09-2022
+Jan Gasthaus|[On the detrimental effect of invariances in the likelihood for   variational inference](http://arxiv.org/abs/2209.07157v1)|2022-09-15 09:13:30+00:00|15-09-2022
+Guillermo A. Perez|[COOL-MC: A Comprehensive Tool for Reinforcement Learning and Model   Checking](http://arxiv.org/abs/2209.07133v1)|2022-09-15 08:25:43+00:00|15-09-2022
+Han-Wei Shen|[GNNInterpreter: A Probabilistic Generative Model-Level Explanation for   Graph Neural Networks](http://arxiv.org/abs/2209.07924v1)|2022-09-15 07:45:35+00:00|15-09-2022
+James R. Foulds|[Fair Inference for Discrete Latent Variable Models](http://arxiv.org/abs/2209.07044v1)|2022-09-15 04:54:21+00:00|15-09-2022
+P. Richard Hahn|[Stochastic Tree Ensembles for Estimating Heterogeneous Effects](http://arxiv.org/abs/2209.06998v1)|2022-09-15 01:58:03+00:00|15-09-2022
+Stephan Mandt|[Lossy Image Compression with Conditional Diffusion Models](http://arxiv.org/abs/2209.06950v1)|2022-09-14 21:53:27+00:00|14-09-2022
+Ivan Dokmanić|[Small Transformers Compute Universal Metric Embeddings](http://arxiv.org/abs/2209.06788v1)|2022-09-14 17:12:41+00:00|14-09-2022
+Neil D. Lawrence|[Modelling Technical and Biological Effects in scRNA-seq data with   Scalable GPLVMs](http://arxiv.org/abs/2209.06716v1)|2022-09-14 15:25:15+00:00|14-09-2022
+Weiran Xu|[Distribution Calibration for Out-of-Domain Detection with Bayesian   Approximation](http://arxiv.org/abs/2209.06612v1)|2022-09-14 13:04:09+00:00|14-09-2022
+Michael Green|[Borch: A Deep Universal Probabilistic Programming Language](http://arxiv.org/abs/2209.06168v1)|2022-09-13 17:18:01+00:00|13-09-2022
+Tinsu Pan|[PET image denoising based on denoising diffusion probabilistic models](http://arxiv.org/abs/2209.06167v2)|2022-09-14 16:07:53+00:00|13-09-2022
+George Karypis|[Variational Causal Inference](http://arxiv.org/abs/2209.05935v1)|2022-09-13 12:31:33+00:00|13-09-2022
+Maneesh Sahani|[Unsupervised representational learning with recognition-parametrised   probabilistic models](http://arxiv.org/abs/2209.05661v1)|2022-09-13 00:33:21+00:00|13-09-2022
+Benjamin M. Marlin|[BayesLDM: A Domain-Specific Language for Probabilistic Modeling of   Longitudinal Data](http://arxiv.org/abs/2209.05581v1)|2022-09-12 20:10:02+00:00|12-09-2022
+Gabriel Martos Venturini|[Uncovering Regions of Maximum Dissimilarity on Random Process Data](http://arxiv.org/abs/2209.05569v1)|2022-09-12 19:44:49+00:00|12-09-2022
+Maneesh Sahani|[Amortised Inference in Structured Generative Models with Explaining Away](http://arxiv.org/abs/2209.05212v1)|2022-09-12 12:52:15+00:00|12-09-2022
+Mingyuan Zhou|[Ordinal Graph Gamma Belief Network for Social Recommender Systems](http://arxiv.org/abs/2209.05106v1)|2022-09-12 09:19:22+00:00|12-09-2022
+Mohammed Bennamoun|[Bayesian Learning for Disparity Map Refinement for Semi-Dense Active   Stereo Vision](http://arxiv.org/abs/2209.05082v1)|2022-09-12 08:33:40+00:00|12-09-2022
+Bo Li|[CARE: Certifiably Robust Learning with Reasoning via Variational   Inference](http://arxiv.org/abs/2209.05055v1)|2022-09-12 07:15:52+00:00|12-09-2022
+Mubarak Shah|[Diffusion Models in Vision: A Survey](http://arxiv.org/abs/2209.04747v1)|2022-09-10 22:00:30+00:00|10-09-2022
+Andrew B. Duncan|[Batch Bayesian Optimization via Particle Gradient Flows](http://arxiv.org/abs/2209.04722v1)|2022-09-10 18:10:15+00:00|10-09-2022
+Antonio G. Ravelo-García|[Variational Autoencoder Kernel Interpretation and Selection for   Classification](http://arxiv.org/abs/2209.04715v1)|2022-09-10 17:22:53+00:00|10-09-2022
+Shankar Kumar|[Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence   Models](http://arxiv.org/abs/2209.04683v1)|2022-09-10 14:52:41+00:00|10-09-2022
+Kerrie Mengersen|[clusterBMA: Bayesian model averaging for clustering](http://arxiv.org/abs/2209.04117v1)|2022-09-09 04:55:20+00:00|09-09-2022
+Hideitsu Hino|[Gaussian Process Koopman Mode Decomposition](http://arxiv.org/abs/2209.04111v1)|2022-09-09 03:57:07+00:00|09-09-2022
+Golnoosh Farnadi|[Analyzing the Effect of Sampling in GNNs on Individual Fairness](http://arxiv.org/abs/2209.03904v2)|2022-09-09 14:01:57+00:00|08-09-2022
+Kristopher Innanen|[Implicit Full Waveform Inversion with Deep Neural Representation](http://arxiv.org/abs/2209.03525v1)|2022-09-08 01:54:50+00:00|08-09-2022
+Simon Godsill|[Non-Gaussian Process Regression](http://arxiv.org/abs/2209.03117v1)|2022-09-07 13:08:22+00:00|07-09-2022
+Jörg Lücke|[On the Convergence of the ELBO to Entropy Sums](http://arxiv.org/abs/2209.03077v1)|2022-09-07 11:33:32+00:00|07-09-2022
+Deshuang Huang|[Single-Stage Broad Multi-Instance Multi-Label Learning (BMIML) with   Diverse Inter-Correlations and its application to medical image   classification](http://arxiv.org/abs/2209.02625v1)|2022-09-06 16:28:54+00:00|06-09-2022
+Daniel Edward Pagendam|[Bayesian Neural Network Inference via Implicit Models and the Posterior   Predictive Distribution](http://arxiv.org/abs/2209.02188v1)|2022-09-06 02:43:19+00:00|06-09-2022
+Christian Knoll|[Understanding the Behavior of Belief Propagation](http://arxiv.org/abs/2209.05464v1)|2022-09-05 14:24:52+00:00|05-09-2022
+Robert Scheichl|[Deep importance sampling using tensor-trains with application to a   priori and a posteriori rare event estimation](http://arxiv.org/abs/2209.01941v1)|2022-09-05 12:44:32+00:00|05-09-2022
+Maria K. Y. Chan|[Ensemble of Pre-Trained Neural Networks for Segmentation and Quality   Detection of Transmission Electron Microscopy Images](http://arxiv.org/abs/2209.01908v1)|2022-09-05 11:15:25+00:00|05-09-2022
+Sebastian M. Schmon|[Investigating the Impact of Model Misspecification in Neural   Simulation-based Inference](http://arxiv.org/abs/2209.01845v1)|2022-09-05 09:08:16+00:00|05-09-2022
+Felix Leibfried|[Variational Inference for Model-Free and Model-Based Reinforcement   Learning](http://arxiv.org/abs/2209.01693v1)|2022-09-04 21:03:14+00:00|04-09-2022
+Mário A. T. Figueiredo|[ProBoost: a Boosting Method for Probabilistic Classifiers](http://arxiv.org/abs/2209.01611v1)|2022-09-04 12:49:20+00:00|04-09-2022
+Derek Aguiar|[Interpretable Fake News Detection with Topic and Deep Variational Models](http://arxiv.org/abs/2209.01536v1)|2022-09-04 05:31:00+00:00|04-09-2022
+Bo Zhu|[Symplectically Integrated Symbolic Regression of Hamiltonian Dynamical   Systems](http://arxiv.org/abs/2209.01521v1)|2022-09-04 03:17:40+00:00|04-09-2022
+Arghir Zarnescu|[From Monte Carlo to neural networks approximations of boundary value   problems](http://arxiv.org/abs/2209.01432v1)|2022-09-03 14:17:58+00:00|03-09-2022
+Pietro Manzoni|[Tree-Based Learning in RNNs for Power Consumption Forecasting](http://arxiv.org/abs/2209.01378v1)|2022-09-03 09:21:39+00:00|03-09-2022
+Sanjay Chaudhuri|[elhmc: An R Package for Hamiltonian Monte Carlo Sampling in Bayesian   Empirical Likelihood](http://arxiv.org/abs/2209.01289v1)|2022-09-02 22:22:16+00:00|02-09-2022
+Philippe Rigo|[Inference and dynamic decision-making for deteriorating systems with   probabilistic dependencies through Bayesian networks and deep reinforcement   learning](http://arxiv.org/abs/2209.01092v1)|2022-09-02 14:45:40+00:00|02-09-2022
+Fragkiskos Malliaros|[Higher-order Clustering and Pooling for Graph Neural Networks](http://arxiv.org/abs/2209.03473v1)|2022-09-02 09:17:10+00:00|02-09-2022
+Dong Liang|[Self-Score: Self-Supervised Learning on Score-Based Models for MRI   Reconstruction](http://arxiv.org/abs/2209.00835v1)|2022-09-02 06:21:42+00:00|02-09-2022
+My T. Thai|[An Explainer for Temporal Graph Neural Networks](http://arxiv.org/abs/2209.00807v1)|2022-09-02 04:12:40+00:00|02-09-2022
+Fabio Sciarrino|[Deep reinforcement learning for quantum multiparameter estimation](http://arxiv.org/abs/2209.00671v1)|2022-09-01 18:01:56+00:00|01-09-2022
+Lina Yao|[The Neural Process Family: Survey, Applications and Perspectives](http://arxiv.org/abs/2209.00517v1)|2022-09-01 15:01:32+00:00|01-09-2022
+Xiu Li|[Dynamics-Adaptive Continual Reinforcement Learning via Progressive   Contextualization](http://arxiv.org/abs/2209.00347v1)|2022-09-01 10:26:58+00:00|01-09-2022
+Ziwei Liu|[MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model](http://arxiv.org/abs/2208.15001v1)|2022-08-31 17:58:54+00:00|31-08-2022
+Francesco Bonchi|[Multiscale Non-stationary Causal Structure Learning from Time Series   Data](http://arxiv.org/abs/2208.14989v1)|2022-08-31 17:44:08+00:00|31-08-2022
+Viacheslav Borovitskiy|[Stationary Kernels and Gaussian Processes on Lie Groups and their   Homogeneous Spaces I: the Compact Case](http://arxiv.org/abs/2208.14960v1)|2022-08-31 16:40:40+00:00|31-08-2022
+Edmond Menya|[Ant Colony Optimization for Mining Gradual Patterns](http://arxiv.org/abs/2208.14795v1)|2022-08-31 12:22:57+00:00|31-08-2022
+Robert E. Armstrong|[Light curve completion and forecasting using fast and scalable Gaussian   processes (MuyGPs)](http://arxiv.org/abs/2208.14592v1)|2022-08-31 01:52:00+00:00|31-08-2022
+Sarah Ostadabbas|[Prior-Aware Synthetic Data to the Rescue: Animal Pose Estimation with   Very Limited Real Data](http://arxiv.org/abs/2208.13944v1)|2022-08-30 01:17:50+00:00|30-08-2022
+Osvaldo Simeone|[Bayesian Continual Learning via Spiking Neural Networks](http://arxiv.org/abs/2208.13723v1)|2022-08-29 17:11:14+00:00|29-08-2022
+Ben Mildenhall|[Volume Rendering Digest (for NeRF)](http://arxiv.org/abs/2209.02417v1)|2022-08-29 15:46:14+00:00|29-08-2022
+Wei Liu|[Towards In-distribution Compatibility in Out-of-distribution Detection](http://arxiv.org/abs/2208.13433v1)|2022-08-29 09:06:15+00:00|29-08-2022
+Helen Meng|[Bayesian Neural Network Language Modeling for Speech Recognition](http://arxiv.org/abs/2208.13259v1)|2022-08-28 17:50:19+00:00|28-08-2022
+Hongjing Xia|[Interpretable (not just posthoc-explainable) medical claims modeling for   discharge placement to prevent avoidable all-cause readmissions or death](http://arxiv.org/abs/2208.12814v1)|2022-08-28 06:19:32+00:00|28-08-2022
+
 ## 13-09-2022
 
 main_author|title|update_date|publish_date
