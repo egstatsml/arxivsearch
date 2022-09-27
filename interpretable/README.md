@@ -1,5 +1,16 @@
 # interpretable
 Click on title for link to paper
+## 27-09-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Chris Callison-Burch|[Towards Faithful Model Explanation in NLP: A Survey](http://arxiv.org/abs/2209.11326v1)|2022-09-22 21:40:51+00:00|22-09-2022
+Vasileios Mezaris|[Learning Visual Explanations for DCNN-Based Image Classifiers Using an   Attention Mechanism](http://arxiv.org/abs/2209.11189v1)|2022-09-22 17:33:18+00:00|22-09-2022
+Qing Li|[A Comprehensive Survey on Trustworthy Recommender Systems](http://arxiv.org/abs/2209.10117v1)|2022-09-21 04:34:17+00:00|21-09-2022
+Ashwin Kalyan|[Learn to Explain: Multimodal Reasoning via Thought Chains for Science   Question Answering](http://arxiv.org/abs/2209.09513v1)|2022-09-20 07:04:24+00:00|20-09-2022
+Damian Borth|[RESHAPE: Explaining Accounting Anomalies in Financial Statement Audits   by enhancing SHapley Additive exPlanations](http://arxiv.org/abs/2209.09157v1)|2022-09-19 16:23:43+00:00|19-09-2022
+Prateek Saxena|[Membership Inference Attacks and Generalization: A Causal Perspective](http://arxiv.org/abs/2209.08615v1)|2022-09-18 17:31:11+00:00|18-09-2022
+
 ## 20-09-2022
 
 main_author|title|update_date|publish_date

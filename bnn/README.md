@@ -1,5 +1,35 @@
 # bnn
 Click on title for link to paper
+## 27-09-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Howie Choset|[GLSO: Grammar-guided Latent Space Optimization for Sample-efficient   Robot Design Automation](http://arxiv.org/abs/2209.11748v1)|2022-09-23 17:48:24+00:00|23-09-2022
+Andrew I. Comport|[PNeRF: Probabilistic Neural Scene Representations for Uncertain 3D   Visual Mapping](http://arxiv.org/abs/2209.11677v1)|2022-09-23 16:05:12+00:00|23-09-2022
+Antti Honkela|[Differentially private partitioned variational inference](http://arxiv.org/abs/2209.11595v1)|2022-09-23 13:58:40+00:00|23-09-2022
+Susanta Ghosh|[A Jensen-Shannon Divergence Based Loss Function for Bayesian Neural   Networks](http://arxiv.org/abs/2209.11366v1)|2022-09-23 01:47:09+00:00|23-09-2022
+Florent Leclercq|[Simulation-based inference of Bayesian hierarchical models while   checking for model misspecification](http://arxiv.org/abs/2209.11057v1)|2022-09-22 14:51:54+00:00|22-09-2022
+Yitao Duan|[Semantically Consistent Data Augmentation for Neural Machine Translation   via Conditional Masked Language Model](http://arxiv.org/abs/2209.10875v1)|2022-09-22 09:19:08+00:00|22-09-2022
+Fabio Ramos|[Batch Bayesian optimisation via density-ratio estimation with guarantees](http://arxiv.org/abs/2209.10715v1)|2022-09-22 00:42:18+00:00|22-09-2022
+Maani Ghaffari|[Convolutional Bayesian Kernel Inference for 3D Semantic Mapping](http://arxiv.org/abs/2209.10663v1)|2022-09-21 21:15:12+00:00|21-09-2022
+Robert Peharz|[Continuous Mixtures of Tractable Probabilistic Models](http://arxiv.org/abs/2209.10584v1)|2022-09-21 18:18:32+00:00|21-09-2022
+Marius Millea|[Improved Marginal Unbiased Score Expansion (MUSE) via Implicit   Differentiation](http://arxiv.org/abs/2209.10512v1)|2022-09-21 17:20:20+00:00|21-09-2022
+David Blei|[Variational Inference for Infinitely Deep Neural Networks](http://arxiv.org/abs/2209.10091v1)|2022-09-21 03:54:34+00:00|21-09-2022
+Philippe Preux|[Soft Action Priors: Towards Robust Policy Transfer](http://arxiv.org/abs/2209.09882v1)|2022-09-20 17:36:28+00:00|20-09-2022
+Seth Flaxman|[Seq2Seq Surrogates of Epidemic Models to Facilitate Bayesian Inference](http://arxiv.org/abs/2209.09617v1)|2022-09-20 11:23:19+00:00|20-09-2022
+Tommy W. S. Chow|[Modeling sequential annotations for sequence labeling with crowds](http://arxiv.org/abs/2209.09430v1)|2022-09-20 02:51:23+00:00|20-09-2022
+Jianjun Hu|[Probabilistic Generative Transformer Language models for Generative   Design of Molecules](http://arxiv.org/abs/2209.09406v1)|2022-09-20 01:51:57+00:00|20-09-2022
+Michael D. Shields|[Physics-Informed Machine Learning of Dynamical Systems for Efficient   Bayesian Inference](http://arxiv.org/abs/2209.09349v1)|2022-09-19 21:17:23+00:00|19-09-2022
+Nisar Ahmed|[Active Inference for Autonomous Decision-Making with Contextual   Multi-Armed Bandits](http://arxiv.org/abs/2209.09185v1)|2022-09-19 17:11:21+00:00|19-09-2022
+Karteek Alahari|[On the Shift Invariance of Max Pooling Feature Maps in Convolutional   Neural Networks](http://arxiv.org/abs/2209.11740v1)|2022-09-19 08:15:30+00:00|19-09-2022
+Vishal M. Patel|[T2V-DDPM: Thermal to Visible Face Translation using Denoising Diffusion   Probabilistic Models](http://arxiv.org/abs/2209.08814v1)|2022-09-19 07:59:32+00:00|19-09-2022
+Cewu Lu|[D&D: Learning Human Dynamics from Dynamic Camera](http://arxiv.org/abs/2209.08790v1)|2022-09-19 06:51:02+00:00|19-09-2022
+Vincent Gripon|[Adaptive Dimension Reduction and Variational Inference for Transductive   Few-Shot Classification](http://arxiv.org/abs/2209.08527v1)|2022-09-18 10:29:02+00:00|18-09-2022
+Yanlong Huang|[A Non-parametric Skill Representation with Soft Null Space Projectors   for Fast Generalization](http://arxiv.org/abs/2209.08522v1)|2022-09-18 10:04:59+00:00|18-09-2022
+Yong Rui|[Delving Globally into Texture and Structure for Image Inpainting](http://arxiv.org/abs/2209.08217v1)|2022-09-17 02:19:26+00:00|17-09-2022
+Noah Goodman|[Psychologically-informed chain-of-thought prompts for metaphor   understanding in large language models](http://arxiv.org/abs/2209.08141v1)|2022-09-16 19:23:13+00:00|16-09-2022
+Howard Bondell|[Sparse high-dimensional linear regression with a partitioned empirical   Bayes ECM algorithm](http://arxiv.org/abs/2209.08139v2)|2022-09-20 17:25:50+00:00|16-09-2022
+
 ## 20-09-2022
 
 main_author|title|update_date|publish_date

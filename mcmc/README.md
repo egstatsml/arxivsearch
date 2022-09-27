@@ -1,5 +1,16 @@
 # mcmc
 Click on title for link to paper
+## 27-09-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Andrew I. Comport|[PNeRF: Probabilistic Neural Scene Representations for Uncertain 3D   Visual Mapping](http://arxiv.org/abs/2209.11677v1)|2022-09-23 16:05:12+00:00|23-09-2022
+Adil Kaan Akan|[Stochastic Future Prediction in Real World Driving Scenarios](http://arxiv.org/abs/2209.10693v1)|2022-09-21 22:34:31+00:00|21-09-2022
+Guanghui Lan|[First-order Policy Optimization for Robust Markov Decision Process](http://arxiv.org/abs/2209.10579v1)|2022-09-21 18:10:28+00:00|21-09-2022
+Marek Petrik|[On the convex formulations of robust Markov decision processes](http://arxiv.org/abs/2209.10187v1)|2022-09-21 08:39:02+00:00|21-09-2022
+Zhengming Ding|[Adversarial Bi-Regressor Network for Domain Adaptive Regression](http://arxiv.org/abs/2209.09943v1)|2022-09-20 18:38:28+00:00|20-09-2022
+Vishal M. Patel|[T2V-DDPM: Thermal to Visible Face Translation using Denoising Diffusion   Probabilistic Models](http://arxiv.org/abs/2209.08814v1)|2022-09-19 07:59:32+00:00|19-09-2022
+
 ## 20-09-2022
 
 main_author|title|update_date|publish_date

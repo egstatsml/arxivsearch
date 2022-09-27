@@ -1,5 +1,55 @@
 # fairness
 Click on title for link to paper
+## 27-09-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Jiachen Zhong|[WS-3D-Lane: Weakly Supervised 3D Lane Detection With 2D Lane Labels](http://arxiv.org/abs/2209.11523v1)|2022-09-23 11:07:08+00:00|23-09-2022
+Osvaldo Simeone|[Error Mitigation-Aided Optimization of Parameterized Quantum Circuits:   Convergence Analysis](http://arxiv.org/abs/2209.11514v1)|2022-09-23 10:48:04+00:00|23-09-2022
+David Hsu|[LEADER: Learning Attention over Driving Behaviors for Planning under   Uncertainty](http://arxiv.org/abs/2209.11422v1)|2022-09-23 05:42:04+00:00|23-09-2022
+Gregory Farquhar|[An Investigation of the Bias-Variance Tradeoff in Meta-Gradients](http://arxiv.org/abs/2209.11303v1)|2022-09-22 20:33:05+00:00|22-09-2022
+Jascha Sohl-Dickstein|[A Closer Look at Learned Optimization: Stability, Robustness, and   Inductive Biases](http://arxiv.org/abs/2209.11208v1)|2022-09-22 17:47:21+00:00|22-09-2022
+Ryan Cotterell|[Equivariant Transduction through Invariant Alignment](http://arxiv.org/abs/2209.10926v1)|2022-09-22 11:19:45+00:00|22-09-2022
+Yongqiang Cai|[Vanilla feedforward neural networks as a discretization of dynamic   systems](http://arxiv.org/abs/2209.10909v1)|2022-09-22 10:32:08+00:00|22-09-2022
+Harold Soh|[SCALES: From Fairness Principles to Constrained Decision-Making](http://arxiv.org/abs/2209.10860v1)|2022-09-22 08:44:36+00:00|22-09-2022
+Sushil Khyalia|[STING: Self-attention based Time-series Imputation Networks using GAN](http://arxiv.org/abs/2209.10801v1)|2022-09-22 06:06:56+00:00|22-09-2022
+Winston H. Hsu|[Fair Robust Active Learning by Joint Inconsistency](http://arxiv.org/abs/2209.10729v1)|2022-09-22 01:56:41+00:00|22-09-2022
+Gus Xia|[Modeling Perceptual Loudness of Piano Tone: Theory and Applications](http://arxiv.org/abs/2209.10674v1)|2022-09-21 21:57:14+00:00|21-09-2022
+Lester Mackey|[Adaptive Bias Correction for Improved Subseasonal Forecasting](http://arxiv.org/abs/2209.10666v1)|2022-09-21 21:22:44+00:00|21-09-2022
+Luke Zettlemoyer|[Mega: Moving Average Equipped Gated Attention](http://arxiv.org/abs/2209.10655v2)|2022-09-26 06:23:38+00:00|21-09-2022
+Ziwei Liu|[Benchmarking and Analyzing 3D Human Pose and Shape Estimation Beyond   Algorithms](http://arxiv.org/abs/2209.10529v1)|2022-09-21 17:39:53+00:00|21-09-2022
+Kamyar Azizzadenesheli|[Off-Policy Risk Assessment in Markov Decision Processes](http://arxiv.org/abs/2209.10444v1)|2022-09-21 15:40:59+00:00|21-09-2022
+Shiyu Chang|[Fairness Reprogramming](http://arxiv.org/abs/2209.10222v1)|2022-09-21 09:37:00+00:00|21-09-2022
+Qing Li|[A Comprehensive Survey on Trustworthy Recommender Systems](http://arxiv.org/abs/2209.10117v1)|2022-09-21 04:34:17+00:00|21-09-2022
+Weicheng Ye|[Generalized Gloves of Neural Additive Models: Pursuing transparent and   accurate machine learning models in finance](http://arxiv.org/abs/2209.10082v1)|2022-09-21 03:06:29+00:00|21-09-2022
+Weicheng Ye|[Monotonic Neural Additive Models: Pursuing Regulated Machine Learning   Models for Credit Scoring](http://arxiv.org/abs/2209.10070v1)|2022-09-21 02:14:09+00:00|21-09-2022
+Petar Popovski|[FedToken: Tokenized Incentives for Data Contribution in Federated   Learning](http://arxiv.org/abs/2209.09775v1)|2022-09-20 14:58:08+00:00|20-09-2022
+Xiaoying. Shi|[A Deep Reinforcement Learning-Based Charging Scheduling Approach with   Augmented Lagrangian for Electric Vehicle](http://arxiv.org/abs/2209.09772v1)|2022-09-20 14:56:51+00:00|20-09-2022
+Gido H. Schoenmacker|[Closing the Gender Wage Gap: Adversarial Fairness in Job Recommendation](http://arxiv.org/abs/2209.09592v1)|2022-09-20 10:11:40+00:00|20-09-2022
+Marek Gagolewski|[A Framework for Benchmarking Clustering Algorithms](http://arxiv.org/abs/2209.09493v1)|2022-09-20 06:10:41+00:00|20-09-2022
+Yulin Kang|[Incorporating Casual Analysis into Diversified and Logical Response   Generation](http://arxiv.org/abs/2209.09482v1)|2022-09-20 05:51:11+00:00|20-09-2022
+Alexander D'Amour|[Fairness and robustness in anti-causal prediction](http://arxiv.org/abs/2209.09423v1)|2022-09-20 02:41:17+00:00|20-09-2022
+Dahua Lin|[Mitigating Representation Bias in Action Recognition: Algorithms and   Benchmarks](http://arxiv.org/abs/2209.09393v1)|2022-09-20 00:30:35+00:00|20-09-2022
+Margo Seltzer|[TimberTrek: Exploring and Curating Sparse Decision Trees with   Interactive Visualization](http://arxiv.org/abs/2209.09227v1)|2022-09-19 17:52:18+00:00|19-09-2022
+David Jensen|[Measuring Interventional Robustness in Reinforcement Learning](http://arxiv.org/abs/2209.09058v1)|2022-09-19 14:50:05+00:00|19-09-2022
+Naser Damer|[Fairness in Face Presentation Attack Detection](http://arxiv.org/abs/2209.09035v1)|2022-09-19 14:12:09+00:00|19-09-2022
+Chengyu Liu|[A Causal Intervention Scheme for Semantic Segmentation of Quasi-periodic   Cardiovascular Signals](http://arxiv.org/abs/2209.09018v1)|2022-09-19 13:54:51+00:00|19-09-2022
+Jintao Li|[Improving Fake News Detection of Influential Domain via Domain- and   Instance-Level Transfer](http://arxiv.org/abs/2209.08902v1)|2022-09-19 10:21:13+00:00|19-09-2022
+Muhan Zhang|[Rethinking Knowledge Graph Evaluation Under the Open-World Assumption](http://arxiv.org/abs/2209.08858v1)|2022-09-19 09:01:29+00:00|19-09-2022
+Yu Yang|[Sequence-to-Set Generative Models](http://arxiv.org/abs/2209.08801v1)|2022-09-19 07:13:51+00:00|19-09-2022
+Bryan Hooi|[Probing Spurious Correlations in Popular Event-Based Rumor Detection   Benchmarks](http://arxiv.org/abs/2209.08799v1)|2022-09-19 07:11:36+00:00|19-09-2022
+Svetlana Yanushkevich|[Fairness on Synthetic Visual and Thermal Mask Images](http://arxiv.org/abs/2209.08762v1)|2022-09-19 05:04:42+00:00|19-09-2022
+Wei Lin|[Heterogeneous Federated Learning on a Graph](http://arxiv.org/abs/2209.08737v1)|2022-09-19 03:18:10+00:00|19-09-2022
+Gita Sukthankar|[Through a fair looking-glass: mitigating bias in image datasets](http://arxiv.org/abs/2209.08648v1)|2022-09-18 20:28:36+00:00|18-09-2022
+Robert West|[Distribution inference risks: Identifying and mitigating sources of   leakage](http://arxiv.org/abs/2209.08541v1)|2022-09-18 11:45:27+00:00|18-09-2022
+Bo Liu|[GaitFM: Fine-grained Motion Representation for Gait Recognition](http://arxiv.org/abs/2209.08470v1)|2022-09-18 04:07:33+00:00|18-09-2022
+Harikesh S. Nair|[Advertising Media and Target Audience Optimization via High-dimensional   Bandits](http://arxiv.org/abs/2209.08403v1)|2022-09-17 21:00:53+00:00|17-09-2022
+Xiaoyong Du|[Human Pose Driven Object Effects Recommendation](http://arxiv.org/abs/2209.08353v1)|2022-09-17 15:32:54+00:00|17-09-2022
+Guang Yang|[Non-Imaging Medical Data Synthesis for Trustworthy AI: A Comprehensive   Survey](http://arxiv.org/abs/2209.09239v1)|2022-09-17 13:34:17+00:00|17-09-2022
+Dongmei Zhang|[Enhanced Fairness Testing via Generating Effective Initial Individual   Discriminatory Instances](http://arxiv.org/abs/2209.08321v1)|2022-09-17 12:33:50+00:00|17-09-2022
+Eirini Ntoutsi|[AdaCC: Cumulative Cost-Sensitive Boosting for Imbalanced Classification](http://arxiv.org/abs/2209.08309v1)|2022-09-17 10:46:19+00:00|17-09-2022
+Fei Miao|[A Robust and Constrained Multi-Agent Reinforcement Learning Framework   for Electric Vehicle AMoD Systems](http://arxiv.org/abs/2209.08230v1)|2022-09-17 03:24:10+00:00|17-09-2022
+
 ## 20-09-2022
 
 main_author|title|update_date|publish_date
