@@ -1,5 +1,31 @@
 # variational
 Click on title for link to paper
+## 11-10-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Yoshua Bengio|[Generative Augmented Flow Networks](http://arxiv.org/abs/2210.03308v1)|2022-10-07 03:33:56+00:00|07-10-2022
+Wolfgang Lehner|[To Softmax, or not to Softmax: that is the question when applying Active   Learning for Transformer Models](http://arxiv.org/abs/2210.03005v1)|2022-10-06 15:51:39+00:00|06-10-2022
+Abdelhamid Bouchachia|[Scaling up Stochastic Gradient Descent for Non-convex Optimisation](http://arxiv.org/abs/2210.02882v1)|2022-10-06 13:06:08+00:00|06-10-2022
+Andrei Barbu|[Query The Agent: Improving sample efficiency through epistemic   uncertainty estimation](http://arxiv.org/abs/2210.02585v1)|2022-10-05 22:25:15+00:00|05-10-2022
+Tetiana Aksenova|[Deep learning for ECoG brain-computer interface: end-to-end vs.   hand-crafted features](http://arxiv.org/abs/2210.02544v1)|2022-10-05 20:18:30+00:00|05-10-2022
+Brais Martinez|[Variational prompt tuning improves generalization of vision-language   models](http://arxiv.org/abs/2210.02390v1)|2022-10-05 17:05:56+00:00|05-10-2022
+Eric L. Miller|[Non-Parametric and Regularized Dynamical Wasserstein Barycenters for   Time-Series Analysis](http://arxiv.org/abs/2210.01918v2)|2022-10-07 01:41:27+00:00|04-10-2022
+Rishabh Iyer|[DIAGNOSE: Avoiding Out-of-distribution Data using Submodular Information   Measures](http://arxiv.org/abs/2210.01526v1)|2022-10-04 11:07:48+00:00|04-10-2022
+Adrien Gaidon|[RAP: Risk-Aware Prediction for Robust Planning](http://arxiv.org/abs/2210.01368v1)|2022-10-04 04:19:15+00:00|04-10-2022
+Ricky T. Q. Chen|[Latent State Marginalization as a Low-cost Approach for Improving   Exploration](http://arxiv.org/abs/2210.00999v1)|2022-10-03 15:09:12+00:00|03-10-2022
+Jing Wang|[Uncertainty estimations methods for a deep learning model to aid in   clinical decision-making -- a clinician's perspective](http://arxiv.org/abs/2210.00589v1)|2022-10-02 17:54:54+00:00|02-10-2022
+Vlado Menkovski|[Towards Learned Simulators for Cell Migration](http://arxiv.org/abs/2210.01123v1)|2022-10-02 14:01:09+00:00|02-10-2022
+Yao Li|[Supervised Parameter Estimation of Neuron Populations from Multiple   Firing Events](http://arxiv.org/abs/2210.01767v1)|2022-10-02 03:17:05+00:00|02-10-2022
+Arpan Chattopadhyay|[Counter-Adversarial Learning with Inverse Unscented Kalman Filter](http://arxiv.org/abs/2210.00359v1)|2022-10-01 20:31:47+00:00|01-10-2022
+Emily McMilin|[Exploiting Selection Bias on Underspecified Tasks in Large Language   Models](http://arxiv.org/abs/2210.00131v1)|2022-09-30 23:10:11+00:00|30-09-2022
+Juergen Branke|[Efficient computation of the Knowledge Gradient for Bayesian   Optimization](http://arxiv.org/abs/2209.15367v1)|2022-09-30 10:39:38+00:00|30-09-2022
+Nhat Ho|[Improving Generative Flow Networks with Path Regularization](http://arxiv.org/abs/2209.15092v1)|2022-09-29 20:54:41+00:00|29-09-2022
+Volkan Isler|[Category-Level Global Camera Pose Estimation with Multi-Hypothesis Point   Cloud Correspondences](http://arxiv.org/abs/2209.14419v1)|2022-09-28 21:12:51+00:00|28-09-2022
+Emmanuel Gangler|[Explainable classification of astronomical uncertain time series](http://arxiv.org/abs/2210.00869v1)|2022-09-28 09:06:42+00:00|28-09-2022
+Jeremy J. Heit|[Evaluation of Medical Image Segmentation Models for Uncertain, Small or   Empty Reference Annotations](http://arxiv.org/abs/2209.13008v2)|2022-09-30 06:01:12+00:00|26-09-2022
+Nikolay Malkin|[Learning GFlowNets from partial episodes for improved convergence and   stability](http://arxiv.org/abs/2209.12782v2)|2022-09-30 19:49:05+00:00|26-09-2022
+
 ## 27-09-2022
 
 main_author|title|update_date|publish_date

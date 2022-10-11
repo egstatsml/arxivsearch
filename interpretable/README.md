@@ -1,5 +1,30 @@
 # interpretable
 Click on title for link to paper
+## 11-10-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Xujie Si|[Novice Type Error Diagnosis with Natural Language Models](http://arxiv.org/abs/2210.03682v1)|2022-10-07 16:40:53+00:00|07-10-2022
+Jinhu Lv|[IDa-Det: An Information Discrepancy-aware Distillation for 1-bit   Detectors](http://arxiv.org/abs/2210.03477v1)|2022-10-07 12:04:14+00:00|07-10-2022
+MD. Golam Rabiul Alam|[Explainable AI based Glaucoma Detection using Transfer Learning and LIME](http://arxiv.org/abs/2210.03332v1)|2022-10-07 05:36:33+00:00|07-10-2022
+Marcus Antonio Viana Duarte|[Fault Diagnosis using eXplainable AI: a Transfer Learning-based Approach   for Rotating Machinery exploiting Augmented Synthetic Data](http://arxiv.org/abs/2210.02974v1)|2022-10-06 15:02:35+00:00|06-10-2022
+David Mimno|[Honest Students from Untrusted Teachers: Learning an Interpretable   Question-Answering Pipeline from a Pretrained Language Model](http://arxiv.org/abs/2210.02498v1)|2022-10-05 18:23:49+00:00|05-10-2022
+Suhang Wang|[Towards Prototype-Based Self-Explainable Graph Neural Network](http://arxiv.org/abs/2210.01974v1)|2022-10-05 00:47:42+00:00|05-10-2022
+Sergey Tulyakov|[Affection: Learning Affective Explanations for Real-World Visual Data](http://arxiv.org/abs/2210.01946v1)|2022-10-04 22:44:17+00:00|04-10-2022
+Ronnie C. O. Alves|[Explanation-by-Example Based on Item Response Theory](http://arxiv.org/abs/2210.01638v1)|2022-10-04 14:36:33+00:00|04-10-2022
+Krzysztof Czarnecki|[Interpretable Deep Tracking](http://arxiv.org/abs/2210.01266v1)|2022-10-03 23:15:13+00:00|03-10-2022
+Max Tegmark|[Omnigrok: Grokking Beyond Algorithmic Data](http://arxiv.org/abs/2210.01117v1)|2022-10-03 17:58:04+00:00|03-10-2022
+Luc Van Gool|[Basic Binary Convolution Unit for Binarized Image Restoration Network](http://arxiv.org/abs/2210.00405v1)|2022-10-02 01:54:40+00:00|02-10-2022
+Ethem Alpaydın|[PathFinder: Discovering Decision Pathways in Deep Neural Networks](http://arxiv.org/abs/2210.00319v1)|2022-10-01 16:49:55+00:00|01-10-2022
+Jason D. Lee|[Self-Stabilization: The Implicit Bias of Gradient Descent at the Edge of   Stability](http://arxiv.org/abs/2209.15594v1)|2022-09-30 17:15:12+00:00|30-09-2022
+Alessandro Abate|[Observational Robustness and Invariances in Reinforcement Learning via   Lexicographic Objectives](http://arxiv.org/abs/2209.15320v1)|2022-09-30 08:53:18+00:00|30-09-2022
+Wonju Lee|[Recipro-CAM: Gradient-free reciprocal class activation map](http://arxiv.org/abs/2209.14074v1)|2022-09-28 13:15:03+00:00|28-09-2022
+Michael R. Benjamin|[Towards Explaining Autonomy with Verbalised Decision Tree States](http://arxiv.org/abs/2209.13985v1)|2022-09-28 10:28:01+00:00|28-09-2022
+Xingxing Wei|[Translation, Scale and Rotation: Cross-Modal Alignment Meets   RGB-Infrared Vehicle Detection](http://arxiv.org/abs/2209.13801v1)|2022-09-28 03:06:18+00:00|28-09-2022
+G. Lewis|[Predicting Swarm Equatorial Plasma Bubbles Via Supervised Machine   Learning](http://arxiv.org/abs/2209.13482v1)|2022-09-27 15:55:23+00:00|27-09-2022
+Dinh Phung|[Learning to Counter: Stochastic Feature-based Learning for Diverse   Counterfactual Explanations](http://arxiv.org/abs/2209.13446v1)|2022-09-27 15:09:13+00:00|27-09-2022
+Chen Zhang|[Asset Pricing and Deep Learning](http://arxiv.org/abs/2209.12014v1)|2022-09-24 14:18:07+00:00|24-09-2022
+
 ## 27-09-2022
 
 main_author|title|update_date|publish_date
