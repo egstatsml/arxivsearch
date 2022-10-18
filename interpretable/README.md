@@ -1,5 +1,22 @@
 # interpretable
 Click on title for link to paper
+## 18-10-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Ioanna Constantiou|[Machine Learning in Transaction Monitoring: The Prospect of xAI](http://arxiv.org/abs/2210.07648v1)|2022-10-14 08:58:35+00:00|14-10-2022
+Meeyoung Cha|[Self-explaining deep models with logic rule reasoning](http://arxiv.org/abs/2210.07024v2)|2022-10-17 08:24:42+00:00|13-10-2022
+Mariette Awad|[On the Evaluation of the Plausibility and Faithfulness of Sentiment   Analysis Explanations](http://arxiv.org/abs/2210.06916v1)|2022-10-13 11:29:17+00:00|13-10-2022
+Xifeng Yan|[Explanations from Large Language Models Make Small Reasoners Better](http://arxiv.org/abs/2210.06726v1)|2022-10-13 04:50:02+00:00|13-10-2022
+Vipin Kumar|[Probabilistic Inverse Modeling: An Application in Hydrology](http://arxiv.org/abs/2210.06213v1)|2022-10-12 14:00:37+00:00|12-10-2022
+Klaus Pohl|[Explaining Online Reinforcement Learning Decisions of Self-Adaptive   Systems](http://arxiv.org/abs/2210.05931v1)|2022-10-12 05:38:27+00:00|12-10-2022
+Chongqing Kang|[Improving Sample Efficiency of Deep Learning Models in Electricity   Market](http://arxiv.org/abs/2210.05599v1)|2022-10-11 16:35:13+00:00|11-10-2022
+Thomas Hartvigsen|[Class-Specific Explainability for Deep Time Series Classifiers](http://arxiv.org/abs/2210.05411v1)|2022-10-11 12:37:15+00:00|11-10-2022
+Hans Dieter Schotten|[On Explainability in AI-Solutions: A Cross-Domain Survey](http://arxiv.org/abs/2210.05173v1)|2022-10-11 06:21:47+00:00|11-10-2022
+Swabha Swayamdipta|[REV: Information-Theoretic Evaluation of Free-Text Rationales](http://arxiv.org/abs/2210.04982v2)|2022-10-14 21:17:07+00:00|10-10-2022
+Mayukha Pal|[Local Interpretable Model Agnostic Shap Explanations for machine   learning models](http://arxiv.org/abs/2210.04533v1)|2022-10-10 10:07:27+00:00|10-10-2022
+Preslav Nakov|[CrowdChecked: Detecting Previously Fact-Checked Claims in Social Media](http://arxiv.org/abs/2210.04447v1)|2022-10-10 06:05:52+00:00|10-10-2022
+
 ## 11-10-2022
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,47 @@
 # bnn
 Click on title for link to paper
+## 18-10-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Georgia Chalvatzaki|[Hierarchical Policy Blending as Inference for Reactive Robot Control](http://arxiv.org/abs/2210.07890v1)|2022-10-14 15:16:54+00:00|14-10-2022
+Fredrik Lindsten|[Marginalized particle Gibbs for multiple state-space models coupled   through shared parameters](http://arxiv.org/abs/2210.07379v1)|2022-10-13 21:49:40+00:00|13-10-2022
+Thomas Ploetz|[Finding Islands of Predictability in Action Forecasting](http://arxiv.org/abs/2210.07354v1)|2022-10-13 21:01:16+00:00|13-10-2022
+Paul-Christian Bürkner|[Meta-Uncertainty in Bayesian Model Comparison](http://arxiv.org/abs/2210.07278v1)|2022-10-13 18:10:29+00:00|13-10-2022
+Sergei Seleznev|[Fast Estimation of Bayesian State Space Models Using Amortized   Simulation-Based Inference](http://arxiv.org/abs/2210.07154v1)|2022-10-13 16:37:05+00:00|13-10-2022
+Matthew B. Blaschko|[A Consistent and Differentiable Lp Canonical Calibration Error Estimator](http://arxiv.org/abs/2210.07810v1)|2022-10-13 15:11:11+00:00|13-10-2022
+Marcel Worring|[Probabilistic Integration of Object Level Annotations in Chest X-ray   Classification](http://arxiv.org/abs/2210.06980v1)|2022-10-13 12:53:42+00:00|13-10-2022
+Aritz Pérez|[Dirichlet process mixture models for non-stationary data streams](http://arxiv.org/abs/2210.06872v1)|2022-10-13 09:57:07+00:00|13-10-2022
+Patrick Jaillet|[Sample-Then-Optimize Batch Neural Thompson Sampling](http://arxiv.org/abs/2210.06850v1)|2022-10-13 09:01:58+00:00|13-10-2022
+Masaharu Munetomo|[Accelerating the Evolutionary Algorithms by Gaussian Process Regression   with $ε$-greedy acquisition function](http://arxiv.org/abs/2210.06814v1)|2022-10-13 07:56:47+00:00|13-10-2022
+Adrian G. Bors|[Task-Free Continual Learning via Online Discrepancy Distance Learning](http://arxiv.org/abs/2210.06579v1)|2022-10-12 20:44:09+00:00|12-10-2022
+Maxim Ziatdinov|[Microscopy is All You Need](http://arxiv.org/abs/2210.06526v1)|2022-10-12 18:41:40+00:00|12-10-2022
+Padhraic Smyth|[Predictive Querying for Autoregressive Neural Sequence Models](http://arxiv.org/abs/2210.06464v2)|2022-10-13 17:35:42+00:00|12-10-2022
+Xin T. Tong|[Sampling in Constrained Domains with Orthogonal-Space Variational   Gradient Descent](http://arxiv.org/abs/2210.06447v1)|2022-10-12 17:51:13+00:00|12-10-2022
+Giuseppe Durisi|[A New Family of Generalization Bounds Using Samplewise Evaluated CMI](http://arxiv.org/abs/2210.06422v1)|2022-10-12 17:15:44+00:00|12-10-2022
+Sai Prashanth Chinnapalli|[Quantifying Uncertainty with Probabilistic Machine Learning Modeling in   Wireless Sensing](http://arxiv.org/abs/2210.06416v1)|2022-10-12 17:12:07+00:00|12-10-2022
+Hadi Meidani|[Graph Neural Network Surrogate for seismic reliability analysis of   highway bridge system](http://arxiv.org/abs/2210.06404v1)|2022-10-12 17:00:26+00:00|12-10-2022
+Vipin Kumar|[Probabilistic Inverse Modeling: An Application in Hydrology](http://arxiv.org/abs/2210.06213v1)|2022-10-12 14:00:37+00:00|12-10-2022
+Juho Lee|[On Divergence Measures for Bayesian Pseudocoresets](http://arxiv.org/abs/2210.06205v1)|2022-10-12 13:45:36+00:00|12-10-2022
+Sotirios A. Tsaftaris|[Diffusion Models for Causal Discovery via Topological Ordering](http://arxiv.org/abs/2210.06201v1)|2022-10-12 13:36:29+00:00|12-10-2022
+Katja Bühler|[Anomaly Detection using Generative Models and Sum-Product Networks in   Mammography Scans](http://arxiv.org/abs/2210.06188v1)|2022-10-12 13:18:16+00:00|12-10-2022
+Tamir Hazan|[On the Importance of Gradient Norm in PAC-Bayesian Bounds](http://arxiv.org/abs/2210.06143v1)|2022-10-12 12:49:20+00:00|12-10-2022
+Bernhard Sick|[Fast Bayesian Updates for Deep Learning with a Use Case in Active   Learning](http://arxiv.org/abs/2210.06112v1)|2022-10-12 12:16:46+00:00|12-10-2022
+Filipe Rodrigues|[Context-aware Bayesian choice models](http://arxiv.org/abs/2210.05737v1)|2022-10-11 19:06:42+00:00|11-10-2022
+Bernhard Schölkopf|[Neural Importance Sampling for Rapid and Reliable Gravitational-Wave   Inference](http://arxiv.org/abs/2210.05686v1)|2022-10-11 18:00:02+00:00|11-10-2022
+Liam Paull|[Robust and Controllable Object-Centric Learning through Energy-based   Models](http://arxiv.org/abs/2210.05519v1)|2022-10-11 15:11:15+00:00|11-10-2022
+José Miguel Hernández-Lobato|[Sampling-based inference for large linear models, with application to   linearised Laplace](http://arxiv.org/abs/2210.04994v1)|2022-10-10 19:59:40+00:00|10-10-2022
+Alexandros Iosifidis|[Layer Ensembles](http://arxiv.org/abs/2210.04882v1)|2022-10-10 17:52:47+00:00|10-10-2022
+Mark Beaumont|[Sequential Neural Score Estimation: Likelihood-Free Inference with   Conditional Score Based Diffusion Models](http://arxiv.org/abs/2210.04872v1)|2022-10-10 17:45:37+00:00|10-10-2022
+Xinwei Deng|[Bayesian Sparse Regression for Mixed Multi-Responses with Application to   Runtime Metrics Prediction in Fog Manufacturing](http://arxiv.org/abs/2210.04811v2)|2022-10-11 00:51:29+00:00|10-10-2022
+Nanning Zheng|[Using Detection, Tracking and Prediction in Visual SLAM to Achieve   Real-time Semantic Mapping of Dynamic Scenarios](http://arxiv.org/abs/2210.04562v1)|2022-10-10 11:03:32+00:00|10-10-2022
+Shitong Xu|[CLIP-Diffusion-LM: Apply Diffusion Model on Image Captioning](http://arxiv.org/abs/2210.04559v1)|2022-10-10 10:55:53+00:00|10-10-2022
+Guy Van den Broeck|[Scaling Up Probabilistic Circuits by Latent Variable Distillation](http://arxiv.org/abs/2210.04398v1)|2022-10-10 02:07:32+00:00|10-10-2022
+Faming Liang|[Nonlinear Sufficient Dimension Reduction with a Stochastic Neural   Network](http://arxiv.org/abs/2210.04349v1)|2022-10-09 20:56:57+00:00|09-10-2022
+Prasanna Balaprakash|[Unified Probabilistic Neural Architecture and Weight Ensembling Improves   Model Robustness](http://arxiv.org/abs/2210.04083v1)|2022-10-08 18:30:30+00:00|08-10-2022
+Rafael Hostettler|[Ball-and-socket joint pose estimation using magnetic field](http://arxiv.org/abs/2210.03984v1)|2022-10-08 09:49:54+00:00|08-10-2022
+Branka Vucetic|[Signal Detection in MIMO Systems with Hardware Imperfections: Message   Passing on Neural Networks](http://arxiv.org/abs/2210.03911v1)|2022-10-08 04:32:58+00:00|08-10-2022
+
 ## 11-10-2022
 
 main_author|title|update_date|publish_date
