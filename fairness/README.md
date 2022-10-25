@@ -1,5 +1,54 @@
 # fairness
 Click on title for link to paper
+## 25-10-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Flavio Giobergia|[Triplet Losses-based Matrix Factorization for Robust Recommendations](http://arxiv.org/abs/2210.12098v1)|2022-10-21 16:44:59+00:00|21-10-2022
+Fosca Giannotti|[A Survey on Graph Counterfactual Explanations: Definitions, Methods,   Evaluation](http://arxiv.org/abs/2210.12089v1)|2022-10-21 16:29:14+00:00|21-10-2022
+Alain Durmus|[Barrier Hamiltonian Monte Carlo](http://arxiv.org/abs/2210.11925v1)|2022-10-21 12:56:07+00:00|21-10-2022
+Alice Xiang|[Men Also Do Laundry: Multi-Attribute Bias Amplification](http://arxiv.org/abs/2210.11924v1)|2022-10-21 12:50:15+00:00|21-10-2022
+Yannis Avrithis|[Boosting vision transformers for image retrieval](http://arxiv.org/abs/2210.11909v1)|2022-10-21 12:17:12+00:00|21-10-2022
+Pushpak Bhattacharyya|[Detecting Unintended Social Bias in Toxic Language Datasets](http://arxiv.org/abs/2210.11762v1)|2022-10-21 06:50:12+00:00|21-10-2022
+Jinwei Gu|[Overexposure Mask Fusion: Generalizable Reverse ISP Multi-Step   Refinement](http://arxiv.org/abs/2210.11511v1)|2022-10-20 18:21:41+00:00|20-10-2022
+Hamid Rezatofighi|[JRDB-Pose: A Large-scale Dataset for Multi-Person Pose Estimation and   Tracking](http://arxiv.org/abs/2210.11940v1)|2022-10-20 07:14:37+00:00|20-10-2022
+Wanlei Zhou|[How Does a Deep Learning Model Architecture Impact Its Privacy?](http://arxiv.org/abs/2210.11049v1)|2022-10-20 06:44:37+00:00|20-10-2022
+Xinggao Liu|[Entire Space Counterfactual Learning: Tuning, Analytical Properties and   Industrial Applications](http://arxiv.org/abs/2210.11039v1)|2022-10-20 06:19:50+00:00|20-10-2022
+Christian Gagné|[On Learning Fairness and Accuracy on Multiple Subgroups](http://arxiv.org/abs/2210.10837v1)|2022-10-19 18:59:56+00:00|19-10-2022
+David Chiang|[A Continuum of Generation Tasks for Investigating Length Bias and   Degenerate Repetition](http://arxiv.org/abs/2210.10817v1)|2022-10-19 18:09:51+00:00|19-10-2022
+Wotao Yin|[On Representing Mixed-Integer Linear Programs by Graph Neural Networks](http://arxiv.org/abs/2210.10759v1)|2022-10-19 17:56:07+00:00|19-10-2022
+Svetlana Kiritchenko|[Towards Procedural Fairness: Uncovering Biases in How a Toxic Language   Classifier Uses Sentiment Information](http://arxiv.org/abs/2210.10689v1)|2022-10-19 16:03:25+00:00|19-10-2022
+Mohammed Asad Karim|[Attaining Class-level Forgetting in Pretrained Model using Few Samples](http://arxiv.org/abs/2210.10670v1)|2022-10-19 15:36:01+00:00|19-10-2022
+Arto Klami|[Estimating the Contamination Factor's Distribution in Unsupervised   Anomaly Detection](http://arxiv.org/abs/2210.10487v1)|2022-10-19 11:51:25+00:00|19-10-2022
+Christoph Heitz|[Group Fairness in Prediction-Based Decision Making: From Moral   Assessment to Implementation](http://arxiv.org/abs/2210.10456v1)|2022-10-19 10:44:21+00:00|19-10-2022
+Yang Yu|[Domain generalization Person Re-identification on Attention-aware   multi-operation strategery](http://arxiv.org/abs/2210.10409v1)|2022-10-19 09:18:46+00:00|19-10-2022
+Kristian Kersting|[Revision Transformers: Getting RiT of No-Nos](http://arxiv.org/abs/2210.10332v2)|2022-10-21 09:56:56+00:00|19-10-2022
+Kai-Wei Chang|[The Tail Wagging the Dog: Dataset Construction Biases of Social Bias   Benchmarks](http://arxiv.org/abs/2210.10040v1)|2022-10-18 17:58:39+00:00|18-10-2022
+David Martins de Matos|[Transfer-learning for video classification: Video Swin Transformer on   multiple domains](http://arxiv.org/abs/2210.09969v1)|2022-10-18 16:24:55+00:00|18-10-2022
+Nicolas Usunier|[Contextual bandits with concave rewards, and an application to fair   ranking](http://arxiv.org/abs/2210.09957v1)|2022-10-18 16:11:55+00:00|18-10-2022
+Micah Goldblum|[On the Importance of Architectures and Hyperparameters for Fairness in   Face Recognition](http://arxiv.org/abs/2210.09943v1)|2022-10-18 15:46:05+00:00|18-10-2022
+Davit Gogolashvili|[Importance Weighting Correction of Regularized Least-Squares for   Covariate and Target Shifts](http://arxiv.org/abs/2210.09709v1)|2022-10-18 09:39:36+00:00|18-10-2022
+Shivani Agarwal|[Consistent Multiclass Algorithms for Complex Metrics and Constraints](http://arxiv.org/abs/2210.09695v2)|2022-10-19 03:35:01+00:00|18-10-2022
+Baharan Mirzasoleiman|[Not All Poisons are Created Equal: Robust Training against Data   Poisoning](http://arxiv.org/abs/2210.09671v1)|2022-10-18 08:19:41+00:00|18-10-2022
+Jiliang Tang|[Towards Fair Classification against Poisoning Attacks](http://arxiv.org/abs/2210.09503v1)|2022-10-18 00:49:58+00:00|18-10-2022
+Jacob Abernethy|[On Accelerated Perceptrons and Beyond](http://arxiv.org/abs/2210.09371v1)|2022-10-17 19:12:30+00:00|17-10-2022
+Debadeepta Dey|[What Makes Convolutional Models Great on Long Sequence Modeling?](http://arxiv.org/abs/2210.09298v1)|2022-10-17 17:53:29+00:00|17-10-2022
+Lijuan Wang|[Prompting GPT-3 To Be Reliable](http://arxiv.org/abs/2210.09150v1)|2022-10-17 14:52:39+00:00|17-10-2022
+João Gomes|[ISEE.U: Distributed online active target localization with unpredictable   targets](http://arxiv.org/abs/2210.09107v1)|2022-10-17 13:57:07+00:00|17-10-2022
+Parag Singla|[A Solver-Free Framework for Scalable Learning in Neural ILP   Architectures](http://arxiv.org/abs/2210.09082v1)|2022-10-17 13:31:20+00:00|17-10-2022
+Mauro Conti|[Attribute Inference Attacks in Online Multiplayer Video Games: a Case   Study on Dota2](http://arxiv.org/abs/2210.09028v1)|2022-10-17 12:45:55+00:00|17-10-2022
+Xiaojun Wan|[Social Biases in Automatic Evaluation Metrics for NLG](http://arxiv.org/abs/2210.08859v1)|2022-10-17 08:55:26+00:00|17-10-2022
+Meisam Razaviyayn|[Stochastic Differentially Private and Fair Learning](http://arxiv.org/abs/2210.08781v1)|2022-10-17 06:54:57+00:00|17-10-2022
+Lea Frermann|[Systematic Evaluation of Predictive Fairness](http://arxiv.org/abs/2210.08758v1)|2022-10-17 05:40:13+00:00|17-10-2022
+Lili Mou|[Teacher Forcing Recovers Reward Functions for Text Generation](http://arxiv.org/abs/2210.08708v1)|2022-10-17 02:48:58+00:00|17-10-2022
+Udi Wieder|[Loss Minimization through the Lens of Outcome Indistinguishability](http://arxiv.org/abs/2210.08649v1)|2022-10-16 22:25:27+00:00|16-10-2022
+Andrea Montanari|[Dimension free ridge regression](http://arxiv.org/abs/2210.08571v1)|2022-10-16 16:01:05+00:00|16-10-2022
+Fei Wu|[Investigating the Robustness of Natural Language Generation from Logical   Forms via Counterfactual Samples](http://arxiv.org/abs/2210.08548v1)|2022-10-16 14:14:53+00:00|16-10-2022
+Kunal Talwar|[Resolving the Mixing Time of the Langevin Algorithm to its Stationary   Distribution for Log-Concave Sampling](http://arxiv.org/abs/2210.08448v1)|2022-10-16 05:11:16+00:00|16-10-2022
+Fabian Moerchen|[Fair Effect Attribution in Parallel Online Experiments](http://arxiv.org/abs/2210.08338v1)|2022-10-15 17:15:51+00:00|15-10-2022
+Nan Liu|[Handling missing values in healthcare data: A systematic review of deep   learning-based imputation techniques](http://arxiv.org/abs/2210.08258v1)|2022-10-15 11:11:20+00:00|15-10-2022
+Ehsan Shareghi|[Generating Synthetic Speech from SpokenVocab for Speech Translation](http://arxiv.org/abs/2210.08174v1)|2022-10-15 03:07:44+00:00|15-10-2022
+
 ## 18-10-2022
 
 main_author|title|update_date|publish_date

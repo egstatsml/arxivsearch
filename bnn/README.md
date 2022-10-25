@@ -1,5 +1,37 @@
 # bnn
 Click on title for link to paper
+## 25-10-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Isabelle Bloch|[Learning shape distributions from large databases of healthy organs:   applications to zero-shot and few-shot abnormal pancreas detection](http://arxiv.org/abs/2210.12095v1)|2022-10-21 16:39:59+00:00|21-10-2022
+Philipp Berens|[Efficient identification of informative features in simulation-based   inference](http://arxiv.org/abs/2210.11915v1)|2022-10-21 12:35:46+00:00|21-10-2022
+Minseok Choi|[Bayesian deep learning framework for uncertainty quantification in high   dimensions](http://arxiv.org/abs/2210.11737v1)|2022-10-21 05:20:06+00:00|21-10-2022
+George Konidaris|[Model-based Lifelong Reinforcement Learning with Bayesian Exploration](http://arxiv.org/abs/2210.11579v1)|2022-10-20 20:40:47+00:00|20-10-2022
+Edith Zhang|[On Representations of Mean-Field Variational Inference](http://arxiv.org/abs/2210.11385v1)|2022-10-20 16:26:22+00:00|20-10-2022
+Julia Porcino|[Autoencoded sparse Bayesian in-IRT factorization, calibration, and   amortized inference for the Work Disability Functional Assessment Battery](http://arxiv.org/abs/2210.10952v1)|2022-10-20 01:55:59+00:00|20-10-2022
+Bjoern W. Schuller|[Propagating Variational Model Uncertainty for Bioacoustic Call Label   Smoothing](http://arxiv.org/abs/2210.10526v1)|2022-10-19 13:04:26+00:00|19-10-2022
+Irwansyah|[Efficient, probabilistic analysis of combinatorial neural codes](http://arxiv.org/abs/2210.10492v1)|2022-10-19 11:58:26+00:00|19-10-2022
+Cees G. M. Snoek|[Variational Model Perturbation for Source-Free Domain Adaptation](http://arxiv.org/abs/2210.10378v1)|2022-10-19 08:41:19+00:00|19-10-2022
+Takeo Kato|[Free energy model of emotional valence in dual-process perceptions](http://arxiv.org/abs/2210.10262v2)|2022-10-21 06:36:21+00:00|19-10-2022
+Eytan Bakshy|[Bayesian Optimization over Discrete and Mixed Spaces via Probabilistic   Reparameterization](http://arxiv.org/abs/2210.10199v1)|2022-10-18 22:41:00+00:00|18-10-2022
+T. Patrick Xiao|[An out-of-distribution discriminator based on Bayesian neural network   epistemic uncertainty](http://arxiv.org/abs/2210.10780v1)|2022-10-18 21:15:33+00:00|18-10-2022
+Jeremy Bernstein|[Optimisation & Generalisation in Networks of Neurons](http://arxiv.org/abs/2210.10101v1)|2022-10-18 18:58:40+00:00|18-10-2022
+Han Yu|[Measure-Theoretic Probability of Complex Co-occurrence and E-Integral](http://arxiv.org/abs/2210.09913v1)|2022-10-18 14:52:23+00:00|18-10-2022
+Jiliang Tang|[Probabilistic Categorical Adversarial Attack & Adversarial Training](http://arxiv.org/abs/2210.09364v2)|2022-10-24 16:25:57+00:00|17-10-2022
+Bin Yu|[A Mixing Time Lower Bound for a Simplified Version of BART](http://arxiv.org/abs/2210.09352v1)|2022-10-17 18:45:36+00:00|17-10-2022
+Sergio Bacallado|[Conditional Neural Processes for Molecules](http://arxiv.org/abs/2210.09211v1)|2022-10-17 16:10:12+00:00|17-10-2022
+Markus Holzmann|[Data Subsampling for Bayesian Neural Networks](http://arxiv.org/abs/2210.09141v1)|2022-10-17 14:43:35+00:00|17-10-2022
+Bert de Vries|[Principled Pruning of Bayesian Neural Networks through Variational Free   Energy Minimization](http://arxiv.org/abs/2210.09134v1)|2022-10-17 14:34:42+00:00|17-10-2022
+Long Feng|[Sparse Kronecker Product Decomposition: A General Framework of Signal   Region Detection in Image Regression](http://arxiv.org/abs/2210.09128v1)|2022-10-17 14:22:45+00:00|17-10-2022
+Heinz Koeppl|[Forward-Backward Latent State Inference for Hidden Continuous-Time   semi-Markov Chains](http://arxiv.org/abs/2210.09058v1)|2022-10-17 13:01:14+00:00|17-10-2022
+Patrick Mäder|[Flipped Classroom: Effective Teaching for Time Series Forecasting](http://arxiv.org/abs/2210.08959v1)|2022-10-17 11:53:25+00:00|17-10-2022
+George Streftaris|[Deep Learning Aided Laplace Based Bayesian Inference for Epidemiological   Systems](http://arxiv.org/abs/2210.08865v1)|2022-10-17 09:02:41+00:00|17-10-2022
+Nicu Sebe|[Overlap-guided Gaussian Mixture Models for Point Cloud Registration](http://arxiv.org/abs/2210.09836v1)|2022-10-17 08:02:33+00:00|17-10-2022
+Qingfu Zhang|[Pareto Set Learning for Expensive Multi-Objective Optimization](http://arxiv.org/abs/2210.08495v1)|2022-10-16 09:41:54+00:00|16-10-2022
+Guangquan Zhang|[Streaming PAC-Bayes Gaussian process regression with a performance   guarantee for online decision making](http://arxiv.org/abs/2210.08486v1)|2022-10-16 08:39:20+00:00|16-10-2022
+Yaochu Jin|[A Secure Federated Data-Driven Evolutionary Multi-objective Optimization   Algorithm](http://arxiv.org/abs/2210.08295v1)|2022-10-15 13:39:49+00:00|15-10-2022
+
 ## 18-10-2022
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,20 @@
 # interpretable
 Click on title for link to paper
+## 25-10-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+William Yang Wang|[WikiWhy: Answering and Explaining Cause-and-Effect Questions](http://arxiv.org/abs/2210.12152v1)|2022-10-21 17:59:03+00:00|21-10-2022
+Benoit Favre|[Do Vision-and-Language Transformers Learn Grounded Predicate-Noun   Dependencies?](http://arxiv.org/abs/2210.12079v1)|2022-10-21 16:07:00+00:00|21-10-2022
+Ambuj Singh|[Global Counterfactual Explainer for Graph Neural Networks](http://arxiv.org/abs/2210.11695v1)|2022-10-21 02:46:35+00:00|21-10-2022
+David Freire-Obregón|[Deep Learning for Diagonal Earlobe Crease Detection](http://arxiv.org/abs/2210.11582v1)|2022-10-20 20:51:48+00:00|20-10-2022
+David Chiang|[A Continuum of Generation Tasks for Investigating Length Bias and   Degenerate Repetition](http://arxiv.org/abs/2210.10817v1)|2022-10-19 18:09:51+00:00|19-10-2022
+Daniel Berleant|[Discovering Limitations of Image Quality Assessments with Noised Deep   Learning Image Sets](http://arxiv.org/abs/2210.10249v1)|2022-10-19 02:15:09+00:00|19-10-2022
+Jun Zhao|[ReasonChainQA: Text-based Complex Question Answering with Explainable   Evidence Chains](http://arxiv.org/abs/2210.08763v1)|2022-10-17 06:07:39+00:00|17-10-2022
+Heng Ji|[NormSAGE: Multi-Lingual Multi-Cultural Norm Discovery from Conversations   On-the-Fly](http://arxiv.org/abs/2210.08604v1)|2022-10-16 18:30:05+00:00|16-10-2022
+Gunjan Saxena|[Explainable Causal Analysis of Mental Health on Social Media Data](http://arxiv.org/abs/2210.08430v1)|2022-10-16 03:34:47+00:00|16-10-2022
+Lianghua He|[DProtoNet: Decoupling the inference module and the explanation module   enables neural networks to have better accuracy and interpretability](http://arxiv.org/abs/2210.08336v1)|2022-10-15 17:05:55+00:00|15-10-2022
+
 ## 18-10-2022
 
 main_author|title|update_date|publish_date

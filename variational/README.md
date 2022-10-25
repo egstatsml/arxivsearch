@@ -1,5 +1,18 @@
 # variational
 Click on title for link to paper
+## 25-10-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Michael C. Yip|[Real-Time Constrained 6D Object-Pose Tracking of An In-Hand Suture   Needle for Minimally Invasive Robotic Surgery](http://arxiv.org/abs/2210.11973v1)|2022-10-21 14:02:10+00:00|21-10-2022
+Minseok Choi|[Bayesian deep learning framework for uncertainty quantification in high   dimensions](http://arxiv.org/abs/2210.11737v1)|2022-10-21 05:20:06+00:00|21-10-2022
+Byoung-Tak Zhang|[Robust Imitation via Mirror Descent Inverse Reinforcement Learning](http://arxiv.org/abs/2210.11201v1)|2022-10-20 12:25:21+00:00|20-10-2022
+Jack Valmadre|[Hierarchical classification at multiple operating points](http://arxiv.org/abs/2210.10929v1)|2022-10-19 23:36:16+00:00|19-10-2022
+Montserrat Gonzalez|[Robotic Table Wiping via Reinforcement Learning and Whole-body   Trajectory Optimization](http://arxiv.org/abs/2210.10865v1)|2022-10-19 20:12:43+00:00|19-10-2022
+Eytan Bakshy|[Bayesian Optimization over Discrete and Mixed Spaces via Probabilistic   Reparameterization](http://arxiv.org/abs/2210.10199v1)|2022-10-18 22:41:00+00:00|18-10-2022
+Jaeyoung Kim|[Bag of Tricks for Developing Diabetic Retinopathy Analysis Framework to   Overcome Data Scarcity](http://arxiv.org/abs/2210.09558v1)|2022-10-18 03:25:00+00:00|18-10-2022
+Jonathan P. How|[MIXER: Multiattribute, Multiway Fusion of Uncertain Pairwise Affinities](http://arxiv.org/abs/2210.08360v1)|2022-10-15 19:19:57+00:00|15-10-2022
+
 ## 18-10-2022
 
 main_author|title|update_date|publish_date
