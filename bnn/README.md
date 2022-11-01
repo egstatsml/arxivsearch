@@ -1,5 +1,39 @@
 # bnn
 Click on title for link to paper
+## 01-11-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Kong|[A Novel Sparse Bayesian Learning and Its Application to Fault Diagnosis   for Multistation Assembly Systems](http://arxiv.org/abs/2210.16176v1)|2022-10-28 14:47:51+00:00|28-10-2022
+Amit R. Trivedi|[Robust Monocular Localization of Drones by Adapting Domain Maps to Depth   Prediction Inaccuracies](http://arxiv.org/abs/2210.15559v1)|2022-10-27 15:48:53+00:00|27-10-2022
+Craig Saint|[Strategic Geosteeering Workflow with Uncertainty Quantification and Deep   Learning: A Case Study on the Goliat Field](http://arxiv.org/abs/2210.15548v1)|2022-10-27 15:38:26+00:00|27-10-2022
+Muneki Yasuda|[Multi-layered Discriminative Restricted Boltzmann Machine with Untrained   Probabilistic Layer](http://arxiv.org/abs/2210.15434v1)|2022-10-27 13:56:17+00:00|27-10-2022
+Ingo Scholtes|[Bayesian Inference of Transition Matrices from Incomplete Graph Data   with a Topological Prior](http://arxiv.org/abs/2210.15410v1)|2022-10-27 13:17:47+00:00|27-10-2022
+Shao-Qun Zhang|[On the Approximation and Complexity of Deep Neural Networks to Invariant   Functions](http://arxiv.org/abs/2210.15279v1)|2022-10-27 09:19:19+00:00|27-10-2022
+Pierre Gentine|[History-Based, Bayesian, Closure for Stochastic Parameterization:   Application to Lorenz '96](http://arxiv.org/abs/2210.14488v1)|2022-10-26 05:22:50+00:00|26-10-2022
+Lexin Li|[Optimizing Pessimism in Dynamic Treatment Regimes: A Bayesian Learning   Approach](http://arxiv.org/abs/2210.14420v1)|2022-10-26 02:14:10+00:00|26-10-2022
+Peter Tu|[Adaptive Test-Time Defense with the Manifold Hypothesis](http://arxiv.org/abs/2210.14404v2)|2022-10-27 01:49:17+00:00|26-10-2022
+Abani Patra|[Combined Data and Deep Learning Model Uncertainties: An Application to   the Measurement of Solid Fuel Regression Rate](http://arxiv.org/abs/2210.14287v1)|2022-10-25 19:18:17+00:00|25-10-2022
+Andreas Krause|[A Dynamical System View of Langevin-Based Non-Convex Sampling](http://arxiv.org/abs/2210.13867v1)|2022-10-25 09:43:36+00:00|25-10-2022
+Thomas Pock|[Stable deep MRI reconstruction using Generative Priors](http://arxiv.org/abs/2210.13834v1)|2022-10-25 08:34:29+00:00|25-10-2022
+Omri Abend|[Topical Segmentation of Spoken Narratives: A Test Case on Holocaust   Survivor Testimonies](http://arxiv.org/abs/2210.13783v1)|2022-10-25 06:02:28+00:00|25-10-2022
+Soyoung Ahn|[Bayesian Methods in Automated Vehicle's Car-following Uncertainties:   Enabling Strategic Decision Making](http://arxiv.org/abs/2210.13683v1)|2022-10-25 00:58:31+00:00|25-10-2022
+Samira Ebrahimi Kahou|[Learning Latent Structural Causal Models](http://arxiv.org/abs/2210.13583v1)|2022-10-24 20:09:44+00:00|24-10-2022
+Dong Hye Ye|[Deep Learning Approach for Dynamic Sampling for Multichannel Mass   Spectrometry Imaging](http://arxiv.org/abs/2210.13415v1)|2022-10-24 17:30:20+00:00|24-10-2022
+Li Kevin Wenliang|[On the failure of variational score matching for VAE models](http://arxiv.org/abs/2210.13390v1)|2022-10-24 16:43:04+00:00|24-10-2022
+Andreas Krause|[MARS: Meta-Learning as Score Matching in the Function Space](http://arxiv.org/abs/2210.13319v1)|2022-10-24 15:14:26+00:00|24-10-2022
+Matteo Marsili|[Occam learning](http://arxiv.org/abs/2210.13179v1)|2022-10-24 13:00:15+00:00|24-10-2022
+Shuqin Zhang|[Investigating Neuron Disturbing in Fusing Heterogeneous Neural Networks](http://arxiv.org/abs/2210.12974v1)|2022-10-24 06:47:48+00:00|24-10-2022
+Yanan Fan|[On the optimization and pruning for Bayesian deep learning](http://arxiv.org/abs/2210.12957v1)|2022-10-24 05:18:08+00:00|24-10-2022
+Yoshua Bengio|[GFlowOut: Dropout with Generative Flow Networks](http://arxiv.org/abs/2210.12928v1)|2022-10-24 03:00:01+00:00|24-10-2022
+Lenka Zdeborová|[A study of uncertainty quantification in overparametrized   high-dimensional models](http://arxiv.org/abs/2210.12760v1)|2022-10-23 16:01:08+00:00|23-10-2022
+Jun Zhu|[Accelerated Linearized Laplace Approximation for Bayesian Deep Learning](http://arxiv.org/abs/2210.12642v1)|2022-10-23 07:49:03+00:00|23-10-2022
+Hamid D. Taghirad|[Online Probabilistic Model Identification using Adaptive Recursive MCMC](http://arxiv.org/abs/2210.12595v1)|2022-10-23 02:06:48+00:00|23-10-2022
+Joshua B. Tenenbaum|[H-SAUR: Hypothesize, Simulate, Act, Update, and Repeat for Understanding   Object Articulations from Interactions](http://arxiv.org/abs/2210.12521v1)|2022-10-22 18:39:33+00:00|22-10-2022
+Georgia Chalvatzaki|[MILD: Multimodal Interactive Latent Dynamics for Learning Human-Robot   Interaction](http://arxiv.org/abs/2210.12418v1)|2022-10-22 11:25:11+00:00|22-10-2022
+Jinkyoo Park|[Bayesian Convolutional Deep Sets with Task-Dependent Stationary Prior](http://arxiv.org/abs/2210.12363v1)|2022-10-22 06:26:02+00:00|22-10-2022
+Le Kang|[Diffusion Motion: Generate Text-Guided 3D Human Motion by Diffusion   Model](http://arxiv.org/abs/2210.12315v1)|2022-10-22 00:41:17+00:00|22-10-2022
+
 ## 25-10-2022
 
 main_author|title|update_date|publish_date

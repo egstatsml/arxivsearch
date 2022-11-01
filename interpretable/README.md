@@ -1,5 +1,21 @@
 # interpretable
 Click on title for link to paper
+## 01-11-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Varun Ganapathi|[Can Current Explainability Help Provide References in Clinical Notes to   Support Humans Annotate Medical Codes?](http://arxiv.org/abs/2210.15882v1)|2022-10-28 04:06:07+00:00|28-10-2022
+Nick Sajadi|[Reverse Survival Model (RSM): A Pipeline for Explaining Predictions of   Deep Survival Models](http://arxiv.org/abs/2210.15674v1)|2022-10-27 03:39:01+00:00|27-10-2022
+Wenchuan Mu|[Similarity between Units of Natural Language: The Transition from Coarse   to Fine Estimation](http://arxiv.org/abs/2210.14275v1)|2022-10-25 18:54:32+00:00|25-10-2022
+Andreas Geiger|[PlanT: Explainable Planning Transformers via Object-Level   Representations](http://arxiv.org/abs/2210.14222v1)|2022-10-25 17:59:46+00:00|25-10-2022
+Guy Katz|[Towards Formal Approximated Minimal Explanations of Neural Networks](http://arxiv.org/abs/2210.13915v1)|2022-10-25 11:06:37+00:00|25-10-2022
+Vered Shwartz|[VLC-BERT: Visual Question Answering with Contextualized Commonsense   Knowledge](http://arxiv.org/abs/2210.13626v1)|2022-10-24 22:01:17+00:00|24-10-2022
+Ana Marasović|[Does Self-Rationalization Improve Robustness to Spurious Correlations?](http://arxiv.org/abs/2210.13575v1)|2022-10-24 19:54:57+00:00|24-10-2022
+Tatiana Shavrina|[Universal and Independent: Multilingual Probing Framework for Exhaustive   Model Interpretation and Evaluation](http://arxiv.org/abs/2210.13236v1)|2022-10-24 13:41:17+00:00|24-10-2022
+Xiao Xiang Zhu|[Exploring Self-Attention for Crop-type Classification Explainability](http://arxiv.org/abs/2210.13167v1)|2022-10-24 12:36:40+00:00|24-10-2022
+Zheng Zhang|[Self-supervised Amodal Video Object Segmentation](http://arxiv.org/abs/2210.12733v1)|2022-10-23 14:09:35+00:00|23-10-2022
+Joyce Chai|[DANLI: Deliberative Agent for Following Natural Language Instructions](http://arxiv.org/abs/2210.12485v1)|2022-10-22 15:57:01+00:00|22-10-2022
+
 ## 25-10-2022
 
 main_author|title|update_date|publish_date
