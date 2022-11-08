@@ -1,5 +1,41 @@
 # bnn
 Click on title for link to paper
+## 08-11-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Stephan Günnemann|[Modeling Temporal Data as Continuous Functions with Process Diffusion](http://arxiv.org/abs/2211.02590v1)|2022-11-04 17:02:01+00:00|04-11-2022
+Carl E. Rasmussen|[Sparse Gaussian Process Hyperparameters: Optimize or Integrate?](http://arxiv.org/abs/2211.02476v1)|2022-11-04 14:06:59+00:00|04-11-2022
+Theofanis Karaletsos|[Black-box Coreset Variational Inference](http://arxiv.org/abs/2211.02377v1)|2022-11-04 11:12:09+00:00|04-11-2022
+Luca Bortolussi|[Conformal Quantitative Predictive Monitoring of STL Requirements for   Stochastic Processes](http://arxiv.org/abs/2211.02375v1)|2022-11-04 11:08:29+00:00|04-11-2022
+Daniel W. Apley|[Fully Bayesian inference for latent variable Gaussian process models](http://arxiv.org/abs/2211.02218v1)|2022-11-04 02:05:58+00:00|04-11-2022
+Christian Fidler|[Fast and robust Bayesian Inference using Gaussian Processes with GPry](http://arxiv.org/abs/2211.02045v1)|2022-11-03 17:57:45+00:00|03-11-2022
+Jose C. Principe|[Quantifying Model Uncertainty for Semantic Segmentation using Operators   in the RKHS](http://arxiv.org/abs/2211.01999v1)|2022-11-03 17:10:49+00:00|03-11-2022
+Frank Hutter|[Towards Discovering Neural Architectures from Scratch](http://arxiv.org/abs/2211.01842v1)|2022-11-03 14:23:00+00:00|03-11-2022
+Brian J. Reich|[A Bayesian Semiparametric Method For Estimating Causal Quantile Effects](http://arxiv.org/abs/2211.01591v1)|2022-11-03 05:15:18+00:00|03-11-2022
+Ondřej Kuželka|[Jump-Diffusion Langevin Dynamics for Multimodal Posterior Sampling](http://arxiv.org/abs/2211.01774v1)|2022-11-02 17:35:04+00:00|02-11-2022
+Simon Kornblith|[Human alignment of neural network representations](http://arxiv.org/abs/2211.01201v1)|2022-11-02 15:23:16+00:00|02-11-2022
+Jan Peters|[Variational Hierarchical Mixtures for Learning Probabilistic Inverse   Dynamics](http://arxiv.org/abs/2211.01120v1)|2022-11-02 13:54:07+00:00|02-11-2022
+Luke Ong|[Nonparametric Involutive Markov Chain Monte Carlo](http://arxiv.org/abs/2211.01100v1)|2022-11-02 13:21:52+00:00|02-11-2022
+Emmanuel Vazquez|[Bayesian sequential design of computer experiments to estimate reliable   sets](http://arxiv.org/abs/2211.01008v1)|2022-11-02 10:14:05+00:00|02-11-2022
+Sharyn E. Parks|[Inferring school district learning modalities during the COVID-19   pandemic with a hidden Markov model](http://arxiv.org/abs/2211.00708v1)|2022-11-01 19:15:56+00:00|01-11-2022
+Edwin V. Bonilla|[Recurrent Neural Networks and Universal Approximation of Bayesian   Filters](http://arxiv.org/abs/2211.00335v1)|2022-11-01 09:01:44+00:00|01-11-2022
+Wenge Rong|[Improving Variational Autoencoders with Density Gap-based Regularization](http://arxiv.org/abs/2211.00321v1)|2022-11-01 08:17:10+00:00|01-11-2022
+Oluwasanmi Koyejo|[Batch Active Learning from the Perspective of Sparse Approximation](http://arxiv.org/abs/2211.00246v2)|2022-11-05 21:58:08+00:00|01-11-2022
+Hassan Rivaz|[Homodyned K-distribution: parameter estimation and uncertainty   quantification using Bayesian neural networks](http://arxiv.org/abs/2211.00175v1)|2022-10-31 22:38:33+00:00|31-10-2022
+Eric Moulines|[Federated Averaging Langevin Dynamics: Toward a unified theory and new   algorithms](http://arxiv.org/abs/2211.00100v1)|2022-10-31 19:12:04+00:00|31-10-2022
+Youssef Marzouk|[Ensemble transport smoothing -- Part 2: nonlinear updates](http://arxiv.org/abs/2210.17435v1)|2022-10-31 16:04:14+00:00|31-10-2022
+Kanjian Zhang|[Probabilistic Decomposition Transformer for Time Series Forecasting](http://arxiv.org/abs/2210.17393v1)|2022-10-31 15:22:50+00:00|31-10-2022
+P. Rigo|[Farm-wide virtual load monitoring for offshore wind structures via   Bayesian neural networks](http://arxiv.org/abs/2211.00642v1)|2022-10-31 13:02:50+00:00|31-10-2022
+Felice C. Lightstone|[Evaluating Point-Prediction Uncertainties in Neural Networks for Drug   Discovery](http://arxiv.org/abs/2210.17043v1)|2022-10-31 03:45:11+00:00|31-10-2022
+Youssef Marzouk|[Ensemble transport smoothing -- Part 1: unified framework](http://arxiv.org/abs/2210.17000v1)|2022-10-31 01:10:32+00:00|31-10-2022
+Tao Han|[Atlas: Automate Online Service Configuration in Network Slicing](http://arxiv.org/abs/2210.16902v1)|2022-10-30 17:51:00+00:00|30-10-2022
+Satinder Singh|[Planning to the Information Horizon of BAMDPs via Epistemic State   Abstraction](http://arxiv.org/abs/2210.16872v1)|2022-10-30 16:30:23+00:00|30-10-2022
+Vidya Ganapati|[A Self-Supervised Approach to Reconstruction in Sparse X-Ray Computed   Tomography](http://arxiv.org/abs/2211.00002v1)|2022-10-30 02:33:45+00:00|30-10-2022
+Deniz Erdogmus|[Recursive Estimation of User Intent from Noninvasive   Electroencephalography using Discriminative Models](http://arxiv.org/abs/2211.02630v1)|2022-10-29 21:19:08+00:00|29-10-2022
+Markus Kaiser|[Ice Core Dating using Probabilistic Programming](http://arxiv.org/abs/2210.16568v1)|2022-10-29 11:03:01+00:00|29-10-2022
+Song-Chun Zhu|[Learning Probabilistic Models from Generator Latent Spaces with Hat EBM](http://arxiv.org/abs/2210.16486v1)|2022-10-29 03:55:34+00:00|29-10-2022
+
 ## 01-11-2022
 
 main_author|title|update_date|publish_date

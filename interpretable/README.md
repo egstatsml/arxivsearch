@@ -1,5 +1,20 @@
 # interpretable
 Click on title for link to paper
+## 08-11-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Zhaoyang Zhang|[Explainable AI over the Internet of Things (IoT): Overview,   State-of-the-Art and Future Directions](http://arxiv.org/abs/2211.01036v2)|2022-11-07 07:06:14+00:00|02-11-2022
+Stefan Lessmann|[A Data-driven Case-based Reasoning in Bankruptcy Prediction](http://arxiv.org/abs/2211.00921v1)|2022-11-02 07:10:09+00:00|02-11-2022
+Peter Tu|[Understanding the Unforeseen via the Intentional Stance](http://arxiv.org/abs/2211.00478v1)|2022-11-01 14:14:14+00:00|01-11-2022
+Sander Beckers|[Backtracking Counterfactuals](http://arxiv.org/abs/2211.00472v1)|2022-11-01 14:07:30+00:00|01-11-2022
+Kyung-Ah Sohn|[Why Is It Hate Speech? Masked Rationale Prediction for Explainable Hate   Speech Detection](http://arxiv.org/abs/2211.00243v1)|2022-11-01 03:16:36+00:00|01-11-2022
+Ashwin Kalyan|[Lila: A Unified Benchmark for Mathematical Reasoning](http://arxiv.org/abs/2210.17517v1)|2022-10-31 17:41:26+00:00|31-10-2022
+Nidhi Rastogi|[SoK: Modeling Explainability in Security Monitoring for Trust, Privacy,   and Interpretability](http://arxiv.org/abs/2210.17376v1)|2022-10-31 15:01:49+00:00|31-10-2022
+Zheng Zhang|[RLET: A Reinforcement Learning Based Approach for Explainable QA with   Entailment Trees](http://arxiv.org/abs/2210.17095v1)|2022-10-31 06:45:05+00:00|31-10-2022
+Byung-Hak Kim|[Medical Codes Prediction from Clinical Notes: From Human Coders to   Machines](http://arxiv.org/abs/2210.16850v1)|2022-10-30 14:24:13+00:00|30-10-2022
+Roger Wattenhofer|[Neural Combinatorial Logic Circuit Synthesis from Input-Output Examples](http://arxiv.org/abs/2210.16606v1)|2022-10-29 14:06:42+00:00|29-10-2022
+
 ## 01-11-2022
 
 main_author|title|update_date|publish_date
