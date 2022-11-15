@@ -1,5 +1,32 @@
 # bnn
 Click on title for link to paper
+## 15-11-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Yue Hao|[Prior-mean-assisted Bayesian optimization application on FRIB Front-End   tunning](http://arxiv.org/abs/2211.06400v1)|2022-11-11 18:34:15+00:00|11-11-2022
+Tom Rainforth|[Do Bayesian Neural Networks Need To Be Fully Stochastic?](http://arxiv.org/abs/2211.06291v1)|2022-11-11 16:00:21+00:00|11-11-2022
+Sebastian Farquhar|[Understanding Approximation for Bayesian Inference in Neural Networks](http://arxiv.org/abs/2211.06139v1)|2022-11-11 11:31:13+00:00|11-11-2022
+Shujian Huang|[Helping the Weak Makes You Strong: Simple Multi-Task Learning Improves   Non-Autoregressive Translators](http://arxiv.org/abs/2211.06075v1)|2022-11-11 09:10:14+00:00|11-11-2022
+Mehmet Mercangoz|[Semi-supervised Variational Autoencoder for Regression: Application on   Soft Sensors](http://arxiv.org/abs/2211.05979v1)|2022-11-11 02:54:59+00:00|11-11-2022
+Nassir Navab|[DisPositioNet: Disentangled Pose and Identity in Semantic Image   Manipulation](http://arxiv.org/abs/2211.05499v1)|2022-11-10 11:47:37+00:00|10-11-2022
+Christopher Drovandi|[Bayesian score calibration for approximate models](http://arxiv.org/abs/2211.05357v2)|2022-11-11 05:20:07+00:00|10-11-2022
+Lisa O. Singh|[Sparse Bayesian Lasso via a Variable-Coefficient $\ell_1$ Penalty](http://arxiv.org/abs/2211.05089v2)|2022-11-14 15:26:24+00:00|09-11-2022
+Roberto Murcio|[Graph representation learning for street networks](http://arxiv.org/abs/2211.04984v1)|2022-11-09 16:02:28+00:00|09-11-2022
+André Rubbia|[Artificial intelligence for improved fitting of trajectories of   elementary particles in inhomogeneous dense materials immersed in a magnetic   field](http://arxiv.org/abs/2211.04890v1)|2022-11-09 13:50:45+00:00|09-11-2022
+Yonina C. Eldar|[Hyper-Parameter Auto-Tuning for Sparse Bayesian Learning](http://arxiv.org/abs/2211.04847v1)|2022-11-09 12:34:59+00:00|09-11-2022
+Massimiliano Marcellino|[Enhanced Bayesian Neural Networks for Macroeconomics and Finance](http://arxiv.org/abs/2211.04752v2)|2022-11-10 12:46:59+00:00|09-11-2022
+Edgar Dobriban|[Conformal Frequency Estimation with Sketched Data under Relaxed   Exchangeability](http://arxiv.org/abs/2211.04612v1)|2022-11-09 00:05:29+00:00|09-11-2022
+Xiaodi Wu|[Differentiable Quantum Programming with Unbounded Loops](http://arxiv.org/abs/2211.04507v1)|2022-11-08 19:07:06+00:00|08-11-2022
+Piyush M. Mehta|[Reduced Order Probabilistic Emulation for Physics-Based Thermosphere   Models](http://arxiv.org/abs/2211.04392v2)|2022-11-09 22:56:21+00:00|08-11-2022
+Xujie Si|[NSNet: A General Neural Probabilistic Framework for Satisfiability   Problems](http://arxiv.org/abs/2211.03880v1)|2022-11-07 21:43:33+00:00|07-11-2022
+Michael Spannowsky|[Quantum-probabilistic Hamiltonian learning for generative modelling &   anomaly detection](http://arxiv.org/abs/2211.03803v1)|2022-11-07 19:00:02+00:00|07-11-2022
+Nikolay Chumerin|[Contrastive Classification and Representation Learning with   Probabilistic Interpretation](http://arxiv.org/abs/2211.03646v1)|2022-11-07 15:57:24+00:00|07-11-2022
+Ashutosh Pandey|[XAI-BayesHAR: A novel Framework for Human Activity Recognition with   Integrated Uncertainty and Shapely Values](http://arxiv.org/abs/2211.03451v1)|2022-11-07 11:07:28+00:00|07-11-2022
+Marie-Francine Moens|[Probing neural language models for understanding of words of estimative   probability](http://arxiv.org/abs/2211.03358v1)|2022-11-07 08:29:11+00:00|07-11-2022
+Koujin Takeda|[Generalization of generative model for neuronal ensemble inference   method](http://arxiv.org/abs/2211.05634v1)|2022-11-07 07:58:29+00:00|07-11-2022
+Maarten de Hoop|[Neural multi-event forecasting on spatio-temporal point processes using   probabilistically enriched transformers](http://arxiv.org/abs/2211.02922v1)|2022-11-05 14:55:36+00:00|05-11-2022
+
 ## 08-11-2022
 
 main_author|title|update_date|publish_date

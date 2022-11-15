@@ -1,5 +1,15 @@
 # variational
 Click on title for link to paper
+## 15-11-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Tom Rainforth|[Do Bayesian Neural Networks Need To Be Fully Stochastic?](http://arxiv.org/abs/2211.06291v1)|2022-11-11 16:00:21+00:00|11-11-2022
+Ambuj Tewari|[Thompson Sampling for High-Dimensional Sparse Linear Contextual Bandits](http://arxiv.org/abs/2211.05964v1)|2022-11-11 02:23:39+00:00|11-11-2022
+Massimiliano Marcellino|[Enhanced Bayesian Neural Networks for Macroeconomics and Finance](http://arxiv.org/abs/2211.04752v2)|2022-11-10 12:46:59+00:00|09-11-2022
+Paul Suetens|[Theoretical analysis and experimental validation of volume bias of soft   Dice optimized segmentation maps in the context of inherent uncertainty](http://arxiv.org/abs/2211.04161v1)|2022-11-08 11:04:52+00:00|08-11-2022
+Xujie Si|[NSNet: A General Neural Probabilistic Framework for Satisfiability   Problems](http://arxiv.org/abs/2211.03880v1)|2022-11-07 21:43:33+00:00|07-11-2022
+
 ## 08-11-2022
 
 main_author|title|update_date|publish_date

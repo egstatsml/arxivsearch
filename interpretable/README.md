@@ -1,5 +1,19 @@
 # interpretable
 Click on title for link to paper
+## 15-11-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Sebastian Farquhar|[Understanding Approximation for Bayesian Inference in Neural Networks](http://arxiv.org/abs/2211.06139v1)|2022-11-11 11:31:13+00:00|11-11-2022
+Govind Thattai|[Towards Reasoning-Aware Explainable VQA](http://arxiv.org/abs/2211.05190v1)|2022-11-09 20:47:45+00:00|09-11-2022
+Pratap Tokekar|[Interpretable Deep Reinforcement Learning for Green Security Games with   Real-Time Information](http://arxiv.org/abs/2211.04987v1)|2022-11-09 16:03:45+00:00|09-11-2022
+Pepa Atanasova|[Accountable and Explainable Methods for Complex Reasoning over Text](http://arxiv.org/abs/2211.04946v1)|2022-11-09 15:14:52+00:00|09-11-2022
+Yan He|[Deep Explainable Learning with Graph Based Data Assessing and Rule   Reasoning](http://arxiv.org/abs/2211.04693v2)|2022-11-10 11:41:56+00:00|09-11-2022
+Shah Muhammad Hamdi|[Motif-guided Time Series Counterfactual Explanations](http://arxiv.org/abs/2211.04411v2)|2022-11-11 19:41:35+00:00|08-11-2022
+Manuela Veloso|[Towards learning to explain with concept bottleneck models: mitigating   information leakage](http://arxiv.org/abs/2211.03656v1)|2022-11-07 16:10:36+00:00|07-11-2022
+Alpan Raval|[Predicting Treatment Adherence of Tuberculosis Patients at Scale](http://arxiv.org/abs/2211.02943v1)|2022-11-05 17:00:21+00:00|05-11-2022
+Leman Akoglu|[Unsupervised Machine Learning for Explainable Medicare Fraud Detection](http://arxiv.org/abs/2211.02927v2)|2022-11-09 15:18:19+00:00|05-11-2022
+
 ## 08-11-2022
 
 main_author|title|update_date|publish_date
