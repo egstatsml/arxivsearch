@@ -414,7 +414,7 @@ Kumar Vijay Mishra|[Inverse Extended Kalman Filter -- Part II: Highly Non-Linear
 main_author|title|update_date|publish_date
 ---|---|---|---
 Jessica Lam|[EEGNN: Edge Enhanced Graph Neural Networks](http://arxiv.org/abs/2208.06322v1)|2022-08-12 15:24:55+00:00|12-08-2022
-Michael D. Shields|[Bayesian Inference with Latent Hamiltonian Neural Networks](http://arxiv.org/abs/2208.06120v1)|2022-08-12 05:10:18+00:00|12-08-2022
+Somayajulu L N Dhulipala|[Bayesian Inference with Latent Hamiltonian Neural Networks](http://arxiv.org/abs/2208.06120v1)|2022-08-12 05:10:18+00:00|12-08-2022
 Guang Yang|[Region-Based Evidential Deep Learning to Quantify Uncertainty and   Improve Robustness of Brain Tumor Segmentation](http://arxiv.org/abs/2208.06038v1)|2022-08-11 21:04:15+00:00|11-08-2022
 Giuliano Antoniol|[A Probabilistic Framework for Mutation Testing in Deep Neural Networks](http://arxiv.org/abs/2208.06018v1)|2022-08-11 19:45:14+00:00|11-08-2022
 Shubham Tulsiani|[RelPose: Predicting Probabilistic Relative Rotation for Single Objects   in the Wild](http://arxiv.org/abs/2208.05963v1)|2022-08-11 17:59:59+00:00|11-08-2022
