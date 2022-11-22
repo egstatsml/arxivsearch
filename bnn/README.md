@@ -1,5 +1,40 @@
 # bnn
 Click on title for link to paper
+## 22-11-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Ge Wang|[Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT   Reconstruction](http://arxiv.org/abs/2211.10388v1)|2022-11-18 17:35:36+00:00|18-11-2022
+Marc Van Droogenbroeck|[Mixture Domain Adaptation to Improve Semantic Segmentation in Real-World   Surveillance](http://arxiv.org/abs/2211.10119v1)|2022-11-18 09:44:41+00:00|18-11-2022
+Christopher M. Haggerty|[Bayesian Optimization of 2D Echocardiography Segmentation](http://arxiv.org/abs/2211.09888v1)|2022-11-17 20:52:36+00:00|17-11-2022
+Minmin Chen|[Latent User Intent Modeling for Sequential Recommenders](http://arxiv.org/abs/2211.09832v1)|2022-11-17 19:00:24+00:00|17-11-2022
+Romain Pirracchio|[Monitoring machine learning (ML)-based risk prediction algorithms in the   presence of confounding medical interventions](http://arxiv.org/abs/2211.09781v1)|2022-11-17 18:54:34+00:00|17-11-2022
+Jeffrey Regier|[Statistical Inference for Coadded Astronomical Images](http://arxiv.org/abs/2211.09300v1)|2022-11-17 02:28:01+00:00|17-11-2022
+Moises Goldszmidt|[Active Learning with Expected Error Reduction](http://arxiv.org/abs/2211.09283v1)|2022-11-17 01:02:12+00:00|17-11-2022
+Finale Doshi-Velez|[An Empirical Analysis of the Advantages of Finite- v.s. Infinite-Width   Bayesian Neural Networks](http://arxiv.org/abs/2211.09184v1)|2022-11-16 20:07:55+00:00|16-11-2022
+Yu-Xiang Wang|[Global Optimization with Parametric Function Approximation](http://arxiv.org/abs/2211.09100v1)|2022-11-16 18:35:42+00:00|16-11-2022
+Bernhard Schölkopf|[Adapting to noise distribution shifts in flow-based gravitational-wave   inference](http://arxiv.org/abs/2211.08801v1)|2022-11-16 09:56:23+00:00|16-11-2022
+Kostadin N. Ivanov|[Prediction and Uncertainty Quantification of SAFARI-1 Axial Neutron Flux   Profiles with Neural Networks](http://arxiv.org/abs/2211.08654v1)|2022-11-16 04:14:13+00:00|16-11-2022
+Janos Sztipanovits|[Data efficient surrogate modeling for engineering design: Ensemble-free   batch mode deep active learning for regression](http://arxiv.org/abs/2211.10360v1)|2022-11-16 02:31:57+00:00|16-11-2022
+Lilian Wong|[Orthogonal Polynomials Quadrature Algorithm (OPQA): A Functional   Analytical Approach to Bayesian Inference](http://arxiv.org/abs/2211.08594v1)|2022-11-16 00:51:00+00:00|16-11-2022
+Padhraic Smyth|[Probabilistic Querying of Continuous-Time Event Sequences](http://arxiv.org/abs/2211.08499v1)|2022-11-15 20:58:00+00:00|15-11-2022
+Patrick Forré|[Normalizing Flows for Hierarchical Bayesian Analysis: A Gravitational   Wave Population Study](http://arxiv.org/abs/2211.09008v1)|2022-11-15 18:56:55+00:00|15-11-2022
+Roni Khardon|[On the Performance of Direct Loss Minimization for Bayesian Neural   Networks](http://arxiv.org/abs/2211.08393v1)|2022-11-15 18:39:06+00:00|15-11-2022
+Thomas Demeester|[Neural Bayesian Network Understudy](http://arxiv.org/abs/2211.08243v1)|2022-11-15 15:56:51+00:00|15-11-2022
+Álvaro Tejero-Cantero|[Spatiotemporal modeling of European paleoclimate using doubly sparse   Gaussian processes](http://arxiv.org/abs/2211.08160v1)|2022-11-15 14:15:04+00:00|15-11-2022
+Samuel Cheng|[Bayesian Federated Neural Matching that Completes Full Information](http://arxiv.org/abs/2211.08010v1)|2022-11-15 09:47:56+00:00|15-11-2022
+the LSST Dark Energy Science Collaboration|[Hierarchical Inference of the Lensing Convergence from Photometric   Catalogs with Bayesian Graph Neural Networks](http://arxiv.org/abs/2211.07807v1)|2022-11-15 00:29:20+00:00|15-11-2022
+Kiran Chakravarthula|[Interpreting Bias in the Neural Networks: A Peek Into Representational   Similarity](http://arxiv.org/abs/2211.07774v1)|2022-11-14 22:17:14+00:00|14-11-2022
+Daniel A. Braun|[Hierarchically Structured Task-Agnostic Continual Learning](http://arxiv.org/abs/2211.07725v1)|2022-11-14 19:53:15+00:00|14-11-2022
+Rafael Pastrana|[Disentangling Variational Autoencoders](http://arxiv.org/abs/2211.07700v1)|2022-11-14 19:22:41+00:00|14-11-2022
+Xiangming Jiang|[Bayesian Layer Graph Convolutioanl Network for Hyperspetral Image   Classification](http://arxiv.org/abs/2211.07316v1)|2022-11-14 12:56:56+00:00|14-11-2022
+Andreas Krause|[PAC-Bayesian Meta-Learning: From Theory to Practice](http://arxiv.org/abs/2211.07206v1)|2022-11-14 08:51:04+00:00|14-11-2022
+Mohsen Amini Salehi|[Edge-MultiAI: Multi-Tenancy of Latency-Sensitive Deep Learning   Applications on Edge](http://arxiv.org/abs/2211.07130v1)|2022-11-14 06:17:32+00:00|14-11-2022
+Derek Aguiar|[Bayesian Reconstruction and Differential Testing of Excised mRNA](http://arxiv.org/abs/2211.07105v1)|2022-11-14 04:46:33+00:00|14-11-2022
+Li-wei H. Lehman|[Treatment-RSPN: Recurrent Sum-Product Networks for Sequential Treatment   Regimes](http://arxiv.org/abs/2211.07052v1)|2022-11-14 00:18:44+00:00|14-11-2022
+Gustav Eje Henter|[OverFlow: Putting flows on top of neural transducers for better TTS](http://arxiv.org/abs/2211.06892v1)|2022-11-13 12:53:05+00:00|13-11-2022
+Mary-Anne Hartley|[Modular Clinical Decision Support Networks (MoDN) -- Updatable,   Interpretable, and Portable Predictions for Evolving Clinical Environments](http://arxiv.org/abs/2211.06637v1)|2022-11-12 11:10:46+00:00|12-11-2022
+
 ## 15-11-2022
 
 main_author|title|update_date|publish_date

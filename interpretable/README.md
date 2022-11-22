@@ -1,5 +1,18 @@
 # interpretable
 Click on title for link to paper
+## 22-11-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Alexander Wong|[SolderNet: Towards Trustworthy Visual Inspection of Solder Joints in   Electronics Manufacturing Using Explainable Artificial Intelligence](http://arxiv.org/abs/2211.10274v1)|2022-11-18 15:02:59+00:00|18-11-2022
+Hitoshi Iyatomi|[Feedback is Needed for Retakes: An Explainable Poor Image Notification   Framework for the Visually Impaired](http://arxiv.org/abs/2211.09427v1)|2022-11-17 09:22:28+00:00|17-11-2022
+Bing Yin|[FolkScope: Intention Knowledge Graph Construction for Discovering   E-commerce Commonsense](http://arxiv.org/abs/2211.08316v1)|2022-11-15 17:20:40+00:00|15-11-2022
+Katia Sycara|[Explainable Action Advising for Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2211.07882v1)|2022-11-15 04:15:03+00:00|15-11-2022
+Ryota Kanai|[Logical Tasks for Measuring Extrapolation and Rule Comprehension](http://arxiv.org/abs/2211.07727v1)|2022-11-14 19:55:54+00:00|14-11-2022
+Yang Yu|[Does Debiasing Inevitably Degrade the Model Performance](http://arxiv.org/abs/2211.07350v1)|2022-11-14 13:46:13+00:00|14-11-2022
+Dhananjay Kalbande|[A Pipeline for Business Intelligence and Data-Driven Root Cause Analysis   on Categorical Data](http://arxiv.org/abs/2211.06717v1)|2022-11-12 18:12:10+00:00|12-11-2022
+Mingli Song|[A Survey on Explainable Reinforcement Learning: Concepts, Algorithms,   Challenges](http://arxiv.org/abs/2211.06665v2)|2022-11-15 07:49:44+00:00|12-11-2022
+
 ## 15-11-2022
 
 main_author|title|update_date|publish_date

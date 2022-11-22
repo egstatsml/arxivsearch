@@ -1,5 +1,23 @@
 # variational
 Click on title for link to paper
+## 22-11-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Andreas Krause|[Model-based Causal Bayesian Optimization](http://arxiv.org/abs/2211.10257v1)|2022-11-18 14:28:21+00:00|18-11-2022
+Nipun Batra|[Deep Gaussian Processes for Air Quality Inference](http://arxiv.org/abs/2211.10174v1)|2022-11-18 11:42:42+00:00|18-11-2022
+Yue-Jiao Gong|[Multi-task Learning for Sparse Traffic Forecasting](http://arxiv.org/abs/2211.09984v1)|2022-11-18 02:10:40+00:00|18-11-2022
+Fabio Galasso|[Are we certain it's anomalous?](http://arxiv.org/abs/2211.09224v1)|2022-11-16 21:31:39+00:00|16-11-2022
+Han Pan|[Learning to Kindle the Starlight](http://arxiv.org/abs/2211.09206v1)|2022-11-16 20:48:46+00:00|16-11-2022
+Michalis Vazirgiannis|[New Frontiers in Graph Autoencoders: Joint Community Detection and Link   Prediction](http://arxiv.org/abs/2211.08972v1)|2022-11-16 15:26:56+00:00|16-11-2022
+Osbert Bastani|[Decision-Aware Learning for Optimizing Health Supply Chains](http://arxiv.org/abs/2211.08507v1)|2022-11-15 21:03:52+00:00|15-11-2022
+Roni Khardon|[On the Performance of Direct Loss Minimization for Bayesian Neural   Networks](http://arxiv.org/abs/2211.08393v1)|2022-11-15 18:39:06+00:00|15-11-2022
+Xin Yu|[Uncertainty-aware Gait Recognition via Learning from Dirichlet   Distribution-based Evidence](http://arxiv.org/abs/2211.08007v1)|2022-11-15 09:42:07+00:00|15-11-2022
+Dorit Merhof|[Diffusion Models for Medical Image Analysis: A Comprehensive Survey](http://arxiv.org/abs/2211.07804v1)|2022-11-14 23:50:52+00:00|14-11-2022
+Bo Dai|[Learning to Optimize with Stochastic Dominance Constraints](http://arxiv.org/abs/2211.07767v1)|2022-11-14 21:54:31+00:00|14-11-2022
+Joongheon Kim|[Multi-Agent Deep Reinforcement Learning for Efficient Passenger Delivery   in Urban Air Mobility](http://arxiv.org/abs/2211.06890v1)|2022-11-13 12:30:48+00:00|13-11-2022
+Pierre F. J. Lermusiaux|[Bayesian Learning of Coupled Biogeochemical-Physical Models](http://arxiv.org/abs/2211.06714v1)|2022-11-12 17:49:18+00:00|12-11-2022
+
 ## 15-11-2022
 
 main_author|title|update_date|publish_date
