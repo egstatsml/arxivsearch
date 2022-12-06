@@ -1,5 +1,21 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
+Marco Pavone|[Adaptive Robust Model Predictive Control via Uncertainty Cancellation](http://arxiv.org/abs/2212.01371v1)|2022-12-02 18:54:23+00:00|02-12-2022
+Begüm Demir|[Deep Active Learning for Multi-Label Classification of Remote Sensing   Images](http://arxiv.org/abs/2212.01165v1)|2022-12-02 13:41:21+00:00|02-12-2022
+Yu Qiao|[Improving Training and Inference of Face Recognition Models via Random   Temperature Scaling](http://arxiv.org/abs/2212.01015v1)|2022-12-02 08:00:03+00:00|02-12-2022
+Naira Hovakimyan|[Safe Model-Free Reinforcement Learning using Disturbance-Observer-Based   Control Barrier Functions](http://arxiv.org/abs/2211.17250v1)|2022-11-30 18:49:53+00:00|30-11-2022
+C. Nash|[Stochastic Parameterization of Column Physics using Generative   Adversarial Networks](http://arxiv.org/abs/2211.16654v1)|2022-11-30 00:49:36+00:00|30-11-2022
+Lingjiong Zhu|[Penalized Langevin and Hamiltonian Monte Carlo Algorithms for   Constrained Sampling](http://arxiv.org/abs/2212.00570v1)|2022-11-29 18:43:22+00:00|29-11-2022
+David C. Anastasiu|[An Extreme-Adaptive Time Series Prediction Model Based on   Probability-Enhanced LSTM Neural Networks](http://arxiv.org/abs/2211.15891v1)|2022-11-29 03:01:59+00:00|29-11-2022
+Chris Cornelis|[Evaluation of the impact of the indiscernibility relation on the   fuzzy-rough nearest neighbours algorithm](http://arxiv.org/abs/2211.14134v1)|2022-11-25 14:17:56+00:00|25-11-2022
+Joongheon Kim|[Visual Simulation Software Demonstration for Quantum Multi-Drone   Reinforcement Learning](http://arxiv.org/abs/2211.15375v1)|2022-11-24 06:08:24+00:00|24-11-2022
+Mingsong Chen|[GitFL: Adaptive Asynchronous Federated Learning using Version Control](http://arxiv.org/abs/2211.12049v1)|2022-11-22 06:45:40+00:00|22-11-2022
+Manuela Veloso|[Learn to explain yourself, when you can: Equipping Concept Bottleneck   Models with the ability to abstain on their concept predictions](http://arxiv.org/abs/2211.11690v1)|2022-11-21 18:07:14+00:00|21-11-2022
+Paul Goulart|[Approximate Uncertainty Propagation for Continuous Gaussian Process   Dynamical Systems](http://arxiv.org/abs/2211.11103v1)|2022-11-20 22:19:39+00:00|20-11-2022
+Mark Workman|[Revealing Robust Oil and Gas Company Macro-Strategies using Deep   Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2211.11043v1)|2022-11-20 17:52:59+00:00|20-11-2022
+Sheila A. McIlraith|[Noisy Symbolic Abstractions for Deep RL: A case study with Reward   Machines](http://arxiv.org/abs/2211.10902v2)|2022-11-23 05:05:41+00:00|20-11-2022
+Gabriel Oliveira|[Gumbel-Softmax Selective Networks](http://arxiv.org/abs/2211.10564v1)|2022-11-19 02:20:14+00:00|19-11-2022
+---|---|---|---
 Andreas Krause|[Model-based Causal Bayesian Optimization](http://arxiv.org/abs/2211.10257v1)|2022-11-18 14:28:21+00:00|18-11-2022
 Nipun Batra|[Deep Gaussian Processes for Air Quality Inference](http://arxiv.org/abs/2211.10174v1)|2022-11-18 11:42:42+00:00|18-11-2022
 Yue-Jiao Gong|[Multi-task Learning for Sparse Traffic Forecasting](http://arxiv.org/abs/2211.09984v1)|2022-11-18 02:10:40+00:00|18-11-2022
