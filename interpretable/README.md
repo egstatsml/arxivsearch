@@ -1,5 +1,34 @@
 # interpretable
 Click on title for link to paper
+## 13-12-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Deyu Zhou|[Exploring Faithful Rationale for Multi-hop Fact Verification via   Salience-Aware Graph Learning](http://arxiv.org/abs/2212.01060v1)|2022-12-02 09:54:05+00:00|02-12-2022
+Marcos Ortega|[Weakly-supervised detection of AMD-related lesions in color fundus   images using explainable deep learning](http://arxiv.org/abs/2212.00565v2)|2022-12-04 15:04:31+00:00|01-12-2022
+Sebastian Lapuschkin|[Optimizing Explanations by Network Canonization and Hyperparameter   Search](http://arxiv.org/abs/2211.17174v1)|2022-11-30 17:17:55+00:00|30-11-2022
+Ashkan Ertefaie|[Relative Sparsity for Medical Decision Problems](http://arxiv.org/abs/2211.16566v1)|2022-11-29 20:00:11+00:00|29-11-2022
+Siyu Xia|[Unsupervised Visual Defect Detection with Score-Based Generative Model](http://arxiv.org/abs/2211.16092v1)|2022-11-29 11:06:29+00:00|29-11-2022
+Aidong Zhang|[Understanding and Enhancing Robustness of Concept-based Models](http://arxiv.org/abs/2211.16080v1)|2022-11-29 10:43:51+00:00|29-11-2022
+Baochang Zhang|[Rethinking the Number of Shots in Robust Model-Agnostic Meta-Learning](http://arxiv.org/abs/2211.15180v1)|2022-11-28 09:47:13+00:00|28-11-2022
+Mengjie Zhang|[Explaining Deep Convolutional Neural Networks for Image Classification   by Evolving Local Interpretable Model-agnostic Explanations](http://arxiv.org/abs/2211.15143v1)|2022-11-28 08:56:00+00:00|28-11-2022
+Arjun Seshadri|[RecXplainer: Post-Hoc Attribute-Based Explanations for Recommender   Systems](http://arxiv.org/abs/2211.14935v1)|2022-11-27 21:00:31+00:00|27-11-2022
+Moshe Sipper|[Foiling Explanations in Deep Neural Networks](http://arxiv.org/abs/2211.14860v1)|2022-11-27 15:29:39+00:00|27-11-2022
+João Paulo Teixeira|[Interpretability Analysis of Deep Models for COVID-19 Detection](http://arxiv.org/abs/2211.14372v1)|2022-11-25 20:56:23+00:00|25-11-2022
+H. Vincent Poor|[Less Data, More Knowledge: Building Next Generation Semantic   Communication Networks](http://arxiv.org/abs/2211.14343v1)|2022-11-25 19:03:25+00:00|25-11-2022
+Shaurya Jain|[Testing the effectiveness of saliency-based explainability in NLP using   randomized survey-based experiments](http://arxiv.org/abs/2211.15351v1)|2022-11-25 08:49:01+00:00|25-11-2022
+Patrick Mikalef|[Explainable Artificial Intelligence (XAI) from a user perspective- A   synthesis of prior literature and problematizing avenues for future research](http://arxiv.org/abs/2211.15343v1)|2022-11-24 20:15:59+00:00|24-11-2022
+Tim Räz|[ML Interpretability: Simple Isn't Easy](http://arxiv.org/abs/2211.13617v1)|2022-11-24 14:07:02+00:00|24-11-2022
+Benjamin Doerr|[Runtime Analysis for the NSGA-II: Proving, Quantifying, and Explaining   the Inefficiency For Three or More Objectives](http://arxiv.org/abs/2211.13084v1)|2022-11-23 16:15:26+00:00|23-11-2022
+Pascal Friederich|[MEGAN: Multi-Explanation Graph Attention Network](http://arxiv.org/abs/2211.13236v1)|2022-11-23 16:10:13+00:00|23-11-2022
+Richard E. Turner|[Adversarial Attacks are a Surprisingly Strong Baseline for Poisoning   Few-Shot Meta-Learners](http://arxiv.org/abs/2211.12990v1)|2022-11-23 14:55:44+00:00|23-11-2022
+Karsten Roscher|[Towards Human-Interpretable Prototypes for Visual Assessment of Image   Classification Models](http://arxiv.org/abs/2211.12173v1)|2022-11-22 11:01:22+00:00|22-11-2022
+Weilin Meng|[Explainability of Traditional and Deep Learning Models on Longitudinal   Healthcare Records](http://arxiv.org/abs/2211.12002v1)|2022-11-22 04:39:17+00:00|22-11-2022
+Pascal Van Hentenryck|[Fairness Increases Adversarial Vulnerability](http://arxiv.org/abs/2211.11835v2)|2022-11-23 01:46:22+00:00|21-11-2022
+Francesca Toni|[Explaining Random Forests using Bipolar Argumentation and Markov   Networks (Technical Report)](http://arxiv.org/abs/2211.11699v1)|2022-11-21 18:20:50+00:00|21-11-2022
+Lingpeng Kong|[Unsupervised Explanation Generation via Correct Instantiations](http://arxiv.org/abs/2211.11160v1)|2022-11-21 03:10:24+00:00|21-11-2022
+Laveti Ramesh Naidu|[Explainable Artificial Intelligence and Causal Inference based ATM Fraud   Detection](http://arxiv.org/abs/2211.10595v1)|2022-11-19 06:01:08+00:00|19-11-2022
+
 ## 06-12-2022
 
 main_author|title|update_date|publish_date
