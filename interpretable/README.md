@@ -1,5 +1,29 @@
 # interpretable
 Click on title for link to paper
+## 20-12-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Erik Learned-Miller|[EVAL: Explainable Video Anomaly Localization](http://arxiv.org/abs/2212.07900v1)|2022-12-15 15:35:25+00:00|15-12-2022
+Nitesh V. Chawla|[Interpretable ML for Imbalanced Data](http://arxiv.org/abs/2212.07743v1)|2022-12-15 11:50:31+00:00|15-12-2022
+Jared Kaplan|[Constitutional AI: Harmlessness from AI Feedback](http://arxiv.org/abs/2212.08073v1)|2022-12-15 06:19:23+00:00|15-12-2022
+Ghassan AlRegib|[Explainable Machine Learning for Hydrocarbon Prospect Risking](http://arxiv.org/abs/2212.07563v1)|2022-12-15 00:38:14+00:00|15-12-2022
+Abraham J. Fetterman|"[Despite ""super-human"" performance, current LLMs are unsuited for   decisions about ethics and safety](http://arxiv.org/abs/2212.06295v1)"|2022-12-13 00:29:45+00:00|13-12-2022
+Alain Mermoud|[Robust and Explainable Identification of Logical Fallacies in Natural   Language Arguments](http://arxiv.org/abs/2212.07425v1)|2022-12-12 20:27:17+00:00|12-12-2022
+Yong Gao|[GWRBoost:A geographically weighted gradient boosting method for   explainable quantification of spatially-varying relationships](http://arxiv.org/abs/2212.05814v2)|2022-12-15 06:02:33+00:00|12-12-2022
+Joris Vankerschaver|[Utilizing Mutations to Evaluate Interpretability of Neural Networks on   Genomic Data](http://arxiv.org/abs/2212.06151v1)|2022-12-12 07:12:56+00:00|12-12-2022
+Riccardo Tommasini|[Multimodal and Explainable Internet Meme Classification](http://arxiv.org/abs/2212.05612v1)|2022-12-11 21:52:21+00:00|11-12-2022
+Riccardo Guidotti|[CALIME: Causality-Aware Local Interpretable Model-Agnostic Explanations](http://arxiv.org/abs/2212.05256v1)|2022-12-10 10:12:27+00:00|10-12-2022
+My T. Thai|[XRand: Differentially Private Defense against Explanation-Guided Attacks](http://arxiv.org/abs/2212.04454v3)|2022-12-14 18:03:04+00:00|08-12-2022
+Liang Zhao|[Going Beyond XAI: A Systematic Survey for Explanation-Guided Learning](http://arxiv.org/abs/2212.03954v1)|2022-12-07 20:59:59+00:00|07-12-2022
+Cunqing Ma|[Learning to Select Prototypical Parts for Interpretable Sequential Data   Modeling](http://arxiv.org/abs/2212.03396v1)|2022-12-07 01:42:47+00:00|07-12-2022
+Hiroyuki Abe|[Achieving Transparency in Distributed Machine Learning with Explainable   Data Collaboration](http://arxiv.org/abs/2212.03373v1)|2022-12-06 23:53:41+00:00|06-12-2022
+Pierre-Alexandre Mattei|[Explainability as statistical inference](http://arxiv.org/abs/2212.03131v1)|2022-12-06 16:55:10+00:00|06-12-2022
+Branka Hadji Misheva|[A Time Series Approach to Explainability for Neural Nets with   Applications to Risk-Management and Fraud Detection](http://arxiv.org/abs/2212.02906v1)|2022-12-06 12:04:01+00:00|06-12-2022
+Michael Schmitt|[MapInWild: A Remote Sensing Dataset to Address the Question What Makes   Nature Wild](http://arxiv.org/abs/2212.02265v1)|2022-12-05 13:45:06+00:00|05-12-2022
+Ping Li|[Rethinking the Structure of Stochastic Gradients: Empirical and   Statistical Evidence](http://arxiv.org/abs/2212.02083v1)|2022-12-05 07:55:22+00:00|05-12-2022
+Defeng Sun|[Beyond ADMM: A Unified Client-variance-reduced Adaptive Federated   Learning Framework](http://arxiv.org/abs/2212.01519v1)|2022-12-03 03:27:51+00:00|03-12-2022
+
 ## 13-12-2022
 
 main_author|title|update_date|publish_date
