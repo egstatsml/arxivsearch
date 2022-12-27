@@ -1,5 +1,14 @@
 # mcmc
 Click on title for link to paper
+## 27-12-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Jonathan Wenger|[Physics-Informed Gaussian Process Regression Generalizes Linear PDE   Solvers](http://arxiv.org/abs/2212.12474v1)|2022-12-23 17:02:59+00:00|23-12-2022
+Muhao Chen|[Can NLI Provide Proper Indirect Supervision for Low-resource Biomedical   Relation Extraction?](http://arxiv.org/abs/2212.10784v1)|2022-12-21 05:49:08+00:00|21-12-2022
+Hisashi Kashima|[Variational Factorization Machines for Preference Elicitation in   Large-Scale Recommender Systems](http://arxiv.org/abs/2212.09920v1)|2022-12-20 00:06:28+00:00|20-12-2022
+Souvik Chakraborty|[Probabilistic machine learning based predictive and interpretable   digital twin for dynamical systems](http://arxiv.org/abs/2212.09240v1)|2022-12-19 04:25:59+00:00|19-12-2022
+
 ## 20-12-2022
 
 main_author|title|update_date|publish_date

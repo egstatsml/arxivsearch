@@ -1,26 +1,6 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
-Hubert P. H. Shum|[Unifying Human Motion Synthesis and Style Transfer with Denoising   Diffusion Probabilistic Models](http://arxiv.org/abs/2212.08526v1)|2022-12-16 15:15:34+00:00|16-12-2022
-Hampus Linander|[Bayesian posterior approximation with stochastic ensembles](http://arxiv.org/abs/2212.08123v1)|2022-12-15 20:23:09+00:00|15-12-2022
-Julija Zavadlav|[Scalable Bayesian Uncertainty Quantification for Neural Network   Potentials: Promise and Pitfalls](http://arxiv.org/abs/2212.07959v1)|2022-12-15 16:49:23+00:00|15-12-2022
-Hon Keung Kwan|[Combating Uncertainty and Class Imbalance in Facial Expression   Recognition](http://arxiv.org/abs/2212.07751v1)|2022-12-15 12:09:02+00:00|15-12-2022
-Suha Kwak|[Learning to Detect Semantic Boundaries with Image-level Class Labels](http://arxiv.org/abs/2212.07579v1)|2022-12-15 01:56:22+00:00|15-12-2022
-Min Zuo|[Traffic Flow Prediction via Variational Bayesian Inference-based   Encoder-Decoder Framework](http://arxiv.org/abs/2212.07194v1)|2022-12-14 12:39:47+00:00|14-12-2022
-Guoying Zhao|[Uncertain Facial Expression Recognition via Multi-task Assisted   Correction](http://arxiv.org/abs/2212.07144v1)|2022-12-14 10:28:08+00:00|14-12-2022
-Hao Wang|[Proximal Policy Optimization Based Reinforcement Learning for Joint   Bidding in Energy and Frequency Regulation Markets](http://arxiv.org/abs/2212.06551v1)|2022-12-13 13:07:31+00:00|13-12-2022
-Shuo Li|[Pixel is All You Need: Adversarial Trajectory-Ensemble Active Learning   for Salient Object Detection](http://arxiv.org/abs/2212.06493v1)|2022-12-13 11:18:08+00:00|13-12-2022
-Souvik Chakraborty|[MAntRA: A framework for model agnostic reliability analysis](http://arxiv.org/abs/2212.06303v1)|2022-12-13 00:57:09+00:00|13-12-2022
-Pradeep Shenoy|[Selective classification using a robust meta-learning approach](http://arxiv.org/abs/2212.05987v1)|2022-12-12 15:45:23+00:00|12-12-2022
-Mathias Niepert|[State-Regularized Recurrent Neural Networks to Extract Automata and   Explain Predictions](http://arxiv.org/abs/2212.05178v1)|2022-12-10 02:06:27+00:00|10-12-2022
-Stefanos Nikolaidis|[PATO: Policy Assisted TeleOperation for Scalable Robot Data Collection](http://arxiv.org/abs/2212.04708v1)|2022-12-09 07:38:09+00:00|09-12-2022
-Aaron Schein|[The Ordered Matrix Dirichlet for Modeling Ordinal Dynamics](http://arxiv.org/abs/2212.04130v1)|2022-12-08 08:04:26+00:00|08-12-2022
-XuanLong Nguyen|[Strong identifiability and parameter learning in regression with   heterogeneous response](http://arxiv.org/abs/2212.04091v1)|2022-12-08 05:58:13+00:00|08-12-2022
-R. I. Cukier|[Three Variations on Variational Autoencoders](http://arxiv.org/abs/2212.04451v1)|2022-12-06 20:33:19+00:00|06-12-2022
-Jaime Fernández Fisac|[ISAACS: Iterative Soft Adversarial Actor-Critic for Safety](http://arxiv.org/abs/2212.03228v1)|2022-12-06 18:53:34+00:00|06-12-2022
-Jonathan Dumas|[Denoising diffusion probabilistic models for probabilistic energy   forecasting](http://arxiv.org/abs/2212.02977v4)|2022-12-19 08:22:03+00:00|06-12-2022
-Haiping Huang|[Statistical mechanics of continual learning: variational principle and   mean-field potential](http://arxiv.org/abs/2212.02846v2)|2022-12-07 07:08:19+00:00|06-12-2022
-Ansuma Basumatary|[PowRL: A Reinforcement Learning Framework for Robust Management of Power   Networks](http://arxiv.org/abs/2212.02397v1)|2022-12-05 16:22:12+00:00|05-12-2022
-Peyman Milanfar|[Image Deblurring with Domain Generalizable Diffusion Models](http://arxiv.org/abs/2212.01789v1)|2022-12-04 10:40:35+00:00|04-12-2022
-Jiaping Zhao|[Improving Zero-shot Generalization and Robustness of Multi-modal Models](http://arxiv.org/abs/2212.01758v1)|2022-12-04 07:26:24+00:00|04-12-2022
-Minlie Huang|[KPT: Keyword-guided Pre-training for Grounded Dialog Generation](http://arxiv.org/abs/2212.01739v1)|2022-12-04 04:05:01+00:00|04-12-2022
-Tianyu Wang|[Hedging against Complexity: Distributionally Robust Optimization with   Parametric Approximation](http://arxiv.org/abs/2212.01518v1)|2022-12-03 03:26:34+00:00|03-12-2022
+Jonathan Wenger|[Physics-Informed Gaussian Process Regression Generalizes Linear PDE   Solvers](http://arxiv.org/abs/2212.12474v1)|2022-12-23 17:02:59+00:00|23-12-2022
+Muhao Chen|[Can NLI Provide Proper Indirect Supervision for Low-resource Biomedical   Relation Extraction?](http://arxiv.org/abs/2212.10784v1)|2022-12-21 05:49:08+00:00|21-12-2022
+Hisashi Kashima|[Variational Factorization Machines for Preference Elicitation in   Large-Scale Recommender Systems](http://arxiv.org/abs/2212.09920v1)|2022-12-20 00:06:28+00:00|20-12-2022
+Souvik Chakraborty|[Probabilistic machine learning based predictive and interpretable   digital twin for dynamical systems](http://arxiv.org/abs/2212.09240v1)|2022-12-19 04:25:59+00:00|19-12-2022

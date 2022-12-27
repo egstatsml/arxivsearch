@@ -1,5 +1,48 @@
 # fairness
 Click on title for link to paper
+## 27-12-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Qing Qu|[Principled and Efficient Transfer Learning of Deep Models via Neural   Collapse](http://arxiv.org/abs/2212.12206v1)|2022-12-23 08:48:34+00:00|23-12-2022
+Lan Wang|[Offline Reinforcement Learning for Human-Guided Human-Machine   Interaction with Private Information](http://arxiv.org/abs/2212.12167v1)|2022-12-23 06:26:44+00:00|23-12-2022
+Omri Azencot|[Eigenvalue initialisation and regularisation for Koopman autoencoders](http://arxiv.org/abs/2212.12086v2)|2022-12-26 02:59:07+00:00|23-12-2022
+Ilker Yildirim|[When are Lemons Purple? The Concept Association Bias of CLIP](http://arxiv.org/abs/2212.12043v1)|2022-12-22 21:27:12+00:00|22-12-2022
+Nesreen K. Ahmed|[Graph Learning with Localized Neighborhood Fairness](http://arxiv.org/abs/2212.12040v1)|2022-12-22 21:20:43+00:00|22-12-2022
+Fabrice Rossi|[Co-clustering based exploratory analysis of mixed-type data tables](http://arxiv.org/abs/2212.11728v1)|2022-12-22 14:23:50+00:00|22-12-2022
+Adam S. Charles|[Multi-Lingual DALL-E Storytime](http://arxiv.org/abs/2212.11985v1)|2022-12-22 07:06:35+00:00|22-12-2022
+Yichen Zhang|[Online Statistical Inference for Matrix Contextual Bandit](http://arxiv.org/abs/2212.11385v1)|2022-12-21 22:03:06+00:00|21-12-2022
+Michael Bendersky|[What do LLMs Know about Financial Markets? A Case Study on Reddit Market   Sentiment Analysis](http://arxiv.org/abs/2212.11311v1)|2022-12-21 19:11:19+00:00|21-12-2022
+Aylin Caliskan|[Contrastive Language-Vision AI Models Pretrained on Web-Scraped   Multimodal Data Exhibit Sexual Objectification Bias](http://arxiv.org/abs/2212.11261v1)|2022-12-21 18:54:19+00:00|21-12-2022
+Harsh Agarwal|[A Seven-Layer Model for Standardising AI Fairness Assessment](http://arxiv.org/abs/2212.11207v1)|2022-12-21 17:28:07+00:00|21-12-2022
+Marius Lindauer|[Hyperparameters in Contextual RL are Highly Situational](http://arxiv.org/abs/2212.10876v1)|2022-12-21 09:38:18+00:00|21-12-2022
+Babak Salimi|[Crab: Learning Certifiably Fair Predictive Models in the Presence of   Selection Bias](http://arxiv.org/abs/2212.10839v1)|2022-12-21 08:27:49+00:00|21-12-2022
+Bernhard Schölkopf|[Understanding Stereotypes in Language Models: Towards Robust Measurement   and Zero-Shot Debiasing](http://arxiv.org/abs/2212.10678v1)|2022-12-20 22:41:24+00:00|20-12-2022
+Yonatan Belinkov|[Debiasing NLP Models Without Demographic Information](http://arxiv.org/abs/2212.10563v1)|2022-12-20 18:59:42+00:00|20-12-2022
+Jingjing Xu|[Lego-MT: Towards Detachable Models in Massively Multilingual Machine   Translation](http://arxiv.org/abs/2212.10551v1)|2022-12-20 18:54:08+00:00|20-12-2022
+Percy Liang|[Trustworthy Social Bias Measurement](http://arxiv.org/abs/2212.11672v1)|2022-12-20 18:45:12+00:00|20-12-2022
+Prashanth L. A|[Generalized Simultaneous Perturbation Stochastic Approximation with   Reduced Estimator Bias](http://arxiv.org/abs/2212.10477v1)|2022-12-20 17:50:36+00:00|20-12-2022
+Taylor T. Johnson|[The Third International Verification of Neural Networks Competition   (VNN-COMP 2022): Summary and Results](http://arxiv.org/abs/2212.10376v1)|2022-12-20 15:58:01+00:00|20-12-2022
+Martin Vechev|[Human-Guided Fair Classification for Natural Language Processing](http://arxiv.org/abs/2212.10154v1)|2022-12-20 10:46:40+00:00|20-12-2022
+Yezhou Yang|[Benchmarking Spatial Relationships in Text-to-Image Generation](http://arxiv.org/abs/2212.10015v1)|2022-12-20 06:03:51+00:00|20-12-2022
+Himanshu Tyagi|[Continual Mean Estimation Under User-Level Privacy](http://arxiv.org/abs/2212.09980v1)|2022-12-20 03:44:25+00:00|20-12-2022
+Timo Schick|[Unnatural Instructions: Tuning Language Models with (Almost) No Human   Labor](http://arxiv.org/abs/2212.09689v1)|2022-12-19 18:21:00+00:00|19-12-2022
+Adhiguna Kuncoro|[A Natural Bias for Language Generation Models](http://arxiv.org/abs/2212.09686v1)|2022-12-19 18:14:36+00:00|19-12-2022
+Hidetoshi Shimodaira|[Norm of word embedding encodes information gain](http://arxiv.org/abs/2212.09663v1)|2022-12-19 17:45:07+00:00|19-12-2022
+Mattia Salnitri|[Towards Assessing Data Bias in Clinical Trials](http://arxiv.org/abs/2212.09633v1)|2022-12-19 17:10:06+00:00|19-12-2022
+Yangyang Xu|[Stochastic Inexact Augmented Lagrangian Method for Nonconvex Expectation   Constrained Optimization](http://arxiv.org/abs/2212.09513v1)|2022-12-19 14:48:54+00:00|19-12-2022
+Qizhang Luo|[Performance assessment and exhaustive listing of 500+ nature inspired   metaheuristic algorithms](http://arxiv.org/abs/2212.09479v1)|2022-12-19 14:13:10+00:00|19-12-2022
+Antonia Scherz|[Multistep Multiappliance Load Prediction](http://arxiv.org/abs/2212.09426v1)|2022-12-19 13:01:51+00:00|19-12-2022
+Dunja Mladenić|[Synthetic Data Augmentation Using GAN For Improved Automated Visual   Inspection](http://arxiv.org/abs/2212.09317v1)|2022-12-19 09:31:15+00:00|19-12-2022
+Teo Susnjak|[ChatGPT: The End of Online Exam Integrity?](http://arxiv.org/abs/2212.09292v1)|2022-12-19 08:15:16+00:00|19-12-2022
+David A. Knowles|[Faithful Heteroscedastic Regression with Neural Networks](http://arxiv.org/abs/2212.09184v1)|2022-12-18 22:34:42+00:00|18-12-2022
+Yang Liu|[Continually Learning from Existing Models: Knowledge Accumulation for   Neural Machine Translation](http://arxiv.org/abs/2212.09097v1)|2022-12-18 14:41:13+00:00|18-12-2022
+Paul Suganthan G. C|[AutoSlicer: Scalable Automated Data Slicing for ML Model Analysis](http://arxiv.org/abs/2212.09032v1)|2022-12-18 07:49:17+00:00|18-12-2022
+and Shrikanth Narayanan|[A Review of Speech-centric Trustworthy Machine Learning: Privacy,   Safety, and Fairness](http://arxiv.org/abs/2212.09006v1)|2022-12-18 04:21:35+00:00|18-12-2022
+Xiangnan Feng|[TCFimt: Temporal Counterfactual Forecasting from Individual Multiple   Treatment Perspective](http://arxiv.org/abs/2212.08890v1)|2022-12-17 15:01:05+00:00|17-12-2022
+Sudeshna Sarkar|['If you build they will come': Automatic Identification of   News-Stakeholders to detect Party Preference in News Coverage](http://arxiv.org/abs/2212.08864v1)|2022-12-17 13:08:39+00:00|17-12-2022
+Azal Ahmad Khan|[Balanced Split: A new train-test data splitting strategy for imbalanced   datasets](http://arxiv.org/abs/2212.11116v1)|2022-12-17 10:36:39+00:00|17-12-2022
+
 ## 20-12-2022
 
 main_author|title|update_date|publish_date

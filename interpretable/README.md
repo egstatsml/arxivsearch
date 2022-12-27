@@ -1,5 +1,24 @@
 # interpretable
 Click on title for link to paper
+## 27-12-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Annette ten Teije|[A-NeSI: A Scalable Approximate Method for Probabilistic Neurosymbolic   Inference](http://arxiv.org/abs/2212.12393v1)|2022-12-23 15:24:53+00:00|23-12-2022
+Luoyu Chen|[Depth Estimation maps of lidar and stereo images](http://arxiv.org/abs/2212.11741v1)|2022-12-22 14:32:55+00:00|22-12-2022
+Yasushi Okuno|[GraphIX: Graph-based In silico XAI(explainable artificial intelligence)   for drug repositioning from biopharmaceutical network](http://arxiv.org/abs/2212.10788v1)|2022-12-21 06:17:45+00:00|21-12-2022
+Minlie Huang|[MoralDial: A Framework to Train and Evaluate Moral Dialogue Systems via   Constructing Moral Discussions](http://arxiv.org/abs/2212.10720v1)|2022-12-21 02:21:37+00:00|21-12-2022
+Kevin Chen-Chuan Chang|[DimonGen: Diversified Generative Commonsense Reasoning for Explaining   Concept Relationships](http://arxiv.org/abs/2212.10545v1)|2022-12-20 18:50:29+00:00|20-12-2022
+Jean Honorio|[Distributional Robustness Bounds Generalization Errors](http://arxiv.org/abs/2212.09962v1)|2022-12-20 02:30:13+00:00|20-12-2022
+Xiang Ren|[KNIFE: Knowledge Distillation with Free-Text Rationales](http://arxiv.org/abs/2212.09721v1)|2022-12-19 18:49:09+00:00|19-12-2022
+Milad Lankarany|[Uncovering the Origins of Instability in Dynamical Systems: How   Attention Mechanism Can Help?](http://arxiv.org/abs/2212.09641v1)|2022-12-19 17:16:41+00:00|19-12-2022
+Jun Zhao|[Large Language Models are reasoners with Self-Verification](http://arxiv.org/abs/2212.09561v1)|2022-12-19 15:51:52+00:00|19-12-2022
+Ikuro Sato|[Fixed-Weight Difference Target Propagation](http://arxiv.org/abs/2212.10352v1)|2022-12-19 13:34:36+00:00|19-12-2022
+Tanja Käser|[Trusting the Explainers: Teacher Validation of Explainable Artificial   Intelligence for Course Design](http://arxiv.org/abs/2212.08955v2)|2022-12-26 02:32:58+00:00|17-12-2022
+Jian-Guang Lou|[Know What I don't Know: Handling Ambiguous and Unanswerable Questions   for Text-to-SQL](http://arxiv.org/abs/2212.08902v1)|2022-12-17 15:32:00+00:00|17-12-2022
+Betul Acunas|[Context-dependent Explainability and Contestability for Trustworthy   Medical Artificial Intelligence: Misclassification Identification of   Morbidity Recognition Models in Preterm Infants](http://arxiv.org/abs/2212.08821v1)|2022-12-17 07:59:09+00:00|17-12-2022
+D. Petkovic|"[It is not ""accuracy vs. explainability"" -- we need both for trustworthy   AI systems](http://arxiv.org/abs/2212.11136v2)"|2022-12-23 22:55:33+00:00|16-12-2022
+
 ## 20-12-2022
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,22 @@
 # bnn
 Click on title for link to paper
+## 27-12-2022
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Jonathan Wenger|[Physics-Informed Gaussian Process Regression Generalizes Linear PDE   Solvers](http://arxiv.org/abs/2212.12474v1)|2022-12-23 17:02:59+00:00|23-12-2022
+Annette ten Teije|[A-NeSI: A Scalable Approximate Method for Probabilistic Neurosymbolic   Inference](http://arxiv.org/abs/2212.12393v1)|2022-12-23 15:24:53+00:00|23-12-2022
+Samuel Yen-Chi Chen|[Decoding surface codes with deep reinforcement learning and   probabilistic policy reuse](http://arxiv.org/abs/2212.11890v1)|2022-12-22 17:24:32+00:00|22-12-2022
+Santiago Zanella-Béguelin|[SoK: Let The Privacy Games Begin! A Unified Treatment of Data Inference   Privacy in Machine Learning](http://arxiv.org/abs/2212.10986v1)|2022-12-21 12:48:30+00:00|21-12-2022
+Nihat Ay|[Inversion of Bayesian Networks](http://arxiv.org/abs/2212.10649v1)|2022-12-20 20:56:18+00:00|20-12-2022
+Maximilian Schröder|[Probabilistic quantile factor analysis](http://arxiv.org/abs/2212.10301v2)|2022-12-26 00:05:20+00:00|20-12-2022
+Hisashi Kashima|[Variational Factorization Machines for Preference Elicitation in   Large-Scale Recommender Systems](http://arxiv.org/abs/2212.09920v1)|2022-12-20 00:06:28+00:00|20-12-2022
+Adhiguna Kuncoro|[A Natural Bias for Language Generation Models](http://arxiv.org/abs/2212.09686v1)|2022-12-19 18:14:36+00:00|19-12-2022
+Souvik Chakraborty|[Probabilistic machine learning based predictive and interpretable   digital twin for dynamical systems](http://arxiv.org/abs/2212.09240v1)|2022-12-19 04:25:59+00:00|19-12-2022
+David A. Knowles|[Faithful Heteroscedastic Regression with Neural Networks](http://arxiv.org/abs/2212.09184v1)|2022-12-18 22:34:42+00:00|18-12-2022
+Yoon Kim|[Unsupervised Discontinuous Constituency Parsing with Mildly   Context-Sensitive Grammars](http://arxiv.org/abs/2212.09140v1)|2022-12-18 18:10:45+00:00|18-12-2022
+Mostafa Rahimi Azghadi|[Adaptive Uncertainty Distribution in Deep Learning for Unsupervised   Underwater Image Enhancement](http://arxiv.org/abs/2212.08983v1)|2022-12-18 01:07:20+00:00|18-12-2022
+
 ## 20-12-2022
 
 main_author|title|update_date|publish_date
