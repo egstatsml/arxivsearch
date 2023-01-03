@@ -1,5 +1,32 @@
 # fairness
 Click on title for link to paper
+## 03-01-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Rajarshi Mukherjee|[On Undersmoothing and Sample Splitting for Estimating a Doubly Robust   Functional](http://arxiv.org/abs/2212.14857v1)|2022-12-30 18:17:06+00:00|30-12-2022
+Xu Liu|[Delving into Semantic Scale Imbalance](http://arxiv.org/abs/2212.14613v2)|2023-01-02 10:18:08+00:00|30-12-2022
+Maunendra Sankar Desarkar|[ComplAI: Theory of A Unified Framework for Multi-factor Assessment of   Black-Box Supervised Machine Learning Models](http://arxiv.org/abs/2212.14599v1)|2022-12-30 08:48:19+00:00|30-12-2022
+Muiris MacCarthaigh|[Cluster-level Group Representativity Fairness in $k$-means Clustering](http://arxiv.org/abs/2212.14467v1)|2022-12-29 22:02:28+00:00|29-12-2022
+Tareq Y. Al-Naffouri|[Characterization of the Global Bias Problem in Aerial Federated Learning](http://arxiv.org/abs/2212.14360v1)|2022-12-29 16:19:36+00:00|29-12-2022
+Markus Strohmaier|[Properties of Group Fairness Metrics for Rankings](http://arxiv.org/abs/2212.14351v1)|2022-12-29 15:50:18+00:00|29-12-2022
+Zuxuan Wu|[Resolving Task Confusion in Dynamic Expansion Architectures for Class   Incremental Learning](http://arxiv.org/abs/2212.14284v1)|2022-12-29 12:26:44+00:00|29-12-2022
+Hui Yu|[A Deep Learning Method for Real-time Bias Correction of Wind Field   Forecasts in the Western North Pacific](http://arxiv.org/abs/2212.14160v1)|2022-12-29 02:58:12+00:00|29-12-2022
+Manar D. Samad|[Are Deep Image Embedding Clustering Methods Effective for Heterogeneous   Tabular Data?](http://arxiv.org/abs/2212.14111v1)|2022-12-28 22:29:10+00:00|28-12-2022
+Ilke Demir|[How Do Deepfakes Move? Motion Magnification for Deepfake Source   Detection](http://arxiv.org/abs/2212.14033v1)|2022-12-28 18:59:21+00:00|28-12-2022
+Roger Grosse|[On Implicit Bias in Overparameterized Bilevel Optimization](http://arxiv.org/abs/2212.14032v1)|2022-12-28 18:57:46+00:00|28-12-2022
+Shujun Li|[Proof of Swarm Based Ensemble Learning for Federated Learning   Applications](http://arxiv.org/abs/2212.14050v2)|2023-01-02 13:15:35+00:00|28-12-2022
+Yuhang Zhou|[Swin MAE: Masked Autoencoders for Small Datasets](http://arxiv.org/abs/2212.13805v1)|2022-12-28 12:53:44+00:00|28-12-2022
+Stefanie Jegelka|[Optimal algorithms for group distributionally robust optimization and   beyond](http://arxiv.org/abs/2212.13669v1)|2022-12-28 02:45:46+00:00|28-12-2022
+Junfeng Yang|[Packing Privacy Budget Efficiently](http://arxiv.org/abs/2212.13228v1)|2022-12-26 17:25:02+00:00|26-12-2022
+Takahiro Hoshino|[Orthogonal Series Estimation for the Ratio of Conditional Expectation   Functions](http://arxiv.org/abs/2212.13145v1)|2022-12-26 13:01:17+00:00|26-12-2022
+David Adkins|[Bias Mitigation Framework for Intersectional Subgroups in Neural   Networks](http://arxiv.org/abs/2212.13014v1)|2022-12-26 04:58:11+00:00|26-12-2022
+Stefan Decker|[Explainable AI for Bioinformatics: Methods, Tools, and Applications](http://arxiv.org/abs/2212.13261v1)|2022-12-25 21:00:36+00:00|25-12-2022
+Hamed Tabkhi|[Understanding Ethics, Privacy, and Regulations in Smart Video   Surveillance for Public Safety](http://arxiv.org/abs/2212.12936v1)|2022-12-25 17:14:18+00:00|25-12-2022
+Shui Yu|[Social-Aware Clustered Federated Learning with Customized Privacy   Preservation](http://arxiv.org/abs/2212.13992v1)|2022-12-25 10:16:36+00:00|25-12-2022
+Rui Song|[Mining the Factor Zoo: Estimation of Latent Factor Models with   Sufficient Proxies](http://arxiv.org/abs/2212.12845v1)|2022-12-25 03:10:44+00:00|25-12-2022
+Tao Jia|[Author Name Disambiguation via Heterogeneous Network Embedding from   Structural and Semantic Perspectives](http://arxiv.org/abs/2212.12715v1)|2022-12-24 11:22:34+00:00|24-12-2022
+
 ## 27-12-2022
 
 main_author|title|update_date|publish_date

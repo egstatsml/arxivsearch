@@ -1,5 +1,19 @@
 # bnn
 Click on title for link to paper
+## 03-01-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Mihaly Petreczky|[PAC-Bayesian-Like Error Bound for a Class of Linear Time-Invariant   Stochastic State-Space Models](http://arxiv.org/abs/2212.14838v1)|2022-12-30 17:37:33+00:00|30-12-2022
+Matteo Ravasi|[Posterior sampling with CNN-based, Plug-and-Play regularization with   applications to Post-Stack Seismic Inversion](http://arxiv.org/abs/2212.14595v1)|2022-12-30 08:20:49+00:00|30-12-2022
+Max Sklar|[Relative Probability on Finite Outcome Spaces: A Systematic Examination   of its Axiomatization, Properties, and Applications](http://arxiv.org/abs/2212.14555v1)|2022-12-30 05:16:57+00:00|30-12-2022
+Danilo Mandic|[ResGrad: Residual Denoising Diffusion Probabilistic Models for Text to   Speech](http://arxiv.org/abs/2212.14518v1)|2022-12-30 02:31:35+00:00|30-12-2022
+Alexander Zlokapa|[Bayesian Interpolation with Deep Linear Networks](http://arxiv.org/abs/2212.14457v2)|2023-01-02 17:46:31+00:00|29-12-2022
+Xiaoming Liu|[Learning Implicit Functions for Dense 3D Shape Correspondence of Generic   Objects](http://arxiv.org/abs/2212.14276v1)|2022-12-29 11:57:47+00:00|29-12-2022
+Apostolis Zarras|[Do Bayesian Variational Autoencoders Know What They Don't Know?](http://arxiv.org/abs/2212.14272v1)|2022-12-29 11:48:01+00:00|29-12-2022
+Robin Manhaeve|[GEDI: GEnerative and DIscriminative Training for Self-Supervised   Learning](http://arxiv.org/abs/2212.13425v2)|2022-12-29 15:34:39+00:00|27-12-2022
+Hongyu Zhang|[Uncertainty-Aware Performance Prediction for Highly Configurable   Software Systems via Bayesian Neural Networks](http://arxiv.org/abs/2212.13359v1)|2022-12-27 04:39:26+00:00|27-12-2022
+
 ## 27-12-2022
 
 main_author|title|update_date|publish_date

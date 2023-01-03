@@ -1,5 +1,14 @@
 # interpretable
 Click on title for link to paper
+## 03-01-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Daniel Sonntag|[DRG-Net: Interactive Joint Learning of Multi-lesion Segmentation and   Classification for Diabetic Retinopathy Grading](http://arxiv.org/abs/2212.14615v1)|2022-12-30 09:59:17+00:00|30-12-2022
+Maunendra Sankar Desarkar|[ComplAI: Theory of A Unified Framework for Multi-factor Assessment of   Black-Box Supervised Machine Learning Models](http://arxiv.org/abs/2212.14599v1)|2022-12-30 08:48:19+00:00|30-12-2022
+Zhijie Lin|[Unsupervised Representation Learning from Pre-trained Diffusion   Probabilistic Models](http://arxiv.org/abs/2212.12990v2)|2023-01-01 06:01:58+00:00|26-12-2022
+Stefan Decker|[Explainable AI for Bioinformatics: Methods, Tools, and Applications](http://arxiv.org/abs/2212.13261v1)|2022-12-25 21:00:36+00:00|25-12-2022
+
 ## 27-12-2022
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,14 @@
 # variational
 Click on title for link to paper
+## 03-01-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Mihaly Petreczky|[PAC-Bayesian-Like Error Bound for a Class of Linear Time-Invariant   Stochastic State-Space Models](http://arxiv.org/abs/2212.14838v1)|2022-12-30 17:37:33+00:00|30-12-2022
+Apostolis Zarras|[Do Bayesian Variational Autoencoders Know What They Don't Know?](http://arxiv.org/abs/2212.14272v1)|2022-12-29 11:48:01+00:00|29-12-2022
+Sebastien Deschamps|[Adversarial Virtual Exemplar Learning for Label-Frugal Satellite Image   Change Detection](http://arxiv.org/abs/2212.13974v1)|2022-12-28 17:46:20+00:00|28-12-2022
+Abhishek Kadian|[Visualizing Information Bottleneck through Variational Inference](http://arxiv.org/abs/2212.12667v1)|2022-12-24 06:02:42+00:00|24-12-2022
+
 ## 27-12-2022
 
 main_author|title|update_date|publish_date
