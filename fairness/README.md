@@ -1,5 +1,40 @@
 # fairness
 Click on title for link to paper
+## 10-01-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Reza Sameni|[A Data-Driven Gaussian Process Filter for Electrocardiogram Denoising](http://arxiv.org/abs/2301.02607v1)|2023-01-06 17:09:20+00:00|06-01-2023
+Hubert P. H. Shum|[Tackling Data Bias in Painting Classification with Style Transfer](http://arxiv.org/abs/2301.02524v1)|2023-01-06 14:33:53+00:00|06-01-2023
+Bevan I. Smith|[Evaluating counterfactual explanations using Pearl's counterfactual   method](http://arxiv.org/abs/2301.02499v1)|2023-01-06 13:18:26+00:00|06-01-2023
+Francesco Fabbri|[Max-Min Diversification with Fairness Constraints: Exact and   Approximation Algorithms](http://arxiv.org/abs/2301.02053v1)|2023-01-05 13:02:35+00:00|05-01-2023
+Jakub Kudela|[The Evolutionary Computation Methods No One Should Use](http://arxiv.org/abs/2301.01984v1)|2023-01-05 09:39:24+00:00|05-01-2023
+Ming Yang|[High-level semantic feature matters few-shot unsupervised domain   adaptation](http://arxiv.org/abs/2301.01956v1)|2023-01-05 08:39:52+00:00|05-01-2023
+Hasti Shabani|[Reduced Deep Convolutional Activation Features (R-DeCAF) in   Histopathology Images to Improve the Classification Performance for Breast   Cancer Diagnosis](http://arxiv.org/abs/2301.01931v1)|2023-01-05 06:53:46+00:00|05-01-2023
+Kai-Wei Chang|[GIVL: Improving Geographical Inclusivity of Vision-Language Models with   Pre-Training Methods](http://arxiv.org/abs/2301.01893v1)|2023-01-05 03:43:45+00:00|05-01-2023
+Lei Ying|[Network Utility Maximization with Unknown Utility Functions: A   Distributed, Data-Driven Bilevel Optimization Approach](http://arxiv.org/abs/2301.01801v2)|2023-01-06 04:03:03+00:00|04-01-2023
+Xiaoxiao Li|[On Fairness of Medical Image Classification with Multiple Sensitive   Attributes via Learning Orthogonal Representations](http://arxiv.org/abs/2301.01481v1)|2023-01-04 08:11:11+00:00|04-01-2023
+Paxton Turner|[Testing High-dimensional Multinomials with Applications to Text Analysis](http://arxiv.org/abs/2301.01381v1)|2023-01-03 22:29:44+00:00|03-01-2023
+S. Seager|[Identifying Exoplanets with Deep Learning. V. Improved Light Curve   Classification for TESS Full Frame Image Observations](http://arxiv.org/abs/2301.01371v1)|2023-01-03 21:58:13+00:00|03-01-2023
+Marián Šimko|[Average Is Not Enough: Caveats of Multilingual Evaluation](http://arxiv.org/abs/2301.01269v1)|2023-01-03 18:23:42+00:00|03-01-2023
+Hanz Cuevas Velasquez|[Procedural Humans for Computer Vision](http://arxiv.org/abs/2301.01161v1)|2023-01-03 15:44:48+00:00|03-01-2023
+Jundong Li|[RELIANT: Fair Knowledge Distillation for Graph Neural Networks](http://arxiv.org/abs/2301.01150v2)|2023-01-04 05:09:38+00:00|03-01-2023
+Milan van den Heuvel|[On the causality-preservation capabilities of generative modelling](http://arxiv.org/abs/2301.01109v1)|2023-01-03 14:09:15+00:00|03-01-2023
+Fang Chen|[Explaining Imitation Learning through Frames](http://arxiv.org/abs/2301.01088v1)|2023-01-03 13:31:44+00:00|03-01-2023
+Sheng Li|[Continual Treatment Effect Estimation: Challenges and Opportunities](http://arxiv.org/abs/2301.01026v2)|2023-01-06 08:21:05+00:00|03-01-2023
+M. Khalid Jawed|[Meta-learning generalizable dynamics from trajectories](http://arxiv.org/abs/2301.00957v1)|2023-01-03 06:04:28+00:00|03-01-2023
+Jimmy Olsson|[State and parameter learning with PaRIS particle Gibbs](http://arxiv.org/abs/2301.00900v1)|2023-01-02 23:27:33+00:00|02-01-2023
+Edgar Altszyler|[The Undesirable Dependence on Frequency of Gender Bias Metrics Based on   Word Embeddings](http://arxiv.org/abs/2301.00792v1)|2023-01-02 18:27:10+00:00|02-01-2023
+Stephan Günnemann|[Training Differentially Private Graph Neural Networks with Random Walk   Sampling](http://arxiv.org/abs/2301.00738v1)|2023-01-02 16:14:50+00:00|02-01-2023
+John P. Cunningham|[Posterior Collapse and Latent Variable Non-identifiability](http://arxiv.org/abs/2301.00537v1)|2023-01-02 06:16:56+00:00|02-01-2023
+Baoyu Zhou|[A Sequential Quadratic Programming Method with High Probability   Complexity Bounds for Nonlinear Equality Constrained Stochastic Optimization](http://arxiv.org/abs/2301.00477v1)|2023-01-01 21:46:50+00:00|01-01-2023
+Jie Fu|[CORGI-PM: A Chinese Corpus For Gender Bias Probing and Mitigation](http://arxiv.org/abs/2301.00395v1)|2023-01-01 12:48:12+00:00|01-01-2023
+Yingbin Liang|[Sharper analysis of sparsely activated wide neural networks with   trainable biases](http://arxiv.org/abs/2301.00327v1)|2023-01-01 02:11:39+00:00|01-01-2023
+Yangsheng Xu|[Peer Learning for Unbiased Scene Graph Generation](http://arxiv.org/abs/2301.00146v1)|2022-12-31 07:56:35+00:00|31-12-2022
+Johanna Löchner|[Computational Charisma -- A Brick by Brick Blueprint for Building   Charismatic Artificial Intelligence](http://arxiv.org/abs/2301.00142v1)|2022-12-31 07:27:01+00:00|31-12-2022
+Yanyuan Ma|[On High dimensional Poisson models with measurement error: hypothesis   testing for nonlinear nonconvex optimization](http://arxiv.org/abs/2301.00139v1)|2022-12-31 06:58:42+00:00|31-12-2022
+Anica Tasnim Protity|[Hair and Scalp Disease Detection using Machine Learning and Image   Processing](http://arxiv.org/abs/2301.00122v1)|2022-12-31 04:45:45+00:00|31-12-2022
+
 ## 03-01-2023
 
 main_author|title|update_date|publish_date

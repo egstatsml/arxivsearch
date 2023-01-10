@@ -1,5 +1,23 @@
 # bnn
 Click on title for link to paper
+## 10-01-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Mucahit Cevik|[DANLIP: Deep Autoregressive Networks for Locally Interpretable   Probabilistic Forecasting](http://arxiv.org/abs/2301.02332v1)|2023-01-05 23:40:23+00:00|05-01-2023
+Patric Jensfelt|[A Probabilistic Framework for Visual Localization in Ambiguous Scenes](http://arxiv.org/abs/2301.02086v1)|2023-01-05 14:46:54+00:00|05-01-2023
+Benny Cheng|[Bayesian Weapon System Reliability Modeling with Cox-Weibull Neural   Network](http://arxiv.org/abs/2301.01850v2)|2023-01-09 17:57:06+00:00|04-01-2023
+Jan-Christian Hütter|[NODAGS-Flow: Nonlinear Cyclic Causal Structure Learning](http://arxiv.org/abs/2301.01849v1)|2023-01-04 23:28:18+00:00|04-01-2023
+Stephen J. Roberts|[On Sequential Bayesian Inference for Continual Learning](http://arxiv.org/abs/2301.01828v1)|2023-01-04 21:33:13+00:00|04-01-2023
+Mario Cools|[Exploring Machine Learning Techniques to Identify Important Factors   Leading to Injury in Curve Related Crashes](http://arxiv.org/abs/2301.01771v1)|2023-01-04 13:07:28+00:00|04-01-2023
+Xiaolei Lu|[Learning Ambiguity from Crowd Sequential Annotations](http://arxiv.org/abs/2301.01579v1)|2023-01-04 12:53:56+00:00|04-01-2023
+Roy R. Lederman|[Geometric Ergodicity in Modified Variations of Riemannian Manifold and   Lagrangian Monte Carlo](http://arxiv.org/abs/2301.01409v1)|2023-01-04 02:44:33+00:00|04-01-2023
+Jens Sjölund|[A Tutorial on Parametric Variational Inference](http://arxiv.org/abs/2301.01236v1)|2023-01-03 17:30:50+00:00|03-01-2023
+Ming Li|[A Theory of Human-Like Few-Shot Learning](http://arxiv.org/abs/2301.01047v1)|2023-01-03 11:22:37+00:00|03-01-2023
+Bennet Stroeh|[Mixed moving average field guided learning for spatio-temporal data](http://arxiv.org/abs/2301.00736v1)|2023-01-02 16:11:05+00:00|02-01-2023
+Haim Permuter|[Data-Driven Optimization of Directed Information over Discrete Alphabets](http://arxiv.org/abs/2301.00621v1)|2023-01-02 12:25:40+00:00|02-01-2023
+John P. Cunningham|[Posterior Collapse and Latent Variable Non-identifiability](http://arxiv.org/abs/2301.00537v1)|2023-01-02 06:16:56+00:00|02-01-2023
+
 ## 03-01-2023
 
 main_author|title|update_date|publish_date

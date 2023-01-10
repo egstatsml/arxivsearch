@@ -1,5 +1,16 @@
 # mcmc
 Click on title for link to paper
+## 10-01-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Mucahit Cevik|[DANLIP: Deep Autoregressive Networks for Locally Interpretable   Probabilistic Forecasting](http://arxiv.org/abs/2301.02332v1)|2023-01-05 23:40:23+00:00|05-01-2023
+Titus J. Brinker|[Benchmarking common uncertainty estimation methods with   histopathological images under domain shift and label noise](http://arxiv.org/abs/2301.01054v1)|2023-01-03 11:34:36+00:00|03-01-2023
+Chin Pang Ho|[Risk-Averse MDPs under Reward Ambiguity](http://arxiv.org/abs/2301.01045v2)|2023-01-04 02:52:33+00:00|03-01-2023
+Haim Permuter|[Data-Driven Optimization of Directed Information over Discrete Alphabets](http://arxiv.org/abs/2301.00621v1)|2023-01-02 12:25:40+00:00|02-01-2023
+Lei Qi|[eVAE: Evolutionary Variational Autoencoder](http://arxiv.org/abs/2301.00011v1)|2023-01-01 23:54:35+00:00|01-01-2023
+Baoyu Zhou|[A Sequential Quadratic Programming Method with High Probability   Complexity Bounds for Nonlinear Equality Constrained Stochastic Optimization](http://arxiv.org/abs/2301.00477v1)|2023-01-01 21:46:50+00:00|01-01-2023
+
 ## 03-01-2023
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,13 @@
 # interpretable
 Click on title for link to paper
+## 10-01-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Kai Liu|[Deep Biological Pathway Informed Pathology-Genomic Multimodal Survival   Prediction](http://arxiv.org/abs/2301.02383v1)|2023-01-06 05:24:41+00:00|06-01-2023
+Lizhen Cui|[Multi-Aspect Explainable Inductive Relation Prediction by Sentence   Transformer](http://arxiv.org/abs/2301.01664v1)|2023-01-04 15:33:49+00:00|04-01-2023
+Nanne van Noord|[Hierarchical Explanations for Video Action Recognition](http://arxiv.org/abs/2301.00436v2)|2023-01-04 23:32:49+00:00|01-01-2023
+
 ## 03-01-2023
 
 main_author|title|update_date|publish_date
