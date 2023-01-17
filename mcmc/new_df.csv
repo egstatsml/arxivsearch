@@ -1,8 +1,11 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
-Mucahit Cevik|[DANLIP: Deep Autoregressive Networks for Locally Interpretable   Probabilistic Forecasting](http://arxiv.org/abs/2301.02332v1)|2023-01-05 23:40:23+00:00|05-01-2023
-Titus J. Brinker|[Benchmarking common uncertainty estimation methods with   histopathological images under domain shift and label noise](http://arxiv.org/abs/2301.01054v1)|2023-01-03 11:34:36+00:00|03-01-2023
-Chin Pang Ho|[Risk-Averse MDPs under Reward Ambiguity](http://arxiv.org/abs/2301.01045v2)|2023-01-04 02:52:33+00:00|03-01-2023
-Haim Permuter|[Data-Driven Optimization of Directed Information over Discrete Alphabets](http://arxiv.org/abs/2301.00621v1)|2023-01-02 12:25:40+00:00|02-01-2023
-Lei Qi|[eVAE: Evolutionary Variational Autoencoder](http://arxiv.org/abs/2301.00011v1)|2023-01-01 23:54:35+00:00|01-01-2023
-Baoyu Zhou|[A Sequential Quadratic Programming Method with High Probability   Complexity Bounds for Nonlinear Equality Constrained Stochastic Optimization](http://arxiv.org/abs/2301.00477v1)|2023-01-01 21:46:50+00:00|01-01-2023
+Nadja Klein|[Scalable Estimation for Structured Additive Distributional Regression](http://arxiv.org/abs/2301.05593v1)|2023-01-13 14:59:42+00:00|13-01-2023
+Nisar Ahmed|[AAAI 2022 Fall Symposium: Lessons Learned for Autonomous Assessment of   Machine Abilities (LLAAMA)](http://arxiv.org/abs/2301.05384v1)|2023-01-13 03:47:38+00:00|13-01-2023
+Kazuya Takeda|[Predictive World Models from Real-World Partial Observations](http://arxiv.org/abs/2301.04783v1)|2023-01-12 02:07:26+00:00|12-01-2023
+Kai Furmans|[MotorFactory: A Blender Add-on for Large Dataset Generation of Small   Electric Motors](http://arxiv.org/abs/2301.05028v1)|2023-01-11 18:03:24+00:00|11-01-2023
+Bernhard C. Geiger|[Robust Bayesian Target Value Optimization](http://arxiv.org/abs/2301.04344v1)|2023-01-11 07:44:59+00:00|11-01-2023
+Dominik Wagner|[Fast and Correct Gradient-Based Optimisation for Probabilistic   Programming via Smoothing](http://arxiv.org/abs/2301.03415v1)|2023-01-09 15:12:45+00:00|09-01-2023
+Artem Shelmanov|[Active Learning for Abstractive Text Summarization](http://arxiv.org/abs/2301.03252v1)|2023-01-09 10:33:14+00:00|09-01-2023
+Matteo Russo|[Fully Dynamic Online Selection through Online Contention Resolution   Schemes](http://arxiv.org/abs/2301.03099v1)|2023-01-08 19:35:11+00:00|08-01-2023
+Jesse Davis|[How to Allocate your Label Budget? Choosing between Active Learning and   Learning to Reject in Anomaly Detection](http://arxiv.org/abs/2301.02909v1)|2023-01-07 18:02:43+00:00|07-01-2023

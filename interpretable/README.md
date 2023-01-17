@@ -1,5 +1,14 @@
 # interpretable
 Click on title for link to paper
+## 17-01-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Yun Fu|[Why is the State of Neural Network Pruning so Confusing? On the   Fairness, Comparison Setup, and Trainability in Network Pruning](http://arxiv.org/abs/2301.05219v1)|2023-01-12 18:58:33+00:00|12-01-2023
+Kazuya Takeda|[Predictive World Models from Real-World Partial Observations](http://arxiv.org/abs/2301.04783v1)|2023-01-12 02:07:26+00:00|12-01-2023
+Joshua B. Tenenbaum|[3D Shape Perception Integrates Intuitive Physics and   Analysis-by-Synthesis](http://arxiv.org/abs/2301.03711v1)|2023-01-09 23:11:41+00:00|09-01-2023
+Suhang Wang|[Faithful and Consistent Graph Neural Network Explanations with Rationale   Alignment](http://arxiv.org/abs/2301.02791v1)|2023-01-07 06:33:35+00:00|07-01-2023
+
 ## 10-01-2023
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,21 @@
 # bnn
 Click on title for link to paper
+## 17-01-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Guillaume Sautière|[Neural Image Compression with a Diffusion-Based Decoder](http://arxiv.org/abs/2301.05489v1)|2023-01-13 11:27:26+00:00|13-01-2023
+Antonio Torralba|[NOPA: Neurally-guided Online Probabilistic Assistance for Building   Socially Intelligent Home Assistants](http://arxiv.org/abs/2301.05223v1)|2023-01-12 18:59:34+00:00|12-01-2023
+Muhammad Kamran Malik|[SACDNet: Towards Early Type 2 Diabetes Prediction with Uncertainty for   Electronic Health Records](http://arxiv.org/abs/2301.04844v1)|2023-01-12 07:14:47+00:00|12-01-2023
+István Fazekas|[Diffusion-based Data Augmentation for Skin Disease Classification:   Impact Across Original Medical Datasets to Fully Synthetic Images](http://arxiv.org/abs/2301.04802v1)|2023-01-12 04:22:23+00:00|12-01-2023
+Can M. Le|[Variational Inference: Posterior Threshold Improves Network Clustering   Accuracy in Sparse Regimes](http://arxiv.org/abs/2301.04771v1)|2023-01-12 00:24:54+00:00|12-01-2023
+Bernhard C. Geiger|[Robust Bayesian Target Value Optimization](http://arxiv.org/abs/2301.04344v1)|2023-01-11 07:44:59+00:00|11-01-2023
+Nicu Sebe|[Modiff: Action-Conditioned 3D Motion Generation with Denoising Diffusion   Probabilistic Models](http://arxiv.org/abs/2301.03949v1)|2023-01-10 13:15:42+00:00|10-01-2023
+Leonardo Castañeda C|[Constraining cosmological parameters from N-body simulations with   Variational Bayesian Neural Networks](http://arxiv.org/abs/2301.03991v1)|2023-01-09 16:07:48+00:00|09-01-2023
+Dominik Wagner|[Fast and Correct Gradient-Based Optimisation for Probabilistic   Programming via Smoothing](http://arxiv.org/abs/2301.03415v1)|2023-01-09 15:12:45+00:00|09-01-2023
+Dejing Dou|[Generative Time Series Forecasting with Diffusion, Denoise, and   Disentanglement](http://arxiv.org/abs/2301.03028v1)|2023-01-08 12:20:46+00:00|08-01-2023
+Kwang In Kim|[Active Deep Learning Guided by Efficient Gaussian Process Surrogates](http://arxiv.org/abs/2301.02761v1)|2023-01-07 01:35:25+00:00|07-01-2023
+
 ## 10-01-2023
 
 main_author|title|update_date|publish_date

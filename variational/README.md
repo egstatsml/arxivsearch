@@ -1,5 +1,19 @@
 # variational
 Click on title for link to paper
+## 17-01-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Nadja Klein|[Scalable Estimation for Structured Additive Distributional Regression](http://arxiv.org/abs/2301.05593v1)|2023-01-13 14:59:42+00:00|13-01-2023
+Nisar Ahmed|[AAAI 2022 Fall Symposium: Lessons Learned for Autonomous Assessment of   Machine Abilities (LLAAMA)](http://arxiv.org/abs/2301.05384v1)|2023-01-13 03:47:38+00:00|13-01-2023
+Kazuya Takeda|[Predictive World Models from Real-World Partial Observations](http://arxiv.org/abs/2301.04783v1)|2023-01-12 02:07:26+00:00|12-01-2023
+Kai Furmans|[MotorFactory: A Blender Add-on for Large Dataset Generation of Small   Electric Motors](http://arxiv.org/abs/2301.05028v1)|2023-01-11 18:03:24+00:00|11-01-2023
+Bernhard C. Geiger|[Robust Bayesian Target Value Optimization](http://arxiv.org/abs/2301.04344v1)|2023-01-11 07:44:59+00:00|11-01-2023
+Dominik Wagner|[Fast and Correct Gradient-Based Optimisation for Probabilistic   Programming via Smoothing](http://arxiv.org/abs/2301.03415v1)|2023-01-09 15:12:45+00:00|09-01-2023
+Artem Shelmanov|[Active Learning for Abstractive Text Summarization](http://arxiv.org/abs/2301.03252v1)|2023-01-09 10:33:14+00:00|09-01-2023
+Matteo Russo|[Fully Dynamic Online Selection through Online Contention Resolution   Schemes](http://arxiv.org/abs/2301.03099v1)|2023-01-08 19:35:11+00:00|08-01-2023
+Jesse Davis|[How to Allocate your Label Budget? Choosing between Active Learning and   Learning to Reject in Anomaly Detection](http://arxiv.org/abs/2301.02909v1)|2023-01-07 18:02:43+00:00|07-01-2023
+
 ## 10-01-2023
 
 main_author|title|update_date|publish_date
