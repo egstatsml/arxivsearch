@@ -1,5 +1,38 @@
 # fairness
 Click on title for link to paper
+## 24-01-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Kerstin Ritter|[Promises and pitfalls of deep neural networks in neuroimaging-based   psychiatric research](http://arxiv.org/abs/2301.08525v1)|2023-01-20 12:05:59+00:00|20-01-2023
+Yao-Yi Chiang|[Clustering Human Mobility with Multiple Spaces](http://arxiv.org/abs/2301.08524v1)|2023-01-20 12:02:30+00:00|20-01-2023
+Hankz Hankui Zhuo|[Plan To Predict: Learning an Uncertainty-Foreseeing Model for   Model-Based Reinforcement Learning](http://arxiv.org/abs/2301.08502v1)|2023-01-20 10:17:22+00:00|20-01-2023
+Mirco Musolesi|[Modeling Moral Choices in Social Dilemmas with Multi-Agent Reinforcement   Learning](http://arxiv.org/abs/2301.08491v1)|2023-01-20 09:36:42+00:00|20-01-2023
+Bolei Zhou|[Spatial Steerability of GANs via Self-Supervision from Discriminator](http://arxiv.org/abs/2301.08455v1)|2023-01-20 07:36:29+00:00|20-01-2023
+Mingfei Sun|[Revisiting Estimation Bias in Policy Gradients for Deep Reinforcement   Learning](http://arxiv.org/abs/2301.08442v1)|2023-01-20 06:46:43+00:00|20-01-2023
+Zhuo Zhao|[Fair Credit Scorer through Bayesian Approach](http://arxiv.org/abs/2301.08412v1)|2023-01-20 03:35:03+00:00|20-01-2023
+Yongdai Kim|[Within-group fairness: A guidance for more sound between-group fairness](http://arxiv.org/abs/2301.08375v1)|2023-01-20 00:39:19+00:00|20-01-2023
+Sikha O K|[Interpreting CNN Predictions using Conditional Generative Adversarial   Networks](http://arxiv.org/abs/2301.08067v1)|2023-01-19 13:26:12+00:00|19-01-2023
+Fanny Yang|[Strong inductive biases provably prevent harmless interpolation](http://arxiv.org/abs/2301.07605v1)|2023-01-18 15:37:11+00:00|18-01-2023
+Mihaela van der Schaar|[Synthcity: facilitating innovative use cases of synthetic data in   different data modalities](http://arxiv.org/abs/2301.07573v1)|2023-01-18 14:49:54+00:00|18-01-2023
+André F. T. Martins|[Discrete Latent Structure in Neural Networks](http://arxiv.org/abs/2301.07473v1)|2023-01-18 12:30:44+00:00|18-01-2023
+Roman Ilin|[Enhancing Self-Training Methods](http://arxiv.org/abs/2301.07294v1)|2023-01-18 03:56:17+00:00|18-01-2023
+Cheng Yang|[Vision Learners Meet Web Image-Text Pairs](http://arxiv.org/abs/2301.07088v1)|2023-01-17 18:53:24+00:00|17-01-2023
+Samet Oymak|[Transformers as Algorithms: Generalization and Implicit Model Selection   in In-context Learning](http://arxiv.org/abs/2301.07067v1)|2023-01-17 18:31:12+00:00|17-01-2023
+Luyao Zhang|[Monotonicity for AI ethics and society: An empirical study of the   monotonic neural additive model in criminology, education, health care, and   finance](http://arxiv.org/abs/2301.07060v1)|2023-01-17 18:21:31+00:00|17-01-2023
+Xuelong Li|[USER: Unified Semantic Enhancement with Momentum Contrast for Image-Text   Retrieval](http://arxiv.org/abs/2301.06844v1)|2023-01-17 12:42:58+00:00|17-01-2023
+Chinmay Hegde|[Pathfinding Neural Cellular Automata](http://arxiv.org/abs/2301.06820v1)|2023-01-17 11:45:51+00:00|17-01-2023
+Syed B. Alam|[Explainable, Interpretable & Trustworthy AI for Intelligent Digital   Twin: Case Study on Remaining Useful Life](http://arxiv.org/abs/2301.06676v1)|2023-01-17 03:17:07+00:00|17-01-2023
+Laurent Schmalen|[Improving the Bootstrap of Blind Equalizers with Variational   Autoencoders](http://arxiv.org/abs/2301.06576v1)|2023-01-16 19:25:59+00:00|16-01-2023
+Sergio Damas|[MultiCalib4DEB: A toolbox exploiting multimodal optimisation in Dynamic   Energy Budget parameters calibration](http://arxiv.org/abs/2301.07548v1)|2023-01-16 13:48:20+00:00|16-01-2023
+Wanli Ouyang|[$β$-DARTS++: Bi-level Regularization for Proxy-robust Differentiable   Architecture Search](http://arxiv.org/abs/2301.06393v1)|2023-01-16 12:30:32+00:00|16-01-2023
+Alessandro Rudi|[Approximation of optimization problems with constraints through kernel   Sum-Of-Squares](http://arxiv.org/abs/2301.06339v1)|2023-01-16 10:30:04+00:00|16-01-2023
+Jiebo Luo|[Computational Assessment of Hyperpartisanship in News Titles](http://arxiv.org/abs/2301.06270v1)|2023-01-16 05:56:58+00:00|16-01-2023
+Alexander Kilpatrick|[What artificial intelligence might teach us about the origin of human   language](http://arxiv.org/abs/2301.06211v1)|2023-01-15 23:25:29+00:00|15-01-2023
+Mikhail Yurochkin|[Calibrated Data-Dependent Constraints with Exact Satisfaction Guarantees](http://arxiv.org/abs/2301.06195v1)|2023-01-15 21:41:40+00:00|15-01-2023
+Yu Li|[Drug Synergistic Combinations Predictions via Large-Scale Pre-Training   and Graph Structure Learning](http://arxiv.org/abs/2301.05931v1)|2023-01-14 15:07:43+00:00|14-01-2023
+Xiuwen Liu|[Understanding the Spectral Bias of Coordinate Based MLPs Via Training   Dynamics](http://arxiv.org/abs/2301.05816v2)|2023-01-18 05:54:07+00:00|14-01-2023
+
 ## 17-01-2023
 
 main_author|title|update_date|publish_date

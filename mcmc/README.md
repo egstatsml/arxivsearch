@@ -1,5 +1,18 @@
 # mcmc
 Click on title for link to paper
+## 24-01-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Hankz Hankui Zhuo|[Plan To Predict: Learning an Uncertainty-Foreseeing Model for   Model-Based Reinforcement Learning](http://arxiv.org/abs/2301.08502v1)|2023-01-20 10:17:22+00:00|20-01-2023
+Jed A. Duersch|[An Efficient Quadrature Sequence and Sparsifying Methodology for   Mean-Field Variational Inference](http://arxiv.org/abs/2301.08374v1)|2023-01-20 00:38:15+00:00|20-01-2023
+Nico Piatkowski|[Shapley Values with Uncertain Value Functions](http://arxiv.org/abs/2301.08086v1)|2023-01-19 14:07:08+00:00|19-01-2023
+Kerrie Mengersen|[A variational autoencoder-based nonnegative matrix factorisation model   for deep dictionary learning](http://arxiv.org/abs/2301.07272v1)|2023-01-18 02:36:03+00:00|18-01-2023
+Morteza Haghir Chehreghani|[A Combinatorial Semi-Bandit Approach to Charging Station Selection for   Electric Vehicles](http://arxiv.org/abs/2301.07156v1)|2023-01-17 19:57:03+00:00|17-01-2023
+Ling-Yu Duan|[Modeling Uncertain Feature Representation for Domain Generalization](http://arxiv.org/abs/2301.06442v1)|2023-01-16 14:25:02+00:00|16-01-2023
+Niharika Shimona D'Souza|[Bayesian Models of Functional Connectomics and Behavior](http://arxiv.org/abs/2301.06182v1)|2023-01-15 20:42:31+00:00|15-01-2023
+Siqian Shen|[Risk-Averse Reinforcement Learning via Dynamic Time-Consistent Risk   Measures](http://arxiv.org/abs/2301.05981v1)|2023-01-14 21:43:18+00:00|14-01-2023
+
 ## 17-01-2023
 
 main_author|title|update_date|publish_date

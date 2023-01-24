@@ -1,5 +1,20 @@
 # bnn
 Click on title for link to paper
+## 24-01-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Lamine Mili|[Robust Gaussian Process Regression with Huber Likelihood](http://arxiv.org/abs/2301.07858v1)|2023-01-19 02:59:33+00:00|19-01-2023
+André F. T. Martins|[Discrete Latent Structure in Neural Networks](http://arxiv.org/abs/2301.07473v1)|2023-01-18 12:30:44+00:00|18-01-2023
+Kerrie Mengersen|[A variational autoencoder-based nonnegative matrix factorisation model   for deep dictionary learning](http://arxiv.org/abs/2301.07272v1)|2023-01-18 02:36:03+00:00|18-01-2023
+Alessandro Farinelli|[The #DNN-Verification problem: Counting Unsafe Inputs for Deep Neural   Networks](http://arxiv.org/abs/2301.07068v1)|2023-01-17 18:32:01+00:00|17-01-2023
+V. A. Aksyuk|[Consciousness is learning: predictive processing systems that learn by   binding may perceive themselves as conscious](http://arxiv.org/abs/2301.07016v1)|2023-01-17 17:06:48+00:00|17-01-2023
+C. Huber|[From Risk Prediction to Risk Factors Interpretation. Comparison of   Neural Networks and Classical Statistics for Dementia Prediction](http://arxiv.org/abs/2301.06995v1)|2023-01-17 16:26:17+00:00|17-01-2023
+Sebastian Weisshaar|[Denoising Diffusion Probabilistic Models as a Defense against   Adversarial Attacks](http://arxiv.org/abs/2301.06871v1)|2023-01-17 13:27:53+00:00|17-01-2023
+Yizhu Wang|[Intrinsic Gaussian Process on Unknown Manifolds with Probabilistic   Metrics](http://arxiv.org/abs/2301.06533v1)|2023-01-16 17:42:40+00:00|16-01-2023
+Francisco Câmara Pereira|[- Modelling Difference Between Censored and Uncensored Electric Vehicle   Charging Demand](http://arxiv.org/abs/2301.06418v2)|2023-01-18 07:22:53+00:00|16-01-2023
+Yu Wang|[Interpretable and Scalable Graphical Models for Complex Spatio-temporal   Processes](http://arxiv.org/abs/2301.06021v1)|2023-01-15 05:39:30+00:00|15-01-2023
+
 ## 17-01-2023
 
 main_author|title|update_date|publish_date

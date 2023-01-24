@@ -1,5 +1,15 @@
 # interpretable
 Click on title for link to paper
+## 24-01-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Juha Röning|[Feature Relevance Analysis to Explain Concept Drift -- A Case Study in   Human Activity Recognition](http://arxiv.org/abs/2301.08453v1)|2023-01-20 07:34:27+00:00|20-01-2023
+Luyao Zhang|[Monotonicity for AI ethics and society: An empirical study of the   monotonic neural additive model in criminology, education, health care, and   finance](http://arxiv.org/abs/2301.07060v1)|2023-01-17 18:21:31+00:00|17-01-2023
+Chan Yeob Yeun|[Explainable Data Poison Attacks on Human Emotion Evaluation Systems   based on EEG Signals](http://arxiv.org/abs/2301.06923v1)|2023-01-17 14:44:46+00:00|17-01-2023
+Eugenio Di Sciascio|[MAFUS: a Framework to predict mortality risk in MAFLD subjects](http://arxiv.org/abs/2301.06908v1)|2023-01-17 14:19:51+00:00|17-01-2023
+Syed B. Alam|[Explainable, Interpretable & Trustworthy AI for Intelligent Digital   Twin: Case Study on Remaining Useful Life](http://arxiv.org/abs/2301.06676v1)|2023-01-17 03:17:07+00:00|17-01-2023
+
 ## 17-01-2023
 
 main_author|title|update_date|publish_date
