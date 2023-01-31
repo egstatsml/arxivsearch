@@ -1,5 +1,18 @@
 # mcmc
 Click on title for link to paper
+## 31-01-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Ichiro Takeuchi|[Distributionally Robust Multi-objective Bayesian Optimization under   Uncertain Environments](http://arxiv.org/abs/2301.11588v1)|2023-01-27 08:25:45+00:00|27-01-2023
+Marlos C. Machado|[Trajectory-Aware Eligibility Traces for Off-Policy Reinforcement   Learning](http://arxiv.org/abs/2301.11321v1)|2023-01-26 18:57:41+00:00|26-01-2023
+Ömer Deniz Akyildiz|[Random Grid Neural Processes for Parametric Partial Differential   Equations](http://arxiv.org/abs/2301.11040v1)|2023-01-26 11:30:56+00:00|26-01-2023
+Lei Ying|[On the Global Convergence of Risk-Averse Policy Gradient Methods with   Dynamic Time-Consistent Risk Measures](http://arxiv.org/abs/2301.10932v1)|2023-01-26 04:35:28+00:00|26-01-2023
+Thibaut Vidal|[Explainable Data-Driven Optimization: From Context to Decision and Back   Again](http://arxiv.org/abs/2301.10074v1)|2023-01-24 15:25:16+00:00|24-01-2023
+Gustav Eje Henter|[Context-specific kernel-based hidden Markov model for time series   analysis](http://arxiv.org/abs/2301.09870v1)|2023-01-24 09:10:38+00:00|24-01-2023
+Jaspreet Singh|[Earthquake Magnitude and b value prediction model using Extreme Learning   Machine](http://arxiv.org/abs/2301.09756v1)|2023-01-23 23:27:22+00:00|23-01-2023
+Nima Hatami|[DeepFEL: Deep Fastfood Ensemble Learning for Histopathology Image   Analysis](http://arxiv.org/abs/2301.09525v1)|2023-01-23 16:16:24+00:00|23-01-2023
+
 ## 24-01-2023
 
 main_author|title|update_date|publish_date

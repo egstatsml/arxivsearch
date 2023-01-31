@@ -1,5 +1,22 @@
 # interpretable
 Click on title for link to paper
+## 31-01-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Yongfeng Zhang|[ExplainableFold: Understanding AlphaFold Prediction with Explainable AI](http://arxiv.org/abs/2301.11765v1)|2023-01-27 15:06:03+00:00|27-01-2023
+Bonnie J Dorr|[NLP as a Lens for Causal Analysis and Perception Mining to Infer Mental   Health on Social Media](http://arxiv.org/abs/2301.11004v2)|2023-01-29 15:02:54+00:00|26-01-2023
+Arlindo L. Oliveira|[Connecting metrics for shape-texture knowledge in computer vision](http://arxiv.org/abs/2301.10608v1)|2023-01-25 14:37:42+00:00|25-01-2023
+Thibaut Vidal|[Explainable Data-Driven Optimization: From Context to Decision and Back   Again](http://arxiv.org/abs/2301.10074v1)|2023-01-24 15:25:16+00:00|24-01-2023
+Kevin Fu|[Side Eye: Characterizing the Limits of POV Acoustic Eavesdropping from   Smartphone Cameras with Rolling Shutters and Movable Lenses](http://arxiv.org/abs/2301.10056v2)|2023-01-26 20:11:27+00:00|24-01-2023
+George A. Vouros|[Explainable Deep Reinforcement Learning: State of the Art and Challenges](http://arxiv.org/abs/2301.09937v1)|2023-01-24 11:41:25+00:00|24-01-2023
+Chenhao Tan|[Selective Explanations: Leveraging Human Input to Align Explainable AI](http://arxiv.org/abs/2301.09656v1)|2023-01-23 19:00:02+00:00|23-01-2023
+Pascal Hitzler|[Explaining Deep Learning Hidden Neuron Activations using Concept   Induction](http://arxiv.org/abs/2301.09611v1)|2023-01-23 18:14:32+00:00|23-01-2023
+Francesca Toni|[SpArX: Sparse Argumentative Explanations for Neural Networks](http://arxiv.org/abs/2301.09559v1)|2023-01-23 17:20:25+00:00|23-01-2023
+Brett Mullins|[The Shape of Explanations: A Topological Account of Rule-Based   Explanations in Machine Learning](http://arxiv.org/abs/2301.09042v1)|2023-01-22 02:58:00+00:00|22-01-2023
+Shakeeb Murtaza|[Counterfactual Explanation and Instance-Generation using   Cycle-Consistent Generative Adversarial Networks](http://arxiv.org/abs/2301.08939v1)|2023-01-21 11:14:34+00:00|21-01-2023
+Feras A. Batarseh|[ExClaim: Explainable Neural Claim Verification Using Rationalization](http://arxiv.org/abs/2301.08914v1)|2023-01-21 08:26:27+00:00|21-01-2023
+
 ## 24-01-2023
 
 main_author|title|update_date|publish_date

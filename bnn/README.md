@@ -1,5 +1,30 @@
 # bnn
 Click on title for link to paper
+## 31-01-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+William Yang Wang|[Large Language Models Are Implicitly Topic Models: Explaining and   Finding Good Demonstrations for In-Context Learning](http://arxiv.org/abs/2301.11916v1)|2023-01-27 18:59:01+00:00|27-01-2023
+Vinay P. Namboodiri|[Streaming LifeLong Learning With Any-Time Inference](http://arxiv.org/abs/2301.11892v1)|2023-01-27 18:09:19+00:00|27-01-2023
+Stefan T. Radev|[A Deep Learning Method for Comparing Bayesian Hierarchical Models](http://arxiv.org/abs/2301.11873v1)|2023-01-27 17:27:07+00:00|27-01-2023
+Micheal A. Osborne|[SOBER: Scalable Batch Bayesian Optimization and Quadrature using   Recombination Constraints](http://arxiv.org/abs/2301.11832v2)|2023-01-30 02:30:24+00:00|27-01-2023
+Loris D'Antoni|[PECAN: A Deterministic Certified Defense Against Backdoor Attacks](http://arxiv.org/abs/2301.11824v1)|2023-01-27 16:25:43+00:00|27-01-2023
+Henk Corporaal|[BOMP-NAS: Bayesian Optimization Mixed Precision NAS](http://arxiv.org/abs/2301.11810v1)|2023-01-27 16:04:34+00:00|27-01-2023
+Rita Cucchiara|[Input Perturbation Reduces Exposure Bias in Diffusion Models](http://arxiv.org/abs/2301.11706v1)|2023-01-27 13:34:54+00:00|27-01-2023
+François-Xavier Briol|[Optimally-Weighted Estimators of the Maximum Mean Discrepancy for   Likelihood-Free Inference](http://arxiv.org/abs/2301.11674v2)|2023-01-30 08:48:51+00:00|27-01-2023
+Ichiro Takeuchi|[Distributionally Robust Multi-objective Bayesian Optimization under   Uncertain Environments](http://arxiv.org/abs/2301.11588v1)|2023-01-27 08:25:45+00:00|27-01-2023
+Panos Stinis|[A Hybrid Deep Neural Operator/Finite Element Method for Ice-Sheet   Modeling](http://arxiv.org/abs/2301.11402v1)|2023-01-26 20:28:34+00:00|26-01-2023
+Harold Soh|[Neural Continuous-Discrete State Space Models for Irregularly-Sampled   Time Series](http://arxiv.org/abs/2301.11308v1)|2023-01-26 18:45:04+00:00|26-01-2023
+Christopher Nemeth|[Coin Sampling: Gradient-Based Bayesian Inference without Learning Rates](http://arxiv.org/abs/2301.11294v1)|2023-01-26 18:32:21+00:00|26-01-2023
+Ömer Deniz Akyildiz|[Random Grid Neural Processes for Parametric Partial Differential   Equations](http://arxiv.org/abs/2301.11040v1)|2023-01-26 11:30:56+00:00|26-01-2023
+Yao Zhao|[Dual Diffusion Architecture for Fisheye Image Rectification:   Synthetic-to-Real Generalization](http://arxiv.org/abs/2301.11785v1)|2023-01-26 09:37:28+00:00|26-01-2023
+Wei Xu|[Understanding and Improving Deep Graph Neural Networks: A Probabilistic   Graphical Model Perspective](http://arxiv.org/abs/2301.10536v1)|2023-01-25 12:02:12+00:00|25-01-2023
+Kevin J. Maki|[Implementation of the Critical Wave Groups Method with Computational   Fluid Dynamics and Neural Networks](http://arxiv.org/abs/2301.09834v1)|2023-01-24 06:14:58+00:00|24-01-2023
+Andreas Kirsch|[Speeding Up BatchBALD: A k-BALD Family of Approximations for Active   Learning](http://arxiv.org/abs/2301.09490v1)|2023-01-23 15:38:58+00:00|23-01-2023
+Emre Kiciman|[Counterfactual (Non-)identifiability of Learned Structural Causal Models](http://arxiv.org/abs/2301.09031v1)|2023-01-22 00:58:14+00:00|22-01-2023
+Guang Cheng|[Statistical Theory of Differentially Private Marginal-based Data   Synthesis Algorithms](http://arxiv.org/abs/2301.08844v2)|2023-01-25 02:27:44+00:00|21-01-2023
+Feng Yin|[Towards Flexibility and Interpretability of Gaussian Process State-Space   Model](http://arxiv.org/abs/2301.08843v1)|2023-01-21 01:26:26+00:00|21-01-2023
+
 ## 24-01-2023
 
 main_author|title|update_date|publish_date
