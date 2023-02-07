@@ -1,5 +1,19 @@
 # interpretable
 Click on title for link to paper
+## 07-02-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Masao Yasui|[Example-Based Explainable AI and its Application for Remote Sensing   Image Classification](http://arxiv.org/abs/2302.01526v1)|2023-02-03 03:48:43+00:00|03-02-2023
+Zhouhan Lin|[Ordered GNN: Ordering Message Passing to Deal with Heterophily and   Over-smoothing](http://arxiv.org/abs/2302.01524v1)|2023-02-03 03:38:50+00:00|03-02-2023
+Adam Chew|[Diagrammatization: Rationalizing with diagrammatic AI explanations for   abductive reasoning on hypotheses](http://arxiv.org/abs/2302.01241v1)|2023-02-02 17:23:28+00:00|02-02-2023
+Meetiksha Sorgile|[LesionAid: Vision Transformers-based Skin Lesion Generation and   Classification](http://arxiv.org/abs/2302.01104v1)|2023-02-02 13:52:54+00:00|02-02-2023
+Jingjing Liu|[ADAPT: Action-aware Driving Caption Transformer](http://arxiv.org/abs/2302.00673v1)|2023-02-01 18:59:19+00:00|01-02-2023
+Shahram Rahimi|[TwinExplainer: Explaining Predictions of an Automotive Digital Twin](http://arxiv.org/abs/2302.00152v1)|2023-02-01 00:11:18+00:00|01-02-2023
+Wenhui Shi|[BALANCE: Bayesian Linear Attribution for Root Cause Localization](http://arxiv.org/abs/2301.13572v1)|2023-01-31 11:49:26+00:00|31-01-2023
+Lionel Briand|[DNN Explanation for Safety Analysis: an Empirical Evaluation of   Clustering-based Approaches](http://arxiv.org/abs/2301.13506v1)|2023-01-31 09:46:37+00:00|31-01-2023
+Omran Ayoub|[ChatGPT or Human? Detect and Explain. Explaining Decisions of Machine   Learning Model for Detecting Short ChatGPT-generated Text](http://arxiv.org/abs/2301.13852v1)|2023-01-30 08:06:08+00:00|30-01-2023
+
 ## 31-01-2023
 
 main_author|title|update_date|publish_date

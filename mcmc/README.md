@@ -1,5 +1,22 @@
 # mcmc
 Click on title for link to paper
+## 07-02-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+John Stephan|[Fixing by Mixing: A Recipe for Optimal Byzantine ML under Heterogeneity](http://arxiv.org/abs/2302.01772v1)|2023-02-03 14:30:25+00:00|03-02-2023
+Dongbin Zhao|[STEPS: Joint Self-supervised Nighttime Image Enhancement and Depth   Estimation](http://arxiv.org/abs/2302.01334v1)|2023-02-02 18:59:47+00:00|02-02-2023
+Bashir M. Al-Hashimi|[Bayesian Inference on Binary Spiking Networks Leveraging Nanoscale   Device Stochasticity](http://arxiv.org/abs/2302.01302v1)|2023-02-02 18:27:31+00:00|02-02-2023
+Francesco Restuccia|[Exposing the CSI: A Systematic Investigation of CSI-based Wi-Fi Sensing   Capabilities and Limitations](http://arxiv.org/abs/2302.00992v1)|2023-02-02 10:21:00+00:00|02-02-2023
+Xiaowu Dai|[Robust multi-item auction design using statistical learning: Overcoming   uncertainty in bidders' types distributions](http://arxiv.org/abs/2302.00941v1)|2023-02-02 08:32:55+00:00|02-02-2023
+Daniel Sheldon|[Automatically Marginalized MCMC in Probabilistic Programming](http://arxiv.org/abs/2302.00564v1)|2023-02-01 16:34:07+00:00|01-02-2023
+Antoine Cully|[Uncertain Quality-Diversity: Evaluation methodology and new methods for   Quality-Diversity in Uncertain Domains](http://arxiv.org/abs/2302.00463v1)|2023-02-01 14:12:04+00:00|01-02-2023
+Ciara Pike-Burke|[Delayed Feedback in Kernel Bandits](http://arxiv.org/abs/2302.00392v1)|2023-02-01 12:03:19+00:00|01-02-2023
+Miguel Lazaro-Gredilla|[Learning noisy-OR Bayesian Networks with Max-Product Belief Propagation](http://arxiv.org/abs/2302.00099v1)|2023-01-31 21:00:26+00:00|31-01-2023
+Arno Solin|[Transport with Support: Data-Conditional Diffusion Bridges](http://arxiv.org/abs/2301.13636v1)|2023-01-31 13:50:16+00:00|31-01-2023
+Ling Chen|[Affinity Uncertainty-based Hard Negative Mining in Graph Contrastive   Learning](http://arxiv.org/abs/2301.13340v1)|2023-01-31 00:18:03+00:00|31-01-2023
+Melih Kandemir|[PAC-Bayesian Soft Actor-Critic Learning](http://arxiv.org/abs/2301.12776v1)|2023-01-30 10:44:15+00:00|30-01-2023
+
 ## 31-01-2023
 
 main_author|title|update_date|publish_date

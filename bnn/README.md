@@ -1,5 +1,38 @@
 # bnn
 Click on title for link to paper
+## 07-02-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Veit Hagenmeyer|[Creating Probabilistic Forecasts from Arbitrary Deterministic Forecasts   using Conditional Invertible Neural Networks](http://arxiv.org/abs/2302.01800v1)|2023-02-03 15:11:39+00:00|03-02-2023
+Bernd Amann|[ANTM: An Aligned Neural Topic Model for Exploring Evolving Topics](http://arxiv.org/abs/2302.01501v1)|2023-02-03 02:31:12+00:00|03-02-2023
+Soren Hauberg|[Bayesian Metric Learning for Uncertainty Quantification in Image   Retrieval](http://arxiv.org/abs/2302.01332v2)|2023-02-04 14:11:00+00:00|02-02-2023
+Bashir M. Al-Hashimi|[Bayesian Inference on Binary Spiking Networks Leveraging Nanoscale   Device Stochasticity](http://arxiv.org/abs/2302.01302v1)|2023-02-02 18:27:31+00:00|02-02-2023
+Rafael Molina|[Leveraging a Probabilistic PCA Model to Understand the Multivariate   Statistical Network Monitoring Framework for Network Security Anomaly   Detection](http://arxiv.org/abs/2302.01759v1)|2023-02-02 13:41:18+00:00|02-02-2023
+Takuya Narihira|[NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights,   and Materials of Real Object](http://arxiv.org/abs/2302.00675v1)|2023-02-02 13:21:03+00:00|02-02-2023
+Souvik Chakraborty|[Randomized prior wavelet neural operator for uncertainty quantification](http://arxiv.org/abs/2302.01051v1)|2023-02-02 12:28:49+00:00|02-02-2023
+Xiaowu Dai|[Robust multi-item auction design using statistical learning: Overcoming   uncertainty in bidders' types distributions](http://arxiv.org/abs/2302.00941v1)|2023-02-02 08:32:55+00:00|02-02-2023
+Yoshiyuki Kabashima|[QCM-SGM+: Improved Quantized Compressed Sensing With Score-Based   Generative Models for General Sensing Matrices](http://arxiv.org/abs/2302.00919v1)|2023-02-02 07:36:58+00:00|02-02-2023
+Erik Frisk|[MTP-GO: Graph-Based Probabilistic Multi-Agent Trajectory Prediction with   Neural ODEs](http://arxiv.org/abs/2302.00735v1)|2023-02-01 20:03:47+00:00|01-02-2023
+Vibhav Gogate|[Deep Dependency Networks for Multi-Label Classification](http://arxiv.org/abs/2302.00633v1)|2023-02-01 17:52:40+00:00|01-02-2023
+Daniel Sheldon|[Automatically Marginalized MCMC in Probabilistic Programming](http://arxiv.org/abs/2302.00564v1)|2023-02-01 16:34:07+00:00|01-02-2023
+Greg Yang|[Width and Depth Limits Commute in Residual Networks](http://arxiv.org/abs/2302.00453v1)|2023-02-01 13:57:32+00:00|01-02-2023
+Shirin Faraji|[HOAX: A Hyperparameter Optimization Algorithm Explorer for Neural   Networks](http://arxiv.org/abs/2302.00374v1)|2023-02-01 11:12:35+00:00|01-02-2023
+Miguel Lazaro-Gredilla|[Learning noisy-OR Bayesian Networks with Max-Product Belief Propagation](http://arxiv.org/abs/2302.00099v1)|2023-01-31 21:00:26+00:00|31-01-2023
+Yasuharu Koike|[Adaptive sparseness for correntropy-based robust regression via   automatic relevance determination](http://arxiv.org/abs/2302.00082v1)|2023-01-31 20:23:32+00:00|31-01-2023
+Nathan Aschbacher|[Identifying the Hazard Boundary of ML-enabled Autonomous Systems Using   Cooperative Co-Evolutionary Search](http://arxiv.org/abs/2301.13807v1)|2023-01-31 17:50:52+00:00|31-01-2023
+Ş. İlker Birbil|[Differentially Private Distributed Bayesian Linear Regression with MCMC](http://arxiv.org/abs/2301.13778v1)|2023-01-31 17:27:05+00:00|31-01-2023
+Yuxuan Liang|[DiffSTG: Probabilistic Spatio-Temporal Graph Forecasting with Denoising   Diffusion Models](http://arxiv.org/abs/2301.13629v1)|2023-01-31 13:42:36+00:00|31-01-2023
+Thomas Lukasiewicz|[NP-Match: Towards a New Probabilistic Model for Semi-Supervised Learning](http://arxiv.org/abs/2301.13569v1)|2023-01-31 11:44:45+00:00|31-01-2023
+Sébastien Da Veiga|[Kernel Stein Discrepancy thinning: a theoretical perspective of   pathologies and a practical fix with regularization](http://arxiv.org/abs/2301.13528v1)|2023-01-31 10:23:56+00:00|31-01-2023
+Tianshuo Yang|[Classified as unknown: A novel Bayesian neural network](http://arxiv.org/abs/2301.13401v1)|2023-01-31 04:27:09+00:00|31-01-2023
+Chris Drovandi|[Misspecification-robust Sequential Neural Likelihood](http://arxiv.org/abs/2301.13368v1)|2023-01-31 02:28:18+00:00|31-01-2023
+Ramin Bostanabad|[Probabilistic Neural Data Fusion for Learning from an Arbitrary Number   of Multi-fidelity Data Sets](http://arxiv.org/abs/2301.13271v1)|2023-01-30 20:27:55+00:00|30-01-2023
+Justin Zhan|[BSSAD: Towards A Novel Bayesian State-Space Approach for Anomaly   Detection in Multivariate Time Series](http://arxiv.org/abs/2301.13031v1)|2023-01-30 16:21:18+00:00|30-01-2023
+Patrick Krauss|[Quantifying and maximizing the information flux in recurrent neural   networks](http://arxiv.org/abs/2301.12892v1)|2023-01-30 13:52:39+00:00|30-01-2023
+Nikolay Malkin|[A theory of continuous generative flow networks](http://arxiv.org/abs/2301.12594v1)|2023-01-30 00:37:56+00:00|30-01-2023
+Mohammed AlQuraishi|[Generating Novel, Designable, and Diverse Protein Structures by   Equivariantly Diffusing Oriented Residue Clouds](http://arxiv.org/abs/2301.12485v2)|2023-02-03 15:51:22+00:00|29-01-2023
+
 ## 31-01-2023
 
 main_author|title|update_date|publish_date
