@@ -1,5 +1,40 @@
 # bnn
 Click on title for link to paper
+## 14-02-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Sonja Petrović|[Predicting the cardinality of a reduced Gröbner basis](http://arxiv.org/abs/2302.05364v1)|2023-02-10 16:33:58+00:00|10-02-2023
+Tie-Yan Liu|[Monte Carlo Neural Operator for Learning PDEs via Probabilistic   Representation](http://arxiv.org/abs/2302.05104v1)|2023-02-10 08:05:19+00:00|10-02-2023
+Hao Chen|[Making Substitute Models More Bayesian Can Enhance Transferability of   Adversarial Examples](http://arxiv.org/abs/2302.05086v1)|2023-02-10 07:08:13+00:00|10-02-2023
+Yulan He|[Event Temporal Relation Extraction with Bayesian Translational Model](http://arxiv.org/abs/2302.04985v1)|2023-02-10 00:11:19+00:00|10-02-2023
+Petar Djuric|[Gaussian Process-Gated Hierarchical Mixtures of Experts](http://arxiv.org/abs/2302.04947v1)|2023-02-09 21:39:20+00:00|09-02-2023
+Robert Bamler|[Trading Information between Latents in Hierarchical Variational   Autoencoders](http://arxiv.org/abs/2302.04855v1)|2023-02-09 18:56:11+00:00|09-02-2023
+Xavier Olive|[A Benchmark on Uncertainty Quantification for Deep Learning Prognostics](http://arxiv.org/abs/2302.04730v1)|2023-02-09 16:12:47+00:00|09-02-2023
+C. Pinte|[Analysing the SEDs of protoplanetary disks with machine learning](http://arxiv.org/abs/2302.04629v1)|2023-02-09 13:32:47+00:00|09-02-2023
+Maurizio Filippone|[Fully Bayesian Autoencoders with Latent Sparse Gaussian Processes](http://arxiv.org/abs/2302.04534v1)|2023-02-09 09:57:51+00:00|09-02-2023
+Hongyang R. Zhang|[Generalization in Graph Neural Networks: Improved PAC-Bayesian Bounds on   Graph Diffusion](http://arxiv.org/abs/2302.04451v1)|2023-02-09 05:54:17+00:00|09-02-2023
+Jennifer Dy|[Geometry of Score Based Generative Models](http://arxiv.org/abs/2302.04411v1)|2023-02-09 02:39:11+00:00|09-02-2023
+Joyce C Ho|[MedDiff: Generating Electronic Health Records using Accelerated   Denoising Diffusion Model](http://arxiv.org/abs/2302.04355v1)|2023-02-08 22:06:34+00:00|08-02-2023
+Jianlin Cheng|[Geometry-Complete Diffusion for 3D Molecule Generation](http://arxiv.org/abs/2302.04313v1)|2023-02-08 20:01:51+00:00|08-02-2023
+Hado van Hasselt|[Learning How to Infer Partial MDPs for In-Context Adaptation and   Exploration](http://arxiv.org/abs/2302.04250v1)|2023-02-08 18:35:24+00:00|08-02-2023
+Eric P. Xing|[Federated Learning as Variational Inference: A Scalable Expectation   Propagation Approach](http://arxiv.org/abs/2302.04228v1)|2023-02-08 17:58:11+00:00|08-02-2023
+Yuan Luo|[IRTCI: Item Response Theory for Categorical Imputation](http://arxiv.org/abs/2302.04165v1)|2023-02-08 16:17:20+00:00|08-02-2023
+Cedric Archambeau|[Fortuna: A Library for Uncertainty Quantification in Deep Learning](http://arxiv.org/abs/2302.04019v1)|2023-02-08 12:29:38+00:00|08-02-2023
+Vikash K. Mansinghka|[3D Neural Embedding Likelihood for Robust Sim-to-Real Transfer in   Inverse Graphics](http://arxiv.org/abs/2302.03744v1)|2023-02-07 20:48:35+00:00|07-02-2023
+Seyed MohammadSadegh Dashti|[Real-Word Error Correction with Trigrams: Correcting Multiple Errors in   a Sentence](http://arxiv.org/abs/2302.04096v1)|2023-02-07 13:52:14+00:00|07-02-2023
+Kerrie Mengersen|[Federated Variational Inference Methods for Structured Latent Variable   Models](http://arxiv.org/abs/2302.03314v1)|2023-02-07 08:35:04+00:00|07-02-2023
+Wei Wang|[Scalable Gaussian process regression enables accurate prediction of   protein and small molecule properties with uncertainty quantitation](http://arxiv.org/abs/2302.03294v1)|2023-02-07 07:06:02+00:00|07-02-2023
+Joel Veness|[Memory-Based Meta-Learning on Non-Stationary Distributions](http://arxiv.org/abs/2302.03067v1)|2023-02-06 19:08:59+00:00|06-02-2023
+Huafeng Yu|[Closed-loop Analysis of Vision-based Autonomous Systems: A Case Study](http://arxiv.org/abs/2302.04634v1)|2023-02-06 18:56:20+00:00|06-02-2023
+Fabio Roli|[Dropout Injection at Test Time for Post Hoc Uncertainty Quantification   in Neural Networks](http://arxiv.org/abs/2302.02924v1)|2023-02-06 16:56:53+00:00|06-02-2023
+Trung Le|[Flat Seeking Bayesian Neural Networks](http://arxiv.org/abs/2302.02713v2)|2023-02-09 03:29:54+00:00|06-02-2023
+Veit Hagenmeyer|[ProbPNN: Enhancing Deep Probabilistic Forecasting with Statistical   Information](http://arxiv.org/abs/2302.02597v1)|2023-02-06 07:17:31+00:00|06-02-2023
+Hao Wang|[Domain-Indexing Variational Bayes: Interpretable Domain Index for Domain   Adaptation](http://arxiv.org/abs/2302.02561v1)|2023-02-06 04:38:14+00:00|06-02-2023
+Abdoulaye Baniré Diallo|[Prior Density Learning in Variational Bayesian Phylogenetic Parameters   Inference](http://arxiv.org/abs/2302.02522v1)|2023-02-06 01:29:15+00:00|06-02-2023
+Roni Khardon|[Direct Uncertainty Quantification](http://arxiv.org/abs/2302.02420v2)|2023-02-10 20:43:31+00:00|05-02-2023
+Ichiro Takeuchi|[Latent Reconstruction-Aware Variational Autoencoder](http://arxiv.org/abs/2302.02399v1)|2023-02-05 15:02:34+00:00|05-02-2023
+
 ## 07-02-2023
 
 main_author|title|update_date|publish_date

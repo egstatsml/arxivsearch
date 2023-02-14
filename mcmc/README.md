@@ -1,5 +1,17 @@
 # mcmc
 Click on title for link to paper
+## 14-02-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Norimichi Ukita|[Data-Driven Stochastic Motion Evaluation and Optimization with Image by   Spatially-Aligned Temporal Encoding](http://arxiv.org/abs/2302.05041v1)|2023-02-10 04:06:00+00:00|10-02-2023
+Fearghal O'Donncha|[A SWAT-based Reinforcement Learning Framework for Crop Management](http://arxiv.org/abs/2302.04988v1)|2023-02-10 00:24:22+00:00|10-02-2023
+Roi Livni|[Information Theoretic Lower Bounds for Information Theoretic Upper   Bounds](http://arxiv.org/abs/2302.04925v1)|2023-02-09 20:42:36+00:00|09-02-2023
+Maurizio Filippone|[Fully Bayesian Autoencoders with Latent Sparse Gaussian Processes](http://arxiv.org/abs/2302.04534v1)|2023-02-09 09:57:51+00:00|09-02-2023
+Jennifer Dy|[Geometry of Score Based Generative Models](http://arxiv.org/abs/2302.04411v1)|2023-02-09 02:39:11+00:00|09-02-2023
+Aleksandra Korolova|[Fairness in Matching under Uncertainty](http://arxiv.org/abs/2302.03810v1)|2023-02-08 00:30:32+00:00|08-02-2023
+Rupak Majumdar|[Online Reinforcement Learning with Uncertain Episode Lengths](http://arxiv.org/abs/2302.03608v1)|2023-02-07 17:12:49+00:00|07-02-2023
+
 ## 07-02-2023
 
 main_author|title|update_date|publish_date

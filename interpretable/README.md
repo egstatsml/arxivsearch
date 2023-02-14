@@ -1,5 +1,18 @@
 # interpretable
 Click on title for link to paper
+## 14-02-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Steven Maere|[The out-of-sample $R^2$: estimation and inference](http://arxiv.org/abs/2302.05131v1)|2023-02-10 09:29:57+00:00|10-02-2023
+Falk Lieder|[What are the mechanisms underlying metacognitive learning?](http://arxiv.org/abs/2302.04840v1)|2023-02-09 18:49:10+00:00|09-02-2023
+Chunyang Chen|[Training-free Lexical Backdoor Attacks on Language Models](http://arxiv.org/abs/2302.04116v1)|2023-02-08 15:18:51+00:00|08-02-2023
+Gopal Gupta|[Reliable Natural Language Understanding with Large Language Models and   Answer Set Programming](http://arxiv.org/abs/2302.03780v2)|2023-02-09 21:06:26+00:00|07-02-2023
+My T. Thai|[LAVA: Granular Neuron-Level Explainable AI for Alzheimer's Disease   Assessment from Fundus Images](http://arxiv.org/abs/2302.03008v1)|2023-02-06 18:43:10+00:00|06-02-2023
+Dacheng Tao|[Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class   Incremental Learning](http://arxiv.org/abs/2302.03004v1)|2023-02-06 18:39:40+00:00|06-02-2023
+Manish Narwaria|[Explainable Machine Learning: The Importance of a System-Centric   Perspective](http://arxiv.org/abs/2302.02347v1)|2023-02-05 09:22:00+00:00|05-02-2023
+Erman Ayday|[AUTOLYCUS: Exploiting Explainable AI (XAI) for Model Extraction Attacks   against Decision Tree Models](http://arxiv.org/abs/2302.02162v1)|2023-02-04 13:23:39+00:00|04-02-2023
+
 ## 07-02-2023
 
 main_author|title|update_date|publish_date

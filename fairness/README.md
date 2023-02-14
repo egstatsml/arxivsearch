@@ -1,5 +1,72 @@
 # fairness
 Click on title for link to paper
+## 14-02-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Neil Houlsby|[Scaling Vision Transformers to 22 Billion Parameters](http://arxiv.org/abs/2302.05442v1)|2023-02-10 18:58:21+00:00|10-02-2023
+Chelsea Finn|[Project and Probe: Sample-Efficient Domain Adaptation by Interpolating   Orthogonal Features](http://arxiv.org/abs/2302.05441v1)|2023-02-10 18:58:03+00:00|10-02-2023
+Wei Chu|[DRGCN: Dynamic Evolving Initial Residual for Deep Graph Convolutional   Networks](http://arxiv.org/abs/2302.05083v1)|2023-02-10 06:57:12+00:00|10-02-2023
+Ruocheng Guo|[Debiasing Recommendation by Learning Identifiable Latent Confounders](http://arxiv.org/abs/2302.05052v1)|2023-02-10 05:10:26+00:00|10-02-2023
+Abhinav Bhatele|[Exploiting Sparsity in Pruned Neural Networks to Optimize Large Model   Training](http://arxiv.org/abs/2302.05045v1)|2023-02-10 04:22:25+00:00|10-02-2023
+Jiliang Tang|[Toward Degree Bias in Embedding-Based Knowledge Graph Completion](http://arxiv.org/abs/2302.05044v1)|2023-02-10 04:14:45+00:00|10-02-2023
+Zheng Cai|[Near-Optimal Experimental Design Under the Budget Constraint in Online   Platforms](http://arxiv.org/abs/2302.05005v1)|2023-02-10 01:24:52+00:00|10-02-2023
+Armaan Singh Bhullar|[Augmenting NLP data to counter Annotation Artifacts for NLI Tasks](http://arxiv.org/abs/2302.04700v1)|2023-02-09 15:34:53+00:00|09-02-2023
+Julia Stoyanovich|[On Fairness and Stability: Is Estimator Variance a Friend or a Foe?](http://arxiv.org/abs/2302.04525v1)|2023-02-09 09:35:36+00:00|09-02-2023
+Robert B. Fisher|[A General Mobile Manipulator Automation Framework for Flexible   Manufacturing in Hostile Industrial Environments](http://arxiv.org/abs/2302.04486v1)|2023-02-09 08:17:38+00:00|09-02-2023
+Weizhan Zhang|[Towards Fairer and More Efficient Federated Learning via   Multidimensional Personalized Edge Models](http://arxiv.org/abs/2302.04464v1)|2023-02-09 06:55:19+00:00|09-02-2023
+Ioannis G. Kevrekidis|[Gentlest ascent dynamics on manifolds defined by adaptively sampled   point-clouds](http://arxiv.org/abs/2302.04426v1)|2023-02-09 03:40:18+00:00|09-02-2023
+Ekaterina Gracheva|[Light and Accurate: Neural Architecture Search via Two Constant Shared   Weights Initialisations](http://arxiv.org/abs/2302.04406v1)|2023-02-09 02:25:38+00:00|09-02-2023
+Hamed Tabkhi|[Understanding Policy and Technical Aspects of AI-Enabled Smart Video   Surveillance to Address Public Safety](http://arxiv.org/abs/2302.04310v1)|2023-02-08 19:54:35+00:00|08-02-2023
+Sergei V. Kalinin|[Combining Variational Autoencoders and Physical Bias for Improved   Microscopy Data Analysis](http://arxiv.org/abs/2302.04216v1)|2023-02-08 17:35:38+00:00|08-02-2023
+Adriano Koshiyama|[Local Law 144: A Critical Analysis of Regression Metrics](http://arxiv.org/abs/2302.04119v1)|2023-02-08 15:21:14+00:00|08-02-2023
+Robert C Williamson|[On the Richness of Calibration](http://arxiv.org/abs/2302.04118v1)|2023-02-08 15:19:46+00:00|08-02-2023
+Laurent Oudre|[ASTRIDE: Adaptive Symbolization for Time Series Databases](http://arxiv.org/abs/2302.04097v1)|2023-02-08 14:46:24+00:00|08-02-2023
+Wenqi Wei|[Machine Learning for Synthetic Data Generation: a Review](http://arxiv.org/abs/2302.04062v1)|2023-02-08 13:59:31+00:00|08-02-2023
+Yuan Fang|[On Generalized Degree Fairness in Graph Neural Networks](http://arxiv.org/abs/2302.03881v1)|2023-02-08 05:00:37+00:00|08-02-2023
+Aleksandra Korolova|[Fairness in Matching under Uncertainty](http://arxiv.org/abs/2302.03810v1)|2023-02-08 00:30:32+00:00|08-02-2023
+Denys Poshyvanyk|[Toward a Theory of Causation for Interpreting Neural Code Models](http://arxiv.org/abs/2302.03788v1)|2023-02-07 22:56:58+00:00|07-02-2023
+Teodor V. Marinov|[Leveraging User-Triggered Supervision in Contextual Bandits](http://arxiv.org/abs/2302.03784v1)|2023-02-07 22:42:27+00:00|07-02-2023
+Guha Balakrishnan|[Towards causally linking architectural parametrizations to algorithmic   bias in neural networks](http://arxiv.org/abs/2302.03750v1)|2023-02-07 20:55:09+00:00|07-02-2023
+Ziwei Liu|[Deep Class-Incremental Learning: A Survey](http://arxiv.org/abs/2302.03648v1)|2023-02-07 17:59:05+00:00|07-02-2023
+Alice Xiang|[Ethical Considerations for Collecting Human-Centric Image Datasets](http://arxiv.org/abs/2302.03629v1)|2023-02-07 17:33:00+00:00|07-02-2023
+Sung Ju Hwang|[Graph Generation with Destination-Driven Diffusion Mixture](http://arxiv.org/abs/2302.03596v1)|2023-02-07 17:07:46+00:00|07-02-2023
+Daniel E. Rigobon|[From Utilitarian to Rawlsian Designs for Algorithmic Fairness](http://arxiv.org/abs/2302.03567v1)|2023-02-07 16:28:10+00:00|07-02-2023
+Sophia Ananiadou|[Cluster-Level Contrastive Learning for Emotion Recognition in   Conversations](http://arxiv.org/abs/2302.03508v1)|2023-02-07 14:49:20+00:00|07-02-2023
+Xiaoyun Li|[OPORP: One Permutation + One Random Projection](http://arxiv.org/abs/2302.03505v1)|2023-02-07 14:45:34+00:00|07-02-2023
+Rada Mihalcea|[Natural Language Processing for Policymaking](http://arxiv.org/abs/2302.03490v1)|2023-02-07 14:34:39+00:00|07-02-2023
+Bat-hen Nahmias-Biran|[A Bayesian Optimization approach for calibrating large-scale   activity-based transport models](http://arxiv.org/abs/2302.03480v1)|2023-02-07 14:09:41+00:00|07-02-2023
+Setareh Maghsudi|[Robustness Implies Fairness in Causal Algorithmic Recourse](http://arxiv.org/abs/2302.03465v2)|2023-02-11 12:03:04+00:00|07-02-2023
+Kacper Sokol|[Mind the Gap! Bridging Explainable Artificial Intelligence and Human   Understanding with Luhmann's Functional Theory of Communication](http://arxiv.org/abs/2302.03460v1)|2023-02-07 13:31:02+00:00|07-02-2023
+Simon Engelke|[Machine learning benchmarks for the classification of equivalent circuit   models from solid-state electrochemical impedance spectra](http://arxiv.org/abs/2302.03362v1)|2023-02-07 10:08:35+00:00|07-02-2023
+Dominik Kowald|[A conceptual model for leaving the data-centric approach in machine   learning](http://arxiv.org/abs/2302.03361v1)|2023-02-07 10:06:48+00:00|07-02-2023
+Dilek Hakkani-Tur|[PLACES: Prompting Language Models for Social Conversation Synthesis](http://arxiv.org/abs/2302.03269v2)|2023-02-08 02:33:46+00:00|07-02-2023
+Faen Zhang|[Delving Deep into Simplicity Bias for Long-Tailed Image Recognition](http://arxiv.org/abs/2302.03264v1)|2023-02-07 05:29:38+00:00|07-02-2023
+Lei Li|[Protecting Language Generation Models via Invisible Watermarking](http://arxiv.org/abs/2302.03162v1)|2023-02-06 23:42:03+00:00|06-02-2023
+Oktay Gunluk|[Fair Minimum Representation Clustering](http://arxiv.org/abs/2302.03151v2)|2023-02-08 16:00:33+00:00|06-02-2023
+Shay Cohen|[Erasure of Unaligned Attributes from Neural Representations](http://arxiv.org/abs/2302.02997v1)|2023-02-06 18:32:17+00:00|06-02-2023
+Toru Kitagawa|[Asymptotically Minimax Optimal Fixed-Budget Best Arm Identification for   Expected Simple Regret Minimization](http://arxiv.org/abs/2302.02988v1)|2023-02-06 18:27:11+00:00|06-02-2023
+Joshua A. Kroll|[Concrete Safety for ML Problems: System Safety for ML Development and   Assessment](http://arxiv.org/abs/2302.02972v1)|2023-02-06 18:02:07+00:00|06-02-2023
+Marcus Hutter|[U-Clip: On-Average Unbiased Stochastic Gradient Clipping](http://arxiv.org/abs/2302.02971v1)|2023-02-06 18:01:38+00:00|06-02-2023
+Michael Bronstein|[On Over-Squashing in Message Passing Neural Networks: The Impact of   Width, Depth, and Topology](http://arxiv.org/abs/2302.02941v1)|2023-02-06 17:16:42+00:00|06-02-2023
+Tanmay Chakraborty|[An Empirical Analysis of Fairness Notions under Differential Privacy](http://arxiv.org/abs/2302.02910v1)|2023-02-06 16:29:50+00:00|06-02-2023
+Michael Arbel|[Rethinking Gauss-Newton for learning over-parameterized models](http://arxiv.org/abs/2302.02904v1)|2023-02-06 16:18:48+00:00|06-02-2023
+Michele Santacatterina|[A Fast Bootstrap Algorithm for Causal Inference with Large Data](http://arxiv.org/abs/2302.02859v1)|2023-02-06 15:26:36+00:00|06-02-2023
+Kamil Ciosek|[A Strong Baseline for Batch Imitation Learning](http://arxiv.org/abs/2302.02788v1)|2023-02-06 14:03:33+00:00|06-02-2023
+Alberto Bietti|[The SSL Interplay: Augmentations, Inductive Bias, and Generalization](http://arxiv.org/abs/2302.02774v1)|2023-02-06 13:42:14+00:00|06-02-2023
+Haomiao Wang|[L'explicabilité au service de l'extraction de connaissances :   application à des données médicales](http://arxiv.org/abs/2302.02653v1)|2023-02-06 09:49:58+00:00|06-02-2023
+Andrew Ewing|[Tree-Based Learning on Amperometric Time Series Data Demonstrates High   Accuracy for Classification](http://arxiv.org/abs/2302.02650v1)|2023-02-06 09:44:53+00:00|06-02-2023
+Tsung-Hui Chang|[$z$-SignFedAvg: A Unified Stochastic Sign-based Compression for   Federated Learning](http://arxiv.org/abs/2302.02589v1)|2023-02-06 06:54:49+00:00|06-02-2023
+Ali Borji|[A Categorical Archive of ChatGPT Failures](http://arxiv.org/abs/2302.03494v2)|2023-02-10 01:01:51+00:00|06-02-2023
+Abdoulaye Baniré Diallo|[Prior Density Learning in Variational Bayesian Phylogenetic Parameters   Inference](http://arxiv.org/abs/2302.02522v1)|2023-02-06 01:29:15+00:00|06-02-2023
+Shomir Wilson|[Nationality Bias in Text Generation](http://arxiv.org/abs/2302.02463v2)|2023-02-11 05:03:01+00:00|05-02-2023
+Nidhi Hegde|[FineDeb: A Debiasing Framework for Language Models](http://arxiv.org/abs/2302.02453v1)|2023-02-05 18:35:21+00:00|05-02-2023
+Chris Russell|[The Unfairness of Fair Machine Learning: Levelling down and strict   egalitarianism by default](http://arxiv.org/abs/2302.02404v1)|2023-02-05 15:22:43+00:00|05-02-2023
+Changho Suh|[Improving Fair Training under Correlation Shifts](http://arxiv.org/abs/2302.02323v1)|2023-02-05 07:23:35+00:00|05-02-2023
+Cyrus Shahabi|[Fair Spatial Indexing: A paradigm for Group Spatial Fairness](http://arxiv.org/abs/2302.02306v1)|2023-02-05 05:15:11+00:00|05-02-2023
+Serafim Rodrigues|[Invariants for neural automata](http://arxiv.org/abs/2302.02149v1)|2023-02-04 11:40:40+00:00|04-02-2023
+Devavrat Shah|[Matrix Estimation for Individual Fairness](http://arxiv.org/abs/2302.02096v1)|2023-02-04 05:27:55+00:00|04-02-2023
+
 ## 07-02-2023
 
 main_author|title|update_date|publish_date
