@@ -1,5 +1,18 @@
 # interpretable
 Click on title for link to paper
+## 21-02-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Elvio G. Amparore|[Streamlining models with explanations in the learning loop](http://arxiv.org/abs/2302.07760v1)|2023-02-15 16:08:32+00:00|15-02-2023
+Antonio Torralba|[ConceptFusion: Open-set Multimodal 3D Mapping](http://arxiv.org/abs/2302.07241v2)|2023-02-15 01:49:09+00:00|14-02-2023
+Luis Galárraga|[Effects of Locality and Rule Language on Explanations for Knowledge   Graph Embeddings](http://arxiv.org/abs/2302.06967v1)|2023-02-14 10:50:36+00:00|14-02-2023
+Yun Fu|[Towards Explainable Visual Anomaly Detection](http://arxiv.org/abs/2302.06670v1)|2023-02-13 20:17:41+00:00|13-02-2023
+Lucas Dixon|[Gradient-Based Automated Iterative Recovery for Parameter-Efficient   Tuning](http://arxiv.org/abs/2302.06598v1)|2023-02-13 18:54:58+00:00|13-02-2023
+Akiko Aizawa|[Analyzing the Effectiveness of the Underlying Reasoning Tasks in   Multi-hop Question Answering](http://arxiv.org/abs/2302.05963v1)|2023-02-12 17:32:55+00:00|12-02-2023
+Daniel Schwalbe-Koda|[Data efficiency and extrapolation trends in neural network interatomic   potentials](http://arxiv.org/abs/2302.05823v1)|2023-02-12 00:34:05+00:00|12-02-2023
+Gabriel Moyà-Alcover|[A novel approach to generate datasets with XAI ground truth to evaluate   image models](http://arxiv.org/abs/2302.05624v1)|2023-02-11 08:20:17+00:00|11-02-2023
+
 ## 14-02-2023
 
 main_author|title|update_date|publish_date

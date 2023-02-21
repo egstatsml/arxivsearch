@@ -1,5 +1,38 @@
 # bnn
 Click on title for link to paper
+## 21-02-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Pascal Germain|[PAC-Bayesian Generalization Bounds for Adversarial Generative Models](http://arxiv.org/abs/2302.08942v1)|2023-02-17 15:25:49+00:00|17-02-2023
+Cheng Zhang|[Learnable Topological Features for Phylogenetic Inference via Graph   Neural Networks](http://arxiv.org/abs/2302.08840v1)|2023-02-17 12:26:03+00:00|17-02-2023
+Clinton Fookes|[Piecewise Deterministic Markov Processes for Bayesian Neural Networks](http://arxiv.org/abs/2302.08724v1)|2023-02-17 06:38:16+00:00|17-02-2023
+Aoying Zhou|[Uncertainty-aware Self-training for Low-resource Neural Sequence   Labeling](http://arxiv.org/abs/2302.08659v1)|2023-02-17 02:40:04+00:00|17-02-2023
+Ivo Couckuyt|[Trieste: Efficiently Exploring The Depths of Black-box Functions with   TensorFlow](http://arxiv.org/abs/2302.08436v1)|2023-02-16 17:21:49+00:00|16-02-2023
+Man Ho Ivy Wong|[Reanalyzing L2 Preposition Learning with Bayesian Mixed Effects and a   Large Language Model](http://arxiv.org/abs/2302.08150v1)|2023-02-16 08:54:05+00:00|16-02-2023
+Yitao Liang|[Understanding the Distillation Process from Deep Generative Models to   Tractable Probabilistic Circuits](http://arxiv.org/abs/2302.08086v1)|2023-02-16 04:52:46+00:00|16-02-2023
+Danfeng Sun|[TcGAN: Semantic-Aware and Structure-Preserved GANs with Individual   Vision Transformer for Fast Arbitrary One-Shot Image Generation](http://arxiv.org/abs/2302.08047v1)|2023-02-16 03:05:59+00:00|16-02-2023
+Robert Kohn|[Realized recurrent conditional heteroskedasticity model for volatility   modelling](http://arxiv.org/abs/2302.08002v1)|2023-02-16 00:20:43+00:00|16-02-2023
+Gabriele Vajente|[A Deep Learning Technique to Control the Non-linear Dynamics of a   Gravitational-wave Interferometer](http://arxiv.org/abs/2302.07921v1)|2023-02-15 19:47:56+00:00|15-02-2023
+Andrew Watkins|[SupSiam: Non-contrastive Auxiliary Loss for Learning from Molecular   Conformers](http://arxiv.org/abs/2302.07754v1)|2023-02-15 15:56:23+00:00|15-02-2023
+Jinwoo Shin|[Video Probabilistic Diffusion Models in Projected Latent Space](http://arxiv.org/abs/2302.07685v1)|2023-02-15 14:22:34+00:00|15-02-2023
+Anthony CC Coolen|[Bayesian Federated Inference for Statistical Models](http://arxiv.org/abs/2302.07677v1)|2023-02-15 14:11:20+00:00|15-02-2023
+Tal Kopetz|[Towards Optimal Compression: Joint Pruning and Quantization](http://arxiv.org/abs/2302.07612v1)|2023-02-15 12:02:30+00:00|15-02-2023
+Kwang-Ting Cheng|[Semi-Supervised Deep Regression with Uncertainty Consistency and   Variational Model Ensembling via Bayesian Neural Networks](http://arxiv.org/abs/2302.07579v1)|2023-02-15 10:40:51+00:00|15-02-2023
+Chris Piech|[Bayesian Decision Trees via Tractable Priors and Probabilistic   Context-Free Grammars](http://arxiv.org/abs/2302.07407v1)|2023-02-15 00:17:41+00:00|15-02-2023
+Philipp Hennig|[The Geometry of Neural Nets' Parameter Spaces Under Reparametrization](http://arxiv.org/abs/2302.07384v1)|2023-02-14 22:48:24+00:00|14-02-2023
+Paris Perdikaris|[Scalable Bayesian optimization with high-dimensional outputs using   randomized prior networks](http://arxiv.org/abs/2302.07260v1)|2023-02-14 18:55:21+00:00|14-02-2023
+Chee-Ming Ting|[A Deep Probabilistic Spatiotemporal Framework for Dynamic Graph   Representation Learning with Application to Brain Disorder Identification](http://arxiv.org/abs/2302.07243v2)|2023-02-16 07:10:27+00:00|14-02-2023
+Michael Beetz|[Joint Probability Trees](http://arxiv.org/abs/2302.07167v1)|2023-02-14 16:29:41+00:00|14-02-2023
+Arnaud Rey|[Detecting human and non-human vocal productions in large scale audio   recordings](http://arxiv.org/abs/2302.07640v1)|2023-02-14 14:07:09+00:00|14-02-2023
+C. Chiappini|[Parameters for > 300 million Gaia stars: Bayesian inference vs. machine   learning](http://arxiv.org/abs/2302.06995v1)|2023-02-14 12:04:41+00:00|14-02-2023
+Honggang Wang|[Masked Multi-Step Probabilistic Forecasting for Short-to-Mid-Term   Electricity Demand](http://arxiv.org/abs/2302.06818v1)|2023-02-14 04:09:03+00:00|14-02-2023
+Kristian Kersting|[Probabilistic Circuits That Know What They Don't Know](http://arxiv.org/abs/2302.06544v2)|2023-02-17 06:41:44+00:00|13-02-2023
+Anqi Liu|[Density-Softmax: Scalable and Distance-Aware Uncertainty Estimation   under Distribution Shifts](http://arxiv.org/abs/2302.06495v1)|2023-02-13 16:21:03+00:00|13-02-2023
+Arno Solin|[Fixing Overconfidence in Dynamic Neural Networks](http://arxiv.org/abs/2302.06359v1)|2023-02-13 13:45:50+00:00|13-02-2023
+Edmund Lau|[Variational Bayesian Neural Networks via Resolution of Singularities](http://arxiv.org/abs/2302.06035v1)|2023-02-13 00:32:49+00:00|13-02-2023
+Jie Chen|[Graph Neural Network-Inspired Kernels for Gaussian Processes in   Semi-Supervised Learning](http://arxiv.org/abs/2302.05828v1)|2023-02-12 01:07:56+00:00|12-02-2023
+
 ## 14-02-2023
 
 main_author|title|update_date|publish_date
