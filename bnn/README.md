@@ -1,5 +1,42 @@
 # bnn
 Click on title for link to paper
+## 28-02-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Daniel Hernández-Lobato|[Variational Linearized Laplace Approximation for Bayesian Deep Learning](http://arxiv.org/abs/2302.12565v1)|2023-02-24 10:32:30+00:00|24-02-2023
+Felix Fritzen|[Hybrid machine-learned homogenization: Bayesian data mining and   convolutional neural networks](http://arxiv.org/abs/2302.12545v1)|2023-02-24 09:59:29+00:00|24-02-2023
+Jonathan H. Huggins|[A Targeted Accuracy Diagnostic for Variational Approximations](http://arxiv.org/abs/2302.12419v1)|2023-02-24 02:50:18+00:00|24-02-2023
+Kiri L. Wagstaff|[Cosmic Microwave Background Recovery: A Graph-Based Bayesian   Convolutional Network Approach](http://arxiv.org/abs/2302.12378v1)|2023-02-24 00:49:43+00:00|24-02-2023
+Qifeng Liao|[Streaming probabilistic tensor train decomposition](http://arxiv.org/abs/2302.12148v1)|2023-02-23 16:32:31+00:00|23-02-2023
+Robert Peharz|[Bayesian Structure Scores for Probabilistic Circuits](http://arxiv.org/abs/2302.12130v1)|2023-02-23 16:12:19+00:00|23-02-2023
+Eng Siong Chng|[Metric-oriented Speech Enhancement using Diffusion Probabilistic Model](http://arxiv.org/abs/2302.11989v1)|2023-02-23 13:12:35+00:00|23-02-2023
+Michael Bohlke-Schneider|[Adaptive Sampling for Probabilistic Forecasting under Distribution Shift](http://arxiv.org/abs/2302.11870v1)|2023-02-23 09:16:54+00:00|23-02-2023
+Saibal Mukhopadhyay|[Heterogeneous Neuronal and Synaptic Dynamics for Spike-Efficient   Unsupervised Learning: Theory and Design Principles](http://arxiv.org/abs/2302.11618v1)|2023-02-22 19:48:02+00:00|22-02-2023
+Jinglai Li|[VI-DGP: A variational inference method with deep generative prior for   solving high-dimensional inverse problems](http://arxiv.org/abs/2302.11173v1)|2023-02-22 06:48:10+00:00|22-02-2023
+Petros Koumoutsakos|[Learning from Predictions: Fusing Training and Autoregressive Inference   for Long-Term Spatiotemporal Forecasts](http://arxiv.org/abs/2302.11101v1)|2023-02-22 02:46:54+00:00|22-02-2023
+Tian Guo|[Learning Mixture Structure on Multi-Source Time Series for Probabilistic   Forecasting](http://arxiv.org/abs/2302.11078v1)|2023-02-22 00:51:44+00:00|22-02-2023
+Zeynep Akata|[Posterior Annealing: Fast Calibrated Uncertainty for Regression](http://arxiv.org/abs/2302.11012v1)|2023-02-21 21:24:35+00:00|21-02-2023
+Sergio Lucia|[Improved uncertainty quantification for neural networks with Bayesian   last layer](http://arxiv.org/abs/2302.10975v1)|2023-02-21 20:23:56+00:00|21-02-2023
+Gianluigi Pillonetto|[Dealing with Collinearity in Large-Scale Linear System Identification   Using Gaussian Regression](http://arxiv.org/abs/2302.10959v1)|2023-02-21 19:35:47+00:00|21-02-2023
+Artur Bekasov|[Variational Boosted Soft Trees](http://arxiv.org/abs/2302.10706v2)|2023-02-22 14:03:41+00:00|21-02-2023
+Sam Staton|[$ω$PAP Spaces: Reasoning Denotationally About Higher-Order,   Recursive Probabilistic and Differentiable Programs](http://arxiv.org/abs/2302.10636v1)|2023-02-21 12:50:05+00:00|21-02-2023
+Sungsoo Ahn|[Diffusion Probabilistic Models for Graph-Structured Prediction](http://arxiv.org/abs/2302.10506v3)|2023-02-23 11:20:07+00:00|21-02-2023
+Vincent K. N. Lau|[Structured Bayesian Compression for Deep Neural Networks Based on The   Turbo-VBI Approach](http://arxiv.org/abs/2302.10483v1)|2023-02-21 07:12:36+00:00|21-02-2023
+Georgios Paschos|[Solving Recurrent MIPs with Semi-supervised Graph Neural Networks](http://arxiv.org/abs/2302.11992v1)|2023-02-20 15:57:56+00:00|20-02-2023
+Scott A. Sisson|[Free-Form Variational Inference for Gaussian Process State-Space Models](http://arxiv.org/abs/2302.09921v1)|2023-02-20 11:34:16+00:00|20-02-2023
+Ljupčo Todorovski|[Efficient Generator of Mathematical Expressions for Symbolic Regression](http://arxiv.org/abs/2302.09893v1)|2023-02-20 10:40:29+00:00|20-02-2023
+Prasanna Balaprakash|[Quantifying uncertainty for deep learning based forecasting and   flow-reconstruction using neural architecture search ensembles](http://arxiv.org/abs/2302.09748v1)|2023-02-20 03:57:06+00:00|20-02-2023
+Yanjie Fu|[PriSTI: A Conditional Diffusion Framework for Spatiotemporal Imputation](http://arxiv.org/abs/2302.09746v1)|2023-02-20 03:52:53+00:00|20-02-2023
+Insup Lee|[Imprecise Bayesian Neural Networks](http://arxiv.org/abs/2302.09656v1)|2023-02-19 19:03:26+00:00|19-02-2023
+Yunpeng Li|[An overview of differentiable particle filters for data-adaptive   sequential Bayesian inference](http://arxiv.org/abs/2302.09639v1)|2023-02-19 18:03:53+00:00|19-02-2023
+Ivor W. Tsang|[Latent Class-Conditional Noise Model](http://arxiv.org/abs/2302.09595v1)|2023-02-19 15:24:37+00:00|19-02-2023
+Ethan Fetaya|[Guided Deep Kernel Learning](http://arxiv.org/abs/2302.09574v1)|2023-02-19 13:37:34+00:00|19-02-2023
+Yoshua Bengio|[Stochastic Generative Flow Networks](http://arxiv.org/abs/2302.09465v1)|2023-02-19 03:19:40+00:00|19-02-2023
+Wen Sun|[Distributional Offline Policy Evaluation with Predictive Error   Guarantees](http://arxiv.org/abs/2302.09456v1)|2023-02-19 02:11:22+00:00|19-02-2023
+Bani Mallick|[Calibrating the Rigged Lottery: Making All Tickets Reliable](http://arxiv.org/abs/2302.09369v1)|2023-02-18 15:53:55+00:00|18-02-2023
+Jun Lu|[Bayesian Matrix Decomposition and Applications](http://arxiv.org/abs/2302.11337v1)|2023-02-18 07:40:03+00:00|18-02-2023
+
 ## 21-02-2023
 
 main_author|title|update_date|publish_date

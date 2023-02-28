@@ -1,5 +1,17 @@
 # interpretable
 Click on title for link to paper
+## 28-02-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Marzyeh Ghassemi|[Change is Hard: A Closer Look at Subpopulation Shift](http://arxiv.org/abs/2302.12254v1)|2023-02-23 18:59:56+00:00|23-02-2023
+Adriano Koshiyama|[Local and Global Explainability Metrics for Machine Learning Predictions](http://arxiv.org/abs/2302.12094v1)|2023-02-23 15:28:36+00:00|23-02-2023
+Jürgen Beyerer|[Effects of Architectures on Continual Semantic Segmentation](http://arxiv.org/abs/2302.10718v1)|2023-02-21 15:12:01+00:00|21-02-2023
+Katrien Verbert|[Directive Explanations for Monitoring the Risk of Diabetes Onset:   Introducing Directive Data-Centric Explanations and Combinations to Support   What-If Explorations](http://arxiv.org/abs/2302.10671v1)|2023-02-21 13:40:16+00:00|21-02-2023
+Kayhan Batmanghelich|[Route, Interpret, Repeat: Blurring the Line Between Post hoc   Explainability and Interpretable Models](http://arxiv.org/abs/2302.10289v1)|2023-02-20 20:25:41+00:00|20-02-2023
+Lun Wang|[Why Is Public Pretraining Necessary for Private Model Training?](http://arxiv.org/abs/2302.09483v1)|2023-02-19 05:32:20+00:00|19-02-2023
+Jianshu Chen|[Learning Language Representations with Logical Inductive Bias](http://arxiv.org/abs/2302.09458v1)|2023-02-19 02:21:32+00:00|19-02-2023
+
 ## 21-02-2023
 
 main_author|title|update_date|publish_date

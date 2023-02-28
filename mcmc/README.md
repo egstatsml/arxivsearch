@@ -1,5 +1,23 @@
 # mcmc
 Click on title for link to paper
+## 28-02-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Yueyang Teng|[3D PETCT Tumor Lesion Segmentation via GCN Refinement](http://arxiv.org/abs/2302.12571v1)|2023-02-24 10:52:08+00:00|24-02-2023
+Daniel Hernández-Lobato|[Variational Linearized Laplace Approximation for Bayesian Deep Learning](http://arxiv.org/abs/2302.12565v1)|2023-02-24 10:32:30+00:00|24-02-2023
+Tong Zhang|[Active Prompting with Chain-of-Thought for Large Language Models](http://arxiv.org/abs/2302.12246v2)|2023-02-26 15:18:50+00:00|23-02-2023
+P. Rigo|[Active learning for structural reliability analysis with multiple limit   state functions through variance-enhanced PC-Kriging surrogate models](http://arxiv.org/abs/2302.12074v1)|2023-02-23 15:01:06+00:00|23-02-2023
+Cees G. M. Snoek|[Energy-Based Test Sample Adaptation for Domain Generalization](http://arxiv.org/abs/2302.11215v1)|2023-02-22 08:55:09+00:00|22-02-2023
+Wei Zhao|[Prediction of single well production rate in water-flooding oil fields   driven by the fusion of static, temporal and spatial information](http://arxiv.org/abs/2302.11195v1)|2023-02-22 08:10:25+00:00|22-02-2023
+Zhijie Deng|[On Calibrating Diffusion Probabilistic Models](http://arxiv.org/abs/2302.10688v1)|2023-02-21 14:14:40+00:00|21-02-2023
+Holger Voos|[UAV Path Planning Employing MPC- Reinforcement Learning Method for   search and rescue mission](http://arxiv.org/abs/2302.10669v1)|2023-02-21 13:39:40+00:00|21-02-2023
+Yang Song|[Multimodal Trajectory Prediction: A Survey](http://arxiv.org/abs/2302.10463v1)|2023-02-21 06:11:08+00:00|21-02-2023
+Scott A. Sisson|[Free-Form Variational Inference for Gaussian Process State-Space Models](http://arxiv.org/abs/2302.09921v1)|2023-02-20 11:34:16+00:00|20-02-2023
+Ivor W. Tsang|[Latent Class-Conditional Noise Model](http://arxiv.org/abs/2302.09595v1)|2023-02-19 15:24:37+00:00|19-02-2023
+Yoshua Bengio|[Stochastic Generative Flow Networks](http://arxiv.org/abs/2302.09465v1)|2023-02-19 03:19:40+00:00|19-02-2023
+Brendan O'Donoghue|[Efficient exploration via epistemic-risk-seeking policy optimization](http://arxiv.org/abs/2302.09339v1)|2023-02-18 14:13:25+00:00|18-02-2023
+
 ## 21-02-2023
 
 main_author|title|update_date|publish_date
