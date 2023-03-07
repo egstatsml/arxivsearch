@@ -1,5 +1,21 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
+Pheng-Ann Heng|[Uncertainty Estimation by Fisher Information-based Evidential Deep   Learning](http://arxiv.org/abs/2303.02045v1)|2023-03-03 16:12:59+00:00|03-03-2023
+Carsten Marr|[Active Learning Enhances Classification of Histopathology Whole Slide   Images with Attention-based Multiple Instance Learning](http://arxiv.org/abs/2303.01342v1)|2023-03-02 15:18:58+00:00|02-03-2023
+Bo Du|[Token Contrast for Weakly-Supervised Semantic Segmentation](http://arxiv.org/abs/2303.01267v1)|2023-03-02 13:51:58+00:00|02-03-2023
+Christian Walder|[R-U-SURE? Uncertainty-Aware Code Suggestions By Maximizing Utility   Across Random User Intents](http://arxiv.org/abs/2303.00732v1)|2023-03-01 18:46:40+00:00|01-03-2023
+Sylvia Frühwirth-Schnatter|[Generalized Cumulative Shrinkage Process Priors with Applications to   Sparse Bayesian Factor Analysis](http://arxiv.org/abs/2303.00473v1)|2023-03-01 12:57:32+00:00|01-03-2023
+Henry Kvinge|[Robustness of edited neural networks](http://arxiv.org/abs/2303.00046v1)|2023-02-28 19:41:37+00:00|28-02-2023
+Zheng Zhang|[Particle-based Online Bayesian Sampling](http://arxiv.org/abs/2302.14796v1)|2023-02-28 17:46:32+00:00|28-02-2023
+Christopher S. A. Lauria|[Maximum Likelihood With a Time Varying Parameter](http://arxiv.org/abs/2302.14529v1)|2023-02-28 12:40:42+00:00|28-02-2023
+Dongheui Lee|[Can We Use Diffusion Probabilistic Models for 3D Motion Prediction?](http://arxiv.org/abs/2302.14503v1)|2023-02-28 11:34:55+00:00|28-02-2023
+Guy Van den Broeck|[Mixtures of All Trees](http://arxiv.org/abs/2302.14202v1)|2023-02-27 23:37:03+00:00|27-02-2023
+Morteza Hashemi|[Combating Uncertainties in Wind and Distributed PV Energy Sources Using   Integrated Reinforcement Learning and Time-Series Forecasting](http://arxiv.org/abs/2302.14094v1)|2023-02-27 19:12:50+00:00|27-02-2023
+Adam Foster|[CO-BED: Information-Theoretic Contextual Optimization via Bayesian   Experimental Design](http://arxiv.org/abs/2302.14015v1)|2023-02-27 18:14:13+00:00|27-02-2023
+Samira Shabanian|[Systematic Rectification of Language Models via Dead-end Analysis](http://arxiv.org/abs/2302.14003v1)|2023-02-27 17:47:53+00:00|27-02-2023
+Ruben Loaiza-Maya|[Natural Gradient Hybrid Variational Inference with Application to Deep   Mixed Models](http://arxiv.org/abs/2302.13536v1)|2023-02-27 06:24:20+00:00|27-02-2023
+Tao Shu|[Dynamic Resource Allocation for Metaverse Applications with Deep   Reinforcement Learning](http://arxiv.org/abs/2302.13445v1)|2023-02-27 00:30:01+00:00|27-02-2023
+---|---|---|---
 Yueyang Teng|[3D PETCT Tumor Lesion Segmentation via GCN Refinement](http://arxiv.org/abs/2302.12571v1)|2023-02-24 10:52:08+00:00|24-02-2023
 Daniel Hernández-Lobato|[Variational Linearized Laplace Approximation for Bayesian Deep Learning](http://arxiv.org/abs/2302.12565v1)|2023-02-24 10:32:30+00:00|24-02-2023
 Tong Zhang|[Active Prompting with Chain-of-Thought for Large Language Models](http://arxiv.org/abs/2302.12246v2)|2023-02-26 15:18:50+00:00|23-02-2023

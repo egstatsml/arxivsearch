@@ -1,5 +1,30 @@
 # bnn
 Click on title for link to paper
+## 07-03-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Pheng-Ann Heng|[Uncertainty Estimation by Fisher Information-based Evidential Deep   Learning](http://arxiv.org/abs/2303.02045v1)|2023-03-03 16:12:59+00:00|03-03-2023
+Xiahai Zhuang|[BayeSeg: Bayesian Modeling for Medical Image Segmentation with   Interpretable Generalizability](http://arxiv.org/abs/2303.01710v1)|2023-03-03 04:48:37+00:00|03-03-2023
+Sunil Gupta|[Neural-BO: A Black-box Optimization Algorithm using Deep Neural Networks](http://arxiv.org/abs/2303.01682v1)|2023-03-03 02:53:56+00:00|03-03-2023
+Kehinde Olobatuyi|[Variational EP with Probabilistic Backpropagation for Bayesian Neural   Networks](http://arxiv.org/abs/2303.01540v1)|2023-03-02 19:09:47+00:00|02-03-2023
+Bamdad Hosseini|[Bayesian Posterior Perturbation Analysis with Integral Probability   Metrics](http://arxiv.org/abs/2303.01512v1)|2023-03-02 12:59:41+00:00|02-03-2023
+Andreas Krause|[Hallucinated Adversarial Control for Conservative Offline Policy   Evaluation](http://arxiv.org/abs/2303.01076v1)|2023-03-02 08:57:35+00:00|02-03-2023
+Nick Barnes|[Transmission-Guided Bayesian Generative Model for Smoke Segmentation](http://arxiv.org/abs/2303.00900v1)|2023-03-02 01:48:05+00:00|02-03-2023
+Sylvia Richardson|[Bayesian outcome-guided multi-view mixture models with applications in   molecular precision medicine](http://arxiv.org/abs/2303.00318v1)|2023-03-01 08:32:23+00:00|01-03-2023
+Zheng Zhang|[Particle-based Online Bayesian Sampling](http://arxiv.org/abs/2302.14796v1)|2023-02-28 17:46:32+00:00|28-02-2023
+Martin S. Krejca|[Estimation-of-Distribution Algorithms for Multi-Valued Decision   Variables](http://arxiv.org/abs/2302.14420v1)|2023-02-28 08:52:40+00:00|28-02-2023
+Guy Van den Broeck|[Semantic Strengthening of Neuro-Symbolic Learning](http://arxiv.org/abs/2302.14207v1)|2023-02-28 00:04:22+00:00|28-02-2023
+Guy Van den Broeck|[Mixtures of All Trees](http://arxiv.org/abs/2302.14202v1)|2023-02-27 23:37:03+00:00|27-02-2023
+Adam Foster|[CO-BED: Information-Theoretic Contextual Optimization via Bayesian   Experimental Design](http://arxiv.org/abs/2302.14015v1)|2023-02-27 18:14:13+00:00|27-02-2023
+Urszula Chajewska|[Neural Graph Revealers](http://arxiv.org/abs/2302.13582v2)|2023-02-28 06:02:56+00:00|27-02-2023
+Wei Zhang|[Joint Task and Data Oriented Semantic Communications: A Deep Separate   Source-channel Coding Scheme](http://arxiv.org/abs/2302.13580v1)|2023-02-27 08:34:37+00:00|27-02-2023
+Wan-Jian Yin|[Global optimization in the discrete and variable-dimension   conformational space: The case of crystal with the strongest atomic cohesion](http://arxiv.org/abs/2302.13537v1)|2023-02-27 06:26:09+00:00|27-02-2023
+Ruben Loaiza-Maya|[Natural Gradient Hybrid Variational Inference with Application to Deep   Mixed Models](http://arxiv.org/abs/2302.13536v1)|2023-02-27 06:24:20+00:00|27-02-2023
+Zhe Jiang|[A Survey on Uncertainty Quantification Methods for Deep Neural Networks:   An Uncertainty Source Perspective](http://arxiv.org/abs/2302.13425v2)|2023-03-03 22:57:47+00:00|26-02-2023
+Hong Yan|[Robust Cross-domain CT Image Reconstruction via Bayesian Noise   Uncertainty Alignment](http://arxiv.org/abs/2302.13251v1)|2023-02-26 07:10:09+00:00|26-02-2023
+Quanshi Zhang|[Bayesian Neural Networks Tend to Ignore Complex and Sensitive Concepts](http://arxiv.org/abs/2302.13095v1)|2023-02-25 14:56:35+00:00|25-02-2023
+
 ## 28-02-2023
 
 main_author|title|update_date|publish_date
