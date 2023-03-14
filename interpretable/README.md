@@ -1,5 +1,22 @@
 # interpretable
 Click on title for link to paper
+## 14-03-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Yuliang Liu|[New Benchmarks for Accountable Text-based Visual Re-creation](http://arxiv.org/abs/2303.05983v1)|2023-03-10 15:35:11+00:00|10-03-2023
+Liz Sonenberg|[Explaining Model Confidence Using Counterfactuals](http://arxiv.org/abs/2303.05729v1)|2023-03-10 06:22:13+00:00|10-03-2023
+Joaquín Borrego-Díaz|[On the Soundness of XAI in Prognostics and Health Management (PHM)](http://arxiv.org/abs/2303.05517v1)|2023-03-09 13:27:54+00:00|09-03-2023
+Mohammed Bennamoun|[Analysis and Evaluation of Explainable Artificial Intelligence on   Suicide Risk Assessment](http://arxiv.org/abs/2303.06052v1)|2023-03-09 05:11:46+00:00|09-03-2023
+Quoc Khanh Nguyen|[Towards Trust of Explainable AI in Thyroid Nodule Diagnosis](http://arxiv.org/abs/2303.04731v1)|2023-03-08 17:18:13+00:00|08-03-2023
+Andreas Gregoriades|"[""How to make them stay?"" -- Diverse Counterfactual Explanations of   Employee Attrition](http://arxiv.org/abs/2303.04579v1)"|2023-03-08 13:54:57+00:00|08-03-2023
+Houbing Song|[Exploring Adversarial Attacks on Neural Networks: An Explainable   Approach](http://arxiv.org/abs/2303.06032v1)|2023-03-08 07:59:44+00:00|08-03-2023
+Ignasi Cos|[A topological classifier to characterize brain states: When shape   matters more than variance](http://arxiv.org/abs/2303.04231v1)|2023-03-07 20:45:15+00:00|07-03-2023
+Yufei Yu|[Multi-resolution Interpretation and Diagnostics Tool for Natural   Language Classifiers](http://arxiv.org/abs/2303.03542v1)|2023-03-06 22:59:02+00:00|06-03-2023
+Ummar Abbas|[NxPlain: Web-based Tool for Discovery of Latent Concepts](http://arxiv.org/abs/2303.03019v1)|2023-03-06 10:45:24+00:00|06-03-2023
+Leopoldo Bertossi|[Attribution-Scores and Causal Counterfactuals as Explanations in   Artificial Intelligence](http://arxiv.org/abs/2303.02829v1)|2023-03-06 01:46:51+00:00|06-03-2023
+Giorgos Stamou|[Knowledge-Based Counterfactual Queries for Visual Question Answering](http://arxiv.org/abs/2303.02601v1)|2023-03-05 08:00:30+00:00|05-03-2023
+
 ## 07-03-2023
 
 main_author|title|update_date|publish_date

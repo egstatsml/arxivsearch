@@ -1,5 +1,35 @@
 # bnn
 Click on title for link to paper
+## 14-03-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Ali H. Sayed|[On the Fusion Strategies for Federated Decision Making](http://arxiv.org/abs/2303.06109v1)|2023-03-10 17:57:40+00:00|10-03-2023
+Joshua B. Tenenbaum|[Tactile-Filter: Interactive Tactile Perception for Part Mating](http://arxiv.org/abs/2303.06034v1)|2023-03-10 16:27:37+00:00|10-03-2023
+Uwe Stilla|[Combining visibility analysis and deep learning for refinement of   semantic 3D building models by conflict classification](http://arxiv.org/abs/2303.05998v1)|2023-03-10 16:01:30+00:00|10-03-2023
+Concha Bielza|[Classifying the evolution of COVID-19 severity on patients with combined   dynamic Bayesian networks and neural networks](http://arxiv.org/abs/2303.05972v1)|2023-03-10 15:05:32+00:00|10-03-2023
+Gilles Louppe|[Simulation-based Bayesian inference for robotic grasping](http://arxiv.org/abs/2303.05873v1)|2023-03-10 11:56:56+00:00|10-03-2023
+Bennett A. Landman|[Scaling Up 3D Kernels with Bayesian Frequency Re-parameterization for   Medical Image Segmentation](http://arxiv.org/abs/2303.05785v1)|2023-03-10 08:38:34+00:00|10-03-2023
+Sumio Watanabe|[Upper Bound of Real Log Canonical Threshold of Tensor Decomposition and   its Application to Bayesian Inference](http://arxiv.org/abs/2303.05731v1)|2023-03-10 06:31:30+00:00|10-03-2023
+Luigi Acerbi|[Fast post-process Bayesian inference with Sparse Variational Bayesian   Monte Carlo](http://arxiv.org/abs/2303.05263v1)|2023-03-09 13:58:35+00:00|09-03-2023
+Ralf Engbert|[SEAM: An Integrated Activation-Coupled Model of Sentence Processing and   Eye Movements in Reading](http://arxiv.org/abs/2303.05221v1)|2023-03-09 12:50:34+00:00|09-03-2023
+Arto Klami|[Scalable Stochastic Gradient Riemannian Langevin Dynamics in   Non-Diagonal Metrics](http://arxiv.org/abs/2303.05101v1)|2023-03-09 08:20:28+00:00|09-03-2023
+Zafeirios Fountas|[Curvature-Sensitive Predictive Coding with Approximate Laplace Monte   Carlo](http://arxiv.org/abs/2303.04976v1)|2023-03-09 01:29:58+00:00|09-03-2023
+Andreas Maier|[BOSS: Bones, Organs and Skin Shape Model](http://arxiv.org/abs/2303.04923v1)|2023-03-08 22:31:24+00:00|08-03-2023
+Ann O'Shea|[Bayesian Causal Forests for Multivariate Outcomes: Application to Irish   Data From an International Large Scale Education Assessment](http://arxiv.org/abs/2303.04874v1)|2023-03-08 20:30:37+00:00|08-03-2023
+Luc De Readt|[Neural Probabilistic Logic Programming in Discrete-Continuous Domains](http://arxiv.org/abs/2303.04660v1)|2023-03-08 15:27:29+00:00|08-03-2023
+Quanwang Li|[A robust method for reliability updating with equality information using   sequential adaptive importance sampling](http://arxiv.org/abs/2303.04545v1)|2023-03-08 12:55:40+00:00|08-03-2023
+Yinchuan Li|[Federated Learning via Variational Bayesian Inference: Personalization,   Sparsity and Clustering](http://arxiv.org/abs/2303.04345v1)|2023-03-08 02:52:40+00:00|08-03-2023
+Eugene Santos Jr|[Learning the Finer Things: Bayesian Structure Learning at the   Instantiation Level](http://arxiv.org/abs/2303.04339v1)|2023-03-08 02:31:49+00:00|08-03-2023
+Matthias Althoff|[Deep Occupancy-Predictive Representations for Autonomous Driving](http://arxiv.org/abs/2303.04218v1)|2023-03-07 20:21:49+00:00|07-03-2023
+Jinhua Zhao|[Uncertainty Quantification of Spatiotemporal Travel Demand with   Probabilistic Graph Neural Networks](http://arxiv.org/abs/2303.04040v1)|2023-03-07 16:49:46+00:00|07-03-2023
+Kewei Tu|[A Multi-Grained Self-Interpretable Symbolic-Neural Model For   Single/Multi-Labeled Text Classification](http://arxiv.org/abs/2303.02860v1)|2023-03-06 03:25:43+00:00|06-03-2023
+Chi-Ken Lu|[Bayesian inference with finitely wide neural networks](http://arxiv.org/abs/2303.02859v1)|2023-03-06 03:25:30+00:00|06-03-2023
+Lenka Zdeborová|[Expectation consistency for calibration of neural networks](http://arxiv.org/abs/2303.02644v1)|2023-03-05 11:21:03+00:00|05-03-2023
+Can Yang|[MFAI: A Scalable Bayesian Matrix Factorization Approach to Leveraging   Auxiliary Information](http://arxiv.org/abs/2303.02566v1)|2023-03-05 03:26:14+00:00|05-03-2023
+Yingzhen Li|[Calibrating Transformers via Sparse Gaussian Processes](http://arxiv.org/abs/2303.02444v1)|2023-03-04 16:04:17+00:00|04-03-2023
+Uwe D. Hanebeck|[Progressive Bayesian Particle Flows based on Optimal Transport Map   Sequences](http://arxiv.org/abs/2303.02412v1)|2023-03-04 13:12:43+00:00|04-03-2023
+
 ## 07-03-2023
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,27 @@
 # variational
 Click on title for link to paper
+## 14-03-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Gilles Louppe|[Simulation-based Bayesian inference for robotic grasping](http://arxiv.org/abs/2303.05873v1)|2023-03-10 11:56:56+00:00|10-03-2023
+Bennett A. Landman|[Scaling Up 3D Kernels with Bayesian Frequency Re-parameterization for   Medical Image Segmentation](http://arxiv.org/abs/2303.05785v1)|2023-03-10 08:38:34+00:00|10-03-2023
+Stephanie Schuckers|[Presentation Attack Detection with Advanced CNN Models for   Noncontact-based Fingerprint Systems](http://arxiv.org/abs/2303.05459v1)|2023-03-09 18:01:10+00:00|09-03-2023
+Luigi Acerbi|[Fast post-process Bayesian inference with Sparse Variational Bayesian   Monte Carlo](http://arxiv.org/abs/2303.05263v1)|2023-03-09 13:58:35+00:00|09-03-2023
+Arto Klami|[Scalable Stochastic Gradient Riemannian Langevin Dynamics in   Non-Diagonal Metrics](http://arxiv.org/abs/2303.05101v1)|2023-03-09 08:20:28+00:00|09-03-2023
+Rolf Findeisen|[LMI-based Data-Driven Robust Model Predictive Control](http://arxiv.org/abs/2303.04777v1)|2023-03-08 18:20:06+00:00|08-03-2023
+Rolf Findeisen|[Safe Machine-Learning-supported Model Predictive Force and Motion   Control in Robotics](http://arxiv.org/abs/2303.04569v1)|2023-03-08 13:30:02+00:00|08-03-2023
+Houbing Song|[Exploring Adversarial Attacks on Neural Networks: An Explainable   Approach](http://arxiv.org/abs/2303.06032v1)|2023-03-08 07:59:44+00:00|08-03-2023
+Mohammad Emtiyaz Khan|[The Lie-Group Bayesian Learning Rule](http://arxiv.org/abs/2303.04397v1)|2023-03-08 06:14:55+00:00|08-03-2023
+Xia Hu|[Does Synthetic Data Generation of LLMs Help Clinical Text Mining?](http://arxiv.org/abs/2303.04360v1)|2023-03-08 03:56:31+00:00|08-03-2023
+Daniel Kuhn|[New Perspectives on Regularization and Computation in Optimal   Transport-Based Distributionally Robust Optimization](http://arxiv.org/abs/2303.03900v1)|2023-03-07 13:52:32+00:00|07-03-2023
+Zhiyong Liu|[Refined Pseudo labeling for Source-free Domain Adaptive Object Detection](http://arxiv.org/abs/2303.03728v1)|2023-03-07 08:31:42+00:00|07-03-2023
+Irene Teinemaa|[Learning When to Treat Business Processes: Prescriptive Process   Monitoring with Causal Inference and Reinforcement Learning](http://arxiv.org/abs/2303.03572v1)|2023-03-07 00:46:04+00:00|07-03-2023
+Haoyuan Hu|[An Online Algorithm for Chance Constrained Resource Allocation](http://arxiv.org/abs/2303.03254v1)|2023-03-06 16:17:19+00:00|06-03-2023
+Abhinav Valada|[EvCenterNet: Uncertainty Estimation for Object Detection using   Evidential Learning](http://arxiv.org/abs/2303.03037v1)|2023-03-06 11:07:11+00:00|06-03-2023
+Xiaoguang Han|[HairStep: Transfer Synthetic to Real Using Strand and Depth Maps for   Single-View 3D Hair Modeling](http://arxiv.org/abs/2303.02700v1)|2023-03-05 15:28:13+00:00|05-03-2023
+Young-Koo Lee|[RweetMiner: Automatic identification and categorization of help requests   on twitter during disasters](http://arxiv.org/abs/2303.02399v1)|2023-03-04 12:21:45+00:00|04-03-2023
+
 ## 07-03-2023
 
 main_author|title|update_date|publish_date
