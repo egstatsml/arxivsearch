@@ -1,5 +1,58 @@
 # fairness
 Click on title for link to paper
+## 21-03-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Philip Bachman|[Ignorance is Bliss: Robust Control via Information Gating](http://arxiv.org/abs/2303.06121v1)|2023-03-10 18:31:50+00:00|10-03-2023
+Larry Wasserman|[Feature Importance: A Closer Look at Shapley Values and LOCO](http://arxiv.org/abs/2303.05981v1)|2023-03-10 15:32:11+00:00|10-03-2023
+Yongjoo Baek|[Tradeoff of generalization error in unsupervised learning](http://arxiv.org/abs/2303.05718v1)|2023-03-10 05:50:17+00:00|10-03-2023
+Jinhua Zhao|[Fairness-enhancing deep learning for ride-hailing demand prediction](http://arxiv.org/abs/2303.05698v1)|2023-03-10 04:37:14+00:00|10-03-2023
+James Glass|[Logic Against Bias: Textual Entailment Mitigates Stereotypical Sentence   Reasoning](http://arxiv.org/abs/2303.05670v1)|2023-03-10 02:52:13+00:00|10-03-2023
+Du Tran|[Open-world Instance Segmentation: Top-down Learning with Bottom-up   Supervision](http://arxiv.org/abs/2303.05503v1)|2023-03-09 18:55:03+00:00|09-03-2023
+Hamed Tabkhi|[Understanding the Challenges and Opportunities of Pose-based Anomaly   Detection](http://arxiv.org/abs/2303.05463v1)|2023-03-09 18:09:45+00:00|09-03-2023
+Leonid Bogachev|[The joint node degree distribution in the Erdős-Rényi network](http://arxiv.org/abs/2303.05138v1)|2023-03-09 09:46:48+00:00|09-03-2023
+Dan Zhang|[Identification of Systematic Errors of Image Classifiers on Rare   Subgroups](http://arxiv.org/abs/2303.05072v1)|2023-03-09 07:08:25+00:00|09-03-2023
+Xilin Chen|[Diversity-Measurable Anomaly Detection](http://arxiv.org/abs/2303.05047v1)|2023-03-09 05:52:42+00:00|09-03-2023
+Desmond C. Ong|[Using Positive Matching Contrastive Loss with Facial Action Units to   mitigate bias in Facial Expression Recognition](http://arxiv.org/abs/2303.04896v1)|2023-03-08 21:28:02+00:00|08-03-2023
+Caner Hazirbas|[The Casual Conversations v2 Dataset](http://arxiv.org/abs/2303.04838v1)|2023-03-08 19:17:05+00:00|08-03-2023
+Tezcan Ozrazgat-Baslanti|[Clinical Courses of Acute Kidney Injury in Hospitalized Patients: A   Multistate Analysis](http://arxiv.org/abs/2303.06071v1)|2023-03-08 19:06:39+00:00|08-03-2023
+Shota Yasui|[Automatic Debiased Learning from Positive, Unlabeled, and Exposure Data](http://arxiv.org/abs/2303.04797v1)|2023-03-08 18:45:22+00:00|08-03-2023
+Stephan Günnemann|[Ewald-based Long-Range Message Passing for Molecular Graphs](http://arxiv.org/abs/2303.04791v1)|2023-03-08 18:41:27+00:00|08-03-2023
+Eiko Yoneki|[MCTS-GEB: Monte Carlo Tree Search is a Good E-graph Builder](http://arxiv.org/abs/2303.04651v1)|2023-03-08 15:19:27+00:00|08-03-2023
+Quanwang Li|[A robust method for reliability updating with equality information using   sequential adaptive importance sampling](http://arxiv.org/abs/2303.04545v1)|2023-03-08 12:55:40+00:00|08-03-2023
+Vasilis Syrgkanis|[Inference on Optimal Dynamic Policies via Softmax Approximation](http://arxiv.org/abs/2303.04416v1)|2023-03-08 07:42:47+00:00|08-03-2023
+Linjun Zhang|[HappyMap: A Generalized Multi-calibration Method](http://arxiv.org/abs/2303.04379v1)|2023-03-08 05:05:01+00:00|08-03-2023
+Taisuke Kobayashi|[Soft Actor-Critic Algorithm with Truly Inequality Constraint](http://arxiv.org/abs/2303.04356v1)|2023-03-08 03:32:50+00:00|08-03-2023
+Siwen Zhu|[Unbiased Learning to Rank with Biased Continuous Feedback](http://arxiv.org/abs/2303.04335v1)|2023-03-08 02:14:08+00:00|08-03-2023
+Bastian Rieck|[Euler Characteristic Transform Based Topological Loss for Reconstructing   3D Images from Single 2D Slices](http://arxiv.org/abs/2303.05286v1)|2023-03-08 02:12:17+00:00|08-03-2023
+Sakina Hansen|[Causal Dependence Plots for Interpretable Machine Learning](http://arxiv.org/abs/2303.04209v1)|2023-03-07 20:00:42+00:00|07-03-2023
+Mattia Prosperi|[DR-VIDAL -- Doubly Robust Variational Information-theoretic Deep   Adversarial Learning for Counterfactual Prediction and Treatment Effect   Estimation on Real World Data](http://arxiv.org/abs/2303.04201v1)|2023-03-07 19:44:58+00:00|07-03-2023
+Wei Zhu|[On the Implicit Bias of Linear Equivariant Steerable Networks: Margin,   Generalization, and Their Equivalence to Data Augmentation](http://arxiv.org/abs/2303.04198v1)|2023-03-07 19:37:35+00:00|07-03-2023
+Daniel Hsu|[Group conditional validity via multi-group learning](http://arxiv.org/abs/2303.03995v1)|2023-03-07 15:51:03+00:00|07-03-2023
+Yacine Jernite|[The BigScience ROOTS Corpus: A 1.6TB Composite Multilingual Dataset](http://arxiv.org/abs/2303.03915v1)|2023-03-07 14:25:44+00:00|07-03-2023
+Gozde Unal|[GaussianMLR: Learning Implicit Class Significance via Calibrated   Multi-Label Ranking](http://arxiv.org/abs/2303.03907v1)|2023-03-07 14:09:08+00:00|07-03-2023
+Wenjing Zhu|[Multi-Dimensional and Multi-Scale Modeling for Speech Separation   Optimized by Discriminative Learning](http://arxiv.org/abs/2303.03737v1)|2023-03-07 08:53:20+00:00|07-03-2023
+Hangtao Feng|[FIT: Frequency-based Image Translation for Domain Adaptive Object   Detection](http://arxiv.org/abs/2303.03698v1)|2023-03-07 07:30:08+00:00|07-03-2023
+Yufei Yu|[Multi-resolution Interpretation and Diagnostics Tool for Natural   Language Classifiers](http://arxiv.org/abs/2303.03542v1)|2023-03-06 22:59:02+00:00|06-03-2023
+Xia Hu|[Weight Perturbation Can Help Fairness under Distribution Shift](http://arxiv.org/abs/2303.03300v1)|2023-03-06 17:19:23+00:00|06-03-2023
+Shengxuan Ding|[ChatGPT is on the horizon: Could a large language model be all we need   for Intelligent Transportation?](http://arxiv.org/abs/2303.05382v1)|2023-03-06 16:36:17+00:00|06-03-2023
+Tal Arbel|[Evaluating the Fairness of Deep Learning Uncertainty Estimates in   Medical Image Analysis](http://arxiv.org/abs/2303.03242v1)|2023-03-06 16:01:30+00:00|06-03-2023
+Francis Bach|[Convergence Rates for Non-Log-Concave Sampling and Log-Partition   Estimation](http://arxiv.org/abs/2303.03237v1)|2023-03-06 15:53:44+00:00|06-03-2023
+Tomáš Komárek|[Benchmark of Data Preprocessing Methods for Imbalanced Classification](http://arxiv.org/abs/2303.03094v1)|2023-03-06 13:12:43+00:00|06-03-2023
+Fuyuan Hu|[Centroid Distance Distillation for Effective Rehearsal in Continual   Learning](http://arxiv.org/abs/2303.02954v1)|2023-03-06 07:54:37+00:00|06-03-2023
+Weiqiang Wang|[DEDGAT: Dual Embedding of Directed Graph Attention Networks for   Detecting Financial Risk](http://arxiv.org/abs/2303.03933v1)|2023-03-06 07:21:21+00:00|06-03-2023
+Gabrielle Kaili-May Liu|[Perspectives on the Social Impacts of Reinforcement Learning with Human   Feedback](http://arxiv.org/abs/2303.02891v1)|2023-03-06 04:49:38+00:00|06-03-2023
+Bolanle Hafiz Matti|[Adversarial Sampling for Fairness Testing in Deep Neural Network](http://arxiv.org/abs/2303.02874v1)|2023-03-06 03:55:37+00:00|06-03-2023
+Bijendra Kumar|[WADER at SemEval-2023 Task 9: A Weak-labelling framework for Data   augmentation in tExt Regression Tasks](http://arxiv.org/abs/2303.02758v1)|2023-03-05 19:45:42+00:00|05-03-2023
+Yoav Freund|[Active learning using region-based sampling](http://arxiv.org/abs/2303.02721v1)|2023-03-05 17:38:56+00:00|05-03-2023
+Christoph Busch|[Deep Learning in the Field of Biometric Template Protection: An Overview](http://arxiv.org/abs/2303.02715v1)|2023-03-05 17:06:40+00:00|05-03-2023
+Jia Liu|[PRECISION: Decentralized Constrained Min-Max Learning with Low   Communication and Sample Complexities](http://arxiv.org/abs/2303.02532v1)|2023-03-05 00:26:10+00:00|05-03-2023
+Siti Maryam Shamsuddin|[Investigating Group Distributionally Robust Optimization for Deep   Imbalanced Learning: A Case Study of Binary Tabular Data Classification](http://arxiv.org/abs/2303.02505v1)|2023-03-04 21:20:58+00:00|04-03-2023
+Varun Gupta|[MNL-Bandit in non-stationary environments](http://arxiv.org/abs/2303.02504v1)|2023-03-04 21:10:42+00:00|04-03-2023
+Uwe D. Hanebeck|[Progressive Bayesian Particle Flows based on Optimal Transport Map   Sequences](http://arxiv.org/abs/2303.02412v1)|2023-03-04 13:12:43+00:00|04-03-2023
+Shuhan Yuan|[Achieving Counterfactual Fairness for Anomaly Detection](http://arxiv.org/abs/2303.02318v1)|2023-03-04 04:45:12+00:00|04-03-2023
+
 ## 14-03-2023
 
 main_author|title|update_date|publish_date
