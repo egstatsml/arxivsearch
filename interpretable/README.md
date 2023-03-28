@@ -1,5 +1,28 @@
 # interpretable
 Click on title for link to paper
+## 28-03-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Nassir Navab|[Xplainer: From X-Ray Observations to Explainable Zero-Shot Diagnosis](http://arxiv.org/abs/2303.13391v2)|2023-03-27 11:36:12+00:00|23-03-2023
+Ghulam Rasool|[Revisiting the Fragility of Influence Functions](http://arxiv.org/abs/2303.12922v1)|2023-03-22 21:36:56+00:00|22-03-2023
+Quanming Yao|[Logical Expressiveness of Graph Neural Network for Knowledge Graph   Reasoning](http://arxiv.org/abs/2303.12306v1)|2023-03-22 04:49:00+00:00|22-03-2023
+Rongrong Ji|[Solving Oscillation Problem in Post-Training Quantization Through a   Theoretical Perspective](http://arxiv.org/abs/2303.11906v1)|2023-03-21 14:52:52+00:00|21-03-2023
+Kai Fong Ernest Chong|[Abstract Visual Reasoning: An Algebraic Approach for Solving Raven's   Progressive Matrices](http://arxiv.org/abs/2303.11730v1)|2023-03-21 10:34:39+00:00|21-03-2023
+Nitish Shukla|[An Embarrassingly Simple Approach for Wafer Feature Extraction and   Defect Pattern Recognition](http://arxiv.org/abs/2303.11632v1)|2023-03-21 07:00:13+00:00|21-03-2023
+Eric Horvitz|[Capabilities of GPT-4 on Medical Challenge Problems](http://arxiv.org/abs/2303.13375v1)|2023-03-20 16:18:38+00:00|20-03-2023
+Pierre Borgnat|[Studying Limits of Explainability by Integrated Gradients for Gene   Expression Models](http://arxiv.org/abs/2303.11336v1)|2023-03-19 19:54:15+00:00|19-03-2023
+Titus J. Brinker|[Dermatologist-like explainable AI enhances trust and confidence in   diagnosing melanoma](http://arxiv.org/abs/2303.12806v1)|2023-03-17 17:25:55+00:00|17-03-2023
+Przemysław Biecek|[Hospital Length of Stay Prediction Based on Multi-modal Data towards   Trustworthy Human-AI Collaboration in Radiomics](http://arxiv.org/abs/2303.09817v1)|2023-03-17 07:53:18+00:00|17-03-2023
+Wenwen Li|[Explainable GeoAI: Can saliency maps help interpret artificial   intelligence's learning process? An empirical study on natural feature   detection](http://arxiv.org/abs/2303.09660v1)|2023-03-16 21:37:29+00:00|16-03-2023
+Eoin Delaney|[Explaining Groups of Instances Counterfactually for XAI: A Use Case,   Algorithm and User Study for Group-Counterfactuals](http://arxiv.org/abs/2303.09297v1)|2023-03-16 13:16:50+00:00|16-03-2023
+Carsten Marr|[Pixel-Level Explanation of Multiple Instance Learning Models in   Biomedical Single Cell Images](http://arxiv.org/abs/2303.08632v1)|2023-03-15 14:00:11+00:00|15-03-2023
+MohammadMehdi Homayounpour|[Explaining Recommendation System Using Counterfactual Textual   Explanations](http://arxiv.org/abs/2303.11160v1)|2023-03-14 06:45:28+00:00|14-03-2023
+Xiaohui Yuan|[Designing Deep Networks for Scene Recognition](http://arxiv.org/abs/2303.07402v1)|2023-03-13 18:28:06+00:00|13-03-2023
+Roy Schwartz|[Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of   Synthetic and Compositional Images](http://arxiv.org/abs/2303.07274v2)|2023-03-14 21:30:06+00:00|13-03-2023
+Przemyslaw Biecek|[Challenges facing the explainability of age prediction models: case   study for two modalities](http://arxiv.org/abs/2303.06640v1)|2023-03-12 11:51:21+00:00|12-03-2023
+Mingli Song|[Schema Inference for Interpretable Image Classification](http://arxiv.org/abs/2303.06635v1)|2023-03-12 11:23:56+00:00|12-03-2023
+
 ## 21-03-2023
 
 main_author|title|update_date|publish_date

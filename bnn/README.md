@@ -1,5 +1,51 @@
 # bnn
 Click on title for link to paper
+## 28-03-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Arie van Deursen|[Uncovering Energy-Efficient Practices in Deep Learning Training:   Preliminary Steps Towards Green AI](http://arxiv.org/abs/2303.13972v1)|2023-03-24 12:48:21+00:00|24-03-2023
+Robert Kohn|[Particle Mean Field Variational Bayes](http://arxiv.org/abs/2303.13930v1)|2023-03-24 11:38:35+00:00|24-03-2023
+Mehran Safayani|[Clustering based on Mixtures of Sparse Gaussian Processes](http://arxiv.org/abs/2303.13665v1)|2023-03-23 20:44:36+00:00|23-03-2023
+Jeremy Wilkerson|[Return of the RNN: Residual Recurrent Networks for Invertible Sentence   Embeddings](http://arxiv.org/abs/2303.13570v1)|2023-03-23 15:59:06+00:00|23-03-2023
+Bernhard Kainz|[Confidence-Aware and Self-Supervised Image Anomaly Localisation](http://arxiv.org/abs/2303.13227v1)|2023-03-23 12:48:47+00:00|23-03-2023
+Joaquin Vanschoren|[Adaptive Regularization for Class-Incremental Learning](http://arxiv.org/abs/2303.13113v2)|2023-03-24 09:23:37+00:00|23-03-2023
+Masahito Ueda|[The Probabilistic Stability of Stochastic Gradient Descent](http://arxiv.org/abs/2303.13093v1)|2023-03-23 08:17:10+00:00|23-03-2023
+Romann M. Weber|[Controllable Inversion of Black-Box Face-Recognition Models via   Diffusion](http://arxiv.org/abs/2303.13006v1)|2023-03-23 03:02:09+00:00|23-03-2023
+Tao Yang|[Continuous Indeterminate Probability Neural Network](http://arxiv.org/abs/2303.12964v1)|2023-03-23 00:11:17+00:00|23-03-2023
+Andrea Passerini|[Neuro-Symbolic Reasoning Shortcuts: Mitigation Strategies and their   Limitations](http://arxiv.org/abs/2303.12578v1)|2023-03-22 14:03:23+00:00|22-03-2023
+Hongseok Namkoong|[Adaptive Experimentation at Scale: Bayesian Algorithms for Flexible   Batches](http://arxiv.org/abs/2303.11582v1)|2023-03-21 04:17:03+00:00|21-03-2023
+Wen Gao|[Diffusion-Based 3D Human Pose Estimation with Multi-Hypothesis   Aggregation](http://arxiv.org/abs/2303.11579v1)|2023-03-21 04:00:47+00:00|21-03-2023
+Laura Swiler|[Solving High-Dimensional Inverse Problems with Auxiliary Uncertainty via   Operator Learning with Limited Data](http://arxiv.org/abs/2303.11379v1)|2023-03-20 18:29:23+00:00|20-03-2023
+Alessio Del Bue|[Positional Diffusion: Ordering Unordered Sets with Diffusion   Probabilistic Models](http://arxiv.org/abs/2303.11120v1)|2023-03-20 14:01:01+00:00|20-03-2023
+Giovanni Sansavini|[Uncertainty-aware deep learning for digital twin-driven monitoring:   Application to fault detection in power lines](http://arxiv.org/abs/2303.10954v1)|2023-03-20 09:27:58+00:00|20-03-2023
+Kerem Y. Camsari|[Training Deep Boltzmann Networks with Sparse Ising Machines](http://arxiv.org/abs/2303.10728v1)|2023-03-19 18:10:15+00:00|19-03-2023
+Pau Closas|[Dynamical Hyperspectral Unmixing with Variational Recurrent Neural   Networks](http://arxiv.org/abs/2303.10566v1)|2023-03-19 04:51:34+00:00|19-03-2023
+Jacob R. Gardner|[Practical and Matching Gradient Variance Bounds for Black-Box   Variational Bayesian Inference](http://arxiv.org/abs/2303.10472v1)|2023-03-18 19:07:14+00:00|18-03-2023
+Jun Zhao|[Detection of Uncertainty in Exceedance of Threshold (DUET): An   Adversarial Patch Localizer](http://arxiv.org/abs/2303.10291v1)|2023-03-18 00:07:26+00:00|18-03-2023
+Chris McKennan|[A statistical framework for GWAS of high dimensional phenotypes using   summary statistics, with application to metabolite GWAS](http://arxiv.org/abs/2303.10221v1)|2023-03-17 19:33:25+00:00|17-03-2023
+Debdeep Pati|[Robust probabilistic inference via a constrained transport metric](http://arxiv.org/abs/2303.10085v1)|2023-03-17 16:10:06+00:00|17-03-2023
+Jinsong Ouyang|[Posterior Estimation Using Deep Learning: A Simulation Study of   Compartmental Modeling in Dynamic PET](http://arxiv.org/abs/2303.10057v1)|2023-03-17 15:38:11+00:00|17-03-2023
+Mykel J. Kochenderfer|[Inferring Traffic Models in Terminal Airspace from Flight Tracks and   Procedures](http://arxiv.org/abs/2303.09981v1)|2023-03-17 13:58:06+00:00|17-03-2023
+Simon Foster|[Probabilistic relations for modelling epistemic and aleatoric   uncertainty: its semantics and automated reasoning with theorem proving](http://arxiv.org/abs/2303.09692v1)|2023-03-16 23:36:57+00:00|16-03-2023
+Luigi Acerbi|[PyVBMC: Efficient Bayesian inference in Python](http://arxiv.org/abs/2303.09519v1)|2023-03-16 17:37:22+00:00|16-03-2023
+Yoshihide Sawada|[Bayesian Generalization Error in Linear Neural Networks with Concept   Bottleneck Structure and Multitask Formulation](http://arxiv.org/abs/2303.09154v1)|2023-03-16 08:34:56+00:00|16-03-2023
+Yongcheon Na|[Maximum margin learning of t-SPNs for cell classification with filtered   input](http://arxiv.org/abs/2303.09065v3)|2023-03-21 02:15:48+00:00|16-03-2023
+Branislav Kveton|[Only Pay for What Is Uncertain: Variance-Adaptive Thompson Sampling](http://arxiv.org/abs/2303.09033v1)|2023-03-16 02:07:29+00:00|16-03-2023
+Pablo Márquez-Neila|[Stochastic Segmentation with Conditional Categorical Diffusion Models](http://arxiv.org/abs/2303.08888v2)|2023-03-17 14:40:14+00:00|15-03-2023
+Michael Osborne|[Bayesian Quadrature for Neural Ensemble Search](http://arxiv.org/abs/2303.08874v2)|2023-03-17 16:59:46+00:00|15-03-2023
+Ghulam Rasool|[EvalAttAI: A Holistic Approach to Evaluating Attribution Maps in Robust   and Non-Robust Models](http://arxiv.org/abs/2303.08866v1)|2023-03-15 18:33:22+00:00|15-03-2023
+Jinglin Zhang|[ResDiff: Combining CNN and Diffusion Model for Image Super-Resolution](http://arxiv.org/abs/2303.08714v2)|2023-03-16 00:49:27+00:00|15-03-2023
+Daniel Koster|[Hybrid-Physical Probabilistic Forecasting for a Set of Photovoltaic   Systems using Recurrent Neural Networks](http://arxiv.org/abs/2303.08459v1)|2023-03-15 09:03:58+00:00|15-03-2023
+Lilac Atassi|[Generating symbolic music using diffusion models](http://arxiv.org/abs/2303.08385v1)|2023-03-15 06:01:02+00:00|15-03-2023
+John Paisley|[Bayesian Beta-Bernoulli Process Sparse Coding with Deep Neural Networks](http://arxiv.org/abs/2303.08230v1)|2023-03-14 20:50:12+00:00|14-03-2023
+Xueyu Zhu|[Efficient Bayesian Physics Informed Neural Networks for Inverse Problems   via Ensemble Kalman Inversion](http://arxiv.org/abs/2303.07392v1)|2023-03-13 18:15:26+00:00|13-03-2023
+Keith Worden|[Towards risk-informed PBSHM: Populations as hierarchical systems](http://arxiv.org/abs/2303.13533v1)|2023-03-13 15:42:50+00:00|13-03-2023
+Tobias Riedlinger|[Pixel-wise Gradient Uncertainty for Convolutional Neural Networks   applied to Out-of-Distribution Segmentation](http://arxiv.org/abs/2303.06920v1)|2023-03-13 08:37:59+00:00|13-03-2023
+Luc Van Gool|[DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion](http://arxiv.org/abs/2303.06840v1)|2023-03-13 04:06:42+00:00|13-03-2023
+Barbara E. Engelhardt|[Kernel Density Bayesian Inverse Reinforcement Learning](http://arxiv.org/abs/2303.06827v1)|2023-03-13 03:00:03+00:00|13-03-2023
+Shijian Lu|[Regularized Vector Quantization for Tokenized Image Synthesis](http://arxiv.org/abs/2303.06424v1)|2023-03-11 15:20:54+00:00|11-03-2023
+
 ## 21-03-2023
 
 main_author|title|update_date|publish_date

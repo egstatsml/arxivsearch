@@ -1,5 +1,31 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
+Robert Kohn|[Particle Mean Field Variational Bayes](http://arxiv.org/abs/2303.13930v1)|2023-03-24 11:38:35+00:00|24-03-2023
+Tom Vercauteren|[Adaptive Multi-scale Online Likelihood Network for AI-assisted   Interactive Segmentation](http://arxiv.org/abs/2303.13696v1)|2023-03-23 22:20:56+00:00|23-03-2023
+Masahito Ueda|[The Probabilistic Stability of Stochastic Gradient Descent](http://arxiv.org/abs/2303.13093v1)|2023-03-23 08:17:10+00:00|23-03-2023
+Romann M. Weber|[Controllable Inversion of Black-Box Face-Recognition Models via   Diffusion](http://arxiv.org/abs/2303.13006v1)|2023-03-23 03:02:09+00:00|23-03-2023
+Krishnamurthy Dvijotham|[Human Uncertainty in Concept-Based AI Systems](http://arxiv.org/abs/2303.12872v1)|2023-03-22 19:17:57+00:00|22-03-2023
+Khawar Islam|[Deep Learning for Video-based Person Re-Identification: A Survey](http://arxiv.org/abs/2303.11332v1)|2023-03-21 05:50:53+00:00|21-03-2023
+Hongseok Namkoong|[Adaptive Experimentation at Scale: Bayesian Algorithms for Flexible   Batches](http://arxiv.org/abs/2303.11582v1)|2023-03-21 04:17:03+00:00|21-03-2023
+Tao Kong|[Learning to Explore Informative Trajectories and Samples for Embodied   Perception](http://arxiv.org/abs/2303.10936v1)|2023-03-20 08:20:04+00:00|20-03-2023
+Pau Closas|[Dynamical Hyperspectral Unmixing with Variational Recurrent Neural   Networks](http://arxiv.org/abs/2303.10566v1)|2023-03-19 04:51:34+00:00|19-03-2023
+Jacob R. Gardner|[Practical and Matching Gradient Variance Bounds for Black-Box   Variational Bayesian Inference](http://arxiv.org/abs/2303.10472v1)|2023-03-18 19:07:14+00:00|18-03-2023
+Huchuan Lu|[Adaptive Multi-source Predictor for Zero-shot Video Object Segmentation](http://arxiv.org/abs/2303.10383v1)|2023-03-18 10:19:29+00:00|18-03-2023
+Salah Al-Sharhan|[A Data-Driven Model-Reference Adaptive Control Approach Based on   Reinforcement Learning](http://arxiv.org/abs/2303.09994v1)|2023-03-17 14:10:52+00:00|17-03-2023
+Davide Spinello|[An Adaptive Fuzzy Reinforcement Learning Cooperative Approach for the   Autonomous Control of Flock Systems](http://arxiv.org/abs/2303.09946v1)|2023-03-17 13:07:35+00:00|17-03-2023
+Roy S. Smith|[Error Bounds for Kernel-Based Linear System Identification with Unknown   Hyperparameters](http://arxiv.org/abs/2303.09842v1)|2023-03-17 08:52:16+00:00|17-03-2023
+Mingyuan Zhou|[Patch-Token Aligned Bayesian Prompt Learning for Vision-Language Models](http://arxiv.org/abs/2303.09100v1)|2023-03-16 06:09:15+00:00|16-03-2023
+Branislav Kveton|[Only Pay for What Is Uncertain: Variance-Adaptive Thompson Sampling](http://arxiv.org/abs/2303.09033v1)|2023-03-16 02:07:29+00:00|16-03-2023
+Pablo Márquez-Neila|[Stochastic Segmentation with Conditional Categorical Diffusion Models](http://arxiv.org/abs/2303.08888v2)|2023-03-17 14:40:14+00:00|15-03-2023
+Thomas Woodside|[Artificial Influence: An Analysis Of AI-Driven Persuasion](http://arxiv.org/abs/2303.08721v1)|2023-03-15 16:05:11+00:00|15-03-2023
+Sheng-Chieh Dai|[Strong Baseline and Bag of Tricks for COVID-19 Detection of CT Scans](http://arxiv.org/abs/2303.08490v1)|2023-03-15 09:52:28+00:00|15-03-2023
+Yong Xu|[DICNet: Deep Instance-Level Contrastive Network for Double Incomplete   Multi-View Multi-Label Classification](http://arxiv.org/abs/2303.08358v2)|2023-03-23 03:09:11+00:00|15-03-2023
+Christophe G. Lambert|[PULSNAR -- Positive unlabeled learning selected not at random: class   proportion estimation when the SCAR assumption does not hold](http://arxiv.org/abs/2303.08269v1)|2023-03-14 23:16:22+00:00|14-03-2023
+Philippe C. Cattin|[Point Cloud Diffusion Models for Automatic Implant Generation](http://arxiv.org/abs/2303.08061v1)|2023-03-14 16:54:59+00:00|14-03-2023
+Pierre-Jean Meyer|[Reachability Analysis of Neural Networks with Uncertain Parameters](http://arxiv.org/abs/2303.07917v1)|2023-03-14 14:00:32+00:00|14-03-2023
+Shie Mannor|[Twice Regularized Markov Decision Processes: The Equivalence between   Robustness and Regularization](http://arxiv.org/abs/2303.06654v1)|2023-03-12 13:03:28+00:00|12-03-2023
+Shijian Lu|[Regularized Vector Quantization for Tokenized Image Synthesis](http://arxiv.org/abs/2303.06424v1)|2023-03-11 15:20:54+00:00|11-03-2023
+---|---|---|---
 Gilles Louppe|[Simulation-based Bayesian inference for robotic grasping](http://arxiv.org/abs/2303.05873v1)|2023-03-10 11:56:56+00:00|10-03-2023
 Bennett A. Landman|[Scaling Up 3D Kernels with Bayesian Frequency Re-parameterization for   Medical Image Segmentation](http://arxiv.org/abs/2303.05785v1)|2023-03-10 08:38:34+00:00|10-03-2023
 Stephanie Schuckers|[Presentation Attack Detection with Advanced CNN Models for   Noncontact-based Fingerprint Systems](http://arxiv.org/abs/2303.05459v1)|2023-03-09 18:01:10+00:00|09-03-2023
