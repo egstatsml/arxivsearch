@@ -1,5 +1,63 @@
 # fairness
 Click on title for link to paper
+## 04-04-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Uroš Seljak|[Microcanonical Langevin Monte Carlo](http://arxiv.org/abs/2303.18221v1)|2023-03-31 17:24:33+00:00|31-03-2023
+Sebastian Weichwald|[Simple Sorting Criteria Help Find the Causal Order in Additive Noise   Models](http://arxiv.org/abs/2303.18211v1)|2023-03-31 17:05:46+00:00|31-03-2023
+Nishant Ravikumar|[Artificial Intelligence in Ovarian Cancer Histopathology: A Systematic   Review](http://arxiv.org/abs/2303.18005v1)|2023-03-31 12:26:29+00:00|31-03-2023
+Nora Hollenstein|[WebQAmGaze: A Multilingual Webcam Eye-Tracking-While-Reading Dataset](http://arxiv.org/abs/2303.17876v1)|2023-03-31 08:18:30+00:00|31-03-2023
+Jingrui He|[FairGen: Towards Fair Graph Generation](http://arxiv.org/abs/2303.17743v1)|2023-03-30 23:30:42+00:00|30-03-2023
+Frederic Sala|[Mitigating Source Bias for Fairer Weak Supervision](http://arxiv.org/abs/2303.17713v1)|2023-03-30 21:16:44+00:00|30-03-2023
+Alexandra Meliou|[Non-Invasive Fairness in Learning through the Lens of Data Drift](http://arxiv.org/abs/2303.17566v1)|2023-03-30 17:30:42+00:00|30-03-2023
+Elisabeth André|[Gaze-based Attention Recognition for Human-Robot Collaboration](http://arxiv.org/abs/2303.17619v1)|2023-03-30 11:55:38+00:00|30-03-2023
+Omri Azencot|[Multifactor Sequential Disentanglement via Structured Koopman   Autoencoders](http://arxiv.org/abs/2303.17264v1)|2023-03-30 10:01:58+00:00|30-03-2023
+Pedro Bizarro|[Fairness-Aware Data Valuation for Supervised Learning](http://arxiv.org/abs/2303.16963v1)|2023-03-29 18:51:13+00:00|29-03-2023
+Sabine Süsstrunk|[De-coupling and De-positioning Dense Self-supervised Learning](http://arxiv.org/abs/2303.16947v1)|2023-03-29 18:07:25+00:00|29-03-2023
+Luís A. Alexandre|[Are Neural Architecture Search Benchmarks Well Designed? A Deeper Look   Into Operation Importance](http://arxiv.org/abs/2303.16938v1)|2023-03-29 18:03:28+00:00|29-03-2023
+Onno Zoeter|[Correcting for Selection Bias and Missing Response in Regression using   Privileged Information](http://arxiv.org/abs/2303.16800v1)|2023-03-29 15:42:17+00:00|29-03-2023
+Chenguang Zhu|[GPTEval: NLG Evaluation using GPT-4 with Better Human Alignment](http://arxiv.org/abs/2303.16634v1)|2023-03-29 12:46:54+00:00|29-03-2023
+Michael Madaio|[Fairlearn: Assessing and Improving Fairness of AI Systems](http://arxiv.org/abs/2303.16626v1)|2023-03-29 12:28:49+00:00|29-03-2023
+Muhammad Shafique|[Poster: Link between Bias, Node Sensitivity and Long-Tail Distribution   in trained DNNs](http://arxiv.org/abs/2303.16589v2)|2023-04-03 10:42:20+00:00|29-03-2023
+David C Hogg|[Implicit Visual Bias Mitigation by Posterior Estimate Sharpening of a   Bayesian Neural Network](http://arxiv.org/abs/2303.16564v2)|2023-03-30 09:50:43+00:00|29-03-2023
+Hyunjoon An|[Self-accumulative Vision Transformer for Bone Age Assessment Using the   Sauvegrain Method](http://arxiv.org/abs/2303.16557v2)|2023-03-30 05:14:12+00:00|29-03-2023
+Ziyue Xu|[Fair Federated Medical Image Segmentation via Client Contribution   Estimation](http://arxiv.org/abs/2303.16520v1)|2023-03-29 08:21:54+00:00|29-03-2023
+Jason Su|[Problems and shortcuts in deep learning for screening mammography](http://arxiv.org/abs/2303.16417v1)|2023-03-29 02:50:59+00:00|29-03-2023
+Michael D. Smith|[A Perspectival Mirror of the Elephant: Investigating Language Bias on   Google, ChatGPT, Wikipedia, and YouTube](http://arxiv.org/abs/2303.16281v1)|2023-03-28 19:49:58+00:00|28-03-2023
+Maarten Sap|[Towards Countering Essentialism through Social Bias Reasoning](http://arxiv.org/abs/2303.16173v1)|2023-03-28 17:34:59+00:00|28-03-2023
+Man-wai Mak|[Cluster-Guided Unsupervised Domain Adaptation for Deep Speaker Embedding](http://arxiv.org/abs/2303.15944v1)|2023-03-28 12:58:08+00:00|28-03-2023
+Mikel Galar|[Metrics for Dataset Demographic Bias: A Case Study on Facial Expression   Recognition](http://arxiv.org/abs/2303.15889v1)|2023-03-28 11:04:18+00:00|28-03-2023
+Vivek Kumar Singh|[Exploring Deep Learning Methods for Classification of SAR Images:   Towards NextGen Convolutions via Transformers](http://arxiv.org/abs/2303.15852v1)|2023-03-28 09:43:58+00:00|28-03-2023
+Aasa Feragen|[That Label's Got Style: Handling Label Style Bias for Uncertain Image   Segmentation](http://arxiv.org/abs/2303.15850v1)|2023-03-28 09:43:16+00:00|28-03-2023
+Tomer Peleg|[Make the Most Out of Your Net: Alternating Between Canonical and Hard   Datasets for Improved Image Demosaicing](http://arxiv.org/abs/2303.15792v1)|2023-03-28 07:57:34+00:00|28-03-2023
+Sumio Watanabe|[Bayesian Free Energy of Deep ReLU Neural Network in Overparametrized   Cases](http://arxiv.org/abs/2303.15739v1)|2023-03-28 05:27:32+00:00|28-03-2023
+Percy Liang|[Foundation Models and Fair Use](http://arxiv.org/abs/2303.15715v1)|2023-03-28 03:58:40+00:00|28-03-2023
+Jiebo Luo|[Bias or Diversity? Unraveling Semantic Discrepancy in U.S. News   Headlines](http://arxiv.org/abs/2303.15708v1)|2023-03-28 03:31:37+00:00|28-03-2023
+E. Madenci|[Multiphysics discovery with moving boundaries using Ensemble SINDy and   Peridynamic Differential Operator](http://arxiv.org/abs/2303.15631v1)|2023-03-27 23:05:21+00:00|27-03-2023
+Ricardo Baeza-Yates|[Uncovering Bias in Personal Informatics](http://arxiv.org/abs/2303.15592v1)|2023-03-27 20:49:42+00:00|27-03-2023
+Fahim Kawsar|[Beyond Accuracy: A Critical Review of Fairness in Machine Learning for   Mobile and Wearable Computing](http://arxiv.org/abs/2303.15585v1)|2023-03-27 20:28:26+00:00|27-03-2023
+Peter A. N. Bosman|[The Impact of Asynchrony on Parallel Model-Based EAs](http://arxiv.org/abs/2303.15543v1)|2023-03-27 18:49:22+00:00|27-03-2023
+Manmohan Chandraker|[GeoNet: Benchmarking Unsupervised Adaptation across Geographies](http://arxiv.org/abs/2303.15443v1)|2023-03-27 17:59:34+00:00|27-03-2023
+Fernando De la Torre|[Zero-shot Model Diagnosis](http://arxiv.org/abs/2303.15441v1)|2023-03-27 17:59:33+00:00|27-03-2023
+Teddy Furon|[The Stable Signature: Rooting Watermarks in Latent Diffusion Models](http://arxiv.org/abs/2303.15435v1)|2023-03-27 17:57:33+00:00|27-03-2023
+Seungryong Kim|[Debiasing Scores and Prompts of 2D Diffusion for Robust Text-to-3D   Generation](http://arxiv.org/abs/2303.15413v1)|2023-03-27 17:31:13+00:00|27-03-2023
+Oya Beyan|[PADME-SoSci: A Platform for Analytics and Distributed Machine Learning   for the Social Sciences](http://arxiv.org/abs/2303.18200v2)|2023-04-03 07:27:28+00:00|27-03-2023
+Priyank Jaini|[Text-to-Image Diffusion Models are Zero-Shot Classifiers](http://arxiv.org/abs/2303.15233v1)|2023-03-27 14:15:17+00:00|27-03-2023
+Donglin Wang|[Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot   Learning](http://arxiv.org/abs/2303.15230v1)|2023-03-27 14:10:26+00:00|27-03-2023
+Zilei Wang|[SimpleNet: A Simple Network for Image Anomaly Detection and Localization](http://arxiv.org/abs/2303.15140v2)|2023-03-28 04:02:01+00:00|27-03-2023
+Venkatesh Ravichandran|[Cross-utterance ASR Rescoring with Graph-based Label Propagation](http://arxiv.org/abs/2303.15132v1)|2023-03-27 12:08:05+00:00|27-03-2023
+Xin Yu|[DyGait: Exploiting Dynamic Representations for High-performance Gait   Recognition](http://arxiv.org/abs/2303.14953v1)|2023-03-27 07:36:47+00:00|27-03-2023
+Deng Cai|[Neural Collapse Inspired Federated Learning with Non-iid Data](http://arxiv.org/abs/2303.16066v2)|2023-03-31 09:54:13+00:00|27-03-2023
+Vjekoslav Nikolić|[Guided Transfer Learning](http://arxiv.org/abs/2303.16154v1)|2023-03-26 18:21:24+00:00|26-03-2023
+Cesare Alippi|[Relational Inductive Biases for Object-Centric Image Generation](http://arxiv.org/abs/2303.14681v1)|2023-03-26 11:17:17+00:00|26-03-2023
+Guandong Xu|[Achieving Counterfactual Fairness with Imperfect Structural Causal Model](http://arxiv.org/abs/2303.14665v1)|2023-03-26 09:37:29+00:00|26-03-2023
+Yanning Shen|[FairGAT: Fairness-aware Graph Attention Networks](http://arxiv.org/abs/2303.14591v1)|2023-03-26 00:10:20+00:00|26-03-2023
+Yisen Wang|[CFA: Class-wise Calibrated Fair Adversarial Training](http://arxiv.org/abs/2303.14460v1)|2023-03-25 13:05:16+00:00|25-03-2023
+Tatiana Tommasi|[Fairness meets Cross-Domain Learning: a new perspective on Models and   Metrics](http://arxiv.org/abs/2303.14411v1)|2023-03-25 09:34:05+00:00|25-03-2023
+Jaesik Park|[Instant Domain Augmentation for LiDAR Semantic Segmentation](http://arxiv.org/abs/2303.14378v1)|2023-03-25 06:59:12+00:00|25-03-2023
+Shih-Fu Chang|[Supervised Masked Knowledge Distillation for Few-Shot Transformers](http://arxiv.org/abs/2303.15466v2)|2023-03-29 01:59:30+00:00|25-03-2023
+
 ## 28-03-2023
 
 main_author|title|update_date|publish_date

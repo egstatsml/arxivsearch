@@ -1,5 +1,17 @@
 # interpretable
 Click on title for link to paper
+## 04-04-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Leonidas Guibas|[VDN-NeRF: Resolving Shape-Radiance Ambiguity via View-Dependence   Normalization](http://arxiv.org/abs/2303.17968v1)|2023-03-31 11:13:17+00:00|31-03-2023
+Maria Seale|[Explainable Intrusion Detection Systems Using Competitive Learning   Techniques](http://arxiv.org/abs/2303.17387v1)|2023-03-30 13:58:47+00:00|30-03-2023
+Misha Sra|[LMExplainer: a Knowledge-Enhanced Explainer for Language Models](http://arxiv.org/abs/2303.16537v1)|2023-03-29 08:59:44+00:00|29-03-2023
+Nicolas Chesneau|[Evaluating self-attention interpretability through human-grounded   experimental protocol](http://arxiv.org/abs/2303.15190v1)|2023-03-27 13:26:02+00:00|27-03-2023
+Mohsen Jahanshahi|[Farspredict: A benchmark dataset for link prediction](http://arxiv.org/abs/2303.14647v1)|2023-03-26 07:41:26+00:00|26-03-2023
+Mohammad Rostami|[Explainable Artificial Intelligence Architecture for Melanoma Diagnosis   Using Indicator Localization and Self-Supervised Learning](http://arxiv.org/abs/2303.14615v1)|2023-03-26 03:43:05+00:00|26-03-2023
+Jun Ni|[Shapley-based Explainable AI for Clustering Applications in Fault   Diagnosis and Prognosis](http://arxiv.org/abs/2303.14581v1)|2023-03-25 23:13:11+00:00|25-03-2023
+
 ## 28-03-2023
 
 main_author|title|update_date|publish_date

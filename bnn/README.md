@@ -1,5 +1,29 @@
 # bnn
 Click on title for link to paper
+## 04-04-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Yin Li|[Learning Procedure-aware Video Representation from Instructional Videos   and Their Narrations](http://arxiv.org/abs/2303.17839v1)|2023-03-31 07:02:26+00:00|31-03-2023
+Mark Girolami|[Inferring networks from time series: a neural approach](http://arxiv.org/abs/2303.18059v1)|2023-03-30 15:51:01+00:00|30-03-2023
+Benjamin Säfken|[Topics in the Haystack: Extracting and Evaluating Topics beyond   Coherence](http://arxiv.org/abs/2303.17324v1)|2023-03-30 12:24:25+00:00|30-03-2023
+Vincent Wang-Maścianica|[Humans in Humans Out: On GPT Converging Toward Common Sense in both   Success and Failure](http://arxiv.org/abs/2303.17276v1)|2023-03-30 10:32:18+00:00|30-03-2023
+Anne Gelb|[Leveraging joint sparsity in hierarchical Bayesian learning](http://arxiv.org/abs/2303.16954v1)|2023-03-29 18:18:44+00:00|29-03-2023
+Mihaly Petreczky|[PAC-Bayesian bounds for learning LTI-ss systems with input from   empirical loss](http://arxiv.org/abs/2303.16816v1)|2023-03-29 16:06:07+00:00|29-03-2023
+Ernst Wit|[Fast inference of latent space dynamics in huge relational event   networks](http://arxiv.org/abs/2303.17460v1)|2023-03-29 15:18:56+00:00|29-03-2023
+Jana Faganeli Pucer|[Ensemble weather forecast post-processing with a flexible probabilistic   neural network approach](http://arxiv.org/abs/2303.17610v1)|2023-03-29 15:18:00+00:00|29-03-2023
+Christopher Cleghorn|[Training Feedforward Neural Networks with Bayesian Hyper-Heuristics](http://arxiv.org/abs/2303.16912v1)|2023-03-29 11:40:28+00:00|29-03-2023
+David C Hogg|[Implicit Visual Bias Mitigation by Posterior Estimate Sharpening of a   Bayesian Neural Network](http://arxiv.org/abs/2303.16564v2)|2023-03-30 09:50:43+00:00|29-03-2023
+Ethan Perez|[Training Language Models with Language Feedback at Scale](http://arxiv.org/abs/2303.16755v1)|2023-03-28 17:04:15+00:00|28-03-2023
+Sebastian Schmitt|[Simulation-based Inference for Model Parameterization on Analog   Neuromorphic Hardware](http://arxiv.org/abs/2303.16056v1)|2023-03-28 15:37:30+00:00|28-03-2023
+M. Perelshtein|[Tetra-AML: Automatic Machine Learning via Tensor Networks](http://arxiv.org/abs/2303.16214v1)|2023-03-28 12:56:54+00:00|28-03-2023
+Sumio Watanabe|[Bayesian Free Energy of Deep ReLU Neural Network in Overparametrized   Cases](http://arxiv.org/abs/2303.15739v1)|2023-03-28 05:27:32+00:00|28-03-2023
+Kwanjung Yee|[Towards Quantifying Calibrated Uncertainty via Deep Ensembles in   Multi-output Regression Task](http://arxiv.org/abs/2303.16210v2)|2023-04-01 01:15:00+00:00|28-03-2023
+Lee Skrypchuk|[Driver Profiling and Bayesian Workload Estimation Using Naturalistic   Peripheral Detection Study Data](http://arxiv.org/abs/2303.14720v1)|2023-03-26 13:15:44+00:00|26-03-2023
+James P. Crutchfield|[Complexity-calibrated Benchmarks for Machine Learning Reveal When   Next-Generation Reservoir Computer Predictions Succeed and Mislead](http://arxiv.org/abs/2303.14553v1)|2023-03-25 20:12:26+00:00|25-03-2023
+Penousal Machado|[Context Matters: Adaptive Mutation for Grammars](http://arxiv.org/abs/2303.14522v1)|2023-03-25 17:26:20+00:00|25-03-2023
+R. Findeisen|[Stochastic Model Predictive Control Utilizing Bayesian Neural Networks](http://arxiv.org/abs/2303.14519v1)|2023-03-25 16:58:11+00:00|25-03-2023
+
 ## 28-03-2023
 
 main_author|title|update_date|publish_date

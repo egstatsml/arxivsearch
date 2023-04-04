@@ -1,5 +1,20 @@
 # mcmc
 Click on title for link to paper
+## 04-04-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Cheng-Lin Liu|[OpenMix: Exploring Outlier Samples for Misclassification Detection](http://arxiv.org/abs/2303.17093v1)|2023-03-30 01:47:23+00:00|30-03-2023
+Ying Wu|[ALUM: Adversarial Data Uncertainty Modeling from Latent Model   Uncertainty Compensation](http://arxiv.org/abs/2303.16866v1)|2023-03-29 17:24:12+00:00|29-03-2023
+Mihaly Petreczky|[PAC-Bayesian bounds for learning LTI-ss systems with input from   empirical loss](http://arxiv.org/abs/2303.16816v1)|2023-03-29 16:06:07+00:00|29-03-2023
+Constantin A. Rothkopf|[Probabilistic inverse optimal control with local linearization for   non-linear partially observable systems](http://arxiv.org/abs/2303.16698v1)|2023-03-29 13:51:06+00:00|29-03-2023
+Mehrdad Dianati|[Multimodal Manoeuvre and Trajectory Prediction for Autonomous Vehicles   Using Transformer Networks](http://arxiv.org/abs/2303.16109v1)|2023-03-28 16:25:16+00:00|28-03-2023
+Sebastian Schmitt|[Simulation-based Inference for Model Parameterization on Analog   Neuromorphic Hardware](http://arxiv.org/abs/2303.16056v1)|2023-03-28 15:37:30+00:00|28-03-2023
+Aasa Feragen|[That Label's Got Style: Handling Label Style Bias for Uncertain Image   Segmentation](http://arxiv.org/abs/2303.15850v1)|2023-03-28 09:43:16+00:00|28-03-2023
+Sumio Watanabe|[Bayesian Free Energy of Deep ReLU Neural Network in Overparametrized   Cases](http://arxiv.org/abs/2303.15739v1)|2023-03-28 05:27:32+00:00|28-03-2023
+Nicolas Perrin-Gilbert|[The Quality-Diversity Transformer: Generating Behavior-Conditioned   Trajectories with Decision Transformers](http://arxiv.org/abs/2303.16207v1)|2023-03-27 19:39:49+00:00|27-03-2023
+R. Findeisen|[Stochastic Model Predictive Control Utilizing Bayesian Neural Networks](http://arxiv.org/abs/2303.14519v1)|2023-03-25 16:58:11+00:00|25-03-2023
+
 ## 28-03-2023
 
 main_author|title|update_date|publish_date
