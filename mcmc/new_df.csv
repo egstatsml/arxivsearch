@@ -1,12 +1,15 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
-Cheng-Lin Liu|[OpenMix: Exploring Outlier Samples for Misclassification Detection](http://arxiv.org/abs/2303.17093v1)|2023-03-30 01:47:23+00:00|30-03-2023
-Ying Wu|[ALUM: Adversarial Data Uncertainty Modeling from Latent Model   Uncertainty Compensation](http://arxiv.org/abs/2303.16866v1)|2023-03-29 17:24:12+00:00|29-03-2023
-Mihaly Petreczky|[PAC-Bayesian bounds for learning LTI-ss systems with input from   empirical loss](http://arxiv.org/abs/2303.16816v1)|2023-03-29 16:06:07+00:00|29-03-2023
-Constantin A. Rothkopf|[Probabilistic inverse optimal control with local linearization for   non-linear partially observable systems](http://arxiv.org/abs/2303.16698v1)|2023-03-29 13:51:06+00:00|29-03-2023
-Mehrdad Dianati|[Multimodal Manoeuvre and Trajectory Prediction for Autonomous Vehicles   Using Transformer Networks](http://arxiv.org/abs/2303.16109v1)|2023-03-28 16:25:16+00:00|28-03-2023
-Sebastian Schmitt|[Simulation-based Inference for Model Parameterization on Analog   Neuromorphic Hardware](http://arxiv.org/abs/2303.16056v1)|2023-03-28 15:37:30+00:00|28-03-2023
-Aasa Feragen|[That Label's Got Style: Handling Label Style Bias for Uncertain Image   Segmentation](http://arxiv.org/abs/2303.15850v1)|2023-03-28 09:43:16+00:00|28-03-2023
-Sumio Watanabe|[Bayesian Free Energy of Deep ReLU Neural Network in Overparametrized   Cases](http://arxiv.org/abs/2303.15739v1)|2023-03-28 05:27:32+00:00|28-03-2023
-Nicolas Perrin-Gilbert|[The Quality-Diversity Transformer: Generating Behavior-Conditioned   Trajectories with Decision Transformers](http://arxiv.org/abs/2303.16207v1)|2023-03-27 19:39:49+00:00|27-03-2023
-R. Findeisen|[Stochastic Model Predictive Control Utilizing Bayesian Neural Networks](http://arxiv.org/abs/2303.14519v1)|2023-03-25 16:58:11+00:00|25-03-2023
+Antoine Cully|[Don't Bet on Luck Alone: Enhancing Behavioral Reproducibility of   Quality-Diversity Solutions in Uncertain Domains](http://arxiv.org/abs/2304.03672v1)|2023-04-07 14:45:14+00:00|07-04-2023
+Oliver Niggemann|[High Accuracy Uncertainty-Aware Interatomic Force Modeling with   Equivariant Bayesian Neural Networks](http://arxiv.org/abs/2304.03694v1)|2023-04-05 10:39:38+00:00|05-04-2023
+Jyotirmoy V. Deshmukh|[Convex Optimization-based Policy Adaptation to Compensate for   Distributional Shifts](http://arxiv.org/abs/2304.02324v1)|2023-04-05 09:26:59+00:00|05-04-2023
+Arpan Chattopadhyay|[Inverse Unscented Kalman Filter](http://arxiv.org/abs/2304.01698v1)|2023-04-04 10:51:43+00:00|04-04-2023
+Behcet Acikmese|[HALO: Hazard-Aware Landing Optimization for Autonomous Systems](http://arxiv.org/abs/2304.01583v1)|2023-04-04 07:20:06+00:00|04-04-2023
+Parag Kulkarni|[Thematic context vector association based on event uncertainty for   Twitter](http://arxiv.org/abs/2304.01423v1)|2023-04-04 00:13:47+00:00|04-04-2023
+Adam Czajka|[Non-Generative Energy Based Models](http://arxiv.org/abs/2304.01297v1)|2023-04-03 18:47:37+00:00|03-04-2023
+Quanyan Zhu|[Is Stochastic Mirror Descent Vulnerable to Adversarial Delay Attacks? A   Traffic Assignment Resilience Study](http://arxiv.org/abs/2304.01161v1)|2023-04-03 17:28:24+00:00|03-04-2023
+Marc Rigter|[Risk-Sensitive and Robust Model-Based Reinforcement Learning and   Planning](http://arxiv.org/abs/2304.00573v1)|2023-04-02 16:44:14+00:00|02-04-2023
+Priyadarshini Panda|[SEENN: Towards Temporal Spiking Early-Exit Neural Networks](http://arxiv.org/abs/2304.01230v1)|2023-04-02 15:57:09+00:00|02-04-2023
+Mark A. Anastasio|[Ideal Observer Computation by Use of Markov-Chain Monte Carlo with   Generative Adversarial Networks](http://arxiv.org/abs/2304.00433v1)|2023-04-02 02:51:50+00:00|02-04-2023
+Lars Lindemann|[Safe Perception-Based Control under Stochastic Sensor Uncertainty using   Conformal Prediction](http://arxiv.org/abs/2304.00194v1)|2023-04-01 01:45:53+00:00|01-04-2023
+Mayukha Pal|[DynamoPMU: A Physics Informed Anomaly Detection and Prediction   Methodology using non-linear dynamics from $μ$PMU Measurement Data](http://arxiv.org/abs/2304.00092v1)|2023-03-31 19:32:24+00:00|31-03-2023

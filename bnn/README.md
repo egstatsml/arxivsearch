@@ -1,5 +1,29 @@
 # bnn
 Click on title for link to paper
+## 11-04-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Fengwei Zhou|[Heavy-Tailed Regularization of Weight Matrices in Deep Neural Networks](http://arxiv.org/abs/2304.02911v2)|2023-04-07 04:59:08+00:00|06-04-2023
+David Rügamer|[Towards Efficient MCMC Sampling in Bayesian Neural Networks by   Exploiting Symmetry](http://arxiv.org/abs/2304.02902v1)|2023-04-06 07:20:57+00:00|06-04-2023
+Bernhard Sick|[Multi-annotator Deep Learning: A Probabilistic Framework for   Classification](http://arxiv.org/abs/2304.02539v1)|2023-04-05 16:00:42+00:00|05-04-2023
+Zafeirios Fountas|[Predictive Coding as a Neuromorphic Alternative to Backpropagation: A   Critical Evaluation](http://arxiv.org/abs/2304.02658v1)|2023-04-05 11:48:47+00:00|05-04-2023
+Oliver Niggemann|[High Accuracy Uncertainty-Aware Interatomic Force Modeling with   Equivariant Bayesian Neural Networks](http://arxiv.org/abs/2304.03694v1)|2023-04-05 10:39:38+00:00|05-04-2023
+Andreas Dengel|[Waving Goodbye to Low-Res: A Diffusion-Wavelet Approach for Image   Super-Resolution](http://arxiv.org/abs/2304.01994v2)|2023-04-05 11:57:48+00:00|04-04-2023
+Vincent Fortuin|[Incorporating Unlabelled Data into Bayesian Neural Networks](http://arxiv.org/abs/2304.01762v1)|2023-04-04 12:51:35+00:00|04-04-2023
+Petros Koumoutsakos|[Adaptive learning of effective dynamics: Adaptive real-time, online   modeling for complex systems](http://arxiv.org/abs/2304.01732v1)|2023-04-04 12:05:51+00:00|04-04-2023
+Arpan Chattopadhyay|[Inverse Unscented Kalman Filter](http://arxiv.org/abs/2304.01698v1)|2023-04-04 10:51:43+00:00|04-04-2023
+Ye Zhu|[Denoising Diffusion Probabilistic Models to Predict the Density of   Molecular Clouds](http://arxiv.org/abs/2304.01670v1)|2023-04-04 09:58:22+00:00|04-04-2023
+Lan Du|[Multimodal Neural Processes for Uncertainty Estimation](http://arxiv.org/abs/2304.01518v1)|2023-04-04 04:03:48+00:00|04-04-2023
+Mathieu Salzmann|[Robust Outlier Rejection for 3D Registration with Variational Bayes](http://arxiv.org/abs/2304.01514v1)|2023-04-04 03:48:56+00:00|04-04-2023
+Adam Czajka|[Non-Generative Energy Based Models](http://arxiv.org/abs/2304.01297v1)|2023-04-03 18:47:37+00:00|03-04-2023
+W. G. La Cava|[Interpretable Symbolic Regression for Data Science: Analysis of the 2022   Competition](http://arxiv.org/abs/2304.01117v2)|2023-04-06 15:47:10+00:00|03-04-2023
+Mathias Niepert|[Learning Sparsity of Representations with Discrete Latent Variables](http://arxiv.org/abs/2304.00935v1)|2023-04-03 12:47:18+00:00|03-04-2023
+Raman Siarheyeu|[Uncertainty Propagation in Node Classification](http://arxiv.org/abs/2304.00918v1)|2023-04-03 12:18:23+00:00|03-04-2023
+Susanto Rahardja|[Improving Autoencoder-based Outlier Detection with Adjustable   Probabilistic Reconstruction Error and Mean-shift Outlier Scoring](http://arxiv.org/abs/2304.00709v1)|2023-04-03 04:01:29+00:00|03-04-2023
+Joshua Simmons|[Bayesian neural networks via MCMC: a Python-based tutorial](http://arxiv.org/abs/2304.02595v1)|2023-04-02 02:19:15+00:00|02-04-2023
+Eric Moulines|[Restarted Bayesian Online Change-point Detection for Non-Stationary   Markov Decision Processes](http://arxiv.org/abs/2304.00232v1)|2023-04-01 05:26:41+00:00|01-04-2023
+
 ## 04-04-2023
 
 main_author|title|update_date|publish_date

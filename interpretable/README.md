@@ -1,5 +1,18 @@
 # interpretable
 Click on title for link to paper
+## 11-04-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Sophia Ananiadou|[On the Evaluations of ChatGPT and Emotion-enhanced Prompting for Mental   Health Analysis](http://arxiv.org/abs/2304.03347v1)|2023-04-06 19:53:59+00:00|06-04-2023
+Yves Le Traon|[Going Further: Flatness at the Rescue of Early Stopping for Adversarial   Example Transferability](http://arxiv.org/abs/2304.02688v1)|2023-04-05 18:31:25+00:00|05-04-2023
+Clinton Fookes|[Towards Self-Explainability of Deep Neural Networks with Heatmap   Captioning and Large-Language Models](http://arxiv.org/abs/2304.02202v1)|2023-04-05 03:29:37+00:00|05-04-2023
+Daniel Sonntag|[Fine-tuning of explainable CNNs for skin lesion classification based on   dermatologists' feedback towards increasing trust](http://arxiv.org/abs/2304.01399v1)|2023-04-03 22:30:08+00:00|03-04-2023
+Yohai Bar-Sinai|[Charting the Topography of the Neural Network Landscape with   Thermal-Like Noise](http://arxiv.org/abs/2304.01335v1)|2023-04-03 20:01:52+00:00|03-04-2023
+Pedram Ghamisi|[Dsfer-Net: A Deep Supervision and Feature Retrieval Network for   Bitemporal Change Detection Using Modern Hopfield Networks](http://arxiv.org/abs/2304.01101v1)|2023-04-03 16:01:03+00:00|03-04-2023
+Quanshi Zhang|[Can the Inference Logic of Large Language Models be Disentangled into   Symbolic Concepts?](http://arxiv.org/abs/2304.01083v1)|2023-04-03 15:39:35+00:00|03-04-2023
+Wei Liu|[Evaluating Large Language Models on a Highly-specialized Topic,   Radiation Oncology Physics](http://arxiv.org/abs/2304.01938v1)|2023-04-01 06:04:58+00:00|01-04-2023
+
 ## 04-04-2023
 
 main_author|title|update_date|publish_date
