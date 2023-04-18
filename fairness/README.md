@@ -1,5 +1,64 @@
 # fairness
 Click on title for link to paper
+## 18-04-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+B Hugo|[Lossy Compression of Large-Scale Radio Interferometric Data](http://arxiv.org/abs/2304.07050v1)|2023-04-14 10:50:24+00:00|14-04-2023
+Pedram Hassanzadeh|[Long-term instabilities of deep learning-based digital twins of the   climate system: The cause and a solution](http://arxiv.org/abs/2304.07029v1)|2023-04-14 09:49:11+00:00|14-04-2023
+Norbert Wehn|[Unsupervised ANN-Based Equalizer and Its Trainable FPGA Implementation](http://arxiv.org/abs/2304.06987v1)|2023-04-14 08:17:05+00:00|14-04-2023
+Lina Bouayad|[Systemic Fairness](http://arxiv.org/abs/2304.06901v1)|2023-04-14 02:24:55+00:00|14-04-2023
+Dinesh Manocha|[PMI Sampler: Patch similarity guided frame selection for Aerial Action   Recognition](http://arxiv.org/abs/2304.06866v1)|2023-04-14 00:01:11+00:00|14-04-2023
+Alind Jain|[Evaluation of Social Biases in Recent Large Pre-Trained Models](http://arxiv.org/abs/2304.06861v1)|2023-04-13 23:29:58+00:00|13-04-2023
+Lars Kunze|[CAR-DESPOT: Causally-Informed Online POMDP Planning for Robots in   Confounded Environments](http://arxiv.org/abs/2304.06848v1)|2023-04-13 22:32:21+00:00|13-04-2023
+Zhuhong Zhang|[Neural Network Architectures for Optical Channel Nonlinear Compensation   in Digital Subcarrier Multiplexing Systems](http://arxiv.org/abs/2304.06836v1)|2023-04-13 21:58:23+00:00|13-04-2023
+P. Neto|[Online Recognition of Incomplete Gesture Data to Interface Collaborative   Robots](http://arxiv.org/abs/2304.06777v1)|2023-04-13 18:49:08+00:00|13-04-2023
+Tong Zhang|[RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment](http://arxiv.org/abs/2304.06767v1)|2023-04-13 18:22:40+00:00|13-04-2023
+Andrea Vedaldi|[What does CLIP know about a red circle? Visual prompt engineering for   VLMs](http://arxiv.org/abs/2304.06712v1)|2023-04-13 17:58:08+00:00|13-04-2023
+Bahram Zonooz|[LSFSL: Leveraging Shape Information in Few-shot Learning](http://arxiv.org/abs/2304.06672v1)|2023-04-13 16:59:22+00:00|13-04-2023
+Ard A. Louis|[Do deep neural networks have an inbuilt Occam's razor?](http://arxiv.org/abs/2304.06670v1)|2023-04-13 16:58:21+00:00|13-04-2023
+Jing Yuan|[Beyond Submodularity: A Unified Framework of Randomized Set Selection   with Group Fairness Constraints](http://arxiv.org/abs/2304.06596v1)|2023-04-13 15:02:37+00:00|13-04-2023
+Petter Törnberg|[ChatGPT-4 Outperforms Experts and Crowd Workers in Annotating Political   Twitter Messages with Zero-Shot Learning](http://arxiv.org/abs/2304.06588v1)|2023-04-13 14:51:40+00:00|13-04-2023
+Bing Su|[Transfer Knowledge from Head to Tail: Uncertainty Calibration under   Long-tailed Distribution](http://arxiv.org/abs/2304.06537v1)|2023-04-13 13:48:18+00:00|13-04-2023
+Odd Kolbjørnsen|[Sequential Monte Carlo applied to virtual flow meter calibration](http://arxiv.org/abs/2304.06310v1)|2023-04-13 07:35:18+00:00|13-04-2023
+Onno Zoeter|[Fair Grading Algorithms for Randomized Exams](http://arxiv.org/abs/2304.06254v1)|2023-04-13 04:21:37+00:00|13-04-2023
+Amine Nait-Ali|[Generation of artificial facial drug abuse images using Deep   De-identified anonymous Dataset augmentation through Genetics Algorithm   (3DG-GA)](http://arxiv.org/abs/2304.06106v1)|2023-04-12 18:45:26+00:00|12-04-2023
+Shaina Raza|[Auditing ICU Readmission Rates in an Clinical Database: An Analysis of   Risk Factors and Clinical Outcomes](http://arxiv.org/abs/2304.05986v1)|2023-04-12 17:09:38+00:00|12-04-2023
+Fred Hohman|[Angler: Helping Machine Translation Practitioners Prioritize Model   Improvements](http://arxiv.org/abs/2304.05967v1)|2023-04-12 16:43:39+00:00|12-04-2023
+Klaus Dietmayer|[LMR: Lane Distance-Based Metric for Trajectory Prediction](http://arxiv.org/abs/2304.05869v2)|2023-04-13 07:22:48+00:00|12-04-2023
+Jia Xu|[DUFormer: A Novel Architecture for Power Line Segmentation of Aerial   Images](http://arxiv.org/abs/2304.05821v1)|2023-04-12 12:59:02+00:00|12-04-2023
+Tijl De Bie|[Maximal Fairness](http://arxiv.org/abs/2304.06057v1)|2023-04-12 12:28:44+00:00|12-04-2023
+Dahua Lin|[RIFormer: Keep Your Vision Backbone Effective While Removing Token Mixer](http://arxiv.org/abs/2304.05659v1)|2023-04-12 07:34:13+00:00|12-04-2023
+Anh Nguyen|[Zoom is what you need: An empirical study of the power of zoom and   spatial biases in image classification](http://arxiv.org/abs/2304.05538v1)|2023-04-11 23:55:50+00:00|11-04-2023
+Alan Kuhnle|[RELS-DQN: A Robust and Efficient Local Search Framework for   Combinatorial Optimization](http://arxiv.org/abs/2304.06048v1)|2023-04-11 18:01:49+00:00|11-04-2023
+Mohamed Elhoseiny|[HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image   Models](http://arxiv.org/abs/2304.05390v1)|2023-04-11 17:59:13+00:00|11-04-2023
+Pascal Vincent|[A surprisingly simple technique to control the pretraining bias for   better transfer: Expand or Narrow your representation](http://arxiv.org/abs/2304.05369v1)|2023-04-11 17:24:29+00:00|11-04-2023
+Abhishek Sinha|[BanditQ -- No-Regret Learning with Guaranteed Per-User Rewards in   Adversarial Environments](http://arxiv.org/abs/2304.05219v1)|2023-04-11 13:39:47+00:00|11-04-2023
+Marie-José Huguet|[Learning Optimal Fair Scoring Systems for Multi-Class Classification](http://arxiv.org/abs/2304.05023v1)|2023-04-11 07:18:04+00:00|11-04-2023
+Mohamed Elhoseiny|[ImageCaptioner$^2$: Image Captioner for Image Captioning Bias   Amplification Assessment](http://arxiv.org/abs/2304.04874v1)|2023-04-10 21:40:46+00:00|10-04-2023
+Ali Harandi|[Learning solution of nonlinear constitutive material models using   physics-informed neural networks: COMM-PINN](http://arxiv.org/abs/2304.06044v1)|2023-04-10 19:58:49+00:00|10-04-2023
+Andrew Herdrich|[RAPID: Enabling Fast Online Policy Learning in Dynamic Public Cloud   Environments](http://arxiv.org/abs/2304.04797v1)|2023-04-10 18:04:39+00:00|10-04-2023
+Twumasi Mensah-Boateng|[Achieving Long-term Fairness in Submodular Maximization through   Randomization](http://arxiv.org/abs/2304.04700v1)|2023-04-10 16:39:19+00:00|10-04-2023
+Abolfazl Asudeh|[FairPilot: An Explorative System for Hyperparameter Tuning through the   Lens of Fairness](http://arxiv.org/abs/2304.04679v1)|2023-04-10 15:54:18+00:00|10-04-2023
+Yang Gao|[For Pre-Trained Vision Models in Motor Control, Not All Policy Learning   Methods are Created Equal](http://arxiv.org/abs/2304.04591v1)|2023-04-10 13:52:19+00:00|10-04-2023
+Jixue Liu|[Linking a predictive model to causal effect estimation](http://arxiv.org/abs/2304.04566v1)|2023-04-10 13:08:16+00:00|10-04-2023
+Mohsen Ebrahimi Moghaddam|[Deepfake Detection of Occluded Images Using a Patch-based Approach](http://arxiv.org/abs/2304.04537v1)|2023-04-10 12:12:14+00:00|10-04-2023
+Bo Cao|[FAN: Fatigue-Aware Network for Click-Through Rate Prediction in   E-commerce Recommendation](http://arxiv.org/abs/2304.04529v1)|2023-04-10 11:58:42+00:00|10-04-2023
+Afra Mashhadi|[Analysing Fairness of Privacy-Utility Mobility Models](http://arxiv.org/abs/2304.06469v1)|2023-04-10 11:09:18+00:00|10-04-2023
+Ponnurangam Kumaraguru|[CAFIN: Centrality Aware Fairness inducing IN-processing for Unsupervised   Representation Learning on Graphs](http://arxiv.org/abs/2304.04391v1)|2023-04-10 05:40:09+00:00|10-04-2023
+Yongfeng Zhang|[OpenAGI: When LLM Meets Domain Experts](http://arxiv.org/abs/2304.04370v2)|2023-04-12 23:37:32+00:00|10-04-2023
+Shiwei Wang|[CILIATE: Towards Fairer Class-based Incremental Learning by Dataset and   Training Refinement](http://arxiv.org/abs/2304.04222v1)|2023-04-09 12:10:39+00:00|09-04-2023
+Saeid Tizpaz-Niari|[Information-Theoretic Testing and Debugging of Fairness Defects in Deep   Neural Networks](http://arxiv.org/abs/2304.04199v1)|2023-04-09 09:16:27+00:00|09-04-2023
+Kfir Y. Levy|[SLowcal-SGD: Slow Query Points Improve Local-SGD for Stochastic Convex   Optimization](http://arxiv.org/abs/2304.04169v1)|2023-04-09 06:10:49+00:00|09-04-2023
+Chengqi Zhang|[Does Continual Learning Equally Forget All Parameters?](http://arxiv.org/abs/2304.04158v1)|2023-04-09 04:36:24+00:00|09-04-2023
+Jianhua Yao|[Reweighted Mixup for Subpopulation Shift](http://arxiv.org/abs/2304.04148v1)|2023-04-09 03:44:50+00:00|09-04-2023
+Tingyu Zhu|[Best Arm Identification with Fairness Constraints on Subpopulations](http://arxiv.org/abs/2304.04091v1)|2023-04-08 19:41:02+00:00|08-04-2023
+Muhammad Shafique|[EnforceSNN: Enabling Resilient and Energy-Efficient Spiking Neural   Network Inference considering Approximate DRAMs for Embedded Systems](http://arxiv.org/abs/2304.04039v1)|2023-04-08 15:15:11+00:00|08-04-2023
+Sana Sabah Sabry|[Bipol: A Novel Multi-Axes Bias Evaluation Metric with Explainability for   NLP](http://arxiv.org/abs/2304.04029v1)|2023-04-08 14:45:15+00:00|08-04-2023
+Shaina Raza|[Connecting Fairness in Machine Learning with Public Health Equity](http://arxiv.org/abs/2304.04761v1)|2023-04-08 10:21:49+00:00|08-04-2023
+Zhifeng Wang|[Knowledge Relation Rank Enhanced Heterogeneous Learning Interaction   Modeling for Neural Graph Forgetting Knowledge Tracing](http://arxiv.org/abs/2304.03945v1)|2023-04-08 07:29:53+00:00|08-04-2023
+James Zou|[Last-Layer Fairness Fine-tuning is Simple and Effective for Neural   Networks](http://arxiv.org/abs/2304.03935v1)|2023-04-08 06:49:15+00:00|08-04-2023
+
 ## 11-04-2023
 
 main_author|title|update_date|publish_date

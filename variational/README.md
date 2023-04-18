@@ -1,5 +1,25 @@
 # variational
 Click on title for link to paper
+## 18-04-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Ard A. Louis|[Do deep neural networks have an inbuilt Occam's razor?](http://arxiv.org/abs/2304.06670v1)|2023-04-13 16:58:21+00:00|13-04-2023
+Alain Durmus|[Non-asymptotic convergence bounds for Sinkhorn iterates and their   gradients: a coupling approach](http://arxiv.org/abs/2304.06549v1)|2023-04-13 13:58:25+00:00|13-04-2023
+Jie Zhou|[Learning Accurate Performance Predictors for Ultrafast Automated Model   Compression](http://arxiv.org/abs/2304.06393v1)|2023-04-13 10:52:49+00:00|13-04-2023
+Jimmy Ba|[Boosted Prompt Ensembles for Large Language Models](http://arxiv.org/abs/2304.05970v1)|2023-04-12 16:47:15+00:00|12-04-2023
+Kerem Y. Camsari|[CMOS + stochastic nanomagnets: heterogeneous computers for probabilistic   inference and learning](http://arxiv.org/abs/2304.05949v1)|2023-04-12 16:18:12+00:00|12-04-2023
+Changshi Yu|[Landslide Susceptibility Prediction Modeling Based on Self-Screening   Deep Learning Model](http://arxiv.org/abs/2304.06054v1)|2023-04-12 10:31:03+00:00|12-04-2023
+Tamara Broderick|[Black Box Variational Inference with a Deterministic Objective: Faster,   More Accurate, and Even More Black Box](http://arxiv.org/abs/2304.05527v1)|2023-04-11 22:45:18+00:00|11-04-2023
+Adil Salim|[Forward-backward Gaussian variational inference via JKO in the   Bures-Wasserstein Space](http://arxiv.org/abs/2304.05398v1)|2023-04-10 19:49:50+00:00|10-04-2023
+Jean Anne C. Incorvia|[Stochastic Domain Wall-Magnetic Tunnel Junction Artificial Neurons for   Noise-Resilient Spiking Neural Networks](http://arxiv.org/abs/2304.04794v1)|2023-04-10 18:00:26+00:00|10-04-2023
+Jörg Tiedemann|[Uncertainty-Aware Natural Language Inference with Stochastic Weight   Averaging](http://arxiv.org/abs/2304.04726v1)|2023-04-10 17:37:23+00:00|10-04-2023
+Seth Flaxman|[PriorCVAE: scalable MCMC parameter inference with Bayesian deep   generative modelling](http://arxiv.org/abs/2304.04307v2)|2023-04-12 20:09:22+00:00|09-04-2023
+Kun Zhang|[Unsupervised Sampling Promoting for Stochastic Human Trajectory   Prediction](http://arxiv.org/abs/2304.04298v1)|2023-04-09 19:15:14+00:00|09-04-2023
+Qiang Xu|[HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image   Generation](http://arxiv.org/abs/2304.04269v1)|2023-04-09 16:21:43+00:00|09-04-2023
+Weijian Luo|[A Comprehensive Survey on Knowledge Distillation of Diffusion Models](http://arxiv.org/abs/2304.04262v1)|2023-04-09 15:49:28+00:00|09-04-2023
+Sandra Fortini|[Non-asymptotic approximations of Gaussian neural networks via   second-order Poincaré inequalities](http://arxiv.org/abs/2304.04010v1)|2023-04-08 13:52:10+00:00|08-04-2023
+
 ## 11-04-2023
 
 main_author|title|update_date|publish_date

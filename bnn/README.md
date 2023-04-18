@@ -1,5 +1,31 @@
 # bnn
 Click on title for link to paper
+## 18-04-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Louisa Jorm|[Continuous time recurrent neural networks: overview and application to   forecasting blood glucose in the intensive care unit](http://arxiv.org/abs/2304.07025v1)|2023-04-14 09:39:06+00:00|14-04-2023
+Sangpil Kim|[Soundini: Sound-Guided Diffusion for Natural Video Editing](http://arxiv.org/abs/2304.06818v1)|2023-04-13 20:56:53+00:00|13-04-2023
+Ard A. Louis|[Do deep neural networks have an inbuilt Occam's razor?](http://arxiv.org/abs/2304.06670v1)|2023-04-13 16:58:21+00:00|13-04-2023
+Heinz Koeppl|[Bayesian Inference for Jump-Diffusion Approximations of Biochemical   Reaction Networks](http://arxiv.org/abs/2304.06592v1)|2023-04-13 14:57:22+00:00|13-04-2023
+Vinita Vasudevan|[IBIA: An Incremental Build-Infer-Approximate Framework for Approximate   Inference of Partition Function](http://arxiv.org/abs/2304.06366v1)|2023-04-13 09:40:23+00:00|13-04-2023
+Dario Piga|[Neural State-Space Models: Empirical Evaluation of Uncertainty   Quantification](http://arxiv.org/abs/2304.06349v1)|2023-04-13 08:57:33+00:00|13-04-2023
+Keyvan Tahmasbi|[Bayesian Causal Inference in Doubly Gaussian DAG-probit Models](http://arxiv.org/abs/2304.05976v1)|2023-04-12 16:57:47+00:00|12-04-2023
+Eric Schulz|[Meta-Learned Models of Cognition](http://arxiv.org/abs/2304.06729v1)|2023-04-12 16:30:51+00:00|12-04-2023
+Kerem Y. Camsari|[CMOS + stochastic nanomagnets: heterogeneous computers for probabilistic   inference and learning](http://arxiv.org/abs/2304.05949v1)|2023-04-12 16:18:12+00:00|12-04-2023
+Tamara Broderick|[Black Box Variational Inference with a Deterministic Objective: Faster,   More Accurate, and Even More Black Box](http://arxiv.org/abs/2304.05527v1)|2023-04-11 22:45:18+00:00|11-04-2023
+Jun Tani|[Habits and goals in synergy: a variational Bayesian framework for   behavior](http://arxiv.org/abs/2304.05008v1)|2023-04-11 06:28:14+00:00|11-04-2023
+Jean Anne C. Incorvia|[Stochastic Domain Wall-Magnetic Tunnel Junction Artificial Neurons for   Noise-Resilient Spiking Neural Networks](http://arxiv.org/abs/2304.04794v1)|2023-04-10 18:00:26+00:00|10-04-2023
+Jörg Tiedemann|[Uncertainty-Aware Natural Language Inference with Stochastic Weight   Averaging](http://arxiv.org/abs/2304.04726v1)|2023-04-10 17:37:23+00:00|10-04-2023
+Lotfi Chaari|[Bayesian optimization for sparse neural networks with trainable   activation functions](http://arxiv.org/abs/2304.04455v1)|2023-04-10 08:44:44+00:00|10-04-2023
+Seth Flaxman|[PriorCVAE: scalable MCMC parameter inference with Bayesian deep   generative modelling](http://arxiv.org/abs/2304.04307v2)|2023-04-12 20:09:22+00:00|09-04-2023
+Kun Zhang|[Unsupervised Sampling Promoting for Stochastic Human Trajectory   Prediction](http://arxiv.org/abs/2304.04298v1)|2023-04-09 19:15:14+00:00|09-04-2023
+Weijian Luo|[A Comprehensive Survey on Knowledge Distillation of Diffusion Models](http://arxiv.org/abs/2304.04262v1)|2023-04-09 15:49:28+00:00|09-04-2023
+Ning Xu|[Scalable Multiple Patterning Layout Decomposition Implemented by a   Distribution Evolutionary Algorithm](http://arxiv.org/abs/2304.04207v1)|2023-04-09 10:23:30+00:00|09-04-2023
+Vadlamani Ravi|[FedPNN: One-shot Federated Classification via Evolving Clustering Method   and Probabilistic Neural Network hybrid](http://arxiv.org/abs/2304.04147v1)|2023-04-09 03:23:37+00:00|09-04-2023
+Sandra Fortini|[Non-asymptotic approximations of Gaussian neural networks via   second-order Poincaré inequalities](http://arxiv.org/abs/2304.04010v1)|2023-04-08 13:52:10+00:00|08-04-2023
+Christopher L. Buckley|[Attention: Marginal Probability is All You Need?](http://arxiv.org/abs/2304.04556v1)|2023-04-07 14:38:39+00:00|07-04-2023
+
 ## 11-04-2023
 
 main_author|title|update_date|publish_date
