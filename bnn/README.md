@@ -1,5 +1,34 @@
 # bnn
 Click on title for link to paper
+## 25-04-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Pierre Chainais|[Plug-and-Play split Gibbs sampler: embedding deep generative priors in   Bayesian inference](http://arxiv.org/abs/2304.11134v1)|2023-04-21 17:17:51+00:00|21-04-2023
+Andrea Patane|[Individual Fairness in Bayesian Neural Networks](http://arxiv.org/abs/2304.10828v1)|2023-04-21 09:12:14+00:00|21-04-2023
+Guandong Xu|[Causal Analysis of Customer Churn Using Deep Learning](http://arxiv.org/abs/2304.10604v1)|2023-04-20 18:56:13+00:00|20-04-2023
+Di Niu|[LA3: Efficient Label-Aware AutoAugment](http://arxiv.org/abs/2304.10310v1)|2023-04-20 13:42:18+00:00|20-04-2023
+Ionel Popescu|[Interpolation property of shallow neural networks](http://arxiv.org/abs/2304.10552v1)|2023-04-20 08:45:16+00:00|20-04-2023
+Guangtao Fu|[Improving Urban Flood Prediction using LSTM-DeepLabv3+ and Bayesian   Optimization with Spatiotemporal feature fusion](http://arxiv.org/abs/2304.09994v1)|2023-04-19 22:00:04+00:00|19-04-2023
+Hui Jiang|[A Latent Space Theory for Emergent Abilities in Large Language Models](http://arxiv.org/abs/2304.09960v2)|2023-04-24 16:59:50+00:00|19-04-2023
+Jiming Liu|[Decadal Temperature Prediction via Chaotic Behavior Tracking](http://arxiv.org/abs/2304.09536v1)|2023-04-19 09:56:46+00:00|19-04-2023
+Zhongzheng Wang|[Rank-Based Learning and Local Model Based Evolutionary Algorithm for   High-Dimensional Expensive Multi-Objective Problems](http://arxiv.org/abs/2304.09444v1)|2023-04-19 06:25:04+00:00|19-04-2023
+Juho Lee|[Martingale Posterior Neural Processes](http://arxiv.org/abs/2304.09431v1)|2023-04-19 05:58:18+00:00|19-04-2023
+Ziwei Liu|[Variational Relational Point Completion Network for Robust 3D   Classification](http://arxiv.org/abs/2304.09131v1)|2023-04-18 17:03:20+00:00|18-04-2023
+George Wynne|[Bayes Hilbert Spaces for Posterior Approximation](http://arxiv.org/abs/2304.09053v1)|2023-04-18 15:17:16+00:00|18-04-2023
+Jannis Stoppe|[Look ATME: The Discriminator Mean Entropy Needs Attention](http://arxiv.org/abs/2304.09024v1)|2023-04-18 14:37:40+00:00|18-04-2023
+Shijian Lu|[Audio-Driven Talking Face Generation with Diverse yet Realistic Facial   Animations](http://arxiv.org/abs/2304.08945v1)|2023-04-18 12:36:15+00:00|18-04-2023
+Gilles Louppe|[Implicit representation priors meet Riemannian geometry for Bayesian   robotic grasping](http://arxiv.org/abs/2304.08805v2)|2023-04-19 07:50:24+00:00|18-04-2023
+Jeremiah Liu|[On Uncertainty Calibration and Selective Generation in Probabilistic   Neural Summarization: A Benchmark Study](http://arxiv.org/abs/2304.08653v1)|2023-04-17 23:06:28+00:00|17-04-2023
+Johannes Textor|[pgmpy: A Python Toolkit for Bayesian Networks](http://arxiv.org/abs/2304.08639v1)|2023-04-17 22:17:53+00:00|17-04-2023
+Xiaoqun Zhang|[NF-ULA: Langevin Monte Carlo with Normalizing Flow Prior for Imaging   Inverse Problems](http://arxiv.org/abs/2304.08342v1)|2023-04-17 15:03:45+00:00|17-04-2023
+Matthias Chung|[Goal-oriented Uncertainty Quantification for Inverse Problems via   Variational Encoder-Decoder Networks](http://arxiv.org/abs/2304.08324v1)|2023-04-17 14:44:59+00:00|17-04-2023
+Vincent Fortuin|[Promises and Pitfalls of the Linearized Laplace in Bayesian Optimization](http://arxiv.org/abs/2304.08309v1)|2023-04-17 14:23:43+00:00|17-04-2023
+Marta Kwiatkowska|[Compositional Probabilistic and Causal Inference using Tractable Circuit   Models](http://arxiv.org/abs/2304.08278v1)|2023-04-17 13:48:16+00:00|17-04-2023
+Neil D. Lawrence|[Dimensionality Reduction as Probabilistic Inference](http://arxiv.org/abs/2304.07658v1)|2023-04-15 23:48:59+00:00|15-04-2023
+Sean Tull|[Causal models in string diagrams](http://arxiv.org/abs/2304.07638v1)|2023-04-15 21:54:48+00:00|15-04-2023
+Cory M. Simon|[A tutorial on the Bayesian statistical approach to inverse problems](http://arxiv.org/abs/2304.07610v1)|2023-04-15 18:32:54+00:00|15-04-2023
+
 ## 18-04-2023
 
 main_author|title|update_date|publish_date

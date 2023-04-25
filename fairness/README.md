@@ -1,5 +1,54 @@
 # fairness
 Click on title for link to paper
+## 25-04-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Eric Schulz|[Inducing anxiety in large language models increases exploration and bias](http://arxiv.org/abs/2304.11111v1)|2023-04-21 16:29:43+00:00|21-04-2023
+Lars Maaløe|[Automated Medical Coding on MIMIC-III and MIMIC-IV: A Critical Review   and Replicability Study](http://arxiv.org/abs/2304.10909v1)|2023-04-21 11:54:44+00:00|21-04-2023
+Andrea Patane|[Individual Fairness in Bayesian Neural Networks](http://arxiv.org/abs/2304.10828v1)|2023-04-21 09:12:14+00:00|21-04-2023
+Richard A. Young|[Auditing and Generating Synthetic Data with Controllable Trust   Trade-offs](http://arxiv.org/abs/2304.10819v1)|2023-04-21 09:03:18+00:00|21-04-2023
+Xiu Li|[Towards Realizing the Value of Labeled Target Samples: a Two-Stage   Approach for Semi-Supervised Domain Adaptation](http://arxiv.org/abs/2304.10762v1)|2023-04-21 06:13:23+00:00|21-04-2023
+Chi-man Vong|[Graph based Label Enhancement for Multi-instance Multi-label learning](http://arxiv.org/abs/2304.10705v1)|2023-04-21 02:24:49+00:00|21-04-2023
+Abdurrahman Gumus|[Deep reproductive feature generation framework for the diagnosis of   COVID-19 and viral pneumonia using chest X-ray images](http://arxiv.org/abs/2304.10677v1)|2023-04-20 23:52:21+00:00|20-04-2023
+Loris D'Antoni|[The Dataset Multiplicity Problem: How Unreliable Data Impacts   Predictions](http://arxiv.org/abs/2304.10655v1)|2023-04-20 21:31:15+00:00|20-04-2023
+Shiva Prasad Kasiviswanathan|[Debiasing Conditional Stochastic Optimization](http://arxiv.org/abs/2304.10613v1)|2023-04-20 19:19:55+00:00|20-04-2023
+Uri Shalit|[B-Learner: Quasi-Oracle Bounds on Heterogeneous Causal Effects Under   Hidden Confounding](http://arxiv.org/abs/2304.10577v1)|2023-04-20 18:07:19+00:00|20-04-2023
+Andrew D. White|[Censoring chemical data to mitigate dual use risk](http://arxiv.org/abs/2304.10510v1)|2023-04-20 17:46:30+00:00|20-04-2023
+Minlie Huang|[Safety Assessment of Chinese Large Language Models](http://arxiv.org/abs/2304.10436v1)|2023-04-20 16:27:35+00:00|20-04-2023
+Gang Hua|[Regularizing Second-Order Influences for Continual Learning](http://arxiv.org/abs/2304.10177v1)|2023-04-20 09:30:35+00:00|20-04-2023
+Ionel Popescu|[Interpolation property of shallow neural networks](http://arxiv.org/abs/2304.10552v1)|2023-04-20 08:45:16+00:00|20-04-2023
+Deanna Needell|[Linear Convergence of Reshuffling Kaczmarz Methods With Sparse   Constraints](http://arxiv.org/abs/2304.10123v1)|2023-04-20 07:14:24+00:00|20-04-2023
+Nick Williams|[Too sick for surveillance: Can federal HIV service data improve federal   HIV surveillance efforts?](http://arxiv.org/abs/2304.10023v1)|2023-04-20 00:28:03+00:00|20-04-2023
+Saleema Amershi|[Supporting Human-AI Collaboration in Auditing LLMs with LLMs](http://arxiv.org/abs/2304.09991v1)|2023-04-19 21:59:04+00:00|19-04-2023
+Carson C. Chow|[Interpretable (not just posthoc-explainable) heterogeneous survivor   bias-corrected treatment effects for assignment of postdischarge   interventions to prevent readmissions](http://arxiv.org/abs/2304.09981v1)|2023-04-19 21:33:51+00:00|19-04-2023
+Jeffrey Chan|[Equalised Odds is not Equal Individual Odds: Post-processing for Group   and Individual Fairness](http://arxiv.org/abs/2304.09779v1)|2023-04-19 16:02:00+00:00|19-04-2023
+Frank C. Langbein|[Sample-efficient Model-based Reinforcement Learning for Quantum Control](http://arxiv.org/abs/2304.09718v1)|2023-04-19 15:05:19+00:00|19-04-2023
+Yafeng Ren|[On the Robustness of Aspect-based Sentiment Analysis: Rethinking Model,   Data, and Training](http://arxiv.org/abs/2304.09563v1)|2023-04-19 11:07:43+00:00|19-04-2023
+Thomas Bäck|[Modular Differential Evolution](http://arxiv.org/abs/2304.09524v1)|2023-04-19 09:29:48+00:00|19-04-2023
+Preetum Nakkiran|[Loss minimization yields multicalibration for large neural networks](http://arxiv.org/abs/2304.09424v1)|2023-04-19 05:16:20+00:00|19-04-2023
+Yang Liu|[Long-Term Fairness with Unknown Dynamics](http://arxiv.org/abs/2304.09362v1)|2023-04-19 01:13:37+00:00|19-04-2023
+Visa Koivunen|[The Adaptive $τ$-Lasso: Its Robustness and Oracle Properties](http://arxiv.org/abs/2304.09310v1)|2023-04-18 21:34:14+00:00|18-04-2023
+Mohsen Guizani|[The Metaverse: Survey, Trends, Novel Pipeline Ecosystem & Future   Directions](http://arxiv.org/abs/2304.09240v1)|2023-04-18 18:58:14+00:00|18-04-2023
+Sven Gowal|[Generative models improve fairness of medical classifiers under   distribution shifts](http://arxiv.org/abs/2304.09218v1)|2023-04-18 18:15:38+00:00|18-04-2023
+Maarten Messagie|[Safe reinforcement learning with self-improving hard constraints for   multi-energy management systems](http://arxiv.org/abs/2304.08897v1)|2023-04-18 10:52:16+00:00|18-04-2023
+Bestoun S. Ahmed|[A Domain-Region Based Evaluation of ML Performance Robustness to   Covariate Shift](http://arxiv.org/abs/2304.08855v1)|2023-04-18 09:40:09+00:00|18-04-2023
+Qu Wang|[Large-scale Dynamic Network Representation via Tensor Ring Decomposition](http://arxiv.org/abs/2304.08798v1)|2023-04-18 08:02:48+00:00|18-04-2023
+Henry Gouk|[Effectiveness of Debiasing Techniques: An Indigenous Qualitative   Analysis](http://arxiv.org/abs/2304.11094v1)|2023-04-17 22:25:25+00:00|17-04-2023
+Kevin W. Bowyer|[A Real Balanced Dataset For Understanding Bias? Factors That Impact   Accuracy, Not Numbers of Identities and Images](http://arxiv.org/abs/2304.09818v1)|2023-04-17 22:02:03+00:00|17-04-2023
+Brad Schumitsch|[CAM2: Conformity-Aware Multi-Task Ranking Model for Large-Scale   Recommender Systems](http://arxiv.org/abs/2304.08562v1)|2023-04-17 19:00:55+00:00|17-04-2023
+Maosong Sun|[Tool Learning with Foundation Models](http://arxiv.org/abs/2304.08354v1)|2023-04-17 15:16:10+00:00|17-04-2023
+Wolfgang E. Nagel|[Computational Performance Aware Benchmarking of Unsupervised Concept   Drift Detection](http://arxiv.org/abs/2304.08319v1)|2023-04-17 14:39:56+00:00|17-04-2023
+Isabelle Augenstein|[Thorny Roses: Investigating the Dual Use Dilemma in Natural Language   Processing](http://arxiv.org/abs/2304.08315v1)|2023-04-17 14:37:43+00:00|17-04-2023
+Marko Bertogna|[Uncovering the Background-Induced bias in RGB based 6-DoF Object Pose   Estimation](http://arxiv.org/abs/2304.08230v1)|2023-04-17 12:54:20+00:00|17-04-2023
+Tomas McKelvey|[Analysis of Interpolating Regression Models and the Double Descent   Phenomenon](http://arxiv.org/abs/2304.08113v1)|2023-04-17 09:44:33+00:00|17-04-2023
+Pierre-Yves Oudeyer|[Supporting Qualitative Analysis with Large Language Models: Combining   Codebook with GPT-3 for Deductive Coding](http://arxiv.org/abs/2304.10548v1)|2023-04-17 04:52:43+00:00|17-04-2023
+Fazl Barez|[Fairness in AI and Its Long-Term Implications on Society](http://arxiv.org/abs/2304.09826v1)|2023-04-16 11:22:59+00:00|16-04-2023
+Jennifer Dy|[Explanations of Black-Box Models based on Directional Feature   Interactions](http://arxiv.org/abs/2304.07670v1)|2023-04-16 02:00:25+00:00|16-04-2023
+Zhen Lei|[Surveillance Face Presentation Attack Detection Challenge](http://arxiv.org/abs/2304.07580v1)|2023-04-15 15:23:19+00:00|15-04-2023
+Yaodong Yang|[STAS: Spatial-Temporal Return Decomposition for Multi-agent   Reinforcement Learning](http://arxiv.org/abs/2304.07520v1)|2023-04-15 10:09:03+00:00|15-04-2023
+H. R. Tizhoosh|[Ranking Loss and Sequestering Learning for Reducing Image Search Bias in   Histopathology](http://arxiv.org/abs/2304.08498v1)|2023-04-15 03:38:09+00:00|15-04-2023
+
 ## 18-04-2023
 
 main_author|title|update_date|publish_date

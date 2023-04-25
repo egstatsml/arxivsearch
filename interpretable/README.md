@@ -1,5 +1,14 @@
 # interpretable
 Click on title for link to paper
+## 25-04-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Timothy Proctor|[Learning a quantum computer's capability using convolutional neural   networks](http://arxiv.org/abs/2304.10650v1)|2023-04-20 21:25:33+00:00|20-04-2023
+Henk de Regt|[Towards a Benchmark for Scientific Understanding in Humans and Machines](http://arxiv.org/abs/2304.10327v2)|2023-04-21 08:57:06+00:00|20-04-2023
+Georgina Cosma|[A Meta-heuristic Approach to Estimate and Explain Classifier Uncertainty](http://arxiv.org/abs/2304.10284v1)|2023-04-20 13:09:28+00:00|20-04-2023
+Klaus-Robert Müller|[Towards transparent and robust data-driven wind turbine power curve   models](http://arxiv.org/abs/2304.09835v1)|2023-04-19 17:37:58+00:00|19-04-2023
+
 ## 18-04-2023
 
 main_author|title|update_date|publish_date

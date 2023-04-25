@@ -1,17 +1,11 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
-Ard A. Louis|[Do deep neural networks have an inbuilt Occam's razor?](http://arxiv.org/abs/2304.06670v1)|2023-04-13 16:58:21+00:00|13-04-2023
-Alain Durmus|[Non-asymptotic convergence bounds for Sinkhorn iterates and their   gradients: a coupling approach](http://arxiv.org/abs/2304.06549v1)|2023-04-13 13:58:25+00:00|13-04-2023
-Jie Zhou|[Learning Accurate Performance Predictors for Ultrafast Automated Model   Compression](http://arxiv.org/abs/2304.06393v1)|2023-04-13 10:52:49+00:00|13-04-2023
-Jimmy Ba|[Boosted Prompt Ensembles for Large Language Models](http://arxiv.org/abs/2304.05970v1)|2023-04-12 16:47:15+00:00|12-04-2023
-Kerem Y. Camsari|[CMOS + stochastic nanomagnets: heterogeneous computers for probabilistic   inference and learning](http://arxiv.org/abs/2304.05949v1)|2023-04-12 16:18:12+00:00|12-04-2023
-Changshi Yu|[Landslide Susceptibility Prediction Modeling Based on Self-Screening   Deep Learning Model](http://arxiv.org/abs/2304.06054v1)|2023-04-12 10:31:03+00:00|12-04-2023
-Tamara Broderick|[Black Box Variational Inference with a Deterministic Objective: Faster,   More Accurate, and Even More Black Box](http://arxiv.org/abs/2304.05527v1)|2023-04-11 22:45:18+00:00|11-04-2023
-Adil Salim|[Forward-backward Gaussian variational inference via JKO in the   Bures-Wasserstein Space](http://arxiv.org/abs/2304.05398v1)|2023-04-10 19:49:50+00:00|10-04-2023
-Jean Anne C. Incorvia|[Stochastic Domain Wall-Magnetic Tunnel Junction Artificial Neurons for   Noise-Resilient Spiking Neural Networks](http://arxiv.org/abs/2304.04794v1)|2023-04-10 18:00:26+00:00|10-04-2023
-Jörg Tiedemann|[Uncertainty-Aware Natural Language Inference with Stochastic Weight   Averaging](http://arxiv.org/abs/2304.04726v1)|2023-04-10 17:37:23+00:00|10-04-2023
-Seth Flaxman|[PriorCVAE: scalable MCMC parameter inference with Bayesian deep   generative modelling](http://arxiv.org/abs/2304.04307v2)|2023-04-12 20:09:22+00:00|09-04-2023
-Kun Zhang|[Unsupervised Sampling Promoting for Stochastic Human Trajectory   Prediction](http://arxiv.org/abs/2304.04298v1)|2023-04-09 19:15:14+00:00|09-04-2023
-Qiang Xu|[HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image   Generation](http://arxiv.org/abs/2304.04269v1)|2023-04-09 16:21:43+00:00|09-04-2023
-Weijian Luo|[A Comprehensive Survey on Knowledge Distillation of Diffusion Models](http://arxiv.org/abs/2304.04262v1)|2023-04-09 15:49:28+00:00|09-04-2023
-Sandra Fortini|[Non-asymptotic approximations of Gaussian neural networks via   second-order Poincaré inequalities](http://arxiv.org/abs/2304.04010v1)|2023-04-08 13:52:10+00:00|08-04-2023
+Pierre Chainais|[Plug-and-Play split Gibbs sampler: embedding deep generative priors in   Bayesian inference](http://arxiv.org/abs/2304.11134v1)|2023-04-21 17:17:51+00:00|21-04-2023
+Marcus A. Brubaker|[Long-Term Photometric Consistent Novel View Synthesis with Diffusion   Models](http://arxiv.org/abs/2304.10700v1)|2023-04-21 02:01:02+00:00|21-04-2023
+Yoshitaka Ushiku|[Noisy Universal Domain Adaptation via Divergence Optimization for Visual   Recognition](http://arxiv.org/abs/2304.10333v1)|2023-04-20 14:18:38+00:00|20-04-2023
+Anup Basu|[Learning Temporal Distribution and Spatial Correlation for Universal   Moving Object Segmentation](http://arxiv.org/abs/2304.09949v1)|2023-04-19 20:03:09+00:00|19-04-2023
+Zhongzheng Wang|[Rank-Based Learning and Local Model Based Evolutionary Algorithm for   High-Dimensional Expensive Multi-Objective Problems](http://arxiv.org/abs/2304.09444v1)|2023-04-19 06:25:04+00:00|19-04-2023
+Juho Lee|[Martingale Posterior Neural Processes](http://arxiv.org/abs/2304.09431v1)|2023-04-19 05:58:18+00:00|19-04-2023
+Ping Li|[Likelihood-Based Generative Radiance Field with Latent Space   Energy-Based Model for 3D-Aware Disentangled Image Representation](http://arxiv.org/abs/2304.07918v1)|2023-04-16 23:44:41+00:00|16-04-2023
+Anca L. Ralescu|[Learning Empirical Bregman Divergence for Uncertain Distance   Representation](http://arxiv.org/abs/2304.07689v2)|2023-04-18 01:22:50+00:00|16-04-2023
+Sean Tull|[Causal models in string diagrams](http://arxiv.org/abs/2304.07638v1)|2023-04-15 21:54:48+00:00|15-04-2023
