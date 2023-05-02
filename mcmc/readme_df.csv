@@ -1,5 +1,16 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
+Dong Ni|[Segment Anything Model for Medical Images?](http://arxiv.org/abs/2304.14660v2)|2023-05-01 09:27:01+00:00|28-04-2023
+Satoshi Watanabe|[Enhancing Inverse Problem Solutions with Accurate Surrogate Simulators   and Promising Candidates](http://arxiv.org/abs/2304.13860v1)|2023-04-26 23:05:57+00:00|26-04-2023
+Christoffer Heckman|[BO-ICP: Initialization of Iterative Closest Point Based on Bayesian   Optimization](http://arxiv.org/abs/2304.13114v1)|2023-04-25 19:38:53+00:00|25-04-2023
+Doina Precup|[When Do Graph Neural Networks Help with Node Classification:   Investigating the Homophily Principle on Node Distinguishability](http://arxiv.org/abs/2304.14274v1)|2023-04-25 09:40:47+00:00|25-04-2023
+Patrick T. Brewick|[A Bi-fidelity DeepONet Approach for Modeling Uncertain and Degrading   Hysteretic Systems](http://arxiv.org/abs/2304.12609v1)|2023-04-25 06:49:56+00:00|25-04-2023
+Antoine Cully|[Benchmark tasks for Quality-Diversity applied to Uncertain domains](http://arxiv.org/abs/2304.12454v2)|2023-04-26 17:46:21+00:00|24-04-2023
+John Lygeros|[Stochastic MPC for energy hubs using data driven demand forecasting](http://arxiv.org/abs/2304.12438v1)|2023-04-24 20:24:07+00:00|24-04-2023
+Xinchi Ran|[Label-free timing analysis of modularized nuclear detectors with   physics-constrained deep learning](http://arxiv.org/abs/2304.11930v2)|2023-04-28 11:16:46+00:00|24-04-2023
+Takahiro Hanyu|[Local Energy Distribution Based Hyperparameter Determination for   Stochastic Simulated Annealing](http://arxiv.org/abs/2304.11839v1)|2023-04-24 06:16:09+00:00|24-04-2023
+Yair Goldberg|[Silent Abandonment in Contact Centers: Estimating Customer Patience from   Uncertain Data](http://arxiv.org/abs/2304.11754v1)|2023-04-23 21:43:03+00:00|23-04-2023
+---|---|---|---
 Pierre Chainais|[Plug-and-Play split Gibbs sampler: embedding deep generative priors in   Bayesian inference](http://arxiv.org/abs/2304.11134v1)|2023-04-21 17:17:51+00:00|21-04-2023
 Marcus A. Brubaker|[Long-Term Photometric Consistent Novel View Synthesis with Diffusion   Models](http://arxiv.org/abs/2304.10700v1)|2023-04-21 02:01:02+00:00|21-04-2023
 Yoshitaka Ushiku|[Noisy Universal Domain Adaptation via Divergence Optimization for Visual   Recognition](http://arxiv.org/abs/2304.10333v1)|2023-04-20 14:18:38+00:00|20-04-2023

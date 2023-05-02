@@ -1,5 +1,25 @@
 # bnn
 Click on title for link to paper
+## 02-05-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Yuan Ji|[PAM: Plaid Atoms Model for Bayesian Nonparametric Analysis of Grouped   Data](http://arxiv.org/abs/2304.14954v1)|2023-04-28 16:18:43+00:00|28-04-2023
+Hugo J. Kuijf|[Effect of latent space distribution on the segmentation of images with   multiple annotations](http://arxiv.org/abs/2304.13476v1)|2023-04-26 12:00:00+00:00|26-04-2023
+Peyman Najafirad|[Single-View Height Estimation with Conditional Diffusion Probabilistic   Models](http://arxiv.org/abs/2304.13214v1)|2023-04-26 00:37:05+00:00|26-04-2023
+Houman Owhadi|[Kernel Methods are Competitive for Operator Learning](http://arxiv.org/abs/2304.13202v1)|2023-04-26 00:07:59+00:00|26-04-2023
+Roger Wattenhofer|[Discovering Graph Generation Algorithms](http://arxiv.org/abs/2304.12895v1)|2023-04-25 15:06:22+00:00|25-04-2023
+Doina Precup|[When Do Graph Neural Networks Help with Node Classification:   Investigating the Homophily Principle on Node Distinguishability](http://arxiv.org/abs/2304.14274v1)|2023-04-25 09:40:47+00:00|25-04-2023
+Hao Wu|[Efficient Bayesian inference using physics-informed invertible neural   networks for inverse problems](http://arxiv.org/abs/2304.12541v2)|2023-04-26 12:22:34+00:00|25-04-2023
+Janos Sztipanovits|[Sample-Efficient and Surrogate-Based Design Optimization of Underwater   Vehicle Hulls](http://arxiv.org/abs/2304.12420v1)|2023-04-24 19:52:42+00:00|24-04-2023
+Ivan Dokmanić|[A Transfer Principle: Universal Approximators Between Metric Spaces From   Euclidean Universal Approximators](http://arxiv.org/abs/2304.12231v1)|2023-04-24 16:18:22+00:00|24-04-2023
+William T. Freeman|[Score-Based Diffusion Models as Principled Priors for Inverse Imaging](http://arxiv.org/abs/2304.11751v1)|2023-04-23 21:05:59+00:00|23-04-2023
+Meredith Franklin|[Quantile Extreme Gradient Boosting for Uncertainty Quantification](http://arxiv.org/abs/2304.11732v1)|2023-04-23 19:46:19+00:00|23-04-2023
+Guandong Xu|[Improved Churn Causal Analysis Through Restrained High-Dimensional   Feature Space Effects in Financial Institutions](http://arxiv.org/abs/2304.11503v1)|2023-04-23 00:45:35+00:00|23-04-2023
+Matthias Poloczek|[Increasing the Scope as You Learn: Adaptive Bayesian Optimization in   Nested Subspaces](http://arxiv.org/abs/2304.11468v1)|2023-04-22 19:20:39+00:00|22-04-2023
+Pratik Chaudhari|[Fast Diffusion Probabilistic Model Sampling through the lens of Backward   Error Analysis](http://arxiv.org/abs/2304.11446v1)|2023-04-22 16:58:47+00:00|22-04-2023
+W. Bastiaan Kleijn|[Lookahead Diffusion Probabilistic Models for Refining Mean Estimation](http://arxiv.org/abs/2304.11312v1)|2023-04-22 03:58:08+00:00|22-04-2023
+
 ## 25-04-2023
 
 main_author|title|update_date|publish_date
