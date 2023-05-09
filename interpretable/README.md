@@ -1,5 +1,20 @@
 # interpretable
 Click on title for link to paper
+## 09-05-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Meisam Razaviyayn|[Distributing Synergy Functions: Unifying Game-Theoretic Interaction   Methods for Machine-Learning Explainability](http://arxiv.org/abs/2305.03100v1)|2023-05-04 18:33:18+00:00|04-05-2023
+Matthias Samwald|[An automatically discovered chain-of-thought prompt generalizes to novel   models and datasets](http://arxiv.org/abs/2305.02897v1)|2023-05-04 15:07:20+00:00|04-05-2023
+Cristian Tufisi|[Neuro-symbolic model for cantilever beams damage detection](http://arxiv.org/abs/2305.03063v1)|2023-05-04 13:12:39+00:00|04-05-2023
+Claire Cardie|[Fashionpedia-Taste: A Dataset towards Explaining Human Fashion Taste](http://arxiv.org/abs/2305.02307v1)|2023-05-03 17:54:50+00:00|03-05-2023
+Cecilia Sonstrod|[Calibrated Explanations: with Uncertainty Information and   Counterfactuals](http://arxiv.org/abs/2305.02305v1)|2023-05-03 17:52:41+00:00|03-05-2023
+Tan Wang|[Explaining Language Models' Predictions with High-Impact Concepts](http://arxiv.org/abs/2305.02160v1)|2023-05-03 14:48:27+00:00|03-05-2023
+Ulrike Lohmann|[Understanding cirrus clouds using explainable machine learning](http://arxiv.org/abs/2305.02090v1)|2023-05-03 12:50:57+00:00|03-05-2023
+Karim Lekadir|[Commentary on explainable artificial intelligence methods: SHAP and LIME](http://arxiv.org/abs/2305.02012v2)|2023-05-08 11:09:07+00:00|03-05-2023
+Christopher Naugler|[Automated Paper Screening for Clinical Reviews Using Large Language   Models](http://arxiv.org/abs/2305.00844v1)|2023-05-01 14:16:37+00:00|01-05-2023
+Marcel Worring|[Causalainer: Causal Explainer for Automatic Video Summarization](http://arxiv.org/abs/2305.00455v1)|2023-04-30 11:42:06+00:00|30-04-2023
+
 ## 02-05-2023
 
 main_author|title|update_date|publish_date

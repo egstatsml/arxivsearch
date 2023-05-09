@@ -1,12 +1,10 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
-Dong Ni|[Segment Anything Model for Medical Images?](http://arxiv.org/abs/2304.14660v2)|2023-05-01 09:27:01+00:00|28-04-2023
-Satoshi Watanabe|[Enhancing Inverse Problem Solutions with Accurate Surrogate Simulators   and Promising Candidates](http://arxiv.org/abs/2304.13860v1)|2023-04-26 23:05:57+00:00|26-04-2023
-Christoffer Heckman|[BO-ICP: Initialization of Iterative Closest Point Based on Bayesian   Optimization](http://arxiv.org/abs/2304.13114v1)|2023-04-25 19:38:53+00:00|25-04-2023
-Doina Precup|[When Do Graph Neural Networks Help with Node Classification:   Investigating the Homophily Principle on Node Distinguishability](http://arxiv.org/abs/2304.14274v1)|2023-04-25 09:40:47+00:00|25-04-2023
-Patrick T. Brewick|[A Bi-fidelity DeepONet Approach for Modeling Uncertain and Degrading   Hysteretic Systems](http://arxiv.org/abs/2304.12609v1)|2023-04-25 06:49:56+00:00|25-04-2023
-Antoine Cully|[Benchmark tasks for Quality-Diversity applied to Uncertain domains](http://arxiv.org/abs/2304.12454v2)|2023-04-26 17:46:21+00:00|24-04-2023
-John Lygeros|[Stochastic MPC for energy hubs using data driven demand forecasting](http://arxiv.org/abs/2304.12438v1)|2023-04-24 20:24:07+00:00|24-04-2023
-Xinchi Ran|[Label-free timing analysis of modularized nuclear detectors with   physics-constrained deep learning](http://arxiv.org/abs/2304.11930v2)|2023-04-28 11:16:46+00:00|24-04-2023
-Takahiro Hanyu|[Local Energy Distribution Based Hyperparameter Determination for   Stochastic Simulated Annealing](http://arxiv.org/abs/2304.11839v1)|2023-04-24 06:16:09+00:00|24-04-2023
-Yair Goldberg|[Silent Abandonment in Contact Centers: Estimating Customer Patience from   Uncertain Data](http://arxiv.org/abs/2304.11754v1)|2023-04-23 21:43:03+00:00|23-04-2023
+Chris M. Danforth|[Curating corpora with classifiers: A case study of clean energy   sentiment online](http://arxiv.org/abs/2305.03092v1)|2023-05-04 18:15:45+00:00|04-05-2023
+Kevin Vanslette|[Inferential Moments of Uncertain Multivariable Systems](http://arxiv.org/abs/2305.01841v1)|2023-05-03 00:56:12+00:00|03-05-2023
+Marta Kwiatkowska|[Sample Efficient Model-free Reinforcement Learning from LTL   Specifications with Optimality Guarantees](http://arxiv.org/abs/2305.01381v2)|2023-05-03 12:47:09+00:00|02-05-2023
+Leif Döring|[Random Function Descent](http://arxiv.org/abs/2305.01377v1)|2023-05-02 12:53:50+00:00|02-05-2023
+Mahnoosh Alizadeh|[The Impact of the Geometric Properties of the Constraint Set in Safe   Optimization with Bandit Feedback](http://arxiv.org/abs/2305.00889v1)|2023-05-01 15:48:34+00:00|01-05-2023
+Nils Jansen|[Efficient Sensitivity Analysis for Parametric Robust Markov Chains](http://arxiv.org/abs/2305.01473v1)|2023-05-01 08:23:55+00:00|01-05-2023
+Liang Ding|[Representing Additive Gaussian Processes by Sparse Matrices](http://arxiv.org/abs/2305.00324v1)|2023-04-29 18:53:42+00:00|29-04-2023
+Dietmar Saupe|[Relaxed forced choice improves performance of visual quality assessment   methods](http://arxiv.org/abs/2305.00220v1)|2023-04-29 10:10:25+00:00|29-04-2023

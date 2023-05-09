@@ -1,5 +1,18 @@
 # variational
 Click on title for link to paper
+## 09-05-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Chris M. Danforth|[Curating corpora with classifiers: A case study of clean energy   sentiment online](http://arxiv.org/abs/2305.03092v1)|2023-05-04 18:15:45+00:00|04-05-2023
+Kevin Vanslette|[Inferential Moments of Uncertain Multivariable Systems](http://arxiv.org/abs/2305.01841v1)|2023-05-03 00:56:12+00:00|03-05-2023
+Marta Kwiatkowska|[Sample Efficient Model-free Reinforcement Learning from LTL   Specifications with Optimality Guarantees](http://arxiv.org/abs/2305.01381v2)|2023-05-03 12:47:09+00:00|02-05-2023
+Leif Döring|[Random Function Descent](http://arxiv.org/abs/2305.01377v1)|2023-05-02 12:53:50+00:00|02-05-2023
+Mahnoosh Alizadeh|[The Impact of the Geometric Properties of the Constraint Set in Safe   Optimization with Bandit Feedback](http://arxiv.org/abs/2305.00889v1)|2023-05-01 15:48:34+00:00|01-05-2023
+Nils Jansen|[Efficient Sensitivity Analysis for Parametric Robust Markov Chains](http://arxiv.org/abs/2305.01473v1)|2023-05-01 08:23:55+00:00|01-05-2023
+Liang Ding|[Representing Additive Gaussian Processes by Sparse Matrices](http://arxiv.org/abs/2305.00324v1)|2023-04-29 18:53:42+00:00|29-04-2023
+Dietmar Saupe|[Relaxed forced choice improves performance of visual quality assessment   methods](http://arxiv.org/abs/2305.00220v1)|2023-04-29 10:10:25+00:00|29-04-2023
+
 ## 02-05-2023
 
 main_author|title|update_date|publish_date

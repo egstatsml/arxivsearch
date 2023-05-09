@@ -1,5 +1,28 @@
 # bnn
 Click on title for link to paper
+## 09-05-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Aliaksandr Hubin|[Sparsifying Bayesian neural networks with latent binary variables and   normalizing flows](http://arxiv.org/abs/2305.03395v1)|2023-05-05 09:40:28+00:00|05-05-2023
+George Em Karniadakis|[A Generative Modeling Framework for Inferring Families of Biomechanical   Constitutive Laws in Data-Sparse Regimes](http://arxiv.org/abs/2305.03184v1)|2023-05-04 22:07:27+00:00|04-05-2023
+Jie Chen|[Communication-Efficient Graph Neural Networks with Probabilistic   Neighborhood Expansion Analysis and Caching](http://arxiv.org/abs/2305.03152v1)|2023-05-04 21:04:01+00:00|04-05-2023
+Constantine Lignos|[What changes when you randomly choose BPE merge operations? Not much](http://arxiv.org/abs/2305.03029v1)|2023-05-04 17:53:27+00:00|04-05-2023
+Fengying Yan|[LayoutDM: Transformer-based Diffusion Model for Layout Generation](http://arxiv.org/abs/2305.02567v1)|2023-05-04 05:51:35+00:00|04-05-2023
+Jan-Willem van de Meent|[String Diagrams with Factorized Densities](http://arxiv.org/abs/2305.02506v1)|2023-05-04 02:30:44+00:00|04-05-2023
+Arthur Dubois|[Bayesian Safety Validation for Black-Box Systems](http://arxiv.org/abs/2305.02449v1)|2023-05-03 22:22:48+00:00|03-05-2023
+Kevin Vanslette|[Inferential Moments of Uncertain Multivariable Systems](http://arxiv.org/abs/2305.01841v1)|2023-05-03 00:56:12+00:00|03-05-2023
+Qi Long|[MISNN: Multiple Imputation via Semi-parametric Neural Networks](http://arxiv.org/abs/2305.01794v1)|2023-05-02 21:45:36+00:00|02-05-2023
+Hong Yu|[Vision Meets Definitions: Unsupervised Visual Word Sense Disambiguation   Incorporating Gloss Information](http://arxiv.org/abs/2305.01788v1)|2023-05-02 21:33:10+00:00|02-05-2023
+Joseph Jacob|[Expectation Maximization Pseudo Labelling for Segmentation with Limited   Annotations](http://arxiv.org/abs/2305.01747v1)|2023-05-02 19:29:17+00:00|02-05-2023
+Alistair Morrison|[Probabilistic Formal Modelling to Uncover and Interpret Interaction   Styles](http://arxiv.org/abs/2305.01656v1)|2023-05-01 21:17:01+00:00|01-05-2023
+Oliver Schulte|[Computing Expected Motif Counts for Exchangeable Graph Generative Models](http://arxiv.org/abs/2305.01089v1)|2023-05-01 21:03:53+00:00|01-05-2023
+Joshua B Tenenbaum|[Evaluating statistical language models as pragmatic reasoners](http://arxiv.org/abs/2305.01020v1)|2023-05-01 18:22:10+00:00|01-05-2023
+Geir Storvik|[Variational Inference for Bayesian Neural Networks under Model and   Parameter Uncertainty](http://arxiv.org/abs/2305.00934v1)|2023-05-01 16:38:17+00:00|01-05-2023
+David S. Kammer|[Collective Relational Inference for learning physics-consistent   heterogeneous particle interactions](http://arxiv.org/abs/2305.00557v1)|2023-04-30 19:45:04+00:00|30-04-2023
+Mohamed Debbagh|[Learning Structured Output Representations from Attributes using Deep   Conditional Generative Models](http://arxiv.org/abs/2305.00980v1)|2023-04-30 17:25:31+00:00|30-04-2023
+Antonis Argyros|[TAPE: Temporal Attention-based Probabilistic human pose and shape   Estimation](http://arxiv.org/abs/2305.00181v1)|2023-04-29 06:08:43+00:00|29-04-2023
+
 ## 02-05-2023
 
 main_author|title|update_date|publish_date
