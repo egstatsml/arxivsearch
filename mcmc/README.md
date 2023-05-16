@@ -1,5 +1,20 @@
 # mcmc
 Click on title for link to paper
+## 16-05-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Christopher G. Lucas|[Selective imitation on the basis of reward function similarity](http://arxiv.org/abs/2305.07421v1)|2023-05-12 12:40:08+00:00|12-05-2023
+Erik G. Larsson|[Decentralized Learning over Wireless Networks: The Effect of Broadcast   with Random Access](http://arxiv.org/abs/2305.07368v1)|2023-05-12 10:32:26+00:00|12-05-2023
+Jeff Bilmes|[Accelerating Batch Active Learning Using Continual Learning Techniques](http://arxiv.org/abs/2305.06408v1)|2023-05-10 18:34:05+00:00|10-05-2023
+Hông Vân Lê|[Supervised learning with probabilistic morphisms and kernel mean   embeddings](http://arxiv.org/abs/2305.06348v1)|2023-05-10 17:54:21+00:00|10-05-2023
+Guixia Liu|[RFR-WWANet: Weighted Window Attention-Based Recovery Feature Resolution   Network for Unsupervised Image Registration](http://arxiv.org/abs/2305.04236v1)|2023-05-07 09:57:29+00:00|07-05-2023
+Guangxu Zhu|[Bayesian Over-the-Air FedAvg via Channel Driven Stochastic Gradient   Langevin Dynamics](http://arxiv.org/abs/2305.04152v2)|2023-05-09 13:30:12+00:00|07-05-2023
+Yijie Peng|[Efficient Learning for Selecting Top-m Context-Dependent Designs](http://arxiv.org/abs/2305.04086v1)|2023-05-06 16:11:49+00:00|06-05-2023
+Qiang Cheng|[Variational Nonlinear Kalman Filtering with Unknown Process Noise   Covariance](http://arxiv.org/abs/2305.03914v1)|2023-05-06 03:34:39+00:00|06-05-2023
+Todd Munson|[Robust A-Optimal Experimental Design for Bayesian Inverse Problems](http://arxiv.org/abs/2305.03855v1)|2023-05-05 21:43:00+00:00|05-05-2023
+Joel A. Paulson|[No-Regret Constrained Bayesian Optimization of Noisy and Expensive   Hybrid Models using Differentiable Quantile Function Approximations](http://arxiv.org/abs/2305.03824v1)|2023-05-05 19:57:36+00:00|05-05-2023
+
 ## 09-05-2023
 
 main_author|title|update_date|publish_date

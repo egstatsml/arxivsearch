@@ -1,5 +1,59 @@
 # fairness
 Click on title for link to paper
+## 16-05-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Xiangnan He|[Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large   Language Model Recommendation](http://arxiv.org/abs/2305.07609v1)|2023-05-12 16:54:36+00:00|12-05-2023
+David Smith|[Learn to Unlearn: A Survey on Machine Unlearning](http://arxiv.org/abs/2305.07512v1)|2023-05-12 14:28:02+00:00|12-05-2023
+Christopher G. Lucas|[Selective imitation on the basis of reward function similarity](http://arxiv.org/abs/2305.07421v1)|2023-05-12 12:40:08+00:00|12-05-2023
+Roee Aharoni|[Surfacing Biases in Large Language Models using Contrastive Input   Decoding](http://arxiv.org/abs/2305.07378v1)|2023-05-12 11:09:49+00:00|12-05-2023
+Joachim Spoerhase|[Parameterized Approximation for Robust Clustering in Discrete Geometric   Spaces](http://arxiv.org/abs/2305.07316v1)|2023-05-12 08:43:28+00:00|12-05-2023
+Xinbo Gao|[Rethinking k-means from manifold learning perspective](http://arxiv.org/abs/2305.07213v1)|2023-05-12 03:01:41+00:00|12-05-2023
+Leonardo Tomazeli Duarte|[A statistical approach to detect sensitive features in a group fairness   setting](http://arxiv.org/abs/2305.06994v1)|2023-05-11 17:30:12+00:00|11-05-2023
+Juri Opitz|[SMATCH++: Standardized and Extended Evaluation of Semantic Graphs](http://arxiv.org/abs/2305.06993v1)|2023-05-11 17:29:47+00:00|11-05-2023
+Lu Cheng|[A Survey on Intersectional Fairness in Machine Learning: Notions,   Mitigation, and Challenges](http://arxiv.org/abs/2305.06969v2)|2023-05-12 22:50:44+00:00|11-05-2023
+Petr Sojka|[Think Twice: Measuring the Efficiency of Eliminating Prediction   Shortcuts of Question Answering Models](http://arxiv.org/abs/2305.06841v1)|2023-05-11 14:35:00+00:00|11-05-2023
+Syed Raza Bashir|[Fairness in Machine Learning meets with Equity in Healthcare](http://arxiv.org/abs/2305.07041v1)|2023-05-11 14:25:34+00:00|11-05-2023
+Qing Li|[Exploring the Landscape of Machine Unlearning: A Comprehensive Survey   and Taxonomy](http://arxiv.org/abs/2305.06360v2)|2023-05-14 09:51:38+00:00|10-05-2023
+Anikó Hannák|[A Classification of Feedback Loops and Their Relation to Biases in   Automated Decision-Making Systems](http://arxiv.org/abs/2305.06055v1)|2023-05-10 11:15:22+00:00|10-05-2023
+Yanghua Xiao|[Say What You Mean! Large Language Models Speak Too Positively about   Negative Commonsense Knowledge](http://arxiv.org/abs/2305.05976v2)|2023-05-13 13:34:04+00:00|10-05-2023
+Petre Stoica|[Fair principal component analysis (PCA): minorization-maximization   algorithms for Fair PCA, Fair Robust PCA and Fair Sparse PCA](http://arxiv.org/abs/2305.05963v1)|2023-05-10 08:14:32+00:00|10-05-2023
+Yakun Sophia Shao|[MoCA: Memory-Centric, Adaptive Execution for Multi-Tenant Deep Neural   Networks](http://arxiv.org/abs/2305.05843v1)|2023-05-10 02:24:50+00:00|10-05-2023
+Tian Lu|[Inclusive FinTech Lending via Contrastive Learning and Domain Adaptation](http://arxiv.org/abs/2305.05827v1)|2023-05-10 01:11:35+00:00|10-05-2023
+Sandra Avila|[Even Small Correlation and Diversity Shifts Pose Dataset-Bias Issues](http://arxiv.org/abs/2305.05807v1)|2023-05-09 23:40:23+00:00|09-05-2023
+Asia Biega|[The Role of Relevance in Fair Ranking](http://arxiv.org/abs/2305.05608v1)|2023-05-09 16:58:23+00:00|09-05-2023
+Noel E. O'Connor|[Fashion CUT: Unsupervised domain adaptation for visual pattern   classification in clothes using synthetic data and pseudo-labels](http://arxiv.org/abs/2305.05580v1)|2023-05-09 16:14:57+00:00|09-05-2023
+Rachel Ward|[Robust Implicit Regularization via Weight Normalization](http://arxiv.org/abs/2305.05448v1)|2023-05-09 13:38:55+00:00|09-05-2023
+Dimitar Kazakov|[ChatGPT as a Text Simplification Tool to Remove Bias](http://arxiv.org/abs/2305.06166v1)|2023-05-09 13:10:23+00:00|09-05-2023
+Yizhou Wang|[Causal Discovery with Unobserved Variables: A Proxy Variable Approach](http://arxiv.org/abs/2305.05281v1)|2023-05-09 09:08:39+00:00|09-05-2023
+Athanasios Mouchtaris|[Robust Acoustic and Semantic Contextual Biasing in Neural Transducers   for Speech Recognition](http://arxiv.org/abs/2305.05271v1)|2023-05-09 08:51:44+00:00|09-05-2023
+Zhongzhan Huang|[LSAS: Lightweight Sub-attention Strategy for Alleviating Attention Bias   Problem](http://arxiv.org/abs/2305.05200v1)|2023-05-09 06:25:59+00:00|09-05-2023
+Li Zhang|[Hybrid Transformer and CNN Attention Network for Stereo Image   Super-resolution](http://arxiv.org/abs/2305.05177v1)|2023-05-09 05:19:16+00:00|09-05-2023
+Rodrigo Echeveste|[Towards unraveling calibration biases in medical image analysis](http://arxiv.org/abs/2305.05101v1)|2023-05-09 00:11:35+00:00|09-05-2023
+Konstantin Berlin|[Web Content Filtering through knowledge distillation of Large Language   Models](http://arxiv.org/abs/2305.05027v2)|2023-05-10 08:36:57+00:00|08-05-2023
+Iacopo Vagliano|[Autoencoder-based prediction of ICU clinical codes](http://arxiv.org/abs/2305.04992v1)|2023-05-08 18:56:37+00:00|08-05-2023
+Chris Callison-Burch|[Explanation-based Finetuning Makes Models More Robust to Spurious Cues](http://arxiv.org/abs/2305.04990v1)|2023-05-08 18:53:45+00:00|08-05-2023
+Philippe Langlais|[LABO: Towards Learning Optimal Label Regularization via Bi-level   Optimization](http://arxiv.org/abs/2305.04971v1)|2023-05-08 18:04:18+00:00|08-05-2023
+Aaditya Ramdas|[Risk-limiting Financial Audits via Weighted Sampling without Replacement](http://arxiv.org/abs/2305.06884v1)|2023-05-08 17:34:06+00:00|08-05-2023
+Le Sun|[A Drop of Ink may Make a Million Think: The Spread of False Information   in Large Language Models](http://arxiv.org/abs/2305.04812v1)|2023-05-08 16:10:18+00:00|08-05-2023
+Claudia Redenbach|[Riesz networks: scale invariant neural networks in a single forward pass](http://arxiv.org/abs/2305.04665v1)|2023-05-08 12:39:49+00:00|08-05-2023
+Frank Hutter|[MO-DEHB: Evolutionary-based Hyperband for Multi-Objective Optimization](http://arxiv.org/abs/2305.04502v2)|2023-05-11 07:32:09+00:00|08-05-2023
+Myungjoo Kang|[AnomalyBERT: Self-Supervised Transformer for Time Series Anomaly   Detection using Data Degradation Scheme](http://arxiv.org/abs/2305.04468v1)|2023-05-08 05:42:24+00:00|08-05-2023
+Anuradha M. Annaswamy|[Accelerated Algorithms for a Class of Optimization Problems with   Equality and Box Constraints](http://arxiv.org/abs/2305.04433v1)|2023-05-08 03:05:55+00:00|08-05-2023
+Hari Trivedi|[Performance Gaps of Artificial Intelligence Models Screening Mammography   -- Towards Fair and Interpretable Models](http://arxiv.org/abs/2305.04422v1)|2023-05-08 02:28:45+00:00|08-05-2023
+Samuel R. Bowman|[Language Models Don't Always Say What They Think: Unfaithful   Explanations in Chain-of-Thought Prompting](http://arxiv.org/abs/2305.04388v1)|2023-05-07 22:44:25+00:00|07-05-2023
+Samory Kpotufe|[Classification Tree Pruning Under Covariate Shift](http://arxiv.org/abs/2305.04335v1)|2023-05-07 17:08:21+00:00|07-05-2023
+Heng Tao Shen|[Instance-Variant Loss with Gaussian RBF Kernel for 3D Cross-modal   Retriveal](http://arxiv.org/abs/2305.04239v1)|2023-05-07 10:12:14+00:00|07-05-2023
+Ningzhou Zeng|[PiML Toolbox for Interpretable Machine Learning Model Development and   Validation](http://arxiv.org/abs/2305.04214v1)|2023-05-07 08:19:07+00:00|07-05-2023
+ZhongJin Zhao|[PhysBench: A Benchmark Framework for Remote Physiological Sensing with   New Dataset and Baseline](http://arxiv.org/abs/2305.04161v1)|2023-05-07 02:26:00+00:00|07-05-2023
+Yu Cheng|[Transform-Equivariant Consistency Learning for Temporal Sentence   Grounding](http://arxiv.org/abs/2305.04123v1)|2023-05-06 19:29:28+00:00|06-05-2023
+Jitao Sang|[Echoes: Unsupervised Debiasing via Pseudo-bias Labeling in an Echo   Chamber](http://arxiv.org/abs/2305.04043v1)|2023-05-06 13:13:18+00:00|06-05-2023
+Artur Bekasov|[Learning Action Embeddings for Off-Policy Evaluation](http://arxiv.org/abs/2305.03954v1)|2023-05-06 06:44:30+00:00|06-05-2023
+Hongtao Lu|[Structural and Statistical Texture Knowledge Distillation for Semantic   Segmentation](http://arxiv.org/abs/2305.03944v1)|2023-05-06 06:01:11+00:00|06-05-2023
+Ou Wu|[Rethinking Class Imbalance in Machine Learning](http://arxiv.org/abs/2305.03900v1)|2023-05-06 02:36:39+00:00|06-05-2023
+Yunhe Feng|[Fairness in Image Search: A Study of Occupational Stereotyping in Image   Retrieval and its Debiasing](http://arxiv.org/abs/2305.03881v1)|2023-05-06 00:24:44+00:00|06-05-2023
+
 ## 09-05-2023
 
 main_author|title|update_date|publish_date

@@ -1,5 +1,20 @@
 # interpretable
 Click on title for link to paper
+## 16-05-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Haoliang Li|[Interpretable Multimodal Misinformation Detection with Logic Reasoning](http://arxiv.org/abs/2305.05964v1)|2023-05-10 08:16:36+00:00|10-05-2023
+Yulan He|[Explainable Recommender with Geometric Information Bottleneck](http://arxiv.org/abs/2305.05331v1)|2023-05-09 10:38:36+00:00|09-05-2023
+Adnan Darwiche|[Logic for Explainable AI](http://arxiv.org/abs/2305.05172v1)|2023-05-09 04:53:57+00:00|09-05-2023
+Rosina O Weber|[When a CBR in Hand is Better than Twins in the Bush](http://arxiv.org/abs/2305.05111v1)|2023-05-09 00:55:09+00:00|09-05-2023
+Amit Sheth|[Knowledge Graph Guided Semantic Evaluation of Language Models For User   Trust](http://arxiv.org/abs/2305.04989v1)|2023-05-08 18:53:14+00:00|08-05-2023
+Giri Narasimhan|[Explainable Parallel RCNN with Novel Feature Representation for Time   Series Forecasting](http://arxiv.org/abs/2305.04876v1)|2023-05-08 17:20:13+00:00|08-05-2023
+Senja Pollak|[XAI in Computational Linguistics: Understanding Political Leanings in   the Slovenian Parliament](http://arxiv.org/abs/2305.04631v1)|2023-05-08 11:19:21+00:00|08-05-2023
+Samuel R. Bowman|[Language Models Don't Always Say What They Think: Unfaithful   Explanations in Chain-of-Thought Prompting](http://arxiv.org/abs/2305.04388v1)|2023-05-07 22:44:25+00:00|07-05-2023
+Bart Goethals|[Efficient pattern-based anomaly detection in a network of multivariate   devices](http://arxiv.org/abs/2305.05538v1)|2023-05-07 16:05:30+00:00|07-05-2023
+Bruno Petrungaro|[Open problems in causal structure learning: A case study of COVID-19 in   the UK](http://arxiv.org/abs/2305.03859v1)|2023-05-05 22:04:00+00:00|05-05-2023
+
 ## 09-05-2023
 
 main_author|title|update_date|publish_date

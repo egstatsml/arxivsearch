@@ -1,5 +1,27 @@
 # bnn
 Click on title for link to paper
+## 16-05-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Osvaldo Simeone|[Calibration-Aware Bayesian Learning](http://arxiv.org/abs/2305.07504v1)|2023-05-12 14:19:15+00:00|12-05-2023
+Yann McLatchie|[Locking and Quacking: Stacking Bayesian model predictions by log-pooling   and superposition](http://arxiv.org/abs/2305.07334v1)|2023-05-12 09:26:26+00:00|12-05-2023
+Artur Dubrawski|[HINT: Hierarchical Mixture Networks For Coherent Probabilistic   Forecasting](http://arxiv.org/abs/2305.07089v1)|2023-05-11 18:52:11+00:00|11-05-2023
+Yike Guo|[CoMoSpeech: One-Step Speech and Singing Voice Synthesis via Consistency   Model](http://arxiv.org/abs/2305.06908v1)|2023-05-11 15:51:46+00:00|11-05-2023
+Masato Okada|[Sequential Experimental Design for Spectral Measurement: Active Learning   Using a Parametric Model](http://arxiv.org/abs/2305.07040v1)|2023-05-11 13:21:26+00:00|11-05-2023
+Andrea Gutierrez|[Object based Bayesian full-waveform inversion for shear elastography](http://arxiv.org/abs/2305.06646v1)|2023-05-11 08:25:25+00:00|11-05-2023
+A. Spurio Mancini|[CosmoPower-JAX: high-dimensional Bayesian inference with differentiable   cosmological emulators](http://arxiv.org/abs/2305.06347v1)|2023-05-10 17:54:10+00:00|10-05-2023
+Uwe Stilla|[Scan2LoD3: Reconstructing semantic 3D building models at LoD3 using ray   casting and Bayesian networks](http://arxiv.org/abs/2305.06314v1)|2023-05-10 17:01:18+00:00|10-05-2023
+Shireen Elhabian|[Fully Bayesian VIB-DeepSSM](http://arxiv.org/abs/2305.05797v1)|2023-05-09 23:01:05+00:00|09-05-2023
+Alberto Gomez|[Echo from noise: synthetic ultrasound image generation using diffusion   models for real image segmentation](http://arxiv.org/abs/2305.05424v1)|2023-05-09 13:15:52+00:00|09-05-2023
+Adnan Darwiche|[Logic for Explainable AI](http://arxiv.org/abs/2305.05172v1)|2023-05-09 04:53:57+00:00|09-05-2023
+Timothy Hospedales|[FedHB: Hierarchical Bayesian Federated Learning](http://arxiv.org/abs/2305.04979v1)|2023-05-08 18:21:41+00:00|08-05-2023
+Rongjun Qin|[Large-scale and Efficient Texture Mapping Algorithm via Loopy Belief   Propagation](http://arxiv.org/abs/2305.04763v1)|2023-05-08 15:11:28+00:00|08-05-2023
+Xuecheng Nie|[DiffBFR: Bootstrapping Diffusion Model Towards Blind Face Restoration](http://arxiv.org/abs/2305.04517v1)|2023-05-08 07:22:37+00:00|08-05-2023
+Chao Hu|[Uncertainty Quantification in Machine Learning for Engineering Design   and Health Prognostics: A Tutorial](http://arxiv.org/abs/2305.04933v1)|2023-05-07 03:12:03+00:00|07-05-2023
+Guangxu Zhu|[Bayesian Over-the-Air FedAvg via Channel Driven Stochastic Gradient   Langevin Dynamics](http://arxiv.org/abs/2305.04152v2)|2023-05-09 13:30:12+00:00|07-05-2023
+Qiang Cheng|[Variational Nonlinear Kalman Filtering with Unknown Process Noise   Covariance](http://arxiv.org/abs/2305.03914v1)|2023-05-06 03:34:39+00:00|06-05-2023
+
 ## 09-05-2023
 
 main_author|title|update_date|publish_date
