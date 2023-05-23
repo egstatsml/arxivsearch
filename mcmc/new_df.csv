@@ -1,12 +1,17 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
-Christopher G. Lucas|[Selective imitation on the basis of reward function similarity](http://arxiv.org/abs/2305.07421v1)|2023-05-12 12:40:08+00:00|12-05-2023
-Erik G. Larsson|[Decentralized Learning over Wireless Networks: The Effect of Broadcast   with Random Access](http://arxiv.org/abs/2305.07368v1)|2023-05-12 10:32:26+00:00|12-05-2023
-Jeff Bilmes|[Accelerating Batch Active Learning Using Continual Learning Techniques](http://arxiv.org/abs/2305.06408v1)|2023-05-10 18:34:05+00:00|10-05-2023
-Hông Vân Lê|[Supervised learning with probabilistic morphisms and kernel mean   embeddings](http://arxiv.org/abs/2305.06348v1)|2023-05-10 17:54:21+00:00|10-05-2023
-Guixia Liu|[RFR-WWANet: Weighted Window Attention-Based Recovery Feature Resolution   Network for Unsupervised Image Registration](http://arxiv.org/abs/2305.04236v1)|2023-05-07 09:57:29+00:00|07-05-2023
-Guangxu Zhu|[Bayesian Over-the-Air FedAvg via Channel Driven Stochastic Gradient   Langevin Dynamics](http://arxiv.org/abs/2305.04152v2)|2023-05-09 13:30:12+00:00|07-05-2023
-Yijie Peng|[Efficient Learning for Selecting Top-m Context-Dependent Designs](http://arxiv.org/abs/2305.04086v1)|2023-05-06 16:11:49+00:00|06-05-2023
-Qiang Cheng|[Variational Nonlinear Kalman Filtering with Unknown Process Noise   Covariance](http://arxiv.org/abs/2305.03914v1)|2023-05-06 03:34:39+00:00|06-05-2023
-Todd Munson|[Robust A-Optimal Experimental Design for Bayesian Inverse Problems](http://arxiv.org/abs/2305.03855v1)|2023-05-05 21:43:00+00:00|05-05-2023
-Joel A. Paulson|[No-Regret Constrained Bayesian Optimization of Noisy and Expensive   Hybrid Models using Differentiable Quantile Function Approximations](http://arxiv.org/abs/2305.03824v1)|2023-05-05 19:57:36+00:00|05-05-2023
+Hanbyul Joo|[Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D   Diffusion Probabilistic Models](http://arxiv.org/abs/2305.11870v1)|2023-05-19 17:59:18+00:00|19-05-2023
+Mengwu Guo|[Bayesian approach to Gaussian process regression with uncertain inputs](http://arxiv.org/abs/2305.11586v1)|2023-05-19 10:53:08+00:00|19-05-2023
+Richard H. R. Hahnloser|[Unsupervised Scientific Abstract Segmentation with Normalized Mutual   Information](http://arxiv.org/abs/2305.11553v1)|2023-05-19 09:53:45+00:00|19-05-2023
+Marco Pavone|[Bayesian Reparameterization of Reward-Conditioned Reinforcement Learning   with Energy-based Models](http://arxiv.org/abs/2305.11340v1)|2023-05-18 23:23:08+00:00|18-05-2023
+Il Memming Park|[Real-Time Variational Method for Learning Neural Trajectory and its   Dynamics](http://arxiv.org/abs/2305.11278v1)|2023-05-18 19:52:46+00:00|18-05-2023
+Maxim Raginsky|[A unified framework for information-theoretic generalization bounds](http://arxiv.org/abs/2305.11042v1)|2023-05-18 15:36:20+00:00|18-05-2023
+Aaditya Ramdas|[Counterfactually Comparing Abstaining Classifiers](http://arxiv.org/abs/2305.10564v1)|2023-05-17 20:46:57+00:00|17-05-2023
+Matthew Kothe|[The Principle of Uncertain Maximum Entropy](http://arxiv.org/abs/2305.09868v1)|2023-05-17 00:45:41+00:00|17-05-2023
+Manuel Lama|[Fuzzy Temporal Protoforms for the Quantitative Description of Processes   in Natural Language](http://arxiv.org/abs/2305.09506v1)|2023-05-16 14:59:38+00:00|16-05-2023
+Jens Schlöter|[Sorting and Hypergraph Orientation under Uncertainty with Predictions](http://arxiv.org/abs/2305.09245v1)|2023-05-16 07:52:08+00:00|16-05-2023
+Hongsheng Li|[SUG: Single-dataset Unified Generalization for 3D Point Cloud   Classification](http://arxiv.org/abs/2305.09160v1)|2023-05-16 04:36:04+00:00|16-05-2023
+Hong Wang|[Self-Aware Trajectory Prediction for Safe Autonomous Driving](http://arxiv.org/abs/2305.09147v1)|2023-05-16 03:53:23+00:00|16-05-2023
+Faez Ahmed|[DATED: Guidelines for Creating Synthetic Datasets for Engineering Design   Applications](http://arxiv.org/abs/2305.09018v1)|2023-05-15 21:00:09+00:00|15-05-2023
+Orna Raz|[Automatic Generation of Attention Rules For Containment of Machine   Learning Model Errors](http://arxiv.org/abs/2305.08115v1)|2023-05-14 10:15:35+00:00|14-05-2023
+Amir Khorsandi|[Optimization of Residential Demand Response Program Cost with   Consideration for Occupants Thermal Comfort and Privacy](http://arxiv.org/abs/2305.08077v1)|2023-05-14 05:53:39+00:00|14-05-2023

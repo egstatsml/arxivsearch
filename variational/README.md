@@ -1,5 +1,25 @@
 # variational
 Click on title for link to paper
+## 23-05-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Hanbyul Joo|[Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D   Diffusion Probabilistic Models](http://arxiv.org/abs/2305.11870v1)|2023-05-19 17:59:18+00:00|19-05-2023
+Mengwu Guo|[Bayesian approach to Gaussian process regression with uncertain inputs](http://arxiv.org/abs/2305.11586v1)|2023-05-19 10:53:08+00:00|19-05-2023
+Richard H. R. Hahnloser|[Unsupervised Scientific Abstract Segmentation with Normalized Mutual   Information](http://arxiv.org/abs/2305.11553v1)|2023-05-19 09:53:45+00:00|19-05-2023
+Marco Pavone|[Bayesian Reparameterization of Reward-Conditioned Reinforcement Learning   with Energy-based Models](http://arxiv.org/abs/2305.11340v1)|2023-05-18 23:23:08+00:00|18-05-2023
+Il Memming Park|[Real-Time Variational Method for Learning Neural Trajectory and its   Dynamics](http://arxiv.org/abs/2305.11278v1)|2023-05-18 19:52:46+00:00|18-05-2023
+Maxim Raginsky|[A unified framework for information-theoretic generalization bounds](http://arxiv.org/abs/2305.11042v1)|2023-05-18 15:36:20+00:00|18-05-2023
+Aaditya Ramdas|[Counterfactually Comparing Abstaining Classifiers](http://arxiv.org/abs/2305.10564v1)|2023-05-17 20:46:57+00:00|17-05-2023
+Matthew Kothe|[The Principle of Uncertain Maximum Entropy](http://arxiv.org/abs/2305.09868v1)|2023-05-17 00:45:41+00:00|17-05-2023
+Manuel Lama|[Fuzzy Temporal Protoforms for the Quantitative Description of Processes   in Natural Language](http://arxiv.org/abs/2305.09506v1)|2023-05-16 14:59:38+00:00|16-05-2023
+Jens Schlöter|[Sorting and Hypergraph Orientation under Uncertainty with Predictions](http://arxiv.org/abs/2305.09245v1)|2023-05-16 07:52:08+00:00|16-05-2023
+Hongsheng Li|[SUG: Single-dataset Unified Generalization for 3D Point Cloud   Classification](http://arxiv.org/abs/2305.09160v1)|2023-05-16 04:36:04+00:00|16-05-2023
+Hong Wang|[Self-Aware Trajectory Prediction for Safe Autonomous Driving](http://arxiv.org/abs/2305.09147v1)|2023-05-16 03:53:23+00:00|16-05-2023
+Faez Ahmed|[DATED: Guidelines for Creating Synthetic Datasets for Engineering Design   Applications](http://arxiv.org/abs/2305.09018v1)|2023-05-15 21:00:09+00:00|15-05-2023
+Orna Raz|[Automatic Generation of Attention Rules For Containment of Machine   Learning Model Errors](http://arxiv.org/abs/2305.08115v1)|2023-05-14 10:15:35+00:00|14-05-2023
+Amir Khorsandi|[Optimization of Residential Demand Response Program Cost with   Consideration for Occupants Thermal Comfort and Privacy](http://arxiv.org/abs/2305.08077v1)|2023-05-14 05:53:39+00:00|14-05-2023
+
 ## 16-05-2023
 
 main_author|title|update_date|publish_date

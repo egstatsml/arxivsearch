@@ -1,5 +1,36 @@
 # bnn
 Click on title for link to paper
+## 23-05-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Alessandro Sperduti|[RGCVAE: Relational Graph Conditioned Variational Autoencoder for   Molecule Design](http://arxiv.org/abs/2305.11699v1)|2023-05-19 14:23:48+00:00|19-05-2023
+Lee Spector|[Probabilistic Lexicase Selection](http://arxiv.org/abs/2305.11681v1)|2023-05-19 13:57:04+00:00|19-05-2023
+Mengwu Guo|[Bayesian approach to Gaussian process regression with uncertain inputs](http://arxiv.org/abs/2305.11586v1)|2023-05-19 10:53:08+00:00|19-05-2023
+Marco Pavone|[Bayesian Reparameterization of Reward-Conditioned Reinforcement Learning   with Energy-based Models](http://arxiv.org/abs/2305.11340v1)|2023-05-18 23:23:08+00:00|18-05-2023
+Il Memming Park|[Real-Time Variational Method for Learning Neural Trajectory and its   Dynamics](http://arxiv.org/abs/2305.11278v1)|2023-05-18 19:52:46+00:00|18-05-2023
+Benjamin D. Wandelt|[Evidence Networks: simple losses for fast, amortized, neural Bayesian   model comparison](http://arxiv.org/abs/2305.11241v1)|2023-05-18 18:14:53+00:00|18-05-2023
+Thomas Nagler|[Statistical Foundations of Prior-Data Fitted Networks](http://arxiv.org/abs/2305.11097v1)|2023-05-18 16:34:21+00:00|18-05-2023
+Maryam Parsa|[Neuromorphic Bayesian Optimization in Lava](http://arxiv.org/abs/2305.11060v1)|2023-05-18 15:54:23+00:00|18-05-2023
+Laurence Aitchison|[Massively Parallel Reweighted Wake-Sleep](http://arxiv.org/abs/2305.11022v1)|2023-05-18 15:03:56+00:00|18-05-2023
+Christoph Mathys|[The generalized Hierarchical Gaussian Filter](http://arxiv.org/abs/2305.10937v1)|2023-05-18 12:55:31+00:00|18-05-2023
+Xinchao Wang|[Structural Pruning for Diffusion Models](http://arxiv.org/abs/2305.10924v1)|2023-05-18 12:38:21+00:00|18-05-2023
+Luo Mai|[Quiver: Supporting GPUs for Low-Latency, High-Throughput GNN Serving   with Workload Awareness](http://arxiv.org/abs/2305.10863v1)|2023-05-18 10:34:23+00:00|18-05-2023
+Anindya Bhadra|[Posterior Inference on Infinitely Wide Bayesian Neural Networks under   Weights with Unbounded Variance](http://arxiv.org/abs/2305.10664v1)|2023-05-18 02:55:00+00:00|18-05-2023
+Yue Qiu|[Augmented Message Passing Stein Variational Gradient Descent](http://arxiv.org/abs/2305.10636v1)|2023-05-18 01:13:04+00:00|18-05-2023
+Daniel D. Lee|[Sparsity-depth Tradeoff in Infinitely Wide Deep Neural Networks](http://arxiv.org/abs/2305.10550v1)|2023-05-17 20:09:35+00:00|17-05-2023
+Mathias Niepert|[Tractable Probabilistic Graph Representation Learning with Graph-Induced   Sum-Product Networks](http://arxiv.org/abs/2305.10544v1)|2023-05-17 20:02:08+00:00|17-05-2023
+Cees G. M. Snoek|[MetaModulation: Learning Variational Feature Hierarchies for Few-Shot   Learning with Fewer Tasks](http://arxiv.org/abs/2305.10309v1)|2023-05-17 15:47:47+00:00|17-05-2023
+Koujin Takeda|[Automatic Hyperparameter Tuning in Sparse Matrix Factorization](http://arxiv.org/abs/2305.10114v1)|2023-05-17 10:40:17+00:00|17-05-2023
+M. Cerezo|[Deep quantum neural networks form Gaussian processes](http://arxiv.org/abs/2305.09957v1)|2023-05-17 05:32:45+00:00|17-05-2023
+Mykel J. Kochenderfer|[Model-based Validation as Probabilistic Inference](http://arxiv.org/abs/2305.09930v1)|2023-05-17 03:27:36+00:00|17-05-2023
+Carlos Conceição António|[Limit-behavior of a hybrid evolutionary algorithm for the Hasofer-Lind   reliability index problem](http://arxiv.org/abs/2305.09511v1)|2023-05-16 15:03:55+00:00|16-05-2023
+Timo Gerkmann|[Integrating Uncertainty into Neural Network-based Speech Enhancement](http://arxiv.org/abs/2305.08744v1)|2023-05-15 15:55:12+00:00|15-05-2023
+Felix J. Herrmann|[Refining Amortized Posterior Approximations using Gradient-Based Summary   Statistics](http://arxiv.org/abs/2305.08733v1)|2023-05-15 15:47:19+00:00|15-05-2023
+Youzhi Tu|[Self-supervised Neural Factor Analysis for Disentangling Utterance-level   Speech Representations](http://arxiv.org/abs/2305.08099v2)|2023-05-18 10:22:09+00:00|14-05-2023
+Yosi Keller|[Image Segmentation via Probabilistic Graph Matching](http://arxiv.org/abs/2305.07954v1)|2023-05-13 15:56:54+00:00|13-05-2023
+Michael Jong Kim|[Thompson Sampling for Parameterized Markov Decision Processes with   Uninformative Actions](http://arxiv.org/abs/2305.07844v1)|2023-05-13 06:16:39+00:00|13-05-2023
+
 ## 16-05-2023
 
 main_author|title|update_date|publish_date
