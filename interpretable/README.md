@@ -1,5 +1,28 @@
 # interpretable
 Click on title for link to paper
+## 30-05-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Manfred K. Warmuth|[A Mechanism for Sample-Efficient In-Context Learning for Sparse   Retrieval Tasks](http://arxiv.org/abs/2305.17040v1)|2023-05-26 15:49:43+00:00|26-05-2023
+Fisher Yu|[How To Not Train Your Dragon: Training-free Embodied Object Goal   Navigation with Semantic Frontiers](http://arxiv.org/abs/2305.16925v1)|2023-05-26 13:38:33+00:00|26-05-2023
+Tal Kachman|[Explainability Techniques for Chemical Language Models](http://arxiv.org/abs/2305.16192v1)|2023-05-25 15:52:54+00:00|25-05-2023
+Christophe De Vleeschouwer|[An Experimental Investigation into the Evaluation of Explainability   Methods](http://arxiv.org/abs/2305.16361v1)|2023-05-25 08:07:07+00:00|25-05-2023
+Theodore P. Pavlic|[Concept-Centric Transformers: Concept Transformers with Object-Centric   Concept Learning for Interpretability](http://arxiv.org/abs/2305.15775v1)|2023-05-25 06:37:39+00:00|25-05-2023
+Shuming Shi|[Enhancing Grammatical Error Correction Systems with Explanations](http://arxiv.org/abs/2305.15676v1)|2023-05-25 03:00:49+00:00|25-05-2023
+Lei Hou|[Reasoning over Hierarchical Question Decomposition Tree for Explainable   Question Answering](http://arxiv.org/abs/2305.15056v1)|2023-05-24 11:45:59+00:00|24-05-2023
+Philippe Blanc|[Scale Matters: Attribution Meets the Wavelet Domain to Explain Model   Sensitivity to Image Corruptions](http://arxiv.org/abs/2305.14979v1)|2023-05-24 10:13:32+00:00|24-05-2023
+Manabu Okumura|[TACR: A Table-alignment-based Cell-selection and Reasoning Model for   Hybrid Question-Answering](http://arxiv.org/abs/2305.14682v1)|2023-05-24 03:42:44+00:00|24-05-2023
+Smaranda Muresan|[Sociocultural Norm Similarities and Differences via Situational   Alignment and Explainable Textual Entailment](http://arxiv.org/abs/2305.14492v1)|2023-05-23 19:43:47+00:00|23-05-2023
+Alexander M. Rush|[HOP, UNION, GENERATE: Explainable Multi-hop Reasoning without Rationale   Supervision](http://arxiv.org/abs/2305.14237v1)|2023-05-23 16:53:49+00:00|23-05-2023
+Parisa Kordjamshidi|[Teaching Probabilistic Logical Reasoning to Transformers](http://arxiv.org/abs/2305.13179v1)|2023-05-22 16:08:20+00:00|22-05-2023
+Andreas Vlachos|[AVeriTeC: A Dataset for Real-world Claim Verification with Evidence from   the Web](http://arxiv.org/abs/2305.13117v2)|2023-05-24 10:44:08+00:00|22-05-2023
+Shashank Srivastava|[MaNtLE: Model-agnostic Natural Language Explainer](http://arxiv.org/abs/2305.12995v1)|2023-05-22 12:58:06+00:00|22-05-2023
+Xia Hu|[DEGREE: Decomposition Based Explanation For Graph Neural Networks](http://arxiv.org/abs/2305.12895v1)|2023-05-22 10:29:52+00:00|22-05-2023
+Heng Ji|[In-Context Learning of Large Language Models Explained as Kernel   Regression](http://arxiv.org/abs/2305.12766v1)|2023-05-22 06:45:02+00:00|22-05-2023
+Weihua Zhou|[Coronary Artery Semantic Labeling using Edge Attention Graph Matching   Network](http://arxiv.org/abs/2305.12327v1)|2023-05-21 03:14:42+00:00|21-05-2023
+Peter McBurney|[A Measure of Explanatory Effectiveness](http://arxiv.org/abs/2305.12233v1)|2023-05-20 16:52:30+00:00|20-05-2023
+
 ## 23-05-2023
 
 main_author|title|update_date|publish_date

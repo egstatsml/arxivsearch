@@ -1,5 +1,26 @@
 main_author|title|update_date|publish_date
 ---|---|---|---
+Luke Ong|[Exact Bayesian Inference on Discrete Models via Probability Generating   Functions: A Probabilistic Programming Approach](http://arxiv.org/abs/2305.17058v1)|2023-05-26 16:09:59+00:00|26-05-2023
+Julia E. Vogt|[Differentiable Random Partition Models](http://arxiv.org/abs/2305.16841v1)|2023-05-26 11:45:10+00:00|26-05-2023
+Timothy J. Rogers|[A Robust Probabilistic Approach to Stochastic Subspace Identification](http://arxiv.org/abs/2305.16836v1)|2023-05-26 11:26:49+00:00|26-05-2023
+Maarten V. de Hoop|[Martian time-series unraveled: A multi-scale nested approach with   factorial variational autoencoders](http://arxiv.org/abs/2305.16189v1)|2023-05-25 15:49:38+00:00|25-05-2023
+Xipeng Qiu|[Multijugate Dual Learning for Low-Resource Task-Oriented Dialogue System](http://arxiv.org/abs/2305.16106v1)|2023-05-25 14:38:05+00:00|25-05-2023
+Jacob R. Gardner|[Black-Box Variational Inference Converges](http://arxiv.org/abs/2305.15349v1)|2023-05-24 16:59:50+00:00|24-05-2023
+Yi Zhang|[Measuring and Mitigating Constraint Violations of In-Context Learning   for Utterance-to-API Semantic Parsing](http://arxiv.org/abs/2305.15338v1)|2023-05-24 16:50:36+00:00|24-05-2023
+Wenpeng Hu|[EvEval: A Comprehensive Evaluation of Event Semantics for Large Language   Models](http://arxiv.org/abs/2305.15268v1)|2023-05-24 15:55:40+00:00|24-05-2023
+Jakob H. Macke|[Simultaneous identification of models and parameters of scientific   simulators](http://arxiv.org/abs/2305.15174v1)|2023-05-24 14:06:02+00:00|24-05-2023
+Dino Sejdinovic|[Explaining the Uncertain: Stochastic Shapley Values for Gaussian Process   Models](http://arxiv.org/abs/2305.15167v1)|2023-05-24 13:59:03+00:00|24-05-2023
+Dan Klein|[Decomposing Complex Queries for Tip-of-the-tongue Retrieval](http://arxiv.org/abs/2305.15053v1)|2023-05-24 11:43:40+00:00|24-05-2023
+Kuk-Jin Yoon|[Leveraging Future Relationship Reasoning for Vehicle Trajectory   Prediction](http://arxiv.org/abs/2305.14715v1)|2023-05-24 04:33:28+00:00|24-05-2023
+Vlado Menkovski|[Equivariant Neural Simulators for Stochastic Spatiotemporal Dynamics](http://arxiv.org/abs/2305.14286v1)|2023-05-23 17:30:10+00:00|23-05-2023
+Nader Masmoudi|[SEEDS: Exponential SDE Solvers for Fast High-Quality Sampling from   Diffusion Models](http://arxiv.org/abs/2305.14267v1)|2023-05-23 17:19:54+00:00|23-05-2023
+Hak-Keung Lam|[Constrained Proximal Policy Optimization](http://arxiv.org/abs/2305.14216v1)|2023-05-23 16:33:55+00:00|23-05-2023
+Manuel Lama|[Process-To-Text: A Framework for the Quantitative Description of   Processes in Natural Language](http://arxiv.org/abs/2305.14044v1)|2023-05-23 13:14:34+00:00|23-05-2023
+Jonas Latz|[Subsampling Error in Stochastic Gradient Langevin Diffusions](http://arxiv.org/abs/2305.13882v1)|2023-05-23 10:03:40+00:00|23-05-2023
+Fehmi Cirak|[Stochastic PDE representation of random fields for large-scale Gaussian   process regression and statistical finite element analysis](http://arxiv.org/abs/2305.13879v1)|2023-05-23 09:59:31+00:00|23-05-2023
+Ping Luo|[SyNDock: N Rigid Protein Docking via Learnable Group Synchronization](http://arxiv.org/abs/2305.15156v2)|2023-05-25 01:27:47+00:00|23-05-2023
+Parisa Kordjamshidi|[Teaching Probabilistic Logical Reasoning to Transformers](http://arxiv.org/abs/2305.13179v1)|2023-05-22 16:08:20+00:00|22-05-2023
+---|---|---|---
 Hanbyul Joo|[Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D   Diffusion Probabilistic Models](http://arxiv.org/abs/2305.11870v1)|2023-05-19 17:59:18+00:00|19-05-2023
 Mengwu Guo|[Bayesian approach to Gaussian process regression with uncertain inputs](http://arxiv.org/abs/2305.11586v1)|2023-05-19 10:53:08+00:00|19-05-2023
 Richard H. R. Hahnloser|[Unsupervised Scientific Abstract Segmentation with Normalized Mutual   Information](http://arxiv.org/abs/2305.11553v1)|2023-05-19 09:53:45+00:00|19-05-2023
