@@ -1,5 +1,26 @@
 # variational
 Click on title for link to paper
+## 06-06-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Konrad Wagstyl|[Robust and Generalisable Segmentation of Subtle Epilepsy-causing   Lesions: a Graph Convolutional Approach](http://arxiv.org/abs/2306.01375v2)|2023-06-05 14:25:53+00:00|02-06-2023
+Rishabh Iyer|[Beyond Active Learning: Leveraging the Full Potential of Human   Interaction via Auto-Labeling, Human Correction, and Human Verification](http://arxiv.org/abs/2306.01277v1)|2023-06-02 05:40:11+00:00|02-06-2023
+Guy Tennenholtz|[A Convex Relaxation Approach to Bayesian Regret Minimization in Offline   Bandits](http://arxiv.org/abs/2306.01237v1)|2023-06-02 02:05:02+00:00|02-06-2023
+Onur Beker|[A Probabilistic Relaxation of the Two-Stage Object Pose Estimation   Paradigm](http://arxiv.org/abs/2306.00892v1)|2023-06-01 16:50:40+00:00|01-06-2023
+Guillermo Paniagua|[Deep Operator Learning-based Surrogate Models with Uncertainty   Quantification for Optimizing Internal Cooling Channel Rib Profiles](http://arxiv.org/abs/2306.00810v1)|2023-06-01 15:37:47+00:00|01-06-2023
+Andrew Gordon Wilson|[A Study of Bayesian Neural Network Surrogates for Bayesian Optimization](http://arxiv.org/abs/2305.20028v1)|2023-05-31 17:00:00+00:00|31-05-2023
+Alexander Gray|[Scalable Learning of Latent Language Structure With Logical Offline   Cycle Consistency](http://arxiv.org/abs/2305.20018v1)|2023-05-31 16:47:20+00:00|31-05-2023
+Ramses J. Sanchez|[Neural Markov Jump Processes](http://arxiv.org/abs/2305.19744v1)|2023-05-31 11:10:29+00:00|31-05-2023
+Kevin Murphy|[Low-rank extended Kalman filtering for online learning of neural   networks from streaming data](http://arxiv.org/abs/2305.19535v1)|2023-05-31 03:48:49+00:00|31-05-2023
+Wei Deng|[Non-convex Bayesian Learning via Stochastic Gradient Markov Chain Monte   Carlo](http://arxiv.org/abs/2305.19350v1)|2023-05-30 18:25:11+00:00|30-05-2023
+Jianfeng Feng|[Probabilistic Computation with Emerging Covariance: Towards Efficient   Uncertainty Quantification](http://arxiv.org/abs/2305.19265v2)|2023-05-31 08:14:36+00:00|30-05-2023
+Arman Hasanzadeh|[Adaptive Conditional Quantile Neural Processes](http://arxiv.org/abs/2305.18777v1)|2023-05-30 06:19:19+00:00|30-05-2023
+Simon Maskell|[Bayesian Decision Trees Inspired from Evolutionary Algorithms](http://arxiv.org/abs/2305.18774v1)|2023-05-30 06:17:35+00:00|30-05-2023
+Sebastian Hönel|[Leveraging Evolutionary Changes for Software Process Quality](http://arxiv.org/abs/2305.18061v1)|2023-05-29 12:57:14+00:00|29-05-2023
+Simon Olsson|[Implicit Transfer Operator Learning: Multiple Time-Resolution Surrogates   for Molecular Dynamics](http://arxiv.org/abs/2305.18046v1)|2023-05-29 12:19:41+00:00|29-05-2023
+Dheeraj Nagaraj|[Provably Fast Finite Particle Variants of SVGD via Virtual Particle   Stochastic Approximation](http://arxiv.org/abs/2305.17558v1)|2023-05-27 19:21:28+00:00|27-05-2023
+
 ## 30-05-2023
 
 main_author|title|update_date|publish_date

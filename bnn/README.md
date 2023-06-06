@@ -1,5 +1,55 @@
 # bnn
 Click on title for link to paper
+## 06-06-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Laurent Schmalen|[Local Message Passing on Frustrated Systems](http://arxiv.org/abs/2306.01494v1)|2023-06-02 12:42:09+00:00|02-06-2023
+Theodoros Damoulas|[Robust Bayesian Inference for Measurement Error Models](http://arxiv.org/abs/2306.01468v1)|2023-06-02 11:48:15+00:00|02-06-2023
+Jiliang Tang|[Demystifying Structural Disparity in Graph Neural Networks: Can One Size   Fit All?](http://arxiv.org/abs/2306.01323v1)|2023-06-02 07:46:20+00:00|02-06-2023
+Guy Tennenholtz|[A Convex Relaxation Approach to Bayesian Regret Minimization in Offline   Bandits](http://arxiv.org/abs/2306.01237v1)|2023-06-02 02:05:02+00:00|02-06-2023
+Yun Yang|[On the Convergence of Coordinate Ascent Variational Inference](http://arxiv.org/abs/2306.01122v1)|2023-06-01 20:19:30+00:00|01-06-2023
+Vahid Babaei|[Large-Batch, Neural Multi-Objective Bayesian Optimization](http://arxiv.org/abs/2306.01095v1)|2023-06-01 19:10:57+00:00|01-06-2023
+Onur Beker|[A Probabilistic Relaxation of the Two-Stage Object Pose Estimation   Paradigm](http://arxiv.org/abs/2306.00892v1)|2023-06-01 16:50:40+00:00|01-06-2023
+Reza Samavi|[Quantifying Deep Learning Model Uncertainty in Conformal Prediction](http://arxiv.org/abs/2306.00876v1)|2023-06-01 16:37:50+00:00|01-06-2023
+Guillermo Paniagua|[Deep Operator Learning-based Surrogate Models with Uncertainty   Quantification for Optimizing Internal Cooling Channel Rib Profiles](http://arxiv.org/abs/2306.00810v1)|2023-06-01 15:37:47+00:00|01-06-2023
+Efthymia Tsamoura|[Parallel Neurosymbolic Integration with Concordia](http://arxiv.org/abs/2306.00480v1)|2023-06-01 09:30:24+00:00|01-06-2023
+Tara N. Sainath|[How to Estimate Model Transferability of Pre-Trained Speech Models?](http://arxiv.org/abs/2306.01015v1)|2023-06-01 04:52:26+00:00|01-06-2023
+Veronika Rockova|[On Mixing Rates for Bayesian CART](http://arxiv.org/abs/2306.00126v1)|2023-05-31 19:04:28+00:00|31-05-2023
+Andrew Gordon Wilson|[A Study of Bayesian Neural Network Surrogates for Bayesian Optimization](http://arxiv.org/abs/2305.20028v1)|2023-05-31 17:00:00+00:00|31-05-2023
+Ilias Bilionis|[Learning to solve Bayesian inverse problems: An amortized variational   inference approach](http://arxiv.org/abs/2305.20004v1)|2023-05-31 16:25:07+00:00|31-05-2023
+Akira Taniguchi|[Metropolis-Hastings algorithm in joint-attention naming game:   Experimental semiotics study](http://arxiv.org/abs/2305.19936v1)|2023-05-31 15:20:54+00:00|31-05-2023
+H Juliette T Unwin|[Deep learning and MCMC with aggVAE for shifting administrative   boundaries: mapping malaria prevalence in Kenya](http://arxiv.org/abs/2305.19779v1)|2023-05-31 12:12:40+00:00|31-05-2023
+Yoshinobu Hagiwara|[Recursive Metropolis-Hastings Naming Game: Symbol Emergence in a   Multi-agent System based on Probabilistic Generative Models](http://arxiv.org/abs/2305.19761v1)|2023-05-31 11:46:13+00:00|31-05-2023
+Kevin Murphy|[Low-rank extended Kalman filtering for online learning of neural   networks from streaming data](http://arxiv.org/abs/2305.19535v1)|2023-05-31 03:48:49+00:00|31-05-2023
+Zhaoran Wang|[What and How does In-Context Learning Learn? Bayesian Model Averaging,   Parameterization, and Generalization](http://arxiv.org/abs/2305.19420v1)|2023-05-30 21:23:47+00:00|30-05-2023
+Brenden M. Lake|[Compositional diversity in visual concept learning](http://arxiv.org/abs/2305.19374v1)|2023-05-30 19:30:50+00:00|30-05-2023
+Yoshua Bengio|[Joint Bayesian Inference of Graphical Structure and Parameters with a   Single Generative Flow Network](http://arxiv.org/abs/2305.19366v1)|2023-05-30 19:16:44+00:00|30-05-2023
+Wei Deng|[Non-convex Bayesian Learning via Stochastic Gradient Markov Chain Monte   Carlo](http://arxiv.org/abs/2305.19350v1)|2023-05-30 18:25:11+00:00|30-05-2023
+Hichem Sahbi|[Budget-Aware Graph Convolutional Network Design using Probabilistic   Magnitude Pruning](http://arxiv.org/abs/2305.19343v1)|2023-05-30 18:12:13+00:00|30-05-2023
+Jonas El Gammal|[Parallelized Acquisition for Active Learning using Monte Carlo Sampling](http://arxiv.org/abs/2305.19267v1)|2023-05-30 17:57:34+00:00|30-05-2023
+Jianfeng Feng|[Probabilistic Computation with Emerging Covariance: Towards Efficient   Uncertainty Quantification](http://arxiv.org/abs/2305.19265v2)|2023-05-31 08:14:36+00:00|30-05-2023
+José Miguel Hernández-Lobato|[Compression with Bayesian Implicit Neural Representations](http://arxiv.org/abs/2305.19185v1)|2023-05-30 16:29:52+00:00|30-05-2023
+Damon J. Wischik|[Taylorformer: Probabilistic Predictions for Time Series and other   Processes](http://arxiv.org/abs/2305.19141v1)|2023-05-30 15:50:24+00:00|30-05-2023
+Koichi Nishiwaki|[A Probabilistic Rotation Representation for Symmetric Shapes With an   Efficiently Computable Bingham Loss Function](http://arxiv.org/abs/2305.18947v1)|2023-05-30 11:26:18+00:00|30-05-2023
+Wenjie Du|[PyPOTS: A Python Toolbox for Data Mining on Partially-Observed Time   Series](http://arxiv.org/abs/2305.18811v1)|2023-05-30 07:57:05+00:00|30-05-2023
+Qingsong Wang|[It begins with a boundary: A geometric view on probabilistically robust   learning](http://arxiv.org/abs/2305.18779v1)|2023-05-30 06:24:30+00:00|30-05-2023
+Arman Hasanzadeh|[Adaptive Conditional Quantile Neural Processes](http://arxiv.org/abs/2305.18777v1)|2023-05-30 06:19:19+00:00|30-05-2023
+Simon Maskell|[Bayesian Decision Trees Inspired from Evolutionary Algorithms](http://arxiv.org/abs/2305.18774v1)|2023-05-30 06:17:35+00:00|30-05-2023
+Roger Zimmermann|[Graph Neural Processes for Spatio-Temporal Extrapolation](http://arxiv.org/abs/2305.18719v1)|2023-05-30 03:55:37+00:00|30-05-2023
+Siamak Ravanbakhsh|[On Diffusion Modeling for Anomaly Detection](http://arxiv.org/abs/2305.18593v1)|2023-05-29 20:19:45+00:00|29-05-2023
+Stéphane Mallat|[A Rainbow in Deep Network Black Boxes](http://arxiv.org/abs/2305.18512v1)|2023-05-29 17:09:26+00:00|29-05-2023
+Sebastian Hönel|[Leveraging Evolutionary Changes for Software Process Quality](http://arxiv.org/abs/2305.18061v1)|2023-05-29 12:57:14+00:00|29-05-2023
+Yongdai Kim|[A Bayesian sparse factor model with adaptive posterior concentration](http://arxiv.org/abs/2305.18488v1)|2023-05-29 12:41:32+00:00|29-05-2023
+Frank Neumann|[Improving Confidence in Evolutionary Mine Scheduling via Uncertainty   Discounting](http://arxiv.org/abs/2305.17957v1)|2023-05-29 08:43:09+00:00|29-05-2023
+Maarten V. de Hoop|[Conditional score-based diffusion models for Bayesian inference in   infinite dimensions](http://arxiv.org/abs/2305.19147v1)|2023-05-28 15:34:15+00:00|28-05-2023
+Xinyu Yang|[Learning a Structural Causal Model for Intuition Reasoning in   Conversation](http://arxiv.org/abs/2305.17727v1)|2023-05-28 13:54:09+00:00|28-05-2023
+David Page|[On Neural Networks as Infinite Tree-Structured Probabilistic Graphical   Models](http://arxiv.org/abs/2305.17583v1)|2023-05-27 21:32:28+00:00|27-05-2023
+Aaditya Ramdas|[Auditing Fairness by Betting](http://arxiv.org/abs/2305.17570v1)|2023-05-27 20:14:11+00:00|27-05-2023
+Frank Hutter|[PFNs4BO: In-Context Learning for Bayesian Optimization](http://arxiv.org/abs/2305.17535v2)|2023-06-05 17:05:51+00:00|27-05-2023
+Biplab Banerjee|[USIM-DAL: Uncertainty-aware Statistical Image Modeling-based Dense   Active Learning for Super-resolution](http://arxiv.org/abs/2305.17520v1)|2023-05-27 16:33:43+00:00|27-05-2023
+Pratik Chaudhari|[Learning Capacity: A Measure of the Effective Dimensionality of a Model](http://arxiv.org/abs/2305.17332v1)|2023-05-27 02:27:27+00:00|27-05-2023
+
 ## 30-05-2023
 
 main_author|title|update_date|publish_date

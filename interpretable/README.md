@@ -1,5 +1,31 @@
 # interpretable
 Click on title for link to paper
+## 06-06-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Sujith K Mandala|[XAI Renaissance: Redefining Interpretability in Medical Diagnostic   Models](http://arxiv.org/abs/2306.01668v1)|2023-06-02 16:42:20+00:00|02-06-2023
+Soumia Zohra El Mestari|[The Flawed Foundations of Fair Machine Learning](http://arxiv.org/abs/2306.01417v1)|2023-06-02 10:07:12+00:00|02-06-2023
+Halil Kilicoglu|[Examining the Causal Effect of First Names on Language Models: The Case   of Social Commonsense Reasoning](http://arxiv.org/abs/2306.01117v1)|2023-06-01 20:05:05+00:00|01-06-2023
+Boris Babenko|[Using generative AI to investigate medical imagery models and datasets](http://arxiv.org/abs/2306.00985v1)|2023-06-01 17:59:55+00:00|01-06-2023
+Anders Søgaard|[Being Right for Whose Right Reasons?](http://arxiv.org/abs/2306.00639v1)|2023-06-01 13:06:43+00:00|01-06-2023
+Ofir Lindenbaum|[Neuronal Cell Type Classification using Deep Learning](http://arxiv.org/abs/2306.00528v1)|2023-06-01 10:28:49+00:00|01-06-2023
+Gordon L Kindlmann|[Evaluating Machine Learning Models with NERO: Non-Equivariance Revealed   on Orbits](http://arxiv.org/abs/2305.19889v1)|2023-05-31 14:24:35+00:00|31-05-2023
+Derek F. Wong|[How Does Pretraining Improve Discourse-Aware Translation?](http://arxiv.org/abs/2305.19847v1)|2023-05-31 13:36:51+00:00|31-05-2023
+Seong Joon Oh|[A Bayesian Perspective On Training Data Attribution](http://arxiv.org/abs/2305.19765v1)|2023-05-31 11:52:20+00:00|31-05-2023
+Jiebo Luo|[Unveiling Cross Modality Bias in Visual Question Answering: A Causal   View with Possible Worlds VQA](http://arxiv.org/abs/2305.19664v1)|2023-05-31 09:02:58+00:00|31-05-2023
+Hima Lakkaraju|[Which Models have Perceptually-Aligned Gradients? An Explanation via   Off-Manifold Robustness](http://arxiv.org/abs/2305.19101v1)|2023-05-30 15:06:02+00:00|30-05-2023
+Guannan Zhang|[Who Would be Interested in Services? An Entity Graph Learning System for   User Targeting](http://arxiv.org/abs/2305.18780v1)|2023-05-30 06:24:50+00:00|30-05-2023
+Bonnie J. Dorr|[LonXplain: Lonesomeness as a Consequence of Mental Disturbance in Reddit   Posts](http://arxiv.org/abs/2305.18736v1)|2023-05-30 04:21:24+00:00|30-05-2023
+Franco Turini|[Reason to explain: Interactive contrastive explanations (REASONX)](http://arxiv.org/abs/2305.18143v1)|2023-05-29 15:13:46+00:00|29-05-2023
+Ajitha Rajan|[Can We Trust Explainable AI Methods on ASR? An Evaluation on Phoneme   Recognition](http://arxiv.org/abs/2305.18011v1)|2023-05-29 11:04:13+00:00|29-05-2023
+Naoki Abe|[Black-Box Anomaly Attribution](http://arxiv.org/abs/2305.18440v1)|2023-05-29 01:42:32+00:00|29-05-2023
+Xinyu Yang|[Learning a Structural Causal Model for Intuition Reasoning in   Conversation](http://arxiv.org/abs/2305.17727v1)|2023-05-28 13:54:09+00:00|28-05-2023
+Roy Ka-Wei Lee|[Decoding the Underlying Meaning of Multimodal Hateful Memes](http://arxiv.org/abs/2305.17678v1)|2023-05-28 10:02:59+00:00|28-05-2023
+Eric V. Strobl|[Counterfactual Formulation of Patient-Specific Root Causes of Disease](http://arxiv.org/abs/2305.17574v2)|2023-05-31 22:16:20+00:00|27-05-2023
+Jun Sakuma|[Statistically Significant Concept-based Explanation of Image Classifiers   via Model Knockoffs](http://arxiv.org/abs/2305.18362v2)|2023-05-31 03:20:18+00:00|27-05-2023
+Haifeng Chen|[DNA-GPT: Divergent N-Gram Analysis for Training-Free Detection of   GPT-Generated Text](http://arxiv.org/abs/2305.17359v1)|2023-05-27 03:58:29+00:00|27-05-2023
+
 ## 30-05-2023
 
 main_author|title|update_date|publish_date
