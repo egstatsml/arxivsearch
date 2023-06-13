@@ -1,5 +1,29 @@
 # mcmc
 Click on title for link to paper
+## 13-06-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Chao Chen|[Topology-Aware Uncertainty for Image Segmentation](http://arxiv.org/abs/2306.05671v1)|2023-06-09 05:01:55+00:00|09-06-2023
+Gregory W. Wornell|[SGLD-Based Information Criteria and the Over-Parameterized Regime](http://arxiv.org/abs/2306.05583v1)|2023-06-08 22:54:48+00:00|08-06-2023
+Le Sun|[ToolAlpaca: Generalized Tool Learning for Language Models with 3000   Simulated Cases](http://arxiv.org/abs/2306.05301v1)|2023-06-08 15:46:32+00:00|08-06-2023
+Shanghang Zhang|[ViDA: Homeostatic Visual Domain Adapter for Continual Test Time   Adaptation](http://arxiv.org/abs/2306.04344v1)|2023-06-07 11:18:53+00:00|07-06-2023
+Ljubisa Bojic|[Personality testing of GPT-3: Limited temporal reliability, but   highlighted social desirability of GPT-3's personality instruments results](http://arxiv.org/abs/2306.04308v1)|2023-06-07 10:14:17+00:00|07-06-2023
+Maarten De Vos|[U-PASS: an Uncertainty-guided deep learning Pipeline for Automated Sleep   Staging](http://arxiv.org/abs/2306.04663v1)|2023-06-07 08:27:36+00:00|07-06-2023
+Tobias Sutter|[End-to-End Learning for Stochastic Optimization: A Bayesian Perspective](http://arxiv.org/abs/2306.04174v2)|2023-06-11 10:29:32+00:00|07-06-2023
+Anoop Cherian|[Active Sparse Conversations for Improved Audio-Visual Embodied   Navigation](http://arxiv.org/abs/2306.04047v1)|2023-06-06 22:32:49+00:00|06-06-2023
+Bernhard Schölkopf|[Stochastic Marginal Likelihood Gradients using Neural Tangent Kernels](http://arxiv.org/abs/2306.03968v1)|2023-06-06 19:02:57+00:00|06-06-2023
+Goran Radanovic|[Sequential Principal-Agent Problems with Communication: Efficient   Computation and Learning](http://arxiv.org/abs/2306.03832v1)|2023-06-06 16:20:44+00:00|06-06-2023
+Dawei Song|[A Survey of Quantum-Cognitively Inspired Sentiment Analysis Models](http://arxiv.org/abs/2306.03608v1)|2023-06-06 11:54:48+00:00|06-06-2023
+Yulan He|[CUE: An Uncertainty Interpretation Framework for Text Classifiers Built   on Pre-Trained Language Models](http://arxiv.org/abs/2306.03598v1)|2023-06-06 11:37:46+00:00|06-06-2023
+Michael Hinczewski|[Machine learning in and out of equilibrium](http://arxiv.org/abs/2306.03521v1)|2023-06-06 09:12:49+00:00|06-06-2023
+Charles Patrick Martin|[Latent Optimal Paths by Gumbel Propagation for Variational Bayesian   Dynamic Programming](http://arxiv.org/abs/2306.02568v1)|2023-06-05 03:47:59+00:00|05-06-2023
+Baskar Ganapathysubramanian|[Deep learning powered real-time identification of insects using citizen   science data](http://arxiv.org/abs/2306.02507v1)|2023-06-04 23:56:53+00:00|04-06-2023
+Robert Gower|[Provable convergence guarantees for black-box variational inference](http://arxiv.org/abs/2306.03638v1)|2023-06-04 11:31:41+00:00|04-06-2023
+Ilias Bilionis|[An information field theory approach to Bayesian state and parameter   estimation in dynamical systems](http://arxiv.org/abs/2306.02150v1)|2023-06-03 16:36:43+00:00|03-06-2023
+Arno Solin|[Variational Gaussian Process Diffusion Processes](http://arxiv.org/abs/2306.02066v1)|2023-06-03 09:43:59+00:00|03-06-2023
+Rose Yu|[DYffusion: A Dynamics-informed Diffusion Model for Spatiotemporal   Forecasting](http://arxiv.org/abs/2306.01984v1)|2023-06-03 02:46:31+00:00|03-06-2023
+
 ## 06-06-2023
 
 main_author|title|update_date|publish_date

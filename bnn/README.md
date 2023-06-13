@@ -1,5 +1,49 @@
 # bnn
 Click on title for link to paper
+## 13-06-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Hao Wang|[Self-Interpretable Time Series Prediction with Counterfactual   Explanations](http://arxiv.org/abs/2306.06024v1)|2023-06-09 16:42:52+00:00|09-06-2023
+Bert de Vries|[Automating Model Comparison in Factor Graphs](http://arxiv.org/abs/2306.05965v1)|2023-06-09 15:33:30+00:00|09-06-2023
+Jianhua Tao|[Boosting Fast and High-Quality Speech Synthesis with Linear Diffusion](http://arxiv.org/abs/2306.05708v2)|2023-06-12 06:12:41+00:00|09-06-2023
+Chao Chen|[Topology-Aware Uncertainty for Image Segmentation](http://arxiv.org/abs/2306.05671v1)|2023-06-09 05:01:55+00:00|09-06-2023
+Martin Lysy|[Data-Adaptive Probabilistic Likelihood Approximation for Ordinary   Differential Equations](http://arxiv.org/abs/2306.05566v1)|2023-06-08 21:18:25+00:00|08-06-2023
+Bohan Wu|[Monte Carlo inference for semiparametric Bayesian regression](http://arxiv.org/abs/2306.05498v1)|2023-06-08 18:42:42+00:00|08-06-2023
+Maximilian Schiffer|[Ambulance Demand Prediction via Convolutional Neural Networks](http://arxiv.org/abs/2306.04994v1)|2023-06-08 07:29:42+00:00|08-06-2023
+Zhihua Zhang|[Entropy-based Training Methods for Scalable Neural Implicit Sampler](http://arxiv.org/abs/2306.04952v1)|2023-06-08 05:56:05+00:00|08-06-2023
+Chee Pin Tan|[Unsupervised Cross-Domain Soft Sensor Modelling via Deep   Physics-Inspired Particle Flow Bayes](http://arxiv.org/abs/2306.04919v2)|2023-06-09 20:50:27+00:00|08-06-2023
+Assad A. Oberai|[Solution of physics-based inverse problems using conditional generative   adversarial networks with full gradient penalty](http://arxiv.org/abs/2306.04895v1)|2023-06-08 02:49:12+00:00|08-06-2023
+Souvik Chakraborty|[A Bayesian Framework for learning governing Partial Differential   Equation from Data](http://arxiv.org/abs/2306.04894v1)|2023-06-08 02:48:37+00:00|08-06-2023
+Benjamin Guedj|[Learning via Wasserstein-Based High Probability Generalisation Bounds](http://arxiv.org/abs/2306.04375v1)|2023-06-07 12:17:17+00:00|07-06-2023
+Dinh Phung|[Optimal Transport Model Distributional Robustness](http://arxiv.org/abs/2306.04178v1)|2023-06-07 06:15:12+00:00|07-06-2023
+Tobias Sutter|[End-to-End Learning for Stochastic Optimization: A Bayesian Perspective](http://arxiv.org/abs/2306.04174v2)|2023-06-11 10:29:32+00:00|07-06-2023
+Maarten V. de Hoop|[Globally injective and bijective neural operators](http://arxiv.org/abs/2306.03982v1)|2023-06-06 19:35:09+00:00|06-06-2023
+Bernhard Schölkopf|[Stochastic Marginal Likelihood Gradients using Neural Tangent Kernels](http://arxiv.org/abs/2306.03968v1)|2023-06-06 19:02:57+00:00|06-06-2023
+Mohammad Emtiyaz Khan|[Memory-Based Dual Gaussian Processes for Sequential Learning](http://arxiv.org/abs/2306.03566v1)|2023-06-06 10:34:03+00:00|06-06-2023
+Michael Hinczewski|[Machine learning in and out of equilibrium](http://arxiv.org/abs/2306.03521v1)|2023-06-06 09:12:49+00:00|06-06-2023
+Xiang Bai|[Looking and Listening: Audio Guided Text Recognition](http://arxiv.org/abs/2306.03482v1)|2023-06-06 08:08:18+00:00|06-06-2023
+Nal Kalchbrenner|[Deep Learning for Day Forecasts from Sparse Observations](http://arxiv.org/abs/2306.06079v2)|2023-06-12 10:48:25+00:00|06-06-2023
+Fabio Ramos|[Learning to Simulate Tree-Branch Dynamics for Manipulation](http://arxiv.org/abs/2306.03410v1)|2023-06-06 05:17:02+00:00|06-06-2023
+Scott W. Linderman|[Switching Autoregressive Low-rank Tensor Models](http://arxiv.org/abs/2306.03291v2)|2023-06-07 00:35:34+00:00|05-06-2023
+Vikash K. Mansinghka|[Sequential Monte Carlo Steering of Large Language Models using   Probabilistic Programs](http://arxiv.org/abs/2306.03081v1)|2023-06-05 17:55:05+00:00|05-06-2023
+Syed Mir|[Interval Load Forecasting for Individual Households in the Presence of   Electric Vehicle Charging](http://arxiv.org/abs/2306.03010v1)|2023-06-05 16:25:33+00:00|05-06-2023
+Pier Luigi Dragotti|[INDigo: An INN-Guided Probabilistic Diffusion Algorithm for Inverse   Problems](http://arxiv.org/abs/2306.02949v1)|2023-06-05 15:14:47+00:00|05-06-2023
+Mark van der Wilk|[Causal Discovery using Bayesian Model Selection](http://arxiv.org/abs/2306.02931v1)|2023-06-05 14:51:05+00:00|05-06-2023
+Kevin Ellis|[Modeling Human-like Concept Learning with Bayesian Inference over   Natural Language](http://arxiv.org/abs/2306.02797v1)|2023-06-05 11:46:45+00:00|05-06-2023
+Souhaib Ben Taieb|[A Large-Scale Study of Probabilistic Calibration in Neural Network   Regression](http://arxiv.org/abs/2306.02738v2)|2023-06-07 10:42:23+00:00|05-06-2023
+Lenka Zdeborová|[Gibbs Sampling the Posterior of Neural Networks](http://arxiv.org/abs/2306.02729v1)|2023-06-05 09:26:38+00:00|05-06-2023
+Marco Lorenzi|[Faster Training of Diffusion Models and Improved Density Estimation via   Parallel Score Matching](http://arxiv.org/abs/2306.02658v1)|2023-06-05 07:47:30+00:00|05-06-2023
+Charles Patrick Martin|[Latent Optimal Paths by Gumbel Propagation for Variational Bayesian   Dynamic Programming](http://arxiv.org/abs/2306.02568v1)|2023-06-05 03:47:59+00:00|05-06-2023
+Patrick Shafto|[Coupled Variational Autoencoder](http://arxiv.org/abs/2306.02565v1)|2023-06-05 03:36:31+00:00|05-06-2023
+Abolfazl Razi|[Learning on Bandwidth Constrained Multi-Source Data with MIMO-inspired   DPP MAP Inference](http://arxiv.org/abs/2306.02497v1)|2023-06-04 22:16:49+00:00|04-06-2023
+Saikat Chatterjee|[DANSE: Data-driven Non-linear State Estimation of Model-free Process in   Unsupervised Learning Setup](http://arxiv.org/abs/2306.03897v1)|2023-06-04 15:03:39+00:00|04-06-2023
+Piyush M. Mehta|[Probabilistic Solar Proxy Forecasting with Neural Network Ensembles](http://arxiv.org/abs/2306.02169v1)|2023-06-03 18:22:01+00:00|03-06-2023
+Ilias Bilionis|[An information field theory approach to Bayesian state and parameter   estimation in dynamical systems](http://arxiv.org/abs/2306.02150v1)|2023-06-03 16:36:43+00:00|03-06-2023
+Arno Solin|[Variational Gaussian Process Diffusion Processes](http://arxiv.org/abs/2306.02066v1)|2023-06-03 09:43:59+00:00|03-06-2023
+Joshua J. Turner|[Machine learning enabled experimental design and parameter estimation   for ultrafast spin dynamics](http://arxiv.org/abs/2306.02015v1)|2023-06-03 06:19:20+00:00|03-06-2023
+Rose Yu|[DYffusion: A Dynamics-informed Diffusion Model for Spatiotemporal   Forecasting](http://arxiv.org/abs/2306.01984v1)|2023-06-03 02:46:31+00:00|03-06-2023
+
 ## 06-06-2023
 
 main_author|title|update_date|publish_date
