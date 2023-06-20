@@ -1,5 +1,20 @@
 # interpretable
 Click on title for link to paper
+## 20-06-2023
+
+main_author|title|update_date|publish_date
+---|---|---|---
+Özgür Şimşek|[Explaining Reinforcement Learning with Shapley Values](http://arxiv.org/abs/2306.05810v1)|2023-06-09 10:52:39+00:00|09-06-2023
+Dacheng Tao|[Understanding How Consistency Works in Federated Learning via Stage-wise   Relaxed Initialization](http://arxiv.org/abs/2306.05706v1)|2023-06-09 06:55:15+00:00|09-06-2023
+Ion Stoica|[Judging LLM-as-a-judge with MT-Bench and Chatbot Arena](http://arxiv.org/abs/2306.05685v1)|2023-06-09 05:55:52+00:00|09-06-2023
+Kun Zhang|[Understanding Masked Autoencoders via Hierarchical Latent Variable   Models](http://arxiv.org/abs/2306.04898v1)|2023-06-08 03:00:10+00:00|08-06-2023
+Been Kim|[Don't trust your eyes: on the (un)reliability of feature visualizations](http://arxiv.org/abs/2306.04719v1)|2023-06-07 18:31:39+00:00|07-06-2023
+Gabriel Loaiza-Ganem|[Exposing flaws of generative model evaluation metrics and their unfair   treatment of diffusion models](http://arxiv.org/abs/2306.04675v1)|2023-06-07 18:00:00+00:00|07-06-2023
+Michiaki Tatsubori|[Utterance Classification with Logical Neural Network: Explainable AI for   Mental Disorder Diagnosis](http://arxiv.org/abs/2306.03902v1)|2023-06-06 17:58:44+00:00|06-06-2023
+Julia E. Vogt|[(Un)reasonable Allure of Ante-hoc Interpretability for High-stakes   Domains: Transparency Is Necessary but Insufficient for Explainability](http://arxiv.org/abs/2306.02312v1)|2023-06-04 09:34:41+00:00|04-06-2023
+Rebecca L. Davis|[Mitigating Molecular Aggregation in Drug Discovery with Predictive   Insights from Explainable AI](http://arxiv.org/abs/2306.02206v1)|2023-06-03 22:30:45+00:00|03-06-2023
+Maarten Sap|[COBRA Frames: Contextual Reasoning about Effects and Harms of Offensive   Statements](http://arxiv.org/abs/2306.01985v2)|2023-06-09 01:49:06+00:00|03-06-2023
+
 ## 13-06-2023
 
 main_author|title|update_date|publish_date
