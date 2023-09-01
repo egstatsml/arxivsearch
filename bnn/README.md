@@ -260,7 +260,7 @@ Jie Chen|[Communication-Efficient Graph Neural Networks with Probabilistic   Nei
 Constantine Lignos|[What changes when you randomly choose BPE merge operations? Not much](http://arxiv.org/abs/2305.03029v1)|2023-05-04 17:53:27+00:00|04-05-2023
 Fengying Yan|[LayoutDM: Transformer-based Diffusion Model for Layout Generation](http://arxiv.org/abs/2305.02567v1)|2023-05-04 05:51:35+00:00|04-05-2023
 Jan-Willem van de Meent|[String Diagrams with Factorized Densities](http://arxiv.org/abs/2305.02506v1)|2023-05-04 02:30:44+00:00|04-05-2023
-Arthur Dubois|[Bayesian Safety Validation for Black-Box Systems](http://arxiv.org/abs/2305.02449v1)|2023-05-03 22:22:48+00:00|03-05-2023
+Robert J. Moss|[Bayesian Safety Validation for Black-Box Systems](http://arxiv.org/abs/2305.02449v1)|2023-05-03 22:22:48+00:00|03-05-2023
 Kevin Vanslette|[Inferential Moments of Uncertain Multivariable Systems](http://arxiv.org/abs/2305.01841v1)|2023-05-03 00:56:12+00:00|03-05-2023
 Qi Long|[MISNN: Multiple Imputation via Semi-parametric Neural Networks](http://arxiv.org/abs/2305.01794v1)|2023-05-02 21:45:36+00:00|02-05-2023
 Hong Yu|[Vision Meets Definitions: Unsupervised Visual Word Sense Disambiguation   Incorporating Gloss Information](http://arxiv.org/abs/2305.01788v1)|2023-05-02 21:33:10+00:00|02-05-2023
